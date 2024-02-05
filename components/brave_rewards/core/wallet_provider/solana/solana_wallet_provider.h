@@ -13,6 +13,7 @@
 #include "brave/components/brave_rewards/core/endpoints/brave/post_challenges.h"
 #include "brave/components/brave_rewards/core/rewards_engine_helper.h"
 #include "brave/components/brave_rewards/core/wallet_provider/wallet_provider.h"
+#include "brave/components/futures/future.h"
 
 namespace brave_rewards::internal {
 
@@ -36,19 +37,13 @@ class SolanaWalletProvider : public RewardsEngineHelper,
 
   void OnWalletLinked(const std::string& address) override;
 
-  void PollWalletStatus();
+  auto GetWeakPtr() { return weak_factory_.GetWeakPtr(); }
 
  private:
-  void OnPostChallengesResponse(BeginExternalWalletLoginCallback callback,
-                                endpoints::PostChallenges::Result result);
+  futures::Future<mojom::ExternalWalletLoginParamsPtr> BeginLogin();
+  futures::Future<void> PollForLinkage();
+  futures::Future<std::optional<double>> FetchBalance();
 
-  void OnAccountBalanceFetched(
-      base::OnceCallback<void(mojom::Result, double)> callback,
-      mojom::SolanaAccountBalancePtr balance);
-
-  void OnPollingTimeout();
-
-  base::RepeatingTimer polling_timer_;
   base::OneShotTimer polling_timeout_;
   base::WeakPtrFactory<SolanaWalletProvider> weak_factory_{this};
 };

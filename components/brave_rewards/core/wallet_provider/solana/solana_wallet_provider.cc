@@ -42,6 +42,13 @@ std::string UsernameFromAddress(const std::string& address) {
                        address_view.substr(length - 4, length)});
 }
 
+futures::Future<void> Delay(base::TimeDelta delay) {
+  return futures::MakeFuture<void>([&](auto callback) {
+    base::SequencedTaskRunner::GetCurrentDefault()->PostDelayedTask(
+        FROM_HERE, std::move(callback), delay);
+  });
+}
+
 }  // namespace
 
 SolanaWalletProvider::SolanaWalletProvider(RewardsEngine& engine)
@@ -64,47 +71,44 @@ void SolanaWalletProvider::AssignWalletLinks(
 
 void SolanaWalletProvider::FetchBalance(
     base::OnceCallback<void(mojom::Result, double)> callback) {
-  auto wallet = GetWalletIf({mojom::WalletStatus::kConnected});
-  if (!wallet) {
-    return std::move(callback).Run(mojom::Result::FAILED, 0.0);
-  }
-
-  client().GetSPLTokenAccountBalance(
-      wallet->address, kSplBatTokenMint,
-      base::BindOnce(&SolanaWalletProvider::OnAccountBalanceFetched,
-                     weak_factory_.GetWeakPtr(), std::move(callback)));
+  FetchBalance().AndThen(base::BindOnce(
+      [](decltype(callback) cb, std::optional<double> balance) {
+        if (balance) {
+          std::move(cb).Run(mojom::Result::OK, *balance);
+        } else {
+          std::move(cb).Run(mojom::Result::FAILED, 0);
+        }
+      },
+      std::move(callback)));
 }
 
 void SolanaWalletProvider::BeginLogin(
     BeginExternalWalletLoginCallback callback) {
-  Get<endpoints::PostChallenges>().Request(
-      base::BindOnce(&SolanaWalletProvider::OnPostChallengesResponse,
-                     weak_factory_.GetWeakPtr(), std::move(callback)));
+  BeginLogin().AndThen(std::move(callback));
 }
 
-void SolanaWalletProvider::OnPostChallengesResponse(
-    BeginExternalWalletLoginCallback callback,
-    endpoints::PostChallenges::Result result) {
-  if (!result.has_value()) {
-    std::move(callback).Run(nullptr);
-    return;
+futures::Future<mojom::ExternalWalletLoginParamsPtr>
+SolanaWalletProvider::BeginLogin() {
+  polling_timeout_.Stop();
+
+  auto post_challenge_result = co_await post_challenges_.Request();
+  if (!post_challenge_result.has_value()) {
+    co_return nullptr;
   }
 
-  const std::string& challenge_id = result.value();
+  const std::string& challenge_id = post_challenge_result.value();
   DCHECK(!challenge_id.empty());
 
   auto wallet = engine().wallet()->GetWallet();
   if (!wallet) {
     LogError(FROM_HERE) << "Rewards wallet is empty";
-    std::move(callback).Run(nullptr);
-    return;
+    co_return nullptr;
   }
 
   auto signer = Signer::FromRecoverySeed(wallet->recovery_seed);
   if (!signer) {
     LogError(FROM_HERE) << "Unable to sign message";
-    std::move(callback).Run(nullptr);
-    return;
+    co_return nullptr;
   }
 
   std::string message =
@@ -121,43 +125,48 @@ void SolanaWalletProvider::OnPostChallengesResponse(
   auto params = mojom::ExternalWalletLoginParams::New();
   params->url = url.spec();
   params->cookies["__Secure-CSRF_TOKEN"] = challenge_id;
-  std::move(callback).Run(std::move(params));
 
-  polling_timer_.Start(FROM_HERE, kPollingInterval, this,
-                       &SolanaWalletProvider::PollWalletStatus);
+  PollForLinkage();
 
-  polling_timeout_.Start(FROM_HERE, kPollingTimeout, this,
-                         &SolanaWalletProvider::OnPollingTimeout);
+  co_return params;
 }
 
-void SolanaWalletProvider::OnAccountBalanceFetched(
-    base::OnceCallback<void(mojom::Result, double)> callback,
-    mojom::SolanaAccountBalancePtr balance) {
+futures::Future<void> SolanaWalletProvider::PollForLinkage() {
+  polling_timeout_.Start(FROM_HERE, kPollingTimeout, base::DoNothing());
+  while (true) {
+    co_await Delay(kPollingInterval);
+    if (!polling_timeout_.IsRunning()) {
+      break;
+    }
+    Get<LinkageChecker>().CheckLinkage();
+  }
+}
+
+futures::Future<std::optional<double>> SolanaWalletProvider::FetchBalance() {
+  auto wallet = GetWalletIf({mojom::WalletStatus::kConnected});
+  if (!wallet) {
+    co_return std::nullopt;
+  }
+
+  auto balance = co_await futures::MakeFuture<mojom::SolanaAccountBalancePtr>(
+      [&](auto callback) {
+        client().GetSPLTokenAccountBalance(wallet->address, kSplBatTokenMint,
+                                           std::move(callback));
+      });
+
   if (!balance) {
     LogError(FROM_HERE) << "Unable to retrieve Solana account balance";
-    std::move(callback).Run(mojom::Result::FAILED, 0);
-    return;
+    co_return std::nullopt;
   }
 
   uint64_t amount_value = 0;
   if (!base::StringToUint64(balance->amount, &amount_value)) {
     LogError(FROM_HERE) << "Unable to parse Solana account balance";
-    std::move(callback).Run(mojom::Result::FAILED, 0);
-    return;
+    co_return std::nullopt;
   }
 
   auto denominator = std::pow<double>(10, balance->decimals);
-
-  std::move(callback).Run(mojom::Result::OK,
-                          static_cast<double>(amount_value) / denominator);
-}
-
-void SolanaWalletProvider::PollWalletStatus() {
-  Get<LinkageChecker>().CheckLinkage();
-}
-
-void SolanaWalletProvider::OnPollingTimeout() {
-  polling_timer_.Stop();
+  co_return static_cast<double>(amount_value) / denominator;
 }
 
 std::string SolanaWalletProvider::GetFeeAddress() const {
@@ -167,7 +176,6 @@ std::string SolanaWalletProvider::GetFeeAddress() const {
 void SolanaWalletProvider::OnWalletLinked(const std::string& address) {
   DCHECK(!address.empty());
 
-  polling_timer_.Stop();
   polling_timeout_.Stop();
 
   wallet::MaybeCreateWallet(engine(), WalletType());

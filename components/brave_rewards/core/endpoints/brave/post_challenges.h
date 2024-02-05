@@ -13,6 +13,7 @@
 #include "brave/components/brave_rewards/common/mojom/rewards.mojom.h"
 #include "brave/components/brave_rewards/common/mojom/rewards_core.mojom.h"
 #include "brave/components/brave_rewards/core/rewards_engine_helper.h"
+#include "brave/components/futures/future.h"
 
 namespace brave_rewards::internal::endpoints {
 
@@ -45,11 +46,13 @@ class PostChallenges : public RewardsEngineHelper,
   using RequestCallback = base::OnceCallback<void(Result result)>;
 
   virtual void Request(RequestCallback callback);
+  futures::Future<Result> Request();
+
+  auto GetWeakPtr() { return weak_factory_.GetWeakPtr(); }
 
  private:
   mojom::UrlRequestPtr CreateRequest();
   Result MapResponse(const mojom::UrlResponse& response);
-  void OnResponse(RequestCallback callback, mojom::UrlResponsePtr response);
 
   base::WeakPtrFactory<PostChallenges> weak_factory_{this};
 };

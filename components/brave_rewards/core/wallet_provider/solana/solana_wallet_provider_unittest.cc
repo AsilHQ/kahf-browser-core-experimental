@@ -10,6 +10,7 @@
 #include "brave/components/brave_rewards/core/common/environment_config.h"
 #include "brave/components/brave_rewards/core/state/state_keys.h"
 #include "brave/components/brave_rewards/core/test/rewards_engine_test.h"
+#include "brave/components/brave_rewards/core/wallet_provider/linkage_checker.h"
 #include "brave/components/brave_rewards/core/wallet_provider/solana/solana_wallet_provider.h"
 #include "net/http/http_status_code.h"
 
@@ -77,7 +78,7 @@ TEST_F(RewardsSolanaWalletProviderTest, LinkingSuccess) {
           .spec(),
       mojom::UrlMethod::GET, std::move(get_wallet_response));
 
-  engine().Get<SolanaWalletProvider>().PollWalletStatus();
+  engine().Get<LinkageChecker>().CheckLinkage();
   task_environment().RunUntilIdle();
 
   auto external_wallet =

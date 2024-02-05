@@ -32,22 +32,34 @@ URLLoader::~URLLoader() = default;
 void URLLoader::Load(mojom::UrlRequestPtr request,
                      LogLevel log_level,
                      LoadCallback callback) {
+  Load(std::move(request), log_level).AndThen(std::move(callback));
+}
+
+futures::Future<mojom::UrlResponsePtr> URLLoader::Load(
+    mojom::UrlRequestPtr request,
+    LogLevel log_level) {
   CHECK(request);
 
   if (engine().Get<InitializationManager>().is_shutting_down()) {
     Log(FROM_HERE) << request->url
                    << " will not be fetched: shutdown in progress";
-    DeferCallback(FROM_HERE, std::move(callback),
-                  CreateShutdownResponse(*request));
-    return;
+    co_return CreateShutdownResponse(*request);
   }
 
   LogRequest(*request, log_level);
 
-  client().LoadURL(
-      std::move(request),
-      base::BindOnce(&URLLoader::OnResponse, weak_factory_.GetWeakPtr(),
-                     log_level, std::move(callback)));
+  auto response =
+      co_await futures::MakeFuture<mojom::UrlResponsePtr>([&](auto callback) {
+        client().LoadURL(std::move(request), std::move(callback));
+      });
+
+  if (!response->error.empty()) {
+    LogError(FROM_HERE) << "Network error: " << response->error;
+  }
+
+  LogResponse(*response, log_level);
+
+  co_return response;
 }
 
 bool URLLoader::ShouldLogRequestHeader(const std::string& header) {
@@ -121,18 +133,6 @@ void URLLoader::LogResponse(const mojom::UrlResponse& response,
   if (!response.body.empty()) {
     stream << "\n> Body: " << response.body;
   }
-}
-
-void URLLoader::OnResponse(LogLevel log_level,
-                           LoadCallback callback,
-                           mojom::UrlResponsePtr response) {
-  if (!response->error.empty()) {
-    LogError(FROM_HERE) << "Network error: " << response->error;
-  }
-
-  LogResponse(*response, log_level);
-
-  std::move(callback).Run(std::move(response));
 }
 
 }  // namespace brave_rewards::internal

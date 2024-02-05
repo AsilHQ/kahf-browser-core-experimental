@@ -24,17 +24,19 @@ PostChallenges::PostChallenges(RewardsEngine& engine)
 PostChallenges::~PostChallenges() = default;
 
 void PostChallenges::Request(RequestCallback callback) {
+  Request().AndThen(std::move(callback));
+}
+
+futures::Future<PostChallenges::Result> PostChallenges::Request() {
   auto request = CreateRequest();
   if (!request) {
-    DeferCallback(FROM_HERE, std::move(callback),
-                  base::unexpected(Error::kFailedToCreateRequest));
-    return;
+    co_return base::unexpected(Error::kFailedToCreateRequest);
   }
 
-  Get<URLLoader>().Load(
-      std::move(request), URLLoader::LogLevel::kBasic,
-      base::BindOnce(&PostChallenges::OnResponse, weak_factory_.GetWeakPtr(),
-                     std::move(callback)));
+  auto response = co_await Get<URLLoader>().Load(std::move(request),
+                                                 URLLoader::LogLevel::kBasic);
+
+  co_return MapResponse(*response);
 }
 
 mojom::UrlRequestPtr PostChallenges::CreateRequest() {
@@ -90,11 +92,6 @@ PostChallenges::Result PostChallenges::MapResponse(
   }
 
   return *challenge_id;
-}
-
-void PostChallenges::OnResponse(RequestCallback callback,
-                                mojom::UrlResponsePtr response) {
-  std::move(callback).Run(MapResponse(*response));
 }
 
 }  // namespace brave_rewards::internal::endpoints

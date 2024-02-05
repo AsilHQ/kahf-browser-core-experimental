@@ -11,6 +11,7 @@
 #include "base/memory/weak_ptr.h"
 #include "brave/components/brave_rewards/common/mojom/rewards.mojom.h"
 #include "brave/components/brave_rewards/core/rewards_engine_helper.h"
+#include "brave/components/futures/future.h"
 
 namespace brave_rewards::internal {
 
@@ -44,6 +45,9 @@ class URLLoader : public RewardsEngineHelper, public WithHelperKey<URLLoader> {
             LogLevel log_level,
             LoadCallback callback);
 
+  futures::Future<mojom::UrlResponsePtr> Load(mojom::UrlRequestPtr request,
+                                              LogLevel log_level);
+
   // Returns a value indicating whether the specified request header should be
   // logged when using the `kDetailed` log level.
   static bool ShouldLogRequestHeader(const std::string& header);
@@ -54,13 +58,11 @@ class URLLoader : public RewardsEngineHelper, public WithHelperKey<URLLoader> {
     return http_status_code >= 200 && http_status_code < 300;
   }
 
+  auto GetWeakPtr() { return weak_factory_.GetWeakPtr(); }
+
  private:
   void LogRequest(const mojom::UrlRequest& request, LogLevel log_level);
   void LogResponse(const mojom::UrlResponse& response, LogLevel log_level);
-
-  void OnResponse(LogLevel log_level,
-                  LoadCallback callback,
-                  mojom::UrlResponsePtr response);
 
   base::WeakPtrFactory<URLLoader> weak_factory_{this};
 };
