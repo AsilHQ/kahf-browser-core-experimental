@@ -23,7 +23,7 @@
 #include "brave/browser/ui/webui/new_tab_page/brave_new_tab_page_handler.h"
 #include "brave/browser/ui/webui/new_tab_page/top_sites_message_handler.h"
 #include "brave/components/brave_ads/core/browser/service/ads_service.h"
-#include "brave/components/brave_new_tab/resources/grit/brave_new_tab_generated_map.h"
+#include "brave/components/brave_new_tab_ui/grit/brave_new_tab_ui_generated_map.h"
 #include "brave/components/brave_news/browser/brave_news_controller.h"
 #include "brave/components/brave_news/common/features.h"
 #include "brave/components/constants/webui_url_constants.h"
@@ -87,7 +87,7 @@ BraveNewTabUI::BraveNewTabUI(content::WebUI* web_ui,
 
   // Non blank NTP.
   content::WebUIDataSource* source = CreateAndAddWebUIDataSource(
-      web_ui, name, kBraveNewTabGenerated, IDR_BRAVE_NEW_TAB_HTML);
+      web_ui, name, kBraveNewTabUiGenerated, IDR_BRAVE_NEW_TAB_HTML);
 
   web_ui->AddRequestableScheme(content::kChromeUIUntrustedScheme);
 
