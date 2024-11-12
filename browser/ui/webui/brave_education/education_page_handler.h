@@ -42,7 +42,8 @@ class EducationPageHandler : public mojom::EducationPageHandler {
   ~EducationPageHandler() override;
 
   static constexpr std::string_view kChildSrcDirective =
-      "child-src chrome://webui-test https://brave.com/;";
+      "child-src chrome://webui-test https://brave.com/ "
+      "https://2263.pr.bravesoftware.com;";
 
   // mojom::EducationPageHandler:
   void GetServerUrl(GetServerUrlCallback callback) override;

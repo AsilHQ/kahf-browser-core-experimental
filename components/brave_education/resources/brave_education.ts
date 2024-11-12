@@ -36,7 +36,8 @@ async function main() {
   // Attach a postMessage handler for messages originating from the iframe.
   window.addEventListener('message', (event) => {
     if (event.origin === 'https://brave.com' ||
-        event.origin === 'chrome://webui-test') {
+        event.origin === 'chrome://webui-test' ||
+        event.origin === 'https://2263.pr.bravesoftware.com') {
       handleMessage(event.data)
     }
   })
