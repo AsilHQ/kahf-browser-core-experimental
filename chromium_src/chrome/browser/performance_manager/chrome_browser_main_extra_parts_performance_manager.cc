@@ -5,9 +5,7 @@
 
 #include "components/performance_manager/public/metrics/page_resource_monitor.h"
 
-#if !BUILDFLAG(IS_ANDROID)
 #include "chrome/browser/performance_manager/metrics/metrics_provider_desktop.h"
-#endif  // !BUILDFLAG(IS_ANDROID)
 
 // This file is designed to disable certain components of the
 // performance_manager to optimize CPU usage. Since Brave does not send UMA/UKM
