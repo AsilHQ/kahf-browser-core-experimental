@@ -3,9 +3,8 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-#include "components/performance_manager/public/metrics/page_resource_monitor.h"
-
 #include "chrome/browser/performance_manager/metrics/metrics_provider_desktop.h"
+#include "components/performance_manager/public/metrics/page_resource_monitor.h"
 
 // This file is designed to disable certain components of the
 // performance_manager to optimize CPU usage. Since Brave does not send UMA/UKM
