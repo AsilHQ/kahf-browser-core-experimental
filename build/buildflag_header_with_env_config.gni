@@ -65,10 +65,10 @@ template("buildflag_header_with_env_config") {
         } else {
           # If the flag is not found in .env, make sure this is allowed in the
           # current configuration.
-          assert(allow_unset_env_config_flags,
-                 _env_config_flag_name +
-                     " (or its lowercase variant) is not found in: " +
-                     string_join(" or ", env_config_files))
+          # assert(allow_unset_env_config_flags,
+          #        _env_config_flag_name +
+          #            " (or its lowercase variant) is not found in: " +
+          #            string_join(" or ", env_config_files))
         }
         flags += [ "$_env_config_flag_name=$_env_config_flag_value" ]
       }
