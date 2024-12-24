@@ -22,14 +22,14 @@ inline bool EndsWith(const std::wstring& value, const std::wstring& ending) {
 
 #if defined(OFFICIAL_BUILD)
 const wchar_t kPolicyRegistryKey[] =
-    L"SOFTWARE\\Policies\\BraveSoftware\\Brave-Browser";
+    L"SOFTWARE\\Policies\\BraveSoftware\\Kahf-Browser";
 const wchar_t kUserDataDirNameSuffix[] =
-    L"\\BraveSoftware\\Brave-Browser\\User Data";
+    L"\\BraveSoftware\\Kahf-Browser\\User Data";
 #else
 const wchar_t kPolicyRegistryKey[] =
-    L"SOFTWARE\\Policies\\BraveSoftware\\Brave-Browser-Development";
+    L"SOFTWARE\\Policies\\BraveSoftware\\Kahf-Browser-Development";
 const wchar_t kUserDataDirNameSuffix[] =
-    L"\\BraveSoftware\\Brave-Browser-Development\\User Data";
+    L"\\BraveSoftware\\Kahf-Browser-Development\\User Data";
 #endif
 
 const wchar_t kUserDataDirRegistryKey[] = L"UserDataDir";

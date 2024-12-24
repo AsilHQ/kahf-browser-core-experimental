@@ -25,7 +25,7 @@ from components.version import BraveVersion
 
 
 def _GetBraveDownloadUrl(tag: str, filename: str) -> str:
-  return ('https://github.com/brave/brave-browser/releases/download/' +
+  return ('https://github.com/brave/kahf-browser/releases/download/' +
           f'{tag}/{filename}')
 
 
@@ -192,7 +192,7 @@ class BraveBrowserTypeImpl(BrowserType):
     return True
 
   def _GetWinInstallPath(self) -> str:
-    app_name = 'Brave-Browser'
+    app_name = 'Kahf-Browser'
     if self.channel is not None:
       app_name += '-' + self.channel
     return os.path.join(os.path.expanduser('~'), 'AppData', 'Local',

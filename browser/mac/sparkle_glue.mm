@@ -452,7 +452,7 @@ std::string GetDescriptionFromAppcastItem(id item) {
   }
 
   return [NSString stringWithFormat:@"https://updates.bravesoftware.com/"
-                                    @"sparkle/Brave-Browser/%s/appcast.xml",
+                                    @"sparkle/Kahf-Browser/%s/appcast.xml",
                                     GetUpdateChannel().c_str()];
 }
 @end

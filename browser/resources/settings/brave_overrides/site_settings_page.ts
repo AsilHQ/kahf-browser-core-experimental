@@ -177,16 +177,16 @@ RegisterPolymerComponentReplacement(
             }
           }
         }
-        lists_.shieldsBasic = [
-          {
-            route: routes.SITE_SETTINGS_SHIELDS_STATUS,
-            id: 'braveShields',
-            label: 'siteSettingsShieldsStatus',
-            icon: 'shield-done',
-            enabledLabel: 'siteSettingsShieldsDescription',
-            disabledLabel: 'siteSettingsShieldsDown'
-          }
-        ]
+        // lists_.shieldsBasic = [
+        //   {
+        //     route: routes.SITE_SETTINGS_SHIELDS_STATUS,
+        //     id: 'braveShields',
+        //     label: 'siteSettingsShieldsStatus',
+        //     icon: 'shield-done',
+        //     enabledLabel: 'siteSettingsShieldsDescription',
+        //     disabledLabel: 'siteSettingsShieldsDown'
+        //   }
+        // ]
 
         return lists_
       }

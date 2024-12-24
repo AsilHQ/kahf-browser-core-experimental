@@ -19,7 +19,7 @@ def main():
                         metavar='FILE')
     parser.add_argument('--brave_allowlist',
                         help='Path to the brave repack allowist.',
-                        required=True,
+                        required=False,
                         metavar='FILE')
     parser.add_argument('--output',
                         help='Path to the brave output allowist.',
@@ -32,18 +32,18 @@ def main():
         print('Repack allowlist not found: {}'.format(args.repack_allowlist))
         return 1
 
-    if not os.path.exists(args.brave_allowlist):
-        print('Brave allowlist not found: {}'.format(args.brave_allowlist))
-        return 1
+    # if not os.path.exists(args.brave_allowlist):
+    #     print('Brave allowlist not found: {}'.format(args.brave_allowlist))
+    #     return 1
 
     unique = set()
     with open(args.repack_allowlist, 'r') as f:
         for line in f.readlines():
             unique = unique | set(line.split()[:2])
 
-    with open(args.brave_allowlist, 'r') as f:
-        for line in f.readlines():
-            unique = unique | set(line.split()[:2])
+    # with open(args.brave_allowlist, 'r') as f:
+    #     for line in f.readlines():
+    #         unique = unique | set(line.split()[:2])
 
     if os.path.exists(args.output):
         os.remove(args.output)

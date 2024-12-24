@@ -666,7 +666,7 @@ if (is_win && enable_resource_allowlist_generation) {
   # wireguard resources in pak files.
   action("merge_allowlists") {
     deps = [
-      "//brave/browser/brave_vpn/win/brave_vpn_wireguard_service:wireguard_resource_allowlist",
+      #"//brave/browser/brave_vpn/win/brave_vpn_wireguard_service:wireguard_resource_allowlist",
       "//chrome:resource_allowlist",
     ]
 
