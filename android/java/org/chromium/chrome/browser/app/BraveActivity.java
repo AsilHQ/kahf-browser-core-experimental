@@ -276,7 +276,7 @@ public abstract class BraveActivity extends ChromeActivity
             Build.VERSION.SDK_INT < Build.VERSION_CODES.UPSIDE_DOWN_CAKE;
 
     /** Settings for sending local notification reminders. */
-    public static final String CHANNEL_ID = "com.brave.browser";
+    public static final String CHANNEL_ID = "co.asil.browser";
 
     // Explicitly declare this variable to avoid build errors.
     // It will be removed in asm and parent variable will be used instead.

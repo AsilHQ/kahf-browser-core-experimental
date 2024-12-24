@@ -435,7 +435,7 @@ void BraveVpnService::OnFetchRegionList(GetAllRegionsCallback callback,
 
 void BraveVpnService::GetPurchaseToken(GetPurchaseTokenCallback callback) {
   std::string purchase_token_string = "";
-  std::string package_string = "com.brave.browser";
+  std::string package_string = "co.asil.browser";
   std::string product_id_string = "brave-firewall-vpn-premium";
 
   // Get the Android purchase token (for Google Play Store).
