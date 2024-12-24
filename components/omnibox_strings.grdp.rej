@@ -1,0 +1,40 @@
+diff a/components/omnibox_strings.grdp b/components/omnibox_strings.grdp	(rejected hunks)
+@@ -283,18 +283,18 @@
+     "<ph name="SECTION">$1<ex>Related to recent searches</ex></ph>" section hidden
+   </message>
+ 
+-  <!-- Accessibility announcements made for the Brave tip IPH suggestions sometimes shown at the bottom of the Omnibox -->
++  <!-- Accessibility announcements made for the Kahf tip IPH suggestions sometimes shown at the bottom of the Omnibox -->
+   <message name="IDS_ACC_CHROME_TIP" desc="Announcement that is read after the last suggestion when the IPH row is present in the Omnibox.">
+-    Role: Brave tip. Accessibility label: <ph name="CHROME_TIP">$1<ex>Type @gemini to Chat with Gemini</ex></ph>
++    Role: Kahf tip. Accessibility label: <ph name="CHROME_TIP">$1<ex>Type @gemini to Chat with Gemini</ex></ph>
+   </message>
+-  <message name="IDS_ACC_DISMISS_CHROME_TIP_SUFFIX" desc="Suffix for Brave Tip IPH rows with a dismiss button to explain keystroke used to dismiss the tip.">
+-    <ph name="CHROME_TIP">$1<ex>Type @gemini to Chat with Gemini</ex></ph>, press Tab then Enter to Dismiss Brave Tip.
++  <message name="IDS_ACC_DISMISS_CHROME_TIP_SUFFIX" desc="Suffix for Kahf Tip IPH rows with a dismiss button to explain keystroke used to dismiss the tip.">
++    <ph name="CHROME_TIP">$1<ex>Type @gemini to Chat with Gemini</ex></ph>, press Tab then Enter to Dismiss Kahf Tip.
+   </message>
+   <message name="IDS_ACC_DISMISS_CHROME_TIP_FOCUSED_PREFIX" desc="Announcement when dismiss chrome tip button is focused.">
+-    Dismiss Brave Tip button, press Enter to dismiss, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT">$1<ex>Type @gemini to Chat with Gemini</ex></ph>
++    Dismiss Kahf Tip button, press Enter to dismiss, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT">$1<ex>Type @gemini to Chat with Gemini</ex></ph>
+   </message>
+   <message name="IDS_ACC_DISMISS_CHROME_TIP_BUTTON" desc="Announcement when dismiss chrome tip button is focused." translateable="false">
+-    Dismiss Brave Tip button, press Enter to dismiss
++    Dismiss Kahf Tip button, press Enter to dismiss
+   </message>
+ 
+   <!-- Site Search/Keyword mode Starter Pack strings. Note: kCurrentDataVersion in template_url_starter_pack_data.cc must also be updated when changing these values. -->
+@@ -352,10 +352,10 @@
+     History search, powered by AI
+   </message>
+ 
+-  <message name="IDS_OMNIBOX_HISTORY_EMBEDDINGS_DISCLAIMER_IPH" desc="The string displayed as the last row in the Omnibox as IPH informing them their info is sent to Brave." translateable="false">
+-    Your searches, best matches, and their page contents are sent to Brave and may be seen by human reviewers to improve this feature. This is an experimental feature and won't always get it right.
++  <message name="IDS_OMNIBOX_HISTORY_EMBEDDINGS_DISCLAIMER_IPH" desc="The string displayed as the last row in the Omnibox as IPH informing them their info is sent to Kahf." translateable="false">
++    Your searches, best matches, and their page contents are sent to Kahf and may be seen by human reviewers to improve this feature. This is an experimental feature and won't always get it right.
+   </message>
+-  <message name="IDS_OMNIBOX_HISTORY_EMBEDDINGS_DISCLAIMER_IPH_LINK_TEXT" desc="The link displayed on the last row in the Omnibox as IPH informing them their info is sent to Brave." translateable="false">
++  <message name="IDS_OMNIBOX_HISTORY_EMBEDDINGS_DISCLAIMER_IPH_LINK_TEXT" desc="The link displayed on the last row in the Omnibox as IPH informing them their info is sent to Kahf." translateable="false">
+     Learn more
+   </message>
+ 

@@ -1,0 +1,140 @@
+diff a/app/resources/brave_generated_resources_hi.xtb b/app/resources/brave_generated_resources_hi.xtb	(rejected hunks)
+@@ -45,10 +45,10 @@
+ <translation id="1970435562892104727">यह टोर के साथ एक निजी विंडो है</translation>
+ <translation id="1037341607922068025">टोर के साथ निजी विंडो खोलें</translation>
+ <translation id="607982085107926247">Tor में खोलें: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">यह Brave सिंक अकाउंट दूसरे डिवाइस से मिट चुका है. अगर आप सिंक को बंद करना नहीं चाहते थे, <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">यह Kahf सिंक अकाउंट दूसरे डिवाइस से मिट चुका है. अगर आप सिंक को बंद करना नहीं चाहते थे, <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/> तो फिर से अकाउंट बनाएँ</translation>
+ <translation id="6965382102122355670">ठीक</translation>
+-<translation id="3975865347033939965">सिंक सेवा शुरू नहीं की जा सकी, Brave सिंक काम नहीं कर रहा है</translation>
++<translation id="3975865347033939965">सिंक सेवा शुरू नहीं की जा सकी, Kahf सिंक काम नहीं कर रहा है</translation>
+ <translation id="4450893287417543264">इसे दोबारा न दिखाएँ</translation>
+ <translation id="4595286989346610620">ब्यौरा देखें</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -60,62 +60,62 @@
+ <translation id="6313675821927505581">Tor के साथ नई प्राइवेट विंडो</translation>
+ <translation id="2638041073279639246">Tor के साथ प्राइवेट विंडो में लिंक खोलें</translation>
+ <translation id="3425600262621021599">Tor के साथ ब्रेव प्राइवेट विंडो में लिंक खोलें</translation>
+-<translation id="2545072023356206691">1 दिसंबर 2023 से, Brave Dev चैनल के लिए किसी तरह के ब्राउज़र अपडेट नहीं भेजे जाएँगे. हमारी सलाह है कि यूज़र Brave के Nightly, Beta या Release वर्ज़न को अपना लें.</translation>
++<translation id="2545072023356206691">1 दिसंबर 2023 से, Kahf Dev चैनल के लिए किसी तरह के ब्राउज़र अपडेट नहीं भेजे जाएँगे. हमारी सलाह है कि यूज़र Kahf के Nightly, Beta या Release वर्ज़न को अपना लें.</translation>
+ <translation id="474217410105706308">टैब म्यूट करें</translation>
+-<translation id="2804710924397009224">Brave रिवार्ड्स आइकन छुपाएं</translation>
+-<translation id="5029193871181468990">Brave रिवॉर्ड आइकन को छिपाएँ</translation>
+-<translation id="2808103541110899519">Brave वॉलेट आइकन को छिपाएँ</translation>
+-<translation id="7595540212376041331">Brave वॉलेट आइकन को छिपाएँ</translation>
++<translation id="2804710924397009224">Kahf रिवार्ड्स आइकन छुपाएं</translation>
++<translation id="5029193871181468990">Kahf रिवॉर्ड आइकन को छिपाएँ</translation>
++<translation id="2808103541110899519">Kahf वॉलेट आइकन को छिपाएँ</translation>
++<translation id="7595540212376041331">Kahf वॉलेट आइकन को छिपाएँ</translation>
+ <translation id="4928988318462976765">वेब एक्सटेंशन स्टोर</translation>
+ <translation id="9181207987584064303">वेब एक्सटेंशन स्टोर में देखें</translation>
+-<translation id="3161744659507801211">ध्यान दें: Brave, एक्सटेंशन को आपके ब्राउज़िंग विवरण को रिकॉर्ड करने से नहीं रोक सकता है।</translation>
++<translation id="3161744659507801211">ध्यान दें: Kahf, एक्सटेंशन को आपके ब्राउज़िंग विवरण को रिकॉर्ड करने से नहीं रोक सकता है।</translation>
+ <translation id="2162109630536601963">यदि यह एक्सटेंशन नेटवर्क का अनुरोध करता है, तो वे टॉर या निजी मोड का उपयोग नहीं करेंगे।</translation>
+ <translation id="2725327089319971976">निजी मोड और टॉर मोड में इस एक्सटेंशन को निष्क्रिय करने के लिए, इस विकल्प को अचयनित करें।</translation>
+-<translation id="3371343170427636147">Brave ब्राउज़र Nightly ऐप्स</translation>
+-<translation id="4097979995947147464">Brave ब्राउज़र बीटा ऐप</translation>
+-<translation id="8303432794159193481">Brave ब्राउज़र डेवलपमेंट ऐप</translation>
+-<translation id="8292967014767479012">Brave  ब्राउज़र ऐप</translation>
+-<translation id="4743468424889072281">Brave ब्राउज़र डेवलपमेंट ऐप</translation>
++<translation id="3371343170427636147">Kahf ब्राउज़र Nightly ऐप्स</translation>
++<translation id="4097979995947147464">Kahf ब्राउज़र बीटा ऐप</translation>
++<translation id="8303432794159193481">Kahf ब्राउज़र डेवलपमेंट ऐप</translation>
++<translation id="8292967014767479012">Kahf  ब्राउज़र ऐप</translation>
++<translation id="4743468424889072281">Kahf ब्राउज़र डेवलपमेंट ऐप</translation>
+ <translation id="5039804452771397117">अनुमति दें</translation>
+ <translation id="7053983685419859001">ब्लॉक करें</translation>
+-<translation id="1679356339067548863">Brave ब्राउज़र के क्रैश या फ़्रीज़ होने पर अपने आप नैदानिक रिपोर्ट भेजकर Brave की प्रोडक्ट स्थिरता को बेहतर बनाने में मदद करें.</translation>
++<translation id="1679356339067548863">Kahf ब्राउज़र के क्रैश या फ़्रीज़ होने पर अपने आप नैदानिक रिपोर्ट भेजकर Kahf की प्रोडक्ट स्थिरता को बेहतर बनाने में मदद करें.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> यकायक बंद हो गया.</translation>
+-<translation id="1324417023773393937">Brave ब्राउज़र</translation>
++<translation id="1324417023773393937">Kahf ब्राउज़र</translation>
+ <translation id="7276554663454265692">आप ब्राउज़र सेटिंग में जाकर कभी भी <ph name="SETTING_TEXT"/> बदल सकते हैं</translation>
+ <translation id="6873781976650514089">यह सेटिंग</translation>
+ <translation id="4684633335323013758">इस साइट ने आपसे<ph name="PART_ONE"/>जेनरल लोकेशन<ph name="PART_ONE_END"/>का अनुरोध किया है. <ph name="PART_TWO"/><ph name="PART_TWO_END"/> और जानें.</translation>
+ <translation id="8117247596084706514">इस साइट ने आपसे<ph name="PART_ONE"/>सटीक लोकेशन<ph name="PART_ONE_END"/>का अनुरोध किया है. <ph name="PART_TWO"/><ph name="PART_TWO_END"/> और जानें.</translation>
+-<translation id="5486652646100591203">इस साइट ने आपसे<ph name="PART_ONE"/>आपकी सटीक लोकेशन<ph name="PART_ONE_END"/> का अनुरोध किया है. Brave <ph name="PART_TWO"/>बस जेनरल लोकेशन<ph name="PART_TWO_END"/> की जानकारी दे सकता है क्योंकि <ph name="PART_THREE"/>लोकेशन सर्विस<ph name="PART_THREE_END"/> अभी डिसेबल हैं. <ph name="PART_FOUR"/><ph name="PART_FOUR_END"/> पर और ज़्यादा जानें.</translation>
++<translation id="5486652646100591203">इस साइट ने आपसे<ph name="PART_ONE"/>आपकी सटीक लोकेशन<ph name="PART_ONE_END"/> का अनुरोध किया है. Kahf <ph name="PART_TWO"/>बस जेनरल लोकेशन<ph name="PART_TWO_END"/> की जानकारी दे सकता है क्योंकि <ph name="PART_THREE"/>लोकेशन सर्विस<ph name="PART_THREE_END"/> अभी डिसेबल हैं. <ph name="PART_FOUR"/><ph name="PART_FOUR_END"/> पर और ज़्यादा जानें.</translation>
+ <translation id="8915916167043355778">सभी बंद करें</translation>
+ <translation id="7658239707568436148">रद्द करें</translation>
+ <translation id="4870911314065352661">क्या आप सभी टैब बंद करना चाहते हैं?</translation>
+ <translation id="7551864359422178684">आपकी इस ब्राउज़र विंडो में <ph name="NUMBER_OF_TABS"/> टैब खुले हुए हैं.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> टैब</translation>
+ <translation id="1307431692088049276">मुझे फिर से मत पूछो</translation>
+-<translation id="6919364924256365253">इसे Google न करें. Bing मुमकिन नहीं. सिर्फ़ Brave करें.</translation>
+-<translation id="2640297688005939449">Brave सर्च आपकी प्रोफ़ाइल नहीं बनाता है. और यह 100% आज़ाद है.</translation>
++<translation id="6919364924256365253">इसे Google न करें. Bing मुमकिन नहीं. सिर्फ़ Kahf करें.</translation>
++<translation id="2640297688005939449">Kahf सर्च आपकी प्रोफ़ाइल नहीं बनाता है. और यह 100% आज़ाद है.</translation>
+ <translation id="7295094278358921487">सर्च करने पर मिलेगा. प्राइवेसी के साथ.</translation>
+-<translation id="3462465068145800637">Brave सर्च आपकी प्रोफ़ाइल नहीं बनाता है. यह टेक दिग्गजों से 100% आज़ाद है.</translation>
++<translation id="3462465068145800637">Kahf सर्च आपकी प्रोफ़ाइल नहीं बनाता है. यह टेक दिग्गजों से 100% आज़ाद है.</translation>
+ <translation id="42032117189492785">यूनीक इंडेक्स के साथ AI समर्थित सर्च</translation>
+ <translation id="8606416238399082160">पूरी तरह प्राइवेट, 100% आज़ाद और AI के शानदार फ़ीचर के साथ.</translation>
+-<translation id="7706528608480893054">पर्दे के पीछे DDG भी Bing ही है. समय आ गया है असली प्राइवेसी, बेहतर नतीजे और स्वतंत्र इंडेक्स का. समय है Brave सर्च का.</translation>
++<translation id="7706528608480893054">पर्दे के पीछे DDG भी Bing ही है. समय आ गया है असली प्राइवेसी, बेहतर नतीजे और स्वतंत्र इंडेक्स का. समय है Kahf सर्च का.</translation>
+ <translation id="3818133234428578803">Duck से पीछा छुड़ाएँ</translation>
+-<translation id="14817360483752259">Brave सर्च आपको, आपके सवालों को, आपकी क्लिक को ट्रैक नहीं करता. और यह छिपकर (जैसे कि DDG) Bing की तरह काम नहीं करता.</translation>
++<translation id="14817360483752259">Kahf सर्च आपको, आपके सवालों को, आपकी क्लिक को ट्रैक नहीं करता. और यह छिपकर (जैसे कि DDG) Bing की तरह काम नहीं करता.</translation>
+ <translation id="4381193110021038941">बेहतर नतीजे पाएँ</translation>
+-<translation id="3846545273704969734">यह स्वतंत्र तौर पर वेरिफ़ाई किया गया है कि Brave सर्च में Bing (या Bing की तरह काम करने वाले DDG) से बेहतर नतीजे मिलते हैं.</translation>
++<translation id="3846545273704969734">यह स्वतंत्र तौर पर वेरिफ़ाई किया गया है कि Kahf सर्च में Bing (या Bing की तरह काम करने वाले DDG) से बेहतर नतीजे मिलते हैं.</translation>
+ <translation id="2841164160723712537">सर्च के नतीजों में सुधार करें</translation>
+-<translation id="4639001639513524869">ज़्यादातर खोज के लिए Brave सर्च के नतीजे DuckDuckGo से बेहतर हैं. और यह वाकई में प्राइवेट है.</translation>
+-<translation id="5240031343741051161">Brave सर्च को आज़माएँ</translation>
++<translation id="4639001639513524869">ज़्यादातर खोज के लिए Kahf सर्च के नतीजे DuckDuckGo से बेहतर हैं. और यह वाकई में प्राइवेट है.</translation>
++<translation id="5240031343741051161">Kahf सर्च को आज़माएँ</translation>
+ <translation id="5234764350956374838">खारिज करें</translation>
+-<translation id="8722651357687610395">Brave को डिफ़ॉल्ट के रूप में सेट करें</translation>
++<translation id="8722651357687610395">Kahf को डिफ़ॉल्ट के रूप में सेट करें</translation>
+ <translation id="2370739752330685659">शायद बाद में</translation>
+-<translation id="5100490448228945668">Brave सर्च में होने वाले कन्वर्ज़न को नामंज़ूर करें, इस सुझाव को हटाने के लिए एन्टर दबाएँ</translation>
++<translation id="5100490448228945668">Kahf सर्च में होने वाले कन्वर्ज़न को नामंज़ूर करें, इस सुझाव को हटाने के लिए एन्टर दबाएँ</translation>
+ <translation id="9194637241566114638">इस्तेमाल से जुड़े गुमनाम डेटा को भेज कर <ph name="SEARCH_NAME"/> को बेहतर बनाने में मदद करें. <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave सर्च</translation>
++<translation id="7404610376221341525">Kahf सर्च</translation>
+ <translation id="8184318863960255706">अधिक जानकारी</translation>
+ <translation id="780301667611848630">जी नहीं, रहने दें</translation>
+-<translation id="1162706247109707219">'ठीक है' पर क्लिक करने का मतलब है कि आप समझते हैं कि जब तक आप Windows 10 या उसके बाद के वर्ज़न पर अपडेट नहीं करेंगे, आपको Brave इंस्टॉल करने के बाद ज़रूरी सिक्योरिटी फ़िक्स नहीं मिलेंगे. यह चेतावनी दोबारा नहीं दिखाई जाएगी.</translation>
+-<translation id="9164786361657554526">'ठीक है' पर क्लिक करने का मतलब है कि आप समझते हैं कि जब तक आप macOS 10.15 या उसके बाद के वर्ज़न पर अपडेट नहीं करेंगे, आपको Brave इंस्टॉल करने के बाद ज़रूरी सिक्योरिटी फ़िक्स नहीं मिलेंगे. यह चेतावनी दोबारा नहीं दिखाई जाएगी.</translation>
++<translation id="1162706247109707219">'ठीक है' पर क्लिक करने का मतलब है कि आप समझते हैं कि जब तक आप Windows 10 या उसके बाद के वर्ज़न पर अपडेट नहीं करेंगे, आपको Kahf इंस्टॉल करने के बाद ज़रूरी सिक्योरिटी फ़िक्स नहीं मिलेंगे. यह चेतावनी दोबारा नहीं दिखाई जाएगी.</translation>
++<translation id="9164786361657554526">'ठीक है' पर क्लिक करने का मतलब है कि आप समझते हैं कि जब तक आप macOS 10.15 या उसके बाद के वर्ज़न पर अपडेट नहीं करेंगे, आपको Kahf इंस्टॉल करने के बाद ज़रूरी सिक्योरिटी फ़िक्स नहीं मिलेंगे. यह चेतावनी दोबारा नहीं दिखाई जाएगी.</translation>
+ <translation id="2770465223704140727">सूची से निकालें</translation>
+ <translation id="6020553119523541665">यह टैब किसी अन्य विंडो में एक्टिव है</translation>
+ <translation id="4987392683074136770">इस टैब पर क्लिक करने से इसका कंटेंट इस विंडो में आ जाएगा.</translation>
+@@ -300,7 +300,7 @@
+ <translation id="6453210454707928697">आइटम चलाने में विफल</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] की समय सीमा समाप्त हो सकती है। क्या आप इसे रिकवर करना चाहेंगे?</translation>
+ <translation id="6155018868740116868">रिकवर करें</translation>
+-<translation id="1727684853006449697">Brave प्लेयर</translation>
++<translation id="1727684853006449697">Kahf प्लेयर</translation>
+ <translation id="9156965752763025780">अगली बार आपके द्वारा क्रोमियम पुन: लॉन्‍च करने पर आपके परिवर्तन प्रभावी होंगे.</translation>
+ <translation id="7179921470347911571">अब पुनः प्रस्तुत करें</translation>
+ <translation id="1426410128494586442">हां</translation>
+@@ -373,7 +373,7 @@ Binance
+ <translation id="8820817407110198400">बुकमार्क बार</translation>
+ <translation id="4144468798716165316">क्विक कमांड</translation>
+ <translation id="7310387888625228830">लियो AI असिस्टेंट</translation>
+-<translation id="5222974844674487962">Brave न्यूज़ का बटन दिखाएँ</translation>
++<translation id="5222974844674487962">Kahf न्यूज़ का बटन दिखाएँ</translation>
+ <translation id="383007806262310953">बुकमार्क बार दिखाएं</translation>
+ <translation id="4054323497808446566">बुकमार्क बार सभी पेज पर दिखाई देता है</translation>
+ <translation id="8693858092251192712">नए टैब पेज को छोड़कर सभी पेज पर बुकमार्क बार छिपा हुआ रहता है</translation>
+@@ -474,7 +474,7 @@ Binance
+ <translation id="4891600875049212418">संवेदनशील वेबसाइट पर जाते समय 'अदृश्य' हो जाएँ</translation>
+ <translation id="1968895725257436430">डेटा कनेक्शन</translation>
+ <translation id="4846154056248462491">बाहर निकलने पर</translation>
+-<translation id="2808630562319398131">Brave रिवॉर्ड डेटा रीसेट करें ...</translation>
++<translation id="2808630562319398131">Kahf रिवॉर्ड डेटा रीसेट करें ...</translation>
+ <translation id="6438096877646138757">साइटें जो बंद करने पर कुकीज़ को साफ़ करती हैं</translation>
+ <translation id="2988792685798128092">साइट बंद करने पर साफ़ करें</translation>
+ <translation id="7702907602086592255">डोमेन</translation>
+@@ -728,7 +728,7 @@ Leo का इस्तेमाल करने के लिए ऑप्ट-
+ <translation id="7131172845656551327">मॉडल का नाम जैसा कि यह सर्विंग फ़्रेमवर्क के अनुरोध में दिखाई देना चाहिए, जैसे की, phi-3 (ध्यान दें कि अगर यह नाम सर्विंग फ़्रेमवर्क ज़रिए अपेक्षित नाम से बिल्कुल मेल नहीं खाता है, तो इंटीग्रेशन काम नहीं करेगा)</translation>
+ <translation id="3286410514484292784">वह URL जहां आपका सर्विंग फ़्रेमवर्क अनुरोधों के लिए सुन रहा है. अगर आपको यकीन नहीं है, तो सर्विंग फ़्रेमवर्क के दस्तावेज़ देखें. जैसे की, Ollama के लिए, यह हमेशा http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">कुछ काम करने वाले फ़्रेमवर्क को ऑथेंटिकेशन क्रेडेंशियल की ज़रुरत हो सकती है, जैसे कि API कीज़ या एक्सेस टोकन. इन्हें अनुरोध हेडर में जोड़ा जाएगा.</translation>
+-<translation id="217141195370578385">Brave इन अनुरोधों को प्रॉक्सी नहीं करता है, कृपया चुने गए प्रोवाइडर की गोपनीयता शर्तें पढ़ें.</translation>
++<translation id="217141195370578385">Kahf इन अनुरोधों को प्रॉक्सी नहीं करता है, कृपया चुने गए प्रोवाइडर की गोपनीयता शर्तें पढ़ें.</translation>
+ <translation id="2645532768679870478">गैर-स्थानीय एन्डपॉइंट्स को सुरक्षित डेटा ट्रांसमिशन के लिए HTTPS प्रोटोकॉल का इस्तेमाल करना चाहिए.</translation>
+ <translation id="8177205483022887785">आपने एक अमान्य URL डाला है. कृपया एक मान्य URL डालें.</translation>
+ <translation id="5249539665306267943">नया मॉडल जोड़ें</translation>

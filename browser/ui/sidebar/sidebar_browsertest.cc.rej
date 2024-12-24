@@ -1,0 +1,15 @@
+diff a/browser/ui/sidebar/sidebar_browsertest.cc b/browser/ui/sidebar/sidebar_browsertest.cc	(rejected hunks)
+@@ -1204,11 +1204,11 @@ IN_PROC_BROWSER_TEST_F(SidebarBrowserTestWithAIChat,
+   ASSERT_TRUE(tab_specific_item_index.has_value());
+   // Open 2 more tabs
+   ASSERT_TRUE(ui_test_utils::NavigateToURLWithDisposition(
+-      browser(), GURL("brave://newtab/"),
++      browser(), GURL("kahf://newtab/"),
+       WindowOpenDisposition::NEW_FOREGROUND_TAB,
+       ui_test_utils::BROWSER_TEST_WAIT_FOR_LOAD_STOP));
+   ASSERT_TRUE(ui_test_utils::NavigateToURLWithDisposition(
+-      browser(), GURL("brave://newtab/"),
++      browser(), GURL("kahf://newtab/"),
+       WindowOpenDisposition::NEW_FOREGROUND_TAB,
+       ui_test_utils::BROWSER_TEST_WAIT_FOR_LOAD_STOP));
+   ASSERT_EQ(tab_model()->GetTabCount(), 3);

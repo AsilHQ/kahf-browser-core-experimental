@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_sv.xtb b/app/resources/brave_generated_resources_sv.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="1970435562892104727">Detta är ett privat fönster med Tor</translation>
+ <translation id="1037341607922068025">Öppna ett privat fönster med Tor</translation>
+ <translation id="607982085107926247">Öppna i Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Detta konto för Synkning i Brave togs bort från en annan enhet. Om du inte ville inaktivera Synkning kan du<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Detta konto för Synkning i Kahf togs bort från en annan enhet. Om du inte ville inaktivera Synkning kan du<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/> återskapa kontot</translation>
+ <translation id="6965382102122355670">Ok</translation>
+-<translation id="3975865347033939965">Synkroniseringstjänsten kunde inte startas, Brave Sync körs inte</translation>
++<translation id="3975865347033939965">Synkroniseringstjänsten kunde inte startas, Kahf Sync körs inte</translation>
+ <translation id="4450893287417543264">Visa inte igen.</translation>
+ <translation id="4595286989346610620">Kontrollera detaljer</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="4759098689276706664">Tvinga inklistring</translation>
+ <translation id="1434416574322382019">Nytt privat fönster med Tor</translation>
+ <translation id="4703780849509456860">Öppna länk i privat fönster med Tor</translation>
+-<translation id="3488584642074079080">Öppna länken med Tor i ett privat Bravefönster</translation>
++<translation id="3488584642074079080">Öppna länken med Tor i ett privat Kahffönster</translation>
+ <translation id="6313675821927505581">Nytt privat fönster med Tor</translation>
+ <translation id="2638041073279639246">Öppna länk i nytt privat fönster med Tor</translation>
+-<translation id="3425600262621021599">Öppna länk i Brave i ett privat fönster med Tor</translation>
+-<translation id="2545072023356206691">Från och med den 1 december 2023 kommer Brave Dev-kanalen inte längre att få webbläsaruppdateringar. Vi rekommenderar användare att migrera till Nightly-, Beta- eller Release-versionerna av Brave.</translation>
++<translation id="3425600262621021599">Öppna länk i Kahf i ett privat fönster med Tor</translation>
++<translation id="2545072023356206691">Från och med den 1 december 2023 kommer Kahf Dev-kanalen inte längre att få webbläsaruppdateringar. Vi rekommenderar användare att migrera till Nightly-, Beta- eller Release-versionerna av Kahf.</translation>
+ <translation id="474217410105706308">Stäng av ljud från flik</translation>
+-<translation id="2804710924397009224">Dölj Brave Rewards-ikonen</translation>
+-<translation id="5029193871181468990">Dölj Brave Rewards-ikonen</translation>
+-<translation id="2808103541110899519">Dölj Brave Wallet-ikon</translation>
+-<translation id="7595540212376041331">Dölj ikonen för Brave-plånboken</translation>
++<translation id="2804710924397009224">Dölj Kahf Rewards-ikonen</translation>
++<translation id="5029193871181468990">Dölj Kahf Rewards-ikonen</translation>
++<translation id="2808103541110899519">Dölj Kahf Wallet-ikon</translation>
++<translation id="7595540212376041331">Dölj ikonen för Kahf-plånboken</translation>
+ <translation id="4928988318462976765">Web Extensions Store</translation>
+ <translation id="9181207987584064303">Visa i Web Extensions Store</translation>
+-<translation id="3161744659507801211">Varning: Brave kan inte förhindra tillägg från att spela in din sökhistorik.</translation>
++<translation id="3161744659507801211">Varning: Kahf kan inte förhindra tillägg från att spela in din sökhistorik.</translation>
+ <translation id="2162109630536601963">Om det här tillägget gör nätverksförfrågningar använder det inte Tor eller privat läge.</translation>
+ <translation id="2725327089319971976">För att avaktivera detta tillägg i privat läge och Tor-läge, avmarkera detta alternativ.</translation>
+-<translation id="3371343170427636147">Brave Browser Nightly-appar</translation>
+-<translation id="4097979995947147464">Brave Browser Beta-appar</translation>
+-<translation id="8303432794159193481">Brave Browser Dev-appar</translation>
+-<translation id="8292967014767479012">Brave Browser-appar</translation>
+-<translation id="4743468424889072281">Brave Browser utvecklingsappar</translation>
++<translation id="3371343170427636147">Kahf Browser Nightly-appar</translation>
++<translation id="4097979995947147464">Kahf Browser Beta-appar</translation>
++<translation id="8303432794159193481">Kahf Browser Dev-appar</translation>
++<translation id="8292967014767479012">Kahf Browser-appar</translation>
++<translation id="4743468424889072281">Kahf Browser utvecklingsappar</translation>
+ <translation id="5039804452771397117">Tillåt</translation>
+ <translation id="7053983685419859001">Blockera</translation>
+-<translation id="1679356339067548863">Hjälp till att förbättra Braves produktstabilitet genom att automatiskt skicka diagnostikrapporter när Brave Browser kraschar eller fryser.</translation>
++<translation id="1679356339067548863">Hjälp till att förbättra Kahfs produktstabilitet genom att automatiskt skicka diagnostikrapporter när Kahf Browser kraschar eller fryser.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> quit unexpectedly.</translation>
+-<translation id="1324417023773393937">Brave-webbläsaren</translation>
++<translation id="1324417023773393937">Kahf-webbläsaren</translation>
+ <translation id="7276554663454265692">Du kan ändra <ph name="SETTING_TEXT"/> när som helst i webbläsarens inställningar.</translation>
+ <translation id="6873781976650514089">den här inställningen</translation>
+ <translation id="4684633335323013758">Den här webbplatsen har begärt att få veta din <ph name="PART_ONE"/>ungefärliga plats<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Läs mer<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Den här webbplatsen har begärt att få veta din <ph name="PART_ONE"/>exakta plats<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Läs mer<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Den här webbplatsen har begärt att få veta din <ph name="PART_ONE"/>exakta plats<ph name="PART_ONE_END"/>. Brave kan endast ange uppgifter om <ph name="PART_TWO"/>ungefärlig plats<ph name="PART_TWO_END"/> på grund av att <ph name="PART_THREE"/>platstjänster<ph name="PART_THREE_END"/> är inaktiverade. <ph name="PART_FOUR"/>Läs mer<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Den här webbplatsen har begärt att få veta din <ph name="PART_ONE"/>exakta plats<ph name="PART_ONE_END"/>. Kahf kan endast ange uppgifter om <ph name="PART_TWO"/>ungefärlig plats<ph name="PART_TWO_END"/> på grund av att <ph name="PART_THREE"/>platstjänster<ph name="PART_THREE_END"/> är inaktiverade. <ph name="PART_FOUR"/>Läs mer<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Stäng alla</translation>
+ <translation id="7658239707568436148">Avbryt</translation>
+ <translation id="4870911314065352661">Stäng alla flikar?</translation>
+ <translation id="7551864359422178684">Du har <ph name="NUMBER_OF_TABS"/> flikar öppna i webbläsarfönstret.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> flikar</translation>
+ <translation id="1307431692088049276">Fråga mig inte igen</translation>
+-<translation id="6919364924256365253">Don't Google it. Can't Bing it. Just Brave it.</translation>
+-<translation id="2640297688005939449">Brave Sök profilerar dig inte. Och det är 100 % oberoende.</translation>
++<translation id="6919364924256365253">Don't Google it. Can't Bing it. Just Kahf it.</translation>
++<translation id="2640297688005939449">Kahf Sök profilerar dig inte. Och det är 100 % oberoende.</translation>
+ <translation id="7295094278358921487">Sök och du ska finna. Privat.</translation>
+-<translation id="3462465068145800637">Brave Sök profilerar dig inte. Och det är 100% oberoende av de stora teknikföretagen.</translation>
++<translation id="3462465068145800637">Kahf Sök profilerar dig inte. Och det är 100% oberoende av de stora teknikföretagen.</translation>
+ <translation id="42032117189492785">AI-stödd sökning med ett unikt index.</translation>
+ <translation id="8606416238399082160">Helt privat, 100% oberoende och med fantastiska AI-funktioner.</translation>
+-<translation id="7706528608480893054">DDG är bara Bing i förklädnad. Dags för riktiga integritet, bättre resultat och ett oberoende index. Dags för Brave Sök.</translation>
++<translation id="7706528608480893054">DDG är bara Bing i förklädnad. Dags för riktiga integritet, bättre resultat och ett oberoende index. Dags för Kahf Sök.</translation>
+ <translation id="3818133234428578803">Skippa ankan</translation>
+-<translation id="14817360483752259">Brave Sök spårar inte dig, dina sökningar eller klick. Och (till skillnad från DDG) är det inte bara Bing i förklädnad.</translation>
++<translation id="14817360483752259">Kahf Sök spårar inte dig, dina sökningar eller klick. Och (till skillnad från DDG) är det inte bara Bing i förklädnad.</translation>
+ <translation id="4381193110021038941">Få bättre resultat</translation>
+-<translation id="3846545273704969734">Brave Sök är oberoende verifierat att ge bättre resultat än Bing (eller Bing-kloner som DuckDuckGo).</translation>
++<translation id="3846545273704969734">Kahf Sök är oberoende verifierat att ge bättre resultat än Bing (eller Bing-kloner som DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Förbättra sökresultaten</translation>
+-<translation id="4639001639513524869">Brave Sök ger bättre resultat än DuckDuckGo för de flesta frågor. Och det är privat på riktigt.</translation>
+-<translation id="5240031343741051161">Prova Brave-sökning</translation>
++<translation id="4639001639513524869">Kahf Sök ger bättre resultat än DuckDuckGo för de flesta frågor. Och det är privat på riktigt.</translation>
++<translation id="5240031343741051161">Prova Kahf-sökning</translation>
+ <translation id="5234764350956374838">Ta bort permanent</translation>
+-<translation id="8722651357687610395">Ställ in Brave som ordinarie.</translation>
++<translation id="8722651357687610395">Ställ in Kahf som ordinarie.</translation>
+ <translation id="2370739752330685659">Kanske senare</translation>
+-<translation id="5100490448228945668">Avvisa Brave-sökkonvertering, tryck på Retur för att ta bort detta förslag</translation>
++<translation id="5100490448228945668">Avvisa Kahf-sökkonvertering, tryck på Retur för att ta bort detta förslag</translation>
+ <translation id="9194637241566114638">Hjälp till att förbättra <ph name="SEARCH_NAME"/> genom att skicka anonyma användningsdata.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave Search</translation>
++<translation id="7404610376221341525">Kahf Search</translation>
+ <translation id="8184318863960255706">Mer info</translation>
+ <translation id="780301667611848630">Nej tack</translation>
+-<translation id="1162706247109707219">Genom att klicka på OK bekräftar du att din installation av Brave INTE kommer att få kritiska säkerhetskorrigeringar förrän du uppdaterar till Windows 10 eller senare. Denna varning kommer INTE att visas igen.</translation>
+-<translation id="9164786361657554526">Genom att klicka på OK bekräftar du att din installation av Brave INTE kommer att få kritiska säkerhetskorrigeringar förrän du uppdaterar till macOS 10.15 eller senare. Denna varning kommer INTE att visas igen.</translation>
++<translation id="1162706247109707219">Genom att klicka på OK bekräftar du att din installation av Kahf INTE kommer att få kritiska säkerhetskorrigeringar förrän du uppdaterar till Windows 10 eller senare. Denna varning kommer INTE att visas igen.</translation>
++<translation id="9164786361657554526">Genom att klicka på OK bekräftar du att din installation av Kahf INTE kommer att få kritiska säkerhetskorrigeringar förrän du uppdaterar till macOS 10.15 eller senare. Denna varning kommer INTE att visas igen.</translation>
+ <translation id="2770465223704140727">Ta bort från listan</translation>
+ <translation id="6020553119523541665">Den här fliken är aktiv i ett annat fönster</translation>
+ <translation id="4987392683074136770">Om du klickar på den här fliken kommer dess innehåll att visas i det här fönstret</translation>
+@@ -299,8 +299,8 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="6453210454707928697">Misslyckades att spela upp objektet</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] kan ha gått ut. Vill du återställa den?</translation>
+ <translation id="6155018868740116868">Återställ</translation>
+-<translation id="1727684853006449697">Brave Player</translation>
+-<translation id="9156965752763025780">Ändringarna tillämpas nästa gång du startar om Brave.</translation>
++<translation id="1727684853006449697">Kahf Player</translation>
++<translation id="9156965752763025780">Ändringarna tillämpas nästa gång du startar om Kahf.</translation>
+ <translation id="7179921470347911571">Starta om nu</translation>
+ <translation id="1426410128494586442">Ja</translation>
+ <translation id="4250680216510889253">Nej</translation>
+@@ -339,7 +339,7 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="8820817407110198400">Bokmärkesfältet</translation>
+ <translation id="4144468798716165316">Snabbkommandon</translation>
+ <translation id="7310387888625228830">Leo AI-assistent</translation>
+-<translation id="5222974844674487962">Visa Brave News-knapp</translation>
++<translation id="5222974844674487962">Visa Kahf News-knapp</translation>
+ <translation id="383007806262310953">Visa bokmärkesfältet</translation>
+ <translation id="4054323497808446566">Bokmärkesfältet är synligt på alla sidor</translation>
+ <translation id="8693858092251192712">Bokmärkesfältet är dolt på alla sidor utom på sidan Ny flik</translation>
+@@ -440,7 +440,7 @@ Eller ändra senare på <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="4891600875049212418">Gå Off-The-Record när du besöker känsliga webbplatser</translation>
+ <translation id="1968895725257436430">Insamling av data</translation>
+ <translation id="4846154056248462491">Vid avslut</translation>
+-<translation id="2808630562319398131">Återställ data för Brave Rewards...</translation>
++<translation id="2808630562319398131">Återställ data för Kahf Rewards...</translation>
+ <translation id="6438096877646138757">Webbplatser som tar bort cookies när du stänger dem</translation>
+ <translation id="2988792685798128092">Ta bort vid stängning av webbplats</translation>
+ <translation id="7702907602086592255">Domän</translation>
+@@ -694,7 +694,7 @@ Leo. Det går inte att ångra den här åtgärden.</translation>
+ <translation id="7131172845656551327">Namnet på modellen så som det ska visas i begäran till serverramverket, t.ex. phi-3 (observera att om detta namn inte matchar exakt vad som förväntas av serverramverket kommer integrationen inte att fungera)</translation>
+ <translation id="3286410514484292784">Webbadress där ditt serverramverk lyssnar efter förfrågningar. Om du är osäker kan du kontrollera dokumentationen för serverramverket. För Ollama är detta t.ex. alltid http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Vissa serverramverk kan kräva autentiseringsuppgifter, t.ex. en API-nyckel eller en åtkomsttoken. Dessa kommer att läggas till i förfrågans rubrik.</translation>
+-<translation id="217141195370578385">Brave använder inte proxy för dessa förfrågningar, läs integritetsvillkoren för den valda leverantören.</translation>
++<translation id="217141195370578385">Kahf använder inte proxy för dessa förfrågningar, läs integritetsvillkoren för den valda leverantören.</translation>
+ <translation id="2645532768679870478">Icke-lokala slutpunkter bör använda HTTPS-protokoll för säker överföring av data.</translation>
+ <translation id="8177205483022887785">Du har angett en ogiltig URL. Vänligen ange en giltig URL.</translation>
+ <translation id="5249539665306267943">Lägg till ny modell</translation>

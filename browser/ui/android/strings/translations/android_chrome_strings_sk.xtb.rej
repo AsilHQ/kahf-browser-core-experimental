@@ -1,0 +1,978 @@
+diff a/browser/ui/android/strings/translations/android_chrome_strings_sk.xtb b/browser/ui/android/strings/translations/android_chrome_strings_sk.xtb	(rejected hunks)
+@@ -21,7 +21,7 @@
+ <translation id="1095142578254888918">Web <ph name="SITE_NAME"/> nemá povolené upozornenia</translation>
+ <translation id="1095761715416917775">Zaistite, aby ste mali neustály prístup k svojim údajom synchronizácie</translation>
+ <translation id="1100066534610197918">Otvoriť v skupine na novej karte</translation>
+-<translation id="4660777881054855091">Chcete pomôcť zlepšiť Brave?</translation>
++<translation id="4660777881054855091">Chcete pomôcť zlepšiť Kahf?</translation>
+ <translation id="1105960400813249514">Snímanie obrazovky</translation>
+ <translation id="1108214977745280468">Zobraziť štatistiky stránky</translation>
+ <translation id="1108938384783527433">Synchronizácia histórie</translation>
+@@ -32,14 +32,14 @@
+ <translation id="1129510026454351943">Podrobnosti: <ph name="ERROR_DESCRIPTION"/></translation>
+ <translation id="1142732900304639782">Neponúkať preklad týchto webov</translation>
+ <translation id="1145536944570833626">Odstrániť existujúce dáta.</translation>
+-<translation id="7083341910267693582">Aplikácia <ph name="APP_NAME"/> sa otvorí v Brave. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Brave<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Brave a systému Brave OS<ph name="END_LINK2"/>.</translation>
++<translation id="7083341910267693582">Aplikácia <ph name="APP_NAME"/> sa otvorí v Kahf. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Kahf<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Kahf a systému Kahf OS<ph name="END_LINK2"/>.</translation>
+ <translation id="115483310321669804">Použiť heslo <ph name="PASSWORD"/></translation>
+ <translation id="1173894706177603556">Premenovať</translation>
+-<translation id="7947699437047020219">Keď bude obrazovka úzka, Brave bude žiadať o mobilný web</translation>
++<translation id="7947699437047020219">Keď bude obrazovka úzka, Kahf bude žiadať o mobilný web</translation>
+ <translation id="3336989427111006280">Správca môže vzdialene vykonávať zmeny v profile a prehliadači, analyzovať informácie o prehliadači na základe reportov a vykonávať ďalšie potrebné úlohy. Aktivita v tomto zariadení môže byť spravovaná aj mimo Chromu.</translation>
+ <translation id="1177863135347784049">Vlastné</translation>
+ <translation id="1181037720776840403">Odstrániť</translation>
+-<translation id="4606796610935634842">Ak sa chcete uistiť, že vo svojom účte Brave môžete kedykoľvek použiť heslá, overte svoju totožnosť</translation>
++<translation id="4606796610935634842">Ak sa chcete uistiť, že vo svojom účte Kahf môžete kedykoľvek použiť heslá, overte svoju totožnosť</translation>
+ <translation id="1183443789037147668">{NUM_SITES,plural, =1{Upozornenia nie sú povolené pre 1 web}few{Upozornenia nie sú povolené pre # weby}many{Notifications not allowed for # sites}other{Upozornenia nie sú povolené pre # webov}}</translation>
+ <translation id="1187810343066461819">Odstrániť aj záložky, históriu a ďalší obsah z tohto auta</translation>
+ <translation id="1193729455103054076">Chcete použiť silné heslo?</translation>
+@@ -57,25 +57,25 @@
+ <translation id="1240288207750131269">Načítava sa <ph name="LANG"/></translation>
+ <translation id="1240903469550363138">Ak chcete pokračovať, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> bude s týmto webom zdieľať vaše meno, e‑mailovú adresu a profilovú fotku. Pozrite si <ph name="BEGIN_LINK1"/>pravidlá ochrany súkromia<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>zmluvné podmienky<ph name="END_LINK2"/> tohto webu.</translation>
+ <translation id="124116460088058876">Ďalšie jazyky</translation>
+-<translation id="4078574862195461280">Vaše heslá budú odstránené zo Správcu hesiel Brave v kanáli <ph name="CHROME_CHANNEL"/>. Súbor s heslami, ktorý ste práve stiahli, vám zostane.</translation>
++<translation id="4078574862195461280">Vaše heslá budú odstránené zo Správcu hesiel Kahf v kanáli <ph name="CHROME_CHANNEL"/>. Súbor s heslami, ktorý ste práve stiahli, vám zostane.</translation>
+ <translation id="1242883863226959074">zariadenie</translation>
+ <translation id="124678866338384709">Zavretie aktuálnej karty</translation>
+ <translation id="1246905108078336582">Chcete odstrániť návrh zo schránky?</translation>
+-<translation id="1996480094660735607">Sviatočné logo Brave: <ph name="DOODLE_DESCRIPTION"/></translation>
+-<translation id="7074197713963877855">Teraz vidíte obsah z kanála <ph name="SITE_NAME"/> a o ňom v sekcii Sledované. Weby a vyhľadávania, ktoré sledujete, sa ukladajú do vášho účtu Brave. Sledovania môžete kedykoľvek spravovať v nastaveniach.</translation>
++<translation id="1996480094660735607">Sviatočné logo Kahf: <ph name="DOODLE_DESCRIPTION"/></translation>
++<translation id="7074197713963877855">Teraz vidíte obsah z kanála <ph name="SITE_NAME"/> a o ňom v sekcii Sledované. Weby a vyhľadávania, ktoré sledujete, sa ukladajú do vášho účtu Kahf. Sledovania môžete kedykoľvek spravovať v nastaveniach.</translation>
+ <translation id="1263231323834454256">Čitateľský zoznam</translation>
+ <translation id="1269129608791067105">Tu nájdete svoju históriu</translation>
+ <translation id="1273937721055267968">Blokovať <ph name="DOMAIN"/></translation>
+ <translation id="1283039547216852943">Klepnutím rozbaliť</translation>
+-<translation id="194557235473047967">Zobrazí sa výzva, aby ste sa prihlásili do svojho účtu Brave</translation>
++<translation id="194557235473047967">Zobrazí sa výzva, aby ste sa prihlásili do svojho účtu Kahf</translation>
+ <translation id="129553762522093515">Nedávno zatvorené</translation>
+ <translation id="1298077576058087471">Ušetrite až 60 % dát, prečítajte si dnešné správy</translation>
+ <translation id="1303339473099049190">Dané heslo sa nepodarilo nájsť. Skontrolujte pravopis a skúste to znova.</translation>
+ <translation id="1303507811548703290"><ph name="DOMAIN"/> – odoslané zo zariadenia <ph name="DEVICE_NAME"/></translation>
+ <translation id="1320912611264252795">Priečinky s postupom uloženia záložky sú otvorené na úplnú výšku</translation>
+ <translation id="1327257854815634930">História navigácie je otvorená</translation>
+-<translation id="6773423637732432200">Brave sa nedá aktualizovať. Ďalšie možnosti</translation>
+-<translation id="3169981355900570544">Skratky pre funkcie prehliadača Brave</translation>
++<translation id="6773423637732432200">Kahf sa nedá aktualizovať. Ďalšie možnosti</translation>
++<translation id="3169981355900570544">Skratky pre funkcie prehliadača Kahf</translation>
+ <translation id="1333491156693005331">Nedávno skontrolované</translation>
+ <translation id="1344653310988386453">Zahrnúť odkaz na zvýraznenie</translation>
+ <translation id="1347468774581902829">Spravovať aktivitu</translation>
+@@ -88,18 +88,18 @@
+ <translation id="1383876407941801731">Vyhľadávanie</translation>
+ <translation id="1384704387250346179">Preklad obrázka funkciou Google Lens <ph name="BEGIN_NEW"/>Novinka<ph name="END_NEW"/></translation>
+ <translation id="1386674309198842382">Aktívne pred <ph name="LAST_UPDATED"/> dňami</translation>
+-<translation id="5463773698398059977">Môžete si zobraziť históriu z iných aplikácií, ktoré otvárajú odkazy v Brave. Váš účet Brave môže mať ďalšie formy histórie prehliadania na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
++<translation id="5463773698398059977">Môžete si zobraziť históriu z iných aplikácií, ktoré otvárajú odkazy v Kahf. Váš účet Kahf môže mať ďalšie formy histórie prehliadania na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+ <translation id="13931502444227376">Ak chcete pokračovať, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> bude s týmto webom zdieľať vaše meno, e‑mailovú adresu a profilovú fotku. Pozrite si <ph name="BEGIN_LINK1"/>zmluvné podmienky<ph name="END_LINK1"/> tohto webu.</translation>
+ <translation id="139752016751285248">Dolný hárok cenových štatistík je otvorený na celú výšku</translation>
+ <translation id="1397811292916898096">Hľadať pomocou vyhľadávača <ph name="PRODUCT_NAME"/></translation>
+-<translation id="846688154675148885">Vo svojom účte Brave môžete <ph name="BEGIN_LINK1"/>spravovať, ktoré údaje Chromu sa majú ukladať<ph name="END_LINK1"/>.
++<translation id="846688154675148885">Vo svojom účte Kahf môžete <ph name="BEGIN_LINK1"/>spravovať, ktoré údaje Chromu sa majú ukladať<ph name="END_LINK1"/>.
+ 
+ Ďalšie nastavenia, ktoré zlepšujú prostredie Chromu pomocou údajov, nájdete v <ph name="BEGIN_LINK2"/>službách Googlu<ph name="END_LINK2"/>.</translation>
+ <translation id="1407069428457324124">Tmavý motív</translation>
+ <translation id="1407135791313364759">Otvoriť všetko</translation>
+ <translation id="1409879593029778104">Sťahovanie súboru <ph name="FILE_NAME"/> bolo zrušené, pretože daný súbor už existuje.</translation>
+-<translation id="3219606989239049572">Ukladajte si údaje do účtu Brave</translation>
+-<translation id="1853026300647876496">Kontaktuje sa Brave. Môže to chvíľu trvať…</translation>
++<translation id="3219606989239049572">Ukladajte si údaje do účtu Kahf</translation>
++<translation id="1853026300647876496">Kontaktuje sa Kahf. Môže to chvíľu trvať…</translation>
+ <translation id="1416550906796893042">Verzia aplikácie</translation>
+ <translation id="1428770807407000502">Chcete vypnúť synchronizáciu?</translation>
+ <translation id="1430915738399379752">Tlačiť</translation>
+@@ -122,18 +122,18 @@
+ <translation id="1521774566618522728">Aktívne dnes</translation>
+ <translation id="5840742727909553422">K dispozícii je nová verzia Chromu</translation>
+ <translation id="3748360913454941567">Spôsoby platby a adresy nebudú šifrované. História prehliadania z Chromu sa nebude synchronizovať.
+-Šifrované údaje môže čítať iba používateľ s prístupovou frázou. Prístupová fráza sa do Googlu neodosiela a Brave ju ani neukladá. Ak prístupovú frázu zabudnete alebo budete chcieť toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>vymažte údaje Chromu vo svojom účte<ph name="END_LINK"/>.</translation>
+-<translation id="8090895580117672212">Ak chcete spravovať svoj účet Brave, klepnite na tlačidlo Spravovať účet</translation>
++Šifrované údaje môže čítať iba používateľ s prístupovou frázou. Prístupová fráza sa do Googlu neodosiela a Kahf ju ani neukladá. Ak prístupovú frázu zabudnete alebo budete chcieť toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>vymažte údaje Chromu vo svojom účte<ph name="END_LINK"/>.</translation>
++<translation id="8090895580117672212">Ak chcete spravovať svoj účet Kahf, klepnite na tlačidlo Spravovať účet</translation>
+ <translation id="154513667535157406">Označením palcom hore odošlete spätnú väzbu, že sa vám tento súhrn páčil</translation>
+ <translation id="1549000191223877751">Prejsť do druhého okna</translation>
+-<translation id="1705567146636171298">Aktualizovať Brave</translation>
++<translation id="1705567146636171298">Aktualizovať Kahf</translation>
+ <translation id="1568636008098739136">Vypočuť obsah tejto stránky. Ak chcete túto skratku upraviť, pridržte ju.</translation>
+ <translation id="1571304935088121812">Kopírovať používateľské meno</translation>
+-<translation id="1668445593689059872">Momentálne nemôžete používať heslá uložené v tomto zariadení v kanáloch Chromu. Od Chromu verzie 125 budú heslá pre Brave a <ph name="CHROME_CHANNEL"/> uložené vo vašom zariadení zlúčené a budú sa dať používať v oboch aplikáciách.</translation>
++<translation id="1668445593689059872">Momentálne nemôžete používať heslá uložené v tomto zariadení v kanáloch Chromu. Od Chromu verzie 125 budú heslá pre Kahf a <ph name="CHROME_CHANNEL"/> uložené vo vašom zariadení zlúčené a budú sa dať používať v oboch aplikáciách.</translation>
+ <translation id="1592864538817356322">Štandardná ochrana:</translation>
+ <translation id="1594635596540195766">Zoznam nižšie obsahuje navrhované položky (<ph name="SUGGESTIONS_COUNT"/>).</translation>
+ <translation id="1598163867407640634">Používajte <ph name="SITE_ETLD_PLUS_ONE"/> od poskytovateľa <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
+-<translation id="1851107663393500801">Keď je toto nastavenie zapnuté, údaje používate a ukladáte vo svojom účte Brave. Keď je vypnuté, údaje sa ukladajú iba do tohto zariadenia.</translation>
++<translation id="1851107663393500801">Keď je toto nastavenie zapnuté, údaje používate a ukladáte vo svojom účte Kahf. Keď je vypnuté, údaje sa ukladajú iba do tohto zariadenia.</translation>
+ <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{Odstrániť 1 vybranú položku}few{Odstrániť # vybrané položky}many{Odstrániť # vybranej položky}other{Odstrániť # vybraných položiek}}</translation>
+ <translation id="1641113438599504367">Bezpečné prehliadanie</translation>
+ <translation id="164269334534774161">Zobrazuje sa offline kópia tejto stránky z <ph name="CREATION_TIME"/></translation>
+@@ -152,16 +152,16 @@
+ <translation id="1710099199314114079">Prepnúť alebo zavrieť karty</translation>
+ <translation id="1718835860248848330">Posledná hodina</translation>
+ <translation id="1724977129262658800">Ak chcete upraviť heslo, odomknite</translation>
+-<translation id="6493900814829428590">Môžete prehliadať aj vyhľadávať rýchlejšie, keď Brave prednačíta tie stránky, ktoré podľa neho možno navštívite</translation>
++<translation id="6493900814829428590">Môžete prehliadať aj vyhľadávať rýchlejšie, keď Kahf prednačíta tie stránky, ktoré podľa neho možno navštívite</translation>
+ <translation id="1747593111377567311">{NUM_SITES,plural, =1{1 web nedávno odoslal veľa upozornení}few{# weby nedávno odoslali veľa upozornení}many{# sites recently sent a lot of notifications}other{# webov nedávno odoslalo veľa upozornení}}</translation>
+ <translation id="1749561566933687563">Synchronizujte svoje záložky</translation>
+-<translation id="12433225238423439">Naďalej používajte heslá vo svojom účte Brave</translation>
++<translation id="12433225238423439">Naďalej používajte heslá vo svojom účte Kahf</translation>
+ <translation id="1750259112639922169">Skupina kariet – počet kariet: <ph name="TAB_COUNT"/></translation>
+ <translation id="17513872634828108">Otvorené karty</translation>
+ <translation id="1755203724116202818">Medzi webmi sa zdieľajú obmedzené typy údajov na meranie výkonnosti reklamy, napríklad či ste si po prejdení na nejaký web niečo kúpili.</translation>
+-<translation id="9207812657123271782">Aktualita týkajúce sa Správcu hesiel Brave</translation>
++<translation id="9207812657123271782">Aktualita týkajúce sa Správcu hesiel Kahf</translation>
+ <translation id="1760873718737761808">{FILE_COUNT,plural, =1{Stránky, 1 stránka v zozname}few{Stránky, # stránky v zozname}many{Pages, # pages in list}other{Stránky, # stránok v zozname}}</translation>
+-<translation id="9142246815232811613">Informácie o vašom používaní Chromu sa odosielajú Googlu, avšak nie sú s vami spojené.\n\nV prípade pádov Chromu môžu podrobnosti o nich obsahovať určité osobné údaje.\n\nAk budete synchronizovať históriu do svojho účtu Brave, môžu metriky zahŕňať aj informácie o webových adresách, ktoré navštevujete.</translation>
++<translation id="9142246815232811613">Informácie o vašom používaní Chromu sa odosielajú Googlu, avšak nie sú s vami spojené.\n\nV prípade pádov Chromu môžu podrobnosti o nich obsahovať určité osobné údaje.\n\nAk budete synchronizovať históriu do svojho účtu Kahf, môžu metriky zahŕňať aj informácie o webových adresách, ktoré navštevujete.</translation>
+ <translation id="1778457539567749232">Označiť ako neprečítané</translation>
+ <translation id="1779766957982586368">Zavrieť okno</translation>
+ <translation id="1780023393214832643">Heslá boli uložené do účtu <ph name="USERNAME"/></translation>
+@@ -202,7 +202,7 @@
+ <translation id="3968054912784331254">Pre túto verziu Androidu už nie sú podporované aktualizácie Chromu</translation>
+ <translation id="1963976881984600709">Štandardná ochrana</translation>
+ <translation id="1966710179511230534">Aktualizujte svoje prihlasovacie údaje.</translation>
+-<translation id="789731011736896184">Odstránením dát prehliadania sa neodhlásite z účtu Brave. Ak to chcete urobiť, <ph name="BEGIN_LINK1"/>odhláste sa z Chromu<ph name="END_LINK1"/>.</translation>
++<translation id="789731011736896184">Odstránením dát prehliadania sa neodhlásite z účtu Kahf. Ak to chcete urobiť, <ph name="BEGIN_LINK1"/>odhláste sa z Chromu<ph name="END_LINK1"/>.</translation>
+ <translation id="197288927597451399">Uložiť</translation>
+ <translation id="1973912524893600642">Ponechať údaje</translation>
+ <translation id="1974060860693918893">Rozšírené</translation>
+@@ -233,13 +233,13 @@
+ <translation id="2132122640199389833">Odstrániť všetky prepojené zariadenia</translation>
+ <translation id="213279576345780926">Karta „<ph name="TAB_TITLE"/>“ je zavretá</translation>
+ <translation id="2139186145475833000">Pridať na plochu</translation>
+-<translation id="3551984101540668623">Vaša aktivita v štatistikách stránok sa ukladá do vášho účtu Brave. <ph name="BEGIN_LINK"/>Ako ju spravovať<ph name="END_LINK"/></translation>
++<translation id="3551984101540668623">Vaša aktivita v štatistikách stránok sa ukladá do vášho účtu Kahf. <ph name="BEGIN_LINK"/>Ako ju spravovať<ph name="END_LINK"/></translation>
+ <translation id="2141396931810938595">Na základe vášho používania</translation>
+-<translation id="5905359144499324202">Brave vykonáva pravidelné kontroly s cieľom uistiť sa, že v prehliadači máte najbezpečnejšie nastavenia. Ak bude treba, aby ste niečo skontrolovali, oznámime vám to.</translation>
++<translation id="5905359144499324202">Kahf vykonáva pravidelné kontroly s cieľom uistiť sa, že v prehliadači máte najbezpečnejšie nastavenia. Ak bude treba, aby ste niečo skontrolovali, oznámime vám to.</translation>
+ <translation id="2149973817440762519">Upraviť záložku</translation>
+ <translation id="2155214902713132423">Tento spôsob overenia nie pre toto zariadenie k dispozícii. Vyberte si inú možnosť v druhom zariadení.</translation>
+ <translation id="4162910516440006395">Chromu sa nepodarilo skontrolovať všetky heslá</translation>
+-<translation id="526235294307144732">Ak chcete vo svojom účte Brave používať a ukladať údaje Chromu, zadajte prístupovú frázu</translation>
++<translation id="526235294307144732">Ak chcete vo svojom účte Kahf používať a ukladať údaje Chromu, zadajte prístupovú frázu</translation>
+ <translation id="2166228530126694506">Verzia <ph name="VERSION_NUMBER"/></translation>
+ <translation id="2172688499998841696">Popisy obrázkov sú vypnuté</translation>
+ <translation id="2172905120685242547">Chcete zavrieť okno?</translation>
+@@ -273,7 +273,7 @@
+ <translation id="233375395665273385">Odstrániť a odhlásiť</translation>
+ <translation id="2341410551640223969"><ph name="WEBAPK_NAME"/> sa nepodarilo nainštalovať.</translation>
+ <translation id="3587672679800759167">Celkové dáta využívané Chromom vrátane účtov, záložiek a uložených nastavení</translation>
+-<translation id="2767094839186957509">Pravidlá ochrany súkromia spoločnosti Brave</translation>
++<translation id="2767094839186957509">Pravidlá ochrany súkromia spoločnosti Kahf</translation>
+ <translation id="2359808026110333948">Pokračovať</translation>
+ <translation id="2362083820973145409">Prihlásili ste sa ako <ph name="USER_NAME"/>. <ph name="USER_EMAIL"/>. Otvorí nastavenia.</translation>
+ <translation id="2364539095045928896">Tlačidlo zatvorenia na zavretie oznámenia o ochrane súkromia v Centre štatistík stránky</translation>
+@@ -293,19 +293,19 @@
+ <translation id="2453860139492968684">Dokončiť</translation>
+ <translation id="2461822463642141190">Aktuálna</translation>
+ <translation id="2468444275314013497">Váš prehliadač je v poriadku</translation>
+-<translation id="2542068854151299295">Prihláste sa, aby ste mohli Brave využívať naplno</translation>
++<translation id="2542068854151299295">Prihláste sa, aby ste mohli Kahf využívať naplno</translation>
+ <translation id="247737702124049222">Popisy obrázkov sú zapnuté</translation>
+ <translation id="2479148705183875116">Prejsť do Nastavení</translation>
+ <translation id="2482878487686419369">Upozornenia</translation>
+ <translation id="2496180316473517155">História prehliadania</translation>
+ <translation id="2497852260688568942">Synchronizácia je zakázaná správcom</translation>
+-<translation id="7229462727772664332">Zobrazí sa váš stav prihlásenia na webe <ph name="SITE_NAME"/>, dáta prehliadania a údaje webu v Brave</translation>
++<translation id="7229462727772664332">Zobrazí sa váš stav prihlásenia na webe <ph name="SITE_NAME"/>, dáta prehliadania a údaje webu v Kahf</translation>
+ <translation id="2510106555128151389">Inštaluje sa <ph name="WEBAPK_NAME"/>...</translation>
+ <translation id="7222718784508482526">Ďalšie nastavenia týkajúce sa ochrany súkromia, zabezpečenia a zhromažďovania dát nájdete v časti <ph name="BEGIN_LINK"/>Synchronizácia a služby Googlu<ph name="END_LINK"/></translation>
+ <translation id="786015673145068023">Chcete odstrániť údaje Chromu z tohto zariadenia?</translation>
+ <translation id="2517113738956581680">Hárok v plnej veľkosti</translation>
+ <translation id="284843628681142937">Odosiela Googlu webové adresy navštívených stránok</translation>
+-<translation id="8808315979415031229">Prejsť do hlasového vyhľadávania aplikácie Brave</translation>
++<translation id="8808315979415031229">Prejsť do hlasového vyhľadávania aplikácie Kahf</translation>
+ <translation id="2527209463677295330">Ak zahrniete viac textu stránky, môžu sa vám zobraziť lepšie výsledky</translation>
+ <translation id="2527779675047087889">Skryť obsah schránky</translation>
+ <translation id="2532336938189706096">Webové zobrazenie</translation>
+@@ -316,12 +316,12 @@
+ <translation id="2560519950693256002">Nedávno skontrolované heslá boli uložené do účtu <ph name="USERNAME"/></translation>
+ <translation id="2567385386134582609">OBRÁZOK</translation>
+ <translation id="2567545343356994513">Rýchlejšia a proaktívna ochrana pred nebezpečnými webmi, stiahnutými súbormi a rozšíreniami</translation>
+-<translation id="5079947353572974060">Ponúkať odosielanie stránok v cudzích jazykoch do Prekladača Brave</translation>
++<translation id="5079947353572974060">Ponúkať odosielanie stránok v cudzích jazykoch do Prekladača Kahf</translation>
+ <translation id="2571834852878229351">Vytvoriť vlastné</translation>
+-<translation id="7242554556818074465">Ak chcete vidieť svoje karty vo všetkých zariadeniach, v ktorých používate Brave, prihláste sa v nich</translation>
++<translation id="7242554556818074465">Ak chcete vidieť svoje karty vo všetkých zariadeniach, v ktorých používate Kahf, prihláste sa v nich</translation>
+ <translation id="8661556138616664061">Obsah od Googlu pre mladších</translation>
+ <translation id="2579297619530305344">Heslá vo všetkých vašich zariadeniach sú otvorené na celú výšku</translation>
+-<translation id="2324920234469020158">Táto akcia vymaže súbory cookie, vyrovnávaciu pamäť a ďalšie údaje webov, ktoré Brave nepovažuje za dôležité.</translation>
++<translation id="2324920234469020158">Táto akcia vymaže súbory cookie, vyrovnávaciu pamäť a ďalšie údaje webov, ktoré Kahf nepovažuje za dôležité.</translation>
+ <translation id="2587052924345400782">Je dostupná novšia verzia</translation>
+ <translation id="2593272815202181319">Neproporcionálne</translation>
+ <translation id="2603212228005142861">Ak chcete spravovať predvoľby, prihláste sa</translation>
+@@ -345,7 +345,7 @@
+ <translation id="2656405586795711023">Webové aplikácie</translation>
+ <translation id="2664252182805397291">Zobraziť weby</translation>
+ <translation id="2669454659051515572">Stiahnuté súbory uvidia všetci používatelia tohto zariadenia</translation>
+-<translation id="5806087344347665213">Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Brave môže odoslať Googlu webové adresy vrátane častí obsahu stránok</translation>
++<translation id="5806087344347665213">Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Kahf môže odoslať Googlu webové adresy vrátane častí obsahu stránok</translation>
+ <translation id="2702516483241149200">Novinka: zdieľajte odkaz, ktorý posunie zobrazenie na tento text</translation>
+ <translation id="2705073298859543115">Vytvoriť súhrn</translation>
+ <translation id="3769942772151914580">Proaktívna ochrana v reálnom čase proti nebezpečným webom, stiahnutým súborom a rozšíreniam, ktorá je založená na odosielaní vašich dát prehliadania Googlu</translation>
+@@ -384,10 +384,10 @@
+ <translation id="2870560284913253234">Web</translation>
+ <translation id="2871733351037274014">Prednačítavanie stránok</translation>
+ <translation id="2876136027428473467"><ph name="CHILD_NAME"/> chce, aby ste schválili tento web:</translation>
+-<translation id="6756656512757374876"><ph name="BEGIN_LINK"/>Ako Brave uchováva vaše údaje v súkromí<ph name="END_LINK"/></translation>
+-<translation id="8541922081612557424">O prehliadači Brave</translation>
++<translation id="6756656512757374876"><ph name="BEGIN_LINK"/>Ako Kahf uchováva vaše údaje v súkromí<ph name="END_LINK"/></translation>
++<translation id="8541922081612557424">O prehliadači Kahf</translation>
+ <translation id="2891154217021530873">Zastaviť načítavanie stránky</translation>
+-<translation id="4013614219085422040">Brave môže pomocou vašej histórie prispôsobiť Vyhľadávanie a ďalšie služby Googlu</translation>
++<translation id="4013614219085422040">Kahf môže pomocou vašej histórie prispôsobiť Vyhľadávanie a ďalšie služby Googlu</translation>
+ <translation id="2894821468041866720">Prehliadač ani zariadenie výrazne nespomalí.</translation>
+ <translation id="2895521649038438824">Môžete si vypočuť túto stránku</translation>
+ <translation id="2900528713135656174">Vytvorte udalosť</translation>
+@@ -395,19 +395,19 @@
+ <translation id="2904300462646366554">Stiahnuté súbory PDF sa automaticky otvoria pomocou jedného zo zobrazovačov súborov PDF vo vašom zariadení</translation>
+ <translation id="2904414404539560095">Zoznam zariadení, s ktorými sa má zdieľať karta, je otvorený na plnú výšku.</translation>
+ <translation id="2908243544703713905">K dispozícii sú neprečítané správy</translation>
+-<translation id="7339921667754113786">Brave Notifications Platform</translation>
++<translation id="7339921667754113786">Kahf Notifications Platform</translation>
+ <translation id="2923908459366352541">Názov je neplatný</translation>
+-<translation id="6355102470683871794">Úložisko Brave <ph name="APP_NAME"/></translation>
++<translation id="6355102470683871794">Úložisko Kahf <ph name="APP_NAME"/></translation>
+ <translation id="2932222164150889403">Klávesnica sa nezmení</translation>
+ <translation id="6537665929855787038">Upozornenia Chromu všetko uľahčia</translation>
+ <translation id="2940075786175545812">Možnosť schváliť alebo neschváliť web</translation>
+ <translation id="2942036813789421260">Karta ukážky je zatvorená</translation>
+-<translation id="4700262879698141140">Aktualizuje sa Brave, aby sa dalo pripojiť k iným zariadeniam</translation>
++<translation id="4700262879698141140">Aktualizuje sa Kahf, aby sa dalo pripojiť k iným zariadeniam</translation>
+ <translation id="2951071800649516099">Pridajte si do čitateľského zoznamu strany na neskôr</translation>
+ <translation id="2956070106555335453">Súhrn</translation>
+ <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE"/> neprečítaná stránka}few{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> neprečítané stránky}many{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> neprečítanej stránky}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> neprečítaných stránok}}</translation>
+ <translation id="2972109037780336501">Automaticky odstraňovať povolenia</translation>
+-<translation id="9016397405981579308">Niektoré údaje Chromu zatiaľ neboli vo vašom účte Brave uložené.\nNež sa odhlásite, skúste niekoľko minút počkať. Ak sa odhlásite teraz, tieto údaje budú odstránené.</translation>
++<translation id="9016397405981579308">Niektoré údaje Chromu zatiaľ neboli vo vašom účte Kahf uložené.\nNež sa odhlásite, skúste niekoľko minút počkať. Ak sa odhlásite teraz, tieto údaje budú odstránené.</translation>
+ <translation id="2977350910003566746">Zoraďuje sa podľa posledného otvorenia</translation>
+ <translation id="297771753501244313">Zoradiť podľa posl. otv.</translation>
+ <translation id="2979639724566107830">Otvoriť v novom okne</translation>
+@@ -434,11 +434,11 @@
+ <translation id="4163313568284712797">Informácie o vašom používaní Chromu sa odosielajú Googlu, avšak nie sú s vami spojené.\n\nV prípade pádov Chromu môžu podrobnosti o nich obsahovať určité osobné údaje.\n\nAk vypnete synchronizáciu, môžu metriky zahŕňať aj informácie o webových adresách, ktoré navštevujete.</translation>
+ <translation id="3059531648236115056">Pridať súhrn</translation>
+ <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE"/> záložka}few{<ph name="BOOKMARKS_COUNT_MANY"/> záložky}many{<ph name="BOOKMARKS_COUNT_MANY"/> bookmarks}other{<ph name="BOOKMARKS_COUNT_MANY"/> záložiek}}</translation>
+-<translation id="6153252609477956632">Články o vašich záujmoch v Brave</translation>
++<translation id="6153252609477956632">Články o vašich záujmoch v Kahf</translation>
+ <translation id="3066573403916685335">Presunúť nadol</translation>
+ <translation id="3067505415088964188">Cena je nízka</translation>
+ <translation id="3070005020161560471">Automaticky prekladať</translation>
+-<translation id="1094255666887095087">Aplikácia <ph name="APP_NAME"/> sa otvorí v Brave. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Brave<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Brave a systému Brave OS<ph name="END_LINK2"/>. Uplatňujú sa aj <ph name="BEGIN_LINK3"/>pravidlá ochrany súkromia<ph name="END_LINK3"/>.</translation>
++<translation id="1094255666887095087">Aplikácia <ph name="APP_NAME"/> sa otvorí v Kahf. Pokračovaním vyjadrujete súhlas so <ph name="BEGIN_LINK1"/>zmluvnými podmienkami spoločnosti Kahf<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>dodatočnými zmluvnými podmienkami prehliadača Kahf a systému Kahf OS<ph name="END_LINK2"/>. Uplatňujú sa aj <ph name="BEGIN_LINK3"/>pravidlá ochrany súkromia<ph name="END_LINK3"/>.</translation>
+ <translation id="3080525922482950719">Stránky si môžete uložiť a prečítať neskôr či offline</translation>
+ <translation id="3091010850649238832">Zobraziť obsah schránky</translation>
+ <translation id="3093004810561729002">Niekto</translation>
+@@ -449,18 +449,18 @@
+ <translation id="5063487983358782016">Domovská stránky Chromu</translation>
+ <translation id="3158667104057012316">Zoraďuje sa manuálne</translation>
+ <translation id="3166827708714933426">Skratky pre karty a okná</translation>
+-<translation id="7249949543831830993">Brave je tu už spustený.</translation>
++<translation id="7249949543831830993">Kahf je tu už spustený.</translation>
+ <translation id="3167258285411721858">Môžete požiadať o mobilný web pre <ph name="HOST_NAME"/></translation>
+ <translation id="3169472444629675720">Discover</translation>
+-<translation id="2092041395892578327">{PASSWORDS_COUNT,plural, =1{1 heslo a ďalšie položky sú uložené iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Brave <ph name="ACCOUNT_EMAIL"/>.}few{# heslá a ďalšie položky sú uložené iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Brave <ph name="ACCOUNT_EMAIL"/>.}many{# passwords and other items are saved only to this device. To use them on your other devices, save them in your Brave sync chain, <ph name="ACCOUNT_EMAIL"/>.}other{# hesiel a ďalších položiek je uložených iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Brave <ph name="ACCOUNT_EMAIL"/>.}}</translation>
++<translation id="2092041395892578327">{PASSWORDS_COUNT,plural, =1{1 heslo a ďalšie položky sú uložené iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Kahf <ph name="ACCOUNT_EMAIL"/>.}few{# heslá a ďalšie položky sú uložené iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Kahf <ph name="ACCOUNT_EMAIL"/>.}many{# passwords and other items are saved only to this device. To use them on your other devices, save them in your Kahf sync chain, <ph name="ACCOUNT_EMAIL"/>.}other{# hesiel a ďalších položiek je uložených iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Kahf <ph name="ACCOUNT_EMAIL"/>.}}</translation>
+ <translation id="3187472288455401631">Meranie reklám</translation>
+ <translation id="3207960819495026254">Pridané medzi záložky</translation>
+ <translation id="3208584281581115441">Skontrolovať</translation>
+ <translation id="3211426585530211793">Záložka <ph name="ITEM_TITLE"/> bola odstránená</translation>
+-<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>História vyhľadávania<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>ďalšie formy aktivity<ph name="END_LINK2"/> sa môžu ukladať do vášho účtu Brave, keď sa doň prihlásite. Môžete ich kedykoľvek odstrániť.</translation>
++<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>História vyhľadávania<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>ďalšie formy aktivity<ph name="END_LINK2"/> sa môžu ukladať do vášho účtu Kahf, keď sa doň prihlásite. Môžete ich kedykoľvek odstrániť.</translation>
+ <translation id="3220943972464248773">Ak chcete synchronizovať heslá, overte svoju totožnosť</translation>
+-<translation id="9210457680074341078">Ak vo svojom účte Brave ukladáte aj záložky, môžete sledovať ceny produktov v prehliadači Brave a dostávať upozornenia na poklesy ceny</translation>
+-<translation id="9047551989591319903">Brave ako bezpečnostný kľúč</translation>
++<translation id="9210457680074341078">Ak vo svojom účte Kahf ukladáte aj záložky, môžete sledovať ceny produktov v prehliadači Kahf a dostávať upozornenia na poklesy ceny</translation>
++<translation id="9047551989591319903">Kahf ako bezpečnostný kľúč</translation>
+ <translation id="3232293466644486101">Odstrániť dáta prehliadania…</translation>
+ <translation id="3232459301230493791">Bolo odstránených niekoľko kariet (<ph name="TAB_COUNT"/>)</translation>
+ <translation id="3232754137068452469">Webová aplikácia</translation>
+@@ -488,21 +488,21 @@
+ <translation id="3341262203274374114">Nedá sa prestať sledovať. Vyskytol sa problém.</translation>
+ <translation id="3359667936385849800">Použiť aktuálneho poskytovateľa služieb</translation>
+ <translation id="3373701465337594448">Keď je táto možnosť zapnutá, tu sa bude zobrazovať zoznam navštevovaných webov, ktoré odhadujú vaše záujmy</translation>
+-<translation id="8801234437789558906">Vaše záložky, história, heslá a ďalšie údaje Chromu nebudú viac synchronizované s účtom Brave</translation>
++<translation id="8801234437789558906">Vaše záložky, história, heslá a ďalšie údaje Chromu nebudú viac synchronizované s účtom Kahf</translation>
+ <translation id="3384347053049321195">Zdieľať obrázok</translation>
+ <translation id="3387650086002190359">Súbor <ph name="FILE_NAME"/> sa nepodarilo stiahnuť z dôvodu chýb systému súborov.</translation>
+ <translation id="3398320232533725830">Otvorenie správcu záložiek</translation>
+ <translation id="1081508498128395141">Prednačítavajú sa ďalšie stránky. Stránky môžu byť prednačítané prostredníctvom serverov Googlu, keď o ne požiadajú iné weby.</translation>
+ <translation id="3414952576877147120">Veľkosť:</translation>
+ <translation id="3421726884497337397">Vyberte, kedy blokovať súbory cookie tretích strán</translation>
+-<translation id="5265419033369521352">Chráni vás v Brave a môže zlepšiť zabezpečenie v ďalších aplikáciách Brave, keď sa prihlásite</translation>
++<translation id="5265419033369521352">Chráni vás v Kahf a môže zlepšiť zabezpečenie v ďalších aplikáciách Kahf, keď sa prihlásite</translation>
+ <translation id="3430670036890315772">Vypnutím zámky profilu odstránite uložené informácie</translation>
+ <translation id="3435465986463792564">Máte veľa okien? Tu ich môžete spravovať.</translation>
+ <translation id="3435738964857648380">Bezpečnosť</translation>
+ <translation id="3439276997620616816">Tu nájdete svoje nedávne karty</translation>
+ <translation id="3443221991560634068">Opätovné načítanie aktuálnej stránky</translation>
+ <translation id="3444179773590444986">Chcete zdieľať spätnú väzbu k tmavému motívu pre weby?</translation>
+-<translation id="7384339501748168186">V záujme ochrany vášho súkromia nebude Brave do tohto poľa automaticky dopĺňať heslá.</translation>
++<translation id="7384339501748168186">V záujme ochrany vášho súkromia nebude Kahf do tohto poľa automaticky dopĺňať heslá.</translation>
+ <translation id="3467081767799433066">Keď používate meranie reklám, medzi webmi sa zdieľajú obmedzené typy údajov na meranie výkonnosti ich reklám, napríklad či ste si po prejdení na nejaký web niečo kúpili.</translation>
+ <translation id="3474624961160222204">Pokračovať ako <ph name="NAME"/></translation>
+ <translation id="3478363558367712427">Môžete si vybrať vyhľadávač</translation>
+@@ -540,11 +540,11 @@
+ <translation id="3622349720008044802">Správa okien</translation>
+ <translation id="3623240789707551553">{DOMAIN_COUNT,plural, =1{+ 1 web}few{+ # weby}many{+ # sites}other{+ # webov}}</translation>
+ <translation id="3631987586758005671">Zdieľa sa so zariadením <ph name="DEVICE_NAME"/></translation>
+-<translation id="871233388178581868">Brave môže skontrolovať heslá, keď ich uložíte</translation>
++<translation id="871233388178581868">Kahf môže skontrolovať heslá, keď ich uložíte</translation>
+ <translation id="363596933471559332">Povolí automatické prihlasovanie na webové stránky pomocou uložených poverení. Keď je funkcia vypnutá, zobrazí sa výzva na overenie vždy pred prihlásením na web.</translation>
+ <translation id="3636940436873918441">Preferované jazyky</translation>
+ <translation id="7120697372526128040">Ak ste zabudli prístupovú frázu alebo chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chromu vo svojom účte<ph name="END_LINK"/>.</translation>
+-<translation id="5399378599142661690">Prejsť na domovskú stránku aplikácie Brave</translation>
++<translation id="5399378599142661690">Prejsť na domovskú stránku aplikácie Kahf</translation>
+ <translation id="368329460027487650">Účet je odhlásený. Otvoria sa možnosti na prihlásenie.</translation>
+ <translation id="3684540848053703310">Dolný hárok cenových štatistík je zatvorený</translation>
+ <translation id="3687645719033307815">Zobrazujete si ukážku tejto stránky</translation>
+@@ -556,10 +556,10 @@
+ <translation id="3701515417135397388">Upozorniť, keď bolo heslo prezradené v rámci porušenia ochrany údajov</translation>
+ <translation id="371230970611282515">Predpovedá nebezpečné udalosti a upozorní vás, než k nim dôjde.</translation>
+ <translation id="3714981814255182093">Otvorenie Panela vyhľadávania</translation>
+-<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Brave pozastavil.</translation>
+-<translation id="7305861879874805497">Môžete si zobraziť históriu z iných aplikácií, ktoré otvárajú odkazy v Brave.</translation>
++<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Kahf pozastavil.</translation>
++<translation id="7305861879874805497">Môžete si zobraziť históriu z iných aplikácií, ktoré otvárajú odkazy v Kahf.</translation>
+ <translation id="3720422586473670527">Nie, vďaka</translation>
+-<translation id="8397843425685839889">Vy a Brave</translation>
++<translation id="8397843425685839889">Vy a Kahf</translation>
+ <translation id="3737319253362202215">Nastavenia prekladu</translation>
+ <translation id="3737402728074743863">Ak chcete používať toto zariadenie ako bezpečnostný kľúč, nastavte si zámku obrazovky</translation>
+ <translation id="3738139272394829648">Vyhľadávanie klepnutím</translation>
+@@ -567,7 +567,7 @@
+ <translation id="3740525748616366977">Hlasové vyhľadávanie nie je k dispozícii v tomto zariadení</translation>
+ <translation id="376561056759077985">Niektoré údaje ešte nie sú uložené</translation>
+ <translation id="3771290962915251154">Toto nastavenie je deaktivované, pretože je zapnutá rodičovská kontrola</translation>
+-<translation id="1138681184697033370">Zmluvné podmienky spoločnosti Brave</translation>
++<translation id="1138681184697033370">Zmluvné podmienky spoločnosti Kahf</translation>
+ <translation id="3775705724665058594">Odoslanie do zariadení</translation>
+ <translation id="3777796259512476958">Odhlási vás z väčšiny webov</translation>
+ <translation id="3791957072666773229">{TAB_COUNT,plural, =1{1 karta}few{# karty}many{# tabs}other{# kariet}}</translation>
+@@ -595,9 +595,9 @@
+ <translation id="393697183122708255">Žiadne povol. hlas. vyhľad. k dispozícii</translation>
+ <translation id="3950820424414687140">Prihlásiť sa</translation>
+ <translation id="395377504920307820">Použiť bez účtu</translation>
+-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Brave stránku načíta, keď bude k dispozícii}few{Brave stránku načíta, keď bude k dispozícii}many{Brave stránku načíta, keď bude k dispozícii}other{Brave stránku načíta, keď bude k dispozícii}}</translation>
++<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Kahf stránku načíta, keď bude k dispozícii}few{Kahf stránku načíta, keď bude k dispozícii}many{Kahf stránku načíta, keď bude k dispozícii}other{Kahf stránku načíta, keď bude k dispozícii}}</translation>
+ <translation id="3962119236270174787">Štandardná ochrana pred nebezpečnými webmi, stiahnutými súbormi a rozšíreniami</translation>
+-<translation id="1453002554835005700">Brave nemôže skontrolovať heslá</translation>
++<translation id="1453002554835005700">Kahf nemôže skontrolovať heslá</translation>
+ <translation id="3969863827134279083">Presunúť nahor</translation>
+ <translation id="397105322502079400">Prebieha výpočet...</translation>
+ <translation id="397583555483684758">Synchronizácia prestala fungovať</translation>
+@@ -632,12 +632,12 @@
+ <translation id="4108998448622696017">Zisťuje škodlivé udalosti a upozorní vás, keď k nim dôjde.</translation>
+ <translation id="4113030288477039509">Spravované vaším správcom</translation>
+ <translation id="4116038641877404294">Stiahnite si stránky na použitie offline</translation>
+-<translation id="37459938731864814">Toto heslo si nebudete musieť pamätať. Uloží sa do Správcu hesiel Brave v účte <ph name="USERNAME"/>.</translation>
++<translation id="37459938731864814">Toto heslo si nebudete musieť pamätať. Uloží sa do Správcu hesiel Kahf v účte <ph name="USERNAME"/>.</translation>
+ <translation id="4124152339699379357">Postup povolenia posielať upozornenia je otvorený na celú výšku</translation>
+ <translation id="4126285640274188657">Štatistiky stránky</translation>
+ <translation id="4135200667068010335">Zoznam zariadení, s ktorými sa má zdieľať karta, je zavretý.</translation>
+ <translation id="4137746084635924146">Aktuálny jazyk zariadenia</translation>
+-<translation id="2244754938072041239">Brave Canary</translation>
++<translation id="2244754938072041239">Kahf Canary</translation>
+ <translation id="414128724510021958">V predvolenom nastavení sú požadované weby pre počítače</translation>
+ <translation id="4162867837470729563">Zoznam možností zdieľania je otvorený na celú výšku.</translation>
+ <translation id="4170011742729630528">Služba nie je k dispozícii. Skúste to neskôr.</translation>
+@@ -649,7 +649,7 @@
+ <translation id="4197828496439691735">{NUM_TABS,plural, =1{1 karta v tomto zariadení}few{# karty v tomto zariadení}many{# tabs on this device}other{# kariet v tomto zariadení}}</translation>
+ <translation id="4198423547019359126">Nie sú k dispozícii žiadne umiestnenia stiahnutých súborov</translation>
+ <translation id="4202218894997543208">Blokované témy</translation>
+-<translation id="1675646381334855139">Keď povolíte súbory cookies, Brave môže pomocou nich prednačítavať.</translation>
++<translation id="1675646381334855139">Keď povolíte súbory cookies, Kahf môže pomocou nich prednačítavať.</translation>
+ <translation id="4216511743389425832">Vypočuť obsah tejto stránky</translation>
+ <translation id="4225725533026049334">Sledovaný</translation>
+ <translation id="4225895483398857530">Skratka panela s nástrojmi</translation>
+@@ -658,11 +658,11 @@
+ <translation id="7445061995866044926">Odhlásiť sa z Chromu?</translation>
+ <translation id="4249955472157341256">Zoradiť od najnovších</translation>
+ <translation id="4256782883801055595">Licencie open source</translation>
+-<translation id="7404502124231907662">Chcete odstrániť heslá zo Správcu hesiel Brave?</translation>
++<translation id="7404502124231907662">Chcete odstrániť heslá zo Správcu hesiel Kahf?</translation>
+ <translation id="426652736638196239">Toto číslo IBAN sa uloží iba do tohto zariadenia</translation>
+ <translation id="4269820728363426813">Kopírovať adresu odkazu</translation>
+ <translation id="4277529130885813215">Použiť iné zariadenie</translation>
+-<translation id="6553929648301062677">Vaša organizácia <ph name="MANAGED_DOMAIN"/> spravuje účet, do ktorého sa prihlasujete, a spôsob, akým sa dá Brave používať. Váš správca môže nastaviť alebo obmedziť určité funkcie.</translation>
++<translation id="6553929648301062677">Vaša organizácia <ph name="MANAGED_DOMAIN"/> spravuje účet, do ktorého sa prihlasujete, a spôsob, akým sa dá Kahf používať. Váš správca môže nastaviť alebo obmedziť určité funkcie.</translation>
+ <translation id="4285846616383034558">Súbory cookie, vyrovnávacia pamäť a ďalšie dáta webov</translation>
+ <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Zapnite zámku obrazovky v nastaveniach Androidu<ph name="END_LINK"/></translation>
+ <translation id="4298388696830689168">Prepojené weby</translation>
+@@ -687,7 +687,7 @@
+ <translation id="4405636711880428279">Chcete virtuálnu kartu odstrániť?</translation>
+ <translation id="4409014848144759297"><ph name="WEBSITE_TITLE"/> a ďalšie karty (<ph name="TAB_COUNT"/>)</translation>
+ <translation id="4409271659088619928">Používate vyhľadávač <ph name="DSE"/>. Prečítajte si jeho pokyny, ako odstrániť históriu vyhľadávania (ak je to možné).</translation>
+-<translation id="5749788945734786627">Spravovať účet Brave</translation>
++<translation id="5749788945734786627">Spravovať účet Kahf</translation>
+ <translation id="4425140285732600465">Cenu sledujete. Dostávajte upozornenia, keď na ľubovoľnom webe poklesne.</translation>
+ <translation id="4425173294238317796">Hárok s potvrdením prístupového kľúča</translation>
+ <translation id="442518031075347249">Virtuálnu kartu už nebudete môcť používať so službou Google Pay. <ph name="BEGIN_LINK1"/>Ďalšie informácie o virtuálnych kartách<ph name="END_LINK1"/></translation>
+@@ -781,23 +781,23 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="4826163340425232009">Dolný hárok prihlásenia.</translation>
+ <translation id="4834007576107377210">Prečítajte si pokyny vyhľadávača, ako odstrániť históriu vyhľadávania (ak je to možné)</translation>
+ <translation id="4834250788637067901">Spôsoby platby, ponuky a adresy používajúce Google Pay</translation>
+-<translation id="2593289874938379417">Brave nemá prístup k požadovanému zdroju.</translation>
++<translation id="2593289874938379417">Kahf nemá prístup k požadovanému zdroju.</translation>
+ <translation id="4837753911714442426">Otvorenie možností tlače stránky</translation>
+ <translation id="4842092870884894799">Zobrazuje sa okno generovania hesiel</translation>
+-<translation id="6195403640086187022">Šifrujte heslá v zariadení ešte pred ich uložením do správcu hesiel Brave, čím zvýšite zabezpečenie</translation>
++<translation id="6195403640086187022">Šifrujte heslá v zariadení ešte pred ich uložením do správcu hesiel Kahf, čím zvýšite zabezpečenie</translation>
+ <translation id="4850886885716139402">Zobraziť</translation>
+ <translation id="4852014461738377247">Prihlasuje sa\u2026</translation>
+ <translation id="4860895144060829044">Volajte</translation>
+ <translation id="4864369630010738180">Prebieha prihlasovanie...</translation>
+-<translation id="5131234170665854056">Modul <ph name="MODULE"/> pre Brave sa nepodarilo nainštalovať</translation>
++<translation id="5131234170665854056">Modul <ph name="MODULE"/> pre Kahf sa nepodarilo nainštalovať</translation>
+ <translation id="4871568871368204250">Vypnutie synchronizácie</translation>
+-<translation id="2875466387677348954">Keď je táto možnosť vypnutá, naďalej sa vám budú zobrazovať návrhy, ktoré Brave poskytuje miestne</translation>
++<translation id="2875466387677348954">Keď je táto možnosť vypnutá, naďalej sa vám budú zobrazovať návrhy, ktoré Kahf poskytuje miestne</translation>
+ <translation id="4875775213178255010">Návrhy obsahu</translation>
+ <translation id="4878404682131129617">Vytvorenie tunela prostredníctvom proxy servera zlyhalo</translation>
+ <translation id="4880127995492972015">Preložiť…</translation>
+ <translation id="4881695831933465202">Otvoriť</translation>
+ <translation id="488187801263602086">Premenovanie súboru</translation>
+-<translation id="1248710015876067820">Nepodporovaný počet inštancií prehliadača Brave.</translation>
++<translation id="1248710015876067820">Nepodporovaný počet inštancií prehliadača Kahf.</translation>
+ <translation id="4905823827770127520">Zahrnúť odkaz na stránku</translation>
+ <translation id="3217997482476578430">Kanál Objaviť od Googlu</translation>
+ <translation id="4910889077668685004">Platobné aplikácie</translation>
+@@ -808,14 +808,14 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="4925120120285606924">Snímka obrazovky <ph name="CURRENT_DATE_ISO"/></translation>
+ <translation id="49268022542405662">Vaše heslá budú exportované a stiahnuté ako textový súbor. Budú viditeľné pre všetkých používateľov aj aplikácie s prístupom k cieľovému priečinku.</translation>
+ <translation id="4926901776383726965">Obrázky a súbory si môžete uložiť a prezerať offline alebo ich zdieľať v iných aplikáciách</translation>
+-<translation id="1955495299630319741">Keďže sa odhlasujete z účtu spravovaného doménou <ph name="DOMAIN_NAME"/>, budú údaje Chromu z tohto zariadenia odstránené. Zostanú vo vašom účte Brave.</translation>
++<translation id="1955495299630319741">Keďže sa odhlasujete z účtu spravovaného doménou <ph name="DOMAIN_NAME"/>, budú údaje Chromu z tohto zariadenia odstránené. Zostanú vo vašom účte Kahf.</translation>
+ <translation id="4943703118917034429">Virtuálna realita</translation>
+ <translation id="4943872375798546930">Žiadne výsledky</translation>
+-<translation id="5742837711075932301">Keď sa prihlásite do rovnakého účtu Brave, ostatné zariadenia budú môcť tento telefón používať ako bezpečnostný kľúč.</translation>
++<translation id="5742837711075932301">Keď sa prihlásite do rovnakého účtu Kahf, ostatné zariadenia budú môcť tento telefón používať ako bezpečnostný kľúč.</translation>
+ <translation id="4957722034734105353">Ďalšie informácie...</translation>
+ <translation id="4961107849584082341">Preložte si túto stránku do ľubovoľného jazyka</translation>
+-<translation id="6785504257633294906">Brave vás upozorňuje na nebezpečné weby a súbory na stiahnutie</translation>
+-<translation id="8367947725773962458">Ak chcete vo svojom účte Brave ukladať a používať nové heslá, aktualizujte Služby Google Play</translation>
++<translation id="6785504257633294906">Kahf vás upozorňuje na nebezpečné weby a súbory na stiahnutie</translation>
++<translation id="8367947725773962458">Ak chcete vo svojom účte Kahf ukladať a používať nové heslá, aktualizujte Služby Google Play</translation>
+ <translation id="7307583170263691471">Rýchlejšia a proaktívna ochrana pred nebezpečnými webmi, stiahnutým súbormi a rozšíreniami. Upozorní vás na porušenie ochrany hesla. Vyžaduje odoslanie dát prehliadania do Googlu.</translation>
+ <translation id="1885435884843655635">Ak chcete zobraziť ďalšie výsledky, skúste vyhľadať niečo iné alebo otvorte celú históriu Chromu.</translation>
+ <translation id="497421865427891073">Ďalej</translation>
+@@ -835,22 +835,22 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="5039804452771397117">Povoliť</translation>
+ <translation id="5040262127954254034">Ochrana súkromia</translation>
+ <translation id="504456571576643789">Čo je potrebné zohľadniť</translation>
+-<translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Iné formy aktivity<ph name="END_LINK1"/> sa môžu ukladať do vášho účtu Brave, keď sa doň prihlásite. Môžete ich kedykoľvek odstrániť.</translation>
++<translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Iné formy aktivity<ph name="END_LINK1"/> sa môžu ukladať do vášho účtu Kahf, keď sa doň prihlásite. Môžete ich kedykoľvek odstrániť.</translation>
+ <translation id="506254248375231072">Žiadne karty</translation>
+ <translation id="5062960805900435602">Aktualita o zlučovaní hesiel je zavretá</translation>
+ <translation id="5075939510584558547">Uloženie bez šifrovania</translation>
+ <translation id="5081960376148623587">Vyberte, či chcete prednačítavať stránky</translation>
+-<translation id="6518666204737985156">Prihláste sa na tomto webe a v Brave, aby ste mali svoje záložky a ďalšie položky vo všetkých svojich zariadeniach</translation>
+-<translation id="4744980273298156620">Keď otvoríte novú kartu, čoskoro sa vám budú zobrazovať príbehy z webu <ph name="SITE_NAME"/>. Weby, ktoré sledujete, sa ukladajú do vášho účtu Brave. Môžete ich spravovať v nastaveniach kanála Objaviť.</translation>
++<translation id="6518666204737985156">Prihláste sa na tomto webe a v Kahf, aby ste mali svoje záložky a ďalšie položky vo všetkých svojich zariadeniach</translation>
++<translation id="4744980273298156620">Keď otvoríte novú kartu, čoskoro sa vám budú zobrazovať príbehy z webu <ph name="SITE_NAME"/>. Weby, ktoré sledujete, sa ukladajú do vášho účtu Kahf. Môžete ich spravovať v nastaveniach kanála Objaviť.</translation>
+ <translation id="509429900233858213">Vyskytla sa chyba.</translation>
+ <translation id="5097349930204431044">Weby, ktoré navštevujete, môžu určiť, čo sa vám páči, a na základe toho navrhovať počas vášho prehliadania reklamy</translation>
+-<translation id="225414324447409614">Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Brave môže odoslať Bezpečnému prehliadaniu webové adresy vrátane častí obsahu stránok</translation>
++<translation id="225414324447409614">Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Kahf môže odoslať Bezpečnému prehliadaniu webové adresy vrátane častí obsahu stránok</translation>
+ <translation id="510275257476243843">Zostáva: 1 h</translation>
+ <translation id="5114895953710637392">Hárok filtrov aplikácií je zavretý.</translation>
+ <translation id="5115811374190515607">do služby <ph name="PRODUCT_NAME"/></translation>
+ <translation id="5122378528687922675">Ak potrebuješ pomoc, požiadaj rodiča (<ph name="PARENT_NAME_1"/> alebo <ph name="PARENT_NAME_2"/>)</translation>
+ <translation id="5132942445612118989">Synchronizujte svoje heslá, históriu a ďalší obsah vo všetkých zariadeniach</translation>
+-<translation id="5139940364318403933">Ako používať Disk Brave</translation>
++<translation id="5139940364318403933">Ako používať Disk Kahf</translation>
+ <translation id="5142281402488957685">V prípade nových článkov obnovte zobrazenie potiahnutím nadol</translation>
+ <translation id="5152843274749979095">Nie sú nainštalované žiadne podporované aplikácie</translation>
+ <translation id="5161254044473106830">Musíte zadať názov</translation>
+@@ -877,22 +877,22 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="5267572070504076962">Ak chcete získať ochranu pred nebezpečnými webmi, zapnite Bezpečné prehliadanie</translation>
+ <translation id="5271967389191913893">Zariadenie nemôže otvoriť obsah na stiahnutie</translation>
+ <translation id="5292796745632149097">Odoslanie do zariadení</translation>
+-<translation id="1078957913029848404">Máte prihlásený účet <ph name="EMAIL"/>. Synchronizáciu môžete kedykoľvek zastaviť v nastaveniach. Brave môže prispôsobovať Vyhľadávanie a ďalšie služby na základe vašej histórie.</translation>
++<translation id="1078957913029848404">Máte prihlásený účet <ph name="EMAIL"/>. Synchronizáciu môžete kedykoľvek zastaviť v nastaveniach. Kahf môže prispôsobovať Vyhľadávanie a ďalšie služby na základe vašej histórie.</translation>
+ <translation id="5304593522240415983">Toto pole nesmie byť prázdne</translation>
+ <translation id="5306014156308790439">Tlačidlo Pridať do zbierky je deaktivované</translation>
+ <translation id="5308380583665731573">Pripojiť</translation>
+ <translation id="5316947901395241499">Ukladanie hesiel vypol váš správca</translation>
+ <translation id="5317780077021120954">Uložiť</translation>
+-<translation id="989239400026154074">Brave odporúča Brave</translation>
+-<translation id="7815000350132166985">Keď povolíte súbory cookie, Brave ich môže použiť pri prednačítavaní</translation>
+-<translation id="1681635711794313507">Prednačítané stránky sú šifrované a prepojené s webom Brave, preto servery Googlu nedostávajú nové informácie, keď tieto stránky súkromne prednačítate.</translation>
++<translation id="989239400026154074">Kahf odporúča Kahf</translation>
++<translation id="7815000350132166985">Keď povolíte súbory cookie, Kahf ich môže použiť pri prednačítavaní</translation>
++<translation id="1681635711794313507">Prednačítané stránky sú šifrované a prepojené s webom Kahf, preto servery Googlu nedostávajú nové informácie, keď tieto stránky súkromne prednačítate.</translation>
+ <translation id="5328542107300944283">Používajte pomocou účtu <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
+ <translation id="5342314432463739672">Žiadosti o povolenie</translation>
+ <translation id="534580735623577507">Žiadne weby z obdobia <ph name="TIME_PERIOD"/></translation>
+ <translation id="5355191726083956201">Je zapnutá rozšírená ochrana</translation>
+ <translation id="4771279424883068914">Webová adresa stránky, ku ktorej poskytujete spätnú väzbu, bude odoslaná Googlu a môžu ju skontrolovať ľudia s cieľom zlepšiť túto funkciu</translation>
+ <translation id="5375577065097716013">Hľadať obrázok pomocou funkcie Lens <ph name="BEGIN_NEW"/>Novinka<ph name="END_NEW"/></translation>
+-<translation id="4799771635362945886">Uistite sa, že vo svojom účte Brave môžete kedykoľvek použiť údaje Chromu</translation>
++<translation id="4799771635362945886">Uistite sa, že vo svojom účte Kahf môžete kedykoľvek použiť údaje Chromu</translation>
+ <translation id="539881862970320163">Bolo navrhnuté silné heslo. Klávesnica je skrytá.</translation>
+ <translation id="5401851137404501592">Ak chcete pokračovať, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> bude s týmto webom zdieľať vaše meno, e‑mailovú adresu a profilovú fotku.</translation>
+ <translation id="5409881200985013443">Odošlite kód <ph name="ONE_TIME_CODE"/> v zariadení <ph name="CLIENT_NAME"/>.</translation>
+@@ -922,7 +922,7 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="5524843473235508879">Presmerovanie bolo zablokované.</translation>
+ <translation id="5526281268548144413">Nie je možné zavrieť vo viacerých oknách</translation>
+ <translation id="5548606607480005320">Kontrola bezpečnosti</translation>
+-<translation id="4362225295386962644">Ak používate heslo, Brave vás upozorní, keď bude zverejnené na internete. Vaše heslá a používateľské mená sú pritom šifrované, aby ich nikto nemohol prečítať (ani Brave).</translation>
++<translation id="4362225295386962644">Ak používate heslo, Kahf vás upozorní, keď bude zverejnené na internete. Vaše heslá a používateľské mená sú pritom šifrované, aby ich nikto nemohol prečítať (ani Kahf).</translation>
+ <translation id="5555525474779371165">Výber ochrany v rámci Bezpečného prehliadania</translation>
+ <translation id="5556459405103347317">Znova načítať</translation>
+ <translation id="555671485580955310">Synchronizovať históriu a karty</translation>
+@@ -998,17 +998,17 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="5864419784173784555">Čaká sa na ďalší sťahovaný súbor…</translation>
+ <translation id="6538479075382111079">Automaticky odosiela štatistiky o používaní a správy o zlyhaní Googlu</translation>
+ <translation id="5869522115854928033">Uložené heslá</translation>
+-<translation id="5604589745019948682">Ak chcete sledovať určitý web, prejdite naň, otvorte Ponuku Brave a klepnite na Sledovať.</translation>
++<translation id="5604589745019948682">Ak chcete sledovať určitý web, prejdite naň, otvorte Ponuku Kahf a klepnite na Sledovať.</translation>
+ <translation id="5879072387416556377">Dostávajte lepšie návrhy</translation>
+-<translation id="2496394743292988533">Upozornenia <ph name="SEPARATOR"/> Brave odstránil tieto povolenia, pretože tento web je nebezpečný</translation>
++<translation id="2496394743292988533">Upozornenia <ph name="SEPARATOR"/> Kahf odstránil tieto povolenia, pretože tento web je nebezpečný</translation>
+ <translation id="5899667542927581604">Hárok so žiadnymi prístupovými kľúčmi bol zavretý</translation>
+ <translation id="5916664084637901428">Zapnuté</translation>
+ <translation id="5919204609460789179">Ak chcete spustiť synchronizáciu, aktualizujte aplikáciu <ph name="PRODUCT_NAME"/></translation>
+ <translation id="5938820472109305350">Pridať <ph name="INTEREST"/></translation>
+-<translation id="6103327872225198548">Na vyhľadávanie sa používa Brave</translation>
++<translation id="6103327872225198548">Na vyhľadávanie sa používa Kahf</translation>
+ <translation id="5945035219773565305">Aktuálne odporúčanie: <ph name="RECOMMENDATION"/></translation>
+ <translation id="5951119116059277034">Je zobrazená zverejnená stránka</translation>
+-<translation id="305870044889644984">Otvorenie Centra pomoci prehliadača Brave na novej karte</translation>
++<translation id="305870044889644984">Otvorenie Centra pomoci prehliadača Kahf na novej karte</translation>
+ <translation id="59577092665511740">Vyberte účet.</translation>
+ <translation id="5958275228015807058">Nájdite stiahnuté súbory a stránky</translation>
+ <translation id="5958994127112619898">Zjednodušiť stránku</translation>
+@@ -1037,10 +1037,10 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="605721222689873409">RR</translation>
+ <translation id="6059830886158432458">Tu ovládajte svoje príbehy aj aktivitu</translation>
+ <translation id="6070730414166672373">Kontaktuje sa vaša banka\u2026</translation>
+-<translation id="4701065218405772222">Ak chcete skontrolovať odhalené heslá, prihláste sa do účtu Brave</translation>
++<translation id="4701065218405772222">Ak chcete skontrolovať odhalené heslá, prihláste sa do účtu Kahf</translation>
+ <translation id="6085886413119427067">Určuje, ako sa pripojiť k webom prostredníctvom zabezpečeného pripojenia</translation>
+ <translation id="60923314841986378">Zostáva: <ph name="HOURS"/> h</translation>
+-<translation id="4726571606794511368">Ak je Brave aj váš predvolený vyhľadávač, budú sa vám zobrazovať lepšie a kontextovo relevantnejšie návrhy</translation>
++<translation id="4726571606794511368">Ak je Kahf aj váš predvolený vyhľadávač, budú sa vám zobrazovať lepšie a kontextovo relevantnejšie návrhy</translation>
+ <translation id="6108923351542677676">Inštaluje sa...</translation>
+ <translation id="6112702117600201073">Obnovenie stránky</translation>
+ <translation id="6122831415929794347">Chcete vypnúť Bezpečné prehliadanie?</translation>
+@@ -1054,14 +1054,14 @@ Váš účet Brave môže mať na adrese <ph name="BEGIN_LINK"/>myactivity.googl
+ <translation id="6142183503755612900">Predvolený vyhľadávač môžete kedykoľvek zmeniť v nastaveniach</translation>
+ <translation id="614890671148262506">Vždy povoliť upozornenia z tohto webu</translation>
+ <translation id="6150320133806434356">Záložka bola uložená</translation>
+-<translation id="1224606669200461217">Ak chcete používať a ukladať údaje Chromu vo svojom účte Brave, aktualizujte Brave</translation>
++<translation id="1224606669200461217">Ak chcete používať a ukladať údaje Chromu vo svojom účte Kahf, aktualizujte Kahf</translation>
+ <translation id="6154478581116148741">Ak chcete exportovať heslá z tohto zariadenia, zapnite v Nastaveniach zámku obrazovky</translation>
+ <translation id="7087658909840709934">Prednačítava stránky, ktoré podľa Chromu pravdepodobne navštívite.</translation>
+ <translation id="6170675927290506430">Prejsť do nastavení upozornení</translation>
+ <translation id="6186394685773237175">Nezistili sa žiadne prelomené heslá</translation>
+ <translation id="6192907950379606605">Získať popisy obrázkov</translation>
+ <translation id="6193448654517602979">Vyberte karty</translation>
+-<translation id="8367262879301982880">Heslá sa ukladajú do Správcu hesiel Brave v tomto zariadení.</translation>
++<translation id="8367262879301982880">Heslá sa ukladajú do Správcu hesiel Kahf v tomto zariadení.</translation>
+ <translation id="6202812185118613467">Ak chcete spustiť synchronizáciu, znova sa prihláste</translation>
+ <translation id="6205314730813004066">Ochrana súkromia pri reklamách</translation>
+ <translation id="6210748933810148297">Nie som <ph name="EMAIL"/></translation>
+@@ -1113,7 +1113,7 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="6407224748847589805">K vášmu počítaču sa nedá pripojiť. Skúste inú možnosť overenia.</translation>
+ <translation id="6410883413783534063">Otvorte karty a navštívte tak rôzne stránky naraz</translation>
+ <translation id="6411219469806822692">Vyššie to už nejde. Skúste začať vyššie na stránke.</translation>
+-<translation id="7810992039564280750">Kontroluje webové adresy podľa zoznamu nebezpečných webov uloženého v Brave. Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Brave môže tiež odoslať webové adresy vrátane častí obsahu stránky Bezpečnému prehliadaniu.</translation>
++<translation id="7810992039564280750">Kontroluje webové adresy podľa zoznamu nebezpečných webov uloženého v Kahf. Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Kahf môže tiež odoslať webové adresy vrátane častí obsahu stránky Bezpečnému prehliadaniu.</translation>
+ <translation id="641643625718530986">Tlačiť...</translation>
+ <translation id="6433501201775827830">Výber vyhľadávača</translation>
+ <translation id="6434309073475700221">Zahodiť</translation>
+@@ -1123,20 +1123,20 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="6441734959916820584">Názov je príliš dlhý</translation>
+ <translation id="6459045781120991510">Prieskumy</translation>
+ <translation id="6461962085415701688">Súbor sa nedá otvoriť</translation>
+-<translation id="9055113864158719823">Môžete si zobraziť weby, ktoré navštevujete v Brave, a nastaviť pre ne časovače.\n\nBrave získa informácie o weboch, pre ktoré nastavíte časovače, a údaje o tom, koľko času na nich strávite. Tieto informácie sa použijú na zlepšenie digitálnej rovnováhy.</translation>
+-<translation id="1774272248732824119">Tu sa budú zobrazovať stránky, ktoré ste otvorili v Brave pri používaní aplikácie <ph name="APP_LABEL"/>.</translation>
++<translation id="9055113864158719823">Môžete si zobraziť weby, ktoré navštevujete v Kahf, a nastaviť pre ne časovače.\n\nKahf získa informácie o weboch, pre ktoré nastavíte časovače, a údaje o tom, koľko času na nich strávite. Tieto informácie sa použijú na zlepšenie digitálnej rovnováhy.</translation>
++<translation id="1774272248732824119">Tu sa budú zobrazovať stránky, ktoré ste otvorili v Kahf pri používaní aplikácie <ph name="APP_LABEL"/>.</translation>
+ <translation id="6473086018775716761">Zoznam možností zdieľania je otvorený na polovičnú výšku.</translation>
+ <translation id="6475951671322991020">Stiahnuť video</translation>
+ <translation id="6477928892249167417">Tieto weby zrejme považujete za dôležité:</translation>
+-<translation id="387105482057676379">Prepojte Brave a ďalšie služby Googlu na prispôsobenie a ďalšie účely</translation>
++<translation id="387105482057676379">Prepojte Kahf a ďalšie služby Googlu na prispôsobenie a ďalšie účely</translation>
+ <translation id="6482749332252372425">Súbor <ph name="FILE_NAME"/> sa nepodarilo stiahnuť z dôvodu nedostatku voľného miesta v úložisku.</translation>
+ <translation id="6495590690749880440">Chcete otvoriť skupinu kariet?</translation>
+ <translation id="650224091954855786">{FILE_COUNT,plural, =1{Súbor bol stiahnutý}few{Boli stiahnuté # súbory}many{# downloads complete}other{Bolo stiahnutých # súborov}}</translation>
+-<translation id="3960299545138990065">Reštartujte Brave</translation>
++<translation id="3960299545138990065">Reštartujte Kahf</translation>
+ <translation id="6518133107902771759">Overiť</translation>
+ <translation id="6527303717912515753">Zdieľať</translation>
+ <translation id="3700405816184340252">História Chromu</translation>
+-<translation id="708829030563435351">Weby, ktoré navštívite v Brave, sa nezobrazia. Odstránia sa všetky časovače webov.</translation>
++<translation id="708829030563435351">Weby, ktoré navštívite v Kahf, sa nezobrazia. Odstránia sa všetky časovače webov.</translation>
+ <translation id="7723158744459952869">Odpoveď Googlu trvala príliš dlho</translation>
+ <translation id="6539092367496845964">Vyskytol sa problém. Skúste to neskôr.</translation>
+ <translation id="6541983376925655882">{NUM_HOURS,plural, =1{Kontrola prebehla pred hodinou}few{Kontrola prebehla pred # hodinami}many{Kontrola prebehla pred # hodiny}other{Kontrola prebehla pred # hodinami}}</translation>
+@@ -1147,9 +1147,9 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="6560414384669816528">Vyhľadávať pomocou Sogou</translation>
+ <translation id="656065428026159829">Zobraziť viac</translation>
+ <translation id="6565959834589222080">Wi-Fi sa použije, keď bude k dispozícii</translation>
+-<translation id="4480935821314799946">Keď teraz otvoríte novú kartu, budú sa vám zobrazovať príbehy z webu <ph name="SITE_NAME"/>. Weby, ktoré sledujete, sa ukladajú do vášho účtu Brave. Môžete ich spravovať v nastaveniach kanála Objaviť.</translation>
++<translation id="4480935821314799946">Keď teraz otvoríte novú kartu, budú sa vám zobrazovať príbehy z webu <ph name="SITE_NAME"/>. Weby, ktoré sledujete, sa ukladajú do vášho účtu Kahf. Môžete ich spravovať v nastaveniach kanála Objaviť.</translation>
+ <translation id="6573096386450695060">Vždy povoliť</translation>
+-<translation id="5157964048453367290">Tu sa zobrazia karty, ktoré ste otvorili v Brave na iných zariadeniach.</translation>
++<translation id="5157964048453367290">Tu sa zobrazia karty, ktoré ste otvorili v Kahf na iných zariadeniach.</translation>
+ <translation id="6583199322650523874">Pridanie aktuálnej stránky medzi záložky</translation>
+ <translation id="6588043302623806746">Používať zabezpečené DNS</translation>
+ <translation id="6590471736817333463">Ušetrite až 60 % dát</translation>
+@@ -1157,18 +1157,18 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="6593061639179217415">Web pre počítače</translation>
+ <translation id="6594347733515723558">Zoradenie a zobrazenie</translation>
+ <translation id="2466982615210189224">Obrázky sa na zlepšovanie popisov pre vás odosielajú Googlu.</translation>
+-<translation id="6904452514635238551">Keď sa prihlásite do Chromu, heslá sa budú ukladať do vášho účtu Brave. Túto možnosť môžete vypnúť <ph name="BEGIN_LINK"/>v nastaveniach<ph name="END_LINK"/>.</translation>
++<translation id="6904452514635238551">Keď sa prihlásite do Chromu, heslá sa budú ukladať do vášho účtu Kahf. Túto možnosť môžete vypnúť <ph name="BEGIN_LINK"/>v nastaveniach<ph name="END_LINK"/>.</translation>
+ <translation id="661266467055912436">Zvyšuje zabezpečenie na internete pre vás aj ostatných.</translation>
+ <translation id="8127050479140582768">Ak chcete túto kartu odoslať do iného zariadenia, prihláste v oboch zariadeniach do Chromu</translation>
+ <translation id="6625890511281718257">Hárok zdieľania so súhrnnou spätnou väzbou</translation>
+ <translation id="6627583120233659107">Upraviť priečinok</translation>
+ <translation id="6636623428211296678">Preskúmajte ďalšie nastavenia nižšie alebo dokončite kontrolu</translation>
+ <translation id="2259649928554669581">Ďalšie nastavenia týkajúce sa ochrany súkromia, zabezpečenia a zhromažďovania údajov nájdete v sekciách <ph name="BEGIN_LINK1"/>Synchronizácia<ph name="END_LINK1"/> a <ph name="BEGIN_LINK2"/>služby Googlu<ph name="END_LINK2"/>.</translation>
+-<translation id="7939692063031538305">Na účely zlepšovania aplikácie odosiela Brave údaje o využití a pádoch Googlu. <ph name="BEGIN_UMA_LINK"/>Spravovať<ph name="END_UMA_LINK"/></translation>
++<translation id="7939692063031538305">Na účely zlepšovania aplikácie odosiela Kahf údaje o využití a pádoch Googlu. <ph name="BEGIN_UMA_LINK"/>Spravovať<ph name="END_UMA_LINK"/></translation>
+ <translation id="6640207029842583248">Blokovať neustále</translation>
+ <translation id="6641780377503683465">Odstrániť <ph name="INTEREST"/></translation>
+ <translation id="6645629752388991326">Ovládajte, ktoré zariadenia sa môžu prihlásiť pomocou tohto zariadenia nastaveného ako bezpečnostný kľúč.</translation>
+-<translation id="2730188427562924169">Odošle znejasnenú časť webovej adresy Googlu prostredníctvom serveru chrániaceho súkromie, ktorý skryje vašu adresu IP. Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Brave môže Googlu odoslať aj webové adresy vrátane častí obsahu stránok.</translation>
++<translation id="2730188427562924169">Odošle znejasnenú časť webovej adresy Googlu prostredníctvom serveru chrániaceho súkromie, ktorý skryje vašu adresu IP. Ak sa vám určitý web pokúsi ukradnúť heslo alebo stiahnete škodlivý súbor, Kahf môže Googlu odoslať aj webové adresy vrátane častí obsahu stránok.</translation>
+ <translation id="7556503430569358637">Webové adresy, ktoré navštevujete, sa odosielajú Googlu, aby mohol vytvárať predpokladané dopyty webov, ktoré pravdepodobne navštívite</translation>
+ <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> ďalší}few{<ph name="CONTACT_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> ďalšie}many{<ph name="CONTACT_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> ďalšieho}other{<ph name="CONTACT_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> ďalších}}</translation>
+ <translation id="6649642165559792194">Zobraziť ukážku obrázka <ph name="BEGIN_NEW"/>Novinka<ph name="END_NEW"/></translation>
+@@ -1179,17 +1179,17 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="6672697278890207089">Zadajte svoju prístupovú frázu</translation>
+ <translation id="6672917148207387131">Pridať <ph name="DOMAIN"/></translation>
+ <translation id="6674571176963658787">Ak chcete spustiť synchronizáciu, zadajte prístupovú frázu</translation>
+-<translation id="3683330416566109578">Prihlásiť sa na tomto webe a v Brave</translation>
+-<translation id="3385384709865894288">Zlepšite Brave</translation>
++<translation id="3683330416566109578">Prihlásiť sa na tomto webe a v Kahf</translation>
++<translation id="3385384709865894288">Zlepšite Kahf</translation>
+ <translation id="670498945988402717">Kontrola prebehla včera</translation>
+ <translation id="6710213216561001401">Späť</translation>
+ <translation id="671481426037969117">Časovač aplikácie <ph name="FQDN"/> vypršal. Spustí sa zase zajtra.</translation>
+ <translation id="6715020873764921614">Chcete aj tak stiahnuť <ph name="FILE_NAME"/> (<ph name="FILE_SIZE"/>)?</translation>
+ <translation id="6719634564325948108">Chcete sa pripojiť pomocou QR kódu?</translation>
+-<translation id="7499197548870160669">V účte Brave</translation>
++<translation id="7499197548870160669">V účte Kahf</translation>
+ <translation id="6734310707649923383">Môžete si zobraziť stránky, ktoré ste navštívili, alebo ich odstrániť z histórie</translation>
+ <translation id="6738867403308150051">Sťahuje sa...</translation>
+-<translation id="2275686406263739320">Je bežné, že navštívené weby si pamätajú veci, ktoré vás zaujímajú, aby vám mohli prispôsobiť prostredie. Weby môžu v Brave ukladať aj údaje o vašich záujmoch.</translation>
++<translation id="2275686406263739320">Je bežné, že navštívené weby si pamätajú veci, ktoré vás zaujímajú, aby vám mohli prispôsobiť prostredie. Weby môžu v Kahf ukladať aj údaje o vašich záujmoch.</translation>
+ <translation id="6746338529702829275">Prezrite si údaje účtu</translation>
+ <translation id="6751521182688001123">Skratka na rýchle otvorenie novej karty. Ak ju chcete upraviť, pridržte ju.</translation>
+ <translation id="6756507620369789050">Odoslať spätnú väzbu</translation>
+@@ -1197,7 +1197,7 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="676305334223455055">Ak chcete získavať obsah na základe záujmov, prihláste sa</translation>
+ <translation id="6767294960381293877">Zoznam zariadení, s ktorými sa má zdieľať karta, je otvorený na polovičnú výšku.</translation>
+ <translation id="6770602306803890733">Zvyšuje zabezpečenie pre vás aj ostatných na internete</translation>
+-<translation id="8174975477247159780">Dodatočné zmluvné podmienky prehliadača Brave a systému Brave OS</translation>
++<translation id="8174975477247159780">Dodatočné zmluvné podmienky prehliadača Kahf a systému Kahf OS</translation>
+ <translation id="6795633245022906657">Skratka na rýchle otvorenie novej karty. Ak chcete skratku upraviť, prejdite do Nastavení.</translation>
+ <translation id="6802555630140434547">Okno bude zavreté</translation>
+ <translation id="6803791793483522764">Kontrola upozornení</translation>
+@@ -1230,21 +1230,21 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="6883906387682976294">Zrušiť odber upozornení z tohto webu</translation>
+ <translation id="688398477366397178">Poskytnite webom informáciu, akými jazykmi hovoríte. Ak to bude možné, budú zobrazovať obsah v týchto jazykoch.</translation>
+ <translation id="6886500155621657325">{ITEMS_COUNT,plural, =1{1 heslo}few{# heslá}many{# passwords}other{# hesiel}}</translation>
+-<translation id="667636428974305054">Po odhlásení budú záložky, heslá a ďalšie položky vo vašom účte Brave odstránené z tohto zariadenia.</translation>
++<translation id="667636428974305054">Po odhlásení budú záložky, heslá a ďalšie položky vo vašom účte Kahf odstránené z tohto zariadenia.</translation>
+ <translation id="688738109438487280">Pridať existujúce dáta do účtu <ph name="TO_ACCOUNT"/>.</translation>
+ <translation id="6891726759199484455">Heslo môžete kopírovať po odomknutí</translation>
+ <translation id="6896758677409633944">Kopírovať</translation>
+-<translation id="3677019108032076044">Šifrovať všetky údaje Chromu vo vašom účte Brave pomocou vlastnej prístupovej frázy</translation>
++<translation id="3677019108032076044">Šifrovať všetky údaje Chromu vo vašom účte Kahf pomocou vlastnej prístupovej frázy</translation>
+ <translation id="6900532703269623216">Rozšírená ochrana</translation>
+ <translation id="6903907808598579934">Zapnúť synchronizáciu</translation>
+-<translation id="748044163560741026">Uistite sa, že vo svojom účte Brave môžete kedykoľvek použiť heslá</translation>
++<translation id="748044163560741026">Uistite sa, že vo svojom účte Kahf môžete kedykoľvek použiť heslá</translation>
+ <translation id="6908230663105268638">Web <ph name="SITE_NAME"/> má povolené upozornenia</translation>
+ <translation id="6908998565271542516">Možnosť schváliť alebo neschváliť web otvorená na celú výšku</translation>
+ <translation id="6909589135458168665">Prednačítavanie stránok</translation>
+ <translation id="6910211073230771657">Odstránené</translation>
+ <translation id="6918398787259831832">Ak sa tento problém opakuje, získajte <ph name="BEGIN_LINK"/>ďalšie informácie<ph name="END_LINK"/> od poskytovateľa <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/>.</translation>
+-<translation id="1431096429631226393"><ph name="PERMISSION"/> <ph name="SEPARATOR"/> Brave odstránil tieto povolenia, pretože ste daný web v poslednom čase nenavštívili</translation>
+-<translation id="5854472260286669100">Všetky bezpečnostné kódy uložené vo vašom zariadení a účte Brave budú odstránené</translation>
++<translation id="1431096429631226393"><ph name="PERMISSION"/> <ph name="SEPARATOR"/> Kahf odstránil tieto povolenia, pretože ste daný web v poslednom čase nenavštívili</translation>
++<translation id="5854472260286669100">Všetky bezpečnostné kódy uložené vo vašom zariadení a účte Kahf budú odstránené</translation>
+ <translation id="6937524809504266803">Prispôsobenie a prepojenie</translation>
+ <translation id="6937876069006524083">Prezývka (nepovinné)</translation>
+ <translation id="6942665639005891494">Kedykoľvek zmeniť predvolené umiestnenie stiahnutých súborov pomocou možnosti ponuky Nastavenia</translation>
+@@ -1277,13 +1277,13 @@ Niektoré weby môžu napríklad na túto žiadosť reagovať tak, že vám zobr
+ <translation id="707702207692430409">{BOOKMARK_COUNT,plural, =1{Záložka bola uložená do priečinka <ph name="FOLDER_NAME"/> vo vašom účte <ph name="ACCOUNT_EMAIL"/>.}few{Záložky boli uložené do priečinka <ph name="FOLDER_NAME"/> vo vašom účte <ph name="ACCOUNT_EMAIL"/>.}many{Bookmarks saved to "<ph name="FOLDER_NAME"/>" in your account, <ph name="ACCOUNT_EMAIL"/>.}other{Záložky boli uložené do priečinka <ph name="FOLDER_NAME"/> vo vašom účte <ph name="ACCOUNT_EMAIL"/>.}}</translation>
+ <translation id="7077143737582773186">SD karta</translation>
+ <translation id="4947532681094581238">Odstrániť aj údaje Chromu z tohto zariadenia</translation>
+-<translation id="2374582967527009647">Odosiela webové adresy na kontrolu do Bezpečného prehliadania. Posiela tiež malú vzorku stránok, stiahnutých súborov, aktivity rozšírení a informácií o systéme a pomáha tak objavovať nové hrozby. Dočasne prepojí tieto údaje s vaším účtom Brave (keď sa prihlásite), aby vás chránila v aplikáciách Brave.</translation>
++<translation id="2374582967527009647">Odosiela webové adresy na kontrolu do Bezpečného prehliadania. Posiela tiež malú vzorku stránok, stiahnutých súborov, aktivity rozšírení a informácií o systéme a pomáha tak objavovať nové hrozby. Dočasne prepojí tieto údaje s vaším účtom Kahf (keď sa prihlásite), aby vás chránila v aplikáciách Kahf.</translation>
+ <translation id="5499149312981370855">Vyberte, či sa má zahrnúť história Chromu na zaistenie prispôsobenejšieho prostredia v službách Googlu</translation>
+-<translation id="8208853227947884571">Brave je aktuálny</translation>
++<translation id="8208853227947884571">Kahf je aktuálny</translation>
+ <translation id="7094933634769755999">Nepresné</translation>
+ <translation id="7105047059074518658">Prihláste sa, aby ste mohli v zariadeniach prehliadať obsah jednoduchšie</translation>
+ <translation id="7106762743910369165">Prehliadač je spravovaný vašou organizáciou</translation>
+-<translation id="144902786838571419">Brave vám poskytuje väčšiu kontrolu nad reklamami, ktoré vidíte, a obmedzuje, čo sa o vás weby môžu dozvedieť, keď vám zobrazujú prispôsobené reklamy.</translation>
++<translation id="144902786838571419">Kahf vám poskytuje väčšiu kontrolu nad reklamami, ktoré vidíte, a obmedzuje, čo sa o vás weby môžu dozvedieť, keď vám zobrazujú prispôsobené reklamy.</translation>
+ <translation id="7136902389402789299">{NUM_SITES,plural, =1{Boli skontrolované povolenia pre 1 web}few{Boli skontrolované povolenia pre # weby}many{Permissions reviewed for # sites}other{Boli skontrolované povolenia pre # webov}}</translation>
+ <translation id="7138678301420049075">Ostatné</translation>
+ <translation id="7140829094791862589">Zoradiť manuálne</translation>
+@@ -1304,31 +1304,31 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7183517696921903380">Hárok filtrov aplikácie je otvorený.</translation>
+ <translation id="7183693674623539380">Skupina kariet – <ph name="TITLE_OF_GROUP"/></translation>
+ <translation id="6475793992224120104">Ovládajte, ako sa história prehliadania používa s inými údajmi v službách Googlu</translation>
+-<translation id="8355565210555500987">Chráni vás v Brave a môže zlepšiť zabezpečenie v ďalších aplikáciách Brave, keď sa prihlásite.</translation>
++<translation id="8355565210555500987">Chráni vás v Kahf a môže zlepšiť zabezpečenie v ďalších aplikáciách Kahf, keď sa prihlásite.</translation>
+ <translation id="7191430249889272776">Karta je otvorená na pozadí.</translation>
+ <translation id="7192397795254933433">{NUM_PASSWORDS,plural, =1{Mali by ste si ho okamžite zmeniť}few{Mali by ste ich okamžite zmeniť}many{You should change these now}other{Mali by ste ich okamžite zmeniť}}</translation>
+ <translation id="7196215469483532480">Vysvetlenie sprievodcu ochranou súkromia je otvorené na celú výšku</translation>
+ <translation id="1014116676551114642">Obsah od Googlu pre mladších – vypnutý</translation>
+ <translation id="7207760545532569765">Obnovte karty (<ph name="TAB_COUNT"/>) ako nové karty na pozadí.</translation>
+ <translation id="7221869452894271364">Obnoviť túto stránku</translation>
+-<translation id="8713221522704424328">Všetky heslá uložené iba v tomto zariadení pre Brave a <ph name="CHROME_CHANNEL"/> boli zlúčené. Všetky svoje uložené heslá môžete naďalej automaticky dopĺňať v oboch aplikáciách.</translation>
++<translation id="8713221522704424328">Všetky heslá uložené iba v tomto zariadení pre Kahf a <ph name="CHROME_CHANNEL"/> boli zlúčené. Všetky svoje uložené heslá môžete naďalej automaticky dopĺňať v oboch aplikáciách.</translation>
+ <translation id="7227218174981371415">{FILE_COUNT,plural, =1{Na stiahnutie čaká 1 položka}few{Na stiahnutie čakajú # položky}many{# downloads pending}other{Na stiahnutie čaká # položiek}}</translation>
+ <translation id="72415438529550637">Návrh hesla je zavretý</translation>
+ <translation id="7252076891734325316">Položte telefón k počítaču</translation>
+-<translation id="4957342254208357193">Zariadenie s Androidom môže mať podobné nastavenie. Ak máte v Brave a zariadení s Androidom zapnuté meranie reklám, príslušná firma môže merať účinnosť reklamy na weboch, ktoré navštevujete, aj v aplikáciách, ktoré používate.</translation>
++<translation id="4957342254208357193">Zariadenie s Androidom môže mať podobné nastavenie. Ak máte v Kahf a zariadení s Androidom zapnuté meranie reklám, príslušná firma môže merať účinnosť reklamy na weboch, ktoré navštevujete, aj v aplikáciách, ktoré používate.</translation>
+ <translation id="727288900855680735">Chcete odoslať kód <ph name="ONE_TIME_CODE"/> do zdroja <ph name="ORIGIN"/>?</translation>
+ <translation id="7274013316676448362">Blokovaný web</translation>
+-<translation id="7949597606523411684">Brave automaticky odstraňuje témy, ktoré sú staršie ako štyri týždne. Počas ďalšieho prehliadania sa určitá téma môže v zozname znova zobraziť. Prípadne môžete zablokovať témy, ktoré nemá Brave zdieľať s webmi. Prečítajte si viac o <ph name="BEGIN_LINK"/>správe ochrany súkromia pri reklamách v Brave<ph name="END_LINK"/>.</translation>
+-<translation id="4561646469134805137">Keď píšete, Brave odosiela obsah panela s adresou alebo vyhľadávacieho poľa do predvoleného vyhľadávača</translation>
++<translation id="7949597606523411684">Kahf automaticky odstraňuje témy, ktoré sú staršie ako štyri týždne. Počas ďalšieho prehliadania sa určitá téma môže v zozname znova zobraziť. Prípadne môžete zablokovať témy, ktoré nemá Kahf zdieľať s webmi. Prečítajte si viac o <ph name="BEGIN_LINK"/>správe ochrany súkromia pri reklamách v Kahf<ph name="END_LINK"/>.</translation>
++<translation id="4561646469134805137">Keď píšete, Kahf odosiela obsah panela s adresou alebo vyhľadávacieho poľa do predvoleného vyhľadávača</translation>
+ <translation id="2700309900785251885">Máte najúčinnejšie zabezpečenie Chromu</translation>
+ <translation id="7289303553784750393">Ak ste online, ale tento problém sa opakuje, môžete skúsiť ďalšie spôsoby, ako pokračovať na webe <ph name="SITE_ETLD_PLUS_ONE"/>.</translation>
+ <translation id="7290209999329137901">Premenovanie nie je k dispozícii</translation>
+ <translation id="7291910923717764901">Pre túto stránku boli pridané popisy obrázkov</translation>
+ <translation id="7293429513719260019">Vybrať jazyk</translation>
+ <translation id="729975465115245577">Vaše zariadenie nemá aplikáciu na uloženie súboru s heslami.</translation>
+-<translation id="7581648335850642193">Vaše zariadenie s Androidom môže mať podobné nastavenie. Ak je toto nastavenie v Brave a zariadení s Androidom zapnuté, príslušná firma môže merať účinnosť reklamy na weboch, ktoré navštevujete, aj v aplikáciách, ktoré používate.</translation>
+-<translation id="7103489643751988188">{PASSWORDS_COUNT,plural, =1{1 heslo je uložené iba v tomto zariadení. Ak ho chcete používať v ďalších zariadeniach, uložte si ho do účtu Brave <ph name="ACCOUNT_EMAIL"/>.}few{# heslá sú uložené iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Brave <ph name="ACCOUNT_EMAIL"/>.}many{# passwords are saved only to this device. To use them on your other devices, save them in your Brave sync chain, <ph name="ACCOUNT_EMAIL"/>.}other{# hesiel je uložených iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Brave <ph name="ACCOUNT_EMAIL"/>.}}</translation>
+-<translation id="1382596880054356475">Offline. Brave nemôže skontrolovať heslá.</translation>
++<translation id="7581648335850642193">Vaše zariadenie s Androidom môže mať podobné nastavenie. Ak je toto nastavenie v Kahf a zariadení s Androidom zapnuté, príslušná firma môže merať účinnosť reklamy na weboch, ktoré navštevujete, aj v aplikáciách, ktoré používate.</translation>
++<translation id="7103489643751988188">{PASSWORDS_COUNT,plural, =1{1 heslo je uložené iba v tomto zariadení. Ak ho chcete používať v ďalších zariadeniach, uložte si ho do účtu Kahf <ph name="ACCOUNT_EMAIL"/>.}few{# heslá sú uložené iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Kahf <ph name="ACCOUNT_EMAIL"/>.}many{# passwords are saved only to this device. To use them on your other devices, save them in your Kahf sync chain, <ph name="ACCOUNT_EMAIL"/>.}other{# hesiel je uložených iba v tomto zariadení. Ak ich chcete používať v ďalších zariadeniach, uložte si ich do účtu Kahf <ph name="ACCOUNT_EMAIL"/>.}}</translation>
++<translation id="1382596880054356475">Offline. Kahf nemôže skontrolovať heslá.</translation>
+ <translation id="7313188324932846546">Klepnutím nastavte synchronizáciu</translation>
+ <translation id="7324354302972299151">Odoslanie žiadosti Do Not Track</translation>
+ <translation id="7332075081379534664">Prihlásenie je úspešné</translation>
+@@ -1352,14 +1352,14 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7400003506822844357">{FILE_COUNT,plural, =1{Ďalší 1 súbor v zozname}few{Ďalšie # súbory v zozname}many{Other # files in list}other{Ďalších # súborov v zozname}}</translation>
+ <translation id="7400418766976504921">Webová adresa</translation>
+ <translation id="724102042129299115">Skúsenosť pri prvom spustení Chromu</translation>
+-<translation id="5341476184053934779">Používateľ účtu Brave</translation>
++<translation id="5341476184053934779">Používateľ účtu Kahf</translation>
+ <translation id="741204030948306876">Áno, súhlasím</translation>
+ <translation id="7419565702166471774">Vždy používať zabezpečené pripojenia</translation>
+ <translation id="7431991332293347422">Ovládajte, ako sa história prehliadania používa na prispôsobenie Vyhľadávania a ďalšieho obsahu</translation>
+ <translation id="7435356471928173109">Vypnuté vaším správcom</translation>
+ <translation id="6234515504547364178">Odhlásiť sa z Chromu</translation>
+ <translation id="6147816961713837040">Odošle znejasnenú časť webovej adresy Googlu prostredníctvom serveru chrániaceho súkromie, ktorý skryje vašu adresu IP</translation>
+-<translation id="3699067418237091329">Odhlási vás z väčšiny webov, ale nie z účtu Brave.</translation>
++<translation id="3699067418237091329">Odhlási vás z väčšiny webov, ale nie z účtu Kahf.</translation>
+ <translation id="7453810262525006706">Zbaliť na bočné zobrazenie</translation>
+ <translation id="7454641608352164238">Nedostatok miesta</translation>
+ <translation id="7454744349230173024">Vaša organizácia vypla ukladanie hesiel</translation>
+@@ -1378,11 +1378,11 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7493994139787901920"><ph name="VERSION"/> (Aktualizované <ph name="TIME_SINCE_UPDATE"/>)</translation>
+ <translation id="7497755084107113646">Téma bola pridaná späť do potenciálnych tém</translation>
+ <translation id="7498271377022651285">Čakajte…</translation>
+-<translation id="8156131600798538460">Ak sa chcete odhlásiť zo svojho účtu Brave na všetkých weboch, <ph name="BEGIN_LINK1"/>odhláste sa z Chromu<ph name="END_LINK1"/>.</translation>
++<translation id="8156131600798538460">Ak sa chcete odhlásiť zo svojho účtu Kahf na všetkých weboch, <ph name="BEGIN_LINK1"/>odhláste sa z Chromu<ph name="END_LINK1"/>.</translation>
+ <translation id="750228856503700085">Aktualizácie nie sú k dispozícii</translation>
+ <translation id="7507207699631365376">Zobraziť <ph name="BEGIN_LINK"/>pravidlá ochrany súkromia<ph name="END_LINK"/> tohto poskytovateľa</translation>
+ <translation id="7514365320538308">Stiahnuť</translation>
+-<translation id="9075033240840348521">Používajte predvolené šifrovanie hesiel od Googlu vo svojom účte Brave</translation>
++<translation id="9075033240840348521">Používajte predvolené šifrovanie hesiel od Googlu vo svojom účte Kahf</translation>
+ <translation id="7518079994230200553">Táto možnosť nie je momentálne k dispozícii.</translation>
+ <translation id="751961395872307827">Nedá sa pripojiť k webu</translation>
+ <translation id="752220631458524187">Po dokončení odpojte</translation>
+@@ -1399,10 +1399,10 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7596558890252710462">Operačný systém</translation>
+ <translation id="7603168929588204083">Neplatný dátum</translation>
+ <translation id="7605594153474022051">Synchronizácia nefunguje</translation>
+-<translation id="649070405679044769">Prihlásený účet Brave</translation>
++<translation id="649070405679044769">Prihlásený účet Kahf</translation>
+ <translation id="7612989789287281429">Prihlasuje sa…</translation>
+ <translation id="7619072057915878432">Súbor <ph name="FILE_NAME"/> sa nepodarilo stiahnuť z dôvodu problémov so sieťou.</translation>
+-<translation id="7207456302801184289">Víta vás prehliadač Brave</translation>
++<translation id="7207456302801184289">Víta vás prehliadač Kahf</translation>
+ <translation id="7628417132421583481">Prejsť do Správcu hesiel</translation>
+ <translation id="7630202231528827509">Webová adresa poskytovateľa</translation>
+ <translation id="7638584964844754484">Nesprávna prístupová fráza</translation>
+@@ -1415,8 +1415,8 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="766587987807204883">Tu sa zobrazia články, ktoré môžete čítať dokonca aj offline</translation>
+ <translation id="7682724950699840886">Skúste tieto tipy: Uistite sa, že máte v zariadení dosť miesta, a potom skúste znova spustiť exportovanie.</translation>
+ <translation id="7686086654630106285">Ďalšie informácie o reklamách navrhovaných webmi</translation>
+-<translation id="2667018639405889513">Niektoré stránky, ktoré navštevujete, sú prednačítané. Stránky môžu byť prednačítané prostredníctvom serverov Googlu, keď s nimi prepojíte web Brave.</translation>
+-<translation id="7795837497684113327">Brave sa nepodarilo vo vašom zariadení otvoriť. Ak chcete tento problém vyriešiť, stiahnite si z obchodu s aplikáciami jeho najnovšiu aktualizáciu.</translation>
++<translation id="2667018639405889513">Niektoré stránky, ktoré navštevujete, sú prednačítané. Stránky môžu byť prednačítané prostredníctvom serverov Googlu, keď s nimi prepojíte web Kahf.</translation>
++<translation id="7795837497684113327">Kahf sa nepodarilo vo vašom zariadení otvoriť. Ak chcete tento problém vyriešiť, stiahnite si z obchodu s aplikáciami jeho najnovšiu aktualizáciu.</translation>
+ <translation id="7691043218961417207">Pozrite si obsah na sledovanie</translation>
+ <translation id="7697383401610880082">Presúvadlo</translation>
+ <translation id="7698359219371678927">Vytvorte správu v aplikácii <ph name="APP_NAME"/></translation>
+@@ -1433,7 +1433,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalší}few{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalšie}many{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalšieho}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 a <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> ďalších}}</translation>
+ <translation id="5614774692683309331">Keď sa prihlásite, chráni váš v službách Googlu.</translation>
+ <translation id="7778840695157240389">Neskôr tu nájdete nové príbehy</translation>
+-<translation id="7703329426540523149">Keď sa prihlásite, dočasne prepojí tieto údaje s vaším účtom Brave, aby vás chránilo v aplikáciách Googlu.</translation>
++<translation id="7703329426540523149">Keď sa prihlásite, dočasne prepojí tieto údaje s vaším účtom Kahf, aby vás chránilo v aplikáciách Googlu.</translation>
+ <translation id="7791543448312431591">Pridať</translation>
+ <translation id="7798392620021911922">Bolo obnovených niekoľko kariet (<ph name="TAB_COUNT"/>)</translation>
+ <translation id="780287761701992588">Majte k dispozícii svoje záložky, heslá a ďalší obsah vo všetkých zariadeniach</translation>
+@@ -1443,7 +1443,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7814066895362068701">{FILE_COUNT,plural, =1{Všetky súbory, 1 súbor v zozname}few{Všetky súbory, # súbory v zozname}many{All files, # files in list}other{Všetky súbory, # súborov v zozname}}</translation>
+ <translation id="7815484226266492798">Dlhá snímka obrazovky</translation>
+ <translation id="7821130663268546430">Všetky otvorené karty nájdete v prepínači kariet</translation>
+-<translation id="8439902729344548970">Keď sa prihlásite, tieto údaje sú pripojené k vášmu účtu Brave, aby vás chránili v službách Googlu (napríklad zvýšenie ochrany v Gmaile po bezpečnostnom incidente).</translation>
++<translation id="8439902729344548970">Keď sa prihlásite, tieto údaje sú pripojené k vášmu účtu Kahf, aby vás chránili v službách Googlu (napríklad zvýšenie ochrany v Gmaile po bezpečnostnom incidente).</translation>
+ <translation id="7824665136384946951">Vaša organizácia vypla Bezpečné prehliadanie</translation>
+ <translation id="78270725016672455">Počítač vyžaduje registráciu tohto zariadenia, aby ste sa na daný web mohli prihlásiť</translation>
+ <translation id="7844171778363018843">Na synchronizáciu neboli vybrané žiadne údaje</translation>
+@@ -1476,13 +1476,13 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="7960972236129063347">Tlačidlo Späť v štatistikách stránky</translation>
+ <translation id="7961926449547174351">Deaktivovali ste prístup k úložisku. Aktivujete ho v sekcii Nastavenia.</translation>
+ <translation id="7963646190083259054">Dodávateľ:</translation>
+-<translation id="2939504940637874963">Uložené heslá môžete používať v ľubovoľnom zariadení. Sú uložené v Správcovi hesiel Brave v účte <ph name="ACCOUNT"/>.</translation>
++<translation id="2939504940637874963">Uložené heslá môžete používať v ľubovoľnom zariadení. Sú uložené v Správcovi hesiel Kahf v účte <ph name="ACCOUNT"/>.</translation>
+ <translation id="7968014550143838305">Pridané do čitateľského zoznamu</translation>
+ <translation id="7971136598759319605">Aktívne včera</translation>
+ <translation id="7975379999046275268">Zobraziť ukážku stránky <ph name="BEGIN_NEW"/>Novinka<ph name="END_NEW"/></translation>
+ <translation id="7977451675950311423">Upozorní vás, keď použijete heslo, ktoré bolo prezradené v rámci porušenia ochrany údajov.</translation>
+ <translation id="7986497153528221272">Ak si chcete zobraziť heslá, najprv v zariadení nastavte zámku obrazovky</translation>
+-<translation id="6171786297758300317"><ph name="PERMISSION_1"/>, <ph name="PERMISSION_2"/>, <ph name="PERMISSION_3"/> <ph name="SEPARATOR"/> Brave odstránil tieto povolenia, pretože ste daný web v poslednom čase nenavštívili</translation>
++<translation id="6171786297758300317"><ph name="PERMISSION_1"/>, <ph name="PERMISSION_2"/>, <ph name="PERMISSION_3"/> <ph name="SEPARATOR"/> Kahf odstránil tieto povolenia, pretože ste daný web v poslednom čase nenavštívili</translation>
+ <translation id="7995059495660416932">Obsah sa zobrazí, keď bude k dispozícii</translation>
+ <translation id="799576009106109668">Prehliadanie sa zrýchli, pretože obsah bude proaktívne načítaný na základe vašej návštevy aktuálnej webovej stránky</translation>
+ <translation id="8001245658307297681">Prezeráte si miestny súbor</translation>
+@@ -1535,7 +1535,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="8210770465353466621">Tu nájdete svoje karty</translation>
+ <translation id="8215740705341534369">Bočný hárok</translation>
+ <translation id="8218622182176210845">Spravujte svoj účet</translation>
+-<translation id="4034729701971511794">Nechcené weby môžete blokovať. Brave okrem toho automaticky odstraňuje zo zoznamu weby, ktoré sú staršie ako 30 dní. <ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/></translation>
++<translation id="4034729701971511794">Nechcené weby môžete blokovať. Kahf okrem toho automaticky odstraňuje zo zoznamu weby, ktoré sú staršie ako 30 dní. <ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/></translation>
+ <translation id="8221985041778490865">Odstraňujú sa dáta prehliadania</translation>
+ <translation id="8223642481677794647">Ponuka karty feedu</translation>
+ <translation id="8236097722223016103">Pridať medzi záložky</translation>
+@@ -1556,8 +1556,8 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="829672787777123339">Pripája sa k zariadeniu…</translation>
+ <translation id="8310344678080805313">Štandardné karty</translation>
+ <translation id="831192587911042850">Týmto pridáte aktuálny web na zoznam sledovaných webov.</translation>
+-<translation id="5665071699503384089">Témy, ktoré nechcete zdieľať s webmi, môžete zablokovať. Brave navyše automaticky odstraňuje témy staršie ako štyri týždne. <ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/></translation>
+-<translation id="7174809333940729365">Brave vás bude informovať o weboch, ktoré môžu odosielať priveľa upozornení</translation>
++<translation id="5665071699503384089">Témy, ktoré nechcete zdieľať s webmi, môžete zablokovať. Kahf navyše automaticky odstraňuje témy staršie ako štyri týždne. <ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/></translation>
++<translation id="7174809333940729365">Kahf vás bude informovať o weboch, ktoré môžu odosielať priveľa upozornení</translation>
+ <translation id="834313815369870491">Nikdy neprekladať weby</translation>
+ <translation id="8348430946834215779">Používajte protokol HTTPS vždy, keď je to možné, a dostávajte upozornenia pred načítaním webov, ktoré ho nepodporujú</translation>
+ <translation id="8354977102499939946">Skratka na rýchle vyhľadávanie hlasom. Ak ju chcete upraviť, prejdite do Nastavení.</translation>
+@@ -1567,29 +1567,29 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="8382640928718131148">Karty, ktoré ste nepoužili <ph name="DAYS_INACTIVE"/> d., sa presunú sem a po <ph name="DAYS_ARCHIVED"/> dňoch sa zavrú. Môžete to kedykoľvek zmeniť v sekcii <ph name="SETTINGS_TITLE"/>.</translation>
+ <translation id="8387617938027387193">Overte, že ste to vy</translation>
+ <translation id="8393700583063109961">Odoslať správu</translation>
+-<translation id="7651600795135059130">Kontroluje webové adresy podľa zoznamu nebezpečných webov uloženého v Brave</translation>
++<translation id="7651600795135059130">Kontroluje webové adresy podľa zoznamu nebezpečných webov uloženého v Kahf</translation>
+ <translation id="8402673309244746971">Prejsť na Sledované</translation>
+ <translation id="8413126021676339697">Zobraziť celú históriu</translation>
+-<translation id="5348884013239264115">Chráni pred nebezpečnými webmi, súbormi na stiahnutie a rozšíreniami. Keď navštívite určitý web, Brave odošle Googlu znejasnenú časť webovej adresy prostredníctvom servera chrániaceho súkromie, ktorý skryje vašu adresu IP. Ak určitý web vykoná niečo podozrivé, odošlú sa aj úplné webové adresy a časti obsahu stránok.</translation>
++<translation id="5348884013239264115">Chráni pred nebezpečnými webmi, súbormi na stiahnutie a rozšíreniami. Keď navštívite určitý web, Kahf odošle Googlu znejasnenú časť webovej adresy prostredníctvom servera chrániaceho súkromie, ktorý skryje vašu adresu IP. Ak určitý web vykoná niečo podozrivé, odošlú sa aj úplné webové adresy a časti obsahu stránok.</translation>
+ <translation id="8414396119627470038">Prihláste sa na webe <ph name="SITE_ETLD_PLUS_ONE"/> pomocou poskytovateľa <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
+ <translation id="8419144699778179708">Odstráni históriu, aj vo vyhľadávacom poli</translation>
+ <translation id="8419244640277402268">Zahŕňať</translation>
+ <translation id="8422250855136581222">Žiadne karty v tomto zariadení</translation>
+ <translation id="78656282836782594">Bezpečnostné nástroje Chromu</translation>
+-<translation id="5735840612282428689">Stránka bola odoslaná. Ak ju chcete zobraziť, otvorte v zariadení <ph name="DEVICE_TYPE"/> Brave</translation>
++<translation id="5735840612282428689">Stránka bola odoslaná. Ak ju chcete zobraziť, otvorte v zariadení <ph name="DEVICE_TYPE"/> Kahf</translation>
+ <translation id="8427875596167638501">Karta ukážky je dopoly otvorená</translation>
+ <translation id="8428213095426709021">Nastavenia</translation>
+ <translation id="8430824733382774043">Zdieľať iba snímku obrazovky</translation>
+ <translation id="8438566539970814960">Zlepšovať vyhľadávanie a prehliadanie</translation>
+ <translation id="8439974325294139057"><ph name="LANG"/> – jazyk je k dispozícii. Reštartujte <ph name="APP_NAME"/>.</translation>
+ <translation id="8442258441309440798">K dispozícii nie sú žiadne príbehy</translation>
+-<translation id="4058091506841967397">Brave sa nedá aktualizovať</translation>
++<translation id="4058091506841967397">Kahf sa nedá aktualizovať</translation>
+ <translation id="8445448999790540984">Heslá sa nepodarilo exportovať</translation>
+ <translation id="8446884382197647889">Ďalšie informácie</translation>
+ <translation id="8449781591250785734">{NUM_SITES,plural, =1{Boli odstránené povolenia 1 webu}few{Boli odstránené povolenia # webom}many{Permissions removed from # sites}other{Boli odstránené povolenia # webom}}</translation>
+ <translation id="8453310803815879010">Spustiť hru s dinosaurom</translation>
+ <translation id="8455675988389029454">Majte k dispozícii svoje záložky, heslá a ďalší obsah vo všetkých zariadeniach</translation>
+-<translation id="7018408824172283743">Naďalej používajte údaje Chromu vo svojom účte Brave</translation>
++<translation id="7018408824172283743">Naďalej používajte údaje Chromu vo svojom účte Kahf</translation>
+ <translation id="8460448946170646641">Skontrolujte hlavné ovládacie prvky ochrany súkromia a zabezpečenia</translation>
+ <translation id="8473863474539038330">Adresy a ďalšie údaje</translation>
+ <translation id="8477178913400731244">Odstrániť údaje</translation>
+@@ -1626,13 +1626,13 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="860043288473659153">Meno držiteľa karty</translation>
+ <translation id="1673533133011266617">Prihlásenie sa do Chromu, zavreté.</translation>
+ <translation id="860282621117673749">Upozornenia na poklesy cien</translation>
+-<translation id="5784514951651328424">Váš účet Brave môže mať ďalšie formy histórie prehliadania na adrese <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
++<translation id="5784514951651328424">Váš účet Kahf môže mať ďalšie formy histórie prehliadania na adrese <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+ <translation id="8617240290563765734">Otvoriť navrhovanú webovú adresu určenú v stiahnutom obsahu?</translation>
+ <translation id="8621068256433641644">telefón</translation>
+ <translation id="8636825310635137004">Ak chcete získať karty zo svojich ostatných zariadení, zapnite synchronizáciu.</translation>
+ <translation id="864544049772947936">Spravovať okná (<ph name="INSTANCE_COUNTS"/>)</translation>
+ <translation id="8645920082661222035">Predpovedá nebezpečné udalosti a upozorní vás, než k nim dôjde</translation>
+-<translation id="7436978557885042606">Používajte Brave podľa svojich potrieb</translation>
++<translation id="7436978557885042606">Používajte Kahf podľa svojich potrieb</translation>
+ <translation id="8664979001105139458">Súbor s takým názvom už existuje</translation>
+ <translation id="8676276370198826499">Zaregistrujte sa na webe <ph name="SITE_ETLD_PLUS_ONE"/> poskytovateľa <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
+ <translation id="8676789164135894283">Overenie prihlásenia</translation>
+@@ -1687,12 +1687,12 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="8970887620466824814">Vyskytol sa problém.</translation>
+ <translation id="8972098258593396643">Stiahnuť do predvoleného priečinka?</translation>
+ <translation id="8982113230057126145">Označením palcom dole odošlete spätnú väzbu, že sa vám tento súhrn nepáčil</translation>
+-<translation id="2481553173340651149">Údaje sú šifrované pomocou vašej prístupovej frázy. Zadajte ju, ak chcete používať a ukladať údaje Chromu do svojho účtu Brave.</translation>
++<translation id="2481553173340651149">Údaje sú šifrované pomocou vašej prístupovej frázy. Zadajte ju, ak chcete používať a ukladať údaje Chromu do svojho účtu Kahf.</translation>
+ <translation id="8996847606757455498">Vybrať iného poskytovateľa</translation>
+ <translation id="8998289560386111590">V zariadení nie je k dispozícii</translation>
+-<translation id="3275122921244685452">Prihlasujete sa pomocou účtu spravovaného doménou <ph name="MANAGED_DOMAIN"/> a jej správcovi tým dávate kontrolu nad svojimi údajmi Chromu. Vaše údaje budú natrvalo prepojené s týmto účtom. Odhlásením z Chromu odstránite údaje z príslušného zariadenia, avšak naďalej zostanú uložené vo vašom účte Brave.</translation>
++<translation id="3275122921244685452">Prihlasujete sa pomocou účtu spravovaného doménou <ph name="MANAGED_DOMAIN"/> a jej správcovi tým dávate kontrolu nad svojimi údajmi Chromu. Vaše údaje budú natrvalo prepojené s týmto účtom. Odhlásením z Chromu odstránite údaje z príslušného zariadenia, avšak naďalej zostanú uložené vo vašom účte Kahf.</translation>
+ <translation id="8998837250940831980">Kartu sa nepodarilo minimalizovať. Skúste to neskôr.</translation>
+-<translation id="9012585441087414258">Chráni pred nebezpečnými webmi, stiahnutými súbormi a rozšíreniami. Ak stránka vykoná niečo podozrivé, webové adresy a časti jej obsahu budú odoslané do Bezpečného prehliadania Brave.</translation>
++<translation id="9012585441087414258">Chráni pred nebezpečnými webmi, stiahnutými súbormi a rozšíreniami. Ak stránka vykoná niečo podozrivé, webové adresy a časti jej obsahu budú odoslané do Bezpečného prehliadania Kahf.</translation>
+ <translation id="9019199799064251516">Chcete pokračovať bez zámky profilu auta?</translation>
+ <translation id="9022774213089566801">Často navštevované</translation>
+ <translation id="9022871169049522985">Weby a inzerenti môžu merať výkonnosť svojich reklám</translation>
+@@ -1729,7 +1729,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="9158770349521403363">Zdieľať iba obsah</translation>
+ <translation id="9159716826369098114">Obnovte skupinu kariet s <ph name="TAB_COUNT"/> kartami ako novú skupinu kariet na pozadí.</translation>
+ <translation id="9169507124922466868">História navigácie je dopoly otvorená</translation>
+-<translation id="4947625801334180582">Brave Beta</translation>
++<translation id="4947625801334180582">Kahf Beta</translation>
+ <translation id="9190276265094487094">Históriu budete mať vo všetkých synchronizovaných zariadeniach, takže budete môcť pokračovať v tom, čo ste robili</translation>
+ <translation id="9191906083913361689">Tieto položky si môžete zobraziť a spravovať aj v záložkách, čitateľskom zozname alebo Správcovi hesiel</translation>
+ <translation id="9199368092038462496">{NUM_MINS,plural, =1{Kontrola prebehla pred minútou}few{Kontrola prebehla pred # minútami}many{Kontrola prebehla pred # minúty}other{Kontrola prebehla pred # minútami}}</translation>
+@@ -1741,16 +1741,16 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="9212845824145208577">Nižšie to už nejde. Skúste začať nižšie na stránke.</translation>
+ <translation id="9218430445555521422">Nastaviť ako predvolený</translation>
+ <translation id="9219103736887031265">Obrázky</translation>
+-<translation id="6946179564366058239">Keď nejaký web požiada o súkromné prednačítanie odkazov na svojej stránke, Brave zašifruje a prednačíta stránky prostredníctvom serverov Googlu bez súborov cookie. Tým sa skryje vaša totožnosť pred prednačítavaným webom.</translation>
+-<translation id="4596514158372210596">Odstránenie aktivity v Brave z digitálnej rovnováhy</translation>
+-<translation id="2830145431802238213">Používanie zjednodušeného režimu v prehliadači Brave</translation>
++<translation id="6946179564366058239">Keď nejaký web požiada o súkromné prednačítanie odkazov na svojej stránke, Kahf zašifruje a prednačíta stránky prostredníctvom serverov Googlu bez súborov cookie. Tým sa skryje vaša totožnosť pred prednačítavaným webom.</translation>
++<translation id="4596514158372210596">Odstránenie aktivity v Kahf z digitálnej rovnováhy</translation>
++<translation id="2830145431802238213">Používanie zjednodušeného režimu v prehliadači Kahf</translation>
+ <translation id="928550791203542716">Sledujete <ph name="SITE_NAME"/></translation>
+ <translation id="930124987204876019">Odstrániť históriu, súbory cookie, dáta webov, vyrovnávaciu pamäť…</translation>
+ <translation id="93533588269984624">Všetky heslá budú stiahnuté do vášho zariadenia a odstránené z kanála <ph name="CHROME_CHANNEL"/></translation>
+ <translation id="938850635132480979">Chyba: <ph name="ERROR_CODE"/></translation>
+ <translation id="939598580284253335">Zadať prístupovú frázu</translation>
+ <translation id="952301137339791907">Dolný hárok štatistík stránky je otvorený</translation>
+-<translation id="5406914950576900927">Brave môže použiť <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> na vyhľadávanie v Číne. Táto možnosť sa dá zmeniť v <ph name="BEGIN_LINK"/>Nastaveniach<ph name="END_LINK"/>.</translation>
++<translation id="5406914950576900927">Kahf môže použiť <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> na vyhľadávanie v Číne. Táto možnosť sa dá zmeniť v <ph name="BEGIN_LINK"/>Nastaveniach<ph name="END_LINK"/>.</translation>
+ <translation id="961856697154696964">Odstrániť dáta prehliadania</translation>
+ <translation id="966131775676567255">Údaje účtu sa odstraňujú</translation>
+ <translation id="96681097142096641">Chcete zobraziť zjednodušenú stránku?</translation>
+@@ -1776,11 +1776,11 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK"/>odstráňte údaje Chr
+ <translation id="3442126301004443274">Ak chcete zo svojho zariadenia vymazať históriu súkromného prehliadania, zatvorte všetky súkromné karty.</translation>
+ <translation id="4526803704855831732">Súkromné karty</translation>
+ <translation id="5248610748197335423">Zatvoriť v súkromných kartách</translation>
+-<translation id="2656327481457116654">Otvoriť v súkromnej karte Brave</translation>
++<translation id="2656327481457116654">Otvoriť v súkromnej karte Kahf</translation>
+ <translation id="4660964651149493586">Odomknúť súkromný režim</translation>
+ <translation id="5278260521317049275">Zapnite Súkromný zámok</translation>
+-<translation id="6302653771627628530">Keď opustíte prehliadač Brave, súkromné karty sa zamknú</translation>
+-<translation id="3763131702135887799">Pomôžte zlepšiť prehliadač Brave pre profily, ktoré ho používajú tak ako vy</translation>
++<translation id="6302653771627628530">Keď opustíte prehliadač Kahf, súkromné karty sa zamknú</translation>
++<translation id="3763131702135887799">Pomôžte zlepšiť prehliadač Kahf pre profily, ktoré ho používajú tak ako vy</translation>
+ <translation id="4167670741834902166">Nová súkromná karta</translation>
+ <translation id="8120164982795455341">Nová súkromná karta</translation>
+ <translation id="6464648082977038075">Zatvoriť súkromné karty</translation>

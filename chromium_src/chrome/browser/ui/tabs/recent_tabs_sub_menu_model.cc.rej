@@ -1,0 +1,10 @@
+diff a/chromium_src/chrome/browser/ui/tabs/recent_tabs_sub_menu_model.cc b/chromium_src/chrome/browser/ui/tabs/recent_tabs_sub_menu_model.cc	(rejected hunks)
+@@ -10,7 +10,7 @@
+ namespace {
+ 
+ const char kBraveStubSessionTag[] = "brave_stub_more_session_tag";
+-const char kBraveSyncedTabsUrl[] = "brave://history/syncedTabs";
++const char kBraveSyncedTabsUrl[] = "kahf://history/syncedTabs";
+ 
+ }  //  namespace
+ 

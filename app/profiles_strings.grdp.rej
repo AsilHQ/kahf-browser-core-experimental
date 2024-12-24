@@ -1,0 +1,23 @@
+diff a/app/profiles_strings.grdp b/app/profiles_strings.grdp	(rejected hunks)
+@@ -164,8 +164,8 @@
+     <message name="IDS_PROFILE_MENU_CUSTOMIZE_PROFILE_BUTTON" desc="Button in the avatar menu bubble view for editing the current profile.">
+       Customize profile
+     </message>
+-    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Brave account settings.">
+-      Brave services settings
++    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Kahf account settings.">
++      Kahf services settings
+     </message>
+   </if>
+   <if expr="use_titlecase">
+@@ -196,8 +196,8 @@
+     <message name="IDS_PROFILE_MENU_CUSTOMIZE_PROFILE_BUTTON" desc="Button in the avatar menu bubble view for editing the current profile. ">
+       Customize Profile
+     </message>
+-    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Brave account settings.">
+-      Brave Services Settings
++    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Kahf account settings.">
++      Kahf Services Settings
+     </message>
+   </if>
+   <message name="IDS_PROFILES_MANAGED_BY" desc="Label shown under the avatar in the avatar menu bubble view stating that the account is managed.">

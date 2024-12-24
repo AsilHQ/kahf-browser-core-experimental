@@ -1,0 +1,52 @@
+diff a/browser/brave_scheme_load_browsertest.cc b/browser/brave_scheme_load_browsertest.cc	(rejected hunks)
+@@ -307,7 +307,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+       IsURLAllowedInIncognito(GURL("chrome://rewards"), browser()->profile()));
+   EXPECT_TRUE(
+       IsURLAllowedInIncognito(GURL("http://rewards"), browser()->profile()));
+-  TestURLIsNotLoadedInPrivateWindow("brave://rewards");
++  TestURLIsNotLoadedInPrivateWindow("kahf://rewards");
+ }
+ 
+ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+@@ -316,16 +316,16 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+       IsURLAllowedInIncognito(GURL("chrome://wallet"), browser()->profile()));
+   EXPECT_TRUE(
+       IsURLAllowedInIncognito(GURL("http://wallet"), browser()->profile()));
+-  TestURLIsNotLoadedInPrivateWindow("brave://wallet");
++  TestURLIsNotLoadedInPrivateWindow("kahf://wallet");
+   prefs()->SetBoolean(kBraveWalletPrivateWindowsEnabled, true);
+   EXPECT_TRUE(
+-      IsURLAllowedInIncognito(GURL("brave://wallet"), browser()->profile()));
++      IsURLAllowedInIncognito(GURL("kahf://wallet"), browser()->profile()));
+   TestURLIsLoadedInPrivateWindow("chrome://wallet/crypto/onboarding/welcome");
+ }
+ 
+ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+                        WalletPageIsNotAllowedInGuestWindow) {
+-  TestURLIsNotLoadedInGuestWindow(GURL("brave://wallet"));
++  TestURLIsNotLoadedInGuestWindow(GURL("kahf://wallet"));
+ }
+ 
+ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+@@ -334,7 +334,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+       IsURLAllowedInIncognito(GURL("chrome://sync"), browser()->profile()));
+   EXPECT_TRUE(
+       IsURLAllowedInIncognito(GURL("http://sync"), browser()->profile()));
+-  TestURLIsNotLoadedInPrivateWindow("brave://sync");
++  TestURLIsNotLoadedInPrivateWindow("kahf://sync");
+ }
+ 
+ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+@@ -343,10 +343,10 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+       IsURLAllowedInIncognito(GURL("chrome://welcome"), browser()->profile()));
+   EXPECT_TRUE(
+       IsURLAllowedInIncognito(GURL("http://welcome"), browser()->profile()));
+-  TestURLIsNotLoadedInPrivateWindow("brave://welcome");
++  TestURLIsNotLoadedInPrivateWindow("kahf://welcome");
+ }
+ 
+ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
+                        BraveWelcomePageIsNotAllowedInGuestWindow) {
+-  TestURLIsNotLoadedInGuestWindow(GURL("brave://welcome"));
++  TestURLIsNotLoadedInGuestWindow(GURL("kahf://welcome"));
+ }

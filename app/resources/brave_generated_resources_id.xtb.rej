@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_id.xtb b/app/resources/brave_generated_resources_id.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ Atau dapat mengubahnya nanti di <ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="1970435562892104727">Ini adalah jendela pribadi dengan Tor</translation>
+ <translation id="1037341607922068025">Buka Jendela Pribadi dengan Tor</translation>
+ <translation id="607982085107926247">Buka di Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Akun Sinkronisasi Brave ini dihapus dari perangkat lain. Jika Anda tidak bermaksud menonaktifkan Sinkronisasi,<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Akun Sinkronisasi Kahf ini dihapus dari perangkat lain. Jika Anda tidak bermaksud menonaktifkan Sinkronisasi,<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>membuat ulang akun</translation>
+ <translation id="6965382102122355670">Oke</translation>
+-<translation id="3975865347033939965">Layanan sinkronisasi tidak dapat dimulai, Sinkronisasi Brave tidak aktif</translation>
++<translation id="3975865347033939965">Layanan sinkronisasi tidak dapat dimulai, Sinkronisasi Kahf tidak aktif</translation>
+ <translation id="4450893287417543264">Jangan tampilkan lagi</translation>
+ <translation id="4595286989346610620">Periksa detailnya</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@ Atau dapat mengubahnya nanti di <ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="4759098689276706664">Tempelkan Paksa</translation>
+ <translation id="1434416574322382019">Jendela Pribadi dengan Tor Baru</translation>
+ <translation id="4703780849509456860">Buka Tautan di Jendela Pribadi dengan Tor</translation>
+-<translation id="3488584642074079080">Buka Tautan di Jendela Pribadi dengan Tor Brave</translation>
++<translation id="3488584642074079080">Buka Tautan di Jendela Pribadi dengan Tor Kahf</translation>
+ <translation id="6313675821927505581">Jendela pribadi dengan Tor baru</translation>
+ <translation id="2638041073279639246">Buka tautan di jendela pribadi dengan Tor</translation>
+-<translation id="3425600262621021599">Buka tautan di jendela pribadi dengan Tor Brave</translation>
+-<translation id="2545072023356206691">Mulai tanggal 1 Desember 2023, saluran Brave Dev tidak akan lagi menerima pembaruan peramban. Kami merekomendasikan pengguna untuk bermigrasi ke versi Nightly, Beta, atau Release dari Brave.</translation>
++<translation id="3425600262621021599">Buka tautan di jendela pribadi dengan Tor Kahf</translation>
++<translation id="2545072023356206691">Mulai tanggal 1 Desember 2023, saluran Kahf Dev tidak akan lagi menerima pembaruan peramban. Kami merekomendasikan pengguna untuk bermigrasi ke versi Nightly, Beta, atau Release dari Kahf.</translation>
+ <translation id="474217410105706308">Nonaktifkan Tab</translation>
+-<translation id="2804710924397009224">Sembunyikan Ikon Imbalan Brave</translation>
+-<translation id="5029193871181468990">Sembunyikan ikon Imbalan Brave</translation>
+-<translation id="2808103541110899519">Sembunyikan Ikon Dompet Brave</translation>
+-<translation id="7595540212376041331">Sembunyikan ikon Dompet Brave</translation>
++<translation id="2804710924397009224">Sembunyikan Ikon Imbalan Kahf</translation>
++<translation id="5029193871181468990">Sembunyikan ikon Imbalan Kahf</translation>
++<translation id="2808103541110899519">Sembunyikan Ikon Dompet Kahf</translation>
++<translation id="7595540212376041331">Sembunyikan ikon Dompet Kahf</translation>
+ <translation id="4928988318462976765">Toko Ekstensi Web</translation>
+ <translation id="9181207987584064303">Lihat di Toko Ekstensi Web</translation>
+-<translation id="3161744659507801211">Peringatan: Brave tidak dapat mencegah ekstensi merekam riwayat ramban Anda.</translation>
++<translation id="3161744659507801211">Peringatan: Kahf tidak dapat mencegah ekstensi merekam riwayat ramban Anda.</translation>
+ <translation id="2162109630536601963">Jika ekstensi ini membuat permintaan jaringan, mereka tidak akan menggunakan Tor atau modus privat.</translation>
+ <translation id="2725327089319971976">Untuk menonaktifkan ekstensi di modus privat dan modus Tor, batalkan opsi ini.</translation>
+-<translation id="3371343170427636147">Aplikasi Peramban Brave Nightly</translation>
+-<translation id="4097979995947147464">Aplikasi Peramban Brave Beta</translation>
+-<translation id="8303432794159193481">Aplikasi Pengembang Peramban Brave</translation>
+-<translation id="8292967014767479012">Aplikasi Peramban Brave</translation>
+-<translation id="4743468424889072281">Aplikasi Pengembangan Peramban Brave</translation>
++<translation id="3371343170427636147">Aplikasi Peramban Kahf Nightly</translation>
++<translation id="4097979995947147464">Aplikasi Peramban Kahf Beta</translation>
++<translation id="8303432794159193481">Aplikasi Pengembang Peramban Kahf</translation>
++<translation id="8292967014767479012">Aplikasi Peramban Kahf</translation>
++<translation id="4743468424889072281">Aplikasi Pengembangan Peramban Kahf</translation>
+ <translation id="5039804452771397117">Izinkan</translation>
+ <translation id="7053983685419859001">Blokir</translation>
+-<translation id="1679356339067548863">Membantu meningkatkan stabilitas produk Brave dengan secara otomatis mengirim laporan diagnostik saat Peramban Brave bermasalah atau macet.</translation>
++<translation id="1679356339067548863">Membantu meningkatkan stabilitas produk Kahf dengan secara otomatis mengirim laporan diagnostik saat Peramban Kahf bermasalah atau macet.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> keluar secara tidak terduga.</translation>
+-<translation id="1324417023773393937">Peramban Brave</translation>
++<translation id="1324417023773393937">Peramban Kahf</translation>
+ <translation id="7276554663454265692">Anda dapat mengubah <ph name="SETTING_TEXT"/> kapan saja di pengaturan peramban.</translation>
+ <translation id="6873781976650514089">pengaturan ini</translation>
+ <translation id="4684633335323013758">Situs ini telah meminta <ph name="PART_ONE"/>lokasi umum<ph name="PART_ONE_END"/> Anda. <ph name="PART_TWO"/>Pelajari lebih lanjut<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Situs ini telah meminta <ph name="PART_ONE"/>lokasi tepat<ph name="PART_ONE_END"/> Anda. <ph name="PART_TWO"/>Pelajari lebih lanjut<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Situs ini telah meminta <ph name="PART_ONE"/>lokasi tepat<ph name="PART_ONE_END"/> Anda. Brave hanya akan mampu menyediakan data <ph name="PART_TWO"/>lokasi umum<ph name="PART_TWO_END"/> karena <ph name="PART_THREE"/>Layanan Lokasi<ph name="PART_THREE_END"/> sedang dinonaktifkan. <ph name="PART_FOUR"/>Pelajari lebih lanjut<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Situs ini telah meminta <ph name="PART_ONE"/>lokasi tepat<ph name="PART_ONE_END"/> Anda. Kahf hanya akan mampu menyediakan data <ph name="PART_TWO"/>lokasi umum<ph name="PART_TWO_END"/> karena <ph name="PART_THREE"/>Layanan Lokasi<ph name="PART_THREE_END"/> sedang dinonaktifkan. <ph name="PART_FOUR"/>Pelajari lebih lanjut<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Tutup semua</translation>
+ <translation id="7658239707568436148">Batal</translation>
+ <translation id="4870911314065352661">Tutup semua tab?</translation>
+ <translation id="7551864359422178684">Anda memiliki <ph name="NUMBER_OF_TABS"/>tab terbuka di jendela peramban ini.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> tab</translation>
+ <translation id="1307431692088049276">Jangan tanya lagi</translation>
+-<translation id="6919364924256365253">Jangan mencari dengan Google. Tidak pula Bing. Gunakan Brave saja.</translation>
+-<translation id="2640297688005939449">Pencarian Brave tidak membuat profil Anda. Dan 100% independen.</translation>
++<translation id="6919364924256365253">Jangan mencari dengan Google. Tidak pula Bing. Gunakan Kahf saja.</translation>
++<translation id="2640297688005939449">Pencarian Kahf tidak membuat profil Anda. Dan 100% independen.</translation>
+ <translation id="7295094278358921487">Carilah dan Anda akan menemukannya. Secara privat.</translation>
+-<translation id="3462465068145800637">Pencarian Brave tidak membuat profil Anda. Dan 100% independen dari Raksasa Teknologi.</translation>
++<translation id="3462465068145800637">Pencarian Kahf tidak membuat profil Anda. Dan 100% independen dari Raksasa Teknologi.</translation>
+ <translation id="42032117189492785">Pencarian yang dibantu AI dengan indeks unik.</translation>
+ <translation id="8606416238399082160">Sepenuhnya privat, 100% bersifat independen, dan memiliki fitur AI yang luar biasa.</translation>
+-<translation id="7706528608480893054">DDG hanyalah Bing yang menyamar. Waktunya untuk privasi yang nyata, hasil yang lebih baik, dan indeks independen. Waktunya untuk Pencarian Brave.</translation>
++<translation id="7706528608480893054">DDG hanyalah Bing yang menyamar. Waktunya untuk privasi yang nyata, hasil yang lebih baik, dan indeks independen. Waktunya untuk Pencarian Kahf.</translation>
+ <translation id="3818133234428578803">Buang bebek itu</translation>
+-<translation id="14817360483752259">Pencarian Brave tidak melacak Anda, pertanyaan Anda, atau klik Anda. Dan (tidak seperti DDG), ini bukan sekadar Bing yang menyamar.</translation>
++<translation id="14817360483752259">Pencarian Kahf tidak melacak Anda, pertanyaan Anda, atau klik Anda. Dan (tidak seperti DDG), ini bukan sekadar Bing yang menyamar.</translation>
+ <translation id="4381193110021038941">Dapatkan hasil yang lebih baik</translation>
+-<translation id="3846545273704969734">Pencarian Brave diverifikasi secara independen untuk memiliki hasil yang lebih baik daripada Bing (atau klon dari Bing seperti DuckDuckGo).</translation>
++<translation id="3846545273704969734">Pencarian Kahf diverifikasi secara independen untuk memiliki hasil yang lebih baik daripada Bing (atau klon dari Bing seperti DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Tingkatkan hasil pencarian</translation>
+-<translation id="4639001639513524869">Pencarian Brave memiliki hasil yang lebih baik daripada DuckDuckGo untuk sebagian besar kueri. Dan ini benar-benar privat.</translation>
+-<translation id="5240031343741051161">Coba Pencarian Brave</translation>
++<translation id="4639001639513524869">Pencarian Kahf memiliki hasil yang lebih baik daripada DuckDuckGo untuk sebagian besar kueri. Dan ini benar-benar privat.</translation>
++<translation id="5240031343741051161">Coba Pencarian Kahf</translation>
+ <translation id="5234764350956374838">Tutup</translation>
+-<translation id="8722651357687610395">Setel Brave sebagai peramban baku</translation>
++<translation id="8722651357687610395">Setel Kahf sebagai peramban baku</translation>
+ <translation id="2370739752330685659">Mungkin nanti</translation>
+-<translation id="5100490448228945668">Hapus konversi pencarian Brave, tekan Enter untuk menghapus usulan ini</translation>
++<translation id="5100490448228945668">Hapus konversi pencarian Kahf, tekan Enter untuk menghapus usulan ini</translation>
+ <translation id="9194637241566114638">Bantulah peningkatan <ph name="SEARCH_NAME"/> dengan mengirimkan data penggunaan secara anonim.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Pencarian Brave</translation>
++<translation id="7404610376221341525">Pencarian Kahf</translation>
+ <translation id="8184318863960255706">Info selengkapnya</translation>
+ <translation id="780301667611848630">Lain kali</translation>
+-<translation id="1162706247109707219">Dengan mengklik OK, Anda mengakui bahwa instalasi Brave Anda TIDAK akan menerima perbaikan keamanan penting hingga Anda memperbarui ke Window 10 atau yang lebih dari itu. Peringatan ini TIDAK akan ditampilkan lagi.</translation>
+-<translation id="9164786361657554526">Dengan mengklik OK, Anda mengakui bahwa instalasi Brave Anda TIDAK akan menerima perbaikan keamanan penting hingga Anda memperbarui ke macOS 10.15 atau yang lebih dari itu. Peringatan ini TIDAK akan ditampilkan lagi.</translation>
++<translation id="1162706247109707219">Dengan mengklik OK, Anda mengakui bahwa instalasi Kahf Anda TIDAK akan menerima perbaikan keamanan penting hingga Anda memperbarui ke Window 10 atau yang lebih dari itu. Peringatan ini TIDAK akan ditampilkan lagi.</translation>
++<translation id="9164786361657554526">Dengan mengklik OK, Anda mengakui bahwa instalasi Kahf Anda TIDAK akan menerima perbaikan keamanan penting hingga Anda memperbarui ke macOS 10.15 atau yang lebih dari itu. Peringatan ini TIDAK akan ditampilkan lagi.</translation>
+ <translation id="2770465223704140727">Hapus dari daftar</translation>
+ <translation id="6020553119523541665">Tab ini aktif di jendela lain</translation>
+ <translation id="4987392683074136770">Mengklik tab ini akan membawa kontennya ke jendela ini</translation>
+@@ -299,8 +299,8 @@ Atau dapat mengubahnya nanti di <ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="6453210454707928697">Gagal memutar item</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] mungkin sudah kedaluwarsa. Apakah Anda ingin memulihkannya?</translation>
+ <translation id="6155018868740116868">Pulihkan</translation>
+-<translation id="1727684853006449697">Pemutar Brave</translation>
+-<translation id="9156965752763025780">Perubahan Anda akan berlaku saat berikutnya Anda membuka Brave.</translation>
++<translation id="1727684853006449697">Pemutar Kahf</translation>
++<translation id="9156965752763025780">Perubahan Anda akan berlaku saat berikutnya Anda membuka Kahf.</translation>
+ <translation id="7179921470347911571">Luncurkan Ulang Sekarang</translation>
+ <translation id="1426410128494586442">Ya</translation>
+ <translation id="4250680216510889253">Tidak</translation>
+@@ -339,7 +339,7 @@ Atau dapat mengubahnya nanti di <ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="8820817407110198400">Bookmark</translation>
+ <translation id="4144468798716165316">Perintah cepat</translation>
+ <translation id="7310387888625228830">Asisten AI Leo</translation>
+-<translation id="5222974844674487962">Tampilkan tombol Berita Brave</translation>
++<translation id="5222974844674487962">Tampilkan tombol Berita Kahf</translation>
+ <translation id="383007806262310953">Tampilkan kolom bookmark</translation>
+ <translation id="4054323497808446566">Bilah markah terlihat di semua halaman</translation>
+ <translation id="8693858092251192712">Bilah markah tersembunyi di semua halaman kecuali halaman tab baru</translation>
+@@ -440,7 +440,7 @@ Atau dapat mengubahnya nanti di <ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="4891600875049212418">Aktifkan Tanpa Catatan ketika mengunjungi situs sensitif</translation>
+ <translation id="1968895725257436430">Pengumpulan data</translation>
+ <translation id="4846154056248462491">Saat keluar</translation>
+-<translation id="2808630562319398131">Atur ulang data Brave Reward...</translation>
++<translation id="2808630562319398131">Atur ulang data Kahf Reward...</translation>
+ <translation id="6438096877646138757">Situs yang menghapus cookie saat Anda menutupnya</translation>
+ <translation id="2988792685798128092">Hapus saat situs ditutup</translation>
+ <translation id="7702907602086592255">Domain</translation>
+@@ -694,7 +694,7 @@ Leo. Tindakan ini tidak dapat dibatalkan.</translation>
+ <translation id="7131172845656551327">Nama model sebagaimana yang seharusnya muncul dalam permintaan ke kerangka kerja pelayanan, yaitu phi-3 (perhatikan bahwa jika nama ini tidak sesuai dengan yang diharapkan oleh kerangka kerja pelayanan integrasi tidak akan berhasil)</translation>
+ <translation id="3286410514484292784">URL tempat kerangka kerja pelayanan Anda mendengarkan permintaan. Jika Anda tidak yakin, periksalah dokumentasi kerangka kerja pelayanan. Misalnya, untuk Ollama, ini selalu http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Beberapa kerangka kerja pelayanan mungkin memerlukan kredensial autentikasi, seperti kunci API atau token akses. Ini akan ditambahkan ke tajuk permintaan.</translation>
+-<translation id="217141195370578385">Brave tidak memproksi permintaan ini, silakan baca persyaratan privasi dari penyedia yang dipilih.</translation>
++<translation id="217141195370578385">Kahf tidak memproksi permintaan ini, silakan baca persyaratan privasi dari penyedia yang dipilih.</translation>
+ <translation id="2645532768679870478">Titik akhir non-lokal harus menerapkan protokol HTTPS untuk transmisi data yang aman.</translation>
+ <translation id="8177205483022887785">Anda telah memasukkan URL yang tidak valid. Silakan masukkan URL yang valid.</translation>
+ <translation id="5249539665306267943">Menambahkan model baru</translation>

@@ -1,0 +1,155 @@
+diff a/app/resources/brave_generated_resources_sr.xtb b/app/resources/brave_generated_resources_sr.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ Ili kasnije promenite u <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="1970435562892104727">Ovo je privatni prozor sa Tor-om</translation>
+ <translation id="1037341607922068025">Otvori privatni prozor sa Tor-om</translation>
+ <translation id="607982085107926247">Otvorite u Tor-u: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Ovaj Brave nalog za sinhronizaciju je obrisan na drugom uređaju. Ako niste želeli da onemogućite sinhronizaciju,<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Ovaj Kahf nalog za sinhronizaciju je obrisan na drugom uređaju. Ako niste želeli da onemogućite sinhronizaciju,<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>ponovo kreirajte nalog</translation>
+ <translation id="6965382102122355670">OK</translation>
+-<translation id="3975865347033939965">Usluga sinhronizacije nije mogla da se pokrene, Brave sinhronizacija ne radi</translation>
++<translation id="3975865347033939965">Usluga sinhronizacije nije mogla da se pokrene, Kahf sinhronizacija ne radi</translation>
+ <translation id="4450893287417543264">Ne prikazuj ponovo</translation>
+ <translation id="4595286989346610620">Proverite detalje</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -58,33 +58,33 @@ Ili kasnije promenite u <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="3488584642074079080">Otvorite vezu u Brejv privatnom Vinousu sa Torom</translation>
+ <translation id="6313675821927505581">Novi privatni prozor sa Tor-om</translation>
+ <translation id="2638041073279639246">Otvori vezu u privatnom prozoru sa Tor-om</translation>
+-<translation id="3425600262621021599">Otvori vezu u Brave privatnom prozoru sa Tor-om</translation>
+-<translation id="2545072023356206691">Od 1. decembra 2023. godine Brave Dev kanal više neće primati ažuriranja pretraživača. Preporučujemo korisnicima da pređu na Nightly, Beta ili Release verziju Brave pretraživača.</translation>
++<translation id="3425600262621021599">Otvori vezu u Kahf privatnom prozoru sa Tor-om</translation>
++<translation id="2545072023356206691">Od 1. decembra 2023. godine Kahf Dev kanal više neće primati ažuriranja pretraživača. Preporučujemo korisnicima da pređu na Nightly, Beta ili Release verziju Kahf pretraživača.</translation>
+ <translation id="474217410105706308">Искључи звук картице</translation>
+-<translation id="2804710924397009224">Sakrij ikone Brave nagrada</translation>
+-<translation id="5029193871181468990">Sakrij ikonicu Brave nagrada</translation>
+-<translation id="2808103541110899519">Sakrij ikonicu Brave novčanika</translation>
+-<translation id="7595540212376041331">Sakrij ikonicu Brave novčanika</translation>
++<translation id="2804710924397009224">Sakrij ikone Kahf nagrada</translation>
++<translation id="5029193871181468990">Sakrij ikonicu Kahf nagrada</translation>
++<translation id="2808103541110899519">Sakrij ikonicu Kahf novčanika</translation>
++<translation id="7595540212376041331">Sakrij ikonicu Kahf novčanika</translation>
+ <translation id="4928988318462976765">Prodavnica Veb proširenja</translation>
+ <translation id="9181207987584064303">Prikaži u prodavnici Veb proširenja</translation>
+-<translation id="3161744659507801211">Upozorenje: Brave ne može da spreči ekstenzije da snimaju vašu istoriju pregledanja</translation>
++<translation id="3161744659507801211">Upozorenje: Kahf ne može da spreči ekstenzije da snimaju vašu istoriju pregledanja</translation>
+ <translation id="2162109630536601963">Ako ovo proširenje pravi mrežne zahteve, neće koristiti Tor ili privatni režim.</translation>
+ <translation id="2725327089319971976">Da biste onemogućili ovu ekstenziju u privatnom režimu i Tor režimu, odštiklirajte ovu opciju.</translation>
+-<translation id="3371343170427636147">Noćne aplikacije Brave pregledača</translation>
+-<translation id="4097979995947147464">Beta aplikacije Brave pregledača</translation>
+-<translation id="8303432794159193481">Razvojne aplikacije Brave pregledača</translation>
+-<translation id="8292967014767479012">Aplikacije Brave pregledača</translation>
+-<translation id="4743468424889072281">Razvojne aplikacije Brave pregledača</translation>
++<translation id="3371343170427636147">Noćne aplikacije Kahf pregledača</translation>
++<translation id="4097979995947147464">Beta aplikacije Kahf pregledača</translation>
++<translation id="8303432794159193481">Razvojne aplikacije Kahf pregledača</translation>
++<translation id="8292967014767479012">Aplikacije Kahf pregledača</translation>
++<translation id="4743468424889072281">Razvojne aplikacije Kahf pregledača</translation>
+ <translation id="5039804452771397117">Dozvoli</translation>
+ <translation id="7053983685419859001">Блокирај</translation>
+-<translation id="1679356339067548863">Pomaže kompaniji Brave da poboljša stabilnost proizvoda tako što automatski šalje izveštaje o dijagnostici kada dođe do otkazivanja ili zamrzavanja Brave pregledača.</translation>
++<translation id="1679356339067548863">Pomaže kompaniji Kahf da poboljša stabilnost proizvoda tako što automatski šalje izveštaje o dijagnostici kada dođe do otkazivanja ili zamrzavanja Kahf pregledača.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> je neočekivano prekinuo rad.</translation>
+-<translation id="1324417023773393937">Brave pretraživač</translation>
++<translation id="1324417023773393937">Kahf pretraživač</translation>
+ <translation id="7276554663454265692">U svakom trenutku možete promeniti <ph name="SETTING_TEXT"/> u podešavanjima pregledača.</translation>
+ <translation id="6873781976650514089">ovo podešavanje</translation>
+ <translation id="4684633335323013758">Ova stranica je zatražila vašu <ph name="PART_ONE"/>generalnu lokaciju<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Saznati više<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Ova stranica je zatražila vašu <ph name="PART_ONE"/>preciznu lokaciju<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Saznati više<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Ova stranica je zatražila vašu <ph name="PART_ONE"/>preciznu lokaciju<ph name="PART_ONE_END"/>. Brave može da pruži samo <ph name="PART_TWO"/>generalnu lokaciju<ph name="PART_TWO_END"/> zbog toga što su <ph name="PART_THREE"/>usluge lokacije<ph name="PART_THREE_END"/> onemogućene. <ph name="PART_FOUR"/>Saznati više<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Ova stranica je zatražila vašu <ph name="PART_ONE"/>preciznu lokaciju<ph name="PART_ONE_END"/>. Kahf može da pruži samo <ph name="PART_TWO"/>generalnu lokaciju<ph name="PART_TWO_END"/> zbog toga što su <ph name="PART_THREE"/>usluge lokacije<ph name="PART_THREE_END"/> onemogućene. <ph name="PART_FOUR"/>Saznati više<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Zatvori sve</translation>
+ <translation id="7658239707568436148">Otkaži</translation>
+ <translation id="4870911314065352661">Zatvori sve kartice?</translation>
+@@ -92,29 +92,29 @@ Ili kasnije promenite u <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> kartica</translation>
+ <translation id="1307431692088049276">Ne pitaj me ponovo</translation>
+ <translation id="6919364924256365253">Nemojte da Guglate. Ne možete da Bingujete. Jednostavno Brejvujte.</translation>
+-<translation id="2640297688005939449">Brave pretraga vas ne profiliše. I 100% je nezavisna.</translation>
++<translation id="2640297688005939449">Kahf pretraga vas ne profiliše. I 100% je nezavisna.</translation>
+ <translation id="7295094278358921487">Tražite i pronaćičete. Privatno.</translation>
+-<translation id="3462465068145800637">Brave pretraga vas ne profiliše. I 100% je nezavisna od Big Tech.</translation>
++<translation id="3462465068145800637">Kahf pretraga vas ne profiliše. I 100% je nezavisna od Big Tech.</translation>
+ <translation id="42032117189492785">Potpuno uključena pretraga sa jedinstvenim indeksom.</translation>
+ <translation id="8606416238399082160">Potpuno privatno, 100% nezavisno, i uz sjajne AI funkcije.</translation>
+-<translation id="7706528608480893054">DDG je samo prerušeni Bing. Vreme je za pravu privatnost, bolje rezultate i nezavisni indeks. Vreme je za Brave pretragu.</translation>
++<translation id="7706528608480893054">DDG je samo prerušeni Bing. Vreme je za pravu privatnost, bolje rezultate i nezavisni indeks. Vreme je za Kahf pretragu.</translation>
+ <translation id="3818133234428578803">Odbacite duck</translation>
+-<translation id="14817360483752259">Brave pretraga vas ne prati, ne prati vaše upite niti vaše klikove. I (za razliku od DDG) nije samo prerušeni Bing.</translation>
++<translation id="14817360483752259">Kahf pretraga vas ne prati, ne prati vaše upite niti vaše klikove. I (za razliku od DDG) nije samo prerušeni Bing.</translation>
+ <translation id="4381193110021038941">Ostvarite bolje rezultate</translation>
+-<translation id="3846545273704969734">Nezavisno je potvrđeno da Brave pretraga daje bolje rezultate od Bing-a (ili Bing klonova kao što je DuckDuckGo).</translation>
++<translation id="3846545273704969734">Nezavisno je potvrđeno da Kahf pretraga daje bolje rezultate od Bing-a (ili Bing klonova kao što je DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Unapredite rezultate pretrage</translation>
+-<translation id="4639001639513524869">Brave pretraga daje bolje rezultate od DuckSuckGo kada je reč o većini upita. I zaista je privatna.</translation>
+-<translation id="5240031343741051161">Isprobajte Brave pretraživač</translation>
++<translation id="4639001639513524869">Kahf pretraga daje bolje rezultate od DuckSuckGo kada je reč o većini upita. I zaista je privatna.</translation>
++<translation id="5240031343741051161">Isprobajte Kahf pretraživač</translation>
+ <translation id="5234764350956374838">Odbaciti</translation>
+-<translation id="8722651357687610395">Postavite Brave kao podrazumevani</translation>
++<translation id="8722651357687610395">Postavite Kahf kao podrazumevani</translation>
+ <translation id="2370739752330685659">Možda kasnije</translation>
+-<translation id="5100490448228945668">Odbacite konverziju Brave pretrage, pritisnite enter da biste uklonili ovaj predlog</translation>
++<translation id="5100490448228945668">Odbacite konverziju Kahf pretrage, pritisnite enter da biste uklonili ovaj predlog</translation>
+ <translation id="9194637241566114638">Pomozite nam da poboljšamo <ph name="SEARCH_NAME"/> tako što ćete nam anonimno poslati podatke o korišćenju.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave pretraga</translation>
++<translation id="7404610376221341525">Kahf pretraga</translation>
+ <translation id="8184318863960255706">Више информација</translation>
+ <translation id="780301667611848630">Не, хвала</translation>
+-<translation id="1162706247109707219">Klikom na OK, potvrđujete da vaša Brave instalacija NEĆE dobiti kritične bezbednosne ispravke dok ne ažurirate na Windows 10 ili noviji. Ovo upozorenje se NEĆE ponovo prikazati.</translation>
+-<translation id="9164786361657554526">Klikom na OK, potvrđujete da vaša Brave instalacija NEĆE primati kritične bezbednosne ispravke dok ne ažurirate na macOS 10.15 ili noviji. Ovo upozorenje se NEĆE ponovo prikazati.</translation>
++<translation id="1162706247109707219">Klikom na OK, potvrđujete da vaša Kahf instalacija NEĆE dobiti kritične bezbednosne ispravke dok ne ažurirate na Windows 10 ili noviji. Ovo upozorenje se NEĆE ponovo prikazati.</translation>
++<translation id="9164786361657554526">Klikom na OK, potvrđujete da vaša Kahf instalacija NEĆE primati kritične bezbednosne ispravke dok ne ažurirate na macOS 10.15 ili noviji. Ovo upozorenje se NEĆE ponovo prikazati.</translation>
+ <translation id="2770465223704140727">Уклони са листе</translation>
+ <translation id="6020553119523541665">Ova kartica je aktivna u drugom prozoru</translation>
+ <translation id="4987392683074136770">Klik na ovu karticu će prebaciti njen sadržaj u ovaj prozor</translation>
+@@ -299,8 +299,8 @@ Ili kasnije promenite u <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="6453210454707928697">Nije uspelo reprodukovanje stavke</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] je možda istekao. Da li želite da ga obnovite?</translation>
+ <translation id="6155018868740116868">Obnoviti</translation>
+-<translation id="1727684853006449697">Brave Player</translation>
+-<translation id="9156965752763025780">Промене ће ступити на снагу када следећи пут поново покренете Brave.</translation>
++<translation id="1727684853006449697">Kahf Player</translation>
++<translation id="9156965752763025780">Промене ће ступити на снагу када следећи пут поново покренете Kahf.</translation>
+ <translation id="7179921470347911571">Ponovo pokreni sada</translation>
+ <translation id="1426410128494586442">Да</translation>
+ <translation id="4250680216510889253">Не</translation>
+@@ -339,7 +339,7 @@ Ili kasnije promenite u <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="8820817407110198400">Obeleživači</translation>
+ <translation id="4144468798716165316">Brze naredbe</translation>
+ <translation id="7310387888625228830">Leo, asistent veštačke inteligencije</translation>
+-<translation id="5222974844674487962">Prikaži dugme Brave News</translation>
++<translation id="5222974844674487962">Prikaži dugme Kahf News</translation>
+ <translation id="383007806262310953">Прикажи траку са обележивачима</translation>
+ <translation id="4054323497808446566">Traka sa obeleživačima je vidljiva na svim stranicama</translation>
+ <translation id="8693858092251192712">Traka sa obeleživačima je sakrivena na svim stranicama osim na stranici nove kartice</translation>
+@@ -440,7 +440,7 @@ Ili kasnije promenite u <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="4891600875049212418">Budite inkognito kada posećujete osetljive sajtove</translation>
+ <translation id="1968895725257436430">Prikupljanje podataka</translation>
+ <translation id="4846154056248462491">Na izlazu</translation>
+-<translation id="2808630562319398131">Ponovo postavi Brave Rewards podatke...</translation>
++<translation id="2808630562319398131">Ponovo postavi Kahf Rewards podatke...</translation>
+ <translation id="6438096877646138757">Stranice koje uklanjaju kolačiće (cookies) kada ih zatvorite</translation>
+ <translation id="2988792685798128092">Ukloniti prilikom zatvaranja sajta</translation>
+ <translation id="7702907602086592255">Домен</translation>
+@@ -674,9 +674,9 @@ Da li ste sigurni da želite ovo da uradite?</translation>
+ <translation id="1529674267267221673">Leo će se pojaviti u kontekstualnom meniju kada kliknete desnim tasterom miša na veb stranicu. Ovo će poslati kontekst sa trenutne veb stranice Leu.</translation>
+ <translation id="8172263161008556851">Prikaži predložene upite u konverzaciji</translation>
+ <translation id="1014480593522400586">Obriši podatke Lava</translation>
+-<translation id="6803758564561896401">Resetovanje asistenta Lea će zahtevati od vas da se odlučite za korišćenje Brave
++<translation id="6803758564561896401">Resetovanje asistenta Lea će zahtevati od vas da se odlučite za korišćenje Kahf
+ Leo u budućnosti i takođe će obrisati istoriju ćaskanja. Brisanjem
+-istorije ćaskanja izbrisaćete sve vaše prethodne razgovore sa Brave
++istorije ćaskanja izbrisaćete sve vaše prethodne razgovore sa Kahf
+ Leom. Ova radnja se ne može opozvati.</translation>
+ <translation id="5574059574002819179">Prilagoditi predloge automatskog završetka</translation>
+ <translation id="8157373421434119674">Podaci i istorija ćaskanja</translation>
+@@ -694,7 +694,7 @@ Leom. Ova radnja se ne može opozvati.</translation>
+ <translation id="7131172845656551327">Naziv modela onako kako bi trebalo da se pojavi u zahtevu za okvir za prikaz, npr. phi-3 (imajte u vidu da integracija neće raditi ako ovaj naziv ne odgovara tačno onome što se očekuje u okviru za prikaz)</translation>
+ <translation id="3286410514484292784">Url adresa na kojoj vaš okvri za prikaz sluša zahteve. Ako niste sigurni, proverite dokumentaciju okvira za prikaz. Npr. za Ollama, to je uvek http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Neki okviri za prikaz mogu zahtevati podatke za prijavu kao što su API ključ ili token za pristup. Oni će biti dodati u zaglavlje zahteva.</translation>
+-<translation id="217141195370578385">Brave ne prosleđuje ove zahteve, pročitajte uslove privatnosti izabranog provajdera.</translation>
++<translation id="217141195370578385">Kahf ne prosleđuje ove zahteve, pročitajte uslove privatnosti izabranog provajdera.</translation>
+ <translation id="2645532768679870478">Krajnje tačke koje nisu lokalne trebalo bi da koriste HTTPS protokol kako bi prenos podataka bio bezbedan.</translation>
+ <translation id="8177205483022887785">Uneli ste pogrešan URL. Unesite ispravan URL.</translation>
+ <translation id="5249539665306267943">Dodati novi model</translation>

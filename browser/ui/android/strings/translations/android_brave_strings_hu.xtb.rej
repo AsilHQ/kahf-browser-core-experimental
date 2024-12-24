@@ -1,0 +1,298 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_hu.xtb b/browser/ui/android/strings/translations/android_brave_strings_hu.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>További tudnivalók a Widevine-ról<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Engedélyezés (újraindítás most)</translation>
+ <translation id="2433507940547922241">Megjelenés</translation>
+-<translation id="9040069796107003510">Brave jutalom ikon</translation>
+-<translation id="6333347122924254968">A Brave-jutalmak ikonjának megjelenítése a címsorban</translation>
++<translation id="9040069796107003510">Kahf jutalom ikon</translation>
++<translation id="6333347122924254968">A Kahf-jutalmak ikonjának megjelenítése a címsorban</translation>
+ <translation id="8495235435594442882">Alsó eszközsáv engedélyezése</translation>
+-<translation id="6587448235155023666">A változtatásai a Brave következő indításakor lépnek érvénybe</translation>
++<translation id="6587448235155023666">A változtatásai a Kahf következő indításakor lépnek érvénybe</translation>
+ <translation id="8701563696941209024">INDÍTSA ÚJRA MOST</translation>
+ <translation id="834487290629916192">KÉSŐBB</translation>
+-<translation id="7207456302801184289">A Brave üdvözli Önt!</translation>
++<translation id="7207456302801184289">A Kahf üdvözli Önt!</translation>
+ <translation id="4117451092682672487">Adatvédelem. Egyszerűen.</translation>
+-<translation id="7909375417585209817">A Brave alapértelmezett böngészőként történő beállításával minden hivatkozás, amelyre rákoppint a Brave adatvédelmi beállításaival fog megnyílni.</translation>
++<translation id="7909375417585209817">A Kahf alapértelmezett böngészőként történő beállításával minden hivatkozás, amelyre rákoppint a Kahf adatvédelmi beállításaival fog megnyílni.</translation>
+ <translation id="7370959926683925817">Blokkolja a hirdetéseket, és csökkentse az adatforgalmat, minden egyes nap.</translation>
+-<translation id="7281027579943912834">Ha a Brave-et használja alapértelmezett böngészőként, a Brave hirdetésblokkoló védelme minden megnyitott hivatkozásra kiterjed – minden weblapra, videóra és adatfolyamra.</translation>
+-<translation id="5148943178722443958">Segítsen a Brave továbbfejlesztésében.</translation>
++<translation id="7281027579943912834">Ha a Kahf-et használja alapértelmezett böngészőként, a Kahf hirdetésblokkoló védelme minden megnyitott hivatkozásra kiterjed – minden weblapra, videóra és adatfolyamra.</translation>
++<translation id="5148943178722443958">Segítsen a Kahf továbbfejlesztésében.</translation>
+ <translation id="6718362830686703942">Küldjön diagnosztikai jelentéseket, amikor a rendszer összeomlik vagy lefagy.</translation>
+-<translation id="8616157231067364693">Osszon meg privát és anonim termékinformációkat arról, hogy milyen funkciókat használnak a Brave felhasználói.</translation>
++<translation id="8616157231067364693">Osszon meg privát és anonim termékinformációkat arról, hogy milyen funkciókat használnak a Kahf felhasználói.</translation>
+ <translation id="2877653791257935258">Adja meg a weboldal nevét vagy URL-jét</translation>
+-<translation id="5329830149661250028">A Brave-vel más: Nincsenek reklámok. Nincsenek nyomkövetők. Sokkal gyorsabban töltenek be az oldalak.</translation>
+-<translation id="3941792073703079607">A Brave-vel a különbség szembeötlő: blokkolja a hirdetéseket, csökkenti az adatforgalmat és felgyorsítja a streamelést.</translation>
+-<translation id="3545804467215833536">Koppintson a Brave pajzsok megtekintéséhez</translation>
+-<translation id="1724327820822194498">Nézze meg, oldalanként mi mindent blokkolt a Brave a pajzsok segítségével.</translation>
++<translation id="5329830149661250028">A Kahf-vel más: Nincsenek reklámok. Nincsenek nyomkövetők. Sokkal gyorsabban töltenek be az oldalak.</translation>
++<translation id="3941792073703079607">A Kahf-vel a különbség szembeötlő: blokkolja a hirdetéseket, csökkenti az adatforgalmat és felgyorsítja a streamelést.</translation>
++<translation id="3545804467215833536">Koppintson a Kahf pajzsok megtekintéséhez</translation>
++<translation id="1724327820822194498">Nézze meg, oldalanként mi mindent blokkolt a Kahf a pajzsok segítségével.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> és további <ph name="TRACKER"/> reklám és nyomkövető blokkolva</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> és más hirdetések illetve nyomkövetők blokkolva</translation>
+ <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> reklám és nyomkövető blokkolva</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Előkészítési hibaelhárítás</translation>
+ <translation id="5808759341041733958">Válasszon alapértelmezett keresőmotort</translation>
+ <translation id="1331593888918588693">Az alkalmazás beállításaiban később bármikor változtathatod a beállításokat.</translation>
+-<translation id="5806601733251372221">Brave védelem</translation>
++<translation id="5806601733251372221">Kahf védelem</translation>
+ <translation id="8537217141725709400">Szerezzen <ph name="TOKEN"/></translation>
+-<translation id="3333887201479867589">Brave jutalmak</translation>
++<translation id="3333887201479867589">Kahf jutalmak</translation>
+ <translation id="5870330605209713397">magánéletet tiszteletben tartó hirdetések megtekintésével, és alapértelmezettként támogassa kedvenc oldalait és alkotóit.</translation>
+-<translation id="5302488867897327287">A Brave Rewards használatára kattintva elfogadja a</translation>
++<translation id="5302488867897327287">A Kahf Rewards használatára kattintva elfogadja a</translation>
+ <translation id="4281844954008187215">Szolgáltatási feltételek</translation>
+ <translation id="6871397658902960384">Böngészés elkezdése</translation>
+ <translation id="454386012157232640">Nem láttam hirdetést</translation>
+-<translation id="1448877943847791441">A Brave ennyi idő múlva fogja mutatni az első hirdetésed:</translation>
+-<translation id="4410793187232041318">Mostantól tokeneket szerez a Brave Ads-től</translation>
+-<translation id="6511854390690723657">Ez az első Brave hirdetése. Koppintson, ha szeretne többet megtudni.</translation>
+-<translation id="2070991379950719711">Használja a Brave Rewardsot</translation>
++<translation id="1448877943847791441">A Kahf ennyi idő múlva fogja mutatni az első hirdetésed:</translation>
++<translation id="4410793187232041318">Mostantól tokeneket szerez a Kahf Ads-től</translation>
++<translation id="6511854390690723657">Ez az első Kahf hirdetése. Koppintson, ha szeretne többet megtudni.</translation>
++<translation id="2070991379950719711">Használja a Kahf Rewardsot</translation>
+ <translation id="48520986898237073">Tovább a pénztárcához</translation>
+ <translation id="3570367516044491911">Beállítás alapértelmezett böngészőként</translation>
+ <translation id="6800338374677644736">Beállítás alapértelmezett böngészőként</translation>
+-<translation id="19715420010996093">Válaszd ki a Brave böngészőt és kattints a 'Mindig'-re</translation>
+-<translation id="3546439402724649282">A Brave már be van állítva alapértelmezett böngészőként.</translation>
++<translation id="19715420010996093">Válaszd ki a Kahf böngészőt és kattints a 'Mindig'-re</translation>
++<translation id="3546439402724649282">A Kahf már be van állítva alapértelmezett böngészőként.</translation>
+ <translation id="8389661903259423907">Már beállított egy alapértelmezett böngészőt. Az alapértelmezett böngészőt az alkalmazás beállításaiban lehet változtatni.</translation>
+ <translation id="1545749641540134597">QR-kód beolvasása</translation>
+ <translation id="5317781812114905957">Utasítások</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">A kód lejárt. Generáljon egy újat az alábbi gombra kattintva.</translation>
+ <translation id="318164877797885563">Az ideiglenes kód a következő időtartamban érvényes: <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Kilépés a beállításokból</translation>
+-<translation id="8050847734948770789">Brave jutalmak engedélyezése</translation>
++<translation id="8050847734948770789">Kahf jutalmak engedélyezése</translation>
+ <translation id="9187185473011056079">Benne vagyok!</translation>
+-<translation id="8185825081026121627">Általános figyelmi zsetont szerezhet, ha adatvádelmi Brave Rewards hirdetéseket néz meg.</translation>
++<translation id="8185825081026121627">Általános figyelmi zsetont szerezhet, ha adatvádelmi Kahf Rewards hirdetéseket néz meg.</translation>
+ <translation id="5321518976657560663">Újraállítási hiba</translation>
+-<translation id="4114170343590425996">Hiba történt a Brave Rewards újraállításakor. Indítsa újra a Brave-et, majd próbálja újra.</translation>
+-<translation id="6417420737057016607">Brave hirdetések</translation>
+-<translation id="5611966874859284786">Mutasson értesítéseket, amikor a Brave nincs használatban</translation>
+-<translation id="6606319453795180219">Ezzel törli a Brave-jutalmait, és alaphelyzetbe állítja a Brave-jutalmakkal kapcsolatos összes adatát.</translation>
++<translation id="4114170343590425996">Hiba történt a Kahf Rewards újraállításakor. Indítsa újra a Kahf-et, majd próbálja újra.</translation>
++<translation id="6417420737057016607">Kahf hirdetések</translation>
++<translation id="5611966874859284786">Mutasson értesítéseket, amikor a Kahf nincs használatban</translation>
++<translation id="6606319453795180219">Ezzel törli a Kahf-jutalmait, és alaphelyzetbe állítja a Kahf-jutalmakkal kapcsolatos összes adatát.</translation>
+ <translation id="8293206222192510085">Könyvjelző hozzáadása</translation>
+ <translation id="340492034650766959">Könyvjelző törlése</translation>
+ <translation id="2149973817440762519">Könyvjelző szerkesztése</translation>
+@@ -464,35 +464,35 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="5582686930349810484">Ujjlenyomat-felismerés letiltva (standard)</translation>
+ <translation id="769702552748212954">Minden ujjlenyomat-beállítás engedélyezése</translation>
+ <translation id="876424292214881779">Blokkoltuk a hirdetéseket és más bizarr dolgokat</translation>
+-<translation id="6930134873084561197">A weboldalak gyakran olyan sütiket és parancsfájlokat tartalmaznak, amelyek azonosítani akarnak téged vagy a készülékedet. Megpróbálják kideríteni, hogy ki vagy, és követik webes tevékenységedet minden oldalon\n\nA Brave letiltja ezeket a dolgokat, így követés nélkül böngészhetsz.</translation>
+-<translation id="8553998445606452168">Bővebben a Brave Shieldsről</translation>
++<translation id="6930134873084561197">A weboldalak gyakran olyan sütiket és parancsfájlokat tartalmaznak, amelyek azonosítani akarnak téged vagy a készülékedet. Megpróbálják kideríteni, hogy ki vagy, és követik webes tevékenységedet minden oldalon\n\nA Kahf letiltja ezeket a dolgokat, így követés nélkül böngészhetsz.</translation>
++<translation id="8553998445606452168">Bővebben a Kahf Shieldsről</translation>
+ <translation id="8912304686498704084">FEL</translation>
+ <translation id="4963218453264888510">LE</translation>
+-<translation id="7474113515179313724">A Brave adatvédelmi rendszere nélkül böngészel. Nem működik megfelelően ha be van kapcsolva Shields?</translation>
++<translation id="7474113515179313724">A Kahf adatvédelmi rendszere nélkül böngészel. Nem működik megfelelően ha be van kapcsolva Shields?</translation>
+ <translation id="4226543734057230801">Ethereum-hálózatok</translation>
+ <translation id="3504157706952484145">Filecoin-hálózatok</translation>
+ <translation id="1561541094377237745">Solana-hálózatok</translation>
+ <translation id="7141438739990875547">Bitcoin-hálózatok</translation>
+ <translation id="9055546041146396417">Ha ez az oldal nem működik, próbáld meg a Shields nélkül.</translation>
+ <translation id="1209739344687072997">Nem működő oldal jelentése</translation>
+-<translation id="8510478288840333677">Hívja fel a Brave fejlesztőinek figyelmét arra, hogy ez az oldal nem működik megfelelően a Shieldsel:</translation>
+-<translation id="5429200298326665264">Megjegyzés: Ez a weboldalcím a Brave verziód számával és IP-címeddel együtt be lesz küldve (és nem kerül tárolásra).</translation>
++<translation id="8510478288840333677">Hívja fel a Kahf fejlesztőinek figyelmét arra, hogy ez az oldal nem működik megfelelően a Shieldsel:</translation>
++<translation id="5429200298326665264">Megjegyzés: Ez a weboldalcím a Kahf verziód számával és IP-címeddel együtt be lesz küldve (és nem kerül tárolásra).</translation>
+ <translation id="5299848999918506028">Köszönjük!</translation>
+-<translation id="76550953340008122">Köszönjük, hogy értesítette a Brave fejlesztőit arról, hogy valami hiba van az oldalon. Mindent megteszünk, hogy kijavítsuk!</translation>
++<translation id="76550953340008122">Köszönjük, hogy értesítette a Kahf fejlesztőit arról, hogy valami hiba van az oldalon. Mindent megteszünk, hogy kijavítsuk!</translation>
+ <translation id="650318023204990401">Speciális vezérlők</translation>
+ <translation id="5370478469168390143">Adatok mentése online</translation>
+-<translation id="1118508688433541158">Böngésszen gyorsabban, és blokkolja a hirdetéseket a Brave segítségével.</translation>
+-<translation id="7427391215172269363">Minden nap spórolok az adatforgalmon, amikor a Brave-vel böngészek az interneten.</translation>
+-<translation id="4776948189086901857">A Brave mindenhol működik</translation>
+-<translation id="1606322780901645965">Töltsd le a Brave-et laptopodra vagy táblagépedre a brave.com-on, hogy a web gyorsabb és privátabb legyen.</translation>
++<translation id="1118508688433541158">Böngésszen gyorsabban, és blokkolja a hirdetéseket a Kahf segítségével.</translation>
++<translation id="7427391215172269363">Minden nap spórolok az adatforgalmon, amikor a Kahf-vel böngészek az interneten.</translation>
++<translation id="4776948189086901857">A Kahf mindenhol működik</translation>
++<translation id="1606322780901645965">Töltsd le a Kahf-et laptopodra vagy táblagépedre a brave.com-on, hogy a web gyorsabb és privátabb legyen.</translation>
+ <translation id="8374242949413616101">Adatvédelem</translation>
+-<translation id="4955406228638026265">A Brave megakadályozza, hogy a hirdetések és követők a beleegyezésed nélkül információkat gyűjtsenek rólad.</translation>
++<translation id="4955406228638026265">A Kahf megakadályozza, hogy a hirdetések és követők a beleegyezésed nélkül információkat gyűjtsenek rólad.</translation>
+ <translation id="752842701893882688">Spórolj adatokat és akkumulátort</translation>
+ <translation id="1685837926613452362">Hirdetések és követők nélkül a webhelyek kevesebb adatot és akkumulátort használnak. Még pénzt is spórolhat a szolgáltatói díjakon.</translation>
+ <translation id="5440744330377972191">A weboldalak gyorsabban töltődnek</translation>
+-<translation id="3000738865641747653">Kevesebb adat betöltésével a weboldalak akár 8x gyorsabban töltődnek be Brave-ben, mint más böngészőkben.</translation>
++<translation id="3000738865641747653">Kevesebb adat betöltésével a weboldalak akár 8x gyorsabban töltődnek be Kahf-ben, mint más böngészőkben.</translation>
+ <translation id="8903462729414407077">Kapj heti híreket</translation>
+-<translation id="7450323860390658083">Tájékozódj róla, hogy a felkeresett weboldalak közül melyek tartják legkevésbé tiszteletben az adatvédelmet.\n\nEzeket az adatvédelmi statisztikákat csak te láthatod. Semmilyen személyes adat vagy böngészési előzmény nem kerül ki a Brave böngészőből készülékeden.</translation>
++<translation id="7450323860390658083">Tájékozódj róla, hogy a felkeresett weboldalak közül melyek tartják legkevésbé tiszteletben az adatvédelmet.\n\nEzeket az adatvédelmi statisztikákat csak te láthatod. Semmilyen személyes adat vagy böngészési előzmény nem kerül ki a Kahf böngészőből készülékeden.</translation>
+ <translation id="6170159749517116894">Kapcsold be az adatvédelmi jelentéseket</translation>
+ <translation id="1669047024429367828">Láthatóság</translation>
+ <translation id="5966707198760109579">Hét</translation>
+@@ -585,9 +585,9 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="1483493594462132177">Küldés</translation>
+ <translation id="538450413584738399">Swap</translation>
+ <translation id="4556086616242530072">Böngészőnatív.\nÖnálló letétkezelés.\nTöbbláncos.</translation>
+-<translation id="7909462264772842773">Kezelje kriptóit és NFT-it. A Brave pénztárca támogatja az Ethereumot, EVM láncok, Solana, Filecoin és még több használatát.</translation>
++<translation id="7909462264772842773">Kezelje kriptóit és NFT-it. A Kahf pénztárca támogatja az Ethereumot, EVM láncok, Solana, Filecoin és még több használatát.</translation>
+ <translation id="165255193061631296">Új pénztárcára van szüksége?</translation>
+-<translation id="3485737865439729577">Kezdje el a Brave pénztárca használatát perceken belül</translation>
++<translation id="3485737865439729577">Kezdje el a Kahf pénztárca használatát perceken belül</translation>
+ <translation id="2759836790106646094">Készíts biztonsági mentést pénztárcádról most!</translation>
+ <translation id="1078873179929044999">A következő lépésben egy 12 szavas helyreállítási kifejezést fog látni, amelyet arra használhat, hogy helyreállítsa az elsődleges kriptoszámláit. Mentse el biztonságos helyre. A helyreállítási kifejezés az egyetlen módja annak, hogy újra hozzáférjen a fiókjaihoz, amennyiben elfelejti a jelszavát, elveszti vagy ellopják a készülékét, vagy tárcát akar váltani.</translation>
+ <translation id="2359808026110333948">Folytatás</translation>
+@@ -595,7 +595,7 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="1904000155026201268">Megértettem, hogy ha elvesztem a helyreállítási kifejezést, akkor nem fogok tudni hozzáférni a kriptopénztárcámhoz.</translation>
+ <translation id="5333225216561354793">Szükségünk van rá, hogy elfogadja a lenti elemeket</translation>
+ <translation id="6937275455070754004">Válassza ki, hogy melyik blokkláncot szeretné használni a pénztárcájában.</translation>
+-<translation id="1645800479814134195">Tudomásul veszem, hogy ez egy önálló letétkezelésű pénztárca, és egyedül én vagyok felelős a kapcsolódó pénzösszegekért, eszközökért vagy számlákért, valamint a pénztárcám biztonsága, védelme és biztonsági mentése érdekében szükséges intézkedések megtételéért. Tudomásul veszem, hogy a Brave nem férhet hozzá a pénztárcámhoz, és nem fordíthatja vissza a tranzakciókat a nevemben, továbbá, hogy a helyreállítási kifejezésem az EGYETLEN módja annak, hogy visszaszerezzem a hozzáférést elvesztett jelszó, ellopott eszköz vagy hasonló körülmény esetén.</translation>
++<translation id="1645800479814134195">Tudomásul veszem, hogy ez egy önálló letétkezelésű pénztárca, és egyedül én vagyok felelős a kapcsolódó pénzösszegekért, eszközökért vagy számlákért, valamint a pénztárcám biztonsága, védelme és biztonsági mentése érdekében szükséges intézkedések megtételéért. Tudomásul veszem, hogy a Kahf nem férhet hozzá a pénztárcámhoz, és nem fordíthatja vissza a tranzakciókat a nevemben, továbbá, hogy a helyreállítási kifejezésem az EGYETLEN módja annak, hogy visszaszerezzem a hozzáférést elvesztett jelszó, ellopott eszköz vagy hasonló körülmény esetén.</translation>
+ <translation id="4565891212173086999">Elolvastam és elfogadom a <ph name="CLICK_START"/>Használati feltételeket<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Helyreállítási kifejezés</translation>
+ <translation id="5077747669435508720">Írja fel vagy másolja ki ezeket a szavakat a lent ábrázolt megfelelő sorrendben, és mentse el őket biztonságos helyre. A helyreállítási kifejezés az egyetlen módja annak, hogy újra hozzáférjen a számláihoz, amennyiben elfelejti a jelszavát, elveszti vagy ellopják a készülékét, vagy tárcát akar váltani.</translation>
+@@ -616,13 +616,13 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="8030647312184163932">Ujjlenyomatos feloldás</translation>
+ <translation id="4090490645603511157">A biometrika segítségével gyorsan feloldhatja pénztárcáját anélkül, hogy beírná a jelszót.</translation>
+ <translation id="1544192797660353713">Pénztárca</translation>
+-<translation id="6901810042765869341">Add meg a helyreállítási kifejezést Brave Wallet kriptopénztárcád visszaállításához.</translation>
++<translation id="6901810042765869341">Add meg a helyreállítási kifejezést Kahf Wallet kriptopénztárcád visszaállításához.</translation>
+ <translation id="9120654436199628567">Kriptoszámla visszaállítása</translation>
+ <translation id="4811736040444856406">Helyreállítási kifejezés megjelenítése</translation>
+ <translation id="283071225285270357">Add meg a helyreállítási kifejezést</translation>
+ <translation id="3943857333388298514">Beillesztés</translation>
+ <translation id="3331452756822160641">Új jelszó</translation>
+-<translation id="4359319875297001084">Importál régebbi Brave kriptotárcákból?</translation>
++<translation id="4359319875297001084">Importál régebbi Kahf kriptotárcákból?</translation>
+ <translation id="2339124864228588937">Igazold vissza a helyreállítási kifejezést</translation>
+ <translation id="3747079125031086337">Válassza ki a helyreállítási kifejezés szavait a megfelelő sorrendben.</translation>
+ <translation id="6518133107902771759">Ellenőrzés</translation>
+@@ -656,8 +656,8 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="5760476995887363522">A kifejezések nem egyeznek. Próbálja meg újra.</translation>
+ <translation id="2360588547830602174">A fiók helyreállítása sikertelen volt. Próbáld meg újra.</translation>
+ <translation id="1987317783729300807">Fiókok</translation>
+-<translation id="6284218950354553099">Napi használatról szóló jelzések automatikus küldése a Brave-be</translation>
+-<translation id="2181060149810222381">Ez a privát értesítés lehetővé teszi a Brave számára, hogy megbecsülje az aktív felhasználók számát.</translation>
++<translation id="6284218950354553099">Napi használatról szóló jelzések automatikus küldése a Kahf-be</translation>
++<translation id="2181060149810222381">Ez a privát értesítés lehetővé teszi a Kahf számára, hogy megbecsülje az aktív felhasználók számát.</translation>
+ <translation id="6725413948756358325">Fióknév</translation>
+ <translation id="6062431965141524986">Létrehozhat egy másodlagos számlát privát kulcsának importálásával.</translation>
+ <translation id="3952797765659730604">Adja meg, másolja be vagy importálja a privát kulcsfájlját vagy JSON-ját.</translation>
+@@ -679,14 +679,14 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="1721710839767183848">Nem jelennek meg hirdetések a weblapokon</translation>
+ <translation id="4647035642622555398">Nincsenek zavaró tényezők</translation>
+ <translation id="4122515759479497554">Videók keresése</translation>
+-<translation id="4449475351935531438">Brave tűzfal + VPN</translation>
++<translation id="4449475351935531438">Kahf tűzfal + VPN</translation>
+ <translation id="719977489961414786">Váltson VPN-re, hogy megvédje a kapcsolatát és bárhonnan blokkolhassa az invazív nyomkövetőket.</translation>
+ <translation id="8814357473522731680">Szolgáltató:</translation>
+ <translation id="5892534145504632332">Védje meg az összes alkalmazást és az egész eszközét</translation>
+ <translation id="7195416926059527505">Biztonságosabb otthoni vagy nyilvános Wi-Fi-hálózaton</translation>
+ <translation id="1354700000739359839">Villámgyors, akár 100 Mbps</translation>
+ <translation id="3510283489391432976">Válassza ki a földrajzi helyzetét/országát</translation>
+-<translation id="7695158478627528928">A Brave sosem naplózza a tevékenységeit</translation>
++<translation id="7695158478627528928">A Kahf sosem naplózza a tevékenységeit</translation>
+ <translation id="4575683170451975058">Védjen meg 5 eszközt 1 előfizetéssel</translation>
+ <translation id="4882693590083943563">Valamennyi csomag tartalmaz <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">7 napos ingyenes próbaidőszakot!</translation>
+@@ -697,14 +697,14 @@ Biztosan végrehajtja a műveletet?</translation>
+ <translation id="1163809943099641131">Egy év</translation>
+ <translation id="172859718096975160">Újítsa meg évente <ph name="DISCOUNT_TEXT_START"/> <ph name="PERCENTAGE_AMOUNT"/>%% megtakarítás<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / év.</translation>
+-<translation id="5125233570742276182">Az előfizetési díjak kiszabása a Google-fiókján keresztül történik. Az esetleges ingyenes próbaidőszak fel nem használt hányada elveszik az előfizetés megvásárlásakor.\n\nElőfizetése automatikusan megújul, hacsak nem mondja le legalább 24 órával az aktuális időszak vége előtt.\n\nElőfizetéseit a Beállításokban kezelheti.\nA Brave használatával Ön elfogadja a használati feltételeket és az adatvédelmi szabályzatot.</translation>
++<translation id="5125233570742276182">Az előfizetési díjak kiszabása a Google-fiókján keresztül történik. Az esetleges ingyenes próbaidőszak fel nem használt hányada elveszik az előfizetés megvásárlásakor.\n\nElőfizetése automatikusan megújul, hacsak nem mondja le legalább 24 órával az aktuális időszak vége előtt.\n\nElőfizetéseit a Beállításokban kezelheti.\nA Kahf használatával Ön elfogadja a használati feltételeket és az adatvédelmi szabályzatot.</translation>
+ <translation id="5035172357624830412">Már vásárolt a brave.com-on?</translation>
+ <translation id="713136183174551885">Frissítse hitelesítő adatait</translation>
+ <translation id="6053992191006521518">Próbálja ki INGYENESEN</translation>
+ <translation id="5903391101107992067">Próbálja ki 7 napig ingyen!</translation>
+ <translation id="721747358270435486">VPN telepítése</translation>
+ <translation id="836074276610740314">VPN profil telepítése</translation>
+-<translation id="8021842065465097929">A Brave most telepíti a VPN profilt.</translation>
++<translation id="8021842065465097929">A Kahf most telepíti a VPN profilt.</translation>
+ <translation id="229286271464650057">Ez a profil lehetővé teszi, hogy a VPN automatikusan csatlakoztassa és biztosítsa a forgalmat az eszköze és az alkalmazásai között. Ezt a VPN kapcsolatot a Guardian intelligens tűzfala titkosítja és továbbítja, amely blokkolja a reklámokat és a nyomkövetőket.</translation>
+ <translation id="9073255657908892407">Lépjen kapcsolatba az ügyfélszolgálattal</translation>
+ <translation id="1139934321138152517">A VPN engedélyezve van</translation>
+@@ -932,19 +932,19 @@ Ha nem fogadja el ezt a kérelmet, a VPN nem kapcsolódik újra, és az internet
+ <translation id="7002577172732106572">Osztott alagút mód (Split Tunneling)</translation>
+ <translation id="8181161042860463420">A kapcsolódó tokenszámla még nem létezik. Ennek létrehozására és fenntartására egy kisebb SOL-összeg lesz felhasználva. <ph name="CLICK_START"/>További információ:<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">VPN-profil frissítése...</translation>
+-<translation id="7457027586454688423">Adja meg Brave-pénztárcája jelszavát</translation>
+-<translation id="4784306439879850873">Ne feledje, hogy a Brave nem tudja megerősíteni, mi történik, ha aláír. Aláírással szinte bármelyik számláján lévő műveletre feljogosítja a kérvényező oldalt, vagy arra, hogy az Ön nevében járjon el, beleértve (de nem kizárólag) a számlája és kriptoeszközei feletti teljes rendelkezést. Csak akkor írjon alá, ha biztosan ezt szeretné, és megbízik a kérvényező oldalban.</translation>
++<translation id="7457027586454688423">Adja meg Kahf-pénztárcája jelszavát</translation>
++<translation id="4784306439879850873">Ne feledje, hogy a Kahf nem tudja megerősíteni, mi történik, ha aláír. Aláírással szinte bármelyik számláján lévő műveletre feljogosítja a kérvényező oldalt, vagy arra, hogy az Ön nevében járjon el, beleértve (de nem kizárólag) a számlája és kriptoeszközei feletti teljes rendelkezést. Csak akkor írjon alá, ha biztosan ezt szeretné, és megbízik a kérvényező oldalban.</translation>
+ <translation id="3474375934783434676">Csak a saját felelősségére írjon alá</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/>/<ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Tranzakció jóváhagyása</translation>
+ <translation id="6450792191436242818">System Program (Rendszerprogram)</translation>
+-<translation id="5318067544026930166">A Brave Pénztárca feloldása biometrikus hitelesítéssel</translation>
+-<translation id="2629767022373384291">Szeretne biometrikus hitelesítést használni a Brave pénztárcája feloldásához?</translation>
++<translation id="5318067544026930166">A Kahf Pénztárca feloldása biometrikus hitelesítéssel</translation>
++<translation id="2629767022373384291">Szeretne biometrikus hitelesítést használni a Kahf pénztárcája feloldásához?</translation>
+ <translation id="4782919977106118997">Feloldás ujjlenyomattal</translation>
+ <translation id="2054995875643283428">Most kihagyom</translation>
+ <translation id="2522605225061484799">Ugrás a saját portfólióra</translation>
+ <translation id="1148624853678088576">Minden készen áll!</translation>
+-<translation id="4131445988101719379">Brave-pénztárcája készen áll a használatra</translation>
++<translation id="4131445988101719379">Kahf-pénztárcája készen áll a használatra</translation>
+ <translation id="6252742184395380448">Config Program (Konfig. program)</translation>
+ <translation id="5358970666412490132">Stake Program (Kockázati program)</translation>
+ <translation id="346636227344244984">Vote Program (Szavazási program)</translation>
+@@ -1016,22 +1016,22 @@ Ha nem fogadja el ezt a kérelmet, a VPN nem kapcsolódik újra, és az internet
+ <translation id="1313065465616456728">Kiállítva:</translation>
+ <translation id="7902225556763260253">Lejárat ideje</translation>
+ <translation id="1908159733454294871">Biztonsági kockázat észlelve</translation>
+-<translation id="5658257029899993935">Kapcsolja a vásárlást a Brave-fiókjához</translation>
+-<translation id="1187061015547219282">Kapcsolja a Play Store vásárlását a Brave-fiókjához, hogy más eszközökön is használni tudja a Brave VPN-t.</translation>
++<translation id="5658257029899993935">Kapcsolja a vásárlást a Kahf-fiókjához</translation>
++<translation id="1187061015547219282">Kapcsolja a Play Store vásárlását a Kahf-fiókjához, hogy más eszközökön is használni tudja a Kahf VPN-t.</translation>
+ <translation id="6662142137695589205">Kapcsolja össze a VPN-előfizetését</translation>
+-<translation id="2674077112509133024">Bővítse ki a Brave tűzfal + VPN-védelmét</translation>
+-<translation id="6365389672683343144">A Brave VPN-előfizetésével legfeljebb 5 eszközt tud biztonságban, legyen szó Androidos, iOS vagy asztali alkalmazásról. Csak kapcsolja a Google Play-előfizetését a Brave-fiókjához.</translation>
++<translation id="2674077112509133024">Bővítse ki a Kahf tűzfal + VPN-védelmét</translation>
++<translation id="6365389672683343144">A Kahf VPN-előfizetésével legfeljebb 5 eszközt tud biztonságban, legyen szó Androidos, iOS vagy asztali alkalmazásról. Csak kapcsolja a Google Play-előfizetését a Kahf-fiókjához.</translation>
+ <translation id="6610899852831463073">Nem engedélyezhető a biztonságos böngészés</translation>
+ <translation id="7954263306665462056">A biztonságos böngészés le van tiltva az Ön eszközén. Az engedélyezéshez győződjön meg arról, hogy a Google Play-szolgáltatások telepítve vannak és naprakészek-e!</translation>
+ <translation id="6605147707233193230">A bekapcsolással segíthet támogatni a tartalomkészítőket</translation>
+ <translation id="1609556006143307897">Ön segít támogatni a tartalomkészítőket</translation>
+-<translation id="6067959437127691361">A Brave-jutalmak használata segít Önnek támogatni a tartalomkészítőket, és lehetővé teszi, hogy BAT-t kereshessen.</translation>
++<translation id="6067959437127691361">A Kahf-jutalmak használata segít Önnek támogatni a tartalomkészítőket, és lehetővé teszi, hogy BAT-t kereshessen.</translation>
+ <translation id="3264975266761862670">Készen áll pénzt keresni?</translation>
+ <translation id="265337947574975838">Csatlakoztasson vagy hozzon létre egy partnerünk által kezelt fiókot.</translation>
+ <translation id="654447476965480878">További tudnivalók a BAT-szerzésről</translation>
+ <translation id="6278643716658443228">Rewards beállítások</translation>
+ <translation id="6516984207843289176">Fiók csatlakoztatása</translation>
+-<translation id="4272136334824111854">Ebben a hónapban <ph name="CREATOR_COUNT"/> olyan alkotót látogatott meg, akit támogat a Brave Rewards</translation>
++<translation id="4272136334824111854">Ebben a hónapban <ph name="CREATOR_COUNT"/> olyan alkotót látogatott meg, akit támogat a Kahf Rewards</translation>
+ <translation id="6845311459433734326">Csatlakoztasson egy letétkezelő fiókot, hogy BAT-t kereshessen, és lehívhassa jutalmait</translation>
+ <translation id="928980476243133540">Később csinálom meg</translation>
+ <translation id="579702532610384533">Újracsatlakozás</translation>
+@@ -1064,8 +1064,8 @@ Ha nem fogadja el ezt a kérelmet, a VPN nem kapcsolódik újra, és az internet
+ <translation id="346505172740911461">Piaci ár</translation>
+ <translation id="5494920125229734069">Összes kiválasztása</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Bejelentkezés a Brave pénztárcával</translation>
+-<translation id="3696514931437952995">A következőbe jelentkezik be: <ph name="ORIGIN"/>. A Brave pénztárca meg fogja osztani a pénztárcája címét a következővel: <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Bejelentkezés a Kahf pénztárcával</translation>
++<translation id="3696514931437952995">A következőbe jelentkezik be: <ph name="ORIGIN"/>. A Kahf pénztárca meg fogja osztani a pénztárcája címét a következővel: <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Részletek megtekintése</translation>
+ <translation id="6759710362319508545">Erőforrások</translation>
+ <translation id="2471230424465522689">Nem korábban, mint:</translation>
+@@ -1074,7 +1074,7 @@ Ha nem fogadja el ezt a kérelmet, a VPN nem kapcsolódik újra, és az internet
+ <translation id="4109670531935487117">Mutassa az automatikus kiegészítési javaslatokat a címsorban</translation>
+ <translation id="1250335737108905610">Leo visszaállítása és Leo-adatok törlése</translation>
+ <translation id="6165101586663336913">A Leo asszisztens-visszaállításához a jövőre nézve engedélyeznie kell a Leo használatát, és ez a művelet törli a csevegési előzményeket is. A csevegési előzmények törlésével törli a Leóval folytatott összes korábbi beszélgetését. Ezt a művelet nem vonható vissza.</translation>
+-<translation id="3692772534525889713">Kapcsolja össze a Play Áruházban lebonyolított vásárlásait a Brave-fiókjával, ha használni szeretné a Brave Leót más eszközökön is.</translation>
++<translation id="3692772534525889713">Kapcsolja össze a Play Áruházban lebonyolított vásárlásait a Kahf-fiókjával, ha használni szeretné a Kahf Leót más eszközökön is.</translation>
+ <translation id="73236265316873967">Leo Prémium</translation>
+ <translation id="1166682575529520472">Havonta</translation>
+ <translation id="451189393813405346">A Leo megkérdezése</translation>

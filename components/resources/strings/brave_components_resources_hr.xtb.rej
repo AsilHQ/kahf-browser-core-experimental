@@ -1,0 +1,333 @@
+diff a/components/resources/strings/brave_components_resources_hr.xtb b/components/resources/strings/brave_components_resources_hr.xtb	(rejected hunks)
+@@ -168,36 +168,36 @@
+ <translation id="5334844597069022743">Prikaži izvor</translation>
+ <translation id="4720556299488643018">Otkaži pretplatu</translation>
+ <translation id="1209739344687072997">Prijavi nevaljano mjesto</translation>
+-<translation id="8510478288840333677">Javite razvojnim inženjerima preglednika Brave da ovo mjesto ne radi ispravno prilikom korištenja značajke Štitovi:</translation>
++<translation id="8510478288840333677">Javite razvojnim inženjerima preglednika Kahf da ovo mjesto ne radi ispravno prilikom korištenja značajke Štitovi:</translation>
+ <translation id="3110968385867124099">Tu stranicu nije moguće prijaviti jer nije pružena putem protokola HTTP/HTTPS.</translation>
+ <translation id="7907023135990310743">Ta je stranica lokalna mrežna stranica i nije prihvatljiva za prijavljivanje.</translation>
+ <translation id="3645455863322075098">Ta je stranica stranica s pogreškom i nije prihvatljiva za prijavljivanje.</translation>
+-<translation id="105644511106871142">Hvala vam što pomažete u stvaranju preglednika Brave koji je bolji za sve. Ovim se izvješćem šalju samo informacije koje su nam potrebne da bismo popravili mrežno mjesto.</translation>
++<translation id="105644511106871142">Hvala vam što pomažete u stvaranju preglednika Kahf koji je bolji za sve. Ovim se izvješćem šalju samo informacije koje su nam potrebne da bismo popravili mrežno mjesto.</translation>
+ <translation id="6476216365964140603">Dodatne pojedinosti (mogućnosti)</translation>
+ <translation id="6145852496180774737">Kontakt: (dodatno)</translation>
+ <translation id="7616645803364270729">E-pošta, Twitter itd.</translation>
+ <translation id="721949491455392748">Uvrstite snimku zaslona trenutne mrežne stranice</translation>
+ <translation id="8459191579769999214">Prikažite snimku zaslona</translation>
+ <translation id="5299848999918506028">Hvala vam!</translation>
+-<translation id="76550953340008122">Hvala vam što se javili razvojnim inženjerima preglednika Brave da nešto nije u redu s ovim mjestom. Činimo sve da uklonimo navedeni problem!</translation>
+-<translation id="4046860372562593546">Upravljaj značajkom Oglasi Brave</translation>
+-<translation id="5136973036012418831">Upravljajte vrstom i učestalosti Oglasa Brave.</translation>
++<translation id="76550953340008122">Hvala vam što se javili razvojnim inženjerima preglednika Kahf da nešto nije u redu s ovim mjestom. Činimo sve da uklonimo navedeni problem!</translation>
++<translation id="4046860372562593546">Upravljaj značajkom Oglasi Kahf</translation>
++<translation id="5136973036012418831">Upravljajte vrstom i učestalosti Oglasa Kahf.</translation>
+ <translation id="4759608598194750161">Što više vidite, to više možete zaraditi.</translation>
+ <translation id="7526443283522395161">Oglasi na stranici nove kartice:</translation>
+ <translation id="7968650944098083708">Oglasi obavijesti</translation>
+ <translation id="8289546216379862569">Pretraži oglase</translation>
+-<translation id="4758111936363146244">Oglasi pretraživanja Brave pojavljuju se u<ph name="BEGIN_LINK"/>pretraživanju Brave<ph name="END_LINK"/>.</translation>
+-<translation id="7596536223419118193">Još uvijek ne možete zarađivati BAT iz oglasa pretraživanja Brave, ali držeći ih uključene pomažete podržati Brave.</translation>
+-<translation id="6390952132783970876">Oglasi značajke Vijesti Brave</translation>
+-<translation id="7516281787184495886">Značajka Vijesti Brave ima oglase koji se ne mogu zasebno onemogućiti.</translation>
+-<translation id="8008378848677625233">Značajka Vijesti Brave trenutačno je onemogućena.</translation>
++<translation id="4758111936363146244">Oglasi pretraživanja Kahf pojavljuju se u<ph name="BEGIN_LINK"/>pretraživanju Kahf<ph name="END_LINK"/>.</translation>
++<translation id="7596536223419118193">Još uvijek ne možete zarađivati BAT iz oglasa pretraživanja Kahf, ali držeći ih uključene pomažete podržati Kahf.</translation>
++<translation id="6390952132783970876">Oglasi značajke Vijesti Kahf</translation>
++<translation id="7516281787184495886">Značajka Vijesti Kahf ima oglase koji se ne mogu zasebno onemogućiti.</translation>
++<translation id="8008378848677625233">Značajka Vijesti Kahf trenutačno je onemogućena.</translation>
+ <translation id="6112368337882254910">Automatski doprinosi</translation>
+ <translation id="557705068184766514">Automatski način za pružanje podrške mrežnim mjestima i stvarateljima sadržaja. Postavite mjesečni doprinos i nastavite uobičajeno pregledavati internet. <ph name="BEGIN_LINK"/>Provjerena mrežna mjesta i stvaratelji sadržaja <ph name="END_LINK"/> koje posjećujete primat će vaše doprinose svaki mjesec na temelju vremena koje provedete na njihovom sadržaju.</translation>
+ <translation id="6688567880783357035">Dosadašnja zarada u ovom mjesecu</translation>
+ <translation id="949044897316791211">Sljedeći datum isplate zarade</translation>
+ <translation id="2211646556917925490">Ukupan broj primljenih oglasa ovog mjeseca</translation>
+ <translation id="4229016885653790965">Ispričavamo se! Oglasi nisu još uvijek dostupni u vašoj regiji.</translation>
+-<translation id="2539279826042558064">Nagrade Brave i oglasi trenutačno nisu dostupni na vašem uređaju.</translation>
++<translation id="2539279826042558064">Nagrade Kahf i oglasi trenutačno nisu dostupni na vašem uređaju.</translation>
+ <translation id="5736977383725358876">Učestalost obavijesti o oglasima</translation>
+ <translation id="7701040980221191251">Nema</translation>
+ <translation id="480668534656787076">Maks. 1 po satu</translation>
+@@ -241,30 +241,30 @@
+ <translation id="3082557070674409251">Kliknuto</translation>
+ <translation id="7119308337584989771">Odbačeno</translation>
+ <translation id="6805660603861526473">Pregledano</translation>
+-<translation id="8826352442759228526">Nije moguće potvrditi vaše Nagrade Brave jer ste dosegnuli najveće ograničenje potvrđenih uređaja.</translation>
++<translation id="8826352442759228526">Nije moguće potvrditi vaše Nagrade Kahf jer ste dosegnuli najveće ograničenje potvrđenih uređaja.</translation>
+ <translation id="1221593978088944142">Pogreška: Dosegnuto ograničenje uređaja</translation>
+-<translation id="6895088073061692390">Nažalost, vaš je profil za značajku Nagrade Brave prijavljen jer je tijekom naših automatiziranih provjera pronađena neočekivana aktivnost za značajku Oglasi Brave.</translation>
+-<translation id="4229056297802204697">Dok je vaš profil prijavljen, i dalje možete vidjeti oglase, ali ne ispunjavate uvjete za primanje isplata. Jednako tako, ne možete povezati skrbnički račun sa značajkom Nagrade Brave.</translation>
++<translation id="6895088073061692390">Nažalost, vaš je profil za značajku Nagrade Kahf prijavljen jer je tijekom naših automatiziranih provjera pronađena neočekivana aktivnost za značajku Oglasi Kahf.</translation>
++<translation id="4229056297802204697">Dok je vaš profil prijavljen, i dalje možete vidjeti oglase, ali ne ispunjavate uvjete za primanje isplata. Jednako tako, ne možete povezati skrbnički račun sa značajkom Nagrade Kahf.</translation>
+ <translation id="5124846913141379164">Postoji mogućnost da je vaš profil pogrešno prijavljen i da ne morate poduzeti nikakvu radnju. Prijava profila može se ukloniti u budućnosti.</translation>
+-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Doznajte više o postupku preglednika Brave za označivanje profila Nagrade.<ph name="END_LINK"/></translation>
+-<translation id="5028274575541726856">Pogreška: profil Nagrade Brave označen</translation>
++<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Doznajte više o postupku preglednika Kahf za označivanje profila Nagrade.<ph name="END_LINK"/></translation>
++<translation id="5028274575541726856">Pogreška: profil Nagrade Kahf označen</translation>
+ <translation id="2607420597216860026">Pokušajte ponovno nakon što obavite potvrđivanje identifikacijske oznake putem usluge<ph name="PROVIDER"/>.</translation>
+ <translation id="3183954159462541696">Pogreška: za prijavu treba potvrđen račun</translation>
+-<translation id="1859789048900659918">Hmm, čini se da se vaša zemlja za značajku Nagrade Brave ne podudara sa zemljom računa usluge <ph name="PROVIDER"/> s kojim se pokušavate povezati.</translation>
++<translation id="1859789048900659918">Hmm, čini se da se vaša zemlja za značajku Nagrade Kahf ne podudara sa zemljom računa usluge <ph name="PROVIDER"/> s kojim se pokušavate povezati.</translation>
+ <translation id="8925428135452218262">Pogreška: nepodudarnost zemlje</translation>
+-<translation id="5260522591743022748">Hmm, čini se da su vaše Nagrade Brave već potvrđene za drugi račun <ph name="PROVIDER"/>. Pokušajte ponovno potvrditi upotrebom prethodnog računa.</translation>
++<translation id="5260522591743022748">Hmm, čini se da su vaše Nagrade Kahf već potvrđene za drugi račun <ph name="PROVIDER"/>. Pokušajte ponovno potvrditi upotrebom prethodnog računa.</translation>
+ <translation id="5111921830714291902">Pogreška: drugi račun</translation>
+-<translation id="5225019866741699134">Izgleda da povezivanje <ph name="PROVIDER"/> na Nagrade Brave privremeno nije dostupno. Pokušajte ponovno kasnije.</translation>
++<translation id="5225019866741699134">Izgleda da povezivanje <ph name="PROVIDER"/> na Nagrade Kahf privremeno nije dostupno. Pokušajte ponovno kasnije.</translation>
+ <translation id="6105073131081187815">Ovdje <ph name="END_LINK"/> možete vidjeti status usluge <ph name="BEGIN_LINK"/>.</translation>
+ <translation id="2400786541309111904">Greška: povezivanje na odabrani skrbnički račun privremeno nije dostupno</translation>
+-<translation id="1024520300696337331">Vaš račun <ph name="PROVIDER"/> sada ne može biti povezan s vašim profilom Nagrade Brave. Vaš je račun <ph name="PROVIDER"/> registriran u zemlji u kojoj povezivanje s uslugom Nagrade Brave trenutačno nije podržano.</translation>
+-<translation id="619384413404021992">Pogledajte listu trenutačno podržanih regija <ph name="LINK_BEGIN"/> i saznajte više  <ph name="END_LINK"/> o povezivanju skrbničkih računa s uslugom Nagrade Brave.</translation>
++<translation id="1024520300696337331">Vaš račun <ph name="PROVIDER"/> sada ne može biti povezan s vašim profilom Nagrade Kahf. Vaš je račun <ph name="PROVIDER"/> registriran u zemlji u kojoj povezivanje s uslugom Nagrade Kahf trenutačno nije podržano.</translation>
++<translation id="619384413404021992">Pogledajte listu trenutačno podržanih regija <ph name="LINK_BEGIN"/> i saznajte više  <ph name="END_LINK"/> o povezivanju skrbničkih računa s uslugom Nagrade Kahf.</translation>
+ <translation id="7193389978208728181">Regija trenutačno nije podržana</translation>
+ <translation id="5382684862562314222">Još se ne podržava BAT u vašoj regiji putem usluge Uphold.</translation>
+ <translation id="9074594632540931067">Greška: BAT nije dostupan</translation>
+ <translation id="5376524136040178759">Prema banci Uphold trenutačno postoje određena ograničenja na vašem računu Uphold. Prijavite se u svoj račun Uphold i provjerite ima li bilo kojih obavijesti ili preostalih zahtjeva za račun koje je potrebno ispuniti, a zatim pokušajte ponovno. Na primjer, možda ćete morati poslati više informacija banci Uphold.</translation>
+ <translation id="6996157559236886133">Pogreška: Ograničena funkcionalnost računa za uslugu Uphold</translation>
+-<translation id="3274650021044762770">Nastao je problem pri potvrđivanju zahtjeva preglednika za povezivanje Nagrada Brave s računom <ph name="PROVIDER"/>. Možete se <ph name="BEGIN_LINK"/> obratiti službi za korisničku podršku <ph name="END_LINK"/> za pomoć.</translation>
++<translation id="3274650021044762770">Nastao je problem pri potvrđivanju zahtjeva preglednika za povezivanje Nagrada Kahf s računom <ph name="PROVIDER"/>. Možete se <ph name="BEGIN_LINK"/> obratiti službi za korisničku podršku <ph name="END_LINK"/> za pomoć.</translation>
+ <translation id="1316066811927496401">Pogreška: Nije moguće potvrditi zahtjev</translation>
+ <translation id="7352651011704765696">Nešto je pošlo po zlu</translation>
+ <translation id="8285276813470932793">Nismo uspjeli ispuniti vaš zahtjev. Pokušajte ponovno i <ph name="LINK_BEGIN"/>obratite se službi za podršku<ph name="LINK_END"/> ako se problem i dalje pojavljuje.</translation>
+@@ -284,7 +284,7 @@
+ <translation id="756341217015623253">Prijavite se</translation>
+ <translation id="2653844658857826081">NOVO</translation>
+ <translation id="1892970806832316900">Na čekanju do <ph name="DATE"/></translation>
+-<translation id="7849926087559412554">Ups! Vaš preglednik ne može primati privatne oglase Brave.</translation>
++<translation id="7849926087559412554">Ups! Vaš preglednik ne može primati privatne oglase Kahf.</translation>
+ <translation id="5177429570315095022">Potrebno je ažurirati vaš preglednik kako biste nastavili viđati oglase.</translation>
+ <translation id="4593680147181354667">Dijagnostička identifikacijska oznaka</translation>
+ <translation id="3995471429906554168">Dijagnostičke informacije</translation>
+@@ -576,20 +576,20 @@
+ <translation id="2429828319207652823">Pojavio se problem s obradom vašeg doprinosa.</translation>
+ <translation id="6390041270339783491">Neuspješan mjesečni doprinos</translation>
+ <translation id="7047578174221019462">Obrađeni su vaši mjesečni doprinosi.</translation>
+-<translation id="2529827670795983639">Čini se da ne funkcionira. Usluga Oglasi Brave ostaje pauzirana. Obratite nam se za pomoć s testom captcha.</translation>
++<translation id="2529827670795983639">Čini se da ne funkcionira. Usluga Oglasi Kahf ostaje pauzirana. Obratite nam se za pomoć s testom captcha.</translation>
+ <translation id="261607053214862521">Premašen maks. broj pokušaja</translation>
+ <translation id="2323171459178104277">Riješeno!</translation>
+-<translation id="1512837998731269583">Nastavljaju se oglasi i zarade. Hvala vam što nam pomažete u zaštiti usluge Nagrade Brave i oglasa temeljenih na privatnosti.</translation>
++<translation id="1512837998731269583">Nastavljaju se oglasi i zarade. Hvala vam što nam pomažete u zaštiti usluge Nagrade Kahf i oglasa temeljenih na privatnosti.</translation>
+ <translation id="3247549836099021862">Obrati se podršci</translation>
+ <translation id="5234764350956374838">Odbaci</translation>
+ <translation id="7859066142771796818">Tokene upotrebljavajte za kupnju poklon-kartica, zamjenu za druge valute, podržavanje stvaratelja sadržaja i više.</translation>
+-<translation id="5425006356459378415">Značajka Nagrade Brave nije dostupna</translation>
+-<translation id="909076461795862330">Nažalost, nastala je pogreška pri pokušaju postavljanja značajke Nagrade Brave. Pokušajte ponovno.</translation>
++<translation id="5425006356459378415">Značajka Nagrade Kahf nije dostupna</translation>
++<translation id="909076461795862330">Nažalost, nastala je pogreška pri pokušaju postavljanja značajke Nagrade Kahf. Pokušajte ponovno.</translation>
+ <translation id="3180990265682133881">Nažalost, nastala je pogreška pri pokušaju postavljanja vaše zemlje. Pokušajte ponovno.</translation>
+-<translation id="5931798071481566121">Nove su registracije za značajku Nagrade Brave trenutačno onemogućene u vašoj regiji. Međutim, uvijek možete pokušati ponovno poslije. <ph name="LINK_BEGIN"/>Doznajte više<ph name="LINK_END"/></translation>
++<translation id="5931798071481566121">Nove su registracije za značajku Nagrade Kahf trenutačno onemogućene u vašoj regiji. Međutim, uvijek možete pokušati ponovno poslije. <ph name="LINK_BEGIN"/>Doznajte više<ph name="LINK_END"/></translation>
+ <translation id="6439128034594289376">Odlično! Spremni ste!</translation>
+ <translation id="6136350726756049410">Sada možete biti nagrađeni za pregledavanje oglasa. Doprinosite stvaranju boljeg okruženja na mreži za sve. To je odlično!</translation>
+-<translation id="5547108999862247665">Kako funkcioniraju Nagrade Brave?</translation>
++<translation id="5547108999862247665">Kako funkcioniraju Nagrade Kahf?</translation>
+ <translation id="3970520675790340955">Odaberite svoju zemlju da bismo vam mogli prikazati točne mogućnosti i oglase za vašu regiju.</translation>
+ <translation id="6945221475159498467">Odaberi</translation>
+ <translation id="3279158300746391749">Pritisnite ikonu BAT-a, <ph name="BAT_ICON"/>, na traci URL-a da biste započeli.</translation>
+@@ -903,9 +903,9 @@
+ <translation id="7261362517244085362">Odobrite svoj novčanik</translation>
+ <translation id="7150150391368236519">Poveži hardverski novčanik</translation>
+ <translation id="5400782314657008092">Trenutačno podržavamo uređaje <ph name="HARDWARE_DEVICE"/> i <ph name="HARDWARE_DEVICE1"/>.</translation>
+-<translation id="8144305264680648043">Povežite svoj hardverski novčanik za izravno upravljanje svojom imovinom iz novčanika Brave</translation>
++<translation id="8144305264680648043">Povežite svoj hardverski novčanik za izravno upravljanje svojom imovinom iz novčanika Kahf</translation>
+ <translation id="1329837291200753515">Odaberite podatkovni blok za uvoz svog hardverskog novčanika</translation>
+-<translation id="6983390509997396124">Povežite svoj uređaj <ph name="HARDWARE_DEVICE"/> s novčanikom Brave</translation>
++<translation id="6983390509997396124">Povežite svoj uređaj <ph name="HARDWARE_DEVICE"/> s novčanikom Kahf</translation>
+ <translation id="5149944858285555235">Nepoznata pogreška. Ponovno spojite svoj hardverski novčanik i pokušajte ponovno.</translation>
+ <translation id="4522570452068850558">Pojedinosti</translation>
+ <translation id="9220525904950070496">Uklanjanje računa</translation>
+@@ -1581,7 +1581,7 @@
+ <translation id="1215089823252478557">Pogledajte procijenjenu promjenu stanja</translation>
+ <translation id="2761574758015819991">Identificirajte potencijalno zlonamjerne transakcije</translation>
+ <translation id="168533464844528463">Pomozite u otkrivanju pokušaja krađe identiteta</translation>
+-<translation id="7269757150305059881">Brave radi s partnerom na pružanju ove usluge. Omogućivanjem pristajete na dijeljenje nepotpisanih transakcija i njihovih DApp URL-ova s našim partnerom.</translation>
++<translation id="7269757150305059881">Kahf radi s partnerom na pružanju ove usluge. Omogućivanjem pristajete na dijeljenje nepotpisanih transakcija i njihovih DApp URL-ova s našim partnerom.</translation>
+ <translation id="7790932700072432983">Promijenite bilo kada u <ph name="TAG_BEFORE"/>Postavkama<ph name="TAG_AFTER"/>.</translation>
+ <translation id="8688672835843460752">Dostupno</translation>
+ <translation id="5296640085393149413">Dostupna sredstva za uporabu.</translation>
+@@ -1805,23 +1805,23 @@
+ <translation id="6938154350999993769">Otklanjanje grešaka: uključi/isključi u načinu rada tableta</translation>
+ <translation id="5854741377790551127">Ispravi pogrešku u tiskanju prikaza predmeta</translation>
+ <translation id="8199130368328220410">Uključi/isključi naslove uživo</translation>
+-<translation id="9055778350624039365">Prikaži ploču novčanika Brave</translation>
+-<translation id="2548853975094084059">Zatvori ploču novčanika Brave</translation>
+-<translation id="3765209580429944524">Prikaži ploču usluge Brave VPN</translation>
+-<translation id="5989009326527614692">Isključi tipku alatne trake usluge Brave VPN</translation>
+-<translation id="7334332308395652803">Prebaci ikonu mreže VPN Brave na traci sustava</translation>
+-<translation id="4326011033480357140">Pošalji povratne informacije o usluzi Brave VPN</translation>
+-<translation id="2345974803401546682">O VPN-u preglednika Brave</translation>
+-<translation id="8934783170241943640">Upravljaj planom usluge Brave VPN</translation>
+-<translation id="6332027154313182926">Uključi/isključi uslugu Brave VPN</translation>
++<translation id="9055778350624039365">Prikaži ploču novčanika Kahf</translation>
++<translation id="2548853975094084059">Zatvori ploču novčanika Kahf</translation>
++<translation id="3765209580429944524">Prikaži ploču usluge Kahf VPN</translation>
++<translation id="5989009326527614692">Isključi tipku alatne trake usluge Kahf VPN</translation>
++<translation id="7334332308395652803">Prebaci ikonu mreže VPN Kahf na traci sustava</translation>
++<translation id="4326011033480357140">Pošalji povratne informacije o usluzi Kahf VPN</translation>
++<translation id="2345974803401546682">O VPN-u preglednika Kahf</translation>
++<translation id="8934783170241943640">Upravljaj planom usluge Kahf VPN</translation>
++<translation id="6332027154313182926">Uključi/isključi uslugu Kahf VPN</translation>
+ <translation id="6539014233195996894">Uključi/isključi zvuk kartice</translation>
+ <translation id="2682865834956428001">Promijeni položaj bočne trake</translation>
+ <translation id="6105745639559695088">Prikaži/sakrij bočnu traku</translation>
+ <translation id="3488252265135539275">Prebaci uspravne bočne trake</translation>
+ <translation id="7134064542341959603">Prikaži/sakrij naslov prozora pri upotrebi uspravnih kartica</translation>
+-<translation id="3067105725259639716">Konfiguriraj vijesti Brave</translation>
++<translation id="3067105725259639716">Konfiguriraj vijesti Kahf</translation>
+ <translation id="6286510487460330478">Konfiguriraj kratice</translation>
+-<translation id="9214819486716388964">Prikaži razgovor Brave</translation>
++<translation id="9214819486716388964">Prikaži razgovor Kahf</translation>
+ <translation id="5950760360751948276">Uvijek prikaži traku s oznakama</translation>
+ <translation id="2960757369920422313">Prikaži traku s oznakama na stranici nove oznake</translation>
+ <translation id="522953399371747698">Sakrij traku s oznakama</translation>
+@@ -1902,11 +1902,11 @@
+ <translation id="1167803637855350748">Pojavio se mrežni problem pri povezivanju s pomoćnikom Leo. Provjerite svoju vezu i pokušajte ponovno.</translation>
+ <translation id="1996126325390835277">Dosegli ste ograničenje premium cijene. Pokušajte ponovno za nekoliko sati.</translation>
+ <translation id="7144878232160441200">Pokušaj ponovo</translation>
+-<translation id="8570488829560315702">Pozdrav, ja sam Leo. Ja sam pomoćnik s umjetnom inteligencijom potpuno smješten u Braveu. Pokreće me Llama 3 8B, model koji je izradila Meta radi izvedbe i primjene u mnogim slučajevima uporabe. <ph name="LINK_BEFORE"/>Saznajte više<ph name="LINK_AFTER"/></translation>
+-<translation id="6500567629965936637">Pozdrav, ja sam Leo. Ja sam pomoćnik s umjetnom inteligencijom potpuno smješten u Braveu. Pokreće me Mixtral 8x7B, model koji je izradio Mistral AI radi obavljanja naprednih zadataka. <ph name="LINK_BEFORE"/>Saznajte više<ph name="LINK_AFTER"/></translation>
+-<translation id="4590776109659811206">Pozdrav, ja sam Leo. Posreduje me Brave i pokreće me Claude Instant, model koji je izradio Anthropic radi obavljanja razgovornih zadataka i zadataka obrade teksta. <ph name="LINK_BEFORE"/>Saznajte više<ph name="LINK_AFTER"/></translation>
+-<translation id="8583558415545871403">Pozdrav, ja sam Leo. Dostupan sam u sklopu preglednika Brave i pokreće me model Claude 3 Haiku društva Anthropic stvoren za zadatke obavljanja razgovora i obrađivanja teksta.</translation>
+-<translation id="4147243042852964992">Pozdrav, ja sam Leo. Dostupan sam u sklopu preglednika Brave i pokreće me model Claude 3 Sonnet društva Anthropic stvoren za zadatke obavljanja razgovora i obrađivanja teksta.</translation>
++<translation id="8570488829560315702">Pozdrav, ja sam Leo. Ja sam pomoćnik s umjetnom inteligencijom potpuno smješten u Kahfu. Pokreće me Llama 3 8B, model koji je izradila Meta radi izvedbe i primjene u mnogim slučajevima uporabe. <ph name="LINK_BEFORE"/>Saznajte više<ph name="LINK_AFTER"/></translation>
++<translation id="6500567629965936637">Pozdrav, ja sam Leo. Ja sam pomoćnik s umjetnom inteligencijom potpuno smješten u Kahfu. Pokreće me Mixtral 8x7B, model koji je izradio Mistral AI radi obavljanja naprednih zadataka. <ph name="LINK_BEFORE"/>Saznajte više<ph name="LINK_AFTER"/></translation>
++<translation id="4590776109659811206">Pozdrav, ja sam Leo. Posreduje me Kahf i pokreće me Claude Instant, model koji je izradio Anthropic radi obavljanja razgovornih zadataka i zadataka obrade teksta. <ph name="LINK_BEFORE"/>Saznajte više<ph name="LINK_AFTER"/></translation>
++<translation id="8583558415545871403">Pozdrav, ja sam Leo. Dostupan sam u sklopu preglednika Kahf i pokreće me model Claude 3 Haiku društva Anthropic stvoren za zadatke obavljanja razgovora i obrađivanja teksta.</translation>
++<translation id="4147243042852964992">Pozdrav, ja sam Leo. Dostupan sam u sklopu preglednika Kahf i pokreće me model Claude 3 Sonnet društva Anthropic stvoren za zadatke obavljanja razgovora i obrađivanja teksta.</translation>
+ <translation id="6206029817087805290"><ph name="MODEL_NAME"/> društva <ph name="COMPANY_NAME"/></translation>
+ <translation id="963346402440669081">Premium</translation>
+ <translation id="6187065185557150870">Čavrljanje</translation>
+@@ -1954,7 +1954,7 @@
+ <translation id="8712637175834984815">Shvaćam</translation>
+ <translation id="1093419424466417703">Stranica je preduga za pomoćnika Lea. Možda nedostaje konteksta u razgovoru. Pomoćnik Leo uspio je pročitati <ph name="PERCENTAGE"/> sadržaja stranice.</translation>
+ <translation id="4370698775470316661">Ovaj je razgovor predug i ne može se nastaviti. Možda su dostupni drugi modeli s kojima pomoćnik Leo može održavati točnost tijekom dužih razgovora.</translation>
+-<translation id="5719170755629028558">Poboljšavamo vaš odgovor pretraživanjem Brave…</translation>
++<translation id="5719170755629028558">Poboljšavamo vaš odgovor pretraživanjem Kahf…</translation>
+ <translation id="5794962229997281366">Poboljšano pretraživanje odgovora za <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Opće čavrljanje</translation>
+ <translation id="8193130769524604031">Napredni zadaci čavrljanja</translation>
+@@ -1999,13 +1999,13 @@
+ <translation id="49269513399674318">Upotrijebi mikrofon</translation>
+ <translation id="3895031624234442305">Prilagođeni modeli</translation>
+ <translation id="6303294677342628402">Štitovi</translation>
+-<translation id="8458987127502506209">Omogući Štitove Brave</translation>
++<translation id="8458987127502506209">Omogući Štitove Kahf</translation>
+ <translation id="7509914170164691086">Štitovi OMOGUĆENI <ph name="LINK_BEFORE"/>za<ph name="LINK_AFTER"/></translation>
+ <translation id="260764436039299868">Štitovi su onemogućeni <ph name="LINK_BEFORE"/>za<ph name="LINK_AFTER"/></translation>
+ <translation id="3907405056878805220">Ako se čini da je mrežno mjesto neispravno, pokušate onemogućiti Štitove.
+- <ph name="LINK_BEFORE"/>Napomena: time se može smanjiti zaštita privatnosti preglednika Brave<ph name="LINK_AFTER"/></translation>
++ <ph name="LINK_BEFORE"/>Napomena: time se može smanjiti zaštita privatnosti preglednika Kahf<ph name="LINK_AFTER"/></translation>
+ <translation id="8377155647357436161">Blokirani elementi za praćenje, oglasi i više <ph name="LINK_BEFORE"/>Doznaj više<ph name="LINK_AFTER"/></translation>
+-<translation id="7604553853176833536">Nije zaštićeno štitovima Brave <ph name="LINK_BEFORE"/>Saznajte više <ph name="LINK_AFTER"/></translation>
++<translation id="7604553853176833536">Nije zaštićeno štitovima Kahf <ph name="LINK_BEFORE"/>Saznajte više <ph name="LINK_AFTER"/></translation>
+ <translation id="650318023204990401">Napredne kontrole</translation>
+ <translation id="5799940914270080805">Mijenjanjem tih postavki mogu se rušiti mrežna mjesta.</translation>
+ <translation id="9204041448536398473">Postavke globalnog štita</translation>
+@@ -2036,49 +2036,49 @@
+ <translation id="2570787596946026998">Povezuj se samo s HTTPS-om</translation>
+ <translation id="1992750560347846445">Prijavi mrežno mjesto</translation>
+ <translation id="2387532482048804818">Obavijestite nas ako mrežno mjesto ne radi pravilno s omogućenim Štitovima.</translation>
+-<translation id="3795015906457257780">Pregledavate ovo mrežno mjesto bez zaštite privatnosti preglednika Brave.</translation>
+-<translation id="7194012750329511146">Štitovi Brave
++<translation id="3795015906457257780">Pregledavate ovo mrežno mjesto bez zaštite privatnosti preglednika Kahf.</translation>
++<translation id="7194012750329511146">Štitovi Kahf
+ Blokirano <ph name="NUMBER"/> element/a/ata za praćenje, oglas/a i više</translation>
+ <translation id="4292121526390005808">Blokirane skripte</translation>
+ <translation id="5046271170844958713">Dozvoljene skripte</translation>
+ <translation id="264682546981571963">Je li vam dosta obavijesti o pristanku na kolačiće?</translation>
+-<translation id="4986297793092101884">Brave već blokira kolačiće trećih strana. Također možemo blokirati obavijesti o pristanku na kolačiće.</translation>
++<translation id="4986297793092101884">Kahf već blokira kolačiće trećih strana. Također možemo blokirati obavijesti o pristanku na kolačiće.</translation>
+ <translation id="535688588637568715">Da, blokiraj obavijesti o pristanku na kolačiće</translation>
+-<translation id="2808175374672429053">Zamjenski znakovi nisu dopušteni za značajku Štitovi Brave.</translation>
++<translation id="2808175374672429053">Zamjenski znakovi nisu dopušteni za značajku Štitovi Kahf.</translation>
+ <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
+-      =1 {Brave Štit blokirao je 1 element za praćenje na<ph name="SITE_URL"/>}
+-      other {Brave Štit blokirao je {BLOCKED_COUNT} elemente za praćenje na <ph name="SITE_URL"/>}
++      =1 {Kahf Štit blokirao je 1 element za praćenje na<ph name="SITE_URL"/>}
++      other {Kahf Štit blokirao je {BLOCKED_COUNT} elemente za praćenje na <ph name="SITE_URL"/>}
+     }</translation>
+-<translation id="2540598191934725677">Pritisnite ikonu Brave kako biste vidjeli Brave Štit.</translation>
++<translation id="2540598191934725677">Pritisnite ikonu Kahf kako biste vidjeli Kahf Štit.</translation>
+ <translation id="6294662480095808915">Privatnost. Zadano.</translation>
+-<translation id="4366423156486478559">Dobijte zaštitu Brave na svakoj poveznici na koju kliknete. Samo postavite Brave kao zadani preglednik i pretražujte. Privatno.</translation>
++<translation id="4366423156486478559">Dobijte zaštitu Kahf na svakoj poveznici na koju kliknete. Samo postavite Kahf kao zadani preglednik i pretražujte. Privatno.</translation>
+ <translation id="3830912418080848377">Uvezi postavke</translation>
+ <translation id="6378406588483694938">Jednostavno uvezite oznake, proširenja, čak i spremljene lozinke iz svog starog preglednika.</translation>
+ <translation id="2092825239819166928">Odaberite profil za uvoz</translation>
+ <translation id="4763127492635705340">Preglednik koji ste odabrali ima više profila. Odaberite profil/e koji želite uvesti.</translation>
+ <translation id="880174232178865598">Uvezi profile</translation>
+ <translation id="2453860139492968684">Završi</translation>
+-<translation id="2273851479262317744">Postavi preglednik Brave kao zadani preglednik</translation>
++<translation id="2273851479262317744">Postavi preglednik Kahf kao zadani preglednik</translation>
+ <translation id="5037676449506322593">Odaberi sve</translation>
+-<translation id="5148943178722443958">Pomognite poboljšati Brave.</translation>
++<translation id="5148943178722443958">Pomognite poboljšati Kahf.</translation>
+ <translation id="1097073572755862978">Pošaljite dijagnostička izvješća ako iskusite pad ili zamrzavanje stranice. <ph name="LINK_BEFORE"/>Saznajte više.<ph name="LINK_AFTER"/></translation>
+-<translation id="6629244688368006959">Dijelite privatne i anonimne uvide u proizvode o tome koje značajke upotrebljavaju korisnici platforme Brave. <ph name="LINK_BEFORE"/>Saznajte više.<ph name="LINK_AFTER"/></translation>
++<translation id="6629244688368006959">Dijelite privatne i anonimne uvide u proizvode o tome koje značajke upotrebljavaju korisnici platforme Kahf. <ph name="LINK_BEFORE"/>Saznajte više.<ph name="LINK_AFTER"/></translation>
+ <translation id="7415454883318062233">Postavljanje je dovršeno</translation>
+-<translation id="3141206739023333979">Promijenite ove odabire u bilo kojem trenutku u pregledniku Brave u odjeljku <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
++<translation id="3141206739023333979">Promijenite ove odabire u bilo kojem trenutku u pregledniku Kahf u odjeljku <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+ <translation id="8321985064212130832">Pročitajte cijeli naš <ph name="LINK_BEFORE"/>Pravilnik o privatnosti<ph name="LINK_AFTER"/></translation>
+ <translation id="2801098717523961746">Odaberite svoju temu</translation>
+-<translation id="6262510489122516114">Ovo možete promijeniti u bilo kojem trenutku u postavkama platforme Brave.</translation>
++<translation id="6262510489122516114">Ovo možete promijeniti u bilo kojem trenutku u postavkama platforme Kahf.</translation>
+ <translation id="546481172717459539">Uskladi postavke sustava</translation>
+ <translation id="7799817062559422778">Jednostavan način</translation>
+ <translation id="4117637339509843559">Tamni način</translation>
+ <translation id="6302485303316397682">Želite li bolje rezultate pretraživanja?</translation>
+-<translation id="7014699001826714920">Pridružite se pokretu i doprinesite tražilici Brave Search.</translation>
+-<translation id="6821108091726602352">Pomozite nam u rješavanju mrežnih problema sudjelovanjem u Projektu otkrivanja mreže društva Brave. Dijeljenjem potpuno anonimnih signala pretraživanja pomažete društvu Brave u povećavanju indeksa pretraživanja.</translation>
++<translation id="7014699001826714920">Pridružite se pokretu i doprinesite tražilici Kahf Search.</translation>
++<translation id="6821108091726602352">Pomozite nam u rješavanju mrežnih problema sudjelovanjem u Projektu otkrivanja mreže društva Kahf. Dijeljenjem potpuno anonimnih signala pretraživanja pomažete društvu Kahf u povećavanju indeksa pretraživanja.</translation>
+ <translation id="6764845498618413165">Saznajte više.</translation>
+ <translation id="7818938154803162778">U redu, pomoći ću</translation>
+-<translation id="7821773512278295352">Vatrozid preglednika Brave + mreža VPN: Povezano</translation>
+-<translation id="6019088868713395120">Vatrozid Brave + mreža VPN: Nije povezano</translation>
+-<translation id="3541307549916475335">Korisničko sučelje ploče VPN za Brave</translation>
++<translation id="7821773512278295352">Vatrozid preglednika Kahf + mreža VPN: Povezano</translation>
++<translation id="6019088868713395120">Vatrozid Kahf + mreža VPN: Nije povezano</translation>
++<translation id="3541307549916475335">Korisničko sučelje ploče VPN za Kahf</translation>
+ <translation id="1742469581923031760">Povezivanje…</translation>
+ <translation id="1287487756047817908">Prekidanje veze…</translation>
+ <translation id="2325196879156848326">Neuspješno povezivanje</translation>
+@@ -2088,7 +2088,7 @@ Blokirano <ph name="NUMBER"/> element/a/ata za praćenje, oglas/a i više</trans
+ <translation id="8703188411226330709">Pokreni besplatnu probnu verziju</translation>
+ <translation id="1024255913009642477">Već ste kupili VPN?</translation>
+ <translation id="8814357473522731680">Omogućuje</translation>
+-<translation id="3960619311638643872">VPN preglednika Brave</translation>
++<translation id="3960619311638643872">VPN preglednika Kahf</translation>
+ <translation id="7805768142964895445">Status</translation>
+ <translation id="5747552184818312860">Istječe</translation>
+ <translation id="8421945428836418371">Ponovo automatski povežite</translation>
+@@ -2106,7 +2106,7 @@ Blokirano <ph name="NUMBER"/> element/a/ata za praćenje, oglas/a i više</trans
+ <translation id="427718751211990320">Istekao je datum isteka vjerodajnica.</translation>
+ <translation id="8670619630771851260">Nije moguće učitati vjerodajnice.</translation>
+ <translation id="1594643509610625766">Token više ne vrijedi.</translation>
+-<translation id="8373427068383038263">Izgleda da vaše najnedavnije plaćanje za <ph name="VALUE"/> nije prošlo. Zaustavlja se pristup ovoj pretplati dok se problem s plaćanjem ne riješi. Pokušajte urediti svoj način plaćanja ili se obratite podršci društva Brave.</translation>
++<translation id="8373427068383038263">Izgleda da vaše najnedavnije plaćanje za <ph name="VALUE"/> nije prošlo. Zaustavlja se pristup ovoj pretplati dok se problem s plaćanjem ne riješi. Pokušajte urediti svoj način plaćanja ili se obratite podršci društva Kahf.</translation>
+ <translation id="1839021455997460752">Vaša adresa e-pošte</translation>
+ <translation id="8054563304616131773">Upišite valjanu adresu e-pošte</translation>
+ <translation id="5154702632169343078">Predmet</translation>
+@@ -2123,14 +2123,14 @@ Blokirano <ph name="NUMBER"/> element/a/ata za praćenje, oglas/a i više</trans
+ <translation id="6676791921618140305">Inačica operativnog sustava:</translation>
+ <translation id="1156325797949437777">Podrška pružena u suradnji s timom Guardian.</translation>
+ <translation id="8146777497879160283">Neuspjelo pisanje konfiguracije VPN. Ovo se može dogoditi ako nemate dopuštenje ili ako nedavno niste pokrenuli Window Update.</translation>
+-<translation id="3307461350293459700">Veza s mrežom VPN nije uspjela. Pokušajte se ponovno povezati i kliknite na Dopusti da biste omogućili konfiguraciju mreže VPN preglednika Brave.</translation>
+-<translation id="7261518280726313829">Isključivanjem sigurnog DNS-a ili upotrebom zadanih poslužitelja na operativnom sustavu Windows mogu se otkriti nazivi mrežnih mjesta koja posjećujete vašem pružatelju internetskih usluga. Brave vam to ne preporučuje. Želite li svejedno to napraviti?</translation>
+-<translation id="888284761945060750">Sigurni DNS onemogućen je pravilima vaše organizacije. Upotrebom VPN-a Brave bez sigurnog DNS-a mogu se otkriti nazivi mrežnih mjesta koja posjećujete vašem pružatelju internetskih usluga ili organizaciji.</translation>
+-<translation id="6593224083874259773">VPN platforme Brave u sustavu Windows</translation>
+-<translation id="3153983908111684619">Postavku zaključava VPN platforme Brave dok je povezan</translation>
++<translation id="3307461350293459700">Veza s mrežom VPN nije uspjela. Pokušajte se ponovno povezati i kliknite na Dopusti da biste omogućili konfiguraciju mreže VPN preglednika Kahf.</translation>
++<translation id="7261518280726313829">Isključivanjem sigurnog DNS-a ili upotrebom zadanih poslužitelja na operativnom sustavu Windows mogu se otkriti nazivi mrežnih mjesta koja posjećujete vašem pružatelju internetskih usluga. Kahf vam to ne preporučuje. Želite li svejedno to napraviti?</translation>
++<translation id="888284761945060750">Sigurni DNS onemogućen je pravilima vaše organizacije. Upotrebom VPN-a Kahf bez sigurnog DNS-a mogu se otkriti nazivi mrežnih mjesta koja posjećujete vašem pružatelju internetskih usluga ili organizaciji.</translation>
++<translation id="6593224083874259773">VPN platforme Kahf u sustavu Windows</translation>
++<translation id="3153983908111684619">Postavku zaključava VPN platforme Kahf dok je povezan</translation>
+ <translation id="1055657720430482013">Windows ima značajku pod nazivom Smart Multi-Homed Name Resolution kojom se mogu otkriti informacije o vašoj lokaciji i mrežnim mjestima koja posjećujete.
+ 
+-Brave ima uslugu pomoći koja vas štiti od takve izloženosti filtriranjem načina stvaranja upita DNS-a na vašoj vezi mreže VPN.
++Kahf ima uslugu pomoći koja vas štiti od takve izloženosti filtriranjem načina stvaranja upita DNS-a na vašoj vezi mreže VPN.
+ 
+ Međutim, primijetili smo da usluga pomoći ne radi, a ne želimo da budete nezaštićeni. Promijenili smo postavke DNS-a u pregledniku da bismo vas zaštitili od takve izloženosti. Postavke su na snazi i zaključane su dok je povezana mreža VPN.
+ 

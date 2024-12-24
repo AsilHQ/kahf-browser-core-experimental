@@ -1,0 +1,169 @@
+diff a/app/resources/brave_generated_resources_es.xtb b/app/resources/brave_generated_resources_es.xtb	(rejected hunks)
+@@ -14,7 +14,7 @@
+ <translation id="6516243500644829484">Nueva ventana de &amp;incógnito</translation>
+ <translation id="1209739344687072997">Informar de un sitio roto</translation>
+ <translation id="8294286161128352783">Solo en la página de la nueva pestaña</translation>
+-<translation id="6406506848690869874">Brave Sync</translation>
++<translation id="6406506848690869874">Kahf Sync</translation>
+ <translation id="1544192797660353713">Wallet</translation>
+ <translation id="8275068909952022340">Más…</translation>
+ <translation id="1990886731975529483">Instalar y ejecutar Google Widevine</translation>
+@@ -44,10 +44,10 @@ También puedes cambiar los permisos más adelante en <ph name="SETTINGS_EXTENIO
+ <translation id="1970435562892104727">Es una ventana privada con Tor</translation>
+ <translation id="1037341607922068025">Abrir ventana privada con Tor</translation>
+ <translation id="607982085107926247">Abrir en Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Esta cuenta de Sincronización de Brave se eliminó de otro dispositivo. Si no querías desactivar la sincronización, <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Esta cuenta de Sincronización de Kahf se eliminó de otro dispositivo. Si no querías desactivar la sincronización, <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/> vuelve a crear la cuenta</translation>
+ <translation id="6965382102122355670">Aceptar</translation>
+-<translation id="3975865347033939965">No se ha podido iniciar el servicio de sincronización. La sincronización de Brave no se está ejecutando.</translation>
++<translation id="3975865347033939965">No se ha podido iniciar el servicio de sincronización. La sincronización de Kahf no se está ejecutando.</translation>
+ <translation id="4450893287417543264">No volver a mostrar</translation>
+ <translation id="4595286989346610620">Ver detalles</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -59,62 +59,62 @@ También puedes cambiar los permisos más adelante en <ph name="SETTINGS_EXTENIO
+ <translation id="6313675821927505581">Nueva ventana privada con Tor</translation>
+ <translation id="2638041073279639246">Abrir enlace en una ventana privada con Tor</translation>
+ <translation id="3425600262621021599">Abrir enlace en una ventana privada con Tor</translation>
+-<translation id="2545072023356206691">A partir del 1 de diciembre de 2023, el canal de Brave Dev dejará de recibir actualizaciones para el navegador. Recomendamos a los usuarios que migren a las versiones Nightly, Beta o Release de Brave.</translation>
++<translation id="2545072023356206691">A partir del 1 de diciembre de 2023, el canal de Kahf Dev dejará de recibir actualizaciones para el navegador. Recomendamos a los usuarios que migren a las versiones Nightly, Beta o Release de Kahf.</translation>
+ <translation id="474217410105706308">Silenciar pestaña</translation>
+-<translation id="2804710924397009224">Ocultar Icono de Brave Rewards</translation>
+-<translation id="5029193871181468990">Ocultar ícono de Recompensas de Brave</translation>
+-<translation id="2808103541110899519">Ocultar el icono de Cartera de Brave</translation>
+-<translation id="7595540212376041331">Ocultar el icono de Cartera de Brave</translation>
++<translation id="2804710924397009224">Ocultar Icono de Kahf Rewards</translation>
++<translation id="5029193871181468990">Ocultar ícono de Recompensas de Kahf</translation>
++<translation id="2808103541110899519">Ocultar el icono de Cartera de Kahf</translation>
++<translation id="7595540212376041331">Ocultar el icono de Cartera de Kahf</translation>
+ <translation id="4928988318462976765">Web Extensions Store</translation>
+ <translation id="9181207987584064303">Ver en la Web Extensions Store</translation>
+-<translation id="3161744659507801211">Advertencia: Brave no puede impedir que las extensiones registren su historial de navegación.</translation>
++<translation id="3161744659507801211">Advertencia: Kahf no puede impedir que las extensiones registren su historial de navegación.</translation>
+ <translation id="2162109630536601963">Si esta extensión hace peticiones de red, no se usará Tor ni el modo privado.</translation>
+ <translation id="2725327089319971976">Para desactivar esta extensión en modo privado y modo Tor, deseleccione esta opción.</translation>
+-<translation id="3371343170427636147">Brave Browser Nightly Apps</translation>
+-<translation id="4097979995947147464">Brave Browser Beta Apps</translation>
+-<translation id="8303432794159193481">Brave Browser Dev Apps</translation>
+-<translation id="8292967014767479012">Brave Browser Apps</translation>
+-<translation id="4743468424889072281">Brave Browser Development Apps</translation>
++<translation id="3371343170427636147">Kahf Browser Nightly Apps</translation>
++<translation id="4097979995947147464">Kahf Browser Beta Apps</translation>
++<translation id="8303432794159193481">Kahf Browser Dev Apps</translation>
++<translation id="8292967014767479012">Kahf Browser Apps</translation>
++<translation id="4743468424889072281">Kahf Browser Development Apps</translation>
+ <translation id="5039804452771397117">Permitir</translation>
+ <translation id="7053983685419859001">Bloquear</translation>
+-<translation id="1679356339067548863">Envía informes de diagnóstico automáticamente cuando el navegador de Brave falle o se bloquee para ayudarnos a mejorar la estabilidad de los productos de Brave.</translation>
++<translation id="1679356339067548863">Envía informes de diagnóstico automáticamente cuando el navegador de Kahf falle o se bloquee para ayudarnos a mejorar la estabilidad de los productos de Kahf.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> se ha cerrado de forma inesperada.</translation>
+-<translation id="1324417023773393937">El navegador de Brave</translation>
++<translation id="1324417023773393937">El navegador de Kahf</translation>
+ <translation id="7276554663454265692">Puedes cambiar <ph name="SETTING_TEXT"/> cuando quieras en la configuración del navegador.</translation>
+ <translation id="6873781976650514089">este ajuste</translation>
+ <translation id="4684633335323013758">Este sitio solicita su <ph name="PART_ONE"/>ubicación general<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Más información<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Este sitio solicita su <ph name="PART_ONE"/>ubicación exacta<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Más informació<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Este sitio solicita su <ph name="PART_ONE"/>ubicación exacta<ph name="PART_ONE_END"/>. Brave solo proporcionará los datos relativos a su <ph name="PART_TWO"/>ubicación general<ph name="PART_TWO_END"/> porque los <ph name="PART_THREE"/>Servicios de ubicación<ph name="PART_THREE_END"/> están deshabilitados. <ph name="PART_FOUR"/>Más información<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Este sitio solicita su <ph name="PART_ONE"/>ubicación exacta<ph name="PART_ONE_END"/>. Kahf solo proporcionará los datos relativos a su <ph name="PART_TWO"/>ubicación general<ph name="PART_TWO_END"/> porque los <ph name="PART_THREE"/>Servicios de ubicación<ph name="PART_THREE_END"/> están deshabilitados. <ph name="PART_FOUR"/>Más información<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Cerrar todo</translation>
+ <translation id="7658239707568436148">Cancelar</translation>
+ <translation id="4870911314065352661">¿Quieres cerrar todas las pestañas?</translation>
+ <translation id="7551864359422178684">Tienes <ph name="NUMBER_OF_TABS"/> pestañas abiertas en esta ventana del navegador.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> pestañas</translation>
+ <translation id="1307431692088049276">No preguntar de nuevo</translation>
+-<translation id="6919364924256365253">Ni Google ni Bing. Nada como Brave.</translation>
+-<translation id="2640297688005939449">Brave no elabora perfiles de preferencias y, además, es 100 % independiente.</translation>
++<translation id="6919364924256365253">Ni Google ni Bing. Nada como Kahf.</translation>
++<translation id="2640297688005939449">Kahf no elabora perfiles de preferencias y, además, es 100 % independiente.</translation>
+ <translation id="7295094278358921487">Busca y encontrarás. Con total privacidad.</translation>
+-<translation id="3462465068145800637">Brave no elabora perfiles de preferencias y, además, es 100 % independiente de las grandes empresas tecnológicas.</translation>
++<translation id="3462465068145800637">Kahf no elabora perfiles de preferencias y, además, es 100 % independiente de las grandes empresas tecnológicas.</translation>
+ <translation id="42032117189492785">Búsquedas con inteligencia artificial y un índice sin parangón.</translation>
+ <translation id="8606416238399082160">Totalmente privado, 100 % independiente y con útiles funciones de inteligencia artificial.</translation>
+-<translation id="7706528608480893054">DDG es Bing con otro nombre. Apueste mejor por la privacidad de verdad, por los buenos resultados de verdad y por un índice independiente de verdad. Apueste por Búsqueda de Brave.</translation>
++<translation id="7706528608480893054">DDG es Bing con otro nombre. Apueste mejor por la privacidad de verdad, por los buenos resultados de verdad y por un índice independiente de verdad. Apueste por Búsqueda de Kahf.</translation>
+ <translation id="3818133234428578803">Diga adiós al pato</translation>
+-<translation id="14817360483752259">Búsqueda de Brave no te rastrea, ni tampoco le interesa qué busca o en qué hace click. Además, a diferencia de DDG, no es Bing con otro nombre.</translation>
++<translation id="14817360483752259">Búsqueda de Kahf no te rastrea, ni tampoco le interesa qué busca o en qué hace click. Además, a diferencia de DDG, no es Bing con otro nombre.</translation>
+ <translation id="4381193110021038941">Obtenga mejores resultados</translation>
+-<translation id="3846545273704969734">Búsqueda de Brave goza de verificación independiente para proporcionar mejores resultados que Bing y sus clones (como DuckDuckGo).</translation>
++<translation id="3846545273704969734">Búsqueda de Kahf goza de verificación independiente para proporcionar mejores resultados que Bing y sus clones (como DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Mejore los resultados de búsqueda</translation>
+-<translation id="4639001639513524869">Búsqueda de Brave brinda mejores resultados que DuckDuckGo en la mayoría de los casos. Y es 100 % privado.</translation>
+-<translation id="5240031343741051161">Prueba Brave Search</translation>
++<translation id="4639001639513524869">Búsqueda de Kahf brinda mejores resultados que DuckDuckGo en la mayoría de los casos. Y es 100 % privado.</translation>
++<translation id="5240031343741051161">Prueba Kahf Search</translation>
+ <translation id="5234764350956374838">Dismiss</translation>
+-<translation id="8722651357687610395">Establecer Brave como predeterminado</translation>
++<translation id="8722651357687610395">Establecer Kahf como predeterminado</translation>
+ <translation id="2370739752330685659">Quizás más tarde</translation>
+-<translation id="5100490448228945668">Descartar la conversión de la búsqueda de Brave, pulse Intro para eliminar esta sugerencia</translation>
++<translation id="5100490448228945668">Descartar la conversión de la búsqueda de Kahf, pulse Intro para eliminar esta sugerencia</translation>
+ <translation id="9194637241566114638">Envía datos de uso anónimos para ayudarnos a mejorar <ph name="SEARCH_NAME"/>. <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Búsqueda de Brave</translation>
++<translation id="7404610376221341525">Búsqueda de Kahf</translation>
+ <translation id="8184318863960255706">Más información</translation>
+ <translation id="780301667611848630">No, gracias</translation>
+-<translation id="1162706247109707219">Al hacer clic en Aceptar, aceptas que la instalación de Brave no recibirá correcciones de seguridad importantes hasta que actualices a Windows 10 o a alguna versión posterior. No volveremos a mostrarte esta advertencia.</translation>
+-<translation id="9164786361657554526">Al hacer clic en Aceptar, aceptas que la instalación de Brave no recibirá correcciones de seguridad importantes hasta que actualices a macOS 10.15 o a alguna versión posterior. No volveremos a mostrarte esta advertencia.</translation>
++<translation id="1162706247109707219">Al hacer clic en Aceptar, aceptas que la instalación de Kahf no recibirá correcciones de seguridad importantes hasta que actualices a Windows 10 o a alguna versión posterior. No volveremos a mostrarte esta advertencia.</translation>
++<translation id="9164786361657554526">Al hacer clic en Aceptar, aceptas que la instalación de Kahf no recibirá correcciones de seguridad importantes hasta que actualices a macOS 10.15 o a alguna versión posterior. No volveremos a mostrarte esta advertencia.</translation>
+ <translation id="2770465223704140727">Eliminar de la lista</translation>
+ <translation id="6020553119523541665">Esta pestaña está activa en otra ventana</translation>
+ <translation id="4987392683074136770">Si hace clic en esta pestaña, trasladará su contenido a esta ventana</translation>
+@@ -299,8 +299,8 @@ También puedes cambiar los permisos más adelante en <ph name="SETTINGS_EXTENIO
+ <translation id="6453210454707928697">Error al reproducir el elemento</translation>
+ <translation id="8741852840789907931">Parece que [<ph name="ITEM_NAME"/>] ha caducado. ¿Quieres recuperarlo?</translation>
+ <translation id="6155018868740116868">Recuperar</translation>
+-<translation id="1727684853006449697">Reproductor de Brave</translation>
+-<translation id="9156965752763025780">Tus cambios se aplicarán la próxima vez que reinicies Brave.</translation>
++<translation id="1727684853006449697">Reproductor de Kahf</translation>
++<translation id="9156965752763025780">Tus cambios se aplicarán la próxima vez que reinicies Kahf.</translation>
+ <translation id="7179921470347911571">Relanzar Ahora</translation>
+ <translation id="1426410128494586442">Sí</translation>
+ <translation id="4250680216510889253">No</translation>
+@@ -339,7 +339,7 @@ También puedes cambiar los permisos más adelante en <ph name="SETTINGS_EXTENIO
+ <translation id="8820817407110198400">Marcadores</translation>
+ <translation id="4144468798716165316">Comandos rápidos</translation>
+ <translation id="7310387888625228830">Asistente de IA (Leo)</translation>
+-<translation id="5222974844674487962">Mostrar botón de Noticias de Brave</translation>
++<translation id="5222974844674487962">Mostrar botón de Noticias de Kahf</translation>
+ <translation id="383007806262310953">Mostrar marcadores</translation>
+ <translation id="4054323497808446566">La barra de marcadores está visible en todas las páginas</translation>
+ <translation id="8693858092251192712">La barra de marcadores está oculta en todas las páginas salvo en la página de la nueva pestaña</translation>
+@@ -440,7 +440,7 @@ También puedes cambiar los permisos más adelante en <ph name="SETTINGS_EXTENIO
+ <translation id="4891600875049212418">Navega en modo Off-The-Record cuando visites sitios de naturaleza confidencial</translation>
+ <translation id="1968895725257436430">Recopilación de datos</translation>
+ <translation id="4846154056248462491">Al salir</translation>
+-<translation id="2808630562319398131">Restablecer los datos de las recompensas de Brave...</translation>
++<translation id="2808630562319398131">Restablecer los datos de las recompensas de Kahf...</translation>
+ <translation id="6438096877646138757">Sitios que borran las cookies cuando los cierras</translation>
+ <translation id="2988792685798128092">Borrar al cerrar el sitio</translation>
+ <translation id="7702907602086592255">Dominio</translation>
+@@ -487,12 +487,12 @@ También puedes cambiar los permisos más adelante en <ph name="SETTINGS_EXTENIO
+ <translation id="1485435696620658073">Se permite acceder a recursos de localhost</translation>
+ <translation id="6414370348346025511">La protección estándar está activada.</translation>
+ <translation id="5565355416171743213">Empezar a utilizar la sincronización</translation>
+-<translation id="4332558599726753990">Configuración de Brave Sync</translation>
+-<translation id="2187778349654214731">Para empezar, necesitarás tener Brave instalado en todos los dispositivos que quieres sincronizar. Después, conéctalos entre sí de manera segura con un código de sincronización.</translation>
++<translation id="4332558599726753990">Configuración de Kahf Sync</translation>
++<translation id="2187778349654214731">Para empezar, necesitarás tener Kahf instalado en todos los dispositivos que quieres sincronizar. Después, conéctalos entre sí de manera segura con un código de sincronización.</translation>
+ <translation id="7530575064080939974">Gestiona tus dispositivos sincronizados</translation>
+-<translation id="8668872235103666008">No se pudo sincronizar Brave en tus dispositivos</translation>
+-<translation id="7575156386943878014">Administrador de Brave Sync</translation>
+-<translation id="1755198127524719638">Configuración de Brave Sync</translation>
++<translation id="8668872235103666008">No se pudo sincronizar Kahf en tus dispositivos</translation>
++<translation id="7575156386943878014">Administrador de Kahf Sync</translation>
++<translation id="1755198127524719638">Configuración de Kahf Sync</translation>
+ <translation id="7558480201297099157">Gestiona la información que quieres sincronizar entre los dispositivos. Estos ajustes sólo afectan a este dispositivo.</translation>
+ <translation id="7731928563672901833">Lista de dispositivos</translation>
+ <translation id="28332161031213248">La lista que se muestra a continuación incluye todos los dispositivos sincronizados. Cada dispositivo puede ser administrado desde cualquier otro.</translation>
+@@ -694,7 +694,7 @@ de forma irreversible.</translation>
+ <translation id="7131172845656551327">El nombre del modelo tal y como debe aparecer en la solicitud al marco de servicio, es decir, phi-3. Cabe recalcar que si este nombre no coincide exactamente con el que espera el marco servidor, la integración no se llevará a cabo.</translation>
+ <translation id="3286410514484292784">La url en la que su marco de servicio atiende peticiones. Si no la sabe con certeza, consulte la documentación de la plataforma. Por ejemplo, en el caso de Ollama, se trata siempre de http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Existe la posibilidad de que algunos marcos de servicio exijan credenciales de autenticación a modo de clave de API o token de acceso. En ese caso, se añadirán al encabezado de la solicitud.</translation>
+-<translation id="217141195370578385">Brave no hace de proxy para estas solicitudes. Consulte los términos de privacidad del proveedor elegido.</translation>
++<translation id="217141195370578385">Kahf no hace de proxy para estas solicitudes. Consulte los términos de privacidad del proveedor elegido.</translation>
+ <translation id="2645532768679870478">Los terminales no locales deben emplear el protocolo HTTPS para llevar a cabo una transmisión segura de los datos.</translation>
+ <translation id="8177205483022887785">Ha introducido una URL no válida. Introduzca una que sí lo sea.</translation>
+ <translation id="5249539665306267943">Añadir nuevo modelo</translation>

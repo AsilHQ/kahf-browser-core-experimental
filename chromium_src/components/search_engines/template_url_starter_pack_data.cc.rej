@@ -1,0 +1,10 @@
+diff a/chromium_src/components/search_engines/template_url_starter_pack_data.cc b/chromium_src/components/search_engines/template_url_starter_pack_data.cc	(rejected hunks)
+@@ -17,7 +17,7 @@
+ namespace {
+ 
+ const char kChromeSchema[] = "chrome://";
+-const char kBraveSchema[] = "brave://";
++const char kBraveSchema[] = "kahf://";
+ }  // namespace
+ 
+ namespace TemplateURLStarterPackData {

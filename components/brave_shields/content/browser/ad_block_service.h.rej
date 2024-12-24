@@ -1,0 +1,10 @@
+diff a/components/brave_shields/content/browser/ad_block_service.h b/components/brave_shields/content/browser/ad_block_service.h	(rejected hunks)
+@@ -124,7 +124,7 @@ class AdBlockService {
+ 
+   void EnableTag(const std::string& tag, bool enabled);
+ 
+-  // Methods for brave://adblock-internals.
++  // Methods for kahf://adblock-internals.
+   using GetDebugInfoCallback =
+       base::OnceCallback<void(base::Value::Dict, base::Value::Dict)>;
+   void GetDebugInfoAsync(GetDebugInfoCallback callback);

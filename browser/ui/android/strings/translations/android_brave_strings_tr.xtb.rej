@@ -1,0 +1,297 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_tr.xtb b/browser/ui/android/strings/translations/android_brave_strings_tr.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Widevine hakkında daha fazla bilgi edinin<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">İzin Ver (Şimdi Yeniden Çalıştır)</translation>
+ <translation id="2433507940547922241">Görünüm</translation>
+-<translation id="9040069796107003510">Brave Ödülleri simgesi</translation>
+-<translation id="6333347122924254968">Adres çubuğunda Brave Ödülleri simgesini göster</translation>
++<translation id="9040069796107003510">Kahf Ödülleri simgesi</translation>
++<translation id="6333347122924254968">Adres çubuğunda Kahf Ödülleri simgesini göster</translation>
+ <translation id="8495235435594442882">Alt araç çubuğunu etkinleştir</translation>
+ <translation id="6587448235155023666">Yaptığınız değişiklikler cihazı yeniden başlattığınızda etkinleşecektir.</translation>
+ <translation id="8701563696941209024">ŞİMDİ YENİDEN BAŞLAT</translation>
+ <translation id="834487290629916192">DAHA SONRA</translation>
+-<translation id="7207456302801184289">Brave'e Hoş Geldiniz</translation>
++<translation id="7207456302801184289">Kahf'e Hoş Geldiniz</translation>
+ <translation id="4117451092682672487">Gizlilik Basit Hale Geldi.</translation>
+-<translation id="7909375417585209817">Brave'i varsayılan olarak ayarladıktan sonra, dokunduğunuz her bağlantı Brave’in gizlilik korumalarıyla açılır.</translation>
++<translation id="7909375417585209817">Kahf'i varsayılan olarak ayarladıktan sonra, dokunduğunuz her bağlantı Kahf’in gizlilik korumalarıyla açılır.</translation>
+ <translation id="7370959926683925817">Reklamları engelleyin. Verileri kaydedin. Her gün.</translation>
+-<translation id="7281027579943912834">Varsayılan olarak Brave'i seçtiğiniz zaman, tıkladığınız her bağlantı Brave'in reklam engelleme korumasına sahip olur. Her sayfa, video ve akış.</translation>
+-<translation id="5148943178722443958">Brave'i daha iyi hale getirmeye yardım edin.</translation>
++<translation id="7281027579943912834">Varsayılan olarak Kahf'i seçtiğiniz zaman, tıkladığınız her bağlantı Kahf'in reklam engelleme korumasına sahip olur. Her sayfa, video ve akış.</translation>
++<translation id="5148943178722443958">Kahf'i daha iyi hale getirmeye yardım edin.</translation>
+ <translation id="6718362830686703942">Kilitlenme veya çökme yaşarsanız tanı raporu gönderin.</translation>
+-<translation id="8616157231067364693">Brave kullanıcılarının hangi özellikleri kullandıklarına dair gizli ve anonim ürün içgörülerini paylaşın.</translation>
++<translation id="8616157231067364693">Kahf kullanıcılarının hangi özellikleri kullandıklarına dair gizli ve anonim ürün içgörülerini paylaşın.</translation>
+ <translation id="2877653791257935258">Bir web sitesi adı ya da URL yazın</translation>
+-<translation id="5329830149661250028">Brave'in farkını görün: Reklam yok. İzleyiciler yok. Sayfa yüklemesi çok daha hızlı.</translation>
+-<translation id="3941792073703079607">Brave farkını görün: Reklamları engelleyin. Verileri kaydedin. Daha hızlı yayın yapın.</translation>
+-<translation id="3545804467215833536">Brave Kalkanlarını görmek için dokunun</translation>
+-<translation id="1724327820822194498">Brave'in Kalkanlar ile her sayfada engellediği zararlı şeyleri görün.</translation>
++<translation id="5329830149661250028">Kahf'in farkını görün: Reklam yok. İzleyiciler yok. Sayfa yüklemesi çok daha hızlı.</translation>
++<translation id="3941792073703079607">Kahf farkını görün: Reklamları engelleyin. Verileri kaydedin. Daha hızlı yayın yapın.</translation>
++<translation id="3545804467215833536">Kahf Kalkanlarını görmek için dokunun</translation>
++<translation id="1724327820822194498">Kahf'in Kalkanlar ile her sayfada engellediği zararlı şeyleri görün.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> ve <ph name="TRACKER"/> diğer reklam &amp; izleyicileri engellendi</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> ve diğer reklam &amp; izleyiciler engellendi</translation>
+ <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> reklam &amp; izleyicisi engellendi</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Ekleme sorunlarının giderilmesi</translation>
+ <translation id="5808759341041733958">Varsayılan arama motorunu seçin</translation>
+ <translation id="1331593888918588693">Tercihinizi daha sonra istediğiniz zaman uygulama içi ayarlardan değiştirebilirsiniz.</translation>
+-<translation id="5806601733251372221">Brave Kalkanları</translation>
++<translation id="5806601733251372221">Kahf Kalkanları</translation>
+ <translation id="8537217141725709400"><ph name="TOKEN"/> Kazanın</translation>
+-<translation id="3333887201479867589">Brave Ödülleri</translation>
++<translation id="3333887201479867589">Kahf Ödülleri</translation>
+ <translation id="5870330605209713397">gizliliğe duyarlı reklamları görüntüleyerek ve favori siteleriniz ile kurucularını varsayılan olarak destekleyin.</translation>
+-<translation id="5302488867897327287">Brave Ödülleri'ni Kullanmaya Başla tuşuna dokunarak şunları kabul etmiş olursunuz:</translation>
++<translation id="5302488867897327287">Kahf Ödülleri'ni Kullanmaya Başla tuşuna dokunarak şunları kabul etmiş olursunuz:</translation>
+ <translation id="4281844954008187215">Kullanım Şartları</translation>
+ <translation id="6871397658902960384">Taramaya başlayın</translation>
+ <translation id="454386012157232640">Bir reklam görmedim</translation>
+-<translation id="1448877943847791441">Brave ilk reklamınızı şu süre içinde gösterecek:</translation>
+-<translation id="4410793187232041318">Şimdi Brave Ads'den jeton kazanacaksın.</translation>
+-<translation id="6511854390690723657">Bu, ilk Brave reklamınız. Daha fazla bilgi almak için tıklayın.</translation>
+-<translation id="2070991379950719711">Brave Ödülleri'ni kullanmaya Başla</translation>
++<translation id="1448877943847791441">Kahf ilk reklamınızı şu süre içinde gösterecek:</translation>
++<translation id="4410793187232041318">Şimdi Kahf Ads'den jeton kazanacaksın.</translation>
++<translation id="6511854390690723657">Bu, ilk Kahf reklamınız. Daha fazla bilgi almak için tıklayın.</translation>
++<translation id="2070991379950719711">Kahf Ödülleri'ni kullanmaya Başla</translation>
+ <translation id="48520986898237073">Cüzdana devam et</translation>
+ <translation id="3570367516044491911">Varsayılan tarayıcı olarak ayarla</translation>
+ <translation id="6800338374677644736">Varsayılan Tarayıcı olarak ayarla</translation>
+-<translation id="19715420010996093">Brave Browser'ı seçin ve 'Her Zaman'a dokunun</translation>
+-<translation id="3546439402724649282">Brave zaten varsayılan tarayıcınız olarak ayarlandı.</translation>
++<translation id="19715420010996093">Kahf Browser'ı seçin ve 'Her Zaman'a dokunun</translation>
++<translation id="3546439402724649282">Kahf zaten varsayılan tarayıcınız olarak ayarlandı.</translation>
+ <translation id="8389661903259423907">Zaten varsayılan bir tarayıcı ayarladınız. Varsayılan tarayıcıvıyı uygulama ayarlarınızda değiştirebilirsiniz.</translation>
+ <translation id="1545749641540134597">Scan QR Code</translation>
+ <translation id="5317781812114905957">Talimatlar</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Kodun süresi doldu. Aşağıdaki butona tıklayarak yeni bir tane oluşturun.</translation>
+ <translation id="318164877797885563">Bu kalıcı kod, önümüzdeki <ph name="TIME_AMOUNT"/> boyunca geçerli olacaktır</translation>
+ <translation id="327726072512457161">Ayarlardan çıkış</translation>
+-<translation id="8050847734948770789">Brave Ödülleri'ni Etkinleştir</translation>
++<translation id="8050847734948770789">Kahf Ödülleri'ni Etkinleştir</translation>
+ <translation id="9187185473011056079">Ben varım!</translation>
+-<translation id="8185825081026121627">Gizliliği koruyan Brave Rewards reklamlarına bakarak Basic Attention Token kazanın.</translation>
++<translation id="8185825081026121627">Gizliliği koruyan Kahf Rewards reklamlarına bakarak Basic Attention Token kazanın.</translation>
+ <translation id="5321518976657560663">Sıfırlama Hatası</translation>
+-<translation id="4114170343590425996">Brave Ödülleri sıfırlanırken bir hata oluştu. Lütfen Brave'i yeniden başlatın ve tekrar deneyin.</translation>
+-<translation id="6417420737057016607">Brave Reklamları</translation>
+-<translation id="5611966874859284786">Brave kullanımda olmadığında bildirim reklamlarını göster</translation>
+-<translation id="6606319453795180219">Bu, Brave Rewards'unuzu siler ve tüm Brave Rewards verilerinizi sıfırlar</translation>
++<translation id="4114170343590425996">Kahf Ödülleri sıfırlanırken bir hata oluştu. Lütfen Kahf'i yeniden başlatın ve tekrar deneyin.</translation>
++<translation id="6417420737057016607">Kahf Reklamları</translation>
++<translation id="5611966874859284786">Kahf kullanımda olmadığında bildirim reklamlarını göster</translation>
++<translation id="6606319453795180219">Bu, Kahf Rewards'unuzu siler ve tüm Kahf Rewards verilerinizi sıfırlar</translation>
+ <translation id="8293206222192510085">Yer İşareti Ekle</translation>
+ <translation id="340492034650766959">Yer İşaretini Sil</translation>
+ <translation id="2149973817440762519">Yer İşaretini Düzenle</translation>
+@@ -465,35 +465,35 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="5582686930349810484">Parmak izi engelli (standart)</translation>
+ <translation id="769702552748212954">Tüm parmak izlerine izin ver</translation>
+ <translation id="876424292214881779">Reklam ve diğer tuhaflıklar engellendi</translation>
+-<translation id="6930134873084561197">Siteler genelde, sizi ve cihazınızı tanımlamaya çalışan çerezler ve küçük programlar içerir. Kim olduğunuzu çözmeye çalışıp, girdiğiniz her sitede ne yaptığınızı izlemek isterler.\n\nBrave, siz takip edilmeden gezinebilmeniz için bu tür şeyleri engeller.</translation>
+-<translation id="8553998445606452168">Brave Shields Hakkında</translation>
++<translation id="6930134873084561197">Siteler genelde, sizi ve cihazınızı tanımlamaya çalışan çerezler ve küçük programlar içerir. Kim olduğunuzu çözmeye çalışıp, girdiğiniz her sitede ne yaptığınızı izlemek isterler.\n\nKahf, siz takip edilmeden gezinebilmeniz için bu tür şeyleri engeller.</translation>
++<translation id="8553998445606452168">Kahf Shields Hakkında</translation>
+ <translation id="8912304686498704084">AÇIK</translation>
+ <translation id="4963218453264888510">KAPALI</translation>
+-<translation id="7474113515179313724">Bu siteyi Brave'in gizlilik koruması olmadan tarıyorsunuz. Shields açıkken doğru çalışmıyor mu?</translation>
++<translation id="7474113515179313724">Bu siteyi Kahf'in gizlilik koruması olmadan tarıyorsunuz. Shields açıkken doğru çalışmıyor mu?</translation>
+ <translation id="4226543734057230801">Ethereum ağları</translation>
+ <translation id="3504157706952484145">Filecoin ağları</translation>
+ <translation id="1561541094377237745">Solana ağları</translation>
+ <translation id="7141438739990875547">Bitcoin ağları</translation>
+ <translation id="9055546041146396417">Bu site bozuk görüntülenirse, Shileds'ı kapatmayı deneyin.</translation>
+ <translation id="1209739344687072997">Arızalı bir siteyi bildir</translation>
+-<translation id="8510478288840333677">Bu sitenin Kalkanlar'la düzgün çalışmadığını Brave geliştiricilerine bildirin:</translation>
+-<translation id="5429200298326665264">Not: Bu site adresi, Brave sürüm numaranız ve IP adresinizle birlikte gönderilecek (depolanmayacak).</translation>
++<translation id="8510478288840333677">Bu sitenin Kalkanlar'la düzgün çalışmadığını Kahf geliştiricilerine bildirin:</translation>
++<translation id="5429200298326665264">Not: Bu site adresi, Kahf sürüm numaranız ve IP adresinizle birlikte gönderilecek (depolanmayacak).</translation>
+ <translation id="5299848999918506028">Teşekkür ederiz!</translation>
+-<translation id="76550953340008122">Bu sitede yanlış bir şeyler olduğunu Brave geliştiricilerine bildirdiğiniz için teşekkür ederiz. Düzeltmek için elimizden geleni yapacağız!</translation>
++<translation id="76550953340008122">Bu sitede yanlış bir şeyler olduğunu Kahf geliştiricilerine bildirdiğiniz için teşekkür ederiz. Düzeltmek için elimizden geleni yapacağız!</translation>
+ <translation id="650318023204990401">Gelişmiş kontroller</translation>
+ <translation id="5370478469168390143">Çevrimiçi Verileri Kaydet</translation>
+-<translation id="1118508688433541158">Brave ile daha hızlı gezinin ve reklamları engelleyin</translation>
+-<translation id="7427391215172269363">İnternette Brave'le gezinerek her gün veriden tasarruf ediyorum.</translation>
+-<translation id="4776948189086901857">Brave her yerde çalışır</translation>
+-<translation id="1606322780901645965">Daha hızlı ve daha mahrem bir web için, Brave'i brave.com adresinden laptopunuza veya tabletinize indirin</translation>
++<translation id="1118508688433541158">Kahf ile daha hızlı gezinin ve reklamları engelleyin</translation>
++<translation id="7427391215172269363">İnternette Kahf'le gezinerek her gün veriden tasarruf ediyorum.</translation>
++<translation id="4776948189086901857">Kahf her yerde çalışır</translation>
++<translation id="1606322780901645965">Daha hızlı ve daha mahrem bir web için, Kahf'i brave.com adresinden laptopunuza veya tabletinize indirin</translation>
+ <translation id="8374242949413616101">Gizlilik koruma</translation>
+-<translation id="4955406228638026265">Brave, reklamların &amp; izleyicilerin sizin hakkınızda rızanız olmadan bilgi toplamalarını engeller.</translation>
++<translation id="4955406228638026265">Kahf, reklamların &amp; izleyicilerin sizin hakkınızda rızanız olmadan bilgi toplamalarını engeller.</translation>
+ <translation id="752842701893882688">Veriden ve bataryadan tasarruf edin</translation>
+ <translation id="1685837926613452362">Reklamlar &amp; izleyiciler olmadan, web siteleri daha az veri ve pil kullanır. Operatör ücretlerinden bile tasarruf edebilirsiniz.</translation>
+ <translation id="5440744330377972191">Websiteleri daha hızlı yüklenir</translation>
+-<translation id="3000738865641747653">Daha az veri yüklenmesi, websitelerinin Brave'de daha hızlı yüklenmesi demek (diğer tarayıcılardan 8 kata kadar daha hızlı).</translation>
++<translation id="3000738865641747653">Daha az veri yüklenmesi, websitelerinin Kahf'de daha hızlı yüklenmesi demek (diğer tarayıcılardan 8 kata kadar daha hızlı).</translation>
+ <translation id="8903462729414407077">Haftalık haber alın</translation>
+-<translation id="7450323860390658083">Ziyaret ettiğiniz web sitelerinden hangilerinin gizliliği en fazla ihlal ettiği hakkında bilgi alın.\n\nBu gizlilik istatistiklerini sadece siz görebilirsiniz. Brave tarayıcısındaki hiçbir kişisel veri veya tarama geçmişi cihazınızı terk etmeyecektir.</translation>
++<translation id="7450323860390658083">Ziyaret ettiğiniz web sitelerinden hangilerinin gizliliği en fazla ihlal ettiği hakkında bilgi alın.\n\nBu gizlilik istatistiklerini sadece siz görebilirsiniz. Kahf tarayıcısındaki hiçbir kişisel veri veya tarama geçmişi cihazınızı terk etmeyecektir.</translation>
+ <translation id="6170159749517116894">Gizlilik raporlarını açın</translation>
+ <translation id="1669047024429367828">Görünürlük</translation>
+ <translation id="5966707198760109579">Hafta</translation>
+@@ -586,9 +586,9 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="1483493594462132177">Gönder</translation>
+ <translation id="538450413584738399">Takas</translation>
+ <translation id="4556086616242530072">Tarayıcıya özgü.\nKendi kendini koruyan.\nVe çok zincirli.</translation>
+-<translation id="7909462264772842773">Kripto ve NFT'lerinizin kontrolünü elinize alın. Brave Cüzdanı Ethereum, EVM zincirleri, Solana, Filecoin ve daha fazlasını destekler.</translation>
++<translation id="7909462264772842773">Kripto ve NFT'lerinizin kontrolünü elinize alın. Kahf Cüzdanı Ethereum, EVM zincirleri, Solana, Filecoin ve daha fazlasını destekler.</translation>
+ <translation id="165255193061631296">Yeni bir cüzdana mı ihtiyacınız var?</translation>
+-<translation id="3485737865439729577">Brave Cüzdanı'nı kullanmaya dakikalar içinde başlayın</translation>
++<translation id="3485737865439729577">Kahf Cüzdanı'nı kullanmaya dakikalar içinde başlayın</translation>
+ <translation id="2759836790106646094">Cüzdanınızı hemen yedekleyin!</translation>
+ <translation id="1078873179929044999">Bir sonraki adımda, ana kripto hesaplarınızı kurtarmak için kullanabileceğiniz 12 kelimelik bir kurtarma tümcesi göreceksiniz. Bu tümceyi güvenli bir yerde saklayın. Kurtarma tümceniz; şifreyi unutmanız, cihazınızın kaybolması veya çalınması ya da cüzdanınızı değiştirmek istemeniz halinde hesabınıza yeniden erişim sağlamanın tek yoludur.</translation>
+ <translation id="2359808026110333948">Devam et</translation>
+@@ -596,7 +596,7 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="1904000155026201268">Kurtarma ifademi kaybedersem kripto cüzdanıma erişemeyeceğimi anlıyorum.</translation>
+ <translation id="5333225216561354793">Aşağıdaki öğeleri kabul etmeniz gerekmektedir</translation>
+ <translation id="6937275455070754004">Cüzdanınızda hangi blok zincirlerini kullanacağınızı seçin.</translation>
+-<translation id="1645800479814134195">Bunun bir kendi kendini koruma cüzdanı olduğunu ve ilişkili fonlardan, varlıklardan veya hesaplardan ve cüzdanımı güvence altına almak, korumak ve yedeklemek için uygun önlemleri almaktan yalnızca benim sorumlu olduğumu anlıyorum. Brave cüzdanıma erişemeyeceğini veya benim adıma işlemleri tersine çeviremeyeceğini ve kurtarma cümlemin kayıp bir parola, çalıntı cihaz veya benzeri bir durum durumunda yeniden erişim kazanmanın TEK yolu olduğunu anlıyorum.</translation>
++<translation id="1645800479814134195">Bunun bir kendi kendini koruma cüzdanı olduğunu ve ilişkili fonlardan, varlıklardan veya hesaplardan ve cüzdanımı güvence altına almak, korumak ve yedeklemek için uygun önlemleri almaktan yalnızca benim sorumlu olduğumu anlıyorum. Kahf cüzdanıma erişemeyeceğini veya benim adıma işlemleri tersine çeviremeyeceğini ve kurtarma cümlemin kayıp bir parola, çalıntı cihaz veya benzeri bir durum durumunda yeniden erişim kazanmanın TEK yolu olduğunu anlıyorum.</translation>
+ <translation id="4565891212173086999"><ph name="CLICK_START"/>Kullanım Koşulları<ph name="CLICK_END"/>nı okudum ve kabul ediyorum.</translation>
+ <translation id="3933122286596948824">Kurtarma ifadeniz</translation>
+ <translation id="5077747669435508720">Bu sözcükleri aşağıda gösterilenle aynı sırada bir yere yazın veya kopyalayın ve güvenli bir yerde saklayın. Kurtarma cümleniz şifreyi unutmanız, cihazınızın kaybolması/çalınması veya cüzdanınızı değiştirmek istemeniz durumlarında hesabınıza yeniden erişim sağlamanın tek yoludur.</translation>
+@@ -617,13 +617,13 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="8030647312184163932">Parmak iziyle kilit açma</translation>
+ <translation id="4090490645603511157">Şifrenizi girmeden cüzdanınızın kilidini çabucak açmak için biyometrik verilerinizi kullanın.</translation>
+ <translation id="1544192797660353713">Cüzdan</translation>
+-<translation id="6901810042765869341">Brave Wallet kripto hesabınızı geri yüklemek için kurtarma ifadenizi girin.</translation>
++<translation id="6901810042765869341">Kahf Wallet kripto hesabınızı geri yüklemek için kurtarma ifadenizi girin.</translation>
+ <translation id="9120654436199628567">Kripto hesabını geri yükleyin</translation>
+ <translation id="4811736040444856406">Kurtarma ifadesini göster</translation>
+ <translation id="283071225285270357">Kurtarma ifadenizi girin</translation>
+ <translation id="3943857333388298514">Yapıştır</translation>
+ <translation id="3331452756822160641">Yeni Şifre</translation>
+-<translation id="4359319875297001084">Eski Brave kripto cüzdanlarından içe aktarılsın mı?</translation>
++<translation id="4359319875297001084">Eski Kahf kripto cüzdanlarından içe aktarılsın mı?</translation>
+ <translation id="2339124864228588937">Kurtarma ifadesini doğrulayın</translation>
+ <translation id="3747079125031086337">Kurtarma cümlenizdeki kelimeleri doğru sırada seçin.</translation>
+ <translation id="6518133107902771759">Doğrula</translation>
+@@ -657,8 +657,8 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="5760476995887363522">Tümceler eşleşmedi. Lütfen tekrar deneyin.</translation>
+ <translation id="2360588547830602174">Hesap kurtarılamadı. Lütfen tekrar deneyin.</translation>
+ <translation id="1987317783729300807">Hesaplar</translation>
+-<translation id="6284218950354553099">Günlük kullanım ping'ini Brave'e otomatik olarak gönder</translation>
+-<translation id="2181060149810222381">Bu özel ping, Brave'in aktif kullanıcıları tahmin etmesine olanak tanır.</translation>
++<translation id="6284218950354553099">Günlük kullanım ping'ini Kahf'e otomatik olarak gönder</translation>
++<translation id="2181060149810222381">Bu özel ping, Kahf'in aktif kullanıcıları tahmin etmesine olanak tanır.</translation>
+ <translation id="6725413948756358325">Hesap İsmi</translation>
+ <translation id="6062431965141524986">Özel anahtarınızı içe aktararak ikincil bir hesap oluşturabilirsiniz.</translation>
+ <translation id="3952797765659730604">Özel anahtar dize dosyanızı veya JSON'unuzu girin, yapıştırın ya da içe aktarın.</translation>
+@@ -680,14 +680,14 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="1721710839767183848">Sayfada reklam yok</translation>
+ <translation id="4647035642622555398">Kesinti yok</translation>
+ <translation id="4122515759479497554">Videoları ara</translation>
+-<translation id="4449475351935531438">Brave Güvenlik Duvarı + VPN</translation>
++<translation id="4449475351935531438">Kahf Güvenlik Duvarı + VPN</translation>
+ <translation id="719977489961414786">Bağlantınızı korumak ve her yerdeki istenmeyen izleyicileri engellemek için bir VPN'e yükseltin.</translation>
+ <translation id="8814357473522731680">Destekleyen:</translation>
+ <translation id="5892534145504632332">Her uygulamayı ve tüm cihazınızı koruyun</translation>
+ <translation id="7195416926059527505">Ev veya ortak Wi-Fi için daha güvenlidir</translation>
+ <translation id="1354700000739359839">Çok hızlıdır, 100 Mbps'ye kadar</translation>
+ <translation id="3510283489391432976">Coğrafi/ülke konumuzunu seçin</translation>
+-<translation id="7695158478627528928">Brave, sizin aktivitenizi asla kaydetmez</translation>
++<translation id="7695158478627528928">Kahf, sizin aktivitenizi asla kaydetmez</translation>
+ <translation id="4575683170451975058">1 abonelikle 5 cihazı koruyun</translation>
+ <translation id="4882693590083943563">Tüm planlar bir <ph name="TRIAL_DAYS"/> içerir</translation>
+ <translation id="487741927046441232">ücretsiz 7 günlük deneme!</translation>
+@@ -698,14 +698,14 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
+ <translation id="1163809943099641131">Bir Yıl</translation>
+ <translation id="172859718096975160">Yıllık olarak yenileyin vve <ph name="DISCOUNT_TEXT_START"/>%%<ph name="PERCENTAGE_AMOUNT"/> tasarruf edin<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / yıl</translation>
+-<translation id="5125233570742276182">Abonelikler Google hesabınız üzerinden ücretlendirilir. Ücretsiz deneme sürümünün kullanılmayan herhangi bir kısmı, teklif edilirse, bir abonelik satın ettiğinizde kaybedilir. \n\nGeçerli dönemin bitiminden en az 24 saat önce iptal edilmediği sürece aboneliğiniz otomatik olarak yenilenir.\n\nAboneliklerinizi Ayarlar'dan yönetebilirsiniz.\nBrave'i kullanarak Kullanım Koşullarını ve Gizlilik Politikasını kabul etmiş olursunuz.</translation>
++<translation id="5125233570742276182">Abonelikler Google hesabınız üzerinden ücretlendirilir. Ücretsiz deneme sürümünün kullanılmayan herhangi bir kısmı, teklif edilirse, bir abonelik satın ettiğinizde kaybedilir. \n\nGeçerli dönemin bitiminden en az 24 saat önce iptal edilmediği sürece aboneliğiniz otomatik olarak yenilenir.\n\nAboneliklerinizi Ayarlar'dan yönetebilirsiniz.\nKahf'i kullanarak Kullanım Koşullarını ve Gizlilik Politikasını kabul etmiş olursunuz.</translation>
+ <translation id="5035172357624830412">brave.com adresinden zaten satın aldınız mı?</translation>
+ <translation id="713136183174551885">Kimlik bilgilerinizi yenileyin</translation>
+ <translation id="6053992191006521518">ÜCRETSİZ olarak deneyin</translation>
+ <translation id="5903391101107992067">7 Gün Ücretsiz Deneyin</translation>
+ <translation id="721747358270435486">VPN'i Yükle</translation>
+ <translation id="836074276610740314">VPN Profilini Yükle</translation>
+-<translation id="8021842065465097929">Brave şimdi bir VPN profili yükleyecek.</translation>
++<translation id="8021842065465097929">Kahf şimdi bir VPN profili yükleyecek.</translation>
+ <translation id="229286271464650057">Bu profil VPN'in otomatik olarak bağlanmasına ve cihazınızda trafiğin her uygulamada ve devamlı olarak güvenli hale getirilmesine izin verir. Bu VPN bağlantısı şifrelenecek, reklam ve izleyicilerin engellenmesi için Guardian'ın akıllı güvenlik duvarından geçirilecektir.</translation>
+ <translation id="9073255657908892407">Teknik Destekle İletişime Geçin</translation>
+ <translation id="1139934321138152517">VPN şimdi etkin</translation>
+@@ -933,19 +933,19 @@ Bu talebi kabul etmezseniz VPN yeniden bağlanmaz ve internet bağlantınız gü
+ <translation id="7002577172732106572">Tünellemeyi Ayır</translation>
+ <translation id="8181161042860463420">İlişkili belirteç hesabı henüz mevcut değil. Oluşturmak ve finanse etmek için küçük miktarda SOL harcanacaktır. <ph name="CLICK_START"/>Daha fazla bilgi edinin<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">VPN Profili Güncelleniyor ...</translation>
+-<translation id="7457027586454688423">Brave Wallet parolanızı girin</translation>
+-<translation id="4784306439879850873">Brave'in imzalamanız halinde ne olacağını doğrulayamayacağını unutmayın. Bir imza, hesabınıza ve adınıza yapılacak, hesabınızın ve kripto varlıklarınızın tam kontrolünü talepte bulunan siteye devretmek de dahil olmak üzere (fakat bununla sınırlı olmaksızın) neredeyse her türlü değişikliği yetkilendirebilir. Sadece bu eylemi gerçekleştirmek istediğinizden eminseniz ve talepte bulunan siteye güveniyorsanız imzalayın.</translation>
++<translation id="7457027586454688423">Kahf Wallet parolanızı girin</translation>
++<translation id="4784306439879850873">Kahf'in imzalamanız halinde ne olacağını doğrulayamayacağını unutmayın. Bir imza, hesabınıza ve adınıza yapılacak, hesabınızın ve kripto varlıklarınızın tam kontrolünü talepte bulunan siteye devretmek de dahil olmak üzere (fakat bununla sınırlı olmaksızın) neredeyse her türlü değişikliği yetkilendirebilir. Sadece bu eylemi gerçekleştirmek istediğinizden eminseniz ve talepte bulunan siteye güveniyorsanız imzalayın.</translation>
+ <translation id="3474375934783434676">İmza riski size aittir</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> / <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">İşlemi onayla</translation>
+ <translation id="6450792191436242818">Sistem Programı</translation>
+-<translation id="5318067544026930166">Brave Cüzdanı'nın kilidini biyometrik kimlik doğrulama ile aç</translation>
+-<translation id="2629767022373384291">Brave Cüzdanı'nın kilidini açmak için biyometrik kimlik doğrulamayı kullanmak ister misiniz?</translation>
++<translation id="5318067544026930166">Kahf Cüzdanı'nın kilidini biyometrik kimlik doğrulama ile aç</translation>
++<translation id="2629767022373384291">Kahf Cüzdanı'nın kilidini açmak için biyometrik kimlik doğrulamayı kullanmak ister misiniz?</translation>
+ <translation id="4782919977106118997">Parmak İziyle Kilit Açmayı Kullan</translation>
+ <translation id="2054995875643283428">Bunu şimdilik atla</translation>
+ <translation id="2522605225061484799">Portföyüme git</translation>
+ <translation id="1148624853678088576">Artık hazırsınız!</translation>
+-<translation id="4131445988101719379">Brave Cüzdanınız kullanıma hazır</translation>
++<translation id="4131445988101719379">Kahf Cüzdanınız kullanıma hazır</translation>
+ <translation id="6252742184395380448">Konfig Programı</translation>
+ <translation id="5358970666412490132">Paydaş Programı</translation>
+ <translation id="346636227344244984">Oy Programı</translation>
+@@ -1017,22 +1017,22 @@ Bu talebi kabul etmezseniz VPN yeniden bağlanmaz ve internet bağlantınız gü
+ <translation id="1313065465616456728">Yayınlanma tarihi</translation>
+ <translation id="7902225556763260253">Son kullanma tarihi</translation>
+ <translation id="1908159733454294871">Güvenlik riski tespit edildi</translation>
+-<translation id="5658257029899993935">Satın alımı Brave hesabınıza bağlayın</translation>
+-<translation id="1187061015547219282">Brave VPN'i diğer cihazlarda kullanmak için Play Store satın alımınızı Brave hesabınıza bağlayın.</translation>
++<translation id="5658257029899993935">Satın alımı Kahf hesabınıza bağlayın</translation>
++<translation id="1187061015547219282">Kahf VPN'i diğer cihazlarda kullanmak için Play Store satın alımınızı Kahf hesabınıza bağlayın.</translation>
+ <translation id="6662142137695589205">VPN aboneliğinizi bağlayın</translation>
+-<translation id="2674077112509133024">Brave Güvenlik Duvarı + VPN korumanızı genişletin</translation>
+-<translation id="6365389672683343144">Brave VPN aboneliğiniz; Android, iOS ve masaüstü genelinde 5 cihaza kadar koruma sağlayabilir. Sadece Google Play aboneliğinizi Brave hesabınıza bağlayın.</translation>
++<translation id="2674077112509133024">Kahf Güvenlik Duvarı + VPN korumanızı genişletin</translation>
++<translation id="6365389672683343144">Kahf VPN aboneliğiniz; Android, iOS ve masaüstü genelinde 5 cihaza kadar koruma sağlayabilir. Sadece Google Play aboneliğinizi Kahf hesabınıza bağlayın.</translation>
+ <translation id="6610899852831463073">Güvenli Tarama etkinleştirilemiyor</translation>
+ <translation id="7954263306665462056">Güvenli Tarama, cihazınızda devre dışı bırakıldı. Etkinleştirmek için Google Play hizmetlerinin yüklendiğinden ve güncel olduğundan emin olun.</translation>
+ <translation id="6605147707233193230">İçerik oluşturucuları desteklemeye yardımcı olmak için açın</translation>
+ <translation id="1609556006143307897">İçerik oluşturucuları desteklemeye yardımcı oluyorsunuz</translation>
+-<translation id="6067959437127691361">Brave Ödüllerini kullanmak, içerik oluşturucuların desteklenmesine yardımcı olur ve BAT kazanmanızı sağlar.</translation>
++<translation id="6067959437127691361">Kahf Ödüllerini kullanmak, içerik oluşturucuların desteklenmesine yardımcı olur ve BAT kazanmanızı sağlar.</translation>
+ <translation id="3264975266761862670">Kazanmaya hazır mısınız?</translation>
+ <translation id="265337947574975838">Bağlanın veya ortaklarımızdan biriyle bir hesap oluşturun.</translation>
+ <translation id="654447476965480878">BAT kazanmak hakkında daha fazla bilgi alın</translation>
+ <translation id="6278643716658443228">Ödüller ayarları</translation>
+ <translation id="6516984207843289176">Hesabı bağla</translation>
+-<translation id="4272136334824111854">Bu ay, Brave Ödülleri tarafından desteklenen <ph name="CREATOR_COUNT"/> oluşturucuyu ziyaret ettiniz</translation>
++<translation id="4272136334824111854">Bu ay, Kahf Ödülleri tarafından desteklenen <ph name="CREATOR_COUNT"/> oluşturucuyu ziyaret ettiniz</translation>
+ <translation id="6845311459433734326">BAT kazanmak ve kazançlarınızı çekmek için bir korumalı hesabı bağlayın</translation>
+ <translation id="928980476243133540">Daha sonra yapacağım</translation>
+ <translation id="579702532610384533">Tekrar bağlan</translation>
+@@ -1065,8 +1065,8 @@ Bu talebi kabul etmezseniz VPN yeniden bağlanmaz ve internet bağlantınız gü
+ <translation id="346505172740911461">Piyasa Fiyatı</translation>
+ <translation id="5494920125229734069">Tümünü seç</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Brave Cüzdan'la oturum açın</translation>
+-<translation id="3696514931437952995"><ph name="ORIGIN"/> adresinde oturum açıyorsunuz. Brave Cüzdanı, cüzdan adresinizi <ph name="ORIGIN"/> ile paylaşacak.</translation>
++<translation id="8613144770663526433">Kahf Cüzdan'la oturum açın</translation>
++<translation id="3696514931437952995"><ph name="ORIGIN"/> adresinde oturum açıyorsunuz. Kahf Cüzdanı, cüzdan adresinizi <ph name="ORIGIN"/> ile paylaşacak.</translation>
+ <translation id="1028781062521375153">Detayları gör</translation>
+ <translation id="6759710362319508545">Kaynaklar</translation>
+ <translation id="2471230424465522689">En erken</translation>
+@@ -1075,7 +1075,7 @@ Bu talebi kabul etmezseniz VPN yeniden bağlanmaz ve internet bağlantınız gü
+ <translation id="4109670531935487117">Adres çubuğunda otomatik tamamlamayı göster</translation>
+ <translation id="1250335737108905610">Sıfırlayın ve Leo verilerini temizleyin</translation>
+ <translation id="6165101586663336913">Leo asistanının sıfırlanması; ileride Leo'yu kullanmak istediğinizde asistanı kendiniz açmanızı gerektirecektir ve aynı zamanda sohbet geçmişinizi de temizleyecektir. Sohbet geçmişinin temizlenmesi, Leo ile yaptığınız önceki tüm görüşmeleri silecektir. Bu işlem geri alınamaz.</translation>
+-<translation id="3692772534525889713">Brave Leo'yu diğer cihazlarda kullanmak için Play Store satın alma işleminizi Brave hesabınıza bağlayın.</translation>
++<translation id="3692772534525889713">Kahf Leo'yu diğer cihazlarda kullanmak için Play Store satın alma işleminizi Kahf hesabınıza bağlayın.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Aylık</translation>
+ <translation id="451189393813405346">Leo'ya Sorun</translation>

@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_ko.xtb b/app/resources/brave_generated_resources_ko.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@
+ <translation id="1970435562892104727">Tor 비공개 창입니다</translation>
+ <translation id="1037341607922068025">Tor 비공개 창 열기</translation>
+ <translation id="607982085107926247">Tor에서 열기: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">다른 디바이스에서 이 Brave 동기화 계정이 삭제되었습니다. 동기화를 비활성화할 의도가 아니라면 <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">다른 디바이스에서 이 Kahf 동기화 계정이 삭제되었습니다. 동기화를 비활성화할 의도가 아니라면 <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>계정을 새로 만드세요.</translation>
+ <translation id="6965382102122355670">좋습니다</translation>
+-<translation id="3975865347033939965">동기화 서비스를 시작할 수 없습니다. Brave Sync가 미실행 중입니다.</translation>
++<translation id="3975865347033939965">동기화 서비스를 시작할 수 없습니다. Kahf Sync가 미실행 중입니다.</translation>
+ <translation id="4450893287417543264">다시 표시하지 않음</translation>
+ <translation id="4595286989346610620">세부정보 확인</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@
+ <translation id="4759098689276706664">강제 붙여넣기</translation>
+ <translation id="1434416574322382019">Tor와 함께하는 새로운 비공개 윈도우</translation>
+ <translation id="4703780849509456860">Tor와 함께 비공개 윈도우에서 링크 열기</translation>
+-<translation id="3488584642074079080">Brave 비공개 창의 링크를 Tor로 열기</translation>
++<translation id="3488584642074079080">Kahf 비공개 창의 링크를 Tor로 열기</translation>
+ <translation id="6313675821927505581">Tor를 이용한 새로운 비공개 윈도우</translation>
+ <translation id="2638041073279639246">Tor를 이용해 비공개 윈도우에서 링크 열기</translation>
+-<translation id="3425600262621021599">Tor를 이용해 Brave 비공개 윈도우에서 링크 열기</translation>
+-<translation id="2545072023356206691">2023년 12월 1일부터 Brave Dev 채널이 더 이상 브라우저 업데이트를 수신하지 않습니다. 기존 이용자는 Brave Nightly, Beta 또는 Release 버전으로 전환하기를 권장합니다.</translation>
++<translation id="3425600262621021599">Tor를 이용해 Kahf 비공개 윈도우에서 링크 열기</translation>
++<translation id="2545072023356206691">2023년 12월 1일부터 Kahf Dev 채널이 더 이상 브라우저 업데이트를 수신하지 않습니다. 기존 이용자는 Kahf Nightly, Beta 또는 Release 버전으로 전환하기를 권장합니다.</translation>
+ <translation id="474217410105706308">탭 음소거</translation>
+-<translation id="2804710924397009224">Brave Rewards 아이콘 숨기기</translation>
+-<translation id="5029193871181468990">Brave Rewards 아이콘 숨기기</translation>
+-<translation id="2808103541110899519">Brave 월렛 아이콘 숨기기</translation>
+-<translation id="7595540212376041331">Brave 월렛 아이콘 숨기기</translation>
++<translation id="2804710924397009224">Kahf Rewards 아이콘 숨기기</translation>
++<translation id="5029193871181468990">Kahf Rewards 아이콘 숨기기</translation>
++<translation id="2808103541110899519">Kahf 월렛 아이콘 숨기기</translation>
++<translation id="7595540212376041331">Kahf 월렛 아이콘 숨기기</translation>
+ <translation id="4928988318462976765">웹 익스텐션 스토어</translation>
+ <translation id="9181207987584064303">웹 익스텐션 스토어에서 보기</translation>
+-<translation id="3161744659507801211">경고: Brave는 확장 기능이 여러분의 브라우징 기록을 기록하는 것을 막을 수 없습니다.</translation>
++<translation id="3161744659507801211">경고: Kahf는 확장 기능이 여러분의 브라우징 기록을 기록하는 것을 막을 수 없습니다.</translation>
+ <translation id="2162109630536601963">이 확장 기능이 네트워크 요청을 생성할 경우, 이는 Tor나 프라이빗 모드를 사용하지 않을 것입니다.</translation>
+ <translation id="2725327089319971976">이 확장 기능을 개인 정보 보호 모드와 Tor 모드에서 비활성화하려면, 이 옵션을 선택 해제하십시오.</translation>
+-<translation id="3371343170427636147">Brave 브라우저 야간 앱</translation>
+-<translation id="4097979995947147464">Brave 브라우저 베타 앱</translation>
+-<translation id="8303432794159193481">Brave 브라우저 개발 앱</translation>
+-<translation id="8292967014767479012">Brave 브라우저 앱</translation>
+-<translation id="4743468424889072281">Brave 브라우저 개발 앱</translation>
++<translation id="3371343170427636147">Kahf 브라우저 야간 앱</translation>
++<translation id="4097979995947147464">Kahf 브라우저 베타 앱</translation>
++<translation id="8303432794159193481">Kahf 브라우저 개발 앱</translation>
++<translation id="8292967014767479012">Kahf 브라우저 앱</translation>
++<translation id="4743468424889072281">Kahf 브라우저 개발 앱</translation>
+ <translation id="5039804452771397117">허용</translation>
+ <translation id="7053983685419859001">차단</translation>
+-<translation id="1679356339067548863">Brave 브라우저가 작동이 멎거나 프리징이 발생하면 진단 보고서를 자동 전송하여 Brave 제품 안정성 향상에 도움을 주세요.</translation>
++<translation id="1679356339067548863">Kahf 브라우저가 작동이 멎거나 프리징이 발생하면 진단 보고서를 자동 전송하여 Kahf 제품 안정성 향상에 도움을 주세요.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/>가 예기치 않게 종료되었습니다.</translation>
+-<translation id="1324417023773393937">Brave 브라우저</translation>
++<translation id="1324417023773393937">Kahf 브라우저</translation>
+ <translation id="7276554663454265692"><ph name="SETTING_TEXT"/>은 언제든지 브라우저 설정에서 다시 변경할 수 있습니다.</translation>
+ <translation id="6873781976650514089">이 설정</translation>
+ <translation id="4684633335323013758">이 사이트가 <ph name="PART_ONE"/>대략적인 위치 정보<ph name="PART_ONE_END"/>를 요청했습니다. <ph name="PART_TWO"/>자세히 알아보기<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">이 사이트가 <ph name="PART_ONE"/>정밀한 위치 정보<ph name="PART_ONE_END"/>를 요청했습니다. <ph name="PART_TWO"/>자세히 알아보기<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">이 사이트가 <ph name="PART_ONE"/>정밀한 위치 정보<ph name="PART_ONE_END"/>를 요청했습니다. 지금은 Brave가 <ph name="PART_TWO"/>대략적인 위치<ph name="PART_TWO_END"/>만 제공할 수 있는데, 이유는 <ph name="PART_THREE"/>위치 서비스<ph name="PART_THREE_END"/>가 활성화되어 있기 때문입니다. <ph name="PART_FOUR"/>자세히 알아보기<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">이 사이트가 <ph name="PART_ONE"/>정밀한 위치 정보<ph name="PART_ONE_END"/>를 요청했습니다. 지금은 Kahf가 <ph name="PART_TWO"/>대략적인 위치<ph name="PART_TWO_END"/>만 제공할 수 있는데, 이유는 <ph name="PART_THREE"/>위치 서비스<ph name="PART_THREE_END"/>가 활성화되어 있기 때문입니다. <ph name="PART_FOUR"/>자세히 알아보기<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">모두 닫기</translation>
+ <translation id="7658239707568436148">취소</translation>
+ <translation id="4870911314065352661">모든 탭을 닫으시겠습니까?</translation>
+ <translation id="7551864359422178684">이 브라우저 창에 탭 <ph name="NUMBER_OF_TABS"/>개가 열려 있습니다.</translation>
+ <translation id="2571596981920752023">탭 <ph name="NUMBER_OF_TABS"/>개</translation>
+ <translation id="1307431692088049276">다시 묻지 않기</translation>
+-<translation id="6919364924256365253">Google과 Bing은 저리 가고, Brave는 어서 오고.</translation>
+-<translation id="2640297688005939449">Brave는 사용자를 프로파일링하지 않습니다. 그리고 100% 독립적입니다.</translation>
++<translation id="6919364924256365253">Google과 Bing은 저리 가고, Kahf는 어서 오고.</translation>
++<translation id="2640297688005939449">Kahf는 사용자를 프로파일링하지 않습니다. 그리고 100% 독립적입니다.</translation>
+ <translation id="7295094278358921487">검색하고 찾는 걸 남들은 알 수 없도록.</translation>
+-<translation id="3462465068145800637">Brave는 사용자를 프로파일링하지 않습니다. 그리고 빅테크 기업으로부터 100% 독립적입니다.</translation>
++<translation id="3462465068145800637">Kahf는 사용자를 프로파일링하지 않습니다. 그리고 빅테크 기업으로부터 100% 독립적입니다.</translation>
+ <translation id="42032117189492785">고유한 색인을 갖춘 AI 기반 검색.</translation>
+ <translation id="8606416238399082160">프라이버시 완벽 보호, 100% 독립적, 뛰어난 AI 기능.</translation>
+-<translation id="7706528608480893054">DDG는 모양만 다른 Bing일 뿐입니다. 진정한 프라이버시, 더 나은 결과, 독립된 색인을 이용할 때입니다. Brave 검색을 이용하세요.</translation>
++<translation id="7706528608480893054">DDG는 모양만 다른 Bing일 뿐입니다. 진정한 프라이버시, 더 나은 결과, 독립된 색인을 이용할 때입니다. Kahf 검색을 이용하세요.</translation>
+ <translation id="3818133234428578803">덕덕 바이바이</translation>
+-<translation id="14817360483752259">Brave는 사용자 개인, 검색어, 클릭 내역을 추적하지 않습니다. 그리고 (DDG처럼) Bing을 모양만 바꾼 게 아닙니다.</translation>
++<translation id="14817360483752259">Kahf는 사용자 개인, 검색어, 클릭 내역을 추적하지 않습니다. 그리고 (DDG처럼) Bing을 모양만 바꾼 게 아닙니다.</translation>
+ <translation id="4381193110021038941">더 나은 검색 결과</translation>
+-<translation id="3846545273704969734">Brave 검색은 독립적인 기관에 의해 Bing(이나 DuckDuckGo와 같은 Bing 변형)에 비해 더 나은 결과를 제공한다고 검증되었습니다.</translation>
++<translation id="3846545273704969734">Kahf 검색은 독립적인 기관에 의해 Bing(이나 DuckDuckGo와 같은 Bing 변형)에 비해 더 나은 결과를 제공한다고 검증되었습니다.</translation>
+ <translation id="2841164160723712537">검색 결과 개선</translation>
+-<translation id="4639001639513524869">Brave 검색은 DuckDuckGo보다 대부분의 검색어에서 결과가 더 뛰어납니다. 그리고 완벽하게 프라이버시를 보호합니다.</translation>
+-<translation id="5240031343741051161">Brave Search 이용하기</translation>
++<translation id="4639001639513524869">Kahf 검색은 DuckDuckGo보다 대부분의 검색어에서 결과가 더 뛰어납니다. 그리고 완벽하게 프라이버시를 보호합니다.</translation>
++<translation id="5240031343741051161">Kahf Search 이용하기</translation>
+ <translation id="5234764350956374838">숨기기</translation>
+-<translation id="8722651357687610395">Brave를 기본으로 설정</translation>
++<translation id="8722651357687610395">Kahf를 기본으로 설정</translation>
+ <translation id="2370739752330685659">나중에</translation>
+-<translation id="5100490448228945668">Brave 검색 전환을 닫고 Enter를 누르면 이 추천 항목을 제거합니다.</translation>
++<translation id="5100490448228945668">Kahf 검색 전환을 닫고 Enter를 누르면 이 추천 항목을 제거합니다.</translation>
+ <translation id="9194637241566114638">익명 사용 데이터를 보내 <ph name="SEARCH_NAME"/> 개선을 돕습니다.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave 검색</translation>
++<translation id="7404610376221341525">Kahf 검색</translation>
+ <translation id="8184318863960255706">추가 정보</translation>
+ <translation id="780301667611848630">아니요, 괜찮습니다.</translation>
+-<translation id="1162706247109707219">확인을 클릭하면 Windows 10 이상으로 업데이트할 때까지 설치된 Brave에 매우 중요한 보안 픽스를 받지 못한다는 사실에 동의합니다. 이 경고는 다시 표시되지 않습니다.</translation>
+-<translation id="9164786361657554526">확인을 클릭하면 macOS 10.15 이상으로 업데이트할 때까지 설치된 Brave에 매우 중요한 보안 픽스를 받지 못한다는 사실에 동의합니다. 이 경고는 다시 표시되지 않습니다.</translation>
++<translation id="1162706247109707219">확인을 클릭하면 Windows 10 이상으로 업데이트할 때까지 설치된 Kahf에 매우 중요한 보안 픽스를 받지 못한다는 사실에 동의합니다. 이 경고는 다시 표시되지 않습니다.</translation>
++<translation id="9164786361657554526">확인을 클릭하면 macOS 10.15 이상으로 업데이트할 때까지 설치된 Kahf에 매우 중요한 보안 픽스를 받지 못한다는 사실에 동의합니다. 이 경고는 다시 표시되지 않습니다.</translation>
+ <translation id="2770465223704140727">목록에서 제거</translation>
+ <translation id="6020553119523541665">이미 다른 창에 이 탭이 활성화되어 있음</translation>
+ <translation id="4987392683074136770">이 탭을 클릭하면 콘텐츠를 이 창으로 가져옵니다.</translation>
+@@ -299,8 +299,8 @@
+ <translation id="6453210454707928697">항목 재생 실패</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>]이(가) 만료되었을 수 있습니다. 복구하시겠습니까?</translation>
+ <translation id="6155018868740116868">복구</translation>
+-<translation id="1727684853006449697">Brave 플레이어</translation>
+-<translation id="9156965752763025780">변경사항은 다음에 Brave을 다시 시작할 때 적용됩니다.</translation>
++<translation id="1727684853006449697">Kahf 플레이어</translation>
++<translation id="9156965752763025780">변경사항은 다음에 Kahf을 다시 시작할 때 적용됩니다.</translation>
+ <translation id="7179921470347911571">지금 다시 실행</translation>
+ <translation id="1426410128494586442">예</translation>
+ <translation id="4250680216510889253">아니요</translation>
+@@ -339,7 +339,7 @@
+ <translation id="8820817407110198400">북마크</translation>
+ <translation id="4144468798716165316">빠른 명령</translation>
+ <translation id="7310387888625228830">레오 AI 어시스턴트</translation>
+-<translation id="5222974844674487962">Brave News 버튼 표시</translation>
++<translation id="5222974844674487962">Kahf News 버튼 표시</translation>
+ <translation id="383007806262310953">북마크바 표시</translation>
+ <translation id="4054323497808446566">모든 페이지에서 북마크 바 표시</translation>
+ <translation id="8693858092251192712">새 탭 페이지를 제외한 모든 페이지에서 북마크 바 숨김</translation>
+@@ -440,7 +440,7 @@
+ <translation id="4891600875049212418">민감한 사이트 방문 시 오프더레코드 활성화</translation>
+ <translation id="1968895725257436430">데이터 수집</translation>
+ <translation id="4846154056248462491">나갈 때</translation>
+-<translation id="2808630562319398131">Brave 리워드 데이터 재설정...</translation>
++<translation id="2808630562319398131">Kahf 리워드 데이터 재설정...</translation>
+ <translation id="6438096877646138757">닫으면 쿠키가 삭제되는 사이트</translation>
+ <translation id="2988792685798128092">사이트를 닫으면 삭제</translation>
+ <translation id="7702907602086592255">도메인</translation>
+@@ -694,7 +694,7 @@ Brave 레오와 나눴던 모든 대화가 삭제됩니다.
+ <translation id="7131172845656551327">서버 측 프레임워크로의 요청에 표시되는 모델의 이름. 예: phi-3 (이 이름이 서버 측 프레임워크에서 기대하는 것과 정확하게 일치하지 않으면 통합이 작동하지 않음)</translation>
+ <translation id="3286410514484292784">서버 측 프레임워크가 요청을 수신하는 URL입니다. 잘 모르겠으면 서버 측 프레임워크 문서를 확인하시기 바랍니다. 예를 들어, Ollama의 경우 항상 http://localhost:11434/v1/chat/completions입니다.</translation>
+ <translation id="1058790648388035953">몇몇 서버 측 프레임워크가 API 키나 액세스 토큰 등, 인증 자격증명을 요구할 수 있습니다. 요청 헤더에 추가됩니다.</translation>
+-<translation id="217141195370578385">Brave는 이들 요청을 프록시하지 않습니다. 선택된 제공자의 프라이버시 조항을 읽으세요.</translation>
++<translation id="217141195370578385">Kahf는 이들 요청을 프록시하지 않습니다. 선택된 제공자의 프라이버시 조항을 읽으세요.</translation>
+ <translation id="2645532768679870478">안전한 데이터 전송을 위해서는 비로컬 엔드포인트에 HTTPS 프로토콜이 채용되어 있어야 합니다.</translation>
+ <translation id="8177205483022887785">유효하지 않은 URL을 입력했습니다. 유효한 URL을 입력하세요.</translation>
+ <translation id="5249539665306267943">새 모델 추가</translation>

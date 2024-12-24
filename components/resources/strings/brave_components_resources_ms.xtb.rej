@@ -1,0 +1,333 @@
+diff a/components/resources/strings/brave_components_resources_ms.xtb b/components/resources/strings/brave_components_resources_ms.xtb	(rejected hunks)
+@@ -168,36 +168,36 @@
+ <translation id="5334844597069022743">Lihat sumber</translation>
+ <translation id="4720556299488643018">Henti langganan</translation>
+ <translation id="1209739344687072997">Laporkan laman yang terputus-putus</translation>
+-<translation id="8510478288840333677">Beritahu pembangun Brave yang laman ini tidak berfungsi dengan baik dengan Shields:</translation>
++<translation id="8510478288840333677">Beritahu pembangun Kahf yang laman ini tidak berfungsi dengan baik dengan Shields:</translation>
+ <translation id="3110968385867124099">Halaman ini tidak dapat dilaporkan kerana ia tidak dapat digunakan melalui HTTP/HTTPS.</translation>
+ <translation id="7907023135990310743">Halaman ini ialah halaman web setempat dan ia tidak layak untuk pelaporan.</translation>
+ <translation id="3645455863322075098">Halaman ini ialah halaman ralat dan ia tidak layak untuk pelaporan.</translation>
+-<translation id="105644511106871142">Terima kasih kerana membantu dalam menambah baik Brave untuk semua pengguna. Laporan ini hanya akan menghantar maklumat yang diperlukan untuk kami selesaikan isu pada laman ini.</translation>
++<translation id="105644511106871142">Terima kasih kerana membantu dalam menambah baik Kahf untuk semua pengguna. Laporan ini hanya akan menghantar maklumat yang diperlukan untuk kami selesaikan isu pada laman ini.</translation>
+ <translation id="6476216365964140603">Butiran tambahan (pilihan)</translation>
+ <translation id="6145852496180774737">Hubungi saya melalui: (pilihan)</translation>
+ <translation id="7616645803364270729">E-mel, Twitter, dll.</translation>
+ <translation id="721949491455392748">Sertakan tangkapan skrin halaman semasa</translation>
+ <translation id="8459191579769999214">Lihat tangkapan skrin</translation>
+ <translation id="5299848999918506028">Terima kasih!</translation>
+-<translation id="76550953340008122">Terima kasih kerana memberitahu pembangun Brave bahawa terdapat sesuatu yang tidak kena dengan laman ini. Kami akan melakukan yang terbaik untuk memperbaikinya!</translation>
+-<translation id="4046860372562593546">Uruskan Iklan Brave</translation>
+-<translation id="5136973036012418831">Kawal jenis Iklan Brave yang anda lihat dan kekerapannya.</translation>
++<translation id="76550953340008122">Terima kasih kerana memberitahu pembangun Kahf bahawa terdapat sesuatu yang tidak kena dengan laman ini. Kami akan melakukan yang terbaik untuk memperbaikinya!</translation>
++<translation id="4046860372562593546">Uruskan Iklan Kahf</translation>
++<translation id="5136973036012418831">Kawal jenis Iklan Kahf yang anda lihat dan kekerapannya.</translation>
+ <translation id="4759608598194750161">Lebih banyak anda lihat, lebih banyak boleh anda peroleh.</translation>
+ <translation id="7526443283522395161">Iklan halaman tab baharu</translation>
+ <translation id="7968650944098083708">Iklan pemberitahuan</translation>
+ <translation id="8289546216379862569">Iklan carian</translation>
+-<translation id="4758111936363146244">Iklan Carian Brave dipaparkan di <ph name="BEGIN_LINK"/>Carian Brave<ph name="END_LINK"/>.</translation>
+-<translation id="7596536223419118193">Anda tidak dapat memperoleh BAT daripada Iklan Carian Brave lagi, tetapi anda membantu dalam menyokong Brave dengan menyiarkan iklan tersebut.</translation>
+-<translation id="6390952132783970876">Iklan Brave News</translation>
+-<translation id="7516281787184495886">Brave News mengandungi iklan yang tidak boleh dinyahdayakan secara berasingan.</translation>
+-<translation id="8008378848677625233">Brave News dinyahdayakan pada masa ini.</translation>
++<translation id="4758111936363146244">Iklan Carian Kahf dipaparkan di <ph name="BEGIN_LINK"/>Carian Kahf<ph name="END_LINK"/>.</translation>
++<translation id="7596536223419118193">Anda tidak dapat memperoleh BAT daripada Iklan Carian Kahf lagi, tetapi anda membantu dalam menyokong Kahf dengan menyiarkan iklan tersebut.</translation>
++<translation id="6390952132783970876">Iklan Kahf News</translation>
++<translation id="7516281787184495886">Kahf News mengandungi iklan yang tidak boleh dinyahdayakan secara berasingan.</translation>
++<translation id="8008378848677625233">Kahf News dinyahdayakan pada masa ini.</translation>
+ <translation id="6112368337882254910">Auto-Sumbang</translation>
+ <translation id="557705068184766514">Cara automatik untuk menyokong laman dan pencipta kandungan. Tetapkan jumlah sumbangan bulanan dan semak imbas seperti biasa. <ph name="BEGIN_LINK"/>Laman dan pencipta ditentusahkan<ph name="END_LINK"/> yang anda lawati akan menerima sumbangan daripada anda pada setiap bulan berdasarkan jumlah masa yang anda luangkan semasa melayari kandungan mereka.</translation>
+ <translation id="6688567880783357035">Pendapatan setakat ini bulan ini</translation>
+ <translation id="949044897316791211">Tarikh pembayaran pendapatan seterusnya</translation>
+ <translation id="2211646556917925490">Jumlah iklan yang diterima bulan ini</translation>
+ <translation id="4229016885653790965">Maaf! Iklan belum ada di kawasan anda.</translation>
+-<translation id="2539279826042558064">Ganjaran dan Iklan Brave tidak tersedia pada peranti anda pada masa ini.</translation>
++<translation id="2539279826042558064">Ganjaran dan Iklan Kahf tidak tersedia pada peranti anda pada masa ini.</translation>
+ <translation id="5736977383725358876">Kekerapan iklan pemberitahuan</translation>
+ <translation id="7701040980221191251">Tiada</translation>
+ <translation id="480668534656787076">Maks 1 setiap jam</translation>
+@@ -241,30 +241,30 @@
+ <translation id="3082557070674409251">Diklik</translation>
+ <translation id="7119308337584989771">Dibuang</translation>
+ <translation id="6805660603861526473">Dilihat</translation>
+-<translation id="8826352442759228526">Brave Rewards anda tidak dapat disahkan kerana anda telah mencapai had maksimum bagi peranti disahkan.</translation>
++<translation id="8826352442759228526">Kahf Rewards anda tidak dapat disahkan kerana anda telah mencapai had maksimum bagi peranti disahkan.</translation>
+ <translation id="1221593978088944142">Ralat: Had peranti dicapai</translation>
+-<translation id="6895088073061692390">Malangnya, profil Ganjaran Brave anda telah dibenderakan kerana semakan automatik kami menemukan beberapa aktiviti Iklan Brave yang tidak dijangka.</translation>
+-<translation id="4229056297802204697">Semasa profil anda dibenderakan, anda boleh terus melihat iklan, tetapi tidak akan layak menerima pembayaran. Anda juga tidak akan dapat menyambungkan akaun penjagaan dengan Ganjaran Brave.</translation>
++<translation id="6895088073061692390">Malangnya, profil Ganjaran Kahf anda telah dibenderakan kerana semakan automatik kami menemukan beberapa aktiviti Iklan Kahf yang tidak dijangka.</translation>
++<translation id="4229056297802204697">Semasa profil anda dibenderakan, anda boleh terus melihat iklan, tetapi tidak akan layak menerima pembayaran. Anda juga tidak akan dapat menyambungkan akaun penjagaan dengan Ganjaran Kahf.</translation>
+ <translation id="5124846913141379164">Ada kemungkinan profil anda telah tersilap dibenderakan dan tindakan segera tidak diperlukan daripada pihak anda. Bendera pada profil anda mungkin dialih keluar pada masa hadapan.</translation>
+-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Ketahui lebih lanjut tentang proses Brave untuk menandai profil Rewards.<ph name="END_LINK"/></translation>
+-<translation id="5028274575541726856">Ralat: Profil Brave Rewards telah ditandai</translation>
++<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Ketahui lebih lanjut tentang proses Kahf untuk menandai profil Rewards.<ph name="END_LINK"/></translation>
++<translation id="5028274575541726856">Ralat: Profil Kahf Rewards telah ditandai</translation>
+ <translation id="2607420597216860026">Sila cuba lagi setelah anda melengkapkan pengesahan ID di <ph name="PROVIDER"/>.</translation>
+ <translation id="3183954159462541696">Ralat: Anda memerlukan akaun disahkan untuk log masuk</translation>
+-<translation id="1859789048900659918">Hmm, nampaknya negara Ganjaran Brave anda tidak sepadan dengan negara akaun <ph name="PROVIDER"/> yang cuba anda buat sambungan.</translation>
++<translation id="1859789048900659918">Hmm, nampaknya negara Ganjaran Kahf anda tidak sepadan dengan negara akaun <ph name="PROVIDER"/> yang cuba anda buat sambungan.</translation>
+ <translation id="8925428135452218262">Ralat: Negara tidak sepadan</translation>
+-<translation id="5260522591743022748">Oh, nampaknya Brave Rewards anda telahpun disahkan dengan akaun<ph name="PROVIDER"/> yang lain. Sila cuba sahkan sekali lagi menggunakan akaun anda yang sebelumnya.</translation>
++<translation id="5260522591743022748">Oh, nampaknya Kahf Rewards anda telahpun disahkan dengan akaun<ph name="PROVIDER"/> yang lain. Sila cuba sahkan sekali lagi menggunakan akaun anda yang sebelumnya.</translation>
+ <translation id="5111921830714291902">Ralat: Akaun berbeza</translation>
+-<translation id="5225019866741699134">Nampaknya, proses menyambungkan <ph name="PROVIDER"/> dengan Ganjaran Brave tidak tersedia buat sementara waktu. Sila cuba lagi nanti.</translation>
++<translation id="5225019866741699134">Nampaknya, proses menyambungkan <ph name="PROVIDER"/> dengan Ganjaran Kahf tidak tersedia buat sementara waktu. Sila cuba lagi nanti.</translation>
+ <translation id="6105073131081187815">Anda boleh memaparkan <ph name="BEGIN_LINK"/>status perkhidmatan di sini<ph name="END_LINK"/>.</translation>
+ <translation id="2400786541309111904">Ralat: Sambungan dengan penjagaan terpilih tidak tersedia buat sementara waktu</translation>
+-<translation id="1024520300696337331">Akaun <ph name="PROVIDER"/> anda tidak boleh disambungkan dengan profil Ganjaran Brave anda buat masa ini. Akaun <ph name="PROVIDER"/> anda didaftarkan di negara yang tidak disokong untuk disambungkan dengan Ganjaran Brave buat masa ini.</translation>
+-<translation id="619384413404021992">Lihat senarai semasa <ph name="LINK_BEGIN"/>bagi wilayah yang disokong dan ketahui lebih lanjut<ph name="END_LINK"/> tentang menyambungkan akaun jagaan dengan Ganjaran Brave.</translation>
++<translation id="1024520300696337331">Akaun <ph name="PROVIDER"/> anda tidak boleh disambungkan dengan profil Ganjaran Kahf anda buat masa ini. Akaun <ph name="PROVIDER"/> anda didaftarkan di negara yang tidak disokong untuk disambungkan dengan Ganjaran Kahf buat masa ini.</translation>
++<translation id="619384413404021992">Lihat senarai semasa <ph name="LINK_BEGIN"/>bagi wilayah yang disokong dan ketahui lebih lanjut<ph name="END_LINK"/> tentang menyambungkan akaun jagaan dengan Ganjaran Kahf.</translation>
+ <translation id="7193389978208728181">Ralat: Wilayah tidak disokong buat masa ini</translation>
+ <translation id="5382684862562314222">BAT belum lagi disokong di rantau anda di Uphold.</translation>
+ <translation id="9074594632540931067">Ralat: BAT tidak tersedia</translation>
+ <translation id="5376524136040178759">Menurut Uphold, terdapat beberapa had pada akaun Uphold anda buat masa ini. Sila log masuk ke akaun Uphold anda dan semak sama ada terdapat sebarang notis atau masih ada keperluan akaun untuk dilengkapkan, kemudian cuba lagi. Sebagai contoh, anda mungkin perlu menyerahkan maklumat lanjut kepada Uphold.</translation>
+ <translation id="6996157559236886133">Ralat: Kefungsian akaun Uphold yang terhad</translation>
+-<translation id="3274650021044762770">Terdapat masalah dalam membuat pengesahan terhadap permintaan penyemak imbas anda untuk menghubungkan Brave Rewards dengan akaun <ph name="PROVIDER"/> anda. Anda boleh <ph name="BEGIN_LINK"/>menghubungi sokongan<ph name="END_LINK"/> untuk mendapatkan bantuan lanjut.</translation>
++<translation id="3274650021044762770">Terdapat masalah dalam membuat pengesahan terhadap permintaan penyemak imbas anda untuk menghubungkan Kahf Rewards dengan akaun <ph name="PROVIDER"/> anda. Anda boleh <ph name="BEGIN_LINK"/>menghubungi sokongan<ph name="END_LINK"/> untuk mendapatkan bantuan lanjut.</translation>
+ <translation id="1316066811927496401">Ralat: Permintaan tidak dapat disahkan</translation>
+ <translation id="7352651011704765696">Ada sesuatu yang tidak kena</translation>
+ <translation id="8285276813470932793">Kami tidak dapat melengkapkan permintaan anda. Sila cuba lagi dan <ph name="LINK_BEGIN"/>hubungi sokongan<ph name="LINK_END"/>jika masalah berterusan.</translation>
+@@ -284,7 +284,7 @@
+ <translation id="756341217015623253">Log masuk atau daftar</translation>
+ <translation id="2653844658857826081">BAHARU</translation>
+ <translation id="1892970806832316900">Menunggu hingga <ph name="DATE"/></translation>
+-<translation id="7849926087559412554">Op! Pelayar anda tidak boleh menerima Iklan Peribadi Brave.</translation>
++<translation id="7849926087559412554">Op! Pelayar anda tidak boleh menerima Iklan Peribadi Kahf.</translation>
+ <translation id="5177429570315095022">Pelayar anda perlu dikemas kini untuk meneruskan paparan iklan.</translation>
+ <translation id="4593680147181354667">Id Diagnostik</translation>
+ <translation id="3995471429906554168">Maklumat Diagnostik</translation>
+@@ -574,20 +574,20 @@
+ <translation id="2429828319207652823">Terdapat beberapa masalah memproses sumbangan anda.</translation>
+ <translation id="6390041270339783491">Sumbangan bulanan gagal</translation>
+ <translation id="7047578174221019462">Sumbangan bulanan anda telah diproses.</translation>
+-<translation id="2529827670795983639">Nampaknya ini tidak berfungsi, Brave ads akan dijeda. Hubungi kami jika anda memerlukan bantuan dengan captcha.</translation>
++<translation id="2529827670795983639">Nampaknya ini tidak berfungsi, Kahf ads akan dijeda. Hubungi kami jika anda memerlukan bantuan dengan captcha.</translation>
+ <translation id="261607053214862521">Percubaan maksimum dilepasi</translation>
+ <translation id="2323171459178104277">Diselesaikan!</translation>
+-<translation id="1512837998731269583">Iklan dan pendapatan kini akan disambung semula. Terima kasih kerana membantu kami melindungi Brave Rewards dan iklan berdasarkan privasi.</translation>
++<translation id="1512837998731269583">Iklan dan pendapatan kini akan disambung semula. Terima kasih kerana membantu kami melindungi Kahf Rewards dan iklan berdasarkan privasi.</translation>
+ <translation id="3247549836099021862">Hubungi sokongan</translation>
+ <translation id="5234764350956374838">Singkirkan</translation>
+ <translation id="7859066142771796818">Gunakan token untuk membeli kad hadiah, membuat pertukaran mata wang lain, menyokong pencipta kandungan dan pelbagai lagi.</translation>
+-<translation id="5425006356459378415">Ganjaran Brave tidak tersedia</translation>
+-<translation id="909076461795862330">Malangnya, terdapat ralat semasa cuba menetapkan Ganjaran Brave. Sila cuba sekali lagi.</translation>
++<translation id="5425006356459378415">Ganjaran Kahf tidak tersedia</translation>
++<translation id="909076461795862330">Malangnya, terdapat ralat semasa cuba menetapkan Ganjaran Kahf. Sila cuba sekali lagi.</translation>
+ <translation id="3180990265682133881">Malangnya, terdapat ralat semasa cuba menetapkan negara anda. Sila cuba sekali lagi.</translation>
+-<translation id="5931798071481566121">Pendaftaran baharu untuk Ganjaran Brave dinyahdayakan di rantau anda buat masa ini. Walau bagaimanapun, anda boleh mencuba sekali lagi kemudian. <ph name="LINK_BEGIN"/>Ketahui lebih lanjut<ph name="LINK_END"/></translation>
++<translation id="5931798071481566121">Pendaftaran baharu untuk Ganjaran Kahf dinyahdayakan di rantau anda buat masa ini. Walau bagaimanapun, anda boleh mencuba sekali lagi kemudian. <ph name="LINK_BEGIN"/>Ketahui lebih lanjut<ph name="LINK_END"/></translation>
+ <translation id="6439128034594289376">Yay! Anda sudah bersedia!</translation>
+ <translation id="6136350726756049410">Kini anda boleh mendapat ganjaran dengan melihat iklan. Anda membantu menjadikan web sebuah tempat yang lebih baik untuk semua orang. Sungguh hebat!</translation>
+-<translation id="5547108999862247665">Bagaimanakah Ganjaran Brave berfungsi?</translation>
++<translation id="5547108999862247665">Bagaimanakah Ganjaran Kahf berfungsi?</translation>
+ <translation id="3970520675790340955">Pilih negara anda supaya kami boleh menunjukkan pilihan dan iklan yang sesuai untuk rantau anda.</translation>
+ <translation id="6945221475159498467">Pilih</translation>
+ <translation id="3279158300746391749">Tekan ikon BAT <ph name="BAT_ICON"/> dalam bar URL untuk bermula.</translation>
+@@ -901,9 +901,9 @@
+ <translation id="7261362517244085362">Sahkan dompet anda</translation>
+ <translation id="7150150391368236519">Sambungkan dompet perkakasan</translation>
+ <translation id="5400782314657008092">Kami menyokong peranti <ph name="HARDWARE_DEVICE"/> dan <ph name="HARDWARE_DEVICE1"/> buat masa ini.</translation>
+-<translation id="8144305264680648043">Sambungkan dompet perkakasan anda untuk mengurus aset anda terus daripada Dompet Brave</translation>
++<translation id="8144305264680648043">Sambungkan dompet perkakasan anda untuk mengurus aset anda terus daripada Dompet Kahf</translation>
+ <translation id="1329837291200753515">Pilih blok rantai untuk mengimport dompet perkakasan anda</translation>
+-<translation id="6983390509997396124">Sambungkan peranti <ph name="HARDWARE_DEVICE"/> anda kepada Dompet Brave</translation>
++<translation id="6983390509997396124">Sambungkan peranti <ph name="HARDWARE_DEVICE"/> anda kepada Dompet Kahf</translation>
+ <translation id="5149944858285555235">Ralat tidak diketahui, sila sambungkan semula dompet perkakasan anda dan cuba lagi.</translation>
+ <translation id="4522570452068850558">Butiran</translation>
+ <translation id="9220525904950070496">Alih keluar akaun</translation>
+@@ -1579,7 +1579,7 @@
+ <translation id="1215089823252478557">Lihat anggaran duit baki</translation>
+ <translation id="2761574758015819991">Kenal pasti keadaan yang mungkin terdapat transaksi berhasad</translation>
+ <translation id="168533464844528463">Bantu mengesan percubaan pancingan data</translation>
+-<translation id="7269757150305059881">Brave bekerjasama dengan rakan kongsi untuk menyediakan perkhidmatan ini. Apabila anda mendayakan ciri, maksudnya anda bersetuju untuk berkongsi transaksi tidak ditandatangani dan URL DApp mereka dengan rakan kongsi kami.</translation>
++<translation id="7269757150305059881">Kahf bekerjasama dengan rakan kongsi untuk menyediakan perkhidmatan ini. Apabila anda mendayakan ciri, maksudnya anda bersetuju untuk berkongsi transaksi tidak ditandatangani dan URL DApp mereka dengan rakan kongsi kami.</translation>
+ <translation id="7790932700072432983">Tukar pada bila-bila masa dalam <ph name="TAG_BEFORE"/>Tetapan<ph name="TAG_AFTER"/>.</translation>
+ <translation id="8688672835843460752">Tersedia</translation>
+ <translation id="5296640085393149413">Dana tersedia untuk anda gunakan.</translation>
+@@ -1803,23 +1803,23 @@
+ <translation id="6938154350999993769">Nyahpepijat: togol mod tablet</translation>
+ <translation id="5854741377790551127">Pepohon paparan cetakan nyahpepijat</translation>
+ <translation id="8199130368328220410">Togol kapsyen langsung</translation>
+-<translation id="9055778350624039365">Paparkan panel Dompet Brave</translation>
+-<translation id="2548853975094084059">Tutup panel Dompet Brave</translation>
+-<translation id="3765209580429944524">Paparkan panel VPN Brave</translation>
+-<translation id="5989009326527614692">Togol butang bar alat VPN Brave</translation>
+-<translation id="7334332308395652803">Togol ikon dulang VPN Brave</translation>
+-<translation id="4326011033480357140">Hantar maklum balas VPN Brave</translation>
+-<translation id="2345974803401546682">Perihal VPN Brave</translation>
+-<translation id="8934783170241943640">Urus pelan VPN Brave</translation>
+-<translation id="6332027154313182926">Togol VPN Brave</translation>
++<translation id="9055778350624039365">Paparkan panel Dompet Kahf</translation>
++<translation id="2548853975094084059">Tutup panel Dompet Kahf</translation>
++<translation id="3765209580429944524">Paparkan panel VPN Kahf</translation>
++<translation id="5989009326527614692">Togol butang bar alat VPN Kahf</translation>
++<translation id="7334332308395652803">Togol ikon dulang VPN Kahf</translation>
++<translation id="4326011033480357140">Hantar maklum balas VPN Kahf</translation>
++<translation id="2345974803401546682">Perihal VPN Kahf</translation>
++<translation id="8934783170241943640">Urus pelan VPN Kahf</translation>
++<translation id="6332027154313182926">Togol VPN Kahf</translation>
+ <translation id="6539014233195996894">Togol redam tab</translation>
+ <translation id="2682865834956428001">Togol kedudukan bar sisi</translation>
+ <translation id="6105745639559695088">Togol bar sisi</translation>
+ <translation id="3488252265135539275">Togol tab menegak</translation>
+ <translation id="7134064542341959603">Togol tajuk tetingkap tab menegak</translation>
+-<translation id="3067105725259639716">Konfigurasikan Brave News</translation>
++<translation id="3067105725259639716">Konfigurasikan Kahf News</translation>
+ <translation id="6286510487460330478">Konfigurasikan pintasan</translation>
+-<translation id="9214819486716388964">Paparkan Brave Talk</translation>
++<translation id="9214819486716388964">Paparkan Kahf Talk</translation>
+ <translation id="5950760360751948276">Sentiasa paparkan bar penanda halaman</translation>
+ <translation id="2960757369920422313">Paparkan bar penanda halaman pada NTP</translation>
+ <translation id="522953399371747698">Sembunyikan bar penanda halaman</translation>
+@@ -1900,11 +1900,11 @@
+ <translation id="1167803637855350748">Terdapat masalah rangkaian untuk bersambung dengan Leo, periksa sambungan anda dan cuba lagi.</translation>
+ <translation id="1996126325390835277">Anda telah mencapai had kadar premium. Sila cuba lagi dalam beberapa jam.</translation>
+ <translation id="7144878232160441200">Cuba semula</translation>
+-<translation id="8570488829560315702">Hai, saya Leo. Saya pembantu AI yang dihoskan sepenuhnya oleh Brave. Saya dikuasakan oleh Llama 3 8B, iaitu model yang dicipta oleh Meta yang menawarkan prestasi hebat dan boleh digunakan untuk banyak kes penggunaan. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
+-<translation id="6500567629965936637">Hai, saya Leo. Saya pembantu AI yang dihoskan sepenuhnya oleh Brave. Saya dikuasakan oleh Mixtral 8x7B, iaitu model yang dicipta oleh Mistral AI untuk mengendalikan tugasan lanjutan. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
+-<translation id="4590776109659811206">Hai, saya Leo. Saya diproksi oleh Brave dan dikuasakan oleh Claude Instant, iaitu model yang dicipta oleh Anthropic untuk menggerakkan tugas perbualan dan pemprosesan teks. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
+-<translation id="8583558415545871403">Hai, saya Leo. Saya diproksi oleh Brave dan dikuasakan oleh Claude 3 Haiku, model yang dicipta oleh Anthropic untuk menggerakkan tugas pemprosesan teks dan perbualan.</translation>
+-<translation id="4147243042852964992">Hai, saya Leo. Saya diproksi oleh Brave dan dikuasakan oleh Claude 3 Sonnet, model yang dicipta oleh Anthropic untuk menggerakkan tugas pemprosesan teks dan perbualan.</translation>
++<translation id="8570488829560315702">Hai, saya Leo. Saya pembantu AI yang dihoskan sepenuhnya oleh Kahf. Saya dikuasakan oleh Llama 3 8B, iaitu model yang dicipta oleh Meta yang menawarkan prestasi hebat dan boleh digunakan untuk banyak kes penggunaan. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
++<translation id="6500567629965936637">Hai, saya Leo. Saya pembantu AI yang dihoskan sepenuhnya oleh Kahf. Saya dikuasakan oleh Mixtral 8x7B, iaitu model yang dicipta oleh Mistral AI untuk mengendalikan tugasan lanjutan. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
++<translation id="4590776109659811206">Hai, saya Leo. Saya diproksi oleh Kahf dan dikuasakan oleh Claude Instant, iaitu model yang dicipta oleh Anthropic untuk menggerakkan tugas perbualan dan pemprosesan teks. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
++<translation id="8583558415545871403">Hai, saya Leo. Saya diproksi oleh Kahf dan dikuasakan oleh Claude 3 Haiku, model yang dicipta oleh Anthropic untuk menggerakkan tugas pemprosesan teks dan perbualan.</translation>
++<translation id="4147243042852964992">Hai, saya Leo. Saya diproksi oleh Kahf dan dikuasakan oleh Claude 3 Sonnet, model yang dicipta oleh Anthropic untuk menggerakkan tugas pemprosesan teks dan perbualan.</translation>
+ <translation id="6206029817087805290"><ph name="MODEL_NAME"/> oleh <ph name="COMPANY_NAME"/></translation>
+ <translation id="963346402440669081">Premium</translation>
+ <translation id="6187065185557150870">Sembang</translation>
+@@ -1952,7 +1952,7 @@
+ <translation id="8712637175834984815">Faham</translation>
+ <translation id="1093419424466417703">Halaman ini terlalu panjang untuk Leo. Beberapa konteks mungkin hilang daripada perbualan. Leo dapat membaca <ph name="PERCENTAGE"/> daripada kandungan halaman.</translation>
+ <translation id="4370698775470316661">Perbualan ini terlalu panjang dan tidak boleh diteruskan. Mungkin terdapat model lain yang tersedia dengan ciri Leo yang mampu mengekalkan ketepatan untuk perbualan yang lebih panjang.</translation>
+-<translation id="5719170755629028558">Meningkatkan jawapan anda dengan Carian Brave…</translation>
++<translation id="5719170755629028558">Meningkatkan jawapan anda dengan Carian Kahf…</translation>
+ <translation id="5794962229997281366">Pencarian jawapan yang ditingkatkan untuk <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Sembang tujuan umum</translation>
+ <translation id="8193130769524604031">Tugasan sembang lanjutan</translation>
+@@ -1997,13 +1997,13 @@
+ <translation id="49269513399674318">Gunakan mikrofon</translation>
+ <translation id="3895031624234442305">Model tersuai</translation>
+ <translation id="6303294677342628402">Perisai</translation>
+-<translation id="8458987127502506209">Aktifkan Brave Shields</translation>
++<translation id="8458987127502506209">Aktifkan Kahf Shields</translation>
+ <translation id="7509914170164691086">Shields KE ATAS <ph name="LINK_BEFORE"/>untuk<ph name="LINK_AFTER"/></translation>
+ <translation id="260764436039299868">Shields KE BAWAH <ph name="LINK_BEFORE"/>untuk<ph name="LINK_AFTER"/></translation>
+ <translation id="3907405056878805220">Jika tapakj ini kelihatan terjejas, cuba Shields ke bawah.
+- <ph name="LINK_BEFORE"/>Perhatian: tindakan ini mungkin mengurangkan perlindungan privasi Brave.<ph name="LINK_AFTER"/></translation>
++ <ph name="LINK_BEFORE"/>Perhatian: tindakan ini mungkin mengurangkan perlindungan privasi Kahf.<ph name="LINK_AFTER"/></translation>
+ <translation id="8377155647357436161">Penjejak, iklan dan lagi sekatan<ph name="LINK_BEFORE"/>Ketahui lebih lanjut<ph name="LINK_AFTER"/></translation>
+-<translation id="7604553853176833536">Tidak dilindungi oleh Brave Shields <ph name="LINK_BEFORE"/>Ketahui lebih lanjut <ph name="LINK_AFTER"/></translation>
++<translation id="7604553853176833536">Tidak dilindungi oleh Kahf Shields <ph name="LINK_BEFORE"/>Ketahui lebih lanjut <ph name="LINK_AFTER"/></translation>
+ <translation id="650318023204990401">Kawalan lanjutan</translation>
+ <translation id="5799940914270080805">Tindakan mengubah tetapan ini boleh menjejaskan laman.</translation>
+ <translation id="9204041448536398473">Tetapan Perisai Global</translation>
+@@ -2034,49 +2034,49 @@
+ <translation id="2570787596946026998">Hanya sambungkan dengan HTTPS</translation>
+ <translation id="1992750560347846445">Laporkan laman</translation>
+ <translation id="2387532482048804818">Beritahu kami jika laman tidak berfungsi dengan lancar melalui Shields ke atas.</translation>
+-<translation id="3795015906457257780">Anda memaparkan laman ini tanpa perlindungan privasi Brave.</translation>
+-<translation id="7194012750329511146">Brave Shields
++<translation id="3795015906457257780">Anda memaparkan laman ini tanpa perlindungan privasi Kahf.</translation>
++<translation id="7194012750329511146">Kahf Shields
+ <ph name="NUMBER"/> Penjejak, iklan, dan pelbagai lagi disekat</translation>
+ <translation id="4292121526390005808">Halang skrip</translation>
+ <translation id="5046271170844958713">Skrip yang dibenarkan</translation>
+ <translation id="264682546981571963">Bosan dengan notis persetujuan kuki?</translation>
+-<translation id="4986297793092101884">Brave sudah menyekat kuki pihak ketiga. Kami juga boleh menyekat notis persetujuan kuki.</translation>
++<translation id="4986297793092101884">Kahf sudah menyekat kuki pihak ketiga. Kami juga boleh menyekat notis persetujuan kuki.</translation>
+ <translation id="535688588637568715">Ya, sekat notis persetujuan kuki</translation>
+-<translation id="2808175374672429053">Wildcards tidak dibenarkan untuk Perisai Brave.</translation>
++<translation id="2808175374672429053">Wildcards tidak dibenarkan untuk Perisai Kahf.</translation>
+ <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
+-      =1 {Brave Shields telah menyekat 1 penjejak pada <ph name="SITE_URL"/>}
+-      other {Brave Shields telah menyekat {BLOCKED_COUNT} penjejak pada <ph name="SITE_URL"/>}
++      =1 {Kahf Shields telah menyekat 1 penjejak pada <ph name="SITE_URL"/>}
++      other {Kahf Shields telah menyekat {BLOCKED_COUNT} penjejak pada <ph name="SITE_URL"/>}
+     }</translation>
+-<translation id="2540598191934725677">Klik ikon Brave untuk melihat Brave Shields.</translation>
++<translation id="2540598191934725677">Klik ikon Kahf untuk melihat Kahf Shields.</translation>
+ <translation id="6294662480095808915">Privasi. Secara Lalai.</translation>
+-<translation id="4366423156486478559">Dapatkan perlindungan Brave pada setiap pautan yang anda klik. Hanya tetapkan Brave sebagai lalai dan semak imbas. Secara peribadi.</translation>
++<translation id="4366423156486478559">Dapatkan perlindungan Kahf pada setiap pautan yang anda klik. Hanya tetapkan Kahf sebagai lalai dan semak imbas. Secara peribadi.</translation>
+ <translation id="3830912418080848377">Tetapan Import</translation>
+ <translation id="6378406588483694938">Import penanda halaman, sambungan dan juga kata laluan yang disimpan dengan mudah daripada penyemak imbas lama anda.</translation>
+ <translation id="2092825239819166928">Pilih profil untuk import</translation>
+ <translation id="4763127492635705340">Penyemak imbas yang anda pilih mempunyai berbilang profil. Pilih profil yang mahu anda import.</translation>
+ <translation id="880174232178865598">Import profil</translation>
+ <translation id="2453860139492968684">Selesai</translation>
+-<translation id="2273851479262317744">Tetapkan Brave sebagai pelayar lalai</translation>
++<translation id="2273851479262317744">Tetapkan Kahf sebagai pelayar lalai</translation>
+ <translation id="5037676449506322593">Pilih Semua</translation>
+-<translation id="5148943178722443958">Bantu usaha menambah baik Brave.</translation>
++<translation id="5148943178722443958">Bantu usaha menambah baik Kahf.</translation>
+ <translation id="1097073572755862978">Hantar laporan diagnostik jika anda mengalami ranap atau beku. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut.<ph name="LINK_AFTER"/></translation>
+-<translation id="6629244688368006959">Kongsikan cerapan produk yang peribadi dan tanpa nama tentang jenis ciri yang sedang digunakan oleh pengguna Brave. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut.<ph name="LINK_AFTER"/></translation>
++<translation id="6629244688368006959">Kongsikan cerapan produk yang peribadi dan tanpa nama tentang jenis ciri yang sedang digunakan oleh pengguna Kahf. <ph name="LINK_BEFORE"/>Ketahui lebih lanjut.<ph name="LINK_AFTER"/></translation>
+ <translation id="7415454883318062233">Persediaan selesai</translation>
+-<translation id="3141206739023333979">Ubah pilihan ini pada bila-bila masa di Brave pada <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
++<translation id="3141206739023333979">Ubah pilihan ini pada bila-bila masa di Kahf pada <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+ <translation id="8321985064212130832">Baca <ph name="LINK_BEFORE"/>Dasar Privasi<ph name="LINK_AFTER"/> penuh kami</translation>
+ <translation id="2801098717523961746">Pilih tema anda</translation>
+-<translation id="6262510489122516114">Anda boleh menukar pilihan ini pada bila-bila masa dalam tetapan Brave.</translation>
++<translation id="6262510489122516114">Anda boleh menukar pilihan ini pada bila-bila masa dalam tetapan Kahf.</translation>
+ <translation id="546481172717459539">Padankan tetapan sistem</translation>
+ <translation id="7799817062559422778">Mod Cerah</translation>
+ <translation id="4117637339509843559">Mod Gelap</translation>
+ <translation id="6302485303316397682">Mahukan hasil carian yang lebih baik?</translation>
+-<translation id="7014699001826714920">Sertai pergerakan, menyumbang kepada Brave Search.</translation>
+-<translation id="6821108091726602352">Bantu kami membetulkan web dengan mengambil bahagian dalam Projek Penemuan Web Brave. Dengan berkongsi isyarat carian tanpa nama sepenuhnya, anda boleh membantu Brave mengembangkan indeks carian.</translation>
++<translation id="7014699001826714920">Sertai pergerakan, menyumbang kepada Kahf Search.</translation>
++<translation id="6821108091726602352">Bantu kami membetulkan web dengan mengambil bahagian dalam Projek Penemuan Web Kahf. Dengan berkongsi isyarat carian tanpa nama sepenuhnya, anda boleh membantu Kahf mengembangkan indeks carian.</translation>
+ <translation id="6764845498618413165">Ketahui Lebih Lanjut.</translation>
+ <translation id="7818938154803162778">Sudah tentu, saya akan membantu</translation>
+-<translation id="7821773512278295352">Tembok Api Brave + VPN: Disambungkan</translation>
+-<translation id="6019088868713395120">Tembok Api Brave + VPN: Dinyahsambungkan</translation>
+-<translation id="3541307549916475335">UI Panel VPN Brave</translation>
++<translation id="7821773512278295352">Tembok Api Kahf + VPN: Disambungkan</translation>
++<translation id="6019088868713395120">Tembok Api Kahf + VPN: Dinyahsambungkan</translation>
++<translation id="3541307549916475335">UI Panel VPN Kahf</translation>
+ <translation id="1742469581923031760">Menyambung…</translation>
+ <translation id="1287487756047817908">Memutuskan sambungan…</translation>
+ <translation id="2325196879156848326">Sambungan Gagal</translation>
+@@ -2086,7 +2086,7 @@
+ <translation id="8703188411226330709">Mulakan percubaan percuma</translation>
+ <translation id="1024255913009642477">Telah membeli VPN?</translation>
+ <translation id="8814357473522731680">Dikuasakan oleh</translation>
+-<translation id="3960619311638643872">VPN Brave</translation>
++<translation id="3960619311638643872">VPN Kahf</translation>
+ <translation id="7805768142964895445">Status</translation>
+ <translation id="5747552184818312860">Tamat tempoh</translation>
+ <translation id="8421945428836418371">Sambung semula secara automatik</translation>
+@@ -2104,7 +2104,7 @@
+ <translation id="427718751211990320">Tarikh tamat tempoh bukti kelayakan telah berlalu.</translation>
+ <translation id="8670619630771851260">Tidak dapat memuatkan bukti kelayakan.</translation>
+ <translation id="1594643509610625766">Token tidak lagi sah.</translation>
+-<translation id="8373427068383038263">Nampaknya pembayaran terkini anda untuk <ph name="VALUE"/> tidak dihantar. Akses kepada langganan ini akan dijedakan sehingga isu pembayaran selesai. Cuba edit kaedah pembayaran anda atau hubungi sokongan Brave.</translation>
++<translation id="8373427068383038263">Nampaknya pembayaran terkini anda untuk <ph name="VALUE"/> tidak dihantar. Akses kepada langganan ini akan dijedakan sehingga isu pembayaran selesai. Cuba edit kaedah pembayaran anda atau hubungi sokongan Kahf.</translation>
+ <translation id="1839021455997460752">Alamat e-mel anda</translation>
+ <translation id="8054563304616131773">Sila masukkan alamat e-mel yang sah</translation>
+ <translation id="5154702632169343078">Subjek</translation>
+@@ -2121,14 +2121,14 @@
+ <translation id="6676791921618140305">Versi OS:</translation>
+ <translation id="1156325797949437777">Sokongan diberikan dengan kerjasama Guardian.</translation>
+ <translation id="8146777497879160283">Gagal menulis konfigurasi VPN. Hal ini mungkin berlaku jika anda tidak mendapat keizinan atau jika anda belum menjalankan Kemaskinian Windows baru-baru ini.</translation>
+-<translation id="3307461350293459700">Sambungan VPN gagal. Sila cuba sambung sekali lagi dan pastikan anda klik pada Benarkan bagi mendayakan konfigurasi VPN Brave.</translation>
+-<translation id="7261518280726313829">Tindakan mematikan DNS selamat atau menggunakan pelayan lalai pada Windows mungkin akan mendedahkan nama tapak yang anda lawati kepada penyedia perkhidmatan Internet anda. Brave tidak mengesyorkan perkara ini dilakukan. Adakah anda masih mahu melakukannya?</translation>
+-<translation id="888284761945060750">DNS selamat dilumpuhkan oleh dasar organisasi anda. Penggunaan VPN Brave tanpa DNS selamat mungkin akan mendedahkan nama tapak yang anda lawati kepada penyedia perkhidmatan Internet atau organisasi anda.</translation>
+-<translation id="6593224083874259773">VPN Brave pada Windows</translation>
+-<translation id="3153983908111684619">Tetapan dikunci oleh BraveVPN semasa disambungkan</translation>
++<translation id="3307461350293459700">Sambungan VPN gagal. Sila cuba sambung sekali lagi dan pastikan anda klik pada Benarkan bagi mendayakan konfigurasi VPN Kahf.</translation>
++<translation id="7261518280726313829">Tindakan mematikan DNS selamat atau menggunakan pelayan lalai pada Windows mungkin akan mendedahkan nama tapak yang anda lawati kepada penyedia perkhidmatan Internet anda. Kahf tidak mengesyorkan perkara ini dilakukan. Adakah anda masih mahu melakukannya?</translation>
++<translation id="888284761945060750">DNS selamat dilumpuhkan oleh dasar organisasi anda. Penggunaan VPN Kahf tanpa DNS selamat mungkin akan mendedahkan nama tapak yang anda lawati kepada penyedia perkhidmatan Internet atau organisasi anda.</translation>
++<translation id="6593224083874259773">VPN Kahf pada Windows</translation>
++<translation id="3153983908111684619">Tetapan dikunci oleh KahfVPN semasa disambungkan</translation>
+ <translation id="1055657720430482013">Windows mempunyai ciri yang dipanggil Peleraian Nama Berbilang Rumah Pintar yang boleh mendedahkan maklumat tentang lokasi anda dan laman yang anda lawati.
+ 
+-Brave mempunyai perkhidmatan bantuan yang melindungi anda daripada pendedahan ini dengan menapis cara pertanyaan DNS dibuat pada sambungan VPN anda.
++Kahf mempunyai perkhidmatan bantuan yang melindungi anda daripada pendedahan ini dengan menapis cara pertanyaan DNS dibuat pada sambungan VPN anda.
+ 
+ Walau bagaimanapun, kami mendapati perkhidmatan bantuan ini tidak berjalan - dan kami tidak mahu membiarkan anda tidak dilindungi. Kami telah mengubah tetapan DNS dalam penyemak imbas bagi perlindungan daripada pendedahan ini. Tetapan tersebut akan tetap digunakan dan dikunci sementara VPN disambungkan.
+ 

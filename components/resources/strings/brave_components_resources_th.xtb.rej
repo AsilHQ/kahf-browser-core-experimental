@@ -1,0 +1,333 @@
+diff a/components/resources/strings/brave_components_resources_th.xtb b/components/resources/strings/brave_components_resources_th.xtb	(rejected hunks)
+@@ -169,36 +169,36 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="5334844597069022743">ดูแหล่งที่มา</translation>
+ <translation id="4720556299488643018">ยกเลิกการสมัคร</translation>
+ <translation id="1209739344687072997">รายงานเว็บไซต์เสียหาย</translation>
+-<translation id="8510478288840333677">แจ้งให้ผู้พัฒนา Brave ทราบว่าเว็บไซต์นี้ทำงานไม่ถูกต้องเมื่อเปิดระบบปกป้อง:</translation>
++<translation id="8510478288840333677">แจ้งให้ผู้พัฒนา Kahf ทราบว่าเว็บไซต์นี้ทำงานไม่ถูกต้องเมื่อเปิดระบบปกป้อง:</translation>
+ <translation id="3110968385867124099">ไม่สามารถรายงานหน้านี้ได้เนื่องจากไม่ได้เป็น HTTP/HTTPS</translation>
+ <translation id="7907023135990310743">หน้านี้เป็นหน้าเว็บภายในและไม่มีสิทธิ์สำหรับการรายงาน</translation>
+ <translation id="3645455863322075098">หน้านี้เป็นหน้าแสดงข้อผิดพลาดและไม่มีสิทธิ์สำหรับการรายงาน</translation>
+-<translation id="105644511106871142">ขอบคุณที่ช่วยทำให้ Brave มีประสิทธิภาพมากขึ้นสำหรับทุกคน รายงานนี้จะส่งข้อมูลที่จำเป็นสำหรับเราในการแก้ไขเว็บไซต์นี้เท่านั้น</translation>
++<translation id="105644511106871142">ขอบคุณที่ช่วยทำให้ Kahf มีประสิทธิภาพมากขึ้นสำหรับทุกคน รายงานนี้จะส่งข้อมูลที่จำเป็นสำหรับเราในการแก้ไขเว็บไซต์นี้เท่านั้น</translation>
+ <translation id="6476216365964140603">รายละเอียดเพิ่มเติม (ไม่บังคับ)</translation>
+ <translation id="6145852496180774737">ติดต่อฉันที่: (ไม่บังคับ)</translation>
+ <translation id="7616645803364270729">อีเมล Twitter ฯลฯ</translation>
+ <translation id="721949491455392748">รวมภาพหน้าจอของหน้าปัจจุบัน</translation>
+ <translation id="8459191579769999214">ดูภาพหน้าจอ</translation>
+ <translation id="5299848999918506028">ขอบคุณค่ะ</translation>
+-<translation id="76550953340008122">ขอบคุณที่แจ้งให้ผู้พัฒนา Brave ทราบว่ามีข้อผิดพลาดในเว็บไซต์นี้ เราจะพยายามแก้ไขปัญหานี้อย่างเต็มที่</translation>
+-<translation id="4046860372562593546">จัดการ Brave Ads</translation>
+-<translation id="5136973036012418831">ควบคุมประเภท Brave Ads ที่คุณดูและความถี่</translation>
++<translation id="76550953340008122">ขอบคุณที่แจ้งให้ผู้พัฒนา Kahf ทราบว่ามีข้อผิดพลาดในเว็บไซต์นี้ เราจะพยายามแก้ไขปัญหานี้อย่างเต็มที่</translation>
++<translation id="4046860372562593546">จัดการ Kahf Ads</translation>
++<translation id="5136973036012418831">ควบคุมประเภท Kahf Ads ที่คุณดูและความถี่</translation>
+ <translation id="4759608598194750161">ยิ่งคุณดูมากเท่าไหร่ คุณก็ยิ่งได้รับมากเท่านั้น</translation>
+ <translation id="7526443283522395161">โฆษณาหน้าแท็บใหม่</translation>
+ <translation id="7968650944098083708">การแจ้งเตือนโฆษณา</translation>
+ <translation id="8289546216379862569">ค้นหาโฆษณา</translation>
+-<translation id="4758111936363146244">Brave Search Ads จะปรากฏใน <ph name="BEGIN_LINK"/>Brave Search<ph name="END_LINK"/></translation>
+-<translation id="7596536223419118193">คุณยังไม่สามารถรับ BAT จาก Brave Search Ads ได้ แต่คุณสามารถช่วยสนับสนุน Brave ได้ด้วยการเปิดใช้งาน</translation>
+-<translation id="6390952132783970876">โฆษณา Brave News</translation>
+-<translation id="7516281787184495886">Brave News มีโฆษณาที่ไม่สามารถปิดการใช้งานได้อย่างอิสระ</translation>
+-<translation id="8008378848677625233">ปิดการใช้งาน Brave News อยู่ในขณะนี้</translation>
++<translation id="4758111936363146244">Kahf Search Ads จะปรากฏใน <ph name="BEGIN_LINK"/>Kahf Search<ph name="END_LINK"/></translation>
++<translation id="7596536223419118193">คุณยังไม่สามารถรับ BAT จาก Kahf Search Ads ได้ แต่คุณสามารถช่วยสนับสนุน Kahf ได้ด้วยการเปิดใช้งาน</translation>
++<translation id="6390952132783970876">โฆษณา Kahf News</translation>
++<translation id="7516281787184495886">Kahf News มีโฆษณาที่ไม่สามารถปิดการใช้งานได้อย่างอิสระ</translation>
++<translation id="8008378848677625233">ปิดการใช้งาน Kahf News อยู่ในขณะนี้</translation>
+ <translation id="6112368337882254910">มีส่วนร่วมอัตโนมัติ</translation>
+ <translation id="557705068184766514">วิธีสนับสนุนเว็บไซต์และผู้สร้างเนื้อหาแบบอัตโนมัติ ให้กำหนดจำนวนเงินสนับสนุนรายเดือนแล้วเรียกดูตามปกติ <ph name="BEGIN_LINK"/>เว็บไซต์และผู้สร้างสรรค์ที่ได้รับการยืนยันตัวตนแล้ว<ph name="END_LINK"/>ที่คุณเข้าชมจะได้รับเงินสนับสนุนจากคุณในแต่ละเดือนตามระยะเวลาที่คุณใช้ไปกับเนื้อหาของพวกเขา</translation>
+ <translation id="6688567880783357035">รายได้จนถึงปัจจุบันในเดือนนี้</translation>
+ <translation id="949044897316791211">วันจ่ายรายได้ครั้งถัดไป</translation>
+ <translation id="2211646556917925490">จำนวนโฆษณาทั้งหมดที่ได้รับในเดือนนี้</translation>
+ <translation id="4229016885653790965">ขออภัย! ยังไม่มีโฆษณาในพื้นที่ของคุณ</translation>
+-<translation id="2539279826042558064">Brave Rewards และโฆษณายังทำงานบนอุปกรณ์ของคุณไม่ได้ในขณะนี้</translation>
++<translation id="2539279826042558064">Kahf Rewards และโฆษณายังทำงานบนอุปกรณ์ของคุณไม่ได้ในขณะนี้</translation>
+ <translation id="5736977383725358876">ความถี่การแจ้งเตือนโฆษณา</translation>
+ <translation id="7701040980221191251">ไม่มี</translation>
+ <translation id="480668534656787076">สูงสุด 1 ครั้งต่อชั่วโมง</translation>
+@@ -242,30 +242,30 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="3082557070674409251">คลิกแล้ว</translation>
+ <translation id="7119308337584989771">ปิด</translation>
+ <translation id="6805660603861526473">ดูแล้ว</translation>
+-<translation id="8826352442759228526">ไม่สามารถยืนยัน Brave Rewards ของคุณได้เนื่องจากคุณมีจำนวนอุปกรณ์ที่ผ่านการยืนยันตัวตนถึงขีดจำกัดสูงสุดแล้ว</translation>
++<translation id="8826352442759228526">ไม่สามารถยืนยัน Kahf Rewards ของคุณได้เนื่องจากคุณมีจำนวนอุปกรณ์ที่ผ่านการยืนยันตัวตนถึงขีดจำกัดสูงสุดแล้ว</translation>
+ <translation id="1221593978088944142">ข้อผิดพลาด: ถึงขีดจำกัดอุปกรณ์</translation>
+-<translation id="6895088073061692390">ขออภัย โปรไฟล์ Brave Rewards ของคุณถูกติดธงแล้ว เนื่องจากการตรวจสอบแบบอัตโนมัติของเราพบกิจกรรม Brave Ads ที่ไม่คาดคิด</translation>
+-<translation id="4229056297802204697">ในขณะที่โปรไฟล์ของคุณถูกติดธง คุณอาจยังคงเห็นโฆษณาอยู่ แต่จะไม่มีสิทธิ์รับการชำระเงิน และคุณจะไม่สามารถเชื่อมต่อบัญชีฝากสินทรัพย์กับ Brave Rewards ได้</translation>
++<translation id="6895088073061692390">ขออภัย โปรไฟล์ Kahf Rewards ของคุณถูกติดธงแล้ว เนื่องจากการตรวจสอบแบบอัตโนมัติของเราพบกิจกรรม Kahf Ads ที่ไม่คาดคิด</translation>
++<translation id="4229056297802204697">ในขณะที่โปรไฟล์ของคุณถูกติดธง คุณอาจยังคงเห็นโฆษณาอยู่ แต่จะไม่มีสิทธิ์รับการชำระเงิน และคุณจะไม่สามารถเชื่อมต่อบัญชีฝากสินทรัพย์กับ Kahf Rewards ได้</translation>
+ <translation id="5124846913141379164">อาจเป็นไปได้ว่าโปรไฟล์ของคุณถูกติดธงด้วยข้อผิดพลาด และคุณไม่จำเป็นต้องดำเนินการใดๆ ในทันที ธงบนโปรไฟล์ของคุณอาจถูกลบออกในอนาคต</translation>
+-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>เรียนรู้เพิ่มเติมเกี่ยวกับกระบวนการของ Brave ในการติดธงโปรไฟล์ Rewards<ph name="END_LINK"/></translation>
+-<translation id="5028274575541726856">เกิดข้อผิดพลาด: โปรไฟล์ Brave Rewards ติดธงแล้ว</translation>
++<translation id="280350148043792509"><ph name="BEGIN_LINK"/>เรียนรู้เพิ่มเติมเกี่ยวกับกระบวนการของ Kahf ในการติดธงโปรไฟล์ Rewards<ph name="END_LINK"/></translation>
++<translation id="5028274575541726856">เกิดข้อผิดพลาด: โปรไฟล์ Kahf Rewards ติดธงแล้ว</translation>
+ <translation id="2607420597216860026">กรุณาลองอีกครั้งหลังจากที่คุณได้ดำเนินการยืนยัน ID บน <ph name="PROVIDER"/>แล้ว</translation>
+ <translation id="3183954159462541696">เกิดข้อผิดพลาด: คุณต้องมีบัญชีที่ผ่านการยืนยันแล้วเพื่อเข้าสู่ระบบ</translation>
+-<translation id="1859789048900659918">ดูเหมือนว่าประเทศใน Brave Rewards ของคุณไม่ตรงกับประเทศในบัญชี <ph name="PROVIDER"/> ที่คุณกำลังพยายามเชื่อมต่อ</translation>
++<translation id="1859789048900659918">ดูเหมือนว่าประเทศใน Kahf Rewards ของคุณไม่ตรงกับประเทศในบัญชี <ph name="PROVIDER"/> ที่คุณกำลังพยายามเชื่อมต่อ</translation>
+ <translation id="8925428135452218262">ข้อผิดพลาด: ประเทศไม่ตรงกัน</translation>
+-<translation id="5260522591743022748">ดูเหมือนว่า Brave Rewards ของคุณจะได้รับการยืนยันด้วยบัญชีผู้ใช้ <ph name="PROVIDER"/> อีกบัญชีหนึ่ง กรุณายืนยันอีกครั้งโดยใช้บัญชีก่อนหน้าของคุณ</translation>
++<translation id="5260522591743022748">ดูเหมือนว่า Kahf Rewards ของคุณจะได้รับการยืนยันด้วยบัญชีผู้ใช้ <ph name="PROVIDER"/> อีกบัญชีหนึ่ง กรุณายืนยันอีกครั้งโดยใช้บัญชีก่อนหน้าของคุณ</translation>
+ <translation id="5111921830714291902">ข้อผิดพลาด: บัญชีแตกต่างกัน</translation>
+-<translation id="5225019866741699134">ไม่สามารถเชื่อมต่อ <ph name="PROVIDER"/> กับ Brave Rewards ได้ชั่วคราว โปรดลองอีกครั้งในภายหลัง</translation>
++<translation id="5225019866741699134">ไม่สามารถเชื่อมต่อ <ph name="PROVIDER"/> กับ Kahf Rewards ได้ชั่วคราว โปรดลองอีกครั้งในภายหลัง</translation>
+ <translation id="6105073131081187815">คุณสามารถดูสถานะการบริการ <ph name="BEGIN_LINK"/>ได้ที่นี่<ph name="END_LINK"/></translation>
+ <translation id="2400786541309111904">ข้อผิดพลาด: ไม่สามารถเชื่อมต่อกับผู้เก็บรักษาสินทรัพย์ที่เลือกไว้ชั่วคราว</translation>
+-<translation id="1024520300696337331">บัญชี <ph name="PROVIDER"/> ของคุณไม่สามารถเชื่อมต่อโพรไฟล์ Brave Rewards ได้ในขณะนี้ บัญชี <ph name="PROVIDER"/> ของคุณสมัครในประเทศที่ยังไม่รองรับการเชื่อมต่อไปยัง Brave Rewards</translation>
+-<translation id="619384413404021992">ดู <ph name="LINK_BEGIN"/>รายการภูมิภาคที่รองรับในปัจจุบันและเรียนรู้เพิ่มเติม<ph name="END_LINK"/>เกี่ยวกับการเชื่อมต่อบัญชีที่ไม่รับรองไปที่ Brave Rewards</translation>
++<translation id="1024520300696337331">บัญชี <ph name="PROVIDER"/> ของคุณไม่สามารถเชื่อมต่อโพรไฟล์ Kahf Rewards ได้ในขณะนี้ บัญชี <ph name="PROVIDER"/> ของคุณสมัครในประเทศที่ยังไม่รองรับการเชื่อมต่อไปยัง Kahf Rewards</translation>
++<translation id="619384413404021992">ดู <ph name="LINK_BEGIN"/>รายการภูมิภาคที่รองรับในปัจจุบันและเรียนรู้เพิ่มเติม<ph name="END_LINK"/>เกี่ยวกับการเชื่อมต่อบัญชีที่ไม่รับรองไปที่ Kahf Rewards</translation>
+ <translation id="7193389978208728181">ข้อผิดพลาด: ภูมิภาคปัจจุบันไม่รองรับ</translation>
+ <translation id="5382684862562314222">ยังไม่รองรับ BAT ในภูมิภาคของคุณบน Uphold</translation>
+ <translation id="9074594632540931067">เกิดข้อผิดพลาด: BAT ไม่พร้อมใช้งาน</translation>
+ <translation id="5376524136040178759">ขณะนี้มีข้อจำกัดบางประการสำหรับบัญชี Uphold ของคุณ กรุณาลงชื่อเข้าใช้บัญชี Uphold ของคุณและตรวจสอบว่ามีการแจ้งเตือนหรือข้อกำหนดบัญชีที่เหลือที่ต้องดำเนินการให้เสร็จสิ้นหรือไม่ แล้วลองอีกครั้ง ตัวอย่างเช่น คุณอาจต้องส่งข้อมูลเพิ่มเติมไปยัง Uphold</translation>
+ <translation id="6996157559236886133">ข้อผิดพลาด: จำกัดฟังก์ชันการทำงานของบัญชี Uphold</translation>
+-<translation id="3274650021044762770">มีปัญหาในการตรวจสอบคำขอของเบราว์เซอร์ของคุณที่ต้องการเชื่อมต่อ Brave Rewards กับบัญชี <ph name="PROVIDER"/> ของคุณ คุณสามารถ<ph name="BEGIN_LINK"/>ติดต่อฝ่ายสนับสนุน<ph name="END_LINK"/>เพื่อขอความช่วยเหลือเพิ่มเติมได้</translation>
++<translation id="3274650021044762770">มีปัญหาในการตรวจสอบคำขอของเบราว์เซอร์ของคุณที่ต้องการเชื่อมต่อ Kahf Rewards กับบัญชี <ph name="PROVIDER"/> ของคุณ คุณสามารถ<ph name="BEGIN_LINK"/>ติดต่อฝ่ายสนับสนุน<ph name="END_LINK"/>เพื่อขอความช่วยเหลือเพิ่มเติมได้</translation>
+ <translation id="1316066811927496401">ข้อผิดพลาด: ไม่สามารถตรวจสอบคำขอได้</translation>
+ <translation id="7352651011704765696">มีบางอย่างผิดพลาด</translation>
+ <translation id="8285276813470932793">เราไม่สามารถดำเนินการตามคำขอของคุณให้เสร็จสมบูรณ์ได้ โปรดลองอีกครั้ง และ<ph name="LINK_BEGIN"/>ติดต่อฝ่ายสนับสนุน<ph name="LINK_END"/> หากยังมีปัญหาอยู่</translation>
+@@ -285,7 +285,7 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="756341217015623253">ลงชื่อเข้าใช้หรือลงทะเบียน</translation>
+ <translation id="2653844658857826081">ใหม่</translation>
+ <translation id="1892970806832316900">รอดำเนินการจนถึง <ph name="DATE"/></translation>
+-<translation id="7849926087559412554">ขออภัย! เบราว์เซอร์ของคุณไม่สามารถรับโฆษณาส่วนตัวของ Brave ได้</translation>
++<translation id="7849926087559412554">ขออภัย! เบราว์เซอร์ของคุณไม่สามารถรับโฆษณาส่วนตัวของ Kahf ได้</translation>
+ <translation id="5177429570315095022">คุณต้องอัปเดตเบราว์เซอร์ของคุณเพื่อดูโฆษณาต่อ</translation>
+ <translation id="4593680147181354667">ID ระบบวินิจฉัย</translation>
+ <translation id="3995471429906554168">ข้อมูลระบบวินิจฉัย</translation>
+@@ -575,20 +575,20 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="2429828319207652823">มีปัญหาในการประมวลผลการบริจาคของคุณ</translation>
+ <translation id="6390041270339783491">การสนับสนุนรายเดือนล้มเหลว</translation>
+ <translation id="7047578174221019462">การสนับสนุนรายเดือนของคุณได้รับการดำเนินการแล้ว</translation>
+-<translation id="2529827670795983639">ดูเหมือนว่าจะไม่ได้ผล Brave Ads จะยังคงหยุดชั่วคราว กรุณาติดต่อเราหากคุณต้องการความช่วยเหลือเกี่ยวกับ CAPTCHA</translation>
++<translation id="2529827670795983639">ดูเหมือนว่าจะไม่ได้ผล Kahf Ads จะยังคงหยุดชั่วคราว กรุณาติดต่อเราหากคุณต้องการความช่วยเหลือเกี่ยวกับ CAPTCHA</translation>
+ <translation id="261607053214862521">เกินความพยายามสูงสุดแล้ว</translation>
+ <translation id="2323171459178104277">แก้ปัญหาสำเร็จแล้ว!</translation>
+-<translation id="1512837998731269583">Ads และรายได้จะกลับมาอีกครั้งแล้ว ขอบคุณที่ช่วยเราปกป้อง Brave Rewards และโฆษณาที่รักษาความเป็นส่วนตัว</translation>
++<translation id="1512837998731269583">Ads และรายได้จะกลับมาอีกครั้งแล้ว ขอบคุณที่ช่วยเราปกป้อง Kahf Rewards และโฆษณาที่รักษาความเป็นส่วนตัว</translation>
+ <translation id="3247549836099021862">ติดต่อฝ่ายสนับสนุน</translation>
+ <translation id="5234764350956374838">ปิด</translation>
+ <translation id="7859066142771796818">ใช้โทเค็นเพื่อซื้อบัตรของขวัญ แลกเปลี่ยนเป็นสกุลเงินอื่น สนับสนุนผู้สร้างสรรค์คอนเทนต์ และอื่นๆ</translation>
+-<translation id="5425006356459378415">ไม่สามารถใช้งาน Brave Rewards</translation>
+-<translation id="909076461795862330">ขออภัย มีข้อผิดพลาดขณะพยายามตั้งค่า Brave Rewards โปรดลองอีกครั้ง</translation>
++<translation id="5425006356459378415">ไม่สามารถใช้งาน Kahf Rewards</translation>
++<translation id="909076461795862330">ขออภัย มีข้อผิดพลาดขณะพยายามตั้งค่า Kahf Rewards โปรดลองอีกครั้ง</translation>
+ <translation id="3180990265682133881">ขออภัย มีข้อผิดพลาดขณะพยายามตั้งค่าประเทศของคุณ โปรดลองอีกครั้ง</translation>
+-<translation id="5931798071481566121">ขณะนี้ไม่สามารถลงทะเบียน Brave Rewards ใหม่ในภูมิภาคของคุณได้ แต่คุณสามารถลองอีกครั้งในภายหลังได้เสมอ <ph name="LINK_BEGIN"/>เรียนรู้เพิ่มเติม<ph name="LINK_END"/></translation>
++<translation id="5931798071481566121">ขณะนี้ไม่สามารถลงทะเบียน Kahf Rewards ใหม่ในภูมิภาคของคุณได้ แต่คุณสามารถลองอีกครั้งในภายหลังได้เสมอ <ph name="LINK_BEGIN"/>เรียนรู้เพิ่มเติม<ph name="LINK_END"/></translation>
+ <translation id="6439128034594289376">วู้ฮู! คุณทำเสร็จเรียบร้อย!</translation>
+ <translation id="6136350726756049410">ตอนนี้คุณสามารถรับรางวัลจากการดูโฆษณา คุณกำลังช่วยทำให้เว็บเป็นสถานที่ที่ดีขึ้นสำหรับทุกคน และนั่นยอดเยี่ยมมาก!</translation>
+-<translation id="5547108999862247665">Brave Rewards ทำงานอย่างไร</translation>
++<translation id="5547108999862247665">Kahf Rewards ทำงานอย่างไร</translation>
+ <translation id="3970520675790340955">เลือกประเทศของคุณ เพื่อให้เราสามารถแสดงตัวเลือกและโฆษณาที่เหมาะสมสำหรับภูมิภาคของคุณ</translation>
+ <translation id="6945221475159498467">เลือก</translation>
+ <translation id="3279158300746391749">กดไอคอน BAT <ph name="BAT_ICON"/> ในแถบ URL เพื่อเริ่มต้น</translation>
+@@ -902,9 +902,9 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="7261362517244085362">อนุญาตวอลเล็ทของคุณ</translation>
+ <translation id="7150150391368236519">เชื่อมต่อ Hardware Wallet</translation>
+ <translation id="5400782314657008092">ขณะนี้ เรารองรับอุปกรณ์ <ph name="HARDWARE_DEVICE"/> และ <ph name="HARDWARE_DEVICE1"/></translation>
+-<translation id="8144305264680648043">เชื่อมต่อฮาร์ดแวร์วอลเล็ทของคุณเพื่อจัดการสินทรัพย์ของคุณโดยตรงจาก Brave วอลเล็ท</translation>
++<translation id="8144305264680648043">เชื่อมต่อฮาร์ดแวร์วอลเล็ทของคุณเพื่อจัดการสินทรัพย์ของคุณโดยตรงจาก Kahf วอลเล็ท</translation>
+ <translation id="1329837291200753515">เลือกบล็อกเชนเพื่อนำเข้าฮาร์ดแวร์วอลเล็ทของคุณ</translation>
+-<translation id="6983390509997396124">เชื่อมต่ออุปกรณ์ <ph name="HARDWARE_DEVICE"/> ของคุณกับ Brave วอลเล็ท</translation>
++<translation id="6983390509997396124">เชื่อมต่ออุปกรณ์ <ph name="HARDWARE_DEVICE"/> ของคุณกับ Kahf วอลเล็ท</translation>
+ <translation id="5149944858285555235">ข้อผิดพลาดที่ไม่รู้จัก โปรดเชื่อมต่อฮาร์ดแวร์วอลเล็ตของคุณใหม่แล้วลองอีกครั้ง</translation>
+ <translation id="4522570452068850558">รายละเอียด</translation>
+ <translation id="9220525904950070496">Remove account</translation>
+@@ -1580,7 +1580,7 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="1215089823252478557">ดูการเปลี่ยนแปลงของยอดคงเหลือโดยประมาณ</translation>
+ <translation id="2761574758015819991">ระบุธุรกรรมที่อาจก่อให้เกิดอันตราย</translation>
+ <translation id="168533464844528463">ช่วยตรวจจับฟิชชิ่ง</translation>
+-<translation id="7269757150305059881">Brave ทำงานร่วมกับพันธมิตรเพื่อให้บริการนี้ ซึ่งการเปิดใช้งานแสดงว่าคุณตกลงที่จะแบ่งปันธุรกรรมที่ยังไม่ได้เซ็นอนุมัติและ URL DApp กับพันธมิตรของเรา</translation>
++<translation id="7269757150305059881">Kahf ทำงานร่วมกับพันธมิตรเพื่อให้บริการนี้ ซึ่งการเปิดใช้งานแสดงว่าคุณตกลงที่จะแบ่งปันธุรกรรมที่ยังไม่ได้เซ็นอนุมัติและ URL DApp กับพันธมิตรของเรา</translation>
+ <translation id="7790932700072432983">เปลี่ยนแปลงได้ทุกเมื่อใน <ph name="TAG_BEFORE"/>การตั้งค่า<ph name="TAG_AFTER"/></translation>
+ <translation id="8688672835843460752">มีอยู่</translation>
+ <translation id="5296640085393149413">ยอดเงินที่คุณใช้ได้</translation>
+@@ -1804,23 +1804,23 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="6938154350999993769">แก้ปัญหาด้วยโหมดสลับแท็บเล็ต</translation>
+ <translation id="5854741377790551127">แก้ปัญหาแผนผังมุมมองการพิมพ์</translation>
+ <translation id="8199130368328220410">สลับคำบรรยายสด</translation>
+-<translation id="9055778350624039365">แสดงแผง Brave Wallet</translation>
+-<translation id="2548853975094084059">ปิดแผง Brave Wallet</translation>
+-<translation id="3765209580429944524">แสดงแผง Brave VPN</translation>
+-<translation id="5989009326527614692">สลับปุ่มแถบเครื่องมือ Brave VPN</translation>
+-<translation id="7334332308395652803">สลับไอคอนแถบ Brave VPN</translation>
+-<translation id="4326011033480357140">ส่งความคิดเห็น Brave VPN</translation>
+-<translation id="2345974803401546682">เกี่ยวกับ Brave VPN</translation>
+-<translation id="8934783170241943640">จัดการแผน Brave VPN</translation>
+-<translation id="6332027154313182926">สลับ Brave VPN</translation>
++<translation id="9055778350624039365">แสดงแผง Kahf Wallet</translation>
++<translation id="2548853975094084059">ปิดแผง Kahf Wallet</translation>
++<translation id="3765209580429944524">แสดงแผง Kahf VPN</translation>
++<translation id="5989009326527614692">สลับปุ่มแถบเครื่องมือ Kahf VPN</translation>
++<translation id="7334332308395652803">สลับไอคอนแถบ Kahf VPN</translation>
++<translation id="4326011033480357140">ส่งความคิดเห็น Kahf VPN</translation>
++<translation id="2345974803401546682">เกี่ยวกับ Kahf VPN</translation>
++<translation id="8934783170241943640">จัดการแผน Kahf VPN</translation>
++<translation id="6332027154313182926">สลับ Kahf VPN</translation>
+ <translation id="6539014233195996894">สลับการปิดเสียงแท็บ</translation>
+ <translation id="2682865834956428001">สลับตำแหน่งแถบด้านข้าง</translation>
+ <translation id="6105745639559695088">สลับแถบด้านข้าง</translation>
+ <translation id="3488252265135539275">สลับแท็บแนวตั้ง</translation>
+ <translation id="7134064542341959603">สลับชื่อหน้าต่างแท็บแนวตั้ง</translation>
+-<translation id="3067105725259639716">กำหนดค่า Brave News</translation>
++<translation id="3067105725259639716">กำหนดค่า Kahf News</translation>
+ <translation id="6286510487460330478">กำหนดค่าทางลัด</translation>
+-<translation id="9214819486716388964">แสดง Brave Talk</translation>
++<translation id="9214819486716388964">แสดง Kahf Talk</translation>
+ <translation id="5950760360751948276">แสดงแถบบุ๊กมาร์กทุกครั้ง</translation>
+ <translation id="2960757369920422313">แสดงแถบบุ๊กมาร์กบนหน้าแท็บใหม่</translation>
+ <translation id="522953399371747698">ซ่อนแถบบุ๊กมาร์ก</translation>
+@@ -1901,11 +1901,11 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="1167803637855350748">เกิดปัญหาในการเชื่อมต่อเครือข่ายกับ Leo โปรดตรวจสอบการเชื่อมต่อของคุณแล้วลองอีกครั้ง</translation>
+ <translation id="1996126325390835277">คุณได้ถึงขีดจำกัดอัตราแบบ Premium แล้วโปรดลองอีกครั้งใน 2-3 ชั่วโมง</translation>
+ <translation id="7144878232160441200">ลองใหม่</translation>
+-<translation id="8570488829560315702">สวัสดี ผมชื่อ Leo ผมเป็นผู้ช่วย AI ที่โฮสต์โดย Brave ผมได้รับการสนับสนุนจาก Llama 3 8B ซึ่งเป็นโมเดลที่สร้างโดย Meta เพื่อให้มีประสิทธิภาพและใช้งานได้กับทุกกรณีต้องการใช้ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+-<translation id="6500567629965936637">สวัสดี ผมชื่อ Leo ผมเป็นผู้ช่วย AI ที่โฮสต์โดย Brave ผมได้รับการสนับสนุนจาก Mixtral 8x7B ซึ่งเป็นโมเดลที่สร้างโดย Mistral AI เพื่อจัดการงานขั้นสูง <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+-<translation id="4590776109659811206">สวัสดี ผมชื่อ Leo ผมเป็นตัวแทนของ Brave และได้รับการสนับสนุนจาก Claude Instant ซึ่งเป็นโมเดลที่สร้างโดย Anthropic เพื่อขับเคลื่อนงานด้านการสนทนาและการประมวลผลข้อความ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+-<translation id="8583558415545871403">สวัสดี ผมชื่อ Leo ผมเป็นตัวแทนของ Brave และได้รับการสนับสนุนจาก Claude 3 Haiku ซึ่งเป็นโมเดลที่สร้างโดย Anthropic เพื่อขับเคลื่อนงานด้านการสนทนาและการประมวลผลข้อความ</translation>
+-<translation id="4147243042852964992">สวัสดี ผมชื่อ Leo ผมเป็นตัวแทนของ Brave และได้รับการสนับสนุนจาก Claude 3 Sonnet ซึ่งเป็นโมเดลที่สร้างโดย Anthropic เพื่อขับเคลื่อนงานด้านการสนทนาและการประมวลผลข้อความ</translation>
++<translation id="8570488829560315702">สวัสดี ผมชื่อ Leo ผมเป็นผู้ช่วย AI ที่โฮสต์โดย Kahf ผมได้รับการสนับสนุนจาก Llama 3 8B ซึ่งเป็นโมเดลที่สร้างโดย Meta เพื่อให้มีประสิทธิภาพและใช้งานได้กับทุกกรณีต้องการใช้ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
++<translation id="6500567629965936637">สวัสดี ผมชื่อ Leo ผมเป็นผู้ช่วย AI ที่โฮสต์โดย Kahf ผมได้รับการสนับสนุนจาก Mixtral 8x7B ซึ่งเป็นโมเดลที่สร้างโดย Mistral AI เพื่อจัดการงานขั้นสูง <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
++<translation id="4590776109659811206">สวัสดี ผมชื่อ Leo ผมเป็นตัวแทนของ Kahf และได้รับการสนับสนุนจาก Claude Instant ซึ่งเป็นโมเดลที่สร้างโดย Anthropic เพื่อขับเคลื่อนงานด้านการสนทนาและการประมวลผลข้อความ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
++<translation id="8583558415545871403">สวัสดี ผมชื่อ Leo ผมเป็นตัวแทนของ Kahf และได้รับการสนับสนุนจาก Claude 3 Haiku ซึ่งเป็นโมเดลที่สร้างโดย Anthropic เพื่อขับเคลื่อนงานด้านการสนทนาและการประมวลผลข้อความ</translation>
++<translation id="4147243042852964992">สวัสดี ผมชื่อ Leo ผมเป็นตัวแทนของ Kahf และได้รับการสนับสนุนจาก Claude 3 Sonnet ซึ่งเป็นโมเดลที่สร้างโดย Anthropic เพื่อขับเคลื่อนงานด้านการสนทนาและการประมวลผลข้อความ</translation>
+ <translation id="6206029817087805290"><ph name="MODEL_NAME"/> โดย <ph name="COMPANY_NAME"/></translation>
+ <translation id="963346402440669081">Premium</translation>
+ <translation id="6187065185557150870">แชท</translation>
+@@ -1953,7 +1953,7 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="8712637175834984815">สำเร็จ</translation>
+ <translation id="1093419424466417703">หน้านี้มีความยาวเกินไปสำหรับ Leo บางข้อความอาจหายไปจากการสนทนา Leo สามารถอ่านเนื้อหาของหน้าได้เพียง <ph name="PERCENTAGE"/></translation>
+ <translation id="4370698775470316661">บทสนทนานี้มีความยาวเกินไปและไม่สามารถดำเนินการต่อได้ อาจมีโมเดลอื่นๆ ที่ Leo สามารถใช้เพื่อรักษาความถูกต้องในบทสนทนาได้ยาวนานขึ้น</translation>
+-<translation id="5719170755629028558">ปรับปรุงคำตอบของคุณด้วย Brave Search…</translation>
++<translation id="5719170755629028558">ปรับปรุงคำตอบของคุณด้วย Kahf Search…</translation>
+ <translation id="5794962229997281366">ปรับปรุงการค้นหาคำตอบสำหรับ <ph name="SEARCH_TERMS"/></translation>
+ <translation id="6291843235651817590">การแชทด้วยวัตถุประสงค์ทั่วไป</translation>
+ <translation id="8193130769524604031">งานด้านการแชทขั้นสูง</translation>
+@@ -1998,13 +1998,13 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="49269513399674318">ใช้ไมโครโฟน</translation>
+ <translation id="3895031624234442305">โมเดลแบบกำหนดเอง</translation>
+ <translation id="6303294677342628402">ปกป้อง</translation>
+-<translation id="8458987127502506209">เปิดใช้งานการป้องกันของ Brave</translation>
++<translation id="8458987127502506209">เปิดใช้งานการป้องกันของ Kahf</translation>
+ <translation id="7509914170164691086"><ph name="LINK_BEFORE"/>เปิดใช้งาน<ph name="LINK_AFTER"/>โล่สำหรับ</translation>
+ <translation id="260764436039299868">ปิดใช้งาน Shields <ph name="LINK_BEFORE"/>สำหรับ<ph name="LINK_AFTER"/></translation>
+ <translation id="3907405056878805220">หากเว็บไซต์นี้ดูเหมือนใช้งานไม่ได้ ให้ลองใช้ Shields down
+- <ph name="LINK_BEFORE"/>หมายเหตุ: การดำเนินการนี้อาจทำให้การปกป้องความเป็นส่วนตัวของ Brave ลดลง<ph name="LINK_AFTER"/></translation>
++ <ph name="LINK_BEFORE"/>หมายเหตุ: การดำเนินการนี้อาจทำให้การปกป้องความเป็นส่วนตัวของ Kahf ลดลง<ph name="LINK_AFTER"/></translation>
+ <translation id="8377155647357436161">บล็อกตัวติดตาม โฆษณา และอื่นๆ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+-<translation id="7604553853176833536">ไม่มีการปกป้องจาก Brave Shields <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
++<translation id="7604553853176833536">ไม่มีการปกป้องจาก Kahf Shields <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+ <translation id="650318023204990401">การควบคุมขั้นสูง</translation>
+ <translation id="5799940914270080805">การเปลี่ยนการตั้งค่าเหล่านี้อาจทำให้เว็บไซต์เสียหาย</translation>
+ <translation id="9204041448536398473">การตั้งค่าการป้องกันแบบทั่วไป</translation>
+@@ -2035,49 +2035,49 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="2570787596946026998">เชื่อมต่อกับ HTTPS เท่านั้น</translation>
+ <translation id="1992750560347846445">รายงานเว็บไซต์</translation>
+ <translation id="2387532482048804818">แจ้งเราหากเว็บไซต์ทำงานผิดปกติเมื่อเปิด Shields</translation>
+-<translation id="3795015906457257780">คุณกำลังดูเว็บไซต์นี้โดยไม่มีการป้องกันความเป็นส่วนตัวของ Brave</translation>
+-<translation id="7194012750329511146">Brave Shields
++<translation id="3795015906457257780">คุณกำลังดูเว็บไซต์นี้โดยไม่มีการป้องกันความเป็นส่วนตัวของ Kahf</translation>
++<translation id="7194012750329511146">Kahf Shields
+ บล็อกตัวติดตาม โฆษณา และอื่นๆ อีกมากมายกว่า <ph name="NUMBER"/> รายการด้วย</translation>
+ <translation id="4292121526390005808">บล็อคสคริปต์ถูกบล็อค</translation>
+ <translation id="5046271170844958713">อนุญาตสคริปต์</translation>
+ <translation id="264682546981571963">เบื่อไหมกับการแจ้งเตือนความยินยอมในการจัดเก็บคุกกี้</translation>
+-<translation id="4986297793092101884">Brave บล็อกคุกกี้ของบุคคลที่สามแล้ว เราสามารถบล็อกการแจ้งเตือนความยินยอมในการจัดเก็บคุกกี้ได้เช่นกัน</translation>
++<translation id="4986297793092101884">Kahf บล็อกคุกกี้ของบุคคลที่สามแล้ว เราสามารถบล็อกการแจ้งเตือนความยินยอมในการจัดเก็บคุกกี้ได้เช่นกัน</translation>
+ <translation id="535688588637568715">ใช่ บล็อกการแจ้งเตือนความยินยอมในการจัดเก็บคุกกี้</translation>
+-<translation id="2808175374672429053">ไม่สามารถใช้ Wildcard ได้กับ Brave Shields</translation>
++<translation id="2808175374672429053">ไม่สามารถใช้ Wildcard ได้กับ Kahf Shields</translation>
+ <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
+-      =1 {เกราะป้องกันของ Brave บล็อก 1 ตัวติดตามบน <ph name="SITE_URL"/>}
+-      other {เกราะป้องกันของ Brave บล็อกอีก {BLOCKED_COUNT} ตัวติดตามบน <ph name="SITE_URL"/>}
++      =1 {เกราะป้องกันของ Kahf บล็อก 1 ตัวติดตามบน <ph name="SITE_URL"/>}
++      other {เกราะป้องกันของ Kahf บล็อกอีก {BLOCKED_COUNT} ตัวติดตามบน <ph name="SITE_URL"/>}
+     }</translation>
+-<translation id="2540598191934725677">คลิกไอคอน Brave เพื่อดู Brave Shields</translation>
++<translation id="2540598191934725677">คลิกไอคอน Kahf เพื่อดู Kahf Shields</translation>
+ <translation id="6294662480095808915">ความเป็นส่วนตัว ตามค่าเริ่มต้น</translation>
+-<translation id="4366423156486478559">รับการปกป้อง Brave ในทุกลิงก์ที่คุณคลิก เพียงตั้งค่า Brave เป็นค่าเริ่มต้นและเล่นอินเทอร์เน็ตอย่างเป็นส่วนตัว</translation>
++<translation id="4366423156486478559">รับการปกป้อง Kahf ในทุกลิงก์ที่คุณคลิก เพียงตั้งค่า Kahf เป็นค่าเริ่มต้นและเล่นอินเทอร์เน็ตอย่างเป็นส่วนตัว</translation>
+ <translation id="3830912418080848377">นำเข้าการตั้งค่า</translation>
+ <translation id="6378406588483694938">นำเข้าบุ๊กมาร์ก ส่วนขยาย และรหัสผ่านที่บันทึกไว้จากเบราว์เซอร์เก่าของคุณได้ง่าย</translation>
+ <translation id="2092825239819166928">เลือกโปรไฟล์เพื่อนำเข้า</translation>
+ <translation id="4763127492635705340">เบราว์เซอร์ที่คุณเลือกมีหลายโปรไฟล์ เลือกโปรไฟล์ที่คุณต้องการนำเข้า</translation>
+ <translation id="880174232178865598">นำเข้าโปรไฟล์</translation>
+ <translation id="2453860139492968684">เสร็จสิ้น</translation>
+-<translation id="2273851479262317744">ตั้ง Brave เป็นเบราว์เซอร์เริ่มต้น</translation>
++<translation id="2273851479262317744">ตั้ง Kahf เป็นเบราว์เซอร์เริ่มต้น</translation>
+ <translation id="5037676449506322593">เลือกทั้งหมด</translation>
+-<translation id="5148943178722443958">ช่วยปรับปรุง Brave ให้ดีขึ้น</translation>
++<translation id="5148943178722443958">ช่วยปรับปรุง Kahf ให้ดีขึ้น</translation>
+ <translation id="1097073572755862978">ส่งรายงานการวินิจฉัยหากคุณพบข้อขัดข้องหรืออาการค้าง<ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+-<translation id="6629244688368006959">แชร์ข้อมูลเชิงลึกของผลิตภัณฑ์แบบส่วนตัวและไม่ระบุชื่อ ซึ่งมีข้อมูลเกี่ยวกับคุณสมบัติที่ผู้ใช้ Brave ใช้ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
++<translation id="6629244688368006959">แชร์ข้อมูลเชิงลึกของผลิตภัณฑ์แบบส่วนตัวและไม่ระบุชื่อ ซึ่งมีข้อมูลเกี่ยวกับคุณสมบัติที่ผู้ใช้ Kahf ใช้ <ph name="LINK_BEFORE"/>เรียนรู้เพิ่มเติม<ph name="LINK_AFTER"/></translation>
+ <translation id="7415454883318062233">การตั้งค่าเสร็จสมบูรณ์</translation>
+-<translation id="3141206739023333979">เปลี่ยนตัวเลือกเหล่านี้ได้ทุกเวลาใน Brave ได้ที่ <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/></translation>
++<translation id="3141206739023333979">เปลี่ยนตัวเลือกเหล่านี้ได้ทุกเวลาใน Kahf ได้ที่ <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/></translation>
+ <translation id="8321985064212130832">อ่านทั้งหมดของ <ph name="LINK_BEFORE"/>นโยบายความเป็นส่วนตัว<ph name="LINK_AFTER"/></translation>
+ <translation id="2801098717523961746">เลือกธีมของคุณ</translation>
+-<translation id="6262510489122516114">คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า Brave</translation>
++<translation id="6262510489122516114">คุณสามารถเปลี่ยนได้ทุกเมื่อในการตั้งค่า Kahf</translation>
+ <translation id="546481172717459539">การตั้งค่าระบบการจับคู่</translation>
+ <translation id="7799817062559422778">โหมดสว่าง</translation>
+ <translation id="4117637339509843559">โหมดมืด</translation>
+ <translation id="6302485303316397682">ต้องการผลการค้นหาที่ดีกว่านี้หรือไม่</translation>
+-<translation id="7014699001826714920">เข้าร่วมกับเรา และร่วมมือกันสนับสนุน Brave Search</translation>
+-<translation id="6821108091726602352">ช่วยเราแก้ไขเว็บไซต์ด้วยการเข้าร่วมในโครงการ Web Discovery ของ Brave คุณสามารถช่วยให้ Brave ขยายดัชนีการค้นหาได้ด้วยการแชร์สัญญาณการค้นหาแบบไม่เปิดเผยตัวตน</translation>
++<translation id="7014699001826714920">เข้าร่วมกับเรา และร่วมมือกันสนับสนุน Kahf Search</translation>
++<translation id="6821108091726602352">ช่วยเราแก้ไขเว็บไซต์ด้วยการเข้าร่วมในโครงการ Web Discovery ของ Kahf คุณสามารถช่วยให้ Kahf ขยายดัชนีการค้นหาได้ด้วยการแชร์สัญญาณการค้นหาแบบไม่เปิดเผยตัวตน</translation>
+ <translation id="6764845498618413165">เรียนรู้เพิ่มเติม</translation>
+ <translation id="7818938154803162778">แน่นอน ฉันจะช่วย</translation>
+-<translation id="7821773512278295352">Brave Firewall + VPN: เชื่อมต่อแล้ว</translation>
+-<translation id="6019088868713395120">Brave Firewall + VPN: ตัดการเชื่อมต่อแล้ว</translation>
+-<translation id="3541307549916475335">UI หน้าต่าง VPN ของ Brave</translation>
++<translation id="7821773512278295352">Kahf Firewall + VPN: เชื่อมต่อแล้ว</translation>
++<translation id="6019088868713395120">Kahf Firewall + VPN: ตัดการเชื่อมต่อแล้ว</translation>
++<translation id="3541307549916475335">UI หน้าต่าง VPN ของ Kahf</translation>
+ <translation id="1742469581923031760">กำลังเชื่อมต่อ</translation>
+ <translation id="1287487756047817908">กำลังยกเลิกการเชื่อมต่อ</translation>
+ <translation id="2325196879156848326">การเชื่อมต่อล้มเหลว</translation>
+@@ -2087,7 +2087,7 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="8703188411226330709">เริ่มต้นทดลองใช้งานฟรี</translation>
+ <translation id="1024255913009642477">ซื้อ VPN แล้วใช่ไหม</translation>
+ <translation id="8814357473522731680">สนับสนุนโดย</translation>
+-<translation id="3960619311638643872">Brave VPN</translation>
++<translation id="3960619311638643872">Kahf VPN</translation>
+ <translation id="7805768142964895445">สถานะ</translation>
+ <translation id="5747552184818312860">หมดอายุ</translation>
+ <translation id="8421945428836418371">เชื่อมต่อใหม่โดยอัตโนมัติ</translation>
+@@ -2105,7 +2105,7 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="427718751211990320">เกินวันหมดอายุข้อมูลเข้าสู่ระบบแล้ว</translation>
+ <translation id="8670619630771851260">ไม่สามารถโหลดข้อมูลเข้าสู่ระบบได้</translation>
+ <translation id="1594643509610625766">โทเค็นใช้ไม่ได้แล้ว</translation>
+-<translation id="8373427068383038263">ดูเหมือนว่าการชำระเงินครั้งล่าสุดสำหรับ <ph name="VALUE"/> ของคุณจะไม่สำเร็จ การเข้าถึงการสมัครนี้จะหยุดจนกว่าปัญหาการชำระเงินจะได้รับการแก้ไข กรุณาลองแก้ไขวิธีการชำระเงินของคุณหรือติดต่อฝ่ายสนับสนุนของ Brave</translation>
++<translation id="8373427068383038263">ดูเหมือนว่าการชำระเงินครั้งล่าสุดสำหรับ <ph name="VALUE"/> ของคุณจะไม่สำเร็จ การเข้าถึงการสมัครนี้จะหยุดจนกว่าปัญหาการชำระเงินจะได้รับการแก้ไข กรุณาลองแก้ไขวิธีการชำระเงินของคุณหรือติดต่อฝ่ายสนับสนุนของ Kahf</translation>
+ <translation id="1839021455997460752">ที่อยู่อีเมลของคุณ</translation>
+ <translation id="8054563304616131773">โปรดใส่ที่อยู่อีเมลที่ถูกต้อง</translation>
+ <translation id="5154702632169343078">หัวเรื่อง</translation>
+@@ -2122,14 +2122,14 @@ DuckDuckGo ไม่บันทึกประวัติการค้นห
+ <translation id="6676791921618140305">เวอร์ชันระบบปฏิบัติการ:</translation>
+ <translation id="1156325797949437777">ฝ่ายสนับสนุนร่วมกับ Guardian</translation>
+ <translation id="8146777497879160283">ไม่สามารถเขียนการตั้งค่า VPN อาจเป็นเช่นนี้ถ้าคุณไม่มีสิทธิหรือหากคุณไม่ได้ใช้งาน Windows Update ล่าสุด</translation>
+-<translation id="3307461350293459700">เชื่อมต่อ VPN ล้มเหลว โปรดลองเชื่อมต่ออีกครั้ง และโปรดคลิก อนุญาต เพื่อเปิดใช้งานการกำหนดค่า VPN ของ Brave</translation>
+-<translation id="7261518280726313829">การปิด DNS รักษาความปลอดภัยหรือใช้เซิร์ฟเวอร์เริ่มต้นบน Windows อาจเปิดเผยชื่อเว็บไซต์ที่คุณเยี่ยมชมให้ผู้ให้บริการอินเทอร์เน็ตของคุณทราบได้ Brave จึงไม่แนะนำให้ดำเนินการเช่นนี้ คุณต้องการดำเนินการต่อหรือไม่</translation>
+-<translation id="888284761945060750">DNS รักษาความปลอดภัยถูกปิดใช้งานตามนโยบายขององค์กรของคุณ การใช้ Brave VPN โดยไม่มี DNS รักษาความปลอดภัยอาจเปิดเผยชื่อเว็บไซต์ที่คุณเยี่ยมชมให้ผู้ให้บริการอินเทอร์เน็ตหรือองค์กรของคุณทราบได้</translation>
+-<translation id="6593224083874259773">Brave VPN บน Windows</translation>
+-<translation id="3153983908111684619">การตั้งค่าถูกล็อคโดย BraveVPN ในขณะที่เชื่อมต่อ</translation>
++<translation id="3307461350293459700">เชื่อมต่อ VPN ล้มเหลว โปรดลองเชื่อมต่ออีกครั้ง และโปรดคลิก อนุญาต เพื่อเปิดใช้งานการกำหนดค่า VPN ของ Kahf</translation>
++<translation id="7261518280726313829">การปิด DNS รักษาความปลอดภัยหรือใช้เซิร์ฟเวอร์เริ่มต้นบน Windows อาจเปิดเผยชื่อเว็บไซต์ที่คุณเยี่ยมชมให้ผู้ให้บริการอินเทอร์เน็ตของคุณทราบได้ Kahf จึงไม่แนะนำให้ดำเนินการเช่นนี้ คุณต้องการดำเนินการต่อหรือไม่</translation>
++<translation id="888284761945060750">DNS รักษาความปลอดภัยถูกปิดใช้งานตามนโยบายขององค์กรของคุณ การใช้ Kahf VPN โดยไม่มี DNS รักษาความปลอดภัยอาจเปิดเผยชื่อเว็บไซต์ที่คุณเยี่ยมชมให้ผู้ให้บริการอินเทอร์เน็ตหรือองค์กรของคุณทราบได้</translation>
++<translation id="6593224083874259773">Kahf VPN บน Windows</translation>
++<translation id="3153983908111684619">การตั้งค่าถูกล็อคโดย KahfVPN ในขณะที่เชื่อมต่อ</translation>
+ <translation id="1055657720430482013">Windows มีคุณสมบัติที่เรียกว่า Smart Multi-Homed Name Resolution ซึ่งสามารถเปิดเผยข้อมูลเกี่ยวกับตำแหน่งของคุณและเว็บไซต์ที่คุณเยี่ยมชม 
+ 
+-Brave มีบริการช่วยเหลือที่ปกป้องคุณจากการเปิดเผยข้อมูลดังกล่าว โดยกรองวิธีสืบค้น DNS ในการเชื่อมต่อ VPN ของคุณ
++Kahf มีบริการช่วยเหลือที่ปกป้องคุณจากการเปิดเผยข้อมูลดังกล่าว โดยกรองวิธีสืบค้น DNS ในการเชื่อมต่อ VPN ของคุณ
+ 
+ อย่างไรก็ตาม เราสังเกตเห็นว่าบริการช่วยเหลือนี้ไม่ทำงาน และเราต้องการให้คุณได้รับการป้องกัน เราจึงได้ทำการเปลี่ยนการตั้งค่า DNS ในเบราว์เซอร์เพื่อป้องกันการเปิดเผยข้อมูลดังกล่าว โดยที่การตั้งค่าจะยังคงมีผลและถูกล็อคในขณะที่เชื่อมต่อ VPN 
+ 

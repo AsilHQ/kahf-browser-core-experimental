@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_tr.xtb b/app/resources/brave_generated_resources_tr.xtb	(rejected hunks)
+@@ -45,10 +45,10 @@ Veya şu adresten daha sonra değiştirin: <ph name="SETTINGS_EXTENIONS_LINK"/>.
+ <translation id="1970435562892104727">Bu, Tor'a sahip özel bir penceredir</translation>
+ <translation id="1037341607922068025">Tor ile Özel Pencereyi Aç</translation>
+ <translation id="607982085107926247">Tor'da açın: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Bu Brave Sync hesabı, başka bir cihazdan silindi. Senkronizasyonu devre dışı bırakmak istemediyseniz <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Bu Kahf Sync hesabı, başka bir cihazdan silindi. Senkronizasyonu devre dışı bırakmak istemediyseniz <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>hesabı yeniden oluşturun</translation>
+ <translation id="6965382102122355670">Tamam</translation>
+-<translation id="3975865347033939965">Senkronizasyon hizmeti başlatılamadı, Brave Senkronizasyon çalışmıyor</translation>
++<translation id="3975865347033939965">Senkronizasyon hizmeti başlatılamadı, Kahf Senkronizasyon çalışmıyor</translation>
+ <translation id="4450893287417543264">Tekrar gösterme</translation>
+ <translation id="4595286989346610620">Ayrıntıları kontrol edin</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -56,66 +56,66 @@ Veya şu adresten daha sonra değiştirin: <ph name="SETTINGS_EXTENIONS_LINK"/>.
+ <translation id="4759098689276706664">Yapıştırmayı Zorla</translation>
+ <translation id="1434416574322382019">Yeni Tor ile Özel Pencere</translation>
+ <translation id="4703780849509456860">Bağlantıyı Tor içeren Özel Pencereyle Aç</translation>
+-<translation id="3488584642074079080">Tor ile Brave Özel Pencere Açma Linki</translation>
++<translation id="3488584642074079080">Tor ile Kahf Özel Pencere Açma Linki</translation>
+ <translation id="6313675821927505581">Tor ile yeni özel pencere</translation>
+ <translation id="2638041073279639246">Bağlantıyı Tor ile özel pencerede aç</translation>
+-<translation id="3425600262621021599">Bağlantıyı Brave'de Tor ile özel pencerede aç</translation>
+-<translation id="2545072023356206691">Brave Dev, 1 Aralık 2023 tarihinden itibaren tarayıcı güncellemesi almayacaktır. Kullanıcıların; Brave'in Nightly, Beta veya Release sürümlerine geçmelerini öneriyoruz.</translation>
++<translation id="3425600262621021599">Bağlantıyı Kahf'de Tor ile özel pencerede aç</translation>
++<translation id="2545072023356206691">Kahf Dev, 1 Aralık 2023 tarihinden itibaren tarayıcı güncellemesi almayacaktır. Kullanıcıların; Kahf'in Nightly, Beta veya Release sürümlerine geçmelerini öneriyoruz.</translation>
+ <translation id="474217410105706308">Sekmenin Sesini Kapat</translation>
+-<translation id="2804710924397009224">Brave Ödülleri Simgesini Gizle</translation>
+-<translation id="5029193871181468990">Brave Ödülleri simgesini gizle</translation>
+-<translation id="2808103541110899519">Brave Cüzdanı Simgesini gizle</translation>
+-<translation id="7595540212376041331">Brave Cüzdanı simgesini gizle</translation>
++<translation id="2804710924397009224">Kahf Ödülleri Simgesini Gizle</translation>
++<translation id="5029193871181468990">Kahf Ödülleri simgesini gizle</translation>
++<translation id="2808103541110899519">Kahf Cüzdanı Simgesini gizle</translation>
++<translation id="7595540212376041331">Kahf Cüzdanı simgesini gizle</translation>
+ <translation id="4928988318462976765">Web Uzantıları Mağazası</translation>
+ <translation id="9181207987584064303">Web Uzantıları Mağazası'nda görüntüle</translation>
+-<translation id="3161744659507801211">Uyarı: Brave uzantıların tarama geçmişinizi kaydetmesini engelleyemez.</translation>
++<translation id="3161744659507801211">Uyarı: Kahf uzantıların tarama geçmişinizi kaydetmesini engelleyemez.</translation>
+ <translation id="2162109630536601963">Uzantı ağ istemlerinde bulunursa, Tor veya gizli mod kullanmayacak.</translation>
+ <translation id="2725327089319971976">Bu uzantıyı gizli modda ve Tor modunda devre dışı bırakmak için, bu seçeneğin seçimini kaldırın.</translation>
+-<translation id="3371343170427636147">Brave Browser Gece Uygulamaları</translation>
+-<translation id="4097979995947147464">Brave Browser Beta Uygulamaları</translation>
+-<translation id="8303432794159193481">Brave Tarayıcı Geliştirme Uygulamaları</translation>
+-<translation id="8292967014767479012">Brave Browser Uygulamaları</translation>
+-<translation id="4743468424889072281">Brave Browser Geliştirme Uygulamaları</translation>
++<translation id="3371343170427636147">Kahf Browser Gece Uygulamaları</translation>
++<translation id="4097979995947147464">Kahf Browser Beta Uygulamaları</translation>
++<translation id="8303432794159193481">Kahf Tarayıcı Geliştirme Uygulamaları</translation>
++<translation id="8292967014767479012">Kahf Browser Uygulamaları</translation>
++<translation id="4743468424889072281">Kahf Browser Geliştirme Uygulamaları</translation>
+ <translation id="5039804452771397117">İzin ver</translation>
+ <translation id="7053983685419859001">Engelle</translation>
+-<translation id="1679356339067548863">Brave Tarayıcı çöktüğünde veya donduğunda tanı raporlarını otomatik olarak göndererek, Brave'in ürün stabilitesini iyileştirmeye yardımcı olun.</translation>
++<translation id="1679356339067548863">Kahf Tarayıcı çöktüğünde veya donduğunda tanı raporlarını otomatik olarak göndererek, Kahf'in ürün stabilitesini iyileştirmeye yardımcı olun.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> beklenmedik bir şekilde kapandı.</translation>
+-<translation id="1324417023773393937">Brave Tarayıcı</translation>
++<translation id="1324417023773393937">Kahf Tarayıcı</translation>
+ <translation id="7276554663454265692"><ph name="SETTING_TEXT"/>, tarayıcı ayarlarından istediğiniz zaman değiştirilebilir.</translation>
+ <translation id="6873781976650514089">Bu ayarı</translation>
+ <translation id="4684633335323013758">Bu site <ph name="PART_ONE"/>genel konumunuzu<ph name="PART_ONE_END"/> istedi. <ph name="PART_TWO"/>Daha fazla bilgi edinin<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Bu site <ph name="PART_ONE"/>tam konumunuzu<ph name="PART_ONE_END"/> istedi. <ph name="PART_TWO"/>Daha fazla bilgi edinin<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Bu site <ph name="PART_ONE"/>tam konumunuzu<ph name="PART_ONE_END"/> istedi. <ph name="PART_THREE"/>Konum Hizmetleri<ph name="PART_THREE_END"/> devre dışı olduğundan Brave sadece <ph name="PART_TWO"/>genel konum<ph name="PART_TWO_END"/> verisini sağlayabildi. <ph name="PART_FOUR"/>Daha fazla bilgi edinin<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Bu site <ph name="PART_ONE"/>tam konumunuzu<ph name="PART_ONE_END"/> istedi. <ph name="PART_THREE"/>Konum Hizmetleri<ph name="PART_THREE_END"/> devre dışı olduğundan Kahf sadece <ph name="PART_TWO"/>genel konum<ph name="PART_TWO_END"/> verisini sağlayabildi. <ph name="PART_FOUR"/>Daha fazla bilgi edinin<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Hepsini kapat</translation>
+ <translation id="7658239707568436148">İptal Et</translation>
+ <translation id="4870911314065352661">Tüm sekmeler kapatılsın mı?</translation>
+ <translation id="7551864359422178684">Bu tarayıcı penceresinde <ph name="NUMBER_OF_TABS"/> açık sekmeniz var.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> sekme</translation>
+ <translation id="1307431692088049276">Bana tekrar sorma</translation>
+-<translation id="6919364924256365253">Google'lamayın. Bing'e bakmayın. Brave size yeter.</translation>
+-<translation id="2640297688005939449">Brave Arama profilinizi çıkarmaz. Hem de %100 bağımsızdır.</translation>
++<translation id="6919364924256365253">Google'lamayın. Bing'e bakmayın. Kahf size yeter.</translation>
++<translation id="2640297688005939449">Kahf Arama profilinizi çıkarmaz. Hem de %100 bağımsızdır.</translation>
+ <translation id="7295094278358921487">Arayan aradığını bulur. Gizli bir şekilde.</translation>
+-<translation id="3462465068145800637">Brave Arama profilinizi çıkarmaz. Hem de teknolojinin büyük oyuncularından %100 bağımsızdır.</translation>
++<translation id="3462465068145800637">Kahf Arama profilinizi çıkarmaz. Hem de teknolojinin büyük oyuncularından %100 bağımsızdır.</translation>
+ <translation id="42032117189492785">Benzersiz diziniyle YZ destekli arama</translation>
+ <translation id="8606416238399082160">Tamamen gizli, %100 bağımsız ve muhteşem YZ özellikleriyle.</translation>
+-<translation id="7706528608480893054">DDG, Bing'in kılık değiştirmiş halinden ibarettir. Şimdi gerçek gizliliğin, daha iyi sonuçların ve bağımsız bir dizinin zamanı. Şimdi Brave Arama zamanı.</translation>
++<translation id="7706528608480893054">DDG, Bing'in kılık değiştirmiş halinden ibarettir. Şimdi gerçek gizliliğin, daha iyi sonuçların ve bağımsız bir dizinin zamanı. Şimdi Kahf Arama zamanı.</translation>
+ <translation id="3818133234428578803">Ördekten kurtulun</translation>
+-<translation id="14817360483752259">Brave Arama sizi, aramalarınızı veya tıklamalarınızı izlemez. Ayrıca (DDG'nin aksine) Bing'in kılık değiştirmiş halinden ibaret değildir.</translation>
++<translation id="14817360483752259">Kahf Arama sizi, aramalarınızı veya tıklamalarınızı izlemez. Ayrıca (DDG'nin aksine) Bing'in kılık değiştirmiş halinden ibaret değildir.</translation>
+ <translation id="4381193110021038941">Daha iyi sonuçlar alın</translation>
+-<translation id="3846545273704969734">Brave Arama'nın Bing'den (veya DuckDuckGo gibi Bing klonlarından) daha iyi sonuçlar verdiği bağımsız kurumlarca onaylanmıştır.</translation>
++<translation id="3846545273704969734">Kahf Arama'nın Bing'den (veya DuckDuckGo gibi Bing klonlarından) daha iyi sonuçlar verdiği bağımsız kurumlarca onaylanmıştır.</translation>
+ <translation id="2841164160723712537">Arama sonuçlarını geliştir</translation>
+-<translation id="4639001639513524869">Brave Arama, çoğu sorgu için DuckDuckGo'dan daha iyi sonuçlar verir. Ve gerçekten gizlidir.</translation>
+-<translation id="5240031343741051161">Brave Arama'yı deneyin</translation>
++<translation id="4639001639513524869">Kahf Arama, çoğu sorgu için DuckDuckGo'dan daha iyi sonuçlar verir. Ve gerçekten gizlidir.</translation>
++<translation id="5240031343741051161">Kahf Arama'yı deneyin</translation>
+ <translation id="5234764350956374838">Dismiss</translation>
+-<translation id="8722651357687610395">Brave'i varsayılan yapın</translation>
++<translation id="8722651357687610395">Kahf'i varsayılan yapın</translation>
+ <translation id="2370739752330685659">Belki daha sonra</translation>
+-<translation id="5100490448228945668">Brave arama dönüşümünü kapatın, bu öneriyi kaldırmak için Enter'a basın</translation>
++<translation id="5100490448228945668">Kahf arama dönüşümünü kapatın, bu öneriyi kaldırmak için Enter'a basın</translation>
+ <translation id="9194637241566114638">Anonim kullanım verilerini göndererek <ph name="SEARCH_NAME"/> özelliğini gelişmemize yardımcı olun.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave Arama</translation>
++<translation id="7404610376221341525">Kahf Arama</translation>
+ <translation id="8184318863960255706">Daha fazla bilgi</translation>
+ <translation id="780301667611848630">Hayır, teşekkürler</translation>
+-<translation id="1162706247109707219">Tamam'a tıklayarak Brave kurulumunuzun Windows 10 ve üzerine güncellemesine kadar kritik güvenlik düzeltmesi ALMAYACAĞINI kabul etmiş olursunuz. Bu uyarı bir daha GÖSTERİLMEZ.</translation>
+-<translation id="9164786361657554526">Tamam'a tıklayarak Brave kurulumunuzun macOS 10.15 ve üzerine güncellemesine kadar kritik güvenlik düzeltmesi ALMAYACAĞINI kabul etmiş olursunuz. Bu uyarı bir daha GÖSTERİLMEZ.</translation>
++<translation id="1162706247109707219">Tamam'a tıklayarak Kahf kurulumunuzun Windows 10 ve üzerine güncellemesine kadar kritik güvenlik düzeltmesi ALMAYACAĞINI kabul etmiş olursunuz. Bu uyarı bir daha GÖSTERİLMEZ.</translation>
++<translation id="9164786361657554526">Tamam'a tıklayarak Kahf kurulumunuzun macOS 10.15 ve üzerine güncellemesine kadar kritik güvenlik düzeltmesi ALMAYACAĞINI kabul etmiş olursunuz. Bu uyarı bir daha GÖSTERİLMEZ.</translation>
+ <translation id="2770465223704140727">Listeden kaldır</translation>
+ <translation id="6020553119523541665">Bu sekme, başka bir pencerede etkin</translation>
+ <translation id="4987392683074136770">Bu sekmeye tıklamak, içeriklerini bu pencereye getirecektir</translation>
+@@ -300,8 +300,8 @@ Veya şu adresten daha sonra değiştirin: <ph name="SETTINGS_EXTENIONS_LINK"/>.
+ <translation id="6453210454707928697">Öge oynatılamadı</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] süresi dolmuş olabilir. Kurtarmak ister misiniz?</translation>
+ <translation id="6155018868740116868">Kurtar</translation>
+-<translation id="1727684853006449697">Brave Player</translation>
+-<translation id="9156965752763025780">Değişiklikleriniz, Brave tekrar başlatıldığında geçerli olacak.</translation>
++<translation id="1727684853006449697">Kahf Player</translation>
++<translation id="9156965752763025780">Değişiklikleriniz, Kahf tekrar başlatıldığında geçerli olacak.</translation>
+ <translation id="7179921470347911571">Şimdi Tekrar Başlat</translation>
+ <translation id="1426410128494586442">Evet</translation>
+ <translation id="4250680216510889253">Hayır</translation>
+@@ -340,7 +340,7 @@ Veya şu adresten daha sonra değiştirin: <ph name="SETTINGS_EXTENIONS_LINK"/>.
+ <translation id="8820817407110198400">Yer imleri</translation>
+ <translation id="4144468798716165316">Hızlı komutlar</translation>
+ <translation id="7310387888625228830">Leo YZ Asistanı</translation>
+-<translation id="5222974844674487962">Brave Haberleri butonunu göster</translation>
++<translation id="5222974844674487962">Kahf Haberleri butonunu göster</translation>
+ <translation id="383007806262310953">Yer işaretleri çubuğunu göster</translation>
+ <translation id="4054323497808446566">Yer işaretleri çubuğu tüm sayfalarda görünür halde</translation>
+ <translation id="8693858092251192712">Yer işaretleri çubuğu, yeni sekme sayfası hariç tüm sayfalarda gizli</translation>
+@@ -441,7 +441,7 @@ Veya şu adresten daha sonra değiştirin: <ph name="SETTINGS_EXTENIONS_LINK"/>.
+ <translation id="4891600875049212418">Hassas siteleri ziyaret ederken Kayıt Dışına çık</translation>
+ <translation id="1968895725257436430">Veri toplama</translation>
+ <translation id="4846154056248462491">Çıkışta</translation>
+-<translation id="2808630562319398131">Brave Rewards verilerini yeniden ayarlayın...</translation>
++<translation id="2808630562319398131">Kahf Rewards verilerini yeniden ayarlayın...</translation>
+ <translation id="6438096877646138757">Kapattığınız zaman çerezleri temizleyen siteler</translation>
+ <translation id="2988792685798128092">Site kapandığında temizlenir</translation>
+ <translation id="7702907602086592255">Alan adı</translation>
+@@ -695,7 +695,7 @@ tümünü silecektir. Bu eylem geri alınamaz.</translation>
+ <translation id="7131172845656551327">Hizmet veren çerçeveye giden talepte yazıldığı şekliyle modelin adı, örn. phi-3 (bu ismin hizmet veren çerçevenin beklediği formatla uyuşmaması halinde entegrasyonun çalışmayacağını unutmayın)</translation>
+ <translation id="3286410514484292784">Hizmet veren çerçevenizin talepleri dinlediği URL. Emin değilseniz, hizmet veren çerçeve dokümantasyonunu kontrol edin. Örn. Ollama için, bu her zaman http://localhost:11434/v1/chat/completions şeklindedir</translation>
+ <translation id="1058790648388035953">Hizmet veren çerçevelerin bazıları, bir API anahtarı veya bir erişim belirteci gibi kimlik doğrulama bilgileri gerektirebilir. Bunlar talep başlığına eklenecektir.</translation>
+-<translation id="217141195370578385">Brave, bu talepleri proxy üzerinden aktarmaz, lütfen seçtiğiniz sağlayıcının gizlilik hükümlerini okuyun.</translation>
++<translation id="217141195370578385">Kahf, bu talepleri proxy üzerinden aktarmaz, lütfen seçtiğiniz sağlayıcının gizlilik hükümlerini okuyun.</translation>
+ <translation id="2645532768679870478">Yerel olmayan uç noktalar, güvenli veri aktarımı için HTTPS prokolünü kullanmalıdır.</translation>
+ <translation id="8177205483022887785">Geçersiz bir URL girdiniz. Lütfen geçerli bir URL girin.</translation>
+ <translation id="5249539665306267943">Yeni model ekle</translation>

@@ -1,0 +1,10 @@
+diff a/browser/tor/test/onion_location_navigation_throttle_browsertest.cc b/browser/tor/test/onion_location_navigation_throttle_browsertest.cc	(rejected hunks)
+@@ -42,7 +42,7 @@ namespace {
+ constexpr char kTestOnionPath[] = "/onion";
+ constexpr char kTestOnionURL[] = "https://brave.onion";
+ constexpr char kTestInvalidScheme[] = "/invalid_scheme";
+-constexpr char kTestInvalidSchemeURL[] = "brave://brave.onion";
++constexpr char kTestInvalidSchemeURL[] = "kahf://brave.onion";
+ constexpr char kTestNotOnion[] = "/not_onion";
+ constexpr char kTestNotOnionURL[] = "https://brave.com";
+ constexpr char kTestErrorPage[] = "/errorpage";

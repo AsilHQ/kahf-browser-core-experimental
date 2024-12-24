@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_zh-CN.xtb b/app/resources/brave_generated_resources_zh-CN.xtb	(rejected hunks)
+@@ -43,10 +43,10 @@
+ <translation id="1970435562892104727">这是 Tor 的私人窗口</translation>
+ <translation id="1037341607922068025">打开 Tor 的私人窗口</translation>
+ <translation id="607982085107926247">在 Tor 中开启：<ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">此 Brave 同步账户已从其他设备删除。如果您未故意禁用同步，<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">此 Kahf 同步账户已从其他设备删除。如果您未故意禁用同步，<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>重新创建账户</translation>
+ <translation id="6965382102122355670">确定</translation>
+-<translation id="3975865347033939965">同步服务无法启动，Brave Sync 未运行</translation>
++<translation id="3975865347033939965">同步服务无法启动，Kahf Sync 未运行</translation>
+ <translation id="4450893287417543264">不再显示</translation>
+ <translation id="4595286989346610620">查看详情</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -54,66 +54,66 @@
+ <translation id="4759098689276706664">强制粘贴</translation>
+ <translation id="1434416574322382019">用 Tor 打开新的私人窗口</translation>
+ <translation id="4703780849509456860">用 Tor 在私人窗口中打开链接</translation>
+-<translation id="3488584642074079080">用 Tor 在 Brave 私人窗口中打开链接</translation>
++<translation id="3488584642074079080">用 Tor 在 Kahf 私人窗口中打开链接</translation>
+ <translation id="6313675821927505581">用 Tor 打开新的隐私窗口</translation>
+ <translation id="2638041073279639246">用 Tor 在隐私窗口中打开</translation>
+-<translation id="3425600262621021599">用 Tor 在 Brave 隐私窗口中打开链接</translation>
+-<translation id="2545072023356206691">从 2023 年 12 月 1 日开始，Brave Dev 频道将不再接收浏览器更新。建议用户改用 Brave Nightly、测试版或正式版。</translation>
++<translation id="3425600262621021599">用 Tor 在 Kahf 隐私窗口中打开链接</translation>
++<translation id="2545072023356206691">从 2023 年 12 月 1 日开始，Kahf Dev 频道将不再接收浏览器更新。建议用户改用 Kahf Nightly、测试版或正式版。</translation>
+ <translation id="474217410105706308">将此标签页静音</translation>
+-<translation id="2804710924397009224">隐藏 Brave 奖励图标</translation>
+-<translation id="5029193871181468990">隐藏 Brave 奖励图标</translation>
+-<translation id="2808103541110899519">隐藏 Brave 的钱包图标</translation>
+-<translation id="7595540212376041331">隐藏 Brave 的钱包图标</translation>
++<translation id="2804710924397009224">隐藏 Kahf 奖励图标</translation>
++<translation id="5029193871181468990">隐藏 Kahf 奖励图标</translation>
++<translation id="2808103541110899519">隐藏 Kahf 的钱包图标</translation>
++<translation id="7595540212376041331">隐藏 Kahf 的钱包图标</translation>
+ <translation id="4928988318462976765">网络扩展程序商店</translation>
+ <translation id="9181207987584064303">在网络扩展程序商店中查看</translation>
+-<translation id="3161744659507801211">警告：Brave 无法阻止扩展程序记录您的浏览活动。</translation>
++<translation id="3161744659507801211">警告：Kahf 无法阻止扩展程序记录您的浏览活动。</translation>
+ <translation id="2162109630536601963">如果此扩展程序发出网络请求，则它们将不会使用 Tor 或专用模式。</translation>
+ <translation id="2725327089319971976">要在无痕模式下停用该扩展程序，请取消选中此选项。</translation>
+-<translation id="3371343170427636147">Brave 浏览器夜间模式应用</translation>
+-<translation id="4097979995947147464">Brave 浏览器 Beta 应用</translation>
+-<translation id="8303432794159193481">Brave 浏览器开发应用</translation>
+-<translation id="8292967014767479012">Brave 浏览器应用</translation>
+-<translation id="4743468424889072281">Brave 浏览器开发应用</translation>
++<translation id="3371343170427636147">Kahf 浏览器夜间模式应用</translation>
++<translation id="4097979995947147464">Kahf 浏览器 Beta 应用</translation>
++<translation id="8303432794159193481">Kahf 浏览器开发应用</translation>
++<translation id="8292967014767479012">Kahf 浏览器应用</translation>
++<translation id="4743468424889072281">Kahf 浏览器开发应用</translation>
+ <translation id="5039804452771397117">允许</translation>
+ <translation id="7053983685419859001">禁止</translation>
+-<translation id="1679356339067548863">Brave 浏览器崩溃或无响应时自动发送诊断报告，帮助提高产品稳定性。</translation>
++<translation id="1679356339067548863">Kahf 浏览器崩溃或无响应时自动发送诊断报告，帮助提高产品稳定性。</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/>意外退出</translation>
+-<translation id="1324417023773393937">Brave 浏览器</translation>
++<translation id="1324417023773393937">Kahf 浏览器</translation>
+ <translation id="7276554663454265692">您可以随时在浏览器设置中更改 <ph name="SETTING_TEXT"/>。</translation>
+ <translation id="6873781976650514089">此设置</translation>
+ <translation id="4684633335323013758">此网站已要求您提供<ph name="PART_ONE"/>一般所在位置<ph name="PART_ONE_END"/>。<ph name="PART_TWO"/>了解更多<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">此网站已要求您提供<ph name="PART_ONE"/>精确的所在位置<ph name="PART_ONE_END"/>。<ph name="PART_TWO"/>了解更多<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">此网站已要求您提供<ph name="PART_ONE"/>精确的所在位置<ph name="PART_ONE_END"/>。Brave 将只能提供<ph name="PART_TWO"/>一般所在位置<ph name="PART_TWO_END"/>资料，因为<ph name="PART_THREE"/>定位服务<ph name="PART_THREE_END"/> 已停用。<ph name="PART_FOUR"/>了解更多<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">此网站已要求您提供<ph name="PART_ONE"/>精确的所在位置<ph name="PART_ONE_END"/>。Kahf 将只能提供<ph name="PART_TWO"/>一般所在位置<ph name="PART_TWO_END"/>资料，因为<ph name="PART_THREE"/>定位服务<ph name="PART_THREE_END"/> 已停用。<ph name="PART_FOUR"/>了解更多<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">全部关闭</translation>
+ <translation id="7658239707568436148">取消</translation>
+ <translation id="4870911314065352661">关闭所有标签页？</translation>
+ <translation id="7551864359422178684">在此浏览器窗口中还有 <ph name="NUMBER_OF_TABS"/> 个标签页处于开启状态。</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> 个标签页</translation>
+ <translation id="1307431692088049276">不要再问我了</translation>
+-<translation id="6919364924256365253">不要谷歌。不能必应。只是使用 Brave。</translation>
+-<translation id="2640297688005939449">Brave 搜索不会对您进行个人档案分析。它是 100% 独立的。</translation>
++<translation id="6919364924256365253">不要谷歌。不能必应。只是使用 Kahf。</translation>
++<translation id="2640297688005939449">Kahf 搜索不会对您进行个人档案分析。它是 100% 独立的。</translation>
+ <translation id="7295094278358921487">您会在搜索里找到，搜索记录是无痕的。</translation>
+-<translation id="3462465068145800637">Brave 搜索不会对您进行个人档案分析。它 100% 独立于大型科技公司。</translation>
++<translation id="3462465068145800637">Kahf 搜索不会对您进行个人档案分析。它 100% 独立于大型科技公司。</translation>
+ <translation id="42032117189492785">人工智能搜索，独一无二的索引。</translation>
+ <translation id="8606416238399082160">完全无痕、100% 独立，并具有强大的人工智能功能。</translation>
+-<translation id="7706528608480893054">DDG 只是必应的伪装。是时候拥有真正的隐私、更好的结果和独立的索引了。 Brave 搜索的时候到了。</translation>
++<translation id="7706528608480893054">DDG 只是必应的伪装。是时候拥有真正的隐私、更好的结果和独立的索引了。 Kahf 搜索的时候到了。</translation>
+ <translation id="3818133234428578803">放弃 Duck</translation>
+-<translation id="14817360483752259">Brave 搜索不会跟踪您、您的查询或点击。而且（与 DDG 不同），它不仅仅是 Bing 的伪装。</translation>
++<translation id="14817360483752259">Kahf 搜索不会跟踪您、您的查询或点击。而且（与 DDG 不同），它不仅仅是 Bing 的伪装。</translation>
+ <translation id="4381193110021038941">获得更好的结果</translation>
+-<translation id="3846545273704969734">经独立验证，Brave 搜索的搜索结果优于 Bing（或 Bing 克隆产品，如 DuckDuckGo）。</translation>
++<translation id="3846545273704969734">经独立验证，Kahf 搜索的搜索结果优于 Bing（或 Bing 克隆产品，如 DuckDuckGo）。</translation>
+ <translation id="2841164160723712537">改善搜索结果</translation>
+-<translation id="4639001639513524869">在大多数查询中，Brave 搜索的结果都比 DuckDuckGo 好。而且它是真正私密的。</translation>
+-<translation id="5240031343741051161">尝试Brave搜索</translation>
++<translation id="4639001639513524869">在大多数查询中，Kahf 搜索的结果都比 DuckDuckGo 好。而且它是真正私密的。</translation>
++<translation id="5240031343741051161">尝试Kahf搜索</translation>
+ <translation id="5234764350956374838">关闭</translation>
+-<translation id="8722651357687610395">将 Brave 设置为默认</translation>
++<translation id="8722651357687610395">将 Kahf 设置为默认</translation>
+ <translation id="2370739752330685659">回头再说</translation>
+-<translation id="5100490448228945668">解除 Brave 搜索转换功能，按回车键删除此建议</translation>
++<translation id="5100490448228945668">解除 Kahf 搜索转换功能，按回车键删除此建议</translation>
+ <translation id="9194637241566114638">发送匿名的使用数据以协助改善<ph name="SEARCH_NAME"/>。<ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave 搜索</translation>
++<translation id="7404610376221341525">Kahf 搜索</translation>
+ <translation id="8184318863960255706">更多信息</translation>
+ <translation id="780301667611848630">不用了，谢谢</translation>
+-<translation id="1162706247109707219">通过单击“确定”，确认在更新到 Windows 10 或更高版本之前，您安装的 Brave 浏览器将不会收到关键安全补丁。此警告将不会再次显示。</translation>
+-<translation id="9164786361657554526">通过单击“确定”，确认在更新到 macOS 10.15 或更高版本之前，您安装的 Brave 浏览器将不会收到关键安全补丁。此警告将不会再次显示。</translation>
++<translation id="1162706247109707219">通过单击“确定”，确认在更新到 Windows 10 或更高版本之前，您安装的 Kahf 浏览器将不会收到关键安全补丁。此警告将不会再次显示。</translation>
++<translation id="9164786361657554526">通过单击“确定”，确认在更新到 macOS 10.15 或更高版本之前，您安装的 Kahf 浏览器将不会收到关键安全补丁。此警告将不会再次显示。</translation>
+ <translation id="2770465223704140727">从列表中移除</translation>
+ <translation id="6020553119523541665">该选项卡在另一个窗口中处于活动状态</translation>
+ <translation id="4987392683074136770">点击该选项卡，其内容将显示在此窗口中</translation>
+@@ -298,8 +298,8 @@
+ <translation id="6453210454707928697">无法播放项目</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] 可能已过期。是否恢复此项目？</translation>
+ <translation id="6155018868740116868">恢复</translation>
+-<translation id="1727684853006449697">Brave 播放器</translation>
+-<translation id="9156965752763025780">您所做的更改会在下次重新启动 Brave 时生效。</translation>
++<translation id="1727684853006449697">Kahf 播放器</translation>
++<translation id="9156965752763025780">您所做的更改会在下次重新启动 Kahf 时生效。</translation>
+ <translation id="7179921470347911571">立即重新启动</translation>
+ <translation id="1426410128494586442">是</translation>
+ <translation id="4250680216510889253">否</translation>
+@@ -338,7 +338,7 @@
+ <translation id="8820817407110198400">书签栏</translation>
+ <translation id="4144468798716165316">快捷指令</translation>
+ <translation id="7310387888625228830">Leo 人工智能助手</translation>
+-<translation id="5222974844674487962">显示 Brave 新闻按钮</translation>
++<translation id="5222974844674487962">显示 Kahf 新闻按钮</translation>
+ <translation id="383007806262310953">显示书签栏</translation>
+ <translation id="4054323497808446566">所有页面均可见书签栏</translation>
+ <translation id="8693858092251192712">除了新标签页，书签栏已在所有页面上隐藏</translation>
+@@ -439,7 +439,7 @@
+ <translation id="4891600875049212418">访问敏感网站时不记录在案</translation>
+ <translation id="1968895725257436430">资料合集</translation>
+ <translation id="4846154056248462491">退出时</translation>
+-<translation id="2808630562319398131">重置 Brave Rewards 计划数据...</translation>
++<translation id="2808630562319398131">重置 Kahf Rewards 计划数据...</translation>
+ <translation id="6438096877646138757">关闭时所有网站窗口时清除 cookie 的网站</translation>
+ <translation id="2988792685798128092">站点关闭时清除</translation>
+ <translation id="7702907602086592255">域名</translation>
+@@ -693,7 +693,7 @@ Leo 的所有对话。此操作无法撤销。</translation>
+ <translation id="7131172845656551327">该型号的名称应该出现在服务框架的请求中，即 phi-3（请注意，如果该名称与服务框架期望的不完全匹配，集成将无法运行）</translation>
+ <translation id="3286410514484292784">服务框架正在监听申请的网址。如果不确定，请查阅服务框架文档。例如，对于 Ollama 来说，这始终是 http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">某些服务框架可能需要认证凭证，如 API 密钥或访问令牌。这些凭证将添加到申请标题中。</translation>
+-<translation id="217141195370578385">Brave不代理这些请求，请阅读所选供应商的隐私条款。</translation>
++<translation id="217141195370578385">Kahf不代理这些请求，请阅读所选供应商的隐私条款。</translation>
+ <translation id="2645532768679870478">非本地端点应使用 HTTPS 协议进行安全数据传输。</translation>
+ <translation id="8177205483022887785">您输入的网址无效。请输入有效的网址。</translation>
+ <translation id="5249539665306267943">添加新型号</translation>

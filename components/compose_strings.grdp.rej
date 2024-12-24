@@ -1,0 +1,19 @@
+diff a/components/compose_strings.grdp b/components/compose_strings.grdp	(rejected hunks)
+@@ -16,7 +16,7 @@
+     </message>
+   </if>
+   <message name="IDS_COMPOSE_SUGGESTION_LABEL" desc="The label beneath the main text in the Autofill suggestion that a user sees after interacting with a supported text element.">
+-    Powered by Brave
++    Powered by Kahf
+   </message>
+   <message name="IDS_COMPOSE_SUGGESTION_SAVED_TEXT" desc="The main text displayed in the Autofill suggestion that a user sees after interacting with a supported text element, indicating that user state was saved.">
+     Resume writing
+@@ -99,7 +99,7 @@
+     "reply yes to this wedding invite with excitement"
+   </message>
+   <message name="IDS_COMPOSE_INPUT_FOOTER" desc="Privacy disclaimer in the input dialog.">
+-    Your text and page content are sent to Brave and may be used to improve this feature.
++    Your text and page content are sent to Kahf and may be used to improve this feature.
+   <ph name="BEGIN_LINK">&lt;a href=""&gt;</ph>Learn more<ph name="END_LINK">&lt;/a&gt;</ph>
+   </message>
+   <message name="IDS_COMPOSE_SUBMIT_BUTTON" desc="The button to request Compose to generate text.">

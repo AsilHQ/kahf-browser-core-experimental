@@ -1,0 +1,333 @@
+diff a/components/resources/strings/brave_components_resources_ca.xtb b/components/resources/strings/brave_components_resources_ca.xtb	(rejected hunks)
+@@ -172,32 +172,32 @@
+ <translation id="3110968385867124099">No es pot informar d'aquesta pàgina perquè no s'ha distribuït a través de HTTP/HTTPS.</translation>
+ <translation id="7907023135990310743">Aquesta pàgina és una pàgina web local i no és elegible per informar.</translation>
+ <translation id="3645455863322075098">Aquesta pàgina és una pàgina d'error i no és elegible per informar.</translation>
+-<translation id="105644511106871142">Gràcies per ajudar a fer Brave millor per a tothom. Aquest informe només enviarà la informació necessària perquè puguem corregir aquest lloc.</translation>
++<translation id="105644511106871142">Gràcies per ajudar a fer Kahf millor per a tothom. Aquest informe només enviarà la informació necessària perquè puguem corregir aquest lloc.</translation>
+ <translation id="6476216365964140603">Informació addicional (opcional)</translation>
+ <translation id="6145852496180774737">Contacta amb mi a través de: (opcional)</translation>
+ <translation id="7616645803364270729">Correu electrònic, Twitter, etc.</translation>
+ <translation id="721949491455392748">Incloure una captura de pantalla de la pàgina actual</translation>
+ <translation id="8459191579769999214">Veure la captura de pantalla</translation>
+ <translation id="5299848999918506028">Gràcies!</translation>
+-<translation id="76550953340008122">Gràcies per fer saber als desenvolupadors de Brave que hi ha un problema amb aquesta web. Farem tot el que puguem per arreglar-lo!</translation>
+-<translation id="4046860372562593546">Gestioneu els anuncis de Brave</translation>
+-<translation id="5136973036012418831">Controleu els tipus d'anuncis de Brave que veieu i amb quina freqüència els veieu</translation>
++<translation id="76550953340008122">Gràcies per fer saber als desenvolupadors de Kahf que hi ha un problema amb aquesta web. Farem tot el que puguem per arreglar-lo!</translation>
++<translation id="4046860372562593546">Gestioneu els anuncis de Kahf</translation>
++<translation id="5136973036012418831">Controleu els tipus d'anuncis de Kahf que veieu i amb quina freqüència els veieu</translation>
+ <translation id="4759608598194750161">Com més en veieu, més podreu guanyar.</translation>
+ <translation id="7526443283522395161">Anuncis de pàgina Pestanya nova</translation>
+ <translation id="7968650944098083708">Anuncis de notificació</translation>
+ <translation id="8289546216379862569">Anuncis de cerca</translation>
+-<translation id="4758111936363146244">Els anuncis del Cercador de Brave apareixen al <ph name="BEGIN_LINK"/>Cercador de Brave<ph name="END_LINK"/>.</translation>
+-<translation id="7596536223419118193">Encara no podeu guanyar BAT amb els anuncis del Cercador de Brave, però en tenir-los activats, ajudeu Brave.</translation>
+-<translation id="6390952132783970876">Anuncis de Brave News</translation>
+-<translation id="7516281787184495886">Brave News conté anuncis que no es poden desactivar per separat.</translation>
+-<translation id="8008378848677625233">Brave News està desactivat actualment.</translation>
++<translation id="4758111936363146244">Els anuncis del Cercador de Kahf apareixen al <ph name="BEGIN_LINK"/>Cercador de Kahf<ph name="END_LINK"/>.</translation>
++<translation id="7596536223419118193">Encara no podeu guanyar BAT amb els anuncis del Cercador de Kahf, però en tenir-los activats, ajudeu Kahf.</translation>
++<translation id="6390952132783970876">Anuncis de Kahf News</translation>
++<translation id="7516281787184495886">Kahf News conté anuncis que no es poden desactivar per separat.</translation>
++<translation id="8008378848677625233">Kahf News està desactivat actualment.</translation>
+ <translation id="6112368337882254910">Auto-Contribució</translation>
+ <translation id="557705068184766514">Una manera automàtica de donar suport als llocs i als creadors de contingut. Establiu una contribució mensual i navegueu normalment. <ph name="BEGIN_LINK"/>Els llocs i creadors verificats<ph name="END_LINK"/> que visiteu rebran la vostra contribució cada mes en funció de la quantitat de temps que passeu consultant el seu contingut.</translation>
+ <translation id="6688567880783357035">Guanys d'aquest mes fins ara</translation>
+ <translation id="949044897316791211">Propera data de pagament de guanys</translation>
+ <translation id="2211646556917925490">Total d'anuncis rebuts aquest mes</translation>
+ <translation id="4229016885653790965">Vaja! Els anuncis encara no estan disponibles a la teva regió.</translation>
+-<translation id="2539279826042558064">Els anuncis i les recompenses de Brave no estan disponibles en el teu dispositiu ara mateix.</translation>
++<translation id="2539279826042558064">Els anuncis i les recompenses de Kahf no estan disponibles en el teu dispositiu ara mateix.</translation>
+ <translation id="5736977383725358876">Freqüència de notificació d'anuncis</translation>
+ <translation id="7701040980221191251">Cap</translation>
+ <translation id="480668534656787076">Màx. 1 per hora</translation>
+@@ -241,30 +241,30 @@
+ <translation id="3082557070674409251">Clicat</translation>
+ <translation id="7119308337584989771">Descartat</translation>
+ <translation id="6805660603861526473">Vist</translation>
+-<translation id="8826352442759228526">El teu compte de Recompenses de Brave no es pot verificar perquè has assolit el límit màxim de dispositius verificats.</translation>
++<translation id="8826352442759228526">El teu compte de Recompenses de Kahf no es pot verificar perquè has assolit el límit màxim de dispositius verificats.</translation>
+ <translation id="1221593978088944142">Error: S'ha assolit el límit del dispositiu</translation>
+-<translation id="6895088073061692390">Malauradament, el vostre perfil de Premis de Brave s'ha marcat perquè hem trobat activitat inesperada als anuncis de Brave en fer les comprovacions automatitzades.</translation>
+-<translation id="4229056297802204697">Mentre el vostre perfil estigui marcat, pot ser que continueu veient anuncis, però no podreu rebre pagaments. Tampoc podreu connectar un compte privat als Premis de Brave.</translation>
++<translation id="6895088073061692390">Malauradament, el vostre perfil de Premis de Kahf s'ha marcat perquè hem trobat activitat inesperada als anuncis de Kahf en fer les comprovacions automatitzades.</translation>
++<translation id="4229056297802204697">Mentre el vostre perfil estigui marcat, pot ser que continueu veient anuncis, però no podreu rebre pagaments. Tampoc podreu connectar un compte privat als Premis de Kahf.</translation>
+ <translation id="5124846913141379164">És possible que el vostre perfil s'hagi marcat per error i no cal que feu res ara mateix. És possible que la marca del perfil desapareixi en el futur.</translation>
+-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Obteniu més detalls sobre el procés del Brave per marcar els perfils de Recompenses.<ph name="END_LINK"/></translation>
+-<translation id="5028274575541726856">Error: el perfil de Recompenses del Brave està marcat</translation>
++<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Obteniu més detalls sobre el procés del Kahf per marcar els perfils de Recompenses.<ph name="END_LINK"/></translation>
++<translation id="5028274575541726856">Error: el perfil de Recompenses del Kahf està marcat</translation>
+ <translation id="2607420597216860026">Torna a provar-ho després de completar la verificació d'ID a <ph name="PROVIDER"/>.</translation>
+ <translation id="3183954159462541696">Error: necessites un compte verificat per iniciar la sessió</translation>
+-<translation id="1859789048900659918">Mmm, sembla que el país de Brave Rewards no coincideix amb el país del compte de<ph name="PROVIDER"/> que estàs intentant connectar</translation>
++<translation id="1859789048900659918">Mmm, sembla que el país de Kahf Rewards no coincideix amb el país del compte de<ph name="PROVIDER"/> que estàs intentant connectar</translation>
+ <translation id="8925428135452218262">Error: No coincideix el país</translation>
+-<translation id="5260522591743022748">Mmm, sembla que el teu compte de Recompenses de Brave ja s'ha verificat amb un altre compte d'<ph name="PROVIDER"/>. Prova de verificar-lo novament utilizant el teu compte anterior.</translation>
++<translation id="5260522591743022748">Mmm, sembla que el teu compte de Recompenses de Kahf ja s'ha verificat amb un altre compte d'<ph name="PROVIDER"/>. Prova de verificar-lo novament utilizant el teu compte anterior.</translation>
+ <translation id="5111921830714291902">Error: compte diferent</translation>
+-<translation id="5225019866741699134">Sembla que connectar-se <ph name="PROVIDER"/> als Premis de Brave no està disponible temporalment. Torneu-ho a provar més tard.</translation>
++<translation id="5225019866741699134">Sembla que connectar-se <ph name="PROVIDER"/> als Premis de Kahf no està disponible temporalment. Torneu-ho a provar més tard.</translation>
+ <translation id="6105073131081187815">Podeu veure <ph name="BEGIN_LINK"/>l'estat del servei aquí<ph name="END_LINK"/>.</translation>
+ <translation id="2400786541309111904">Error: No està disponible temporalment la connexió amb el custodi seleccionat</translation>
+-<translation id="1024520300696337331">El teu compte d'<ph name="PROVIDER"/> no es pot connectar al teu perfil de reenviament de la clau en aquest moment. El teu compte <ph name="PROVIDER"/> està registrat en un país que no s'admet per connectar-se a Recompenses de Brave.</translation>
+-<translation id="619384413404021992">Consulta la llista actual de <ph name="LINK_BEGIN"/>de regions admeses i obtingues més informació<ph name="END_LINK"/>sobre com connectar un compte de custòdia a Recompenses de Brave.</translation>
++<translation id="1024520300696337331">El teu compte d'<ph name="PROVIDER"/> no es pot connectar al teu perfil de reenviament de la clau en aquest moment. El teu compte <ph name="PROVIDER"/> està registrat en un país que no s'admet per connectar-se a Recompenses de Kahf.</translation>
++<translation id="619384413404021992">Consulta la llista actual de <ph name="LINK_BEGIN"/>de regions admeses i obtingues més informació<ph name="END_LINK"/>sobre com connectar un compte de custòdia a Recompenses de Kahf.</translation>
+ <translation id="7193389978208728181">Error: Actualment, no és compatible amb aquesta regió</translation>
+ <translation id="5382684862562314222">El BAT a les carteres Uphold encara no s'admet a la teva regió.</translation>
+ <translation id="9074594632540931067">Error: BAT no disponible</translation>
+ <translation id="5376524136040178759">Segons Uphold, actualment hi ha algunes limitacions en el teu compte d'Uphold. Accedeix al teu compte d'Uphold, comprova si hi ha alguna notificació o requisits del compte que falti completar i torna-ho a provar. Per exemple, potser has d'introduir més informació a Uphold.</translation>
+ <translation id="6996157559236886133">Error: Funcionalitat limitada del compte d'Uphold</translation>
+-<translation id="3274650021044762770">Hi ha hagut un problema en validar la sol·licitud del teu navegador per connectar el compte de Recompenses de Brave al teu compte d'<ph name="PROVIDER"/>. Pots <ph name="BEGIN_LINK"/>contactar amb l'equip de suport<ph name="END_LINK"/> per obtenir més ajuda.</translation>
++<translation id="3274650021044762770">Hi ha hagut un problema en validar la sol·licitud del teu navegador per connectar el compte de Recompenses de Kahf al teu compte d'<ph name="PROVIDER"/>. Pots <ph name="BEGIN_LINK"/>contactar amb l'equip de suport<ph name="END_LINK"/> per obtenir més ajuda.</translation>
+ <translation id="1316066811927496401">Error: la sol·licitud no s'ha pogut validar</translation>
+ <translation id="7352651011704765696">Quelcom ha anat malament</translation>
+ <translation id="8285276813470932793">No hem pogut completar la vostra sol·licitud. Torneu-ho a provar i <ph name="LINK_BEGIN"/>poseu-vos en contacte amb el servei d'assistència<ph name="LINK_END"/> si no s'ha solucionat el problema.</translation>
+@@ -284,11 +284,11 @@
+ <translation id="756341217015623253">Inicia sessió o registra't</translation>
+ <translation id="2653844658857826081">NOU</translation>
+ <translation id="1892970806832316900">Pendent fins al <ph name="DATE"/></translation>
+-<translation id="7849926087559412554">Ups! El teu navegador no pot rebre anuncis privats de Brave.</translation>
++<translation id="7849926087559412554">Ups! El teu navegador no pot rebre anuncis privats de Kahf.</translation>
+ <translation id="5177429570315095022">S'ha d'actualitzar el teu navegador per continuar veient anuncis.</translation>
+ <translation id="4593680147181354667">ID de diagnòstic</translation>
+ <translation id="3995471429906554168">Info de diagnòstic</translation>
+-<translation id="752216563428219524">Brave Ads no s'ha inicialitzat. Actualitza la pàgina.</translation>
++<translation id="752216563428219524">Kahf Ads no s'ha inicialitzat. Actualitza la pàgina.</translation>
+ <translation id="7422678632904904341">Quantitat:</translation>
+ <translation id="6969783933307596818">Actualitzeu automaticament cada 5 segons</translation>
+ <translation id="5025866799968038247">Informació del Saldo</translation>
+@@ -575,20 +575,20 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="2429828319207652823">S'ha produït un problema en processar la teva contribució.</translation>
+ <translation id="6390041270339783491">S'ha produït un error en la contribució mensual</translation>
+ <translation id="7047578174221019462">S'han processat les teves contribucions mensuals.</translation>
+-<translation id="2529827670795983639">Sembla que no funciona. Anuncis de Brave romandrà en pausa. Contacta amb nosaltres si necessites ajuda amb el captcha.</translation>
++<translation id="2529827670795983639">Sembla que no funciona. Anuncis de Kahf romandrà en pausa. Contacta amb nosaltres si necessites ajuda amb el captcha.</translation>
+ <translation id="261607053214862521">Has superat el nombre màxim d'intents</translation>
+ <translation id="2323171459178104277">Solucionat!</translation>
+-<translation id="1512837998731269583">Ara, els anuncis i els guanys es reprendran. Gràcies per ajudar-nos a protegir Recompenses de Brave i els anuncis basats en la privadesa.</translation>
++<translation id="1512837998731269583">Ara, els anuncis i els guanys es reprendran. Gràcies per ajudar-nos a protegir Recompenses de Kahf i els anuncis basats en la privadesa.</translation>
+ <translation id="3247549836099021862">Contacta amb l'equip de suport</translation>
+ <translation id="5234764350956374838">Omet</translation>
+ <translation id="7859066142771796818">Utilitza tokens per comprar targetes de regal, canviar per altres monedes, donar suport a creadors de contingut i més.</translation>
+-<translation id="5425006356459378415">Les Recompenses de Brave no estan disponibles</translation>
+-<translation id="909076461795862330">Malauradament, s'ha produït un error en intentar configurar Recompenses de Brave. Torna-ho a provar.</translation>
++<translation id="5425006356459378415">Les Recompenses de Kahf no estan disponibles</translation>
++<translation id="909076461795862330">Malauradament, s'ha produït un error en intentar configurar Recompenses de Kahf. Torna-ho a provar.</translation>
+ <translation id="3180990265682133881">Malauradament, s'ha produït un error en intentar establir el país. Torna-ho a provar.</translation>
+-<translation id="5931798071481566121">Els nous registres per a reenviaments de Brave estan desactivats actualment a la teva regió. No obstant això, sempre ho pots tornar a provar més tard. <ph name="LINK_BEGIN"/>Més informació<ph name="LINK_END"/></translation>
++<translation id="5931798071481566121">Els nous registres per a reenviaments de Kahf estan desactivats actualment a la teva regió. No obstant això, sempre ho pots tornar a provar més tard. <ph name="LINK_BEGIN"/>Més informació<ph name="LINK_END"/></translation>
+ <translation id="6439128034594289376">Molt bé! Ja estàs llest!</translation>
+ <translation id="6136350726756049410">Ara et poden recompensar per veure anuncis. Estàs ajudant a fer de la web un lloc millor per a tothom. I això és increïble!</translation>
+-<translation id="5547108999862247665">Com funciona Recompenses de Brave?</translation>
++<translation id="5547108999862247665">Com funciona Recompenses de Kahf?</translation>
+ <translation id="3970520675790340955">Selecciona el teu país perquè puguem mostrar-te les opcions i anuncis correctes per a la teva regió.</translation>
+ <translation id="6945221475159498467">Selecciona</translation>
+ <translation id="3279158300746391749">Prem la icona de <ph name="BAT_ICON"/> BAT a la barra d'URL per començar.</translation>
+@@ -902,9 +902,9 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="7261362517244085362">Autoritzeu la vostra cartera</translation>
+ <translation id="7150150391368236519">Connecta una cartera física (hardware)</translation>
+ <translation id="5400782314657008092">Actualment admetem dispositius <ph name="HARDWARE_DEVICE"/> i <ph name="HARDWARE_DEVICE1"/>.</translation>
+-<translation id="8144305264680648043">Connecteu la vostra cartera de maquinari per gestionar els actius directament des de la cartera de Brave.</translation>
++<translation id="8144305264680648043">Connecteu la vostra cartera de maquinari per gestionar els actius directament des de la cartera de Kahf.</translation>
+ <translation id="1329837291200753515">Seleccioneu una cadena de blocs per importar la teva vostra de maquinari</translation>
+-<translation id="6983390509997396124">Connecteu el vostre dispositiu <ph name="HARDWARE_DEVICE"/> a la cartera de Brave</translation>
++<translation id="6983390509997396124">Connecteu el vostre dispositiu <ph name="HARDWARE_DEVICE"/> a la cartera de Kahf</translation>
+ <translation id="5149944858285555235">Error desconegut. Connecta novament la cartera física (hardware) i torna-ho a provar.</translation>
+ <translation id="4522570452068850558">Detalls</translation>
+ <translation id="9220525904950070496">Suprimeix el compte</translation>
+@@ -1580,7 +1580,7 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="1215089823252478557">Veure el canvi de saldo estimat</translation>
+ <translation id="2761574758015819991">Identifica possibles transaccions malicioses</translation>
+ <translation id="168533464844528463">Ajuda a detectar intents de phishing</translation>
+-<translation id="7269757150305059881">Brave treballa amb un soci per proporcionar aquest servei. En habilitar-ho, acceptes compartir transaccions no signades i les seves URL de DApp amb el nostre soci.</translation>
++<translation id="7269757150305059881">Kahf treballa amb un soci per proporcionar aquest servei. En habilitar-ho, acceptes compartir transaccions no signades i les seves URL de DApp amb el nostre soci.</translation>
+ <translation id="7790932700072432983">Canvia-ho en qualsevol moment a <ph name="TAG_BEFORE"/>Configuració<ph name="TAG_AFTER"/>.</translation>
+ <translation id="8688672835843460752">Disponible</translation>
+ <translation id="5296640085393149413">Fons disponibles pel seu ús.</translation>
+@@ -1804,23 +1804,23 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="6938154350999993769">Depura el mode tauleta digital</translation>
+ <translation id="5854741377790551127">Depura l'arbre de vistes d'impressió</translation>
+ <translation id="8199130368328220410">Activa/Desactiva els subtítols en directe</translation>
+-<translation id="9055778350624039365">Mostra el panell de la Cartera de Brave</translation>
+-<translation id="2548853975094084059">Tanca el panell de la Cartera de Brave</translation>
+-<translation id="3765209580429944524">Mostra el panell de la VPN de Brave</translation>
+-<translation id="5989009326527614692">Activa/Desactiva el botó de la barra d'eines de la VPN de Brave</translation>
+-<translation id="7334332308395652803">Activa/Desactiva la icona de la safata de la VPN de Brave</translation>
+-<translation id="4326011033480357140">Envia un comentari de la VPN de Brave</translation>
+-<translation id="2345974803401546682">Sobre la VPN de Brave</translation>
+-<translation id="8934783170241943640">Gestiona el pla de la VPN de Brave</translation>
+-<translation id="6332027154313182926">Activa/Desactiva la VPN de Brave</translation>
++<translation id="9055778350624039365">Mostra el panell de la Cartera de Kahf</translation>
++<translation id="2548853975094084059">Tanca el panell de la Cartera de Kahf</translation>
++<translation id="3765209580429944524">Mostra el panell de la VPN de Kahf</translation>
++<translation id="5989009326527614692">Activa/Desactiva el botó de la barra d'eines de la VPN de Kahf</translation>
++<translation id="7334332308395652803">Activa/Desactiva la icona de la safata de la VPN de Kahf</translation>
++<translation id="4326011033480357140">Envia un comentari de la VPN de Kahf</translation>
++<translation id="2345974803401546682">Sobre la VPN de Kahf</translation>
++<translation id="8934783170241943640">Gestiona el pla de la VPN de Kahf</translation>
++<translation id="6332027154313182926">Activa/Desactiva la VPN de Kahf</translation>
+ <translation id="6539014233195996894">Activa/Desactiva l'àudio de la pestanya</translation>
+ <translation id="2682865834956428001">Activa/Desactiva la posició de la barra lateral</translation>
+ <translation id="6105745639559695088">Activa/Desactiva la barra lateral</translation>
+ <translation id="3488252265135539275">Activa/Desactiva les pestanyes verticals</translation>
+ <translation id="7134064542341959603">Activa/Desactiva el títol de la finestra de les pestanyes verticals</translation>
+-<translation id="3067105725259639716">Configura Notícies de Brave</translation>
++<translation id="3067105725259639716">Configura Notícies de Kahf</translation>
+ <translation id="6286510487460330478">Configura les dreceres del teclat</translation>
+-<translation id="9214819486716388964">Mostra Conversa de Brave</translation>
++<translation id="9214819486716388964">Mostra Conversa de Kahf</translation>
+ <translation id="5950760360751948276">Mostra la barra de l'adreça d'interès</translation>
+ <translation id="2960757369920422313">Mostra la barra de l'adreça d'interès a una pàgina de pestanya nova</translation>
+ <translation id="522953399371747698">Amaga la barra de l'adreça d'interès</translation>
+@@ -1901,11 +1901,11 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="1167803637855350748">Hi ha hagut un problema de xarxa en connectar amb Leo, comprova la connexió i intenta-ho de nou.</translation>
+ <translation id="1996126325390835277">Has arribat al límit de la tarifa Premium. Torna-ho a provar d'aquí a unes hores.</translation>
+ <translation id="7144878232160441200">Torna-ho a intentar</translation>
+-<translation id="8570488829560315702">Hola, soc en Leo. Soc un assistent d'IA totalment allotjat de Brave. Funciono amb Llama 3 8B, un model creat per Meta per oferir rendiment i aplicabilitat a molts casos d'ús. <ph name="LINK_BEFORE"/>Per a més informació<ph name="LINK_AFTER"/></translation>
+-<translation id="6500567629965936637">Hola, soc en Leo. Soc un assistent d'IA totalment allotjat de Brave. Funciono amb Mixtral 8x7B, un model creat per Mistral AI per gestionar tasques avançades. <ph name="LINK_BEFORE"/>Per a més informació<ph name="LINK_AFTER"/></translation>
+-<translation id="4590776109659811206">Hola, soc en Leo. Estic en un servidor intermedi de Brave i funciono amb Claude Instant, un model creat per Anthropic per permetre tasques de conversa i de processament de textos. <ph name="LINK_BEFORE"/>Per a més informació<ph name="LINK_AFTER"/></translation>
+-<translation id="8583558415545871403">Hola, soc en Leo. Estic en un servidor intermedi de Brave i funciono amb Claude 3 Haiku, un model creat per Anthropic per permetre tasques de conversa i de processament de textos.</translation>
+-<translation id="4147243042852964992">Hola, soc en Leo. Estic en un servidor intermedi de Brave i funciono amb Claude 3 Sonnet, un model creat per Anthropic per permetre tasques de conversa i de processament de textos.</translation>
++<translation id="8570488829560315702">Hola, soc en Leo. Soc un assistent d'IA totalment allotjat de Kahf. Funciono amb Llama 3 8B, un model creat per Meta per oferir rendiment i aplicabilitat a molts casos d'ús. <ph name="LINK_BEFORE"/>Per a més informació<ph name="LINK_AFTER"/></translation>
++<translation id="6500567629965936637">Hola, soc en Leo. Soc un assistent d'IA totalment allotjat de Kahf. Funciono amb Mixtral 8x7B, un model creat per Mistral AI per gestionar tasques avançades. <ph name="LINK_BEFORE"/>Per a més informació<ph name="LINK_AFTER"/></translation>
++<translation id="4590776109659811206">Hola, soc en Leo. Estic en un servidor intermedi de Kahf i funciono amb Claude Instant, un model creat per Anthropic per permetre tasques de conversa i de processament de textos. <ph name="LINK_BEFORE"/>Per a més informació<ph name="LINK_AFTER"/></translation>
++<translation id="8583558415545871403">Hola, soc en Leo. Estic en un servidor intermedi de Kahf i funciono amb Claude 3 Haiku, un model creat per Anthropic per permetre tasques de conversa i de processament de textos.</translation>
++<translation id="4147243042852964992">Hola, soc en Leo. Estic en un servidor intermedi de Kahf i funciono amb Claude 3 Sonnet, un model creat per Anthropic per permetre tasques de conversa i de processament de textos.</translation>
+ <translation id="6206029817087805290"><ph name="MODEL_NAME"/> de <ph name="COMPANY_NAME"/></translation>
+ <translation id="963346402440669081">Premium</translation>
+ <translation id="6187065185557150870">Xat</translation>
+@@ -1953,7 +1953,7 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="8712637175834984815">D'acord</translation>
+ <translation id="1093419424466417703">La pàgina és massa llarga per a Leo. Podria faltar part del context de la conversa. Leo ha pogut llegir el <ph name="PERCENTAGE"/> dels continguts de la pàgina.</translation>
+ <translation id="4370698775470316661">Aquesta conversa és massa llarga i no pot continuar. Pot ser que hi hagi altres models disponibles amb els quals Leo pugui mantenir la precisió en converses més llargues.</translation>
+-<translation id="5719170755629028558">Millora de la teva resposta amb el cercador de Brave…</translation>
++<translation id="5719170755629028558">Millora de la teva resposta amb el cercador de Kahf…</translation>
+ <translation id="5794962229997281366">Millora de la cerca de respostes per a <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Xat de tipus general</translation>
+ <translation id="8193130769524604031">Tasques de xat avançades</translation>
+@@ -1998,13 +1998,13 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="49269513399674318">Utilitza el micròfon</translation>
+ <translation id="3895031624234442305">Personalitza models</translation>
+ <translation id="6303294677342628402">Escuts</translation>
+-<translation id="8458987127502506209">Activa els Escuts de Brave</translation>
++<translation id="8458987127502506209">Activa els Escuts de Kahf</translation>
+ <translation id="7509914170164691086">Els escuts estan activats <ph name="LINK_BEFORE"/> per a <ph name="LINK_AFTER"/></translation>
+ <translation id="260764436039299868">Els escuts estan desactivats <ph name="LINK_BEFORE"/>per a <ph name="LINK_AFTER"/></translation>
+ <translation id="3907405056878805220">Si aquest lloc sembla trencat, prova Escuts.
+- <ph name="LINK_BEFORE"/>Nota: això pot reduir les proteccions de privadesa de Brave.<ph name="LINK_AFTER"/></translation>
++ <ph name="LINK_BEFORE"/>Nota: això pot reduir les proteccions de privadesa de Kahf.<ph name="LINK_AFTER"/></translation>
+ <translation id="8377155647357436161">Rastrejadors, anuncis i més <ph name="LINK_BEFORE"/>bloquejats. Saber-ne més<ph name="LINK_AFTER"/></translation>
+-<translation id="7604553853176833536">No està protegit pels Escuts de Brave <ph name="LINK_BEFORE"/>Més informació<ph name="LINK_AFTER"/></translation>
++<translation id="7604553853176833536">No està protegit pels Escuts de Kahf <ph name="LINK_BEFORE"/>Més informació<ph name="LINK_AFTER"/></translation>
+ <translation id="650318023204990401">Controls avançats</translation>
+ <translation id="5799940914270080805">Si canvies aquests paràmetres és possible que els llocs no funcionin.</translation>
+ <translation id="9204041448536398473">Paràmetres de l'escut global</translation>
+@@ -2035,49 +2035,49 @@ condicions d'ús <ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_P
+ <translation id="2570787596946026998">Connecta't només amb HTTPS</translation>
+ <translation id="1992750560347846445">Informa del lloc</translation>
+ <translation id="2387532482048804818">Digue'ns si el lloc no funcionava correctament amb Escuts activat.</translation>
+-<translation id="3795015906457257780">Estàs veient aquest lloc sense les proteccions de privadesa de Brave.</translation>
+-<translation id="7194012750329511146">Escuts de Brave
++<translation id="3795015906457257780">Estàs veient aquest lloc sense les proteccions de privadesa de Kahf.</translation>
++<translation id="7194012750329511146">Escuts de Kahf
+ <ph name="NUMBER"/> Rastrejadors, anuncis i més bloquejats</translation>
+ <translation id="4292121526390005808">Seqüències d'ordres bloquejades</translation>
+ <translation id="5046271170844958713">Seqüències d'ordres permeses</translation>
+ <translation id="264682546981571963">Cansat dels avisos de consentiment de galetes?</translation>
+-<translation id="4986297793092101884">Brave ja bloqueja les galetes de tercers. També podem bloquejar els avisos de consentiment de galetes.</translation>
++<translation id="4986297793092101884">Kahf ja bloqueja les galetes de tercers. També podem bloquejar els avisos de consentiment de galetes.</translation>
+ <translation id="535688588637568715">Sí, bloqueja els avisos de consentiment de galetes</translation>
+-<translation id="2808175374672429053">No es permeten comodins per a Escuts de Brave.</translation>
++<translation id="2808175374672429053">No es permeten comodins per a Escuts de Kahf.</translation>
+ <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
+-=1 {Escuts de Brave ha bloquejat 1 rastrejador a <ph name="SITE_URL"/>}
+-other {Escuts de Brave ha bloquejat {BLOCKED_COUNT} rastrejadors a <ph name="SITE_URL"/>}
++=1 {Escuts de Kahf ha bloquejat 1 rastrejador a <ph name="SITE_URL"/>}
++other {Escuts de Kahf ha bloquejat {BLOCKED_COUNT} rastrejadors a <ph name="SITE_URL"/>}
+ }</translation>
+-<translation id="2540598191934725677">Clica a la icona de Brave per veure els Escuts de Brave.</translation>
++<translation id="2540598191934725677">Clica a la icona de Kahf per veure els Escuts de Kahf.</translation>
+ <translation id="6294662480095808915">Privadesa. Per defecte.</translation>
+-<translation id="4366423156486478559">Obtingues protecció de Brave en cada enllaç que cliquis. Simplement estableix Brave com a predeterminat i navega-hi. De manera privada.</translation>
++<translation id="4366423156486478559">Obtingues protecció de Kahf en cada enllaç que cliquis. Simplement estableix Kahf com a predeterminat i navega-hi. De manera privada.</translation>
+ <translation id="3830912418080848377">Importa la configuració</translation>
+ <translation id="6378406588483694938">Importa fàcilment adreces d'interès, extensions, fins i tot les contrasenyes desades del teu navegador antic.</translation>
+ <translation id="2092825239819166928">Selecciona el perfil a importar</translation>
+ <translation id="4763127492635705340">El navegador que has triat té múltiples perfils. Selecciona el(s) perfil(s) que vols importar.</translation>
+ <translation id="880174232178865598">Importa perfils</translation>
+ <translation id="2453860139492968684">Finalitza</translation>
+-<translation id="2273851479262317744">Defineix Brave com a navegador predeterminat</translation>
++<translation id="2273851479262317744">Defineix Kahf com a navegador predeterminat</translation>
+ <translation id="5037676449506322593">Selecciona-ho tot</translation>
+-<translation id="5148943178722443958">Ajuda a millorar Brave.</translation>
++<translation id="5148943178722443958">Ajuda a millorar Kahf.</translation>
+ <translation id="1097073572755862978">Envia informes de diagnòstic si es produeix un bloqueig o una congelació. <ph name="LINK_BEFORE"/>Més informació.<ph name="LINK_AFTER"/></translation>
+-<translation id="6629244688368006959">Compartiu la informació privada i anònima de productes sobre quines funcions fan servir els usuaris de Brave. <ph name="LINK_BEFORE"/>Més informació.<ph name="LINK_AFTER"/></translation>
++<translation id="6629244688368006959">Compartiu la informació privada i anònima de productes sobre quines funcions fan servir els usuaris de Kahf. <ph name="LINK_BEFORE"/>Més informació.<ph name="LINK_AFTER"/></translation>
+ <translation id="7415454883318062233">S'ha completat la configuració</translation>
+-<translation id="3141206739023333979">Canvia aquestes opcions de Brave en qualsevol moment a <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
++<translation id="3141206739023333979">Canvia aquestes opcions de Kahf en qualsevol moment a <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+ <translation id="8321985064212130832">Llegeix la nostra <ph name="LINK_BEFORE"/>Política de privadesa<ph name="LINK_AFTER"/> completa</translation>
+ <translation id="2801098717523961746">Tria el tema de color</translation>
+-<translation id="6262510489122516114">Pots canviar aquesta opció en qualsevol moment a la configuració de Brave.</translation>
++<translation id="6262510489122516114">Pots canviar aquesta opció en qualsevol moment a la configuració de Kahf.</translation>
+ <translation id="546481172717459539">Configuració del sistema de coincidència</translation>
+ <translation id="7799817062559422778">Mode clar</translation>
+ <translation id="4117637339509843559">Mode fosc</translation>
+ <translation id="6302485303316397682">Vols millors resultats de cerca?</translation>
+-<translation id="7014699001826714920">Uneix-te al moviment, contribueix al Cercador de Brave</translation>
+-<translation id="6821108091726602352">Ajuda'ns a arreglar el web participant en el Web Discovery Project de Brave. Si comparteixes senyals de cerca completament anònims, pots ajudar Brave a fer créixer l'índex de cerca.</translation>
++<translation id="7014699001826714920">Uneix-te al moviment, contribueix al Cercador de Kahf</translation>
++<translation id="6821108091726602352">Ajuda'ns a arreglar el web participant en el Web Discovery Project de Kahf. Si comparteixes senyals de cerca completament anònims, pots ajudar Kahf a fer créixer l'índex de cerca.</translation>
+ <translation id="6764845498618413165">Més informació.</translation>
+ <translation id="7818938154803162778">És clar que ajudaré</translation>
+-<translation id="7821773512278295352">Tallafoc + VPN de Brave: connectat</translation>
+-<translation id="6019088868713395120">Tallafoc + VPN de Brave: desconnectat</translation>
+-<translation id="3541307549916475335">IU del tauler de la VPN de Brave</translation>
++<translation id="7821773512278295352">Tallafoc + VPN de Kahf: connectat</translation>
++<translation id="6019088868713395120">Tallafoc + VPN de Kahf: desconnectat</translation>
++<translation id="3541307549916475335">IU del tauler de la VPN de Kahf</translation>
+ <translation id="1742469581923031760">S'està connectant…</translation>
+ <translation id="1287487756047817908">S'està desconnectant…</translation>
+ <translation id="2325196879156848326">Connexió fallida</translation>
+@@ -2087,7 +2087,7 @@ other {Escuts de Brave ha bloquejat {BLOCKED_COUNT} rastrejadors a <ph name="SIT
+ <translation id="8703188411226330709">Inicia una prova gratuïta</translation>
+ <translation id="1024255913009642477">Ja has comprat un VPN?</translation>
+ <translation id="8814357473522731680">Impulsat per</translation>
+-<translation id="3960619311638643872">VPN de Brave</translation>
++<translation id="3960619311638643872">VPN de Kahf</translation>
+ <translation id="7805768142964895445">Estat</translation>
+ <translation id="5747552184818312860">Data de caducitat</translation>
+ <translation id="8421945428836418371">Reconnecta automàticament</translation>
+@@ -2105,7 +2105,7 @@ other {Escuts de Brave ha bloquejat {BLOCKED_COUNT} rastrejadors a <ph name="SIT
+ <translation id="427718751211990320">S'ha esgotat la data de caducitat de les credencials.</translation>
+ <translation id="8670619630771851260">No s'han pogut carregar les credencials.</translation>
+ <translation id="1594643509610625766">El token ja no és vàlid.</translation>
+-<translation id="8373427068383038263">Sembla que el teu pagament més recent per a <ph name="VALUE"/> no es va completar amb èxit. L'accés a aquesta subscripció es posarà en pausa fins que s'hagi resolt el problema de pagament. Prova de modificar el teu mètode de pagament o posa't en contacte amb el servei d'ajuda de Brave.</translation>
++<translation id="8373427068383038263">Sembla que el teu pagament més recent per a <ph name="VALUE"/> no es va completar amb èxit. L'accés a aquesta subscripció es posarà en pausa fins que s'hagi resolt el problema de pagament. Prova de modificar el teu mètode de pagament o posa't en contacte amb el servei d'ajuda de Kahf.</translation>
+ <translation id="1839021455997460752">La teva adreça electrònica</translation>
+ <translation id="8054563304616131773">Introdueix una adreça electrònica vàlida</translation>
+ <translation id="5154702632169343078">Assumpte</translation>
+@@ -2122,14 +2122,14 @@ other {Escuts de Brave ha bloquejat {BLOCKED_COUNT} rastrejadors a <ph name="SIT
+ <translation id="6676791921618140305">Versió del SO:</translation>
+ <translation id="1156325797949437777">Assistència proporcionada en col·laboració amb Guardian.</translation>
+ <translation id="8146777497879160283">No s'ha pogut escriure la configuració VPN. Això pot passar si no tens permís o si no has executat Windows Update recentment.</translation>
+-<translation id="3307461350293459700">Ha fallat la connexió VPN. Torna a intentar connectar-te i assegura't de clicar a Permet activar la configuració VPN de Brave.</translation>
+-<translation id="7261518280726313829">Desactivar el DNS segur o utilitzar els servidors per defecte de Windows podria revelar els noms dels llocs que visites al teu proveïdor de serveis d'internet. Brave no recomana que ho facis. Vols fer-ho igualment?</translation>
+-<translation id="888284761945060750">El DNS segur està desactivat per les polítiques de la teva organització. Utilitzar la VPN de Brave sense el DNS segur podria revelar els noms dels llocs que visites al teu proveïdor de serveis d'internet o a la teva organització.</translation>
+-<translation id="6593224083874259773">VPN de Brave a Windows</translation>
+-<translation id="3153983908111684619">La VPN de Brave bloqueja la configuració mentre està connectada</translation>
++<translation id="3307461350293459700">Ha fallat la connexió VPN. Torna a intentar connectar-te i assegura't de clicar a Permet activar la configuració VPN de Kahf.</translation>
++<translation id="7261518280726313829">Desactivar el DNS segur o utilitzar els servidors per defecte de Windows podria revelar els noms dels llocs que visites al teu proveïdor de serveis d'internet. Kahf no recomana que ho facis. Vols fer-ho igualment?</translation>
++<translation id="888284761945060750">El DNS segur està desactivat per les polítiques de la teva organització. Utilitzar la VPN de Kahf sense el DNS segur podria revelar els noms dels llocs que visites al teu proveïdor de serveis d'internet o a la teva organització.</translation>
++<translation id="6593224083874259773">VPN de Kahf a Windows</translation>
++<translation id="3153983908111684619">La VPN de Kahf bloqueja la configuració mentre està connectada</translation>
+ <translation id="1055657720430482013">Windows té una funció anomenada Smart Multi-Homed Name Resolution, que pot revelar informació sobre la teva ubicació i els llocs que visites.
+ 
+-Brave té un servei d'ajuda que et protegeix d'aquesta divulgació filtrant la forma en què es fan les consultes DNS a la teva connexió VPN.
++Kahf té un servei d'ajuda que et protegeix d'aquesta divulgació filtrant la forma en què es fan les consultes DNS a la teva connexió VPN.
+ 
+ Hem canviat la configuració de DNS al navegador per protegir-te d'aquesta divulgació. La configuració romandrà vigent i bloquejada mentre la VPN estigui connectada.
+ 

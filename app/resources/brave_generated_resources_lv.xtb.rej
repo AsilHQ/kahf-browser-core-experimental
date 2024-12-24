@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_lv.xtb b/app/resources/brave_generated_resources_lv.xtb	(rejected hunks)
+@@ -43,10 +43,10 @@
+ <translation id="1970435562892104727">Šis ir inkognito logs ar Tor</translation>
+ <translation id="1037341607922068025">Atvērt inkognito logu ar Tor</translation>
+ <translation id="607982085107926247">Atvērt ar Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Šis Brave sinhronizēšanas konts tika dzēsts no citas ierīces. Ja nevēlējāties atspējot sinhronizēšanu, <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Šis Kahf sinhronizēšanas konts tika dzēsts no citas ierīces. Ja nevēlējāties atspējot sinhronizēšanu, <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/> izveidojiet kontu vēlreiz</translation>
+ <translation id="6965382102122355670">Labi</translation>
+-<translation id="3975865347033939965">Sinhronizācijas pakalpojumu nevarēja palaist, Brave Sync nedarbojas</translation>
++<translation id="3975865347033939965">Sinhronizācijas pakalpojumu nevarēja palaist, Kahf Sync nedarbojas</translation>
+ <translation id="4450893287417543264">Vairs nerādīt</translation>
+ <translation id="4595286989346610620">Pārbaudiet informāciju</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -54,66 +54,66 @@
+ <translation id="4759098689276706664">Piespiedu ielīmēšana</translation>
+ <translation id="1434416574322382019">Jauns inkognito logs Tor</translation>
+ <translation id="4703780849509456860">Atvērt saiti inkognito logā Tor</translation>
+-<translation id="3488584642074079080">Atvērt saiti Brave inkognito logā Tor</translation>
++<translation id="3488584642074079080">Atvērt saiti Kahf inkognito logā Tor</translation>
+ <translation id="6313675821927505581">Jauns inkognito logs, izmantojot Tor</translation>
+ <translation id="2638041073279639246">Atvērt saiti inkognito logā, izmantojot Tor</translation>
+-<translation id="3425600262621021599">Atvērt saiti Brave inkognito logā, izmantojot Tor</translation>
+-<translation id="2545072023356206691">No 2023. gada 1. decembra Brave Dev kanāls vairs nesaņems pārlūkprogrammas atjauninājumus. Mēs iesakām lietotājiem pāriet uz Brave Nightly, Beta vai Release versiju.</translation>
++<translation id="3425600262621021599">Atvērt saiti Kahf inkognito logā, izmantojot Tor</translation>
++<translation id="2545072023356206691">No 2023. gada 1. decembra Kahf Dev kanāls vairs nesaņems pārlūkprogrammas atjauninājumus. Mēs iesakām lietotājiem pāriet uz Kahf Nightly, Beta vai Release versiju.</translation>
+ <translation id="474217410105706308">Izslēgt cilnes skaņu</translation>
+-<translation id="2804710924397009224">Paslēpt Brave Rewards ikonu</translation>
+-<translation id="5029193871181468990">Paslēpt Brave Rewards ikonu</translation>
+-<translation id="2808103541110899519">Paslēpt Brave maka ikonu</translation>
+-<translation id="7595540212376041331">Paslēpt Brave maka ikonu</translation>
++<translation id="2804710924397009224">Paslēpt Kahf Rewards ikonu</translation>
++<translation id="5029193871181468990">Paslēpt Kahf Rewards ikonu</translation>
++<translation id="2808103541110899519">Paslēpt Kahf maka ikonu</translation>
++<translation id="7595540212376041331">Paslēpt Kahf maka ikonu</translation>
+ <translation id="4928988318462976765">Paplašinājumu interneta veikals</translation>
+ <translation id="9181207987584064303">Skatīt paplašinājumu interneta veikalā</translation>
+-<translation id="3161744659507801211">Brīdinājums: Brave nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi.</translation>
++<translation id="3161744659507801211">Brīdinājums: Kahf nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi.</translation>
+ <translation id="2162109630536601963">Ja šis paplašinājums veic tīkla pieprasījumus, tie neizmanto Tor vai inkognito režīmu.</translation>
+ <translation id="2725327089319971976">Lai atspējotu šo paplašinājumu inkognito un Tor režīmā, noņemiet atzīmi no šīs opcijas.</translation>
+-<translation id="3371343170427636147">Brave Nightly pārlūka lietotnes</translation>
+-<translation id="4097979995947147464">Brave Beta pārlūka lietotnes</translation>
+-<translation id="8303432794159193481">Brave Dev pārlūka lietotnes</translation>
+-<translation id="8292967014767479012">Brave pārlūka vietnes</translation>
+-<translation id="4743468424889072281">Brave pārlūka izstrādes lietotnes</translation>
++<translation id="3371343170427636147">Kahf Nightly pārlūka lietotnes</translation>
++<translation id="4097979995947147464">Kahf Beta pārlūka lietotnes</translation>
++<translation id="8303432794159193481">Kahf Dev pārlūka lietotnes</translation>
++<translation id="8292967014767479012">Kahf pārlūka vietnes</translation>
++<translation id="4743468424889072281">Kahf pārlūka izstrādes lietotnes</translation>
+ <translation id="5039804452771397117">Atļaut</translation>
+ <translation id="7053983685419859001">Bloķēt</translation>
+-<translation id="1679356339067548863">Palīdziet uzlabot Brave produktu stabilitāti, automātiski nosūtot diagnostikas ziņojumus, kad Brave pārlūks avarē vai pārstāj darboties.</translation>
++<translation id="1679356339067548863">Palīdziet uzlabot Kahf produktu stabilitāti, automātiski nosūtot diagnostikas ziņojumus, kad Kahf pārlūks avarē vai pārstāj darboties.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> neparedzēti beidza darbu.</translation>
+-<translation id="1324417023773393937">Brave pārlūks</translation>
++<translation id="1324417023773393937">Kahf pārlūks</translation>
+ <translation id="7276554663454265692">Jūs varat mainīt <ph name="SETTING_TEXT"/> jebkurā laikā pārlūka iestatījumos.</translation>
+ <translation id="6873781976650514089">šis iestatījums</translation>
+ <translation id="4684633335323013758">Šī vietne pieprasa jūsu<ph name="PART_ONE"/>galveno atrašanās vietu<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Uzzināt vairāk<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Šī vietne pieprasa jūsu <ph name="PART_ONE"/>precīzu atrašanās vietu<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Uzzināt vairāk<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Šī vietne pieprasa jūsu <ph name="PART_ONE"/>precīzu atrašanās vietu<ph name="PART_ONE_END"/>. Brave varēs sniegt tikai  informāciju par<ph name="PART_TWO"/>galveno atrašanās vietu<ph name="PART_TWO_END"/>, jo <ph name="PART_THREE"/>atrašanās vietas pakalpojumi<ph name="PART_THREE_END"/> ir atspējoti. <ph name="PART_FOUR"/>Uzzināt vairāk<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Šī vietne pieprasa jūsu <ph name="PART_ONE"/>precīzu atrašanās vietu<ph name="PART_ONE_END"/>. Kahf varēs sniegt tikai  informāciju par<ph name="PART_TWO"/>galveno atrašanās vietu<ph name="PART_TWO_END"/>, jo <ph name="PART_THREE"/>atrašanās vietas pakalpojumi<ph name="PART_THREE_END"/> ir atspējoti. <ph name="PART_FOUR"/>Uzzināt vairāk<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Izvēlēties visu</translation>
+ <translation id="7658239707568436148">Atcelt</translation>
+ <translation id="4870911314065352661">Aizvērt visas cilnes?</translation>
+ <translation id="7551864359422178684">Šajā pārlūkprogrammas logā jums ir atvērta(-s) <ph name="NUMBER_OF_TABS"/> cilne(-s).</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> cilnes</translation>
+ <translation id="1307431692088049276">Nejautāt man atkal</translation>
+-<translation id="6919364924256365253">Nemeklējiet to Google. Un ari ne Bing. Vienkārši izmantojiet Brave.</translation>
+-<translation id="2640297688005939449">Brave meklēšana neprofilē jūs. Un tas ir 100 % neatkarīgs.</translation>
++<translation id="6919364924256365253">Nemeklējiet to Google. Un ari ne Bing. Vienkārši izmantojiet Kahf.</translation>
++<translation id="2640297688005939449">Kahf meklēšana neprofilē jūs. Un tas ir 100 % neatkarīgs.</translation>
+ <translation id="7295094278358921487">Meklējiet un jūs atradīsiet. Privāti.</translation>
+-<translation id="3462465068145800637">Brave meklēšana neprofilē jūs. Un tā ir 100 % neatkarīga no Big Tech.</translation>
++<translation id="3462465068145800637">Kahf meklēšana neprofilē jūs. Un tā ir 100 % neatkarīga no Big Tech.</translation>
+ <translation id="42032117189492785">Mākslīgā intelekta uzlabota meklēšana ar unikālu indeksu.</translation>
+ <translation id="8606416238399082160">Pilnībā privāts, 100% neatkarīgs un ar lieliskām mākslīgā intelekta funkcijām.</translation>
+-<translation id="7706528608480893054">DDG ir tikai maskējies Bing. Laiks īstam privātumam, labākiem rezultātiem un neatkarīgiem rezultātiem. Laiks Brave meklēšanai.</translation>
++<translation id="7706528608480893054">DDG ir tikai maskējies Bing. Laiks īstam privātumam, labākiem rezultātiem un neatkarīgiem rezultātiem. Laiks Kahf meklēšanai.</translation>
+ <translation id="3818133234428578803">Pīli grāvī</translation>
+-<translation id="14817360483752259">Brave meklēšana neizseko jūs, jūsu vaicājumus vai jūsu klikšķus. Un, pretēji DDG, tā nav tikai nomaskēts Bing.</translation>
++<translation id="14817360483752259">Kahf meklēšana neizseko jūs, jūsu vaicājumus vai jūsu klikšķus. Un, pretēji DDG, tā nav tikai nomaskēts Bing.</translation>
+ <translation id="4381193110021038941">Iegūstiet labākus rezultātus</translation>
+-<translation id="3846545273704969734">Neatkarīgas pārbaudes rāda, ka Brave meklēšana uzrāda labākus rezultātus nekā Bing (vai Bing kloni, piemēram DuckDuckGo).</translation>
++<translation id="3846545273704969734">Neatkarīgas pārbaudes rāda, ka Kahf meklēšana uzrāda labākus rezultātus nekā Bing (vai Bing kloni, piemēram DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Uzlabot meklēšanas rezultātus</translation>
+-<translation id="4639001639513524869">Vairumam vaicājumu Brave meklēšana uzrāda labākus rezultātus, nekā DuckDuckGo. Un Brave meklēšana ir patiešām konfidenciāla.</translation>
+-<translation id="5240031343741051161">Izmēģiniet Brave meklēšanu</translation>
++<translation id="4639001639513524869">Vairumam vaicājumu Kahf meklēšana uzrāda labākus rezultātus, nekā DuckDuckGo. Un Kahf meklēšana ir patiešām konfidenciāla.</translation>
++<translation id="5240031343741051161">Izmēģiniet Kahf meklēšanu</translation>
+ <translation id="5234764350956374838">Noraidīt</translation>
+-<translation id="8722651357687610395">Iestatīt Brave kā noklusējuma pārlūku</translation>
++<translation id="8722651357687610395">Iestatīt Kahf kā noklusējuma pārlūku</translation>
+ <translation id="2370739752330685659">Varbūt vēlāk</translation>
+-<translation id="5100490448228945668">Noraidīt Brave meklēšanas konvertāciju; nospiediet Ievadīt, lai noņemtu šo ieteikumu</translation>
++<translation id="5100490448228945668">Noraidīt Kahf meklēšanas konvertāciju; nospiediet Ievadīt, lai noņemtu šo ieteikumu</translation>
+ <translation id="9194637241566114638">Palīdziet uzlabot <ph name="SEARCH_NAME"/>, sūtot anonīmus lietojuma datus.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave meklēšana</translation>
++<translation id="7404610376221341525">Kahf meklēšana</translation>
+ <translation id="8184318863960255706">Plašāka informācija</translation>
+ <translation id="780301667611848630">Nē, paldies</translation>
+-<translation id="1162706247109707219">Nospiežot OK, jūs piekrītat, ka jūsu Brave instalētā versija NESAŅEMS svarīgus drošības labojumus, līdz nebūsiet pārgājis uz Windows 10 vai jaunāku operētājsistēmu. Šis brīdinājums NETIKS rādīts atkārtoti.</translation>
+-<translation id="9164786361657554526">Nospiežot OK, jūs piekrītat, ka jūsu Brave instalētā versija NESAŅEMS svarīgus drošības labojumus, līdz nebūsiet pārgājis uz macOS 10.15 vai jaunāku operētājsistēmu. Šis brīdinājums NETIKS rādīts atkārtoti.</translation>
++<translation id="1162706247109707219">Nospiežot OK, jūs piekrītat, ka jūsu Kahf instalētā versija NESAŅEMS svarīgus drošības labojumus, līdz nebūsiet pārgājis uz Windows 10 vai jaunāku operētājsistēmu. Šis brīdinājums NETIKS rādīts atkārtoti.</translation>
++<translation id="9164786361657554526">Nospiežot OK, jūs piekrītat, ka jūsu Kahf instalētā versija NESAŅEMS svarīgus drošības labojumus, līdz nebūsiet pārgājis uz macOS 10.15 vai jaunāku operētājsistēmu. Šis brīdinājums NETIKS rādīts atkārtoti.</translation>
+ <translation id="2770465223704140727">Noņemt no saraksta</translation>
+ <translation id="6020553119523541665">Šī cilne ir aktīva citā logā</translation>
+ <translation id="4987392683074136770">Noklikšķinot uz šīs cilnes, tās saturs tiks pārnests uz šo logu</translation>
+@@ -298,8 +298,8 @@
+ <translation id="6453210454707928697">Neizdevās atskaņot vienumu</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] var būt beidzies derīguma termiņš. Vai vēlaties to atgūt?</translation>
+ <translation id="6155018868740116868">Atgūt</translation>
+-<translation id="1727684853006449697">Brave atskaņotājs</translation>
+-<translation id="9156965752763025780">Izmaiņas stāsies spēkā, kad restartēsiet Brave.</translation>
++<translation id="1727684853006449697">Kahf atskaņotājs</translation>
++<translation id="9156965752763025780">Izmaiņas stāsies spēkā, kad restartēsiet Kahf.</translation>
+ <translation id="7179921470347911571">Restartēt tūlīt</translation>
+ <translation id="1426410128494586442">Jā</translation>
+ <translation id="4250680216510889253">Nē</translation>
+@@ -338,7 +338,7 @@
+ <translation id="8820817407110198400">Grāmatzīmju josla</translation>
+ <translation id="4144468798716165316">Ātrās komandas</translation>
+ <translation id="7310387888625228830">Leo AI asistents</translation>
+-<translation id="5222974844674487962">Rādīt Brave ziņu pogu</translation>
++<translation id="5222974844674487962">Rādīt Kahf ziņu pogu</translation>
+ <translation id="383007806262310953">Rādīt grāmatzīmes</translation>
+ <translation id="4054323497808446566">Grāmatzīmju josla ir redzama visās lapās</translation>
+ <translation id="8693858092251192712">Grāmatzīmju josla ir noslēpta visās lapās, izņemot jaunās cilnes lapu</translation>
+@@ -439,7 +439,7 @@
+ <translation id="4891600875049212418">Apmeklējot sensitīvas vietnes, pāriet neredzamajā režīmā</translation>
+ <translation id="1968895725257436430">Datu vākšana</translation>
+ <translation id="4846154056248462491">Izejot</translation>
+-<translation id="2808630562319398131">Atiestatīt Brave Rewards datus...</translation>
++<translation id="2808630562319398131">Atiestatīt Kahf Rewards datus...</translation>
+ <translation id="6438096877646138757">Vietnes, kas notīra sīkfailus, kad jūs tās aizverat</translation>
+ <translation id="2988792685798128092">Notīrīt, aizverot vietni</translation>
+ <translation id="7702907602086592255">Domēns</translation>
+@@ -693,7 +693,7 @@ Leo. Šo darbību nevar atsaukt.</translation>
+ <translation id="7131172845656551327">Modeļa nosaukums, kādam tam jāparādās pieprasījumā apkalpojošai struktūrai, proti, phi-3 (ņemiet vērā, ka, ja šis nosaukums precīzi neatbilst tam, ko sagaida apkalpojošā struktūra, integrācija nedarbosies)</translation>
+ <translation id="3286410514484292784">Url vietrādis, kurā apkalpojošā struktūra uzklausa pieprasījumus. Ja neesat pārliecināts, pārbaudiet apkalpojošās struktūras dokumentāciju. Piemēram, Ollama tā vienmēr ir: http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Atsevišķas apkalpojošās struktūras var pieprasīt autentifikācijas akreditācijas datus, piemēram, API atslēgu vai piekļuves marķieri. Tie tiks pievienoti pieprasījuma galvenei.</translation>
+-<translation id="217141195370578385">Tā kā Brave nepilnvaro šos pieprasījumus, lūdzu, izlasiet izvēlētā pakalpojumu sniedzēja privātuma noteikumus.</translation>
++<translation id="217141195370578385">Tā kā Kahf nepilnvaro šos pieprasījumus, lūdzu, izlasiet izvēlētā pakalpojumu sniedzēja privātuma noteikumus.</translation>
+ <translation id="2645532768679870478">Nevietējiem galapunktiem jāizmanto HTTPS protokols, lai nodrošinātu drošu datu pārraidi.</translation>
+ <translation id="8177205483022887785">Jūs ievadījāt nederīgu URL vietrādi. Lūdzu, ievadiet derīgu URL vietrādi.</translation>
+ <translation id="5249539665306267943">Pievienot jaunu modeli</translation>

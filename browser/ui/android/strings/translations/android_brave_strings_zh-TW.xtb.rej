@@ -1,0 +1,298 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_zh-TW.xtb b/browser/ui/android/strings/translations/android_brave_strings_zh-TW.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>深入瞭解 Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">允許（立刻重新啟動）</translation>
+ <translation id="2433507940547922241">外觀</translation>
+-<translation id="9040069796107003510">Brave Rewards 圖示</translation>
+-<translation id="6333347122924254968">在網址列顯示 Brave 獎勵圖示</translation>
++<translation id="9040069796107003510">Kahf Rewards 圖示</translation>
++<translation id="6333347122924254968">在網址列顯示 Kahf 獎勵圖示</translation>
+ <translation id="8495235435594442882">啟用底部工具列</translation>
+-<translation id="6587448235155023666">所有變更將在你下次重啟 Brave 時生效</translation>
++<translation id="6587448235155023666">所有變更將在你下次重啟 Kahf 時生效</translation>
+ <translation id="8701563696941209024">馬上重新啟動</translation>
+ <translation id="834487290629916192">稍後</translation>
+-<translation id="7207456302801184289">歡迎使用 Brave</translation>
++<translation id="7207456302801184289">歡迎使用 Kahf</translation>
+ <translation id="4117451092682672487">輕鬆捍衛個人隱私。</translation>
+-<translation id="7909375417585209817">只要將 Brave 設為預設瀏覽器，您輕觸的每個連結都會在 Brave 的隱私保護功能下開啟。</translation>
++<translation id="7909375417585209817">只要將 Kahf 設為預設瀏覽器，您輕觸的每個連結都會在 Kahf 的隱私保護功能下開啟。</translation>
+ <translation id="7370959926683925817">封鎖廣告，節省數據，全年無休。</translation>
+-<translation id="7281027579943912834">將 Brave 設為預設瀏覽器，您點按的每個連結都會受到 Brave 的廣告封鎖保護。所有頁面、影片和串流都能受益。</translation>
+-<translation id="5148943178722443958">協助提升 Brave 品質。</translation>
++<translation id="7281027579943912834">將 Kahf 設為預設瀏覽器，您點按的每個連結都會受到 Kahf 的廣告封鎖保護。所有頁面、影片和串流都能受益。</translation>
++<translation id="5148943178722443958">協助提升 Kahf 品質。</translation>
+ <translation id="6718362830686703942">系統當機或停止回應時傳送診斷報告。</translation>
+-<translation id="8616157231067364693">分享不公開的匿名產品深入分析，指出 Brave 使用者正在使用哪些功能。</translation>
++<translation id="8616157231067364693">分享不公開的匿名產品深入分析，指出 Kahf 使用者正在使用哪些功能。</translation>
+ <translation id="2877653791257935258">輸入網站名稱或 URL</translation>
+-<translation id="5329830149661250028">瞭解 Brave 的差異之處：沒有廣告、沒有追蹤器，而且頁面載入速度更快。</translation>
+-<translation id="3941792073703079607">看看 Brave 的不同之處：封鎖廣告，節省數據，加速串流。</translation>
+-<translation id="3545804467215833536">輕觸以查看 Brave Shields</translation>
+-<translation id="1724327820822194498">查看 Brave 使用 Shields 在每個頁面上封鎖的所有惡意內容。</translation>
++<translation id="5329830149661250028">瞭解 Kahf 的差異之處：沒有廣告、沒有追蹤器，而且頁面載入速度更快。</translation>
++<translation id="3941792073703079607">看看 Kahf 的不同之處：封鎖廣告，節省數據，加速串流。</translation>
++<translation id="3545804467215833536">輕觸以查看 Kahf Shields</translation>
++<translation id="1724327820822194498">查看 Kahf 使用 Shields 在每個頁面上封鎖的所有惡意內容。</translation>
+ <translation id="5386259141409498372">已封鎖 <ph name="BIG_TECH"/> 和其他 <ph name="TRACKER"/> 個廣告和追蹤器</translation>
+ <translation id="7256200875155794202">已封鎖 <ph name="BIG_TECH"/> 以及其他廣告和追蹤器</translation>
+ <translation id="3092683655478890840">已封鎖 <ph name="TRACKER_COUNT"/> 個廣告和追蹤器</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">新手故障排除</translation>
+ <translation id="5808759341041733958">選擇預設搜尋引擎</translation>
+ <translation id="1331593888918588693">您稍後能隨時在應用程式設定中更改您的偏好。</translation>
+-<translation id="5806601733251372221">Brave 防護</translation>
++<translation id="5806601733251372221">Kahf 防護</translation>
+ <translation id="8537217141725709400">賺取 <ph name="TOKEN"/></translation>
+-<translation id="3333887201479867589">Brave Rewards</translation>
++<translation id="3333887201479867589">Kahf Rewards</translation>
+ <translation id="5870330605209713397">預設透過觀看尊重隱私的廣告來支援您最愛的網站與創作者。</translation>
+-<translation id="5302488867897327287">透過點擊「開始使用 Brave Rewards」，即表示您同意</translation>
++<translation id="5302488867897327287">透過點擊「開始使用 Kahf Rewards」，即表示您同意</translation>
+ <translation id="4281844954008187215">服務條款</translation>
+ <translation id="6871397658902960384">開始瀏覽</translation>
+ <translation id="454386012157232640">我沒看到任何廣告</translation>
+-<translation id="1448877943847791441">Brave 將於以下時間內顯示首則廣告：</translation>
+-<translation id="4410793187232041318">現在您可以透過 Brave 廣告來賺取代幣了。</translation>
+-<translation id="6511854390690723657">這是你的首則 Brave 廣告。點按了解詳情。</translation>
+-<translation id="2070991379950719711">開始使用 Brave Rewards</translation>
++<translation id="1448877943847791441">Kahf 將於以下時間內顯示首則廣告：</translation>
++<translation id="4410793187232041318">現在您可以透過 Kahf 廣告來賺取代幣了。</translation>
++<translation id="6511854390690723657">這是你的首則 Kahf 廣告。點按了解詳情。</translation>
++<translation id="2070991379950719711">開始使用 Kahf Rewards</translation>
+ <translation id="48520986898237073">繼續到錢包</translation>
+ <translation id="3570367516044491911">設為預設瀏覽器</translation>
+ <translation id="6800338374677644736">設為預設瀏覽器</translation>
+-<translation id="19715420010996093">選取 Brave 瀏覽器並點擊「一律使用」</translation>
+-<translation id="3546439402724649282">Brave 已設為預設瀏覽器。</translation>
++<translation id="19715420010996093">選取 Kahf 瀏覽器並點擊「一律使用」</translation>
++<translation id="3546439402724649282">Kahf 已設為預設瀏覽器。</translation>
+ <translation id="8389661903259423907">你已有預設瀏覽器。你可到應用程式設定頁面更改預設瀏覽器。</translation>
+ <translation id="1545749641540134597">掃描 QR Code</translation>
+ <translation id="5317781812114905957">說明</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">代碼已過期。請點選下方按鈕來產生新代碼。</translation>
+ <translation id="318164877797885563">這組臨時代碼於接下來 <ph name="TIME_AMOUNT"/>內有效。</translation>
+ <translation id="327726072512457161">設定退出</translation>
+-<translation id="8050847734948770789">啟用 Brave Rewards</translation>
++<translation id="8050847734948770789">啟用 Kahf Rewards</translation>
+ <translation id="9187185473011056079">我想加入！</translation>
+-<translation id="8185825081026121627">查看保護使用者隱私的 Brave 獎賞廣告，賺取基本注意力通證 (BAT) 獎勵。</translation>
++<translation id="8185825081026121627">查看保護使用者隱私的 Kahf 獎賞廣告，賺取基本注意力通證 (BAT) 獎勵。</translation>
+ <translation id="5321518976657560663">重設錯誤</translation>
+-<translation id="4114170343590425996">重設 Brave 獎賞時發生問題，請重新啟動 Brave，然後再試。</translation>
+-<translation id="6417420737057016607">Brave 廣告</translation>
+-<translation id="5611966874859284786">不使用 Brave 時顯示通知廣告</translation>
+-<translation id="6606319453795180219">這麼做將刪除您的 Brave 獎勵並重設您所有的 Brave 獎勵資料</translation>
++<translation id="4114170343590425996">重設 Kahf 獎賞時發生問題，請重新啟動 Kahf，然後再試。</translation>
++<translation id="6417420737057016607">Kahf 廣告</translation>
++<translation id="5611966874859284786">不使用 Kahf 時顯示通知廣告</translation>
++<translation id="6606319453795180219">這麼做將刪除您的 Kahf 獎勵並重設您所有的 Kahf 獎勵資料</translation>
+ <translation id="8293206222192510085">新增書籤</translation>
+ <translation id="340492034650766959">刪除書籤</translation>
+ <translation id="2149973817440762519">編輯書籤</translation>
+@@ -464,35 +464,35 @@
+ <translation id="5582686930349810484">封鎖指紋（標準）</translation>
+ <translation id="769702552748212954">允許所有指紋追蹤</translation>
+ <translation id="876424292214881779">已封鎖廣告與其他令人毛骨悚然的東西</translation>
+-<translation id="6930134873084561197">網站時常包含 cookies 和 scripts，它們會試著辨認你和你的裝置。它們想要知道你是誰，並追蹤您在每個網站做什麼。\n\n Brave 會封鎖這些東西，讓您在不被跟蹤的狀態下進行瀏覽。</translation>
+-<translation id="8553998445606452168">關於 Brave Shields</translation>
++<translation id="6930134873084561197">網站時常包含 cookies 和 scripts，它們會試著辨認你和你的裝置。它們想要知道你是誰，並追蹤您在每個網站做什麼。\n\n Kahf 會封鎖這些東西，讓您在不被跟蹤的狀態下進行瀏覽。</translation>
++<translation id="8553998445606452168">關於 Kahf Shields</translation>
+ <translation id="8912304686498704084">开启</translation>
+ <translation id="4963218453264888510">关闭</translation>
+-<translation id="7474113515179313724">您正在沒有受到 Brave 的隱私保護下瀏覽此網站。是因為 Shields up 功能哪裡出錯了嗎？</translation>
++<translation id="7474113515179313724">您正在沒有受到 Kahf 的隱私保護下瀏覽此網站。是因為 Shields up 功能哪裡出錯了嗎？</translation>
+ <translation id="4226543734057230801">以太坊網路</translation>
+ <translation id="3504157706952484145">Filecoin 網路</translation>
+ <translation id="1561541094377237745">Solana 網路</translation>
+ <translation id="7141438739990875547">比特幣網路</translation>
+ <translation id="9055546041146396417">如果此網站顯示為損壞，請試試 Shields down</translation>
+ <translation id="1209739344687072997">回報壞掉的網站</translation>
+-<translation id="8510478288840333677">讓 Brave 開發者知道此網站無法與 Shields 一起運作：</translation>
+-<translation id="5429200298326665264">附註：此網址將與您的 Brave 版本號碼和您的 IP 位址（不會被貯存）一起被提交。</translation>
++<translation id="8510478288840333677">讓 Kahf 開發者知道此網站無法與 Shields 一起運作：</translation>
++<translation id="5429200298326665264">附註：此網址將與您的 Kahf 版本號碼和您的 IP 位址（不會被貯存）一起被提交。</translation>
+ <translation id="5299848999918506028">感謝！</translation>
+-<translation id="76550953340008122">感謝讓 Brave 開發者知道此網站會壞掉。我們將會盡力修復它。</translation>
++<translation id="76550953340008122">感謝讓 Kahf 開發者知道此網站會壞掉。我們將會盡力修復它。</translation>
+ <translation id="650318023204990401">進階控制</translation>
+ <translation id="5370478469168390143">降低線上使用流量</translation>
+-<translation id="1118508688433541158">使用 Brave 瀏覽更快並封鎖廣告</translation>
+-<translation id="7427391215172269363">我每日都會透過 Brave 瀏覽網路來節省流量。</translation>
+-<translation id="4776948189086901857">Brave 隨處皆可運作</translation>
+-<translation id="1606322780901645965">在您的筆記型電腦或平板上，從 brave.com 下載 Brave 以獲得更快和更私密的網際網路</translation>
++<translation id="1118508688433541158">使用 Kahf 瀏覽更快並封鎖廣告</translation>
++<translation id="7427391215172269363">我每日都會透過 Kahf 瀏覽網路來節省流量。</translation>
++<translation id="4776948189086901857">Kahf 隨處皆可運作</translation>
++<translation id="1606322780901645965">在您的筆記型電腦或平板上，從 brave.com 下載 Kahf 以獲得更快和更私密的網際網路</translation>
+ <translation id="8374242949413616101">隱私權保護</translation>
+-<translation id="4955406228638026265">Brave 阻止廣告 &amp; 追蹤裝置未經您同意而蒐集關於您的資訊。</translation>
++<translation id="4955406228638026265">Kahf 阻止廣告 &amp; 追蹤裝置未經您同意而蒐集關於您的資訊。</translation>
+ <translation id="752842701893882688">節省資料和電池量</translation>
+ <translation id="1685837926613452362">沒有廣告和追蹤程式的情況下，網站使用較少數據流量和電量。您甚至可以節省電信業者資費。</translation>
+ <translation id="5440744330377972191">網站載入更快</translation>
+-<translation id="3000738865641747653">載入較少資料意味著在 Brave 中的網站載入更快，比其他瀏覽器快上 8 倍。</translation>
++<translation id="3000738865641747653">載入較少資料意味著在 Kahf 中的網站載入更快，比其他瀏覽器快上 8 倍。</translation>
+ <translation id="8903462729414407077">取得每週更新</translation>
+-<translation id="7450323860390658083">獲得通知關於您所造訪網站中的哪一個最會侵犯隱私權。\n\n只有您能看見這些隱私權統計數字。沒有任何個人資料或瀏覽歷史，會離開您裝置上的 Brave 瀏覽器。</translation>
++<translation id="7450323860390658083">獲得通知關於您所造訪網站中的哪一個最會侵犯隱私權。\n\n只有您能看見這些隱私權統計數字。沒有任何個人資料或瀏覽歷史，會離開您裝置上的 Kahf 瀏覽器。</translation>
+ <translation id="6170159749517116894">開啟隱私權報告</translation>
+ <translation id="1669047024429367828">可視</translation>
+ <translation id="5966707198760109579">週</translation>
+@@ -585,9 +585,9 @@
+ <translation id="1483493594462132177">發送</translation>
+ <translation id="538450413584738399">交換貨幣</translation>
+ <translation id="4556086616242530072">瀏覽器本地化，\n自行保管，\n以及多鏈結。</translation>
+-<translation id="7909462264772842773">掌控您的加密貨幣和 NFT。Brave 錢包支援以太坊、EVM 鏈、Solana、Filecoin 等。</translation>
++<translation id="7909462264772842773">掌控您的加密貨幣和 NFT。Kahf 錢包支援以太坊、EVM 鏈、Solana、Filecoin 等。</translation>
+ <translation id="165255193061631296">需要新的錢包嗎？</translation>
+-<translation id="3485737865439729577">只要幾分鐘即可開始使用 Brave 錢包</translation>
++<translation id="3485737865439729577">只要幾分鐘即可開始使用 Kahf 錢包</translation>
+ <translation id="2759836790106646094">立刻備份您的錢包！</translation>
+ <translation id="1078873179929044999">下一步您將看到一個 12 字的還原片語，可用於還原您的主加密帳戶。請妥善保管。還原片語是在忘記密碼、裝置遺失或被盜或者想切換錢包時找回帳戶存取權限的唯一方式。</translation>
+ <translation id="2359808026110333948">繼續</translation>
+@@ -595,7 +595,7 @@
+ <translation id="1904000155026201268">我了解一旦遺失備援短語，就無法存取加密貨幣錢包。</translation>
+ <translation id="5333225216561354793">請務必瞭解下列事項</translation>
+ <translation id="6937275455070754004">選擇要在錢包中使用的區塊鏈。</translation>
+-<translation id="1645800479814134195">我瞭解這是應自行保管的錢包，我獨自負責任何相關的資金、資產或帳戶，並負責採取適當的行動來保障、保護和備份我的錢包。我瞭解 Brave 不能代表我存取我的錢包或逆轉交易，並且在密碼遺失、裝置遭竊或類似情況下，我的復原詞句是重新取得存取權限的「唯一」方法。</translation>
++<translation id="1645800479814134195">我瞭解這是應自行保管的錢包，我獨自負責任何相關的資金、資產或帳戶，並負責採取適當的行動來保障、保護和備份我的錢包。我瞭解 Kahf 不能代表我存取我的錢包或逆轉交易，並且在密碼遺失、裝置遭竊或類似情況下，我的復原詞句是重新取得存取權限的「唯一」方法。</translation>
+ <translation id="4565891212173086999">我已閱讀並同意<ph name="CLICK_START"/>使用條款<ph name="CLICK_END"/>。</translation>
+ <translation id="3933122286596948824">您的備援短語</translation>
+ <translation id="5077747669435508720">嚴格按照下面所示的順序寫下或複製這些單詞，並妥善保管它們。還原片語是在忘記密碼、裝置遺失或被盜或者想切換錢包時找回帳戶存取權限的唯一方式。</translation>
+@@ -616,13 +616,13 @@
+ <translation id="8030647312184163932">指紋解鎖</translation>
+ <translation id="4090490645603511157">啟用生物識別技術來快速解鎖錢包，不必輸入密碼即可解鎖。</translation>
+ <translation id="1544192797660353713">錢包</translation>
+-<translation id="6901810042765869341">輸入您的備援短語來復原您的 Brave 錢包加密貨幣帳號。</translation>
++<translation id="6901810042765869341">輸入您的備援短語來復原您的 Kahf 錢包加密貨幣帳號。</translation>
+ <translation id="9120654436199628567">還原加密貨幣帳戶</translation>
+ <translation id="4811736040444856406">顯示備援短語</translation>
+ <translation id="283071225285270357">輸入您的備援短語</translation>
+ <translation id="3943857333388298514">貼上</translation>
+ <translation id="3331452756822160641">新密碼</translation>
+-<translation id="4359319875297001084">從舊 Brave 加密幣錢包匯入？</translation>
++<translation id="4359319875297001084">從舊 Kahf 加密幣錢包匯入？</translation>
+ <translation id="2339124864228588937">驗證備援短語</translation>
+ <translation id="3747079125031086337">依正確順序選取還原片語中的字。</translation>
+ <translation id="6518133107902771759">驗證</translation>
+@@ -656,8 +656,8 @@
+ <translation id="5760476995887363522">片語不相符，請再試一次。</translation>
+ <translation id="2360588547830602174">帳號復原失敗。請再試一次。</translation>
+ <translation id="1987317783729300807">帳戶</translation>
+-<translation id="6284218950354553099">自動傳送每日使用 ping 到 Brave</translation>
+-<translation id="2181060149810222381">這種私人的 ping 讓 Brave 可以估計活躍使用者。</translation>
++<translation id="6284218950354553099">自動傳送每日使用 ping 到 Kahf</translation>
++<translation id="2181060149810222381">這種私人的 ping 讓 Kahf 可以估計活躍使用者。</translation>
+ <translation id="6725413948756358325">帳戶名稱</translation>
+ <translation id="6062431965141524986">您可以透過匯入私鑰來建立次要帳號。</translation>
+ <translation id="3952797765659730604">輸入、貼上或匯入您的私鑰字串檔案或 JSON。</translation>
+@@ -679,14 +679,14 @@
+ <translation id="1721710839767183848">網頁上沒有廣告</translation>
+ <translation id="4647035642622555398">無中斷</translation>
+ <translation id="4122515759479497554">搜尋影片</translation>
+-<translation id="4449475351935531438">Brave 防火牆 + VPN</translation>
++<translation id="4449475351935531438">Kahf 防火牆 + VPN</translation>
+ <translation id="719977489961414786">升級至 VPN 來保護您的連線並封鎖無所不在的追蹤程式。</translation>
+ <translation id="8814357473522731680">技術來自</translation>
+ <translation id="5892534145504632332">保護所有應用程式和整部裝置</translation>
+ <translation id="7195416926059527505">家用和公共 Wi-Fi 更安全</translation>
+ <translation id="1354700000739359839">速度飛快，高達 100 Mbps</translation>
+ <translation id="3510283489391432976">選擇您的地理／國家位置</translation>
+-<translation id="7695158478627528928">Brave 絕不會記錄您的活動</translation>
++<translation id="7695158478627528928">Kahf 絕不會記錄您的活動</translation>
+ <translation id="4575683170451975058">1 筆訂閱即可保護 5 個裝置</translation>
+ <translation id="4882693590083943563">所有方案均包含 <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">7 天的免費試用！</translation>
+@@ -697,14 +697,14 @@
+ <translation id="1163809943099641131">一年</translation>
+ <translation id="172859718096975160">每年續訂<ph name="DISCOUNT_TEXT_START"/>，省下 <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/>/ 年</translation>
+-<translation id="5125233570742276182">我們會透過你的 Google 帳戶收取訂閱費用。如果您在免費試用期結束前便選擇訂閱，剩餘的試用效期即告失效。\n\n只要未在目前約期結束前 24 小時取消訂閱，系統就會自動為您續約。\n\n您可以前往「設定」管理訂閱事宜。\n使用 Brave 即表示您同意《使用條款》及《隱私權政策》。</translation>
++<translation id="5125233570742276182">我們會透過你的 Google 帳戶收取訂閱費用。如果您在免費試用期結束前便選擇訂閱，剩餘的試用效期即告失效。\n\n只要未在目前約期結束前 24 小時取消訂閱，系統就會自動為您續約。\n\n您可以前往「設定」管理訂閱事宜。\n使用 Kahf 即表示您同意《使用條款》及《隱私權政策》。</translation>
+ <translation id="5035172357624830412">已在 brave.com 上購買嗎？</translation>
+ <translation id="713136183174551885">重新整理您的憑證</translation>
+ <translation id="6053992191006521518">免費試用</translation>
+ <translation id="5903391101107992067">免費試用 7 天</translation>
+ <translation id="721747358270435486">安裝 VPN</translation>
+ <translation id="836074276610740314">安裝 VPN 設定檔</translation>
+-<translation id="8021842065465097929">Brave 將會安裝 VPN 設定檔。</translation>
++<translation id="8021842065465097929">Kahf 將會安裝 VPN 設定檔。</translation>
+ <translation id="229286271464650057">此設定檔讓 VPN 可以自動連線並隨時保護您裝置上所有應用程式的流量。此 VPN 連線會被加密，且由 Guardian 智慧型防火牆指定路由並封鎖廣告與追蹤程式。</translation>
+ <translation id="9073255657908892407">聯絡技術支援</translation>
+ <translation id="1139934321138152517">VPN 已啟用</translation>
+@@ -932,19 +932,19 @@
+ <translation id="7002577172732106572">分割通道</translation>
+ <translation id="8181161042860463420">相關聯的代幣帳戶不存在。將花費少量的 SOL 來建立和儲值。<ph name="CLICK_START"/>瞭解詳情<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">正在更新 VPN 設定檔……</translation>
+-<translation id="7457027586454688423">輸入您的 Brave 錢包密碼</translation>
+-<translation id="4784306439879850873">請注意，Brave 無法驗證您簽名後會發生什麼。簽名可以授權別人進行帳戶的幾乎任何操作，包括（但不限於）將您的帳戶和加密資產的完全控制權交給提出請求的網站。因此只有在您確定要採取此操作並信任請求的網站時才簽名。</translation>
++<translation id="7457027586454688423">輸入您的 Kahf 錢包密碼</translation>
++<translation id="4784306439879850873">請注意，Kahf 無法驗證您簽名後會發生什麼。簽名可以授權別人進行帳戶的幾乎任何操作，包括（但不限於）將您的帳戶和加密資產的完全控制權交給提出請求的網站。因此只有在您確定要採取此操作並信任請求的網站時才簽名。</translation>
+ <translation id="3474375934783434676">簽名風險自擔</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> / <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">核准交易</translation>
+ <translation id="6450792191436242818">系統程式</translation>
+-<translation id="5318067544026930166">使用生物辨識驗證功能解鎖 Brave 錢包</translation>
+-<translation id="2629767022373384291">您要使用生物辨識驗證功能解鎖 Brave 錢包嗎？</translation>
++<translation id="5318067544026930166">使用生物辨識驗證功能解鎖 Kahf 錢包</translation>
++<translation id="2629767022373384291">您要使用生物辨識驗證功能解鎖 Kahf 錢包嗎？</translation>
+ <translation id="4782919977106118997">使用指紋解鎖</translation>
+ <translation id="2054995875643283428">暫時略過</translation>
+ <translation id="2522605225061484799">前往我的投資組合</translation>
+ <translation id="1148624853678088576">您已準備就緒！</translation>
+-<translation id="4131445988101719379">您的 Brave 錢包已可使用</translation>
++<translation id="4131445988101719379">您的 Kahf 錢包已可使用</translation>
+ <translation id="6252742184395380448">設定程式</translation>
+ <translation id="5358970666412490132">權益程式</translation>
+ <translation id="346636227344244984">投票程式</translation>
+@@ -1016,22 +1016,22 @@
+ <translation id="1313065465616456728">發出日期</translation>
+ <translation id="7902225556763260253">到期時間</translation>
+ <translation id="1908159733454294871">偵測到安全性風險</translation>
+-<translation id="5658257029899993935">將購買交易連結至您的 Brave 帳戶</translation>
+-<translation id="1187061015547219282">將 Play 商店的購買項目連結至您的 Brave 帳戶，即可在其他裝置上使用 Brave VPN。</translation>
++<translation id="5658257029899993935">將購買交易連結至您的 Kahf 帳戶</translation>
++<translation id="1187061015547219282">將 Play 商店的購買項目連結至您的 Kahf 帳戶，即可在其他裝置上使用 Kahf VPN。</translation>
+ <translation id="6662142137695589205">連結您的 VPN 訂閱項目</translation>
+-<translation id="2674077112509133024">擴充您的 Brave 防火牆 + VPN 防護</translation>
+-<translation id="6365389672683343144">您的 Brave VPN 訂閱最多可以保護 5 部裝置，無論是 Android、iOS 或桌上型電腦都不成問題。只要將您的 Google Play 訂閱項目連結至您的 Brave 帳戶即可。</translation>
++<translation id="2674077112509133024">擴充您的 Kahf 防火牆 + VPN 防護</translation>
++<translation id="6365389672683343144">您的 Kahf VPN 訂閱最多可以保護 5 部裝置，無論是 Android、iOS 或桌上型電腦都不成問題。只要將您的 Google Play 訂閱項目連結至您的 Kahf 帳戶即可。</translation>
+ <translation id="6610899852831463073">無法啟用安全瀏覽</translation>
+ <translation id="7954263306665462056">您的裝置已停用安全瀏覽。若要啟用，請確保 Google Play 服務已安裝且保持最新版本。</translation>
+ <translation id="6605147707233193230">開啟以立即支持內容創作者</translation>
+ <translation id="1609556006143307897">您正在支持內容創作者</translation>
+-<translation id="6067959437127691361">使用 Brave Rewards 不僅能支持內容創作者，還可賺取 BAT。</translation>
++<translation id="6067959437127691361">使用 Kahf Rewards 不僅能支持內容創作者，還可賺取 BAT。</translation>
+ <translation id="3264975266761862670">準備好開始賺取收益了嗎？</translation>
+ <translation id="265337947574975838">連結帳戶或向我們的任一合作夥伴建立帳戶。</translation>
+ <translation id="654447476965480878">深入瞭解如何賺取 BAT</translation>
+ <translation id="6278643716658443228">Rewards 設定</translation>
+ <translation id="6516984207843289176">連結帳號</translation>
+-<translation id="4272136334824111854">本月您已造訪 <ph name="CREATOR_COUNT"/> 名 Brave Rewards 支援的創作者</translation>
++<translation id="4272136334824111854">本月您已造訪 <ph name="CREATOR_COUNT"/> 名 Kahf Rewards 支援的創作者</translation>
+ <translation id="6845311459433734326">連結託管帳戶就能賺取 BAT 並提領獎勵</translation>
+ <translation id="928980476243133540">稍後再說</translation>
+ <translation id="579702532610384533">重新連線</translation>
+@@ -1064,8 +1064,8 @@
+ <translation id="346505172740911461">市場價格</translation>
+ <translation id="5494920125229734069">全選</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">用 Brave 錢包登入</translation>
+-<translation id="3696514931437952995">您正在登入 <ph name="ORIGIN"/>。Brave 錢包將與 <ph name="ORIGIN"/> 分享您的錢包位址。</translation>
++<translation id="8613144770663526433">用 Kahf 錢包登入</translation>
++<translation id="3696514931437952995">您正在登入 <ph name="ORIGIN"/>。Kahf 錢包將與 <ph name="ORIGIN"/> 分享您的錢包位址。</translation>
+ <translation id="1028781062521375153">檢視詳細資料</translation>
+ <translation id="6759710362319508545">資源</translation>
+ <translation id="2471230424465522689">不早於</translation>
+@@ -1074,7 +1074,7 @@
+ <translation id="4109670531935487117">在網址列顯示自動完成建議</translation>
+ <translation id="1250335737108905610">重設並清除 Leo 資料</translation>
+ <translation id="6165101586663336913">如果重設 Leo 助理，日後必須重新選擇加入才能再次使用，您的聊天記錄也會一併清除。清除聊天記錄會刪除您先前與 Leo 的對話。此動作無法復原。</translation>
+-<translation id="3692772534525889713">將 Play 商店的購買項目與您的 Brave 帳戶建立連結，即可在其他裝置上使用 Brave Leo。</translation>
++<translation id="3692772534525889713">將 Play 商店的購買項目與您的 Kahf 帳戶建立連結，即可在其他裝置上使用 Kahf Leo。</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">每月</translation>
+ <translation id="451189393813405346">詢問 Leo</translation>

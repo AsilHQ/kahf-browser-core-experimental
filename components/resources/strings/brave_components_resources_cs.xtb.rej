@@ -1,0 +1,333 @@
+diff a/components/resources/strings/brave_components_resources_cs.xtb b/components/resources/strings/brave_components_resources_cs.xtb	(rejected hunks)
+@@ -168,36 +168,36 @@
+ <translation id="5334844597069022743">Zobrazit zdroj</translation>
+ <translation id="4720556299488643018">Odhlásit z odběru</translation>
+ <translation id="1209739344687072997">Nahlásit porouchané stránky</translation>
+-<translation id="8510478288840333677">Dejte vývojářům Brave vědět, že tyto stránky se zabezpečením Shields nefungují správně:</translation>
++<translation id="8510478288840333677">Dejte vývojářům Kahf vědět, že tyto stránky se zabezpečením Shields nefungují správně:</translation>
+ <translation id="3110968385867124099">Tato stránka nemůže být nahlášena, protože nebyla poskytována přes HTTP/HTTPS.</translation>
+ <translation id="7907023135990310743">Tato stránka je místní webovou stránkou a nelze ji nahlásit.</translation>
+ <translation id="3645455863322075098">Tato stránka je chybová stránka a nelze ji nahlásit.</translation>
+-<translation id="105644511106871142">Děkujeme, že pomáháte dělat Brave lepší pro všechny. Toto hlášení zašle pouze informace, které jsou pro nás nezbytné k opravě této stránky.</translation>
++<translation id="105644511106871142">Děkujeme, že pomáháte dělat Kahf lepší pro všechny. Toto hlášení zašle pouze informace, které jsou pro nás nezbytné k opravě této stránky.</translation>
+ <translation id="6476216365964140603">Další informace (nepovinné)</translation>
+ <translation id="6145852496180774737">Kontaktujte mě na adrese: (nepovinné)</translation>
+ <translation id="7616645803364270729">Email, Twitter atd.</translation>
+ <translation id="721949491455392748">Zahrnout snímek obrazovky aktuální stránky</translation>
+ <translation id="8459191579769999214">Zobrazit snímek obrazovky</translation>
+ <translation id="5299848999918506028">Děkujeme!</translation>
+-<translation id="76550953340008122">Díky, že jste vývojářům Brave dali vědět, že tyto stránky vykazují nějakou chybu. Budeme se usilovně snažit ji opravit!</translation>
+-<translation id="4046860372562593546">Spravovat reklamy Brave</translation>
++<translation id="76550953340008122">Díky, že jste vývojářům Kahf dali vědět, že tyto stránky vykazují nějakou chybu. Budeme se usilovně snažit ji opravit!</translation>
++<translation id="4046860372562593546">Spravovat reklamy Kahf</translation>
+ <translation id="5136973036012418831">Mějte kontrolu nad tím, jaké druhy reklam a jak často se vám zobrazují.</translation>
+ <translation id="4759608598194750161">Čím víc se vám toho zobrazí, tím víc můžete vydělat.</translation>
+ <translation id="7526443283522395161">Reklamy na stránce nové karty</translation>
+ <translation id="7968650944098083708">Oznámení s reklamou</translation>
+ <translation id="8289546216379862569">Vyhledávání reklam</translation>
+-<translation id="4758111936363146244">Vyhledávání reklam Brave se zobrazí ve <ph name="BEGIN_LINK"/>Vyhledávání Brave<ph name="END_LINK"/>.</translation>
+-<translation id="7596536223419118193">Z Vyhledávání reklam Brave zatím nemůžete získat BAT, ale pomáháte Brave tím, že je máte zapnuté.</translation>
+-<translation id="6390952132783970876">Zprávy Brave s reklamou</translation>
+-<translation id="7516281787184495886">Zprávy Brave obsahují reklamy, které nelze nezávisle zakázat.</translation>
+-<translation id="8008378848677625233">Zprávy Brave jsou momentálně zakázány.</translation>
++<translation id="4758111936363146244">Vyhledávání reklam Kahf se zobrazí ve <ph name="BEGIN_LINK"/>Vyhledávání Kahf<ph name="END_LINK"/>.</translation>
++<translation id="7596536223419118193">Z Vyhledávání reklam Kahf zatím nemůžete získat BAT, ale pomáháte Kahf tím, že je máte zapnuté.</translation>
++<translation id="6390952132783970876">Zprávy Kahf s reklamou</translation>
++<translation id="7516281787184495886">Zprávy Kahf obsahují reklamy, které nelze nezávisle zakázat.</translation>
++<translation id="8008378848677625233">Zprávy Kahf jsou momentálně zakázány.</translation>
+ <translation id="6112368337882254910">Automatický příspěvek</translation>
+ <translation id="557705068184766514">Automatický způsob podpory webů a autorů obsahu. Nastavte si výši měsíčního příspěvku a normálně používejte prohlížeč. <ph name="BEGIN_LINK"/>Ověřené stránky a autoři<ph name="END_LINK"/>, které navštívíte, od vás budou každý měsíc dostávat příspěvky podle toho, kolik času u nich strávíte.</translation>
+ <translation id="6688567880783357035">Dosavadní výdělek za tento měsíc</translation>
+ <translation id="949044897316791211">Datum příští výplaty výdělku</translation>
+ <translation id="2211646556917925490">Celkem reklam přijatých tento měsíc</translation>
+ <translation id="4229016885653790965">Pardon! Reklamy nejsou ve vašem kraji k dispozici.</translation>
+-<translation id="2539279826042558064">Odměny Brave a reklama nejsou pro toto zařízení nyní dostupné.</translation>
++<translation id="2539279826042558064">Odměny Kahf a reklama nejsou pro toto zařízení nyní dostupné.</translation>
+ <translation id="5736977383725358876">Frekvence oznamovací reklamy</translation>
+ <translation id="7701040980221191251">Žádné</translation>
+ <translation id="480668534656787076">Max. 1 za hodinu</translation>
+@@ -241,30 +241,30 @@
+ <translation id="3082557070674409251">Klepnuto</translation>
+ <translation id="7119308337584989771">Zamítnuto</translation>
+ <translation id="6805660603861526473">Zobrazeno</translation>
+-<translation id="8826352442759228526">Vaše odměny Brave nelze ověřit, protože jste dosáhli maximálního počtu ověřených zařízení.</translation>
++<translation id="8826352442759228526">Vaše odměny Kahf nelze ověřit, protože jste dosáhli maximálního počtu ověřených zařízení.</translation>
+ <translation id="1221593978088944142">Chyba: Bylo dosaženo limitu zařízení</translation>
+-<translation id="6895088073061692390">Váš profil odměn Brave byl bohužel nahlášen, protože naše automatické kontroly zjistily neočekávanou aktivitu reklam Brave.</translation>
+-<translation id="4229056297802204697">Když je váš profil nahlášen, mohou se vám nadále zobrazovat reklamy, ale nemůžete přijímat výplaty. K odměnám Brave také nemůžete připojit úschovný účet.</translation>
++<translation id="6895088073061692390">Váš profil odměn Kahf byl bohužel nahlášen, protože naše automatické kontroly zjistily neočekávanou aktivitu reklam Kahf.</translation>
++<translation id="4229056297802204697">Když je váš profil nahlášen, mohou se vám nadále zobrazovat reklamy, ale nemůžete přijímat výplaty. K odměnám Kahf také nemůžete připojit úschovný účet.</translation>
+ <translation id="5124846913141379164">Je možné, že váš profil byl nahlášen omylem, a není po vás požadována žádná bezprostřední akce. Nahlášení na vašem profilu může být v budoucnu odstraněno.</translation>
+ <translation id="280350148043792509"><ph name="BEGIN_LINK"/>Více o tom, jak funguje označování profilů odměn.<ph name="END_LINK"/></translation>
+-<translation id="5028274575541726856">Chyba: profil odměn Brave je nahlášený</translation>
++<translation id="5028274575541726856">Chyba: profil odměn Kahf je nahlášený</translation>
+ <translation id="2607420597216860026">Zkuste to znovu po dokončení ověření ID ve službě <ph name="PROVIDER"/>.</translation>
+ <translation id="3183954159462541696">Chyba: Pro přihlášení je potřeba ověřený účet</translation>
+-<translation id="1859789048900659918">Hmm, vypadá to, že vaše země Brave Rewards neodpovídá zemi účtu <ph name="PROVIDER"/>, ke kterému se snažíte připojit.</translation>
++<translation id="1859789048900659918">Hmm, vypadá to, že vaše země Kahf Rewards neodpovídá zemi účtu <ph name="PROVIDER"/>, ke kterému se snažíte připojit.</translation>
+ <translation id="8925428135452218262">Chyba: Neshoda zemí</translation>
+-<translation id="5260522591743022748">Hmm, zdá se, že vaše odměny Brave už byly ověřeny jiným účtem <ph name="PROVIDER"/>. Zkuste ověření provést znova pomocí předchozího účtu.</translation>
++<translation id="5260522591743022748">Hmm, zdá se, že vaše odměny Kahf už byly ověřeny jiným účtem <ph name="PROVIDER"/>. Zkuste ověření provést znova pomocí předchozího účtu.</translation>
+ <translation id="5111921830714291902">Chyba: Jiný účet</translation>
+-<translation id="5225019866741699134">Vypadá to, že připojení <ph name="PROVIDER"/> k Brave Rewards je dočasně nedostupné. Zkuste to později.</translation>
++<translation id="5225019866741699134">Vypadá to, že připojení <ph name="PROVIDER"/> k Kahf Rewards je dočasně nedostupné. Zkuste to později.</translation>
+ <translation id="6105073131081187815">Stav služby si můžete zobrazit <ph name="BEGIN_LINK"/>zde<ph name="END_LINK"/>.</translation>
+ <translation id="2400786541309111904">Chyba: Připojení k vybranému správci účtu je dočasně nedostupné</translation>
+-<translation id="1024520300696337331">Váš účet <ph name="PROVIDER"/> nemůže být v tuto chvíli připojen k vašemu profilu Brave Rewards. Váš účet <ph name="PROVIDER"/>  je registrován v zemi, která aktuálně nepodporuje připojení k Brave Rewards.</translation>
+-<translation id="619384413404021992">Zobrazit <ph name="LINK_BEGIN"/>aktuální seznam podporovaných regionů a zjistit další informace<ph name="END_LINK"/> o připojení svěřeneckého účtu k Brave Rewards.</translation>
++<translation id="1024520300696337331">Váš účet <ph name="PROVIDER"/> nemůže být v tuto chvíli připojen k vašemu profilu Kahf Rewards. Váš účet <ph name="PROVIDER"/>  je registrován v zemi, která aktuálně nepodporuje připojení k Kahf Rewards.</translation>
++<translation id="619384413404021992">Zobrazit <ph name="LINK_BEGIN"/>aktuální seznam podporovaných regionů a zjistit další informace<ph name="END_LINK"/> o připojení svěřeneckého účtu k Kahf Rewards.</translation>
+ <translation id="7193389978208728181">Chyba: Region aktuálně není podporován</translation>
+ <translation id="5382684862562314222">Služba BAT zatím není ve vašem regionu v systému Uphold podporována.</translation>
+ <translation id="9074594632540931067">Chyba: Služba BAT není dostupná</translation>
+ <translation id="5376524136040178759">Podle společnosti Uphold se v současné době na váš účet vztahují určitá omezení. Přihlaste se ke svému účtu Uphold a zkontrolujte, zda nepřišla nějaká upozornění nebo požadavky ohledně účtu, které je třeba splnit, a poté to zkuste znovu. Je například možné, že budete muset společnosti Uphold poskytnout další informace.</translation>
+ <translation id="6996157559236886133">Chyba: Omezená funkčnost účtu Uphold</translation>
+-<translation id="3274650021044762770">Při ověřování požadavku prohlížeče na připojení odměn Brave k vašemu účtu<ph name="PROVIDER"/> došlo k chybě. Pro pomoc se můžete <ph name="BEGIN_LINK"/>obrátit na podporu<ph name="END_LINK"/>.</translation>
++<translation id="3274650021044762770">Při ověřování požadavku prohlížeče na připojení odměn Kahf k vašemu účtu<ph name="PROVIDER"/> došlo k chybě. Pro pomoc se můžete <ph name="BEGIN_LINK"/>obrátit na podporu<ph name="END_LINK"/>.</translation>
+ <translation id="1316066811927496401">Chyba: požadavek se nepodařilo ověřit</translation>
+ <translation id="7352651011704765696">Došlo k chybě</translation>
+ <translation id="8285276813470932793">Nepodařilo se nám dokončit váš požadavek. Zkuste to prosím znovu a pokud bude problém přetrvávat <ph name="LINK_BEGIN"/>, kontaktujte podporu<ph name="LINK_END"/>.</translation>
+@@ -284,7 +284,7 @@
+ <translation id="756341217015623253">Přihlaste se nebo se zaregistrujte</translation>
+ <translation id="2653844658857826081">NOVINKA</translation>
+ <translation id="1892970806832316900">Čeká se na vyřízení do <ph name="DATE"/></translation>
+-<translation id="7849926087559412554">Jejda! Váš prohlížeč nemůže přijímat soukromé reklamy Brave.</translation>
++<translation id="7849926087559412554">Jejda! Váš prohlížeč nemůže přijímat soukromé reklamy Kahf.</translation>
+ <translation id="5177429570315095022">Chcete-li, aby prohlížeč nadále zobrazoval reklamy, je třeba jej aktualizovat.</translation>
+ <translation id="4593680147181354667">Diagnostické ID</translation>
+ <translation id="3995471429906554168">Diagnostické údaje</translation>
+@@ -575,20 +575,20 @@
+ <translation id="2429828319207652823">Při zpracování vašeho příspěvku došlo k problému.</translation>
+ <translation id="6390041270339783491">Měsíční příspěvek selhal</translation>
+ <translation id="7047578174221019462">Váš měsíční příspěvek byl zpracován!</translation>
+-<translation id="2529827670795983639">Vypadá to, že to nefunguje, reklamy Brave zůstanou pozastaveny. Pokud potřebujete pomoc s kontrolou Captcha, kontaktujte nás.</translation>
++<translation id="2529827670795983639">Vypadá to, že to nefunguje, reklamy Kahf zůstanou pozastaveny. Pokud potřebujete pomoc s kontrolou Captcha, kontaktujte nás.</translation>
+ <translation id="261607053214862521">Byl překročen maximální počet pokusů</translation>
+ <translation id="2323171459178104277">Vyřešeno!</translation>
+-<translation id="1512837998731269583">Reklamy a příjmy se nyní obnoví. Děkujeme, že nám pomáháte chránit Brave Rewards a reklamy založené na ochraně osobních údajů.</translation>
++<translation id="1512837998731269583">Reklamy a příjmy se nyní obnoví. Děkujeme, že nám pomáháte chránit Kahf Rewards a reklamy založené na ochraně osobních údajů.</translation>
+ <translation id="3247549836099021862">Kontaktovat podporu</translation>
+ <translation id="5234764350956374838">Dismiss</translation>
+ <translation id="7859066142771796818">Používejte tokeny k nákupu dárkových karet, výměně za jiné měny, podpoře tvůrců obsahu a dalším činnostem.</translation>
+-<translation id="5425006356459378415">Brave Rewards není k dispozici</translation>
+-<translation id="909076461795862330">Při pokusu o nastavení Brave Rewards došlo bohužel k chybě. Zkuste to prosím znovu.</translation>
++<translation id="5425006356459378415">Kahf Rewards není k dispozici</translation>
++<translation id="909076461795862330">Při pokusu o nastavení Kahf Rewards došlo bohužel k chybě. Zkuste to prosím znovu.</translation>
+ <translation id="3180990265682133881">Při pokusu o nastavení země bohužel došlo k chybě. Zkuste to znovu.</translation>
+-<translation id="5931798071481566121">Nové registrace do odměn Brave Rewards nejsou v tuto chvíli ve vašem regionu povoleny. Vždy to však můžete zkusit později. <ph name="LINK_BEGIN"/>Zjistěte více<ph name="LINK_END"/></translation>
++<translation id="5931798071481566121">Nové registrace do odměn Kahf Rewards nejsou v tuto chvíli ve vašem regionu povoleny. Vždy to však můžete zkusit později. <ph name="LINK_BEGIN"/>Zjistěte více<ph name="LINK_END"/></translation>
+ <translation id="6439128034594289376">jú! Všechno je připraveno!</translation>
+ <translation id="6136350726756049410">Nyní můžete získat odměnu za prohlížení reklam. Pomáháte tak zlepšit web pro všechny. A to je úžasné!</translation>
+-<translation id="5547108999862247665">Jak odměny Brave fungují?</translation>
++<translation id="5547108999862247665">Jak odměny Kahf fungují?</translation>
+ <translation id="3970520675790340955">Vyberte svoji zemi, abychom vám mohli zobrazit správné možnosti volby a reklamy pro váš region.</translation>
+ <translation id="6945221475159498467">Select</translation>
+ <translation id="3279158300746391749">Chcete-li začít, stiskněte ikonu BAT <ph name="BAT_ICON"/> v adresním řádku.</translation>
+@@ -902,9 +902,9 @@
+ <translation id="7261362517244085362">Autorizovat svou peněženku</translation>
+ <translation id="7150150391368236519">Připojit hardwarovou peněženku</translation>
+ <translation id="5400782314657008092">V současné době podporujeme zařízení <ph name="HARDWARE_DEVICE"/> a <ph name="HARDWARE_DEVICE1"/>.</translation>
+-<translation id="8144305264680648043">Připojte svou hardwarovou peněženku a spravujte tak svůj majetek přímo z Peněženky Brave</translation>
++<translation id="8144305264680648043">Připojte svou hardwarovou peněženku a spravujte tak svůj majetek přímo z Peněženky Kahf</translation>
+ <translation id="1329837291200753515">Vybrat blockchain pro import své hardwarové peněženky</translation>
+-<translation id="6983390509997396124">Připojit své zařízení <ph name="HARDWARE_DEVICE"/> k Peněžence Brave</translation>
++<translation id="6983390509997396124">Připojit své zařízení <ph name="HARDWARE_DEVICE"/> k Peněžence Kahf</translation>
+ <translation id="5149944858285555235">Došlo k neznámé chybě, připojte znovu hardwarovou peněženku a zkuste to ještě jednou.</translation>
+ <translation id="4522570452068850558">Podrobnosti</translation>
+ <translation id="9220525904950070496">Remove account</translation>
+@@ -1580,7 +1580,7 @@
+ <translation id="1215089823252478557">Zobrazení odhadované změny zůstatku</translation>
+ <translation id="2761574758015819991">Identifikaci potenciálně škodlivých transakcí</translation>
+ <translation id="168533464844528463">Pomoc při odhalování pokusů o phishing</translation>
+-<translation id="7269757150305059881">Společnost Brave spolupracuje na poskytování této služby s partnerem. Povolením souhlasíte se sdílením nepodepsaných transakcí a jejich adres URL DApp s naším partnerem.</translation>
++<translation id="7269757150305059881">Společnost Kahf spolupracuje na poskytování této služby s partnerem. Povolením souhlasíte se sdílením nepodepsaných transakcí a jejich adres URL DApp s naším partnerem.</translation>
+ <translation id="7790932700072432983">Lze kdykoli změnit v <ph name="TAG_BEFORE"/>Nastaveních<ph name="TAG_AFTER"/>.</translation>
+ <translation id="8688672835843460752">Available</translation>
+ <translation id="5296640085393149413">Prostředky, které můžete použít.</translation>
+@@ -1805,23 +1805,23 @@ other {# zdrojů}
+ <translation id="6938154350999993769">Odladit přepnutí režimu tabletu</translation>
+ <translation id="5854741377790551127">Strom zobrazení tisku odladění</translation>
+ <translation id="8199130368328220410">Přepnout živý přepis</translation>
+-<translation id="9055778350624039365">Zobrazit panel Brave Wallet</translation>
+-<translation id="2548853975094084059">Zavřít panel Brave Wallet</translation>
+-<translation id="3765209580429944524">Zobrazit panel Brave VPN</translation>
+-<translation id="5989009326527614692">Tlačítko přepnutím lišty nástrojů Brave VPN</translation>
+-<translation id="7334332308395652803">Přepnout ikonu Brave VPN v panelu</translation>
+-<translation id="4326011033480357140">Odeslat zpětnou vazbu Brave VPN</translation>
+-<translation id="2345974803401546682">O síti VPN Brave</translation>
+-<translation id="8934783170241943640">Spravovat plán Brave VPN</translation>
+-<translation id="6332027154313182926">Přepnout Brave VPN</translation>
++<translation id="9055778350624039365">Zobrazit panel Kahf Wallet</translation>
++<translation id="2548853975094084059">Zavřít panel Kahf Wallet</translation>
++<translation id="3765209580429944524">Zobrazit panel Kahf VPN</translation>
++<translation id="5989009326527614692">Tlačítko přepnutím lišty nástrojů Kahf VPN</translation>
++<translation id="7334332308395652803">Přepnout ikonu Kahf VPN v panelu</translation>
++<translation id="4326011033480357140">Odeslat zpětnou vazbu Kahf VPN</translation>
++<translation id="2345974803401546682">O síti VPN Kahf</translation>
++<translation id="8934783170241943640">Spravovat plán Kahf VPN</translation>
++<translation id="6332027154313182926">Přepnout Kahf VPN</translation>
+ <translation id="6539014233195996894">Přepnout ztlumení lišty</translation>
+ <translation id="2682865834956428001">Přepnout pozici boční lišty</translation>
+ <translation id="6105745639559695088">Přepnout postranní panel</translation>
+ <translation id="3488252265135539275">Přepnout vertikální karty</translation>
+ <translation id="7134064542341959603">Přepnout název okna vertikálních karet</translation>
+-<translation id="3067105725259639716">Konfigurovat Novinky Brave</translation>
++<translation id="3067105725259639716">Konfigurovat Novinky Kahf</translation>
+ <translation id="6286510487460330478">Konfigurovat zkratky</translation>
+-<translation id="9214819486716388964">Zobrazit Brave Talk</translation>
++<translation id="9214819486716388964">Zobrazit Kahf Talk</translation>
+ <translation id="5950760360751948276">Vždy zobrazovat lištu záložek</translation>
+ <translation id="2960757369920422313">Zobrazit lištu záložek na NTP</translation>
+ <translation id="522953399371747698">Skrýt lištu záložek</translation>
+@@ -1902,11 +1902,11 @@ other {# zdrojů}
+ <translation id="1167803637855350748">Při připojování k asistentovi Leo došlo k problému se sítí, zkontrolujte své připojení a zkuste to znovu.</translation>
+ <translation id="1996126325390835277">Dosáhli jste limitu prémiové sazby. Zkuste to znovu za několik hodin.</translation>
+ <translation id="7144878232160441200">Opakovat</translation>
+-<translation id="8570488829560315702">Ahoj, já jsem Leo. Jsem plně hostovaný asistent s UI od Brave. Využívám model Llama 3 8B, který vytvořila společnost Meta, aby byl výkonný a použitelný v mnoha případech použití.<ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
+-<translation id="6500567629965936637">Ahoj, já jsem Leo. Jsem plně hostovaný asistent s UI od Brave. Využívám model Mixtral 8x7B, který vytvořila společnost Mistral AI a který zvládá i pokročilejší úkoly.<ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
+-<translation id="4590776109659811206">Ahoj, já jsem Leo. Zastupuji Brave a jsem poháněn pomocí Claude Instant – modelu vytvořeného společností Anthropic, který slouží k podpoře úloh konverzace a zpracování textu.<ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
+-<translation id="8583558415545871403">Ahoj, jsem Leo. Zastupuji Brave a jsem poháněn pomocí Claude 3 Haiku – modelu vytvořeného společností Anthropic, který slouží k podpoře úloh konverzace a zpracování textu.</translation>
+-<translation id="4147243042852964992">Ahoj, jsem Leo. Zastupuji Brave a jsem poháněn pomocí Claude 3 Sonnet – modelu vytvořeného společností Anthropic, který slouží k podpoře úloh konverzace a zpracování textu.</translation>
++<translation id="8570488829560315702">Ahoj, já jsem Leo. Jsem plně hostovaný asistent s UI od Kahf. Využívám model Llama 3 8B, který vytvořila společnost Meta, aby byl výkonný a použitelný v mnoha případech použití.<ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
++<translation id="6500567629965936637">Ahoj, já jsem Leo. Jsem plně hostovaný asistent s UI od Kahf. Využívám model Mixtral 8x7B, který vytvořila společnost Mistral AI a který zvládá i pokročilejší úkoly.<ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
++<translation id="4590776109659811206">Ahoj, já jsem Leo. Zastupuji Kahf a jsem poháněn pomocí Claude Instant – modelu vytvořeného společností Anthropic, který slouží k podpoře úloh konverzace a zpracování textu.<ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
++<translation id="8583558415545871403">Ahoj, jsem Leo. Zastupuji Kahf a jsem poháněn pomocí Claude 3 Haiku – modelu vytvořeného společností Anthropic, který slouží k podpoře úloh konverzace a zpracování textu.</translation>
++<translation id="4147243042852964992">Ahoj, jsem Leo. Zastupuji Kahf a jsem poháněn pomocí Claude 3 Sonnet – modelu vytvořeného společností Anthropic, který slouží k podpoře úloh konverzace a zpracování textu.</translation>
+ <translation id="6206029817087805290"><ph name="MODEL_NAME"/> od společnosti <ph name="COMPANY_NAME"/></translation>
+ <translation id="963346402440669081">Premium</translation>
+ <translation id="6187065185557150870">Chat</translation>
+@@ -1954,7 +1954,7 @@ other {# zdrojů}
+ <translation id="8712637175834984815">Hotovo</translation>
+ <translation id="1093419424466417703">Stránka je pro Leo příliš dlouhá. V rozhovoru může chybět nějaký kontext. Leo zvládl z obsahu stránky přečíst <ph name="PERCENTAGE"/>.</translation>
+ <translation id="4370698775470316661">Tato konverzace je příliš dlouhá a nemůže pokračovat. Mohou být k dispozici jiné modely, se kterými je Leo schopen udržet přesnost u delších konverzací.</translation>
+-<translation id="5719170755629028558">Vylepšení vaší odpovědi pomocí Vyhledávání Brave…</translation>
++<translation id="5719170755629028558">Vylepšení vaší odpovědi pomocí Vyhledávání Kahf…</translation>
+ <translation id="5794962229997281366">Vylepšené vyhledávání odpovědí pro <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Obecný chat</translation>
+ <translation id="8193130769524604031">Pokročilé úkoly chatu</translation>
+@@ -1999,13 +1999,13 @@ other {# zdrojů}
+ <translation id="49269513399674318">Použít mikrofon</translation>
+ <translation id="3895031624234442305">Vlastní modely</translation>
+ <translation id="6303294677342628402">Štíty</translation>
+-<translation id="8458987127502506209">Aktivovat štíty Brave</translation>
++<translation id="8458987127502506209">Aktivovat štíty Kahf</translation>
+ <translation id="7509914170164691086">Štíty <ph name="LINK_BEFORE"/>pro<ph name="LINK_AFTER"/> jsou ZAPNUTY</translation>
+ <translation id="260764436039299868">Štíty <ph name="LINK_BEFORE"/>pro<ph name="LINK_AFTER"/> jsou VYPNUTÉ</translation>
+ <translation id="3907405056878805220">Pokud se stránka nezobrazuje správně, zkuste štíty vypnout.
+-    <ph name="LINK_BEFORE"/>Poznámka: může dojít k omezení ochrany soukromí Brave.<ph name="LINK_AFTER"/></translation>
++    <ph name="LINK_BEFORE"/>Poznámka: může dojít k omezení ochrany soukromí Kahf.<ph name="LINK_AFTER"/></translation>
+ <translation id="8377155647357436161">Počet zablokovaných sledovačů, reklam, atd. <ph name="LINK_BEFORE"/>Další informace<ph name="LINK_AFTER"/></translation>
+-<translation id="7604553853176833536">Ochrana štíty Brave není zapnuta <ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
++<translation id="7604553853176833536">Ochrana štíty Kahf není zapnuta <ph name="LINK_BEFORE"/>Zjistit více<ph name="LINK_AFTER"/></translation>
+ <translation id="650318023204990401">Pokročilé nastavení</translation>
+ <translation id="5799940914270080805">Změna tohoto nastavení může mít vliv na fungování stránek.</translation>
+ <translation id="9204041448536398473">Nastavení globálního štítu</translation>
+@@ -2036,50 +2036,50 @@ other {# zdrojů}
+ <translation id="2570787596946026998">Připojit pouze přes HTTPS.</translation>
+ <translation id="1992750560347846445">Stránka pro nahlašování</translation>
+ <translation id="2387532482048804818">Dejte nám vědět, pokud se stránka nezobrazovala správně se zapnutými štíty.</translation>
+-<translation id="3795015906457257780">Tuto stránku procházíte bez ochrany soukromí Brave.</translation>
+-<translation id="7194012750329511146">Štíty Brave odrazily
++<translation id="3795015906457257780">Tuto stránku procházíte bez ochrany soukromí Kahf.</translation>
++<translation id="7194012750329511146">Štíty Kahf odrazily
+ <ph name="NUMBER"/> měření, reklam a další nežádoucí prvky</translation>
+ <translation id="4292121526390005808">Blokované skripty</translation>
+ <translation id="5046271170844958713">Povolené skripty</translation>
+ <translation id="264682546981571963">Už vás nebaví oznámení o souhlasu s cookies?</translation>
+-<translation id="4986297793092101884">Brave již blokuje soubory cookie třetích stran. Stejně tak můžeme zablokovat oznámení o souhlasu s cookies.</translation>
++<translation id="4986297793092101884">Kahf již blokuje soubory cookie třetích stran. Stejně tak můžeme zablokovat oznámení o souhlasu s cookies.</translation>
+ <translation id="535688588637568715">Ano, blokovat oznámení o souhlasu s cookies</translation>
+-<translation id="2808175374672429053">Zástupné znaky nejsou pro štíty Brave povoleny.</translation>
++<translation id="2808175374672429053">Zástupné znaky nejsou pro štíty Kahf povoleny.</translation>
+ <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
+-      =1 {Na <ph name="SITE_URL"/> štíty Brave zablokovaly jeden tracker}
+-      few {Na <ph name="SITE_URL"/> štíty Brave zablokovaly # trackery}
+-      other {Na <ph name="SITE_URL"/> štíty Brave zablokovaly # trackerů}
++      =1 {Na <ph name="SITE_URL"/> štíty Kahf zablokovaly jeden tracker}
++      few {Na <ph name="SITE_URL"/> štíty Kahf zablokovaly # trackery}
++      other {Na <ph name="SITE_URL"/> štíty Kahf zablokovaly # trackerů}
+ }</translation>
+-<translation id="2540598191934725677">Kliknutím na ikonu Brave zobrazíte Štíty Brave.</translation>
++<translation id="2540598191934725677">Kliknutím na ikonu Kahf zobrazíte Štíty Kahf.</translation>
+ <translation id="6294662480095808915">Ochrana soukromí. Vždy.</translation>
+-<translation id="4366423156486478559">Nastavte si Brave jako výchozí prohlížeč a budete mít ochranu od Brave při otevření každého odkazu.</translation>
++<translation id="4366423156486478559">Nastavte si Kahf jako výchozí prohlížeč a budete mít ochranu od Kahf při otevření každého odkazu.</translation>
+ <translation id="3830912418080848377">Importovat nastavení</translation>
+ <translation id="6378406588483694938">Snadno importujte záložky, rozšíření a dokonce i uložená hesla z předchozího prohlížeče.</translation>
+ <translation id="2092825239819166928">Vyberte profil, který chcete importovat</translation>
+ <translation id="4763127492635705340">Vybraný prohlížeč má více profilů. Vyberte profil(y), které chcete importovat.</translation>
+ <translation id="880174232178865598">Importovat profily</translation>
+ <translation id="2453860139492968684">Dokončit</translation>
+-<translation id="2273851479262317744">Nastavit Brave jako výchozí prohlížeč</translation>
++<translation id="2273851479262317744">Nastavit Kahf jako výchozí prohlížeč</translation>
+ <translation id="5037676449506322593">Vybrat vše</translation>
+-<translation id="5148943178722443958">Pomozte vylepšit Brave.</translation>
++<translation id="5148943178722443958">Pomozte vylepšit Kahf.</translation>
+ <translation id="1097073572755862978">Pokud dojde k pádu nebo zamrznutí, odešlete diagnostické hlášení. <ph name="LINK_BEFORE"/>Zjistěte více informací.<ph name="LINK_AFTER"/></translation>
+-<translation id="6629244688368006959">Sdílejte soukromé a anonymní produktové informace o tom, jaké uživatelé používají funkce Brave. <ph name="LINK_BEFORE"/>Zjistit více.<ph name="LINK_AFTER"/></translation>
++<translation id="6629244688368006959">Sdílejte soukromé a anonymní produktové informace o tom, jaké uživatelé používají funkce Kahf. <ph name="LINK_BEFORE"/>Zjistit více.<ph name="LINK_AFTER"/></translation>
+ <translation id="7415454883318062233">Nastavení je dokončeno</translation>
+-<translation id="3141206739023333979">Tato nastavení aplikace Brave můžete kdykoli změnit na adrese <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
++<translation id="3141206739023333979">Tato nastavení aplikace Kahf můžete kdykoli změnit na adrese <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+ <translation id="8321985064212130832">Přečtěte si úplné znění našich <ph name="LINK_BEFORE"/>Zásad ochrany osobních údajů<ph name="LINK_AFTER"/>.</translation>
+ <translation id="2801098717523961746">Vyberte si motiv</translation>
+-<translation id="6262510489122516114">Tuto možnost můžete kdykoli změnit v nastavení služby Brave.</translation>
++<translation id="6262510489122516114">Tuto možnost můžete kdykoli změnit v nastavení služby Kahf.</translation>
+ <translation id="546481172717459539">Nastavení podle systému</translation>
+ <translation id="7799817062559422778">Světlý režim</translation>
+ <translation id="4117637339509843559">Tmavý režim</translation>
+ <translation id="6302485303316397682">Chcete lepší výsledky vyhledávání?</translation>
+-<translation id="7014699001826714920">Přidejte se k hnutí a přispějte do vyhledávání Brave.</translation>
+-<translation id="6821108091726602352">Pomozte nám opravit web účastí v projektu Web Discovery společnosti Brave. Sdílením zcela anonymních vyhledávacích signálů můžete Brave pomoci rozšířit index vyhledávání.</translation>
++<translation id="7014699001826714920">Přidejte se k hnutí a přispějte do vyhledávání Kahf.</translation>
++<translation id="6821108091726602352">Pomozte nám opravit web účastí v projektu Web Discovery společnosti Kahf. Sdílením zcela anonymních vyhledávacích signálů můžete Kahf pomoci rozšířit index vyhledávání.</translation>
+ <translation id="6764845498618413165">Zjistit více.</translation>
+ <translation id="7818938154803162778">Jistě, pomohu vám</translation>
+-<translation id="7821773512278295352">Brave Firewall + VPN: Připojeno</translation>
+-<translation id="6019088868713395120">Brave Firewall + VPN: Odpojeno</translation>
+-<translation id="3541307549916475335">Uživatelské rozhraní panelu Brave VPN</translation>
++<translation id="7821773512278295352">Kahf Firewall + VPN: Připojeno</translation>
++<translation id="6019088868713395120">Kahf Firewall + VPN: Odpojeno</translation>
++<translation id="3541307549916475335">Uživatelské rozhraní panelu Kahf VPN</translation>
+ <translation id="1742469581923031760">Připojování…</translation>
+ <translation id="1287487756047817908">Odpojování…</translation>
+ <translation id="2325196879156848326">Připojení selhalo</translation>
+@@ -2089,7 +2089,7 @@ other {# zdrojů}
+ <translation id="8703188411226330709">Zahájit bezplatnou zkoušku</translation>
+ <translation id="1024255913009642477">Už jste si zakoupili VPN?</translation>
+ <translation id="8814357473522731680">Provoz zajišťuje</translation>
+-<translation id="3960619311638643872">Síť VPN Brave</translation>
++<translation id="3960619311638643872">Síť VPN Kahf</translation>
+ <translation id="7805768142964895445">Status</translation>
+ <translation id="5747552184818312860">Konec platnosti</translation>
+ <translation id="8421945428836418371">Automaticky znovu připojit</translation>
+@@ -2107,7 +2107,7 @@ other {# zdrojů}
+ <translation id="427718751211990320">Uplynulo datum vypršení platnosti ověřovacích údajů.</translation>
+ <translation id="8670619630771851260">Nelze načíst ověřovací údaje.</translation>
+ <translation id="1594643509610625766">Token již není platný.</translation>
+-<translation id="8373427068383038263">Vypadá to, že vaše poslední platba za <ph name="VALUE"/> neproběhla. Přístup k tomuto předplatnému bude pozastaven, dokud nebude problém s platbou vyřešen. Zkuste upravit způsob platby nebo kontaktujte podporu Brave.</translation>
++<translation id="8373427068383038263">Vypadá to, že vaše poslední platba za <ph name="VALUE"/> neproběhla. Přístup k tomuto předplatnému bude pozastaven, dokud nebude problém s platbou vyřešen. Zkuste upravit způsob platby nebo kontaktujte podporu Kahf.</translation>
+ <translation id="1839021455997460752">Vaše e-mailová adresa</translation>
+ <translation id="8054563304616131773">Zadejte platnou e-mailovou adresu</translation>
+ <translation id="5154702632169343078">Předmět</translation>
+@@ -2124,14 +2124,14 @@ other {# zdrojů}
+ <translation id="6676791921618140305">Verze OS:</translation>
+ <translation id="1156325797949437777">Podpora je poskytována ve spolupráci se službou Guardian.</translation>
+ <translation id="8146777497879160283">Uložení konfigurace VPN selhalo. K tomu může dojít, pokud nemáte potřebná oprávnění nebo pokud jste v poslední době nespustili službu aktualizací systému Windows Update.</translation>
+-<translation id="3307461350293459700">Připojení k síti VPN se nezdařilo. Zkuste se připojit znovu a nezapomeňte kliknout na tlačítko Povolit, chcete-li povolit konfiguraci sítě Brave VPN.</translation>
+-<translation id="7261518280726313829">Vypnutí zabezpečeného serveru DNS nebo používání výchozích serverů v systému Windows může poskytovateli internetových služeb prozradit názvy navštívených stránek. Společnost Brave to nedoporučuje. Chcete to přesto udělat?</translation>
+-<translation id="888284761945060750">Zabezpečené servery DNS jsou zakázány zásadami vaší organizace. Používání Brave VPN bez zabezpečeného serveru DNS může vašemu poskytovateli internetových služeb nebo organizaci prozradit názvy navštívených stránek.</translation>
+-<translation id="6593224083874259773">Brave VPN v systému Windows</translation>
+-<translation id="3153983908111684619">Nastavení je během připojení službou BraveVPN uzamčeno.</translation>
++<translation id="3307461350293459700">Připojení k síti VPN se nezdařilo. Zkuste se připojit znovu a nezapomeňte kliknout na tlačítko Povolit, chcete-li povolit konfiguraci sítě Kahf VPN.</translation>
++<translation id="7261518280726313829">Vypnutí zabezpečeného serveru DNS nebo používání výchozích serverů v systému Windows může poskytovateli internetových služeb prozradit názvy navštívených stránek. Společnost Kahf to nedoporučuje. Chcete to přesto udělat?</translation>
++<translation id="888284761945060750">Zabezpečené servery DNS jsou zakázány zásadami vaší organizace. Používání Kahf VPN bez zabezpečeného serveru DNS může vašemu poskytovateli internetových služeb nebo organizaci prozradit názvy navštívených stránek.</translation>
++<translation id="6593224083874259773">Kahf VPN v systému Windows</translation>
++<translation id="3153983908111684619">Nastavení je během připojení službou KahfVPN uzamčeno.</translation>
+ <translation id="1055657720430482013">Systém Windows má funkci zvanou „Inteligentní rozlišování jmen ve více doménách“, která umožňuje získat informace o vaší poloze a navštívených stránkách. 
+ 
+-Brave nabízí pomocnou službu, která vás před tímto tímto získáváním informací o vaší poloze a navštívených stránkách chrání tím, že filtruje způsob vytváření DNS dotazů u vašich VPN připojení.
++Kahf nabízí pomocnou službu, která vás před tímto tímto získáváním informací o vaší poloze a navštívených stránkách chrání tím, že filtruje způsob vytváření DNS dotazů u vašich VPN připojení.
+ 
+ Zaznamenali jsme však, že tato pomocná služba není v provozu – a nechceme vás nechávat bez ochrany. Změnili jsme nastavení DNS v prohlížeči, abychom vás před tímto zpřístupněním ochránili. Nastavení zůstane v platnosti a bude uzamčeno, dokud je VPN připojena.
+ 

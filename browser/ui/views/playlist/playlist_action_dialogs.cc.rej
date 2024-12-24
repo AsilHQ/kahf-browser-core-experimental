@@ -1,0 +1,10 @@
+diff a/browser/ui/views/playlist/playlist_action_dialogs.cc b/browser/ui/views/playlist/playlist_action_dialogs.cc	(rejected hunks)
+@@ -237,7 +237,7 @@ void ShowPlaylistSettings(content::WebContents* contents) {
+   auto* browser_view = FindBrowserViewFromWebContents(contents);
+   CHECK(browser_view);
+   ShowSingletonTab(browser_view->browser(),
+-                   GURL("brave://settings/braveContent#playlist-section"));
++                   GURL("kahf://settings/braveContent#playlist-section"));
+ }
+ 
+ void ClosePanel(content::WebContents* contents) {

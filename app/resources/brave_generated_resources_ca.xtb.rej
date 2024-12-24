@@ -1,0 +1,157 @@
+diff a/app/resources/brave_generated_resources_ca.xtb b/app/resources/brave_generated_resources_ca.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ O canvia més tard a <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="1970435562892104727">Això és una finestra d'incògnit amb Tor</translation>
+ <translation id="1037341607922068025">Obre una finestra d'incògnit amb Tor</translation>
+ <translation id="607982085107926247">Obre a Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Aquest compte de Sincronització de Brave s'ha suprimit d'un altre dispositiu. Si no vols desactivar Sincronització,<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Aquest compte de Sincronització de Kahf s'ha suprimit d'un altre dispositiu. Si no vols desactivar Sincronització,<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>torna a crear el compte</translation>
+ <translation id="6965382102122355670">D'acord</translation>
+-<translation id="3975865347033939965">El servei de sincronització no s'ha pogut iniciar, la Sincronització de Brave no s'està executant</translation>
++<translation id="3975865347033939965">El servei de sincronització no s'ha pogut iniciar, la Sincronització de Kahf no s'està executant</translation>
+ <translation id="4450893287417543264">No m'ho tornis a mostrar</translation>
+ <translation id="4595286989346610620">Consulta els detalls</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@ O canvia més tard a <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="4759098689276706664">Força l'enganxada</translation>
+ <translation id="1434416574322382019">Nova finestra d'incògnit amb Tor</translation>
+ <translation id="4703780849509456860">Obre l'enllaç a una finestra d'incògnit amb Tor</translation>
+-<translation id="3488584642074079080">Obre l'enllaç a una finestra d'incògnit de Brave amb Tor</translation>
++<translation id="3488584642074079080">Obre l'enllaç a una finestra d'incògnit de Kahf amb Tor</translation>
+ <translation id="6313675821927505581">Nova finestra d'incògnit amb Tor</translation>
+ <translation id="2638041073279639246">Obre l'enllaç a una finestra d'incògnit amb Tor</translation>
+-<translation id="3425600262621021599">Obre l'enllaç a una finestra d'incògnit de Brave amb Tor</translation>
+-<translation id="2545072023356206691">A partir de l'1 de desembre de 2023, el canal Brave Dev ja no rebrà actualitzacions del navegador. Recomanem als usuaris migrar a les versions Nightly, Beta o Release de Brave.</translation>
++<translation id="3425600262621021599">Obre l'enllaç a una finestra d'incògnit de Kahf amb Tor</translation>
++<translation id="2545072023356206691">A partir de l'1 de desembre de 2023, el canal Kahf Dev ja no rebrà actualitzacions del navegador. Recomanem als usuaris migrar a les versions Nightly, Beta o Release de Kahf.</translation>
+ <translation id="474217410105706308">Silencia la pestanya</translation>
+-<translation id="2804710924397009224">Amaga la icona Recompenses de Brave</translation>
+-<translation id="5029193871181468990">Amaga la icona Recompenses de Brave</translation>
+-<translation id="2808103541110899519">Amaga la icona Cartera de Brave</translation>
+-<translation id="7595540212376041331">Amaga la icona Cartera de Brave</translation>
++<translation id="2804710924397009224">Amaga la icona Recompenses de Kahf</translation>
++<translation id="5029193871181468990">Amaga la icona Recompenses de Kahf</translation>
++<translation id="2808103541110899519">Amaga la icona Cartera de Kahf</translation>
++<translation id="7595540212376041331">Amaga la icona Cartera de Kahf</translation>
+ <translation id="4928988318462976765">Botiga d'extensions web</translation>
+ <translation id="9181207987584064303">Veure a la botiga d'extensions web</translation>
+-<translation id="3161744659507801211">Atenció: Brave no pot evitar que les extensions gravin el teu historial de navegació.</translation>
++<translation id="3161744659507801211">Atenció: Kahf no pot evitar que les extensions gravin el teu historial de navegació.</translation>
+ <translation id="2162109630536601963">Si aquesta extensió fa sol·licituds de xarxes, aquestes no faran servir Tor o el mode incògnit.</translation>
+ <translation id="2725327089319971976">Per a deshabilitar aquesta extensió en el mode incògnit i en el mode Tor, desselecciona aquesta opció.</translation>
+-<translation id="3371343170427636147">Aplicacions nocturnes del navegador de Brave</translation>
+-<translation id="4097979995947147464">Aplicacions beta del navegador de Brave</translation>
+-<translation id="8303432794159193481">Aplicacions de desenvolupament del navegador de Brave</translation>
+-<translation id="8292967014767479012">Aplicacions del navegador de Brave</translation>
+-<translation id="4743468424889072281">Aplicacions de desenvolupament del navegador de Brave</translation>
++<translation id="3371343170427636147">Aplicacions nocturnes del navegador de Kahf</translation>
++<translation id="4097979995947147464">Aplicacions beta del navegador de Kahf</translation>
++<translation id="8303432794159193481">Aplicacions de desenvolupament del navegador de Kahf</translation>
++<translation id="8292967014767479012">Aplicacions del navegador de Kahf</translation>
++<translation id="4743468424889072281">Aplicacions de desenvolupament del navegador de Kahf</translation>
+ <translation id="5039804452771397117">Permet</translation>
+ <translation id="7053983685419859001">Bloqueja</translation>
+-<translation id="1679356339067548863">Ajuda a millorar l'estabilitat del producte de Brave enviant automàticament informes de diagnòstic quan el navegador de Brave falla o es congela.</translation>
++<translation id="1679356339067548863">Ajuda a millorar l'estabilitat del producte de Kahf enviant automàticament informes de diagnòstic quan el navegador de Kahf falla o es congela.</translation>
+ <translation id="660171790038410175">El <ph name="BROWSER_NAME"/> s'ha tancat de forma inesperada.</translation>
+-<translation id="1324417023773393937">Navegador de Brave</translation>
++<translation id="1324417023773393937">Navegador de Kahf</translation>
+ <translation id="7276554663454265692">Pots canviar <ph name="SETTING_TEXT"/> en qualsevol moment a les opcions del navegador.</translation>
+ <translation id="6873781976650514089">aquesta configuració</translation>
+ <translation id="4684633335323013758">Aquest lloc ha sol·licitat la vostra <ph name="PART_ONE"/>ubicació general<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Per a més informació<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Aquest lloc ha sol·licitat la vostra <ph name="PART_ONE"/>ubicació exacta<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Per a més informació<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Aquest lloc ha sol·licitat la vostra <ph name="PART_ONE"/>ubicació exacta<ph name="PART_ONE_END"/>. Brave només podrà proporcionar dades <ph name="PART_TWO"/>generals d'ubicació<ph name="PART_TWO_END"/> a causa de la desactivació dels <ph name="PART_THREE"/>serveis d'ubicació<ph name="PART_THREE_END"/>. <ph name="PART_FOUR"/>Per a més informació<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Aquest lloc ha sol·licitat la vostra <ph name="PART_ONE"/>ubicació exacta<ph name="PART_ONE_END"/>. Kahf només podrà proporcionar dades <ph name="PART_TWO"/>generals d'ubicació<ph name="PART_TWO_END"/> a causa de la desactivació dels <ph name="PART_THREE"/>serveis d'ubicació<ph name="PART_THREE_END"/>. <ph name="PART_FOUR"/>Per a més informació<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Tanca-ho tot</translation>
+ <translation id="7658239707568436148">Cancel·la</translation>
+ <translation id="4870911314065352661">Vols tancar totes les pestanyes?</translation>
+ <translation id="7551864359422178684">Tens <ph name="NUMBER_OF_TABS"/> pestanyes obertes a la finestra del navegador.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> pestanyes</translation>
+ <translation id="1307431692088049276">No m'ho tornis a demanar</translation>
+-<translation id="6919364924256365253">No ho busquis a Google. No ho trobaràs a Bing. Només a Brave.</translation>
+-<translation id="2640297688005939449">El cercador de Brave no crea un perfil vostre. I és 100 % independent.</translation>
++<translation id="6919364924256365253">No ho busquis a Google. No ho trobaràs a Bing. Només a Kahf.</translation>
++<translation id="2640297688005939449">El cercador de Kahf no crea un perfil vostre. I és 100 % independent.</translation>
+ <translation id="7295094278358921487">Fas una cerca i trobes resultats, tot d'incògnit.</translation>
+-<translation id="3462465068145800637">El cercador de Brave no crea un perfil vostre. I és 100 % independent de les grans tecnològiques.</translation>
++<translation id="3462465068145800637">El cercador de Kahf no crea un perfil vostre. I és 100 % independent de les grans tecnològiques.</translation>
+ <translation id="42032117189492785">Fes cerques amb IA integrada i amb un índex únic.</translation>
+ <translation id="8606416238399082160">Totalment d'incògnit, 100% independent i amb fantàstiques característiques d'IA.</translation>
+-<translation id="7706528608480893054">DDG és només Bing disfressat. És hora de gaudir de privacitat real, millors resultats i un índex independent. És l'hora del Cercador de Brave.</translation>
++<translation id="7706528608480893054">DDG és només Bing disfressat. És hora de gaudir de privacitat real, millors resultats i un índex independent. És l'hora del Cercador de Kahf.</translation>
+ <translation id="3818133234428578803">Desfés-te de l'ànec</translation>
+-<translation id="14817360483752259">El Cercador de Brave no et rastreja a tu, ni les teves consultes, ni els teus clics. I (a diferència de DDG) no és només Bing disfressat.</translation>
++<translation id="14817360483752259">El Cercador de Kahf no et rastreja a tu, ni les teves consultes, ni els teus clics. I (a diferència de DDG) no és només Bing disfressat.</translation>
+ <translation id="4381193110021038941">Obtingues millors resultats</translation>
+-<translation id="3846545273704969734">S'ha verificat de manera independent que el Cercador de Brave ofereix millors resultats que Bing (o clons de Bing com DuckDuckGo).</translation>
++<translation id="3846545273704969734">S'ha verificat de manera independent que el Cercador de Kahf ofereix millors resultats que Bing (o clons de Bing com DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Millora els resultats de cerca</translation>
+-<translation id="4639001639513524869">El Cercador de Brave té millors resultats que DuckDuckGo per a la majoria de les consultes. I és privat de debó.</translation>
+-<translation id="5240031343741051161">Prova el Cercador de Brave</translation>
++<translation id="4639001639513524869">El Cercador de Kahf té millors resultats que DuckDuckGo per a la majoria de les consultes. I és privat de debó.</translation>
++<translation id="5240031343741051161">Prova el Cercador de Kahf</translation>
+ <translation id="5234764350956374838">Omet</translation>
+-<translation id="8722651357687610395">Estableix Brave com a predeterminat</translation>
++<translation id="8722651357687610395">Estableix Kahf com a predeterminat</translation>
+ <translation id="2370739752330685659">Potser més tard</translation>
+-<translation id="5100490448228945668">Descarta la conversió de la cerca en format Brave, prem Retorn per eliminar aquest suggeriment</translation>
++<translation id="5100490448228945668">Descarta la conversió de la cerca en format Kahf, prem Retorn per eliminar aquest suggeriment</translation>
+ <translation id="9194637241566114638">Ajuda a millorar <ph name="SEARCH_NAME"/> enviant dades d'ús anònimes. <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Cercador de Brave</translation>
++<translation id="7404610376221341525">Cercador de Kahf</translation>
+ <translation id="8184318863960255706">Més informació</translation>
+ <translation id="780301667611848630">No, gràcies</translation>
+-<translation id="1162706247109707219">En clicar D'acord, reconeix que la teva instal·lació de Brave NO rebrà correccions de seguretat crítiques fins que actualitzis a Windows 10 o posterior. Aquest avís NO es tornarà a mostrar.</translation>
+-<translation id="9164786361657554526">En clicar D'acord, reconeix que la teva instal·lació de Brave NO rebrà correccions de seguretat crítiques fins que actualitzis a macOS 10.15 o posterior. Aquest avís NO es tornarà a mostrar.</translation>
++<translation id="1162706247109707219">En clicar D'acord, reconeix que la teva instal·lació de Kahf NO rebrà correccions de seguretat crítiques fins que actualitzis a Windows 10 o posterior. Aquest avís NO es tornarà a mostrar.</translation>
++<translation id="9164786361657554526">En clicar D'acord, reconeix que la teva instal·lació de Kahf NO rebrà correccions de seguretat crítiques fins que actualitzis a macOS 10.15 o posterior. Aquest avís NO es tornarà a mostrar.</translation>
+ <translation id="2770465223704140727">Suprimeix de la llista</translation>
+ <translation id="6020553119523541665">Aquesta pestanya està activa en una altra finestra</translation>
+ <translation id="4987392683074136770">En fer clic en aquesta pestanya es portarà el seu contingut a aquesta finestra</translation>
+@@ -285,7 +285,7 @@ Pots llegir <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instruccions de com descar
+ <translation id="2377705456080309463">Mostra la pàgina original</translation>
+ <translation id="158894735649719362">La diversió comença quan tens alguna cosa per reproduir. Afegeix el teu contingut multimèdia preferit i reprodueix-lo en qualsevol moment, fins i tot sense connexió.</translation>
+ <translation id="8422349592890097194">Crea una nova carpeta</translation>
+-<translation id="2818704116581303039">Obre la configuració de Llista de reproducció de Brave</translation>
++<translation id="2818704116581303039">Obre la configuració de Llista de reproducció de Kahf</translation>
+ <translation id="6790428901817661496">Reprodueix</translation>
+ <translation id="1178581264944972037">Pausa</translation>
+ <translation id="4477350412780666475">Pista següent</translation>
+@@ -299,8 +299,8 @@ Pots llegir <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instruccions de com descar
+ <translation id="6453210454707928697">No s'ha pogut reproduir l'element.</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] pot estar caducat. El vols recuperar?</translation>
+ <translation id="6155018868740116868">Recupera</translation>
+-<translation id="1727684853006449697">Brave Player</translation>
+-<translation id="9156965752763025780">Els canvis s'aplicaran la pròxima vegada que reiniciïs Brave.</translation>
++<translation id="1727684853006449697">Kahf Player</translation>
++<translation id="9156965752763025780">Els canvis s'aplicaran la pròxima vegada que reiniciïs Kahf.</translation>
+ <translation id="7179921470347911571">Rellança ara</translation>
+ <translation id="1426410128494586442">Sí</translation>
+ <translation id="4250680216510889253">No</translation>
+@@ -339,7 +339,7 @@ Pots llegir <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instruccions de com descar
+ <translation id="8820817407110198400">Adreces d'interès</translation>
+ <translation id="4144468798716165316">Ordres ràpides</translation>
+ <translation id="7310387888625228830">Assistent d'IA Leo</translation>
+-<translation id="5222974844674487962">Mostra el botó de Notícies de Brave</translation>
++<translation id="5222974844674487962">Mostra el botó de Notícies de Kahf</translation>
+ <translation id="383007806262310953">Mostra la barra d'adreces d'interès</translation>
+ <translation id="4054323497808446566">La barra d'adreces d'interès és visible a totes les pàgines</translation>
+ <translation id="8693858092251192712">La barra d'adreces d'interès és oculta a totes les pàgines, excepte a la pàgina Pestanya nova</translation>
+@@ -440,7 +440,7 @@ Pots llegir <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instruccions de com descar
+ <translation id="4891600875049212418">Navega en mode Off-The-Record quan visitis llocs de naturalesa confidencial</translation>
+ <translation id="1968895725257436430">Recopilació de dades</translation>
+ <translation id="4846154056248462491">En sortir</translation>
+-<translation id="2808630562319398131">Restableix les dades de Recompenses de Brave...</translation>
++<translation id="2808630562319398131">Restableix les dades de Recompenses de Kahf...</translation>
+ <translation id="6438096877646138757">Llocs que esborren les galetes quan les tanques</translation>
+ <translation id="2988792685798128092">Esborra en tancar el lloc</translation>
+ <translation id="7702907602086592255">Domini</translation>
+@@ -694,7 +694,7 @@ Leo. Aquesta acció no es pot desfer.</translation>
+ <translation id="7131172845656551327">El nom del model tal com hauria d'aparèixer a la sol·licitud a l'entorn del servidor, p. ex., phi-3 (tingueu en compte que si aquest nom no coincideix exactament amb el que espera l'entorn del servidor, la integració no funcionarà)</translation>
+ <translation id="3286410514484292784">L'URL en què l'entorn del servidor escolta sol·licituds. Si no ho sabeu del cert, comproveu la documentació de l'entorn del servidor. Per exemple, per a Ollama sempre és http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Alguns entorns de servidor poden requerir credencials d'autenticació, com una clau API o un token d'accés. S'afegiran a l'encapçalament de la sol·licitud.</translation>
+-<translation id="217141195370578385">El servidor de Brave no admet aquestes sol·licituds, llegiu els termes de privacitat del proveïdor triat.</translation>
++<translation id="217141195370578385">El servidor de Kahf no admet aquestes sol·licituds, llegiu els termes de privacitat del proveïdor triat.</translation>
+ <translation id="2645532768679870478">Els punts finals no locals han de fer servir el protocol d'HTTPS per a la transmissió segura de dades.</translation>
+ <translation id="8177205483022887785">Heu introduït un URL no vàlid. Introduïu-ne un de vàlid.</translation>
+ <translation id="5249539665306267943">Afegeix un nou model</translation>

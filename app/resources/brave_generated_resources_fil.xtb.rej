@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_fil.xtb b/app/resources/brave_generated_resources_fil.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ O baguhin mamaya sa <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="1970435562892104727">Pribadong window ito na may Tor</translation>
+ <translation id="1037341607922068025">Magbukas ng Pribadong Window na may Tor</translation>
+ <translation id="607982085107926247">Buksan sa Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Na-delete ang Brave Sync account na ito mula sa ibang device. Kung hindi mo sinasadyang i-disable ang Sync,<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Na-delete ang Kahf Sync account na ito mula sa ibang device. Kung hindi mo sinasadyang i-disable ang Sync,<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>gawing muli ang account</translation>
+ <translation id="6965382102122355670">OK</translation>
+-<translation id="3975865347033939965">Hindi masimulan ang serbisyo ng pag-sync, hindi tumatakbo ang Brave Sync</translation>
++<translation id="3975865347033939965">Hindi masimulan ang serbisyo ng pag-sync, hindi tumatakbo ang Kahf Sync</translation>
+ <translation id="4450893287417543264">Huwag ipakita ulit</translation>
+ <translation id="4595286989346610620">Suriin ang mga detalye</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@ O baguhin mamaya sa <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="4759098689276706664">I-force Paste</translation>
+ <translation id="1434416574322382019">Bagong Pribadong Window na may Tor</translation>
+ <translation id="4703780849509456860">Buksan ang Link sa Pribadong Window na may Tor</translation>
+-<translation id="3488584642074079080">Buksan ang Link sa Bagong Pribadong Window ng Brave na may Tor</translation>
++<translation id="3488584642074079080">Buksan ang Link sa Bagong Pribadong Window ng Kahf na may Tor</translation>
+ <translation id="6313675821927505581">Bagong pribadong window na may Tor</translation>
+ <translation id="2638041073279639246">Buksan ang link sa pribadong window gamit ang Tor</translation>
+-<translation id="3425600262621021599">Buksan ang link sa pribadong window ng Brave gamit ang Tor</translation>
+-<translation id="2545072023356206691">Simula sa Disyembre 1, 2023, hindi na makatatanggap ng mga update ang browser ng Brave Dev channel. Inirerekomenda namin na lumipat ang mga user sa Nightly, Beta, o Release na mga bersyon ng Brave.</translation>
++<translation id="3425600262621021599">Buksan ang link sa pribadong window ng Kahf gamit ang Tor</translation>
++<translation id="2545072023356206691">Simula sa Disyembre 1, 2023, hindi na makatatanggap ng mga update ang browser ng Kahf Dev channel. Inirerekomenda namin na lumipat ang mga user sa Nightly, Beta, o Release na mga bersyon ng Kahf.</translation>
+ <translation id="474217410105706308">I-mute ang Tab</translation>
+-<translation id="2804710924397009224">Itago ang Icon ng Mga Reward ng Brave</translation>
+-<translation id="5029193871181468990">Itago ang icon ng Brave Rewards</translation>
+-<translation id="2808103541110899519">Itago ang Icon ng Brave Wallet</translation>
+-<translation id="7595540212376041331">Itago ang icon ng Brave Wallet</translation>
++<translation id="2804710924397009224">Itago ang Icon ng Mga Reward ng Kahf</translation>
++<translation id="5029193871181468990">Itago ang icon ng Kahf Rewards</translation>
++<translation id="2808103541110899519">Itago ang Icon ng Kahf Wallet</translation>
++<translation id="7595540212376041331">Itago ang icon ng Kahf Wallet</translation>
+ <translation id="4928988318462976765">Store ng Mga Web Extension</translation>
+ <translation id="9181207987584064303">Tingnan sa Store ng Mga Web Extension</translation>
+-<translation id="3161744659507801211">Babala: Hindi mapipigilan ng Brave ang mga extension sa pag-record ng iyong history ng pag-browse.</translation>
++<translation id="3161744659507801211">Babala: Hindi mapipigilan ng Kahf ang mga extension sa pag-record ng iyong history ng pag-browse.</translation>
+ <translation id="2162109630536601963">Kung gagawa ng mga kahilingan sa network ang extension na ito, hindi ito gagamit ng Tor o private mode.</translation>
+ <translation id="2725327089319971976">Para i-disable ang extension na ito sa private mode at Tor mode, i-unselect ang opsyong ito.</translation>
+-<translation id="3371343170427636147">Brave Browser Nightly Apps</translation>
+-<translation id="4097979995947147464">Brave Browser Beta Apps</translation>
+-<translation id="8303432794159193481">Brave Browser Dev Apps</translation>
+-<translation id="8292967014767479012">Brave Browser Apps</translation>
+-<translation id="4743468424889072281">Brave Browser Development Apps</translation>
++<translation id="3371343170427636147">Kahf Browser Nightly Apps</translation>
++<translation id="4097979995947147464">Kahf Browser Beta Apps</translation>
++<translation id="8303432794159193481">Kahf Browser Dev Apps</translation>
++<translation id="8292967014767479012">Kahf Browser Apps</translation>
++<translation id="4743468424889072281">Kahf Browser Development Apps</translation>
+ <translation id="5039804452771397117">Payagan</translation>
+ <translation id="7053983685419859001">I-block</translation>
+-<translation id="1679356339067548863">Tulungang mapabuti ang estabilidad ng produkto ng Brave sa pamamagitan ng kusang pagpapadala ng mga diagnostik na ulat kapag nagkaroon ng problema o tumigil ang Brave Browser.</translation>
++<translation id="1679356339067548863">Tulungang mapabuti ang estabilidad ng produkto ng Kahf sa pamamagitan ng kusang pagpapadala ng mga diagnostik na ulat kapag nagkaroon ng problema o tumigil ang Kahf Browser.</translation>
+ <translation id="660171790038410175">Hindi inaasahang nag-quit ang <ph name="BROWSER_NAME"/>.</translation>
+-<translation id="1324417023773393937">Brave Browser</translation>
++<translation id="1324417023773393937">Kahf Browser</translation>
+ <translation id="7276554663454265692">Maaari mong baguhin ang <ph name="SETTING_TEXT"/> anumang oras sa mga setting ng browser.</translation>
+ <translation id="6873781976650514089">setting na ito</translation>
+ <translation id="4684633335323013758">Hiniling ng site ang <ph name="PART_ONE"/>pangkalahatang lokasyon<ph name="PART_ONE_END"/> mo. <ph name="PART_TWO"/>Matuto pa<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Hiniling ng site na ito ang <ph name="PART_ONE"/>eksaktong lokasyon<ph name="PART_ONE_END"/> mo. <ph name="PART_TWO"/>Matuto pa<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Hiniling ng site na ito ang <ph name="PART_ONE"/>eksaktong lokasyon<ph name="PART_ONE_END"/> mo. Maibibigay lang ng Brave ang data ng <ph name="PART_TWO"/>pangkalahatang lokasyon<ph name="PART_TWO_END"/> mo dahil naka-disable ang <ph name="PART_THREE"/>Mga Serbisyo ng Lokasyon<ph name="PART_THREE_END"/>. <ph name="PART_FOUR"/>Matuto pa<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Hiniling ng site na ito ang <ph name="PART_ONE"/>eksaktong lokasyon<ph name="PART_ONE_END"/> mo. Maibibigay lang ng Kahf ang data ng <ph name="PART_TWO"/>pangkalahatang lokasyon<ph name="PART_TWO_END"/> mo dahil naka-disable ang <ph name="PART_THREE"/>Mga Serbisyo ng Lokasyon<ph name="PART_THREE_END"/>. <ph name="PART_FOUR"/>Matuto pa<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Isara ang lahat</translation>
+ <translation id="7658239707568436148">Kanselahin</translation>
+ <translation id="4870911314065352661">Isara ang lahat ng tab?</translation>
+ <translation id="7551864359422178684">Mayroon kang <ph name="NUMBER_OF_TABS"/> (na) tab na nakabukas sa window ng browser na ito.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> (na) tab</translation>
+ <translation id="1307431692088049276">Huwag na ulit akong tanungin</translation>
+-<translation id="6919364924256365253">Huwag mo nang i-Google. Hindi mo mabi-Bing. I-Brave na lang ito.</translation>
+-<translation id="2640297688005939449">Hindi ka pino-profile ng Brave Search. At 100% independent ito.</translation>
++<translation id="6919364924256365253">Huwag mo nang i-Google. Hindi mo mabi-Bing. I-Kahf na lang ito.</translation>
++<translation id="2640297688005939449">Hindi ka pino-profile ng Kahf Search. At 100% independent ito.</translation>
+ <translation id="7295094278358921487">Maghanap at makikita mo ito. Nang pribado.</translation>
+-<translation id="3462465068145800637">Hindi ka pino-profile ang Brave Search. At 100% itong independent sa Big Tech.</translation>
++<translation id="3462465068145800637">Hindi ka pino-profile ang Kahf Search. At 100% itong independent sa Big Tech.</translation>
+ <translation id="42032117189492785">Paghahanap na ginamitan ng AI na may natatanging index.</translation>
+ <translation id="8606416238399082160">Ganap na pribado, 100% independent, at may magagaling na AI na feature.</translation>
+-<translation id="7706528608480893054">Bing na nagbabalat-kayo lang ang DDG. Oras na para sa totoong privacy, mas magagandang resulta, at isang hiwalay na index. Oras na para sa Brave Search.</translation>
++<translation id="7706528608480893054">Bing na nagbabalat-kayo lang ang DDG. Oras na para sa totoong privacy, mas magagandang resulta, at isang hiwalay na index. Oras na para sa Kahf Search.</translation>
+ <translation id="3818133234428578803">Iwanan na ang duck</translation>
+-<translation id="14817360483752259">Ang Brave Search ay hindi susubaybay sa inyo, sa inyong mga query, o sa inyong mga pag-click. At (hindi katulad ng DDG) hindi ito Bing na nagbabalat-kayo lang.</translation>
++<translation id="14817360483752259">Ang Kahf Search ay hindi susubaybay sa inyo, sa inyong mga query, o sa inyong mga pag-click. At (hindi katulad ng DDG) hindi ito Bing na nagbabalat-kayo lang.</translation>
+ <translation id="4381193110021038941">Makakuha ng mas magagandang resulta</translation>
+-<translation id="3846545273704969734">Ang Brave Search ay hiwalay na na-verify na may mas magagandang resulta kaysa sa Bing (o mga clone ng Bing katulad ng DuckDuckGo).</translation>
++<translation id="3846545273704969734">Ang Kahf Search ay hiwalay na na-verify na may mas magagandang resulta kaysa sa Bing (o mga clone ng Bing katulad ng DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Pahusayin ang mga resulta ng paghahanap</translation>
+-<translation id="4639001639513524869">Mas magaganda ang resulta sa Brave Search kaysa sa DuckDuckGo para sa karamihan ng mga query. At talagang pribado ito.</translation>
+-<translation id="5240031343741051161">Subukan ang Brave Search</translation>
++<translation id="4639001639513524869">Mas magaganda ang resulta sa Kahf Search kaysa sa DuckDuckGo para sa karamihan ng mga query. At talagang pribado ito.</translation>
++<translation id="5240031343741051161">Subukan ang Kahf Search</translation>
+ <translation id="5234764350956374838">I-dismiss</translation>
+-<translation id="8722651357687610395">Itakda ang Brave bilang default</translation>
++<translation id="8722651357687610395">Itakda ang Kahf bilang default</translation>
+ <translation id="2370739752330685659">Sa ibang pagkakataon siguro</translation>
+-<translation id="5100490448228945668">Balewalain ang conversion sa paghahanap sa Brave, pindutin ang Enter para alisin ang suhestyong ito</translation>
++<translation id="5100490448228945668">Balewalain ang conversion sa paghahanap sa Kahf, pindutin ang Enter para alisin ang suhestyong ito</translation>
+ <translation id="9194637241566114638">Tumulong na pagandahin ang <ph name="SEARCH_NAME"/> sa pamamagitan ng pagpapadala ng anonymous usage data.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave Search</translation>
++<translation id="7404610376221341525">Kahf Search</translation>
+ <translation id="8184318863960255706">Higit pang impormasyon</translation>
+ <translation id="780301667611848630">Hindi, salamat na lang</translation>
+-<translation id="1162706247109707219">Sa pag-click ng OK, tinatanggap mong HINDI makakatanggap ng mga kritikal na pag-aayos sa seguridad ang pag-install mo ng Brave hanggang makapag-update ka sa Windows 10 o mas bago. HINDI na muling lilitaw ang babalang ito.</translation>
+-<translation id="9164786361657554526">Sa pag-click ng OK, tinatanggap mong HINDI makakatanggap ng mga kritikal na pag-aayos sa seguridad ang pag-install mo ng Brave hanggang makapag-update ka sa macOS 10.15 o mas bago. HINDI na muling lilitaw ang babalang ito.</translation>
++<translation id="1162706247109707219">Sa pag-click ng OK, tinatanggap mong HINDI makakatanggap ng mga kritikal na pag-aayos sa seguridad ang pag-install mo ng Kahf hanggang makapag-update ka sa Windows 10 o mas bago. HINDI na muling lilitaw ang babalang ito.</translation>
++<translation id="9164786361657554526">Sa pag-click ng OK, tinatanggap mong HINDI makakatanggap ng mga kritikal na pag-aayos sa seguridad ang pag-install mo ng Kahf hanggang makapag-update ka sa macOS 10.15 o mas bago. HINDI na muling lilitaw ang babalang ito.</translation>
+ <translation id="2770465223704140727">Alisin sa listahan</translation>
+ <translation id="6020553119523541665">Aktibo ang tab na ito sa isa pang window</translation>
+ <translation id="4987392683074136770">Kapag na-click ang tab na ito, mapupunta ang mga content nito sa window na ito</translation>
+@@ -299,8 +299,8 @@ O baguhin mamaya sa <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="6453210454707928697">Hindi na-play ang item</translation>
+ <translation id="8741852840789907931">Posibleng nag-expire na ang [<ph name="ITEM_NAME"/>]. Gusto mo ba itong i-recover?</translation>
+ <translation id="6155018868740116868">I-recover</translation>
+-<translation id="1727684853006449697">Player ng Brave</translation>
+-<translation id="9156965752763025780">Magkakabisa ang iyong mga pagbabago sa susunod na ilunsad mong muli ang Brave.</translation>
++<translation id="1727684853006449697">Player ng Kahf</translation>
++<translation id="9156965752763025780">Magkakabisa ang iyong mga pagbabago sa susunod na ilunsad mong muli ang Kahf.</translation>
+ <translation id="7179921470347911571">Muling Ilunsad Ngayon</translation>
+ <translation id="1426410128494586442">Oo</translation>
+ <translation id="4250680216510889253">Hindi</translation>
+@@ -339,7 +339,7 @@ O baguhin mamaya sa <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="8820817407110198400">Bar ng Mga Bookmark</translation>
+ <translation id="4144468798716165316">Mga mabilisang command</translation>
+ <translation id="7310387888625228830">Leo AI Assistant</translation>
+-<translation id="5222974844674487962">Ipakita ang button na Brave News</translation>
++<translation id="5222974844674487962">Ipakita ang button na Kahf News</translation>
+ <translation id="383007806262310953">Ipakita ang bookmarks bar</translation>
+ <translation id="4054323497808446566">Nakikita ang bar ng Bookmarks sa lahat ng page</translation>
+ <translation id="8693858092251192712">Naka-hide ang bar ng Bookmarks sa lahat ng page maliban sa page ng bagong tab</translation>
+@@ -440,7 +440,7 @@ O baguhin mamaya sa <ph name="SETTINGS_EXTENIONS_LINK"/>.</translation>
+ <translation id="4891600875049212418">Maging pribado kapag bumibisita sa mga sensitibong site</translation>
+ <translation id="1968895725257436430">Koleksyon ng data</translation>
+ <translation id="4846154056248462491">Sa pag-exit</translation>
+-<translation id="2808630562319398131">I-reset ang data ng Mga Reward ng Brave...</translation>
++<translation id="2808630562319398131">I-reset ang data ng Mga Reward ng Kahf...</translation>
+ <translation id="6438096877646138757">Mga site na nagki-clear ng cookies kapag isinara mo ang mga ito</translation>
+ <translation id="2988792685798128092">I-clear sa pagsara sa site</translation>
+ <translation id="7702907602086592255">Domain</translation>
+@@ -694,7 +694,7 @@ ang Brave Leo. Hindi puwedeng i-undo ang pagkilos na ito.</translation>
+ <translation id="7131172845656551327">Ang pangalan ng model tulad ng kung paano dapat ito lumitaw sa request sa serving framework, iyon ay, phi-3 (tandaang kung hindi tumutugma nang eksakto ang pangalang inaasahan ng serving framework, hindi gagana ang integration)</translation>
+ <translation id="3286410514484292784">Ang url kung saan nakikinig ang serving framework mo sa mga request. Kung hindi ka sigurado, suriin ang dokumentasyon ng serving framework, Hal. para sa Ollama, lagi itong http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Puwedeng mangailangan ang ilang serving framework ng mga authentication credential, tulad ng API key o access token. Idadagdag ang mga ito sa header ng request.</translation>
+-<translation id="217141195370578385">HIndi nagpo-proxy ang Brave ng mga request na ito ang Brave, basahin ang mga tuntunin sa privacy ng piniling provider.</translation>
++<translation id="217141195370578385">HIndi nagpo-proxy ang Kahf ng mga request na ito ang Kahf, basahin ang mga tuntunin sa privacy ng piniling provider.</translation>
+ <translation id="2645532768679870478">Walang hindi lokal na endpoint dapat ang gumagamit ng HTTPS protocol para sa pagpapadala ng secure na data.</translation>
+ <translation id="8177205483022887785">Naglagay ka ng hindi valid na URL. Maglagay ng valid na URL.</translation>
+ <translation id="5249539665306267943">Idagdag ang bagong model</translation>
