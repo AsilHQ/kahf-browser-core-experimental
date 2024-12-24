@@ -6,6 +6,7 @@ import * as React from 'react'
 import classnames from '$web-common/classnames'
 import { LoaderIcon } from 'brave-ui/components/icons'
 import style from './button.module.scss'
+import './app.global.scss'
 
 type Scale = 'tiny' | 'small' | 'regular' | 'large' | 'jumbo'
 
