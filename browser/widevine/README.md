@@ -4,7 +4,7 @@ Widevine is used to decrypt DRM-protected content, which is served from
 streaming services such as Netflix. Widevine is integrated in Chromium as a
 component.
 
-## Signature files (brave.exe.sig, chrome.dll.sig, ...)
+## Signature files (kahf.exe.sig, chrome.dll.sig, ...)
 
 Streaming services only offer high definition content to clients that are
 trusted. Widevine has mechanisms to ensure the integrity of the client. One of

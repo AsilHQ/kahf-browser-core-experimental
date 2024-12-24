@@ -6,7 +6,7 @@ index 4ba7702bfa283c5bc376dacbdcddd98c71b7ba04..b10fcdf75a532366122f6e8c6d3469b5
  namespace {
  
  constexpr base::FilePath::CharType kChromeExecutable[] =
-+    FILE_PATH_LITERAL("brave.exe");
++    FILE_PATH_LITERAL("kahf.exe");
 +#if 0
      FILE_PATH_LITERAL("chrome.exe");
 +#endif
