@@ -3,7 +3,7 @@
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
 import * as React from 'react'
-import { StyledWidget, StyledWidgetContainer } from './styles'
+import {  StyledWidgetContainer } from './styles'
 import WidgetMenu, { WidgetMenuCustomItem } from './widgetMenu'
 
 type HideWidgetFunction = () => void
