@@ -41,7 +41,7 @@ interface ProfileItemProps {
   id: number
   isChecked: boolean
 }
-const browserIcons = {
+const browserIcons:any = {
   'Google Chrome Canary': <ChromeCanarySVG />,
   'Google Chrome': <ChromeSVG />,
   'Google Chrome Dev': <ChromeDevSVG />,
@@ -85,26 +85,54 @@ function BrowserItemButton (props: BrowserItemButtonProps) {
     </button>
   )
 }
-function ProfileItem (props: ProfileItemProps) {
+function ProfileItem(props: ProfileItemProps) {
   return (
     <div className="item-box">
-        <label className="item-grid">
-        <div className="item-action">
+      <label className="item-grid" style={{ display: 'flex', alignItems: 'center' }}>
+        <div className="item-action" style={{ position: 'relative', cursor: 'pointer' }}>
           <input
             type="checkbox"
             id={`profile-${props.id}`}
             checked={props.isChecked}
             onChange={props.onChange}
+            style={{ display: 'none' }} // Hide the default checkbox
           />
+          <span
+            style={{
+              width: '17px',
+              height: '17px',
+              backgroundColor: props.isChecked ? 'blue' : 'rgb(255 255 255 / 99%)', // Change color when checked
+              borderRadius: '50%', // Circular shape
+              display: 'inline-block',
+              transition: 'background-color 0.3s ease',
+              position: 'relative',
+            }}
+          >
+            {props.isChecked && (
+              <span
+                style={{
+                  content: '""',
+                  position: 'absolute',
+                  top: '4px',
+                  left: '8px',
+                  width: '5px',
+                  height: '10px',
+                  border: 'solid white',
+                  borderWidth: '0 2px 2px 0',
+                  transform: 'rotate(45deg)',
+                }}
+              />
+            )}
+          </span>
         </div>
-        <div className="item-info">
+        <div className="item-info" style={{ marginLeft: '10px' }}>
           <span>{props.profileName}</span>
         </div>
-        
       </label>
     </div>
   )
 }
+
 function SelectProfile () {
   const {
     browserProfiles,

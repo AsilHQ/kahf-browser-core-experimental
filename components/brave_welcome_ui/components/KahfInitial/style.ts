@@ -57,7 +57,7 @@ export const Box = styled.div`
   .view-title {
     font-weight: 600;
     font-size: 36px;
-    margin: 0 0 18px 0;
+    margin: -50px 0 18px 0;
   }
 
   .view-desc {
@@ -67,12 +67,12 @@ export const Box = styled.div`
   }
 
   .view-logo-box {
+    margin-top: 12vh;
     width: 150px;
     height: auto;
     top: calc(-160px / 2);
     left: calc(50% - 160px/2);
     z-index: 2;
-    ma
 
     img {
       width: 100%;
@@ -82,14 +82,15 @@ export const Box = styled.div`
 `
 
 export const ActionBox = styled.div`
-  display: flex;
-  flex-direction: column;
-  grid-gap: 10px;
-  padding: 0 40px;
-  max-width: 450px;
-  margin: 0 auto 40px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 4px 40px 3px 60px;
+    max-width: 388px;
+    margin: 0px auto 40px;
 
   button {
     color: white;
+    padding: 9px;
   }
 `

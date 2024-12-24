@@ -12,7 +12,7 @@ import './locale'
 
 // Components
 import SelectBrowser from '../components/select-browser'
-import SelectProfile from '../components/select-profile'
+import SelectProfile from '../components/select-profile/index-old'
 import SelectTheme from '../components/select-theme'
 import HelpImprove from '../components/help-improve'
 import ImportInProgress from '../components/import-in-progress'

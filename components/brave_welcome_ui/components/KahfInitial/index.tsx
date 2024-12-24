@@ -40,7 +40,6 @@ function KahfInitial () {
 
   return (
     <S.Box ref={shouldPlayAnimations ? ref : null}>
-      {viewType}
       <div className="view-logo-box">
         <img src={braveLogoUrl} />
       </div>

@@ -27,6 +27,7 @@ const defaultStore = {
   currentSelectedBrowser: undefined,
   browserProfiles: undefined,
   currentSelectedBrowserProfiles: undefined,
+  currentSelectedApps:undefined,
   viewType: undefined,
   scenes: undefined,
   countryString: undefined,

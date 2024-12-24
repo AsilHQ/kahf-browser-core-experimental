@@ -12,7 +12,8 @@ import DataContext from '../../state/context'
 import { useViewTypeTransition } from '../../state/hooks'
 import { WelcomeBrowserProxyImpl, P3APhase } from '../../api/welcome_browser_proxy'
 import { getLocale } from '$web-common/locale'
-
+import { setFavouriteApps } from './util'
+// import { addNewTopSite } from 'components/brave_welcome_ui/api/topSites'
 import FbSVG from '../svg/app-icons/fb'
 import FigmaSVG from '../svg/app-icons/figma'
 import GmailSVG from '../svg/app-icons/gmail'
@@ -25,8 +26,9 @@ import YoutubeSVG from '../svg/app-icons/youtube'
 
 interface AppItemButtonProps {
   appName: string
-  onChange?: (appName: string) => void
-  isActive: boolean
+  onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void
+  id: number
+  isChecked: boolean
 }
 
 const browserIcons :any = {
@@ -42,45 +44,44 @@ const browserIcons :any = {
 }
 
 function AppItemButton (props: AppItemButtonProps) {
-  const handleClick = () => {
-    props.onChange?.(props.appName)
-  }
-
   const buttonClass = classnames({
     'browser-item': true,
-    'is-selected': props.isActive
+    'is-selected': props.isChecked
   })
 
   return (
-    <button onClick={handleClick}
-      className={buttonClass}
-    >
-      <i className="check-icon-box">
-        {props.isActive && (
-          <svg viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M14.9558.9327c-.2259-.2134-.5083-.2667-.7907-.2667s-.5648.16-.7907.3733l-7.06 7.68-3.7276-3.4666c-.4518-.4267-1.186-.4267-1.5814 0-.226.2133-.3389.48-.3389.7466 0 .2667.113.5334.3389.7467l4.5748 4.2667c.1695.2133.4519.32.7907.32h.0565c.3389 0 .6213-.16.7907-.3734l7.8507-8.5333c.3953-.4267.3389-1.12-.113-1.4933Z" fill="#4C54D2"/>
-          </svg>
-        )}
-      </i>
-      <div className="browser-logo-box">
-        {browserIcons[props.appName]}
-      </div>
-    </button>
+    <>
+      <label htmlFor={`profile-${props.id}`} className="button-label">
+        <button
+          className={buttonClass}
+        >
+          <input
+            type="checkbox"
+            className='check-icon-box'
+            id={`profile-${props.id}`}
+            checked={props.isChecked}
+            onChange={props.onChange}
+          />
+          <div className="browser-logo-box">
+            {browserIcons[props.appName]}
+          </div>
+        </button>
+      </label>
+    </>
   )
 }
 
 function FavouriteApp() {
   console.log("FavouriteApp called")
   const {
-    currentSelectedBrowserProfiles,
+    // currentSelectedBrowserProfiles,
     viewType,
-    currentSelectedBrowser,
-    setCurrentSelectedBrowser,
+    // currentSelectedBrowser,
     setViewType,
     // incrementCount,
-    scenes
+    // scenes
   } = React.useContext(DataContext)
-  // const browserTypes = getUniqueBrowserTypes(browserProfiles ?? [])
+   const [selectedProfiles, setSelectedProfiles] = React.useState<Set<number>>(new Set())
   const browserTypes = [
   'Fb',
   'Figma',
@@ -91,31 +92,53 @@ function FavouriteApp() {
   'Spotify',
   'X',
   'Youtube']
-  const handleSelectionChange = (appName: string) => {
-    setCurrentSelectedBrowser?.(appName)
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    console.log("Handle Change is Being Called")
+    const { id, checked } = e.target
+    const parsedId = parseInt(id.split('-')[1])
+    console.log("id,checked,parseId", id, checked, parsedId)
+    console.log(selectedProfiles)
+    if (!checked && selectedProfiles?.has(parsedId)) {
+      selectedProfiles.delete(parsedId)
+      setSelectedProfiles(new Set([...selectedProfiles]))
+      return
+    }
+
+    setSelectedProfiles(new Set(selectedProfiles.add(parsedId)))
   }
 
-  const { forward, skip } = useViewTypeTransition(viewType)
-  const goForward = () => setViewType(forward)
-
-  const handleImport = () => {
-    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Finished)
-    goForward()
-  }
-    
+  const { forward } = useViewTypeTransition(viewType)
+  const goForward = () => setViewType(forward)    
 
   const handleSkip = () => {
-    scenes?.s2.play() // play the final animation on skip
-    setViewType(skip!)
-    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent)
+    goForward()
   }
 
   React.useEffect(() => {
+    console.log(typeof(handleSkip))
   }, [])
 
-  const hasSelectedBrowser =
-    currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0
+  // const hasSelectedBrowser =
+    // currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0
+  const handleImportProfiles = () => {
+    if (selectedProfiles.size <= 0) return
+    let entries: string[] = []
+    selectedProfiles.forEach((entry) => {
+      entries.push(browserTypes[entry])
+      // incrementCount()
+    })
 
+    if (entries.length === 1) {
+      // ImportDataBrowserProxyImpl.getInstance().importData(entries[0], defaultImportTypes)
+      console.log(entries)
+    } else {
+      // ImportDataBrowserProxyImpl.getInstance().importDataBulk(entries, defaultImportTypes)
+      console.log(entries)
+      setFavouriteApps(entries)
+    }
+    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Finished)
+    goForward()
+  }
   return (
     <S.MainBox>
       <div className="view-header-box">
@@ -131,9 +154,10 @@ function FavouriteApp() {
             return (
               <AppItemButton
                 key={id}
+                id={id}
                 appName={entry ?? 'Chromium-based browser'}
-                onChange={handleSelectionChange}
-                isActive={entry === currentSelectedBrowser}
+                onChange={handleChange}
+                isChecked={selectedProfiles.has(id)}
               />
             )
           })}
@@ -142,16 +166,18 @@ function FavouriteApp() {
         <S.ActionBox>
           <Button
             isPrimary={true}
-            isDisabled={!hasSelectedBrowser}
-            onClick={handleImport}
+            // isDisabled={!hasSelectedBrowser}
+            onClick={handleImportProfiles}
             scale="large"
           >
-            {getLocale('braveWelcomeImportButtonLabel')}
+            Next
+            {/* {getLocale('braveWelcomeImportButtonLabel')} */}
           </Button>
         <Button
           isTertiary={true}
           onClick={handleSkip}
           scale="large"
+          
         >
           {getLocale('braveWelcomeSkipButtonLabel')}
         </Button>

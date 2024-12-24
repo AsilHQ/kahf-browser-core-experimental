@@ -1,0 +1,42 @@
+diff a/components/resources/brave_welcome_strings.grdp b/components/resources/brave_welcome_strings.grdp	(rejected hunks)
+@@ -1,21 +1,36 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <grit-part>
+   <message name="IDS_BRAVE_WELCOME_TITLE" desc="A title for screen on the first step of welcome page">
+-  Privacy. By Default.
++  Get what you want twice as fast
+ </message>
+ 
+ <message name="IDS_BRAVE_WELCOME_DESC" desc="A subtitle for screen on the first step of welcome page">
+-  Get Kahf protection on every link you click. Just set Kahf as default and browse. Privately.
++  Start exploring the halal web and browse the internet without worrying about haram content, haram ad and adult sites.
+ </message>
+ 
+ <message name="IDS_BRAVE_WELCOME_IMPORT_SETTINGS_TITLE" desc="A title for screen to select browser">
+-  Import Settings
++  Brings us up to date!
+ </message>
+ 
+ <message name="IDS_BRAVE_WELCOME_IMPORT_SETTINGS_DESC" desc="A subtitle for screen to select browser">
+-  Easily import bookmarks, extensions, even saved passwords from your old browser.
++  Start off strong by bringing along your most important tabs, passwords, history, and bookmarks.
+ </message>
+ 
++<message name="IDS_BRAVE_WELCOME_FAVOURITE_APP_TITLE" desc="A title for screen to select browser">
++  Choose the App you use the most!
++</message>
++
++<message name="IDS_BRAVE_WELCOME_FAVOURITE_APP_DESC" desc="A subtitle for screen to select browser">
++  Select your favorite apps to keep them handy in your home screen
++</message>
++
++<message name="IDS_BRAVE_WELCOME_ENABLE_REWARDS_TITLE" desc="A title for screen to select browser">
++  No more ads or trackers!
++</message>
++
++<message name="IDS_BRAVE_WELCOME_ENABLE_REWARDS_DESC" desc="A subtitle for screen to select browser">
++We include an ad blocker so you don’t need to worry about invasive trackers or intrusive pop-ups.</message>
++
+ <message name="IDS_BRAVE_WELCOME_SELECT_PROFILE_LABEL" desc="A title for screen to select one or more profiles">
+   Select profile to import
+ </message>

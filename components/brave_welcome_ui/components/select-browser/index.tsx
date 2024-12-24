@@ -35,7 +35,7 @@ interface BrowserItemButtonProps {
   isActive: boolean
 }
 
-const browserIcons = {
+const browserIcons:any = {
   'Google Chrome Canary': <ChromeCanarySVG />,
   'Google Chrome': <ChromeSVG />,
   'Google Chrome Dev': <ChromeDevSVG />,

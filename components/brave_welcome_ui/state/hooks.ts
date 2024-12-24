@@ -83,9 +83,12 @@ export function useViewTypeTransition(currentViewType: ViewType | undefined) : V
 
   const states = React.useMemo(() => {
     return {
+      [ViewType.Initial]: {  // The initial state view
+        forward: ViewType.DefaultBrowser
+      },
       [ViewType.DefaultBrowser]: {  // The initial state view
         forward: !browserProfiles || browserProfiles.length === 0 ?
-            ViewType.ImportSelectTheme : ViewType.ImportSelectBrowser
+          ViewType.ImportSelectTheme : ViewType.ImportSelectBrowser
       },
       [ViewType.ImportSelectTheme]: {
         forward: ViewType.HelpWDP
@@ -117,5 +120,5 @@ export function useViewTypeTransition(currentViewType: ViewType | undefined) : V
     }
   }, [browserProfiles, currentSelectedBrowserProfiles])
 
-  return states[currentViewType?? ViewType.DefaultBrowser]
+  return states[currentViewType?? ViewType.Initial]
 }

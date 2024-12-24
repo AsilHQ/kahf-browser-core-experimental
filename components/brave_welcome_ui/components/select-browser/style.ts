@@ -18,8 +18,10 @@ export const MainBox = styled.div`
     display: grid;
     grid-template-columns: 0.2fr 1fr 0.2fr;
     margin-bottom: 50px;
-    text-align: center;
-    max-width: 400px;
+    text-align: left;
+    max-width: 463px;
+    margin-left: -58px;
+    margin-right: 117px;
   }
 
   .view-details {
@@ -28,7 +30,7 @@ export const MainBox = styled.div`
 
   .view-title {
     font-weight: 700;
-    font-size: 36px;
+    font-size: 31px;
     margin: 0 0 18px 0;
     color:black;
   }
@@ -53,7 +55,7 @@ export const BrowserListBox = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    grid-gap: 10px;
+    grid-gap: 4px;
     flex-direction: column;
     flex-wrap: wrap;
 
@@ -87,6 +89,7 @@ export const BrowserListBox = styled.div`
   .browser-logo-box {
     width: 35px;
     height: 40px;
+    margin-right:6px;
   }
 
   .check-icon-box {
@@ -94,6 +97,9 @@ export const BrowserListBox = styled.div`
     height: 16px;
     position: absolute;
     right: 14px;
+    border: 1px solid;
+    padding: 1px;
+    border-radius: 100px;
   }
 `
 
@@ -101,7 +107,7 @@ export const ActionBox = styled.div`
   display: flex;
   grid-gap: 10px;
   flex-direction: column;
-  margin-top:15px;
+  margin-top:46px;
   button {
     color: white;
   }

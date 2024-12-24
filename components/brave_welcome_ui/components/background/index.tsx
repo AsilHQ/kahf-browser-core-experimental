@@ -16,12 +16,14 @@ import Stars02 from '../svg/stars02'
 import Stars03 from '../svg/stars03'
 import Stars04 from '../svg/stars04'
 import fullCompositeBgUrl from '../../assets/background@2x.webp'
-import skyBgUrl from '../../assets/sky.webp'
-
+import fullCompositeBg2Url from '../../assets/bg2@2x.webp'
+import fullCompositeBg3Url from '../../assets/bg3@2x.webp'
+import fullCompositeBg4Url from '../../assets/bg4@2x.webp'
 interface BackgroundProps {
   children?: JSX.Element
   static: boolean
   onLoad?: () => void
+  bg:string
 }
 
 function Background (props: BackgroundProps) {
@@ -29,7 +31,16 @@ function Background (props: BackgroundProps) {
   const { setScenes } = React.useContext(DataContext)
   const [hasLoaded, setHasLoaded] = React.useState(false)
   const isReadyForAnimation = hasLoaded && !props.static
-
+  const [bgImage,setBgImage] = React.useState(fullCompositeBgUrl)
+  React.useEffect(() => {
+    if (props.bg === '1') { setBgImage(fullCompositeBgUrl) }
+    if (props.bg === '2') { setBgImage(fullCompositeBg2Url) }
+    if (props.bg === '3') { setBgImage(fullCompositeBg3Url) }
+    if (props.bg === '4') { setBgImage(fullCompositeBg4Url) }
+    if (props.bg === '5') { setBgImage(fullCompositeBg2Url) }
+    if (props.bg === '6') { setBgImage(fullCompositeBg2Url) }
+    
+  }, [props.bg])
   React.useEffect(() => {
     if (!ref.current) return
     if (!isReadyForAnimation) return
@@ -110,7 +121,7 @@ function Background (props: BackgroundProps) {
           'background-img': true,
           'is-visible': hasLoaded
         })}
-        src={!props.static ? skyBgUrl : fullCompositeBgUrl}
+        src={bgImage}
         onLoad={handleImgLoad}
       />
       {isReadyForAnimation && (

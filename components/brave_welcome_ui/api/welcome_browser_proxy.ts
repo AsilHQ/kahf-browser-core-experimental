@@ -8,10 +8,11 @@ import { DefaultBrowserBrowserProxyImpl } from './default_browser_browser_proxy'
 import { ImportDataBrowserProxyImpl, BrowserProfile as _BrowserProfile } from './import_data_browser_proxy'
 
 export enum P3APhase {
-  Welcome = 0,
-  Import = 1,
-  Consent = 2,
-  Finished = 3
+  Initial = 0,
+  Welcome = 1,
+  Import = 2,
+  Consent = 3,
+  Finished = 4
 }
 
 export interface BrowserProfile extends _BrowserProfile {

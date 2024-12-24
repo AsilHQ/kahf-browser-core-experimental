@@ -17,18 +17,21 @@ export const MainBox = styled.div`
   .view-header-box {
     display: grid;
     grid-template-columns: 0.2fr 1fr 0.2fr;
-    margin-bottom: 50px;
-    text-align: center;
-    max-width: 400px;
+    margin-bottom: 25px;
+    text-align: left;
+    max-width: 463px;
+    margin-left: -58px;
+    margin-right: 117px;
   }
 
   .view-details {
     grid-column: 2;
+    width: 415px;
   }
 
   .view-title {
     font-weight: 700;
-    font-size: 36px;
+    font-size: 31px;
     margin: 0 0 18px 0;
     color:black;
   }
@@ -43,7 +46,7 @@ export const MainBox = styled.div`
   .right-box{
   display: flex;
   flex-direction: column;
-  margin:40px 20px 0 0;
+  margin:12px 10px 0 0;
 }
 `
 
@@ -100,7 +103,7 @@ export const ActionBox = styled.div`
   display: flex;
   grid-gap: 10px;
   flex-direction: column;
-  margin-top:15px;
+  margin-top:35px;
   button {
     color: white;
   }
