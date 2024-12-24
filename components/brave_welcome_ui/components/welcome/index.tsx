@@ -8,15 +8,13 @@ import * as S from './style'
 
 import classnames from '$web-common/classnames'
 import { getLocale } from '$web-common/locale'
-import Button from '$web-components/button'
+import Button from '../button/index'
 
 import { WelcomeBrowserProxyImpl, DefaultBrowserBrowserProxyImpl, P3APhase } from '../../api/welcome_browser_proxy'
 import WebAnimationPlayer from '../../api/web_animation_player'
 
 import DataContext from '../../state/context'
 import { shouldPlayAnimations, useViewTypeTransition } from '../../state/hooks'
-
-import braveLogoUrl from '../../assets/brave_logo_3d@2x.webp'
 
 function Welcome () {
   const { viewType, setViewType, scenes } = React.useContext(DataContext)
@@ -66,9 +64,7 @@ function Welcome () {
 
   return (
     <S.Box ref={shouldPlayAnimations ? ref : null}>
-      <div className="view-logo-box">
-        <img src={braveLogoUrl} />
-      </div>
+
       <div className={classnames({ 'view-content': true, 'initial': shouldPlayAnimations })}>
         <div className="view-header-box">
           <div className="view-details">
@@ -80,20 +76,19 @@ function Welcome () {
           <Button
             isPrimary={true}
             onClick={handleSetAsDefaultBrowser}
-            scale="jumbo"
+            scale="large"
           >
             {getLocale('braveWelcomeSetDefaultButtonLabel')}
           </Button>
           <Button
             isTertiary={true}
             onClick={handleSkip}
-            scale="jumbo"
+            scale="large"
           >
             {getLocale('braveWelcomeSkipButtonLabel')}
           </Button>
         </S.ActionBox>
       </div>
-      <div className={classnames({ 'view-backdrop': true, 'initial': shouldPlayAnimations })} />
     </S.Box>
   )
 }
