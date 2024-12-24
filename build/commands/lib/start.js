@@ -100,7 +100,7 @@ const start = (passthroughArgs, buildConfig = config.defaultBuildConfig, options
     if (process.platform === 'win32') {
       outputPath = outputPath + '.exe'
     } else if (process.platform === 'darwin') {
-      outputPath = fs.readFileSync(outputPath + '_helper').toString().trim()
+      outputPath = fs.readFileSync(outputPath.replace("kahf", "brave" ) + '_helper').toString().trim()
     }
   }
   util.run(outputPath, braveArgs, cmdOptions)
