@@ -54,14 +54,14 @@ export function Widget ({
       isCardWidget={isCardWidget}
       isForeground={isForeground}
     >
-      <StyledWidget
+      {/* <StyledWidget
         isCardWidget={isCardWidget}
         isForeground={isForeground}
         widgetMenuPersist={widgetMenuPersist}
         preventFocus={preventFocus}
         paddingType={paddingType}>
         {children}
-      </StyledWidget>
+      </StyledWidget> */}
       {hideWidget && !hideMenu && !preventFocus &&
         <WidgetMenu
           widgetTitle={widgetTitle}
@@ -84,7 +84,7 @@ export function Widget ({
 
 const createWidget = <P extends object>(WrappedComponent: React.ComponentType<P>) =>
   (props: P & WidgetProps) => <Widget {...props as WidgetProps}>
-    <WrappedComponent {...props as P}/>
-  </Widget>
+     <WrappedComponent {...props as P}/>
+  \ </Widget>
 
 export default createWidget

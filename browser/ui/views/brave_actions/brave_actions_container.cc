@@ -83,11 +83,11 @@ void BraveActionsContainer::AddActionViewForShields() {
 }
 
 void BraveActionsContainer::AddActionViewForRewards() {
-  auto button = std::make_unique<BraveRewardsActionView>(browser_);
-  rewards_action_btn_ = AddChildViewAt(std::move(button), 2);
-  rewards_action_btn_->SetPreferredSize(GetActionSize());
-  rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());
-  rewards_action_btn_->Update();
+  // auto button = std::make_unique<BraveRewardsActionView>(browser_);
+  // rewards_action_btn_ = AddChildViewAt(std::move(button), 2);
+  // rewards_action_btn_->SetPreferredSize(GetActionSize());
+  // rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());
+  // rewards_action_btn_->Update();
 }
 
 void BraveActionsContainer::Update() {

@@ -135,7 +135,7 @@ void BraveAppMenuModel::BuildTabsAndWindowsSection() {
                              IDS_NEW_TOR_CONNECTION_FOR_SITE);
   }
 
-  if (IsCommandIdEnabled(IDC_NEW_OFFTHERECORD_WINDOW_TOR)) {
+  if (false &&(IDC_NEW_OFFTHERECORD_WINDOW_TOR)) {
     InsertItemWithStringIdAt(
         GetIndexOfCommandId(IDC_NEW_INCOGNITO_WINDOW).value() + 1,
         IDC_NEW_OFFTHERECORD_WINDOW_TOR, IDS_NEW_OFFTHERECORD_WINDOW_TOR);
@@ -145,7 +145,7 @@ void BraveAppMenuModel::BuildTabsAndWindowsSection() {
 void BraveAppMenuModel::BuildBraveProductsSection() {
   // Needs to add separator as this section is brave specific section.
   bool need_separator = false;
-
+#if false
   if (IsCommandIdEnabled(IDC_TOGGLE_AI_CHAT)) {
     InsertItemWithStringIdAt(GetNextIndexOfBraveProductsSection(),
                              IDC_TOGGLE_AI_CHAT, IDS_TOGGLE_AI_CHAT);
@@ -158,7 +158,7 @@ void BraveAppMenuModel::BuildBraveProductsSection() {
     need_separator = true;
   }
 
-#if BUILDFLAG(ENABLE_BRAVE_VPN)
+//if BUILDFLAG(ENABLE_BRAVE_VPN)
   if (IsCommandIdEnabled(IDC_BRAVE_VPN_MENU)) {
     sub_menus().push_back(std::make_unique<BraveVPNMenuModel>(
         browser(), browser()->profile()->GetPrefs()));

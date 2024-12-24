@@ -218,7 +218,7 @@ void SidebarControlView::Update() {
 void SidebarControlView::UpdateItemAddButtonState() {
   DCHECK(sidebar_item_add_view_);
   // Determine add button enabled state.
-  bool should_enable = true;
+  bool should_enable = false;
   if (browser_->sidebar_controller()->model()->IsSidebarHasAllBuiltInItems() &&
       !sidebar::CanAddCurrentActiveTabToSidebar(browser_)) {
     should_enable = false;
@@ -249,17 +249,17 @@ bool SidebarControlView::IsItemReorderingInProgress() const {
 }
 
 bool SidebarControlView::IsBubbleWidgetVisible() const {
-  if (context_menu_runner_ && context_menu_runner_->IsRunning()) {
-    return true;
-  }
+  // if (context_menu_runner_ && context_menu_runner_->IsRunning()) {
+  //   return true;
+  // }
 
-  if (sidebar_item_add_view_->IsBubbleVisible()) {
-    return true;
-  }
+  // if (sidebar_item_add_view_->IsBubbleVisible()) {
+  //   return true;
+  // }
 
-  if (sidebar_items_view_->IsBubbleVisible()) {
-    return true;
-  }
+  // if (sidebar_items_view_->IsBubbleVisible()) {
+  //   return true;
+  // }
 
   return false;
 }
