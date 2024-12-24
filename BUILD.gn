@@ -675,7 +675,7 @@ if (is_win && enable_resource_allowlist_generation) {
     args = [
       "--repack_allowlist",
       rebase_path(source_allowlist, root_build_dir),
-      "--brave_allowlist",
+      #"--brave_allowlist",
       #rebase_path(wireguard_resource_allowlist_file, root_build_dir),
       "--output",
       rebase_path(brave_allowlist_file, root_build_dir),

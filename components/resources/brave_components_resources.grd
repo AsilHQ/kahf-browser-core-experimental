@@ -71,7 +71,7 @@
 
       <!-- Imagery links -->
       <if expr="not is_android">
-              <include name="IDR_BRAVE_NEW_TAB_BACKGROUND1" file="../img/newtab/backgrounds/ekrem-osmanoglu-2R0gbZXaUqM-unsplash.webp" type="BINDATA" />
+        <include name="IDR_BRAVE_NEW_TAB_BACKGROUND1" file="../img/newtab/backgrounds/ekrem-osmanoglu-2R0gbZXaUqM-unsplash.webp" type="BINDATA" />
         <include name="IDR_BRAVE_NEW_TAB_BACKGROUND2" file="../img/newtab/backgrounds/ayse-bek-YLdYVzHopto-unsplash.webp" type="BINDATA" />
         <include name="IDR_BRAVE_NEW_TAB_BACKGROUND3" file="../img/newtab/backgrounds/fatih-yurur-kNSREmtaGOE-unsplash.webp" type="BINDATA" />
 
