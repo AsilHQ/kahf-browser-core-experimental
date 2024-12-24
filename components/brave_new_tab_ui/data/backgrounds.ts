@@ -4,12 +4,53 @@
 
 export const images: NewTab.BraveBackground[] = [{
   'type': 'brave',
-  'wallpaperImageUrl': 'dylan-malval_sea-min.webp',
-  'author': 'Dylan Malval',
-  'link': 'https://www.instagram.com/vass_captures/',
+  'wallpaperImageUrl': 'ekrem-osmanoglu-2R0gbZXaUqM-unsplash.webp',
+  'author': 'ekrem osmanoglu',
+  'link': 'https://unsplash.com/photos/2R0gbZXaUqM',
   'originalUrl': 'Contributor sent the hi-res version through email',
   'license': 'used with permission'
-}]
+},
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'ayse-bek-YLdYVzHopto-unsplash.webp',
+    'author': 'Ayse Bek',
+    'link': 'https://unsplash.com/photos/YLdYVzHopto',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'fahrul-azmi-gyKmF0vnfBs-unsplash.webp',
+    'author': 'Fahrul Azmi',
+    'link': 'https://unsplash.com/photos/gyKmF0vnfBs',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'fatih-yurur-kNSREmtaGOE-unsplash.webp',
+    'author': 'Fatih Yürür',
+    'link': 'https://unsplash.com/photos/kNSREmtaGOE',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'dhru-j-r7H8kkoYyCY-unsplash.webp',
+    'author': 'Dhru J',
+    'link': 'https://unsplash.com/photos/r7H8kkoYyCY',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'abdurahman-iseini-DNwQ35LdxXQ-unsplash.webp',
+    'author': 'abdurahman iseini',
+    'link': 'https://unsplash.com/photos/DNwQ35LdxXQ',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  }
+]
 // If you change the size of this array (e.g. adding a new background, adding a new property),
 // then you must also update `script/generate_licenses.py`
 

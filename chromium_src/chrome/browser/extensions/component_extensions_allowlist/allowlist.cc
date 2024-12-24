@@ -25,6 +25,7 @@ namespace extensions {
     const char* const kAllowed[] = {
       brave_extension_id,
 #if BUILDFLAG(ETHEREUM_REMOTE_CLIENT_ENABLED)
+      brave_extension_id,
       kEthereumRemoteClientExtensionId,
 #endif
       brave_webtorrent_extension_id

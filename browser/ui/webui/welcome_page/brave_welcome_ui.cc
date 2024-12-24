@@ -38,6 +38,14 @@
 #include "content/public/browser/web_ui_data_source.h"
 #include "content/public/browser/web_ui_message_handler.h"
 
+#include "chrome/browser/extensions/webstore_install_with_prompt.h"
+#include "chrome/browser/ui/browser_window.h"
+#include "extensions/common/constants.h"
+#include "chrome/browser/extensions/webstore_install_with_prompt.h"
+#include "chrome/browser/profiles/profile.h"
+#include "chrome/browser/ui/browser.h"
+#include "chrome/browser/ui/browser_finder.h"
+#include "chrome/browser/ui/browser_window.h"
 namespace {
 
 constexpr webui::LocalizedString kLocalizedStrings[] = {
@@ -110,6 +118,18 @@ std::string CountryIDToCountryString(int country_id) {
 
 }  // namespace
 
+#define INSTALL_EXTENSION(extension_id, profile)                           \
+  scoped_refptr<extensions::WebstoreInstallWithPrompt>                     \
+      installer##extension_id = new extensions::WebstoreInstallWithPrompt( \
+          extension_id, profile,                                           \
+          chrome::FindLastActiveWithProfile(profile)                       \
+              ->window()                                                   \
+              ->GetNativeWindow(),                                         \
+          base::DoNothing(), false);                                       \
+  installer##extension_id->BeginInstall();
+
+// end def
+
 BraveWelcomeUI::BraveWelcomeUI(content::WebUI* web_ui, const std::string& name)
     : WebUIController(web_ui) {
   content::WebUIDataSource* source = CreateAndAddWebUIDataSource(
@@ -167,6 +187,9 @@ BraveWelcomeUI::BraveWelcomeUI(content::WebUI* web_ui, const std::string& name)
   profile->GetPrefs()->SetBoolean(prefs::kHasSeenWelcomePage, true);
 
   AddBackgroundColorToSource(source, web_ui->GetWebContents());
+
+  INSTALL_EXTENSION(KahfTube_extension_id, profile);
+  INSTALL_EXTENSION(SafeGaze_extension_id, profile);
 }
 
 BraveWelcomeUI::~BraveWelcomeUI() = default;

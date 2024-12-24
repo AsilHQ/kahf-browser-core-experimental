@@ -198,7 +198,7 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
           brave_wallet::mojom::DefaultWallet::BraveWalletPreferExtension));
   registry->RegisterStringPref(kDefaultBaseCurrency, "USD");
   registry->RegisterStringPref(kDefaultBaseCryptocurrency, "BTC");
-  registry->RegisterBooleanPref(kShowWalletIconOnToolbar, true);
+  registry->RegisterBooleanPref(kShowWalletIconOnToolbar, false);
   registry->RegisterDictionaryPref(kBraveWalletTransactions);
   registry->RegisterDictionaryPref(kBraveWalletP3AActiveWalletDict);
   registry->RegisterDictionaryPref(kBraveWalletKeyrings);

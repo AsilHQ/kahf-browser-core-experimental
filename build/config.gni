@@ -23,11 +23,11 @@ declare_args() {
   sparkle_eddsa_private_key = ""
   sparkle_eddsa_public_key = ""
 
-  brave_product_name = "brave"
-  brave_exe = ""
-  brave_version_major = ""
-  brave_version_minor = ""
-  brave_version_build = ""
+  brave_product_name = "kahf"
+  brave_exe = "kahf"
+  brave_version_major = "1"
+  brave_version_minor = "0"
+  brave_version_build = "0"
   chrome_version_string = ""
   target_android_base = ""
   target_android_output_format = ""
@@ -109,7 +109,7 @@ if (is_win) {
   if (target_cpu == "x86") {
     _arch = "32"
   }
-  brave_installer_exe = "brave_installer.exe"
+  brave_installer_exe = "kahf_installer.exe"
   brave_stub_installer_exe =
       "BraveBrowser$_channel" + "Setup$_arch$brave_underline_full_version.exe"
   brave_untagged_stub_installer_exe =

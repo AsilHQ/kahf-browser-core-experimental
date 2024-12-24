@@ -12,25 +12,25 @@ import YouTubeFavicon from '../../img/newtab/defaultTopSitesIcon/youtube.png'
 export const defaultTopSitesData = [
   {
     name: 'App Store',
-    url: 'https://itunes.apple.com/app/brave-browser-fast-adblocker/id1052879175?mt=8',
+    url: 'https://apps.apple.com/us/app/asil-browser/id1669467773',
     favicon: AppStoreFavicon,
     background: 'rgba(255,255,255,0.8)'
   },
   {
-    name: 'Brave Software',
-    url: 'https://brave.com',
+    name: 'Halalz',
+    url: 'https://kahf.co',
     favicon: BraveFavicon,
     background: 'rgba(255,255,255,0.8)'
   },
   {
     name: 'Facebook',
-    url: 'https://www.facebook.com/BraveSoftware/',
+    url: 'https://www.facebook.com/asilbrowser/',
     favicon: FacebookFavicon,
     background: 'rgba(255,255,255,0.8)'
   },
   {
     name: 'Play Store',
-    url: 'https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US',
+    url: 'https://play.google.com/store/apps/details?id=org.halalz.asil&hl=en&gl=US',
     favicon: PlayStoreFavicon,
     background: 'rgba(255,255,255,0.8)'
   },
