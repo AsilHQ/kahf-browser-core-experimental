@@ -6,8 +6,6 @@
 import styled from 'styled-components'
 
 export const MainBox = styled.div`
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(15px);
   border-radius: 30px;
   max-width: 800px;
   color: white;
@@ -15,14 +13,13 @@ export const MainBox = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
 
   .view-header-box {
     display: grid;
     grid-template-columns: 0.2fr 1fr 0.2fr;
-    padding: 40px;
     margin-bottom: 50px;
     text-align: center;
+    max-width: 400px;
   }
 
   .view-details {
@@ -30,38 +27,47 @@ export const MainBox = styled.div`
   }
 
   .view-title {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 36px;
     margin: 0 0 18px 0;
+    color:black;
   }
 
   .view-desc {
-    font-weight: 400;
-    font-size: 16px;
+    font-weight: 500;
+    font-size: 14px;
     margin: 0;
+    color:black;
   }
+
+  .right-box{
+  display: flex;
+  flex-direction: column;
+  margin:40px 20px 0 0;
+}
 `
 
 export const BrowserListBox = styled.div`
+  max-width:400px;
   .browser-list {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 56px;
-    grid-gap: 15px;
+    grid-gap: 10px;
+    flex-direction: column;
     flex-wrap: wrap;
+
   }
 
   .browser-item {
     --border-color: transparent;
     background: white;
-    border-radius: 20px;
-    width: 132px;
-    height: 155px;
+    border-radius: 10px;
+    width: 224px;
+    height: 50px;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
-    flex-direction: column;
     color: #212529;
     border: 0;
     box-shadow: 0 0 0 4px var(--border-color);
@@ -73,22 +79,20 @@ export const BrowserListBox = styled.div`
   }
 
   .browser-name {
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 12px;
     margin: 0;
   }
 
   .browser-logo-box {
-    width: 60px;
-    height: 60px;
-    margin-bottom: 10px;
+    width: 35px;
+    height: 40px;
   }
 
   .check-icon-box {
     width: 16px;
     height: 16px;
     position: absolute;
-    top: 14px;
     right: 14px;
   }
 `
@@ -96,13 +100,14 @@ export const BrowserListBox = styled.div`
 export const ActionBox = styled.div`
   display: flex;
   grid-gap: 10px;
-  margin-bottom: 40px;
-
+  flex-direction: column;
+  margin-top:15px;
   button {
     color: white;
   }
 
   button:nth-child(2) {
+    color:black;
     &[disabled] {
       background: rgba(255, 255, 255, 0.14);
       backdrop-filter: blur(8px);

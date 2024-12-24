@@ -6,7 +6,7 @@
 import * as React from 'react'
 
 import * as S from './style'
-import Button from '$web-components/button'
+import Button from '../button/index'
 import classnames from '$web-common/classnames'
 import DataContext from '../../state/context'
 import { ViewType } from '../../state/component_types'
@@ -144,6 +144,7 @@ function SelectBrowser () {
           <p className="view-desc">{getLocale('braveWelcomeImportSettingsDesc')}</p>
         </div>
       </div>
+      <div className="right-box">
       <S.BrowserListBox>
         <div className="browser-list">
           {browserTypes.map((entry, id) => {
@@ -158,23 +159,25 @@ function SelectBrowser () {
           })}
         </div>
       </S.BrowserListBox>
-      <S.ActionBox>
-        <Button
-          isTertiary={true}
-          onClick={handleSkip}
-          scale="jumbo"
-        >
-          {getLocale('braveWelcomeSkipButtonLabel')}
-        </Button>
+        <S.ActionBox>
           <Button
             isPrimary={true}
             isDisabled={!hasSelectedBrowser}
             onClick={handleImport}
-            scale="jumbo"
+            scale="large"
           >
             {getLocale('braveWelcomeImportButtonLabel')}
           </Button>
+        <Button
+          isTertiary={true}
+          onClick={handleSkip}
+          scale="large"
+        >
+          {getLocale('braveWelcomeSkipButtonLabel')}
+        </Button>
+
       </S.ActionBox>
+      </div>
     </S.MainBox>
   )
 }
