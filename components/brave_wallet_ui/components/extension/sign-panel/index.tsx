@@ -78,7 +78,7 @@ interface Props {
 const onClickLearnMore = () => {
   chrome.tabs.create(
     {
-      url: 'https://support.brave.com/hc/en-us/articles/4409513799693'
+      url: 'https://kahf.co/'
     },
     () => {
       if (chrome.runtime.lastError) {

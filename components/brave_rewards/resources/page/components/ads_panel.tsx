@@ -30,7 +30,7 @@ import { AlertIcon } from './icons/alert_icon'
 import * as urls from '../../shared/lib/rewards_urls'
 import * as style from './ads_panel.style'
 
-const adsFaqURL = 'https://support.brave.com/hc/en-us/articles/360026361072-Brave-Ads-FAQ'
+const adsFaqURL = 'https://kahf.co/'
 
 export function AdsPanel () {
   const { getString } = React.useContext(LocaleContext)

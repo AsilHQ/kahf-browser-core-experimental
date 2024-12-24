@@ -1,0 +1,10 @@
+diff a/components/brave_wallet_ui/components/extension/sign-panel/sign-transaction-panel.tsx b/components/brave_wallet_ui/components/extension/sign-panel/sign-transaction-panel.tsx	(rejected hunks)
+@@ -75,7 +75,7 @@ interface Props {
+ 
+ const onClickLearnMore = () => {
+   window.open(
+-    'https://support.brave.com/hc/en-us/articles/4409513799693',
++    'https://kahf.co//articles/4409513799693',
+     '_blank',
+     'noreferrer'
+   )

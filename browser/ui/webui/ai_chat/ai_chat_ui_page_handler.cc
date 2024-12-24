@@ -34,13 +34,13 @@
 namespace {
 constexpr uint32_t kDesiredFaviconSizePixels = 32;
 constexpr char kURLRefreshPremiumSession[] =
-    "https://account.brave.com/?intent=recover&product=leo";
+    "https://kahf.co/";
 constexpr char kURLLearnMoreBraveSearchLeo[] =
-    "https://support.brave.com/hc/en-us/categories/20990938292237-Brave-Leo";
+    "https://kahf.co/";
 #if !BUILDFLAG(IS_ANDROID)
 constexpr char kURLGoPremium[] =
-    "https://account.brave.com/account/?intent=checkout&product=leo";
-constexpr char kURLManagePremium[] = "https://account.brave.com/";
+    "https://kahf.co/";
+constexpr char kURLManagePremium[] = "https://kahf.co/";
 #endif
 }  // namespace
 

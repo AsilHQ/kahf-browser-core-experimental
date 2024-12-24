@@ -75,7 +75,7 @@ function HelpImprove () {
             isChecked={isMetricsReportingEnabled}
           >
             {diagnosticReportsLabel.beforeTag}
-            <a href="https://support.brave.com/hc/en-us/articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank">
+            <a href="https://kahf.co//articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank">
               {diagnosticReportsLabel.duringTag}
             </a>
             {diagnosticReportsLabel.afterTag}
@@ -86,7 +86,7 @@ function HelpImprove () {
             isChecked={isP3AEnabled}
           >
             {braveProductUsageDataLabel.beforeTag}
-            <a href="https://support.brave.com/hc/en-us/articles/9140465918093-What-is-P3A-in-Brave-" target="_blank">
+            <a href="https://kahf.co//articles/9140465918093-What-is-P3A-in-Brave-" target="_blank">
               {braveProductUsageDataLabel.duringTag}
             </a>
             {braveProductUsageDataLabel.afterTag}

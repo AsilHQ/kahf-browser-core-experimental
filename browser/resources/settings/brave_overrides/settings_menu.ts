@@ -280,7 +280,7 @@ RegisterPolymerTemplateModifications({
       'product-sync',
       'braveSync',
     )
-    leoAssistantEl.insertAdjacentElement('afterend', syncEl)
+    // leoAssistantEl.insertAdjacentElement('afterend', syncEl)
 
     // Add search item
     const searchEl = getMenuElement(templateContent, '/search')
