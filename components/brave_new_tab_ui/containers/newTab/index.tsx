@@ -13,7 +13,7 @@ import {
   BraveTalkWidget as BraveTalk, Clock, EditTopSite, OverrideReadabilityColor, RewardsWidget as Rewards, SearchPromotion, VPNWidget
 } from '../../components/default'
 import BrandedWallpaperLogo from '../../components/default/brandedWallpaper/logo'
-import BraveNews, { GetDisplayAdContent } from '../../components/default/braveNews'
+// import BraveNews, { GetDisplayAdContent } from '../../components/default/braveNews'
 import FooterInfo from '../../components/default/footer/footer'
 import * as Page from '../../components/default/page'
 import TopSitesGrid from './gridSites'
@@ -55,7 +55,7 @@ interface Props {
   todayData: BraveNewsState
   braveVPNData: BraveVPNState
   actions: NewTabActions
-  getBraveNewsDisplayAd: GetDisplayAdContent
+  // getBraveNewsDisplayAd: GetDisplayAdContent
   saveShowBackgroundImage: (value: boolean) => void
   saveShowRewards: (value: boolean) => void
   saveShowBraveTalk: (value: boolean) => void
@@ -375,11 +375,11 @@ class NewTabPage extends React.Component<Props, State> {
   }
 
   openSettings = (activeTab?: SettingsTabType) => {
-    // this.props.actions.customizeClicked()
-    // this.setState({
-    //   showSettingsMenu: !this.state.showSettingsMenu,
-    //   activeSettingsTab: activeTab || null
-    // })
+    this.props.actions.customizeClicked()
+    this.setState({
+      showSettingsMenu: !this.state.showSettingsMenu,
+      activeSettingsTab: activeTab || null
+    })
   }
 
   onClickLogo = () => {
@@ -567,7 +567,7 @@ class NewTabPage extends React.Component<Props, State> {
   renderBraveTalkWidget (showContent: boolean, position: number) {
     const { newTabData } = this.props
     const { showBraveTalk, textDirection, braveTalkSupported } = newTabData
-return null
+// return null
     if (!showBraveTalk || !braveTalkSupported) {
       return null
     }
@@ -749,8 +749,8 @@ return null
                   : <BraveNewsHint />)}
               </Page.GridItemPageFooter>
           </Page.Page>
-        {false && newTabData.showToday &&
-        <BraveNews
+        {/* {false && newTabData.showToday &&
+       { false && <BraveNews
           feed={this.props.todayData.feed}
           articleToScrollTo={this.props.todayData.articleScrollTo}
           displayAdToScrollTo={this.props.todayData.displayAdToScrollTo}
@@ -763,7 +763,7 @@ return null
           onRefresh={this.props.actions.today.refresh}
           onAnotherPageNeeded={this.props.actions.today.anotherPageNeeded}
           onFeedItemViewedCountChanged={this.props.actions.today.feedItemViewedCountChanged}
-          onCustomizeBraveNews={() => { this.openSettings(SettingsTabType.BraveNews) }}
+          // onCustomizeBraveNews={() => { this.openSettings(SettingsTabType.BraveNews) }}
           onReadFeedItem={this.props.actions.today.readFeedItem}
           onPromotedItemViewed={this.props.actions.today.promotedItemViewed}
           onSetPublisherPref={this.props.actions.today.setPublisherPref}
@@ -771,9 +771,9 @@ return null
           onViewedDisplayAd={this.props.actions.today.displayAdViewed}
           onVisitDisplayAd={this.props.actions.today.visitDisplayAd}
           getDisplayAd={this.props.getBraveNewsDisplayAd}
-        />
-        }
-        {showStats && false && <Settings
+        />}
+        } */}
+        <Settings
           textDirection={newTabData.textDirection}
           showSettingsMenu={showSettingsMenu}
           featureCustomBackgroundEnabled={newTabData.featureCustomBackgroundEnabled}
@@ -803,7 +803,7 @@ return null
           toggleCards={this.props.saveSetAllStackWidgets}
           newTabData={this.props.newTabData}
           onEnableRewards={this.startRewards}
-          />}
+          />
         {
           showEditTopSite
             ? <EditTopSite

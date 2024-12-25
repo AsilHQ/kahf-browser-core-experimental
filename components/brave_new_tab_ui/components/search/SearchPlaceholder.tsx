@@ -46,11 +46,11 @@ const PlaceholderContainer = styled.div`
   
   border-radius: ${searchBoxRadius};
   
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 4px 0px 0px rgba(0, 0, 0, 0);
   
   &:hover ${MenuContainer} {
     transition-delay: 0s;
-    opacity: 1;
+    opacity: 5;
   }
 `
 

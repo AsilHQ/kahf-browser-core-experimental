@@ -14,7 +14,7 @@ import NewTabPage from './newTab'
 
 // Utils
 import * as PreferencesAPI from '../api/preferences'
-import getBraveNewsController from '../../brave_news/browser/resources/shared/api'
+// import getBraveNewsController from '../../brave_news/browser/resources/shared/api'
 import getNTPBrowserAPI from '../api/background'
 import { getActionsForDispatch } from '../api/getActions'
 
@@ -32,9 +32,9 @@ interface Props {
   braveVPNData: BraveVPNState
 }
 
-const getBraveNewsDisplayAd = function GetBraveNewsDisplayAd () {
-  return getBraveNewsController().getDisplayAd()
-}
+// const getBraveNewsDisplayAd = function GetBraveNewsDisplayAd () {
+//   return getBraveNewsController().getDisplayAd()
+// }
 
 function DefaultPage (props: Props) {
   const { newTabData, braveNewsData, braveVPNData, gridSitesData, actions } = props
@@ -56,7 +56,7 @@ function DefaultPage (props: Props) {
       saveShowBraveTalk={PreferencesAPI.saveShowBraveTalk}
       saveBrandedWallpaperOptIn={PreferencesAPI.saveBrandedWallpaperOptIn}
       saveSetAllStackWidgets={PreferencesAPI.saveSetAllStackWidgets}
-      getBraveNewsDisplayAd={getBraveNewsDisplayAd}
+      // getBraveNewsDisplayAd={getBraveNewsDisplayAd}
       chooseNewCustomBackgroundImage={() => getNTPBrowserAPI().pageHandler.chooseLocalCustomBackground() }
       setCustomImageBackground={background => getNTPBrowserAPI().pageHandler.useCustomImageBackground(background) }
       removeCustomImageBackground={background => getNTPBrowserAPI().pageHandler.removeCustomImageBackground(background) }

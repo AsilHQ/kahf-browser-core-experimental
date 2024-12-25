@@ -24,10 +24,7 @@ import styled from 'styled-components'
 
 // Tabs
 const BackgroundImageSettings = React.lazy(() => import('./settings/backgroundImage'))
-const BraveStatsSettings = React.lazy(() => import('./settings/braveStats'))
 const TopSitesSettings = React.lazy(() => import('./settings/topSites'))
-const ClockSettings = React.lazy(() => import('./settings/clock'))
-const CardsSettings = React.lazy(() => import('./settings/cards'))
 const SearchSettings = React.lazy(() => import('./settings/search'))
 
 export const SettingsDialog = styled(Dialog)`
@@ -78,11 +75,7 @@ export interface Props {
 
 export enum TabType {
   BackgroundImage = 'backgroundImage',
-  BraveStats = 'braveStats',
   TopSites = 'topSites',
-  BraveNews = 'braveNews',
-  Clock = 'clock',
-  Cards = 'cards',
   Search = 'search'
 }
 
@@ -91,21 +84,13 @@ const tabTypes = Object.values(TabType)
 type TabMap<T> = { [P in TabType]: T }
 const tabIcons: TabMap<string> = {
   [TabType.BackgroundImage]: 'image',
-  [TabType.BraveNews]: 'product-brave-news',
-  [TabType.BraveStats]: 'bar-chart',
-  [TabType.Clock]: 'clock',
   [TabType.TopSites]: 'window-content',
-  [TabType.Cards]: 'browser-ntp-widget',
   [TabType.Search]: 'search'
 }
 
 const tabTranslationKeys: TabMap<string> = {
   [TabType.BackgroundImage]: 'backgroundImageTitle',
-  [TabType.BraveNews]: 'braveNewsTitle',
-  [TabType.BraveStats]: 'statsTitle',
-  [TabType.Clock]: 'clockTitle',
   [TabType.TopSites]: 'topSitesTitle',
-  [TabType.Cards]: 'cards',
   [TabType.Search]: 'searchTitle'
 }
 
@@ -116,15 +101,11 @@ export default function Settings(props: Props) {
     (featureFlagSearchWidget || t !== TabType.Search)), [props.allowBackgroundCustomization])
   const [activeTab, setActiveTab] = React.useState(props.allowBackgroundCustomization
     ? TabType.BackgroundImage
-    : TabType.BraveStats)
-  const { customizePage, setCustomizePage } = useBraveNews()
+    : TabType.TopSites
+  )
+  const { customizePage } = useBraveNews()
 
   const changeTab = React.useCallback((tab: TabType) => {
-    if (tab === TabType.BraveNews) {
-      setCustomizePage('news')
-      return
-    }
-
     setActiveTab(tab)
   }, [])
 
@@ -170,23 +151,11 @@ export default function Settings(props: Props) {
             onEnableRewards={props.onEnableRewards}
             braveRewardsSupported={props.braveRewardsSupported}
           />}
-          {activeTab === TabType.BraveStats && <BraveStatsSettings />}
           {activeTab === TabType.TopSites && <TopSitesSettings
             toggleShowTopSites={props.toggleShowTopSites}
             showTopSites={props.showTopSites}
             customLinksEnabled={props.customLinksEnabled}
             setMostVisitedSettings={props.setMostVisitedSettings}
-          />}
-          {activeTab === TabType.Clock && <ClockSettings />}
-          {activeTab === TabType.Cards && <CardsSettings
-            toggleCards={props.toggleCards}
-            cardsHidden={props.cardsHidden}
-            toggleShowBraveTalk={props.toggleShowBraveTalk}
-            showBraveTalk={props.showBraveTalk}
-            braveTalkSupported={props.braveTalkSupported}
-            toggleShowRewards={props.toggleShowRewards}
-            braveRewardsSupported={props.braveRewardsSupported}
-            showRewards={props.showRewards}
           />}
           {activeTab === TabType.Search && <SearchSettings />}
         </React.Suspense>
