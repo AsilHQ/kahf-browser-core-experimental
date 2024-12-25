@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="zh-CN">
-<translation id="970556510921078939">打开 Brave 密码管理工具，然后前往“设置”。选择“导入”，然后添加包含您已导出密码的 CSV 文件。</translation>
+<translation id="970556510921078939">打开 Kahf 密码管理工具，然后前往“设置”。选择“导入”，然后添加包含您已导出密码的 CSV 文件。</translation>
 <translation id="1011749477052068769">移至这里</translation>
 <translation id="1014147525163127655">在此设备上未发现 <ph name="ORIGIN"/> 的任何通行密钥</translation>
 <translation id="1016498331642356377">使用语音快速搜索。若要修改此快捷方式，请轻触并按住这里。</translation>
@@ -21,7 +21,7 @@
 <translation id="1094555143448724771">如需查看您在其他设备中打开的标签页，请同步您的标签页和历史记录</translation>
 <translation id="1095761715416917775">确保您可以随时访问自己的同步数据</translation>
 <translation id="1100066534610197918">在群组内的新标签页中打开</translation>
-<translation id="4660777881054855091">帮助改进 Brave？</translation>
+<translation id="4660777881054855091">帮助改进 Kahf？</translation>
 <translation id="1105960400813249514">屏幕截图</translation>
 <translation id="1108214977745280468">查看网页数据洞见</translation>
 <translation id="1108938384783527433">历史记录同步</translation>
@@ -74,8 +74,8 @@
 <translation id="1320912611264252795">书签保存流程文件夹已全屏打开</translation>
 <translation id="1327257854815634930">导航历史记录已打开</translation>
 <translation id="1328235593824723509"><ph name="TAB_TITLE"/>，新标签页或更新后的标签页</translation>
-<translation id="6773423637732432200">Brave 无法更新。更多选项</translation>
-<translation id="3169981355900570544">Brave 功能快捷键</translation>
+<translation id="6773423637732432200">Kahf 无法更新。更多选项</translation>
+<translation id="3169981355900570544">Kahf 功能快捷键</translation>
 <translation id="1333491156693005331">近期检查过</translation>
 <translation id="1336996151357442890">已退订 <ph name="SITE_NAME"/>。当您下次访问时，系统会再次询问您。</translation>
 <translation id="1344653310988386453">包含指向突出显示的内容的链接</translation>
@@ -123,19 +123,19 @@
 <translation id="1513814250881909472">同步即可查看您在其他设备上打开的标签页</translation>
 <translation id="1513858653616922153">删除密码</translation>
 <translation id="1521774566618522728">今天曾有活动</translation>
-<translation id="5840742727909553422">有新版 Brave 可用</translation>
-<translation id="3748360913454941567">付款方式和地址不会加密。Brave 中的浏览记录不会同步。
-只有知道您口令的人能读取您的加密数据。该口令不会发送给 Brave，也不会被 Brave 存储。如果您忘记了该口令或想更改此设置，请<ph name="BEGIN_LINK"/>清除您账号中的 Brave 数据<ph name="END_LINK"/>。</translation>
-<translation id="8090895580117672212">要管理您的 Brave 账号，请点按“管理账号”按钮</translation>
+<translation id="5840742727909553422">有新版 Kahf 可用</translation>
+<translation id="3748360913454941567">付款方式和地址不会加密。Kahf 中的浏览记录不会同步。
+只有知道您口令的人能读取您的加密数据。该口令不会发送给 Kahf，也不会被 Kahf 存储。如果您忘记了该口令或想更改此设置，请<ph name="BEGIN_LINK"/>清除您账号中的 Kahf 数据<ph name="END_LINK"/>。</translation>
+<translation id="8090895580117672212">要管理您的 Kahf 账号，请点按“管理账号”按钮</translation>
 <translation id="154513667535157406">选择“我喜欢”，提交您喜欢此摘要的反馈</translation>
 <translation id="1549000191223877751">移至其他窗口</translation>
-<translation id="1705567146636171298">更新 Brave</translation>
+<translation id="1705567146636171298">更新 Kahf</translation>
 <translation id="1568636008098739136">读出此网页的内容。如要修改此快捷方式，请轻触并按住这里。</translation>
 <translation id="1571304935088121812">复制用户名</translation>
-<translation id="1668445593689059872">目前，此设备上保存的密码无法跨 Brave 渠道使用。Brave 125 之后，您设备上分别为 Brave 和 <ph name="CHROME_CHANNEL"/>保存的密码将会合并，在这两个应用内均可使用。</translation>
+<translation id="1668445593689059872">目前，此设备上保存的密码无法跨 Kahf 渠道使用。Kahf 125 之后，您设备上分别为 Kahf 和 <ph name="CHROME_CHANNEL"/>保存的密码将会合并，在这两个应用内均可使用。</translation>
 <translation id="1594635596540195766">下方列表中有 <ph name="SUGGESTIONS_COUNT"/> 项建议的内容。</translation>
 <translation id="1598163867407640634">通过 <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> 使用 <ph name="SITE_ETLD_PLUS_ONE"/></translation>
-<translation id="1851107663393500801">当此设置处于开启状态时，系统会将数据保存在您的 Brave 账号中并使用这些数据。当此设置处于关闭状态时，数据只会保存在此设备上。</translation>
+<translation id="1851107663393500801">当此设置处于开启状态时，系统会将数据保存在您的 Kahf 账号中并使用这些数据。当此设置处于关闭状态时，数据只会保存在此设备上。</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{移除 1 个所选项}other{移除 # 个所选项}}</translation>
 <translation id="1641113438599504367">安全浏览</translation>
 <translation id="164269334534774161">您目前浏览的是此网页的离线副本（创建时间：<ph name="CREATION_TIME"/>）</translation>
@@ -144,8 +144,8 @@
 <translation id="1670399744444387456">基本</translation>
 <translation id="1671236975893690980">正在等待下载…</translation>
 <translation id="1672586136351118594">不再显示</translation>
-<translation id="1680919990519905526">使用 Brave 智能镜头搜索图中商品信息<ph name="BEGIN_NEW"/>新<ph name="END_NEW"/></translation>
-<translation id="7870200641233500458">不久之后，您就会在“已关注”部分中看到来自<ph name="SITE_NAME"/>及与其相关的内容。您关注的网站和搜索内容会保存在您的 Brave 账号中。您可随时在设置中管理您关注的内容。</translation>
+<translation id="1680919990519905526">使用 Kahf 智能镜头搜索图中商品信息<ph name="BEGIN_NEW"/>新<ph name="END_NEW"/></translation>
+<translation id="7870200641233500458">不久之后，您就会在“已关注”部分中看到来自<ph name="SITE_NAME"/>及与其相关的内容。您关注的网站和搜索内容会保存在您的 Kahf 账号中。您可随时在设置中管理您关注的内容。</translation>
 <translation id="1689333818294560261">别名</translation>
 <translation id="1696555181932908973">您可以尝试在 <ph name="SITE_ETLD_PLUS_ONE"/> 上通过其他方法继续操作。</translation>
 <translation id="1702543251015153180">更改您的深色主题设置？</translation>
@@ -223,7 +223,7 @@
 <translation id="2067805253194386918">文本</translation>
 <translation id="2079545284768500474">撤消</translation>
 <translation id="2082238445998314030">第 <ph name="RESULT_NUMBER"/> 条结果，共 <ph name="TOTAL_RESULTS"/> 条</translation>
-<translation id="8992364521253636633">如需完成自动填充设置，请立即重启 Brave。您的标签页将会自动重新打开。</translation>
+<translation id="8992364521253636633">如需完成自动填充设置，请立即重启 Kahf。您的标签页将会自动重新打开。</translation>
 <translation id="2091863218454846791">当前显示的是精简视图</translation>
 <translation id="2093731487903423814">过去 15 分钟</translation>
 <translation id="2096012225669085171">在所有设备上保持同步，获享个性化体验</translation>
@@ -248,17 +248,17 @@
 <translation id="218608176142494674">共享</translation>
 <translation id="2194856509914051091">注意事项</translation>
 <translation id="22091350895006575">添加用户名</translation>
-<translation id="4075202346699640887">如果在不设置个人资料锁定的情况下打开 Brave，您已保存的密码和付款方式将会从这部车载设备中移除。使用个人资料锁定功能可确保此类数据安全。</translation>
+<translation id="4075202346699640887">如果在不设置个人资料锁定的情况下打开 Kahf，您已保存的密码和付款方式将会从这部车载设备中移除。使用个人资料锁定功能可确保此类数据安全。</translation>
 <translation id="2227444325776770048">以“<ph name="USER_FULL_NAME"/>”的身份继续</translation>
 <translation id="2230777942707397948">空白窗口</translation>
 <translation id="223356358902285214">网络与应用活动记录</translation>
 <translation id="2234827758954819389">隐私保护指南</translation>
 <translation id="2239812875700136898">通过“‘探索’功能的选项”按钮控制您的报道</translation>
 <translation id="2247789808226901522">银行卡已过期</translation>
-<translation id="4808014761134300692">系统会先在设备上对您的密码进行加密，然后再将其保存到 Brave 密码管理工具中</translation>
+<translation id="4808014761134300692">系统会先在设备上对您的密码进行加密，然后再将其保存到 Kahf 密码管理工具中</translation>
 <translation id="2249635629516220541">自定义网站可用来向您投放广告的信息</translation>
 <translation id="2259659629660284697">导出密码…</translation>
-<translation id="781982477617612877">您需要先登录 Brave 账号才能检查您的密码</translation>
+<translation id="781982477617612877">您需要先登录 Kahf 账号才能检查您的密码</translation>
 <translation id="2278052315791335171">删除此密码不会删除您在 <ph name="SITE"/> 上的账号</translation>
 <translation id="2286841657746966508">账单邮寄地址</translation>
 <translation id="228704530595896923">分享选项列表。</translation>
@@ -273,8 +273,8 @@
 <translation id="2332515770639153015">“增强型安全浏览”已开启</translation>
 <translation id="233375395665273385">删除数据并退出账号</translation>
 <translation id="2341410551640223969">无法安装 <ph name="WEBAPK_NAME"/>。</translation>
-<translation id="3587672679800759167">Brave 所使用的数据总量，包括账号、书签和已保存的设置</translation>
-<translation id="2767094839186957509">Brave 隐私权政策</translation>
+<translation id="3587672679800759167">Kahf 所使用的数据总量，包括账号、书签和已保存的设置</translation>
+<translation id="2767094839186957509">Kahf 隐私权政策</translation>
 <translation id="2359808026110333948">继续</translation>
 <translation id="2362083820973145409">您已使用<ph name="USER_NAME"/>的身份登录。<ph name="USER_EMAIL"/>。打开设置。</translation>
 <translation id="2366554533468315977">此选项的网上历史价格</translation>
@@ -352,7 +352,7 @@
 <translation id="2669454659051515572">任何使用此设备的用户都能看到已下载的文件</translation>
 <translation id="2702516483241149200">新功能：可分享能够定位到此文本的链接</translation>
 <translation id="2705073298859543115">创建摘要</translation>
-<translation id="3769942772151914580">根据系统向 Brave 发送的浏览数据，实时地主动保护您免受危险网站、下载内容和扩展程序的侵害</translation>
+<translation id="3769942772151914580">根据系统向 Kahf 发送的浏览数据，实时地主动保护您免受危险网站、下载内容和扩展程序的侵害</translation>
 <translation id="2708226184420201102">在 <ph name="PRODUCT_NAME"/> 浏览器中打开</translation>
 <translation id="271033894570825754">新</translation>
 <translation id="2718352093833049315">仅限使用 Wi-Fi 时</translation>
@@ -363,36 +363,36 @@
 <translation id="2760989362628427051">在设备开启深色主题背景或省电模式时启用深色主题背景</translation>
 <translation id="2762000892062317888">刚刚</translation>
 <translation id="276969039800130567">您已用 <ph name="USER_EMAIL_ADDRESS"/> 的身份登录。</translation>
-<translation id="8312774691909088652">如需了解更多与隐私、安全和数据收集相关的设置，请前往 <ph name="BEGIN_LINK"/>Brave 服务<ph name="END_LINK"/>部分</translation>
+<translation id="8312774691909088652">如需了解更多与隐私、安全和数据收集相关的设置，请前往 <ph name="BEGIN_LINK"/>Kahf 服务<ph name="END_LINK"/>部分</translation>
 <translation id="2777555524387840389">还剩 <ph name="SECONDS"/> 秒</translation>
 <translation id="2779651927720337254">失败</translation>
 <translation id="2781151931089541271">还剩 1 秒</translation>
 <translation id="2789486458103222910">确定</translation>
 <translation id="2800066122460699237">系统将会关闭标签页“<ph name="TAB_TITLE"/>”</translation>
 <translation id="2805756323405976993">应用</translation>
-<translation id="7068873021383263704">查看和管理您的 <ph name="BEGIN_LINK"/>Brave 账号<ph name="END_LINK"/>中保存的密码</translation>
+<translation id="7068873021383263704">查看和管理您的 <ph name="BEGIN_LINK"/>Kahf 账号<ph name="END_LINK"/>中保存的密码</translation>
 <translation id="2819849308549746319">全部退订</translation>
 <translation id="2827278682606527653">动态卡片上的菜单已半屏打开</translation>
 <translation id="2830783625999891985">已隐藏剪贴板内容</translation>
-<translation id="9087158967432747643">设置、Brave 账号错误</translation>
+<translation id="9087158967432747643">设置、Kahf 账号错误</translation>
 <translation id="2838367486340230368">隐私保护指南说明已半屏打开</translation>
 <translation id="2839327205551510876">已取消关注“<ph name="SITE_NAME"/>”</translation>
 <translation id="2841216154655874070">{NUM_DAYS,plural, =1{1 天前检查过}other{# 天前检查过}}</translation>
 <translation id="2842985007712546952">父文件夹</translation>
-<translation id="6324134303015966238">Brave 会预加载您可能访问的网页，以便提高这些网页在您访问时的加载速度</translation>
+<translation id="6324134303015966238">Kahf 会预加载您可能访问的网页，以便提高这些网页在您访问时的加载速度</translation>
 <translation id="2855243985454069333">从所有已同步的设备中删除历史记录</translation>
 <translation id="2856503607207334158">登录失败</translation>
 <translation id="2860954141821109167">请确保已在此设备上启用了一款电话应用</translation>
-<translation id="6518254564747115579">部分 Brave 功能将不再可用</translation>
+<translation id="6518254564747115579">部分 Kahf 功能将不再可用</translation>
 <translation id="2869430948265924908">为了保护您在车载系统上存放的敏感内容，您必须设置一种车载系统个人资料锁定方式。为此，您可以使用 PIN 码、验证码或密码。</translation>
 <translation id="2870560284913253234">网站</translation>
 <translation id="2871733351037274014">预加载网页</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME"/>请求您批准访问此网站：</translation>
-<translation id="6756656512757374876">详细了解 <ph name="BEGIN_LINK"/>Brave 如何确保您数据的私密性<ph name="END_LINK"/></translation>
+<translation id="6756656512757374876">详细了解 <ph name="BEGIN_LINK"/>Kahf 如何确保您数据的私密性<ph name="END_LINK"/></translation>
 <translation id="2883644600102358131">此设备上的密码即将失效。如需继续使用这些密码，请更新 Google Play 服务。</translation>
-<translation id="8541922081612557424">关于 Brave</translation>
+<translation id="8541922081612557424">关于 Kahf</translation>
 <translation id="2891154217021530873">停止加载网页</translation>
-<translation id="4013614219085422040">Brave 可能会利用您的历史记录为您提供个性化的 Brave 搜索和其他 Brave 服务</translation>
+<translation id="4013614219085422040">Kahf 可能会利用您的历史记录为您提供个性化的 Kahf 搜索和其他 Kahf 服务</translation>
 <translation id="2894821468041866720">不会致使浏览器或设备的运行速度明显变慢。</translation>
 <translation id="2895521649038438824">您可以聆听此页面</translation>
 <translation id="2899252057552912621">由于未安装 Google Play 服务，已保存的密码即将失效。在此之前，请复制这些密码。</translation>
@@ -481,7 +481,7 @@
 <translation id="3269093882174072735">加载图片</translation>
 <translation id="327204079441056603">我们更改了此设备上的密码保存方式</translation>
 <translation id="3280562213547448728">语音搜索</translation>
-<translation id="82609232232243542">登录 Brave</translation>
+<translation id="82609232232243542">登录 Kahf</translation>
 <translation id="3285065882678541460">{TAB_COUNT,plural, =1{<ph name="TAB_GROUPS_PART"/>、<ph name="TAB_COUNT_ONE"/> 个标签页}other{<ph name="TAB_GROUPS_PART"/>、<ph name="TAB_COUNT_MANY"/> 个标签页}}</translation>
 <translation id="3293181007446299124">您的浏览记录会私密地保留在您的设备上，并且系统会延迟发送报告以保护您的身份信息</translation>
 <translation id="3302615849591357577">将标签页分组“<ph name="TITLE_OF_GROUP"/>”（颜色为<ph name="COLOR_NAME"/>）恢复为新的背景标签页分组。</translation>
@@ -495,11 +495,11 @@
 <translation id="3351165113450806415">全新滑动方式</translation>
 <translation id="3359667936385849800">使用您当前的服务提供商</translation>
 <translation id="3373701465337594448">开启此设置后，这里会列出您访问过的哪些网站会推测您的兴趣</translation>
-<translation id="8801234437789558906">您的书签、历史记录、密码和其他 Brave 数据将不再同步到您的 Brave 账号中</translation>
+<translation id="8801234437789558906">您的书签、历史记录、密码和其他 Kahf 数据将不再同步到您的 Kahf 账号中</translation>
 <translation id="3384347053049321195">分享图片</translation>
 <translation id="3387650086002190359">未能成功下载 <ph name="FILE_NAME"/>，因为文件系统出现了错误。</translation>
 <translation id="3398320232533725830">打开书签管理器</translation>
-<translation id="1081508498128395141">预加载更多网页。被其他网站请求的网页可能会通过 Brave 服务器预加载。</translation>
+<translation id="1081508498128395141">预加载更多网页。被其他网站请求的网页可能会通过 Kahf 服务器预加载。</translation>
 <translation id="3414952576877147120">大小：</translation>
 <translation id="3421726884497337397">选择何时屏蔽第三方 Cookie</translation>
 <translation id="342220687432920852">{HOURS,plural, =1{# 小时前}other{# 小时前}}</translation>
@@ -509,7 +509,7 @@
 <translation id="3439276997620616816">此处会显示您近期关闭的标签页</translation>
 <translation id="3443221991560634068">重新加载当前网页</translation>
 <translation id="3444179773590444986">针对为网站开启深色主题分享反馈？</translation>
-<translation id="7384339501748168186">为保护您的隐私，Brave 不会在此字段中自动填充您的密码。</translation>
+<translation id="7384339501748168186">为保护您的隐私，Kahf 不会在此字段中自动填充您的密码。</translation>
 <translation id="3467081767799433066">启用广告衡量功能后，为了衡量各自的广告效果，网站之间会分享有限类型的数据，例如您在访问某个网站后是否购买了商品。</translation>
 <translation id="3474624961160222204">继续以<ph name="NAME"/>的身份使用</translation>
 <translation id="3478363558367712427">您可自行选择要使用的搜索引擎</translation>
@@ -575,10 +575,10 @@
 <translation id="3740525748616366977">无法在此设备上使用语音搜索</translation>
 <translation id="376561056759077985">部分数据尚未保存</translation>
 <translation id="3771290962915251154">此设置已被停用，因为开启了“家长控制”功能</translation>
-<translation id="1138681184697033370">Brave 服务条款</translation>
+<translation id="1138681184697033370">Kahf 服务条款</translation>
 <translation id="3775705724665058594">发送到您的设备</translation>
 <translation id="3777796259512476958">会致使您从大多数网站退出账号</translation>
-<translation id="3243177302419415164">Brave 密码管理工具将停止在此设备上运行</translation>
+<translation id="3243177302419415164">Kahf 密码管理工具将停止在此设备上运行</translation>
 <translation id="3791957072666773229">{TAB_COUNT,plural, =1{1 个标签页}other{# 个标签页}}</translation>
 <translation id="3795154175078851242">复制图片且含链接</translation>
 <translation id="3810838688059735925">视频</translation>
@@ -607,8 +607,8 @@
 <translation id="393697183122708255">无法启用语音搜索功能</translation>
 <translation id="3950820424414687140">登录</translation>
 <translation id="395377504920307820">在不登录账号的情况下使用</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{待准备就绪后，Brave 即会加载您的网页}other{待准备就绪后，Brave 即会加载您的网页}}</translation>
-<translation id="1453002554835005700">Brave 无法检查您的密码</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{待准备就绪后，Kahf 即会加载您的网页}other{待准备就绪后，Kahf 即会加载您的网页}}</translation>
+<translation id="1453002554835005700">Kahf 无法检查您的密码</translation>
 <translation id="3969863827134279083">上移</translation>
 <translation id="397105322502079400">正在计算...</translation>
 <translation id="397583555483684758">同步功能已停止工作</translation>
@@ -645,11 +645,11 @@
 <translation id="4108314971463891922">关注</translation>
 <translation id="4113030288477039509">由您的管理员管理</translation>
 <translation id="4116038641877404294">下载网页以便离线查看</translation>
-<translation id="37459938731864814">您不需要记住此密码。系统会将它保存到 <ph name="USERNAME"/> 的 Brave 密码管理工具中。</translation>
+<translation id="37459938731864814">您不需要记住此密码。系统会将它保存到 <ph name="USERNAME"/> 的 Kahf 密码管理工具中。</translation>
 <translation id="4124152339699379357">通知权限流程已全屏打开</translation>
 <translation id="4135200667068010335">要与之分享标签页的设备的列表已关闭。</translation>
 <translation id="4137746084635924146">当前设备语言</translation>
-<translation id="2244754938072041239">Brave Canary 版</translation>
+<translation id="2244754938072041239">Kahf Canary 版</translation>
 <translation id="414128724510021958">默认请求桌面版网站</translation>
 <translation id="4162867837470729563">分享选项列表已全屏打开。</translation>
 <translation id="4170011742729630528">此服务目前无法使用，请稍后再试。</translation>
@@ -660,22 +660,22 @@
 <translation id="4195643157523330669">在新标签页中打开</translation>
 <translation id="4197828496439691735">{NUM_TABS,plural, =1{此设备上的 1 个标签页}other{此设备上的 # 个标签页}}</translation>
 <translation id="4198423547019359126">没有可用的下载内容保存位置</translation>
-<translation id="1675646381334855139">如果您允许使用 Cookie，Brave 便可能会使用 Cookie 进行预加载。</translation>
+<translation id="1675646381334855139">如果您允许使用 Cookie，Kahf 便可能会使用 Cookie 进行预加载。</translation>
 <translation id="4216511743389425832">读出此网页的内容</translation>
 <translation id="4225725533026049334">已关注</translation>
 <translation id="4225895483398857530">工具栏中的快捷方式</translation>
 <translation id="4232376164796433044">密码和自动填充</translation>
 <translation id="4242533952199664413">打开“设置”</translation>
 <translation id="4248098802131000011">确保您的密码免受数据泄露和其他安全问题的侵害</translation>
-<translation id="7445061995866044926">退出 Brave？</translation>
+<translation id="7445061995866044926">退出 Kahf？</translation>
 <translation id="4249955472157341256">按新近度排序</translation>
 <translation id="4256782883801055595">开放源代码许可</translation>
-<translation id="7404502124231907662">从 Brave 密码管理工具中删除密码？</translation>
+<translation id="7404502124231907662">从 Kahf 密码管理工具中删除密码？</translation>
 <translation id="426652736638196239">此 IBAN 将仅保存到这部设备上</translation>
 <translation id="4269820728363426813">复制链接地址</translation>
 <translation id="4270730597186910506">跟踪或取消跟踪商品。</translation>
 <translation id="4277529130885813215">换一部设备</translation>
-<translation id="6553929648301062677">贵组织 (<ph name="MANAGED_DOMAIN"/>) 负责管理您登录的账号和 Brave 的使用方式。您的管理员可以设置或限制某些功能。</translation>
+<translation id="6553929648301062677">贵组织 (<ph name="MANAGED_DOMAIN"/>) 负责管理您登录的账号和 Kahf 的使用方式。您的管理员可以设置或限制某些功能。</translation>
 <translation id="4285846616383034558">Cookie、缓存和其他网站数据</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>在 Android 设置中开启“屏幕锁定”功能<ph name="END_LINK"/></translation>
 <translation id="4298388696830689168">已关联的网站</translation>
@@ -701,7 +701,7 @@
 <translation id="4409014848144759297"><ph name="WEBSITE_TITLE"/>及另外 <ph name="TAB_COUNT"/> 个标签页</translation>
 <translation id="4409271659088619928">您所用的搜索引擎是<ph name="DSE"/>。请查看它的相关说明，了解如何删除您的搜索记录（若适用）。</translation>
 <translation id="4414179633735763985">已删除 <ph name="TAB_GROUPS_AND_TABS_PART"/></translation>
-<translation id="5749788945734786627">管理您的 Brave 账号</translation>
+<translation id="5749788945734786627">管理您的 Kahf 账号</translation>
 <translation id="4425140285732600465">正在跟踪价格。当任一网站上的商品降价时，您会收到提醒。</translation>
 <translation id="4425173294238317796">通行密钥确认工作表</translation>
 <translation id="442518031075347249">您将无法再通过 Google Pay 使用此虚拟卡。<ph name="BEGIN_LINK1"/>详细了解虚拟卡<ph name="END_LINK1"/></translation>
@@ -796,26 +796,26 @@
 <translation id="4826163340425232009">用于进行登录的底部工作表。</translation>
 <translation id="4834007576107377210">查看您所用搜索引擎的说明，了解如何删除您的搜索记录（若适用）</translation>
 <translation id="4834250788637067901">Google Pay 中存储的付款方式、优惠和地址信息</translation>
-<translation id="2593289874938379417">Brave 无权访问请求的资源。</translation>
+<translation id="2593289874938379417">Kahf 无权访问请求的资源。</translation>
 <translation id="483742037940503070">{TAB_COUNT,plural, =1{将包含 <ph name="TAB_COUNT_ONE"/> 个标签页（颜色为<ph name="COLOR_NAME"/>）的标签页分组恢复为新的背景标签页分组。}other{将包含 <ph name="TAB_COUNT_MANY"/> 个标签页（颜色为<ph name="COLOR_NAME"/>）的标签页分组恢复为新的背景标签页分组。}}</translation>
 <translation id="4837753911714442426">打开选项以打印网页</translation>
 <translation id="4842092870884894799">目前显示的是密码生成弹出式窗口</translation>
-<translation id="6195403640086187022">为了提高安全性，请先在设备上对密码进行加密，然后再将其保存到 Brave 密码管理工具中</translation>
+<translation id="6195403640086187022">为了提高安全性，请先在设备上对密码进行加密，然后再将其保存到 Kahf 密码管理工具中</translation>
 <translation id="4850886885716139402">查看</translation>
 <translation id="4852014461738377247">正在登录\u2026</translation>
 <translation id="4860895144060829044">致电</translation>
 <translation id="4864369630010738180">正在登录…</translation>
-<translation id="5131234170665854056">无法为 Brave 安装<ph name="MODULE"/></translation>
+<translation id="5131234170665854056">无法为 Kahf 安装<ph name="MODULE"/></translation>
 <translation id="4871568871368204250">关闭同步功能</translation>
-<translation id="2875466387677348954">关闭此功能后，您仍会看到 Brave 在本地提供的建议</translation>
+<translation id="2875466387677348954">关闭此功能后，您仍会看到 Kahf 在本地提供的建议</translation>
 <translation id="4875775213178255010">内容建议</translation>
 <translation id="4878404682131129617">未能成功通过代理服务器建立隧道</translation>
 <translation id="4880127995492972015">翻译…</translation>
 <translation id="4881695831933465202">打开</translation>
 <translation id="488187801263602086">重命名文件</translation>
-<translation id="1248710015876067820">Brave 实例数量已超出上限。</translation>
+<translation id="1248710015876067820">Kahf 实例数量已超出上限。</translation>
 <translation id="4905823827770127520">包含页面链接</translation>
-<translation id="3217997482476578430">Brave 探索</translation>
+<translation id="3217997482476578430">Kahf 探索</translation>
 <translation id="4910889077668685004">付款应用</translation>
 <translation id="4912413785358399818">移动标签页</translation>
 <translation id="4913169188695071480">停止刷新</translation>
@@ -852,13 +852,13 @@
 <translation id="5039804452771397117">允许</translation>
 <translation id="5040262127954254034">隐私权</translation>
 <translation id="504456571576643789">注意事项</translation>
-<translation id="4858031288914533863">当您登录后，系统可能会将<ph name="BEGIN_LINK1"/>其他形式的活动记录<ph name="END_LINK1"/>保存在您的 Brave 账号中。您可以随时删除这些记录。</translation>
+<translation id="4858031288914533863">当您登录后，系统可能会将<ph name="BEGIN_LINK1"/>其他形式的活动记录<ph name="END_LINK1"/>保存在您的 Kahf 账号中。您可以随时删除这些记录。</translation>
 <translation id="506254248375231072">没有任何标签页</translation>
 <translation id="5062960805900435602">已关闭关于密码合并的更新</translation>
 <translation id="5075939510584558547">直接保存，不加密</translation>
 <translation id="5081960376148623587">选择是否要预加载网页</translation>
-<translation id="6518666204737985156">登录此网站和 Brave 即可获取您在所有设备上保存的书签及其他信息</translation>
-<translation id="4744980273298156620">不久之后，当打开新标签页时，您将看到来自<ph name="SITE_NAME"/>的故事。您关注的网站会保存在您的 Brave 账号中。您可在“探索”设置中管理它们。</translation>
+<translation id="6518666204737985156">登录此网站和 Kahf 即可获取您在所有设备上保存的书签及其他信息</translation>
+<translation id="4744980273298156620">不久之后，当打开新标签页时，您将看到来自<ph name="SITE_NAME"/>的故事。您关注的网站会保存在您的 Kahf 账号中。您可在“探索”设置中管理它们。</translation>
 <translation id="509429900233858213">出现错误。</translation>
 <translation id="5097349930204431044">您访问的网站能判断您的喜好，然后在您继续浏览时向您展示建议的广告</translation>
 <translation id="510275257476243843">还剩 1 小时</translation>
@@ -1075,14 +1075,14 @@
 <translation id="6143892791267458416">，并会在 <ph name="DAYS_ARCHIVED"/> 天后关闭</translation>
 <translation id="614890671148262506">始终允许此网站传送通知</translation>
 <translation id="6150320133806434356">书签已保存</translation>
-<translation id="1224606669200461217">如要将 Brave 数据保存在您的 Brave 账号中并使用这些数据，请更新 Brave</translation>
+<translation id="1224606669200461217">如要将 Kahf 数据保存在您的 Kahf 账号中并使用这些数据，请更新 Kahf</translation>
 <translation id="6154478581116148741">需在“设置”部分中开启屏幕锁定功能，才能从此设备中导出您的密码</translation>
-<translation id="7087658909840709934">预加载 Brave 认为您可能会访问的网页。</translation>
+<translation id="7087658909840709934">预加载 Kahf 认为您可能会访问的网页。</translation>
 <translation id="6170675927290506430">前往通知设置页面</translation>
 <translation id="6186394685773237175">未发现任何已泄露的密码</translation>
 <translation id="6192907950379606605">获取图片说明</translation>
 <translation id="6193448654517602979">选择标签页</translation>
-<translation id="8367262879301982880">系统会将密码保存到此设备上的 Brave 密码管理工具中</translation>
+<translation id="8367262879301982880">系统会将密码保存到此设备上的 Kahf 密码管理工具中</translation>
 <translation id="6202812185118613467">重新登录即可开始同步</translation>
 <translation id="6205314730813004066">广告隐私权设置</translation>
 <translation id="6210748933810148297">不是 <ph name="EMAIL"/>？</translation>
@@ -1124,12 +1124,12 @@
 <translation id="6357653805084533597">您可以使用此手机在显示该二维码的设备上登录。</translation>
 <translation id="6363990818884053551">若要开始同步，请验证是您本人在操作</translation>
 <translation id="6364438453358674297">要从历史记录中移除建议吗？</translation>
-<translation id="806493401838431801">更频繁地预加载 Brave 认为您可能会访问的网页。此设置可能会消耗更多数据流量。</translation>
+<translation id="806493401838431801">更频繁地预加载 Kahf 认为您可能会访问的网页。此设置可能会消耗更多数据流量。</translation>
 <translation id="6382848304055775421">正在导出</translation>
 <translation id="6394791151443660613">搜索：<ph name="SEARCH_QUERY"/></translation>
 <translation id="6395288395575013217">链接</translation>
 <translation id="6397616442223433927">已恢复在线状态</translation>
-<translation id="8789425457808164956">若要将此标签页发送到另一设备，请在该设备上登录 Brave</translation>
+<translation id="8789425457808164956">若要将此标签页发送到另一设备，请在该设备上登录 Kahf</translation>
 <translation id="6404511346730675251">修改书签</translation>
 <translation id="6406506848690869874">同步</translation>
 <translation id="6407224748847589805">无法连接到您的计算机。请尝试另一种验证方式。</translation>
@@ -1145,55 +1145,55 @@
 <translation id="6444291413624515012">已关闭“<ph name="TAB_GROUP_TITLE"/>”标签页分组</translation>
 <translation id="6459045781120991510">调查问卷</translation>
 <translation id="6461962085415701688">无法打开文件</translation>
-<translation id="9055113864158719823">您可以查看自己在 Brave 中访问的网站并为这些网站设置计时器。\n\nBrave 会获取这些设有计时器的网站的相关信息以及您对这些网站的访问时长。这些信息会被用于改进“数字健康”应用。</translation>
-<translation id="1774272248732824119">您使用“<ph name="APP_LABEL"/>”在 Brave 中打开的网页将显示在此处。</translation>
+<translation id="9055113864158719823">您可以查看自己在 Kahf 中访问的网站并为这些网站设置计时器。\n\nKahf 会获取这些设有计时器的网站的相关信息以及您对这些网站的访问时长。这些信息会被用于改进“数字健康”应用。</translation>
+<translation id="1774272248732824119">您使用“<ph name="APP_LABEL"/>”在 Kahf 中打开的网页将显示在此处。</translation>
 <translation id="6473086018775716761">分享选项列表已半屏打开。</translation>
 <translation id="6475951671322991020">下载视频</translation>
 <translation id="6477928892249167417">这些网站似乎对您很重要：</translation>
-<translation id="387105482057676379">关联 Brave 和其他 Brave 服务，以便获得个性化体验和实现其他用途</translation>
+<translation id="387105482057676379">关联 Kahf 和其他 Kahf 服务，以便获得个性化体验和实现其他用途</translation>
 <translation id="6482749332252372425">未能成功下载 <ph name="FILE_NAME"/>，因为存储空间不足。</translation>
 <translation id="6486420406192123355">此 PDF 文件来自使用不安全连接的网站</translation>
 <translation id="6495590690749880440">要打开标签页分组吗？</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{文件已下载完毕}other{# 个文件已下载完毕}}</translation>
-<translation id="3960299545138990065">重新启动 Brave</translation>
+<translation id="3960299545138990065">重新启动 Kahf</translation>
 <translation id="6518133107902771759">验证</translation>
 <translation id="6527303717912515753">分享</translation>
-<translation id="3700405816184340252">Brave 历史记录</translation>
-<translation id="708829030563435351">您在 Brave 中访问的网站不会显示。所有网站计时器都会被删除。</translation>
-<translation id="7723158744459952869">Brave 的响应速度太慢</translation>
+<translation id="3700405816184340252">Kahf 历史记录</translation>
+<translation id="708829030563435351">您在 Kahf 中访问的网站不会显示。所有网站计时器都会被删除。</translation>
+<translation id="7723158744459952869">Kahf 的响应速度太慢</translation>
 <translation id="6539092367496845964">出了点问题。请稍后重试。</translation>
 <translation id="6541983376925655882">{NUM_HOURS,plural, =1{1 小时前检查过}other{# 小时前检查过}}</translation>
 <translation id="6545017243486555795">清除所有数据</translation>
 <translation id="6546511553472444032">文件可能有害</translation>
-<translation id="6702167990458635422">不会保护您免受危险网站、下载内容和扩展程序的侵害。您在其他 Brave 产品中的安全浏览设置不受影响。</translation>
+<translation id="6702167990458635422">不会保护您免受危险网站、下载内容和扩展程序的侵害。您在其他 Kahf 产品中的安全浏览设置不受影响。</translation>
 <translation id="6556542240154580383">{TAB_COUNT,plural, =1{系统将会关闭标签页“<ph name="TAB_TITLE"/>”以及另外 <ph name="TAB_COUNT_ONE"/> 个标签页}other{系统将会关闭标签页“<ph name="TAB_TITLE"/>”以及另外 <ph name="TAB_COUNT_MANY"/> 个标签页}}</translation>
 <translation id="6560414384669816528">改用搜狗搜索</translation>
 <translation id="656065428026159829">查看更多</translation>
 <translation id="6565959834589222080">当 Wi-Fi 可用时使用 Wi-Fi</translation>
-<translation id="4480935821314799946">现在，当打开新标签页时，您会看到来自<ph name="SITE_NAME"/>的故事。您关注的网站会保存在您的 Brave 账号中。您可在“探索”设置中管理它们。</translation>
+<translation id="4480935821314799946">现在，当打开新标签页时，您会看到来自<ph name="SITE_NAME"/>的故事。您关注的网站会保存在您的 Kahf 账号中。您可在“探索”设置中管理它们。</translation>
 <translation id="6570116402456758630">网页摘要</translation>
 <translation id="6573096386450695060">一律允许</translation>
-<translation id="5157964048453367290">您在其他设备上的 Brave 中打开的标签页将列在此处。</translation>
+<translation id="5157964048453367290">您在其他设备上的 Kahf 中打开的标签页将列在此处。</translation>
 <translation id="6583199322650523874">为当前网页添加书签</translation>
 <translation id="6588043302623806746">使用安全 DNS</translation>
 <translation id="6590471736817333463">节省高达 60% 的数据流量</translation>
 <translation id="6590680911007613645">请确保您要保存的密码与您用来登录 <ph name="SITE"/> 的密码相符</translation>
 <translation id="6593061639179217415">桌面版网站</translation>
 <translation id="6594347733515723558">与排序和查看相关的选项</translation>
-<translation id="2466982615210189224">系统会将图片发送给 Brave 以便为您改进说明。</translation>
+<translation id="2466982615210189224">系统会将图片发送给 Kahf 以便为您改进说明。</translation>
 <translation id="6595634543029443878">{TAB_COUNT,plural, =1{将包含 <ph name="TAB_COUNT_ONE"/> 个标签页的标签页分组恢复为新的背景标签页分组。}other{将包含 <ph name="TAB_COUNT_MANY"/> 个标签页的标签页分组恢复为新的背景标签页分组。}}</translation>
-<translation id="6904452514635238551">登录 Brave 后，您保存的密码会保存到您的 Brave 账号中。如需关闭此设置，请<ph name="BEGIN_LINK"/>前往“设置”<ph name="END_LINK"/>。</translation>
+<translation id="6904452514635238551">登录 Kahf 后，您保存的密码会保存到您的 Kahf 账号中。如需关闭此设置，请<ph name="BEGIN_LINK"/>前往“设置”<ph name="END_LINK"/>。</translation>
 <translation id="661266467055912436">为您和网络上的所有人提供更好的安全保障。</translation>
-<translation id="8127050479140582768">若要将此标签页发送到另一设备，请在这两部设备上都登录 Brave</translation>
+<translation id="8127050479140582768">若要将此标签页发送到另一设备，请在这两部设备上都登录 Kahf</translation>
 <translation id="6625890511281718257">分享摘要反馈工作表</translation>
 <translation id="6627583120233659107">修改文件夹</translation>
 <translation id="6636623428211296678">探索下方的更多设置，或立即结束</translation>
-<translation id="2259649928554669581">如需了解更多与隐私、安全和数据收集相关的设置，请前往<ph name="BEGIN_LINK1"/>同步功能<ph name="END_LINK1"/>和 <ph name="BEGIN_LINK2"/>Brave 服务<ph name="END_LINK2"/>部分</translation>
-<translation id="7939692063031538305">为帮助改进该应用，Brave 会向 Brave 发送使用情况和崩溃数据。<ph name="BEGIN_UMA_LINK"/>管理<ph name="END_UMA_LINK"/></translation>
+<translation id="2259649928554669581">如需了解更多与隐私、安全和数据收集相关的设置，请前往<ph name="BEGIN_LINK1"/>同步功能<ph name="END_LINK1"/>和 <ph name="BEGIN_LINK2"/>Kahf 服务<ph name="END_LINK2"/>部分</translation>
+<translation id="7939692063031538305">为帮助改进该应用，Kahf 会向 Kahf 发送使用情况和崩溃数据。<ph name="BEGIN_UMA_LINK"/>管理<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">始终屏蔽</translation>
 <translation id="6641780377503683465">移除“<ph name="INTEREST"/>”</translation>
 <translation id="6645629752388991326">控制哪些设备可在登录时将此设备用作安全密钥。</translation>
-<translation id="7556503430569358637">系统会将您访问过的网址发送给 Brave，以预测您接下来可能会访问的网站</translation>
+<translation id="7556503430569358637">系统会将您访问过的网址发送给 Kahf，以预测您接下来可能会访问的网站</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW"/>\u2026以及另外 <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> 个联系人}other{<ph name="CONTACT_PREVIEW"/>\u2026以及另外 <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> 个联系人}}</translation>
 <translation id="6649642165559792194">预览图片<ph name="BEGIN_NEW"/>新<ph name="END_NEW"/></translation>
 <translation id="6657585470893396449">密码</translation>
@@ -1203,8 +1203,8 @@
 <translation id="6672697278890207089">请输入密码</translation>
 <translation id="6672917148207387131">添加 <ph name="DOMAIN"/></translation>
 <translation id="6674571176963658787">若要开始同步，请输入您的密码</translation>
-<translation id="3683330416566109578">登录此网站和 Brave</translation>
-<translation id="3385384709865894288">帮助改善 Brave</translation>
+<translation id="3683330416566109578">登录此网站和 Kahf</translation>
+<translation id="3385384709865894288">帮助改善 Kahf</translation>
 <translation id="6700279777779583398">已保存选择</translation>
 <translation id="6704048624334633734">导出并删除密码</translation>
 <translation id="670498945988402717">昨天检查过</translation>
@@ -1241,17 +1241,17 @@
 <translation id="6830728435402077660">不安全</translation>
 <translation id="6831043979455480757">翻译</translation>
 <translation id="6836206421467243968">将标签页分组“<ph name="TITLE_OF_GROUP"/>”恢复为新的背景标签页分组。</translation>
-<translation id="5177927663996571732">将密码保存到您的 Brave 账号并自动填充</translation>
+<translation id="5177927663996571732">将密码保存到您的 Kahf 账号并自动填充</translation>
 <translation id="6846298663435243399">正在加载…</translation>
 <translation id="6850409657436465440">您的下载仍在进行中</translation>
 <translation id="6850830437481525139">已关闭 <ph name="TAB_COUNT"/> 个标签页</translation>
 <translation id="685340923442249391">{FILE_COUNT,plural, =1{音频文件，列表中有 1 个音频文件}other{音频文件，列表中有 # 个音频文件}}</translation>
-<translation id="4046835482356054431">Brave 探索 - 已关闭</translation>
+<translation id="4046835482356054431">Kahf 探索 - 已关闭</translation>
 <translation id="686366188661646310">删除密码？</translation>
 <translation id="6864459304226931083">下载图片</translation>
 <translation id="686490460830618322">应用过滤器工作表</translation>
 <translation id="6865313869410766144">自动填充表单数据</translation>
-<translation id="1565666992559765293">地址未使用您的口令加密，以便您在其他 Brave 服务中使用。</translation>
+<translation id="1565666992559765293">地址未使用您的口令加密，以便您在其他 Kahf 服务中使用。</translation>
 <translation id="6869056123412990582">计算机</translation>
 <translation id="6880903702195291049">权限设置正常</translation>
 <translation id="6883204995689174413">分享</translation>
@@ -1260,21 +1260,21 @@
 <translation id="688398477366397178">让网站知道您所用的语言。它们将尽可能以这些语言显示内容。</translation>
 <translation id="6885933993535178919">{NUM_SITES,plural, =1{已退订 1 个网站}other{已退订 # 个网站}}</translation>
 <translation id="6886500155621657325">{ITEMS_COUNT,plural, =1{1 个密码}other{# 个密码}}</translation>
-<translation id="667636428974305054">当您退出 Brave 账号后，该账号中的书签、密码等信息都将从此设备中移除。</translation>
+<translation id="667636428974305054">当您退出 Kahf 账号后，该账号中的书签、密码等信息都将从此设备中移除。</translation>
 <translation id="688738109438487280">将现有数据添加到 <ph name="TO_ACCOUNT"/>。</translation>
 <translation id="6891726759199484455">需解锁才能复制您的密码</translation>
 <translation id="6896758677409633944">复制</translation>
-<translation id="3677019108032076044">使用您自己的口令加密您 Brave 账号中的所有 Brave 数据</translation>
+<translation id="3677019108032076044">使用您自己的口令加密您 Kahf 账号中的所有 Kahf 数据</translation>
 <translation id="6900532703269623216">增强型保护</translation>
 <translation id="6903907808598579934">开启同步功能</translation>
-<translation id="748044163560741026">请确保您可以一直使用 Brave 账号的密码</translation>
+<translation id="748044163560741026">请确保您可以一直使用 Kahf 账号的密码</translation>
 <translation id="6908230663105268638">已允许 <ph name="SITE_NAME"/> 发送通知</translation>
 <translation id="6908998565271542516">选项表单，用于批准/禁止访问某个网站，已全屏打开</translation>
 <translation id="6909589135458168665">预加载网页</translation>
 <translation id="6910211073230771657">已删除</translation>
 <translation id="6918398787259831832">如果此问题仍然存在，请从 <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> 处<ph name="BEGIN_LINK"/>获取更多信息<ph name="END_LINK"/>。</translation>
-<translation id="1431096429631226393"><ph name="PERMISSION"/> <ph name="SEPARATOR"/> Brave 已撤消这些权限，因为您近期未访问过此网站</translation>
-<translation id="5854472260286669100">您的设备和您的 Brave 账号中保存的所有安全码都将被删除</translation>
+<translation id="1431096429631226393"><ph name="PERMISSION"/> <ph name="SEPARATOR"/> Kahf 已撤消这些权限，因为您近期未访问过此网站</translation>
+<translation id="5854472260286669100">您的设备和您的 Kahf 账号中保存的所有安全码都将被删除</translation>
 <translation id="6937524809504266803">个性化和关联</translation>
 <translation id="6937876069006524083">昵称（可选）</translation>
 <translation id="6942665639005891494">使用“设置”菜单选项随时更改默认的下载内容保存位置</translation>
@@ -1288,7 +1288,7 @@
 <translation id="6971862865055170158">禁止</translation>
 <translation id="6978717888677691380">您已屏蔽的网站</translation>
 <translation id="6979737339423435258">时间不限</translation>
-<translation id="4436469586880564451">您的密码将以 CSV 文件形式下载。任何可访问该文件（包括应用）的人都能看到您的密码。系统会从 Brave 中删除导出的密码。</translation>
+<translation id="4436469586880564451">您的密码将以 CSV 文件形式下载。任何可访问该文件（包括应用）的人都能看到您的密码。系统会从 Kahf 中删除导出的密码。</translation>
 <translation id="6996145122199359148">下载此网页</translation>
 <translation id="7013762323294215682">此通行密钥将保存到密码管理工具。任何有权访问密码管理工具的用户都能使用此通行密钥。</translation>
 <translation id="7020741890149022655">添加到阅读清单<ph name="BEGIN_NEW"/>新功能<ph name="END_NEW"/></translation>
@@ -1300,19 +1300,19 @@
 <translation id="7053983685419859001">禁止</translation>
 <translation id="7054588988317389591">获取图片说明？</translation>
 <translation id="7055152154916055070">已禁止重定向：</translation>
-<translation id="754645164710303412">打开完整的 Brave 历史记录</translation>
+<translation id="754645164710303412">打开完整的 Kahf 历史记录</translation>
 <translation id="7063006564040364415">无法连接到同步服务器。</translation>
 <translation id="7071521146534760487">管理账号</translation>
 <translation id="707155805709242880">请在下方选择要同步的内容</translation>
 <translation id="707702207692430409">{BOOKMARK_COUNT,plural, =1{书签已保存到账号 <ph name="ACCOUNT_EMAIL"/> 中的“<ph name="FOLDER_NAME"/>”。}other{书签已保存到账号 <ph name="ACCOUNT_EMAIL"/> 中的“<ph name="FOLDER_NAME"/>”。}}</translation>
 <translation id="7077143737582773186">SD 卡</translation>
-<translation id="4947532681094581238">同时从此设备中删除您的 Brave 数据</translation>
-<translation id="5499149312981370855">选择是否要包含 Brave 历史记录以便在各款 Brave 服务中获享更个性化的体验</translation>
-<translation id="8208853227947884571">Brave 已是最新版本</translation>
+<translation id="4947532681094581238">同时从此设备中删除您的 Kahf 数据</translation>
+<translation id="5499149312981370855">选择是否要包含 Kahf 历史记录以便在各款 Kahf 服务中获享更个性化的体验</translation>
+<translation id="8208853227947884571">Kahf 已是最新版本</translation>
 <translation id="7094933634769755999">不准确</translation>
 <translation id="7105047059074518658">登录即可让跨设备浏览更轻松顺畅</translation>
 <translation id="7106762743910369165">您的浏览器由贵单位管理</translation>
-<translation id="144902786838571419">在 Brave 中，您可以更有效地控制自己看到的广告，并限制网站能根据哪些个人信息向您展示个性化广告。</translation>
+<translation id="144902786838571419">在 Kahf 中，您可以更有效地控制自己看到的广告，并限制网站能根据哪些个人信息向您展示个性化广告。</translation>
 <translation id="7136902389402789299">{NUM_SITES,plural, =1{已审核 1 个网站的权限}other{已审核 # 个网站的权限}}</translation>
 <translation id="7138678301420049075">其他</translation>
 <translation id="7139479418357139965">您可以联系发送者，请其提供新的链接。</translation>
@@ -1320,7 +1320,7 @@
 <translation id="7146622961999026732">这些网站和应用似乎对您很重要：</translation>
 <translation id="7148400116894863598">从 <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> 处<ph name="BEGIN_LINK"/>获取更多信息<ph name="END_LINK"/>。</translation>
 <translation id="7149893636342594995">过去 24 小时</translation>
-<translation id="1206376179559420424">口令加密不涵盖 Google Pay 中的付款方式和地址。如要更改此设置，请<ph name="BEGIN_LINK"/>删除您账号中的 Brave 数据<ph name="END_LINK"/>。</translation>
+<translation id="1206376179559420424">口令加密不涵盖 Google Pay 中的付款方式和地址。如要更改此设置，请<ph name="BEGIN_LINK"/>删除您账号中的 Kahf 数据<ph name="END_LINK"/>。</translation>
 <translation id="7161230316646448869">将您的书签、历史记录等信息同步到所有设备上</translation>
 <translation id="7168323970702333693">您已使用<ph name="USER_NAME"/>的身份登录。打开设置。</translation>
 <translation id="7173114856073700355">打开“设置”</translation>
@@ -1375,14 +1375,14 @@
 <translation id="7388615499319468910">网站和广告主可以了解广告效果。此设置已关闭。</translation>
 <translation id="7400003506822844357">{FILE_COUNT,plural, =1{其他，列表中有 1 个文件}other{其他，列表中有 # 个文件}}</translation>
 <translation id="7400418766976504921">网址</translation>
-<translation id="724102042129299115">Brave 首次运行体验</translation>
-<translation id="5341476184053934779">Brave 账号用户</translation>
+<translation id="724102042129299115">Kahf 首次运行体验</translation>
+<translation id="5341476184053934779">Kahf 账号用户</translation>
 <translation id="741204030948306876">立即开启</translation>
 <translation id="7419565702166471774">一律使用安全连接</translation>
-<translation id="7431991332293347422">控制 Brave 如何利用您的浏览记录为您提供个性化的 Brave 搜索和其他 Brave 服务</translation>
+<translation id="7431991332293347422">控制 Kahf 如何利用您的浏览记录为您提供个性化的 Kahf 搜索和其他 Kahf 服务</translation>
 <translation id="7435356471928173109">已被您的管理员关闭</translation>
-<translation id="6234515504547364178">退出 Brave</translation>
-<translation id="3699067418237091329">您会从大多数网站退出，但不会退出自己的 Brave 账号。</translation>
+<translation id="6234515504547364178">退出 Kahf</translation>
+<translation id="3699067418237091329">您会从大多数网站退出，但不会退出自己的 Kahf 账号。</translation>
 <translation id="7453810262525006706">合拢为侧边视图</translation>
 <translation id="7454641608352164238">空间不足</translation>
 <translation id="7454744349230173024">贵组织已关闭密码保存功能</translation>
@@ -1444,8 +1444,8 @@
 <translation id="7666185984446444960">已关闭 <ph name="TAB_GROUPS_AND_TABS_PART"/></translation>
 <translation id="7682724950699840886">请尝试按以下提示操作：确保您的设备上有足够的空间，然后重新尝试导出。</translation>
 <translation id="7686086654630106285">详细了解网站建议的广告</translation>
-<translation id="2667018639405889513">在您访问的网页中，有一些是预加载的网页。从 Brave 网站链接到的网页可能会通过 Brave 服务器预加载。</translation>
-<translation id="7795837497684113327">您的设备无法打开 Brave。若要解决此问题，请从应用商店下载最新的 Brave 更新。</translation>
+<translation id="2667018639405889513">在您访问的网页中，有一些是预加载的网页。从 Kahf 网站链接到的网页可能会通过 Kahf 服务器预加载。</translation>
+<translation id="7795837497684113327">您的设备无法打开 Kahf。若要解决此问题，请从应用商店下载最新的 Kahf 更新。</translation>
 <translation id="7691043218961417207">探索值得关注的内容</translation>
 <translation id="7697383401610880082">拖动手柄</translation>
 <translation id="7698359219371678927">在 <ph name="APP_NAME"/> 中创建电子邮件</translation>
@@ -1461,7 +1461,7 @@
 <translation id="7772375229873196092">关闭<ph name="APP_NAME"/></translation>
 <translation id="7774125747223422443">根据您所在地区的法律，您需要选择浏览器和搜索引擎</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026以及另外 <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> 种付款方式}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026以及另外 <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> 种付款方式}}</translation>
-<translation id="5614774692683309331">当您登录后，在各种 Brave 服务中保护您。</translation>
+<translation id="5614774692683309331">当您登录后，在各种 Kahf 服务中保护您。</translation>
 <translation id="7778840695157240389">请稍后再回来查看是否有新报道</translation>
 <translation id="7791543448312431591">添加</translation>
 <translation id="7798392620021911922">已恢复 <ph name="TAB_COUNT"/> 个标签页</translation>
@@ -1505,13 +1505,13 @@
 <translation id="7959485987650214982">此设备上的标签页</translation>
 <translation id="7961926449547174351">您已停用存储空间的访问权限，请转到“设置”启用该访问权限。</translation>
 <translation id="7963646190083259054">供应商：</translation>
-<translation id="2939504940637874963">您可在任意设备上使用已保存的密码。系统会将密码保存到 <ph name="ACCOUNT"/> 的 Brave 密码管理工具中。</translation>
+<translation id="2939504940637874963">您可在任意设备上使用已保存的密码。系统会将密码保存到 <ph name="ACCOUNT"/> 的 Kahf 密码管理工具中。</translation>
 <translation id="7968014550143838305">已添加到阅读清单</translation>
 <translation id="7971136598759319605">1 天前曾有活动</translation>
 <translation id="7975379999046275268">预览网页<ph name="BEGIN_NEW"/>新<ph name="END_NEW"/></translation>
 <translation id="7977451675950311423">如果发现您使用的密码已遭遇数据泄露，就会向您发出警告。</translation>
 <translation id="7986497153528221272">若要查看密码，请先在设备上设置屏幕锁定</translation>
-<translation id="6171786297758300317"><ph name="PERMISSION_1"/>、<ph name="PERMISSION_2"/>、<ph name="PERMISSION_3"/> <ph name="SEPARATOR"/> Brave 撤消了这些权限，因为您近期未访问过此网站</translation>
+<translation id="6171786297758300317"><ph name="PERMISSION_1"/>、<ph name="PERMISSION_2"/>、<ph name="PERMISSION_3"/> <ph name="SEPARATOR"/> Kahf 撤消了这些权限，因为您近期未访问过此网站</translation>
 <translation id="7995059495660416932">待内容可显示后，您即会看到相应内容</translation>
 <translation id="799576009106109668">您的浏览速度会更快，因为系统会根据您当前访问的网页主动加载内容</translation>
 <translation id="8001245658307297681">您正在查看本地文件</translation>
@@ -1568,7 +1568,7 @@
 <translation id="8211101263765532799">一些密码即将失效</translation>
 <translation id="8215740705341534369">侧边动作条</translation>
 <translation id="8218622182176210845">管理您的账号</translation>
-<translation id="4034729701971511794">您可根据自己的需要屏蔽一些网站。Brave 还会从列表中自动删除保留时长超过 30 天的网站。<ph name="BEGIN_LINK"/>了解详情<ph name="END_LINK"/></translation>
+<translation id="4034729701971511794">您可根据自己的需要屏蔽一些网站。Kahf 还会从列表中自动删除保留时长超过 30 天的网站。<ph name="BEGIN_LINK"/>了解详情<ph name="END_LINK"/></translation>
 <translation id="8221985041778490865">正在删除浏览数据</translation>
 <translation id="8223642481677794647">动态卡片上的菜单</translation>
 <translation id="8236063039629122676">现在，向右滑动可返回查看您之前访问过的页面，向左滑动可前进</translation>
@@ -1604,26 +1604,26 @@
 <translation id="8393700583063109961">发送消息</translation>
 <translation id="8402673309244746971">前往“已关注”</translation>
 <translation id="8413126021676339697">显示全部历史记录</translation>
-<translation id="5348884013239264115">防范已知危险的网站、下载内容和扩展程序。当您访问某个网站时，Brave 会通过可隐藏 IP 地址的隐私保护服务器将经过混淆处理的网址片段发送给 Brave。如果网站有可疑行为，系统也会发送完整网址和少量网页内容。</translation>
+<translation id="5348884013239264115">防范已知危险的网站、下载内容和扩展程序。当您访问某个网站时，Kahf 会通过可隐藏 IP 地址的隐私保护服务器将经过混淆处理的网址片段发送给 Kahf。如果网站有可疑行为，系统也会发送完整网址和少量网页内容。</translation>
 <translation id="8414396119627470038">使用 <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> 账号登录 <ph name="SITE_ETLD_PLUS_ONE"/></translation>
 <translation id="8419144699778179708">删除历史记录，包括搜索框中的历史记录</translation>
 <translation id="8419244640277402268">纳入</translation>
 <translation id="8422250855136581222">此设备上没有要关闭的标签页</translation>
-<translation id="78656282836782594">Brave 的安全工具</translation>
-<translation id="5735840612282428689">页面已发送。若要查看此页面，请在您的<ph name="DEVICE_TYPE"/>上打开 Brave</translation>
+<translation id="78656282836782594">Kahf 的安全工具</translation>
+<translation id="5735840612282428689">页面已发送。若要查看此页面，请在您的<ph name="DEVICE_TYPE"/>上打开 Kahf</translation>
 <translation id="8427875596167638501">预览标签页已在下半屏中打开</translation>
 <translation id="8428213095426709021">设置</translation>
 <translation id="8430824733382774043">仅分享屏幕截图</translation>
 <translation id="8438566539970814960">改善搜索和浏览体验</translation>
 <translation id="8439974325294139057"><ph name="LANG"/> - 可以使用此语言了，请重启 <ph name="APP_NAME"/>。</translation>
 <translation id="8442258441309440798">没有可显示的报道</translation>
-<translation id="4058091506841967397">Brave 无法更新</translation>
+<translation id="4058091506841967397">Kahf 无法更新</translation>
 <translation id="8445448999790540984">无法导出密码</translation>
 <translation id="8446884382197647889">了解详情</translation>
 <translation id="8449781591250785734">{NUM_SITES,plural, =1{已撤消 1 个网站的权限}other{已撤消 # 个网站的权限}}</translation>
 <translation id="8453310803815879010">启动恐龙游戏</translation>
 <translation id="8455675988389029454">获取您在所有设备上保存的书签、密码等信息</translation>
-<translation id="7018408824172283743">请继续使用您的 Brave 账号中的 Brave 数据</translation>
+<translation id="7018408824172283743">请继续使用您的 Kahf 账号中的 Kahf 数据</translation>
 <translation id="8460448946170646641">检查重要的隐私控制设置和安全控件</translation>
 <translation id="8473863474539038330">地址和其他信息</translation>
 <translation id="8477178913400731244">删除数据</translation>
@@ -1633,12 +1633,12 @@
 <translation id="8497242791509864205">打开排序选项</translation>
 <translation id="8497480609928300907">隐私保护指南说明</translation>
 <translation id="8497726226069778601">目前还未列出任何网页…</translation>
-<translation id="230699814587342492">Brave 密码</translation>
+<translation id="230699814587342492">Kahf 密码</translation>
 <translation id="8503813439785031346">用户名</translation>
 <translation id="8505766168025405649">查看与下载状态有关的通知</translation>
 <translation id="8506357771923193001">您下载的内容会显示在此处</translation>
 <translation id="8512053371384421952">您将不会再收到来自 <ph name="DOMAIN"/> 的通知。</translation>
-<translation id="133012818630824069">导出存储在 Brave 中的密码</translation>
+<translation id="133012818630824069">导出存储在 Kahf 中的密码</translation>
 <translation id="8516012719330875537">图片编辑器</translation>
 <translation id="8521833595674902532">出了点问题。无法生成摘要</translation>
 <translation id="8523928698583292556">删除存储的密码</translation>
@@ -1659,7 +1659,7 @@
 <translation id="859046281437143747">通过“更多选项”按钮跟踪价格</translation>
 <translation id="859064343657890103">已删除“<ph name="TAB_GROUP_TITLE"/>”标签页分组</translation>
 <translation id="860043288473659153">持卡人姓名</translation>
-<translation id="1673533133011266617">登录 Brave，已关闭。</translation>
+<translation id="1673533133011266617">登录 Kahf，已关闭。</translation>
 <translation id="860282621117673749">降价提醒</translation>
 <translation id="5784514951651328424">您的 Brave 账号在 <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> 上可能有其他形式的浏览记录。</translation>
 <translation id="8617240290563765734">要打开下载的内容中指定的建议网址吗？</translation>

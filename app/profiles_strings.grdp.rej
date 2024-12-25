@@ -1,23 +1,10 @@
 diff a/app/profiles_strings.grdp b/app/profiles_strings.grdp	(rejected hunks)
-@@ -164,8 +164,8 @@
-     <message name="IDS_PROFILE_MENU_CUSTOMIZE_PROFILE_BUTTON" desc="Button in the avatar menu bubble view for editing the current profile.">
-       Customize profile
+@@ -929,7 +929,7 @@
      </message>
--    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Brave account settings.">
--      Brave services settings
-+    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Kahf account settings.">
-+      Kahf services settings
+     <message translateable="false" name="IDS_BATCH_UPLOAD_SUBTITLE" desc="">
+       <!-- TODO(b/365954465): Incomplete string that might get more complex. -->
+-      N items are saved only to this device. To use them on your other devices, save them in your Brave sync chain.
++      N items are saved only to this device. To use them on your other devices, save them in your Kahf sync chain.
      </message>
-   </if>
-   <if expr="use_titlecase">
-@@ -196,8 +196,8 @@
-     <message name="IDS_PROFILE_MENU_CUSTOMIZE_PROFILE_BUTTON" desc="Button in the avatar menu bubble view for editing the current profile. ">
-       Customize Profile
-     </message>
--    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Brave account settings.">
--      Brave Services Settings
-+    <message name="IDS_PROFILE_MENU_OPEN_ACCOUNT_SETTINGS" desc="Button in the avatar menu bubble view for opening Kahf account settings.">
-+      Kahf Services Settings
-     </message>
-   </if>
-   <message name="IDS_PROFILES_MANAGED_BY" desc="Label shown under the avatar in the avatar menu bubble view stating that the account is managed.">
+     <message translateable="false" name="IDS_BATCH_UPLOAD_SECTION_TITLE_PASSWORDS" desc="">
+       Passwords

@@ -1,10 +1,14 @@
 diff a/components/resources/brave_vpn_strings.grdp b/components/resources/brave_vpn_strings.grdp	(rejected hunks)
-@@ -1,19 +1,19 @@
+@@ -1,7 +1,7 @@
  <?xml version="1.0" encoding="UTF-8"?>
  <grit-part>
    <message name="IDS_BRAVE_VPN" translateable="false" desc="Title for VPN the product">
 -    Brave Firewall + VPN
 +    Kahf Firewall + VPN
+   </message>
+ 
+   <message name="IDS_BRAVE_VPN_MAIN_PANEL_TITLE" translateable="false" desc="Title for VPN the product">
+@@ -9,15 +9,15 @@
    </message>
  
    <message name="IDS_BRAVE_VPN_CONNECTED_TOOLTIP" desc="Status tooltip label when VPN has connected to a region">
@@ -23,32 +27,24 @@ diff a/components/resources/brave_vpn_strings.grdp b/components/resources/brave_
    </message>
  
    <message name="IDS_BRAVE_VPN_CONNECT" desc="Button title to perform connect to a region">
-@@ -52,13 +52,13 @@
-     Choose another server
+@@ -57,14 +57,14 @@
    </message>
  
--  <message name="IDS_BRAVE_VPN_UNABLE_CONNECT_INFO" desc="Description of which region VPN couldn't connect to"><ph name="PRODUCT_NAME">$1<ex>Brave Firewall + VPN</ex></ph> couldn't connect to the <ph name="REGION_NAME">$2<ex>Tokyo</ex></ph> server. You can try again, or choose another.</message>
-+  <message name="IDS_BRAVE_VPN_UNABLE_CONNECT_INFO" desc="Description of which region VPN couldn't connect to"><ph name="PRODUCT_NAME">$1<ex>Kahf Firewall + VPN</ex></ph> couldn't connect to the <ph name="REGION_NAME">$2<ex>Tokyo</ex></ph> server. You can try again, or choose another.</message>
+   <message name="IDS_BRAVE_VPN_UNABLE_CONNECT_INFO" desc="Description of which region VPN couldn't connect to">
+-    <ph name="PRODUCT_NAME">$1<ex>Brave Firewall + VPN</ex></ph> couldn't connect to the <ph name="REGION_NAME">$2<ex>Tokyo</ex></ph> server. Please try again or choose another country.
++    <ph name="PRODUCT_NAME">$1<ex>Kahf Firewall + VPN</ex></ph> couldn't connect to the <ph name="REGION_NAME">$2<ex>Tokyo</ex></ph> server. Please try again or choose another country.
+   </message>
  
    <message name="IDS_BRAVE_VPN_BUY" desc="Button title to purchase vpn">
-     Start free trial
+     Start 7-day free trial
    </message>
  
--  <message name="IDS_BRAVE_VPN_HAS_PURCHASED" desc="Link text to redirect the user to Brave account login page. Do not translate VPN.">Already purchased VPN?</message>
-+  <message name="IDS_BRAVE_VPN_HAS_PURCHASED" desc="Link text to redirect the user to Kahf account login page. Do not translate VPN.">Already purchased VPN?</message>
+-  <message name="IDS_BRAVE_VPN_HAS_PURCHASED" desc="Link text to redirect the user to Brave account login page. Do not translate VPN.">Already purchased Brave VPN?</message>
++  <message name="IDS_BRAVE_VPN_HAS_PURCHASED" desc="Link text to redirect the user to Kahf account login page. Do not translate VPN.">Already purchased Kahf VPN?</message>
  
    <message name="IDS_BRAVE_VPN_POWERED_BY" desc="Label to show next to Guardian logo">
      Powered by
-@@ -69,7 +69,7 @@
-   </message>
- 
-   <message name="IDS_BRAVE_VPN_ERROR_PANEL_HEADER" desc="Text shown in header for error panel">
--    Brave VPN
-+    Kahf VPN
-   </message>
- 
-   <message name="IDS_BRAVE_VPN_STATUS" desc="Label to show the status of the user's subscription">
-@@ -145,7 +145,7 @@
+@@ -195,7 +195,7 @@
    </message>
  
    <message name="IDS_BRAVE_VPN_PAYMENT_FAILURE_REASON" desc="A long form on the consequence of failed payment">
@@ -56,13 +52,13 @@ diff a/components/resources/brave_vpn_strings.grdp b/components/resources/brave_
 +    Looks like your most recent payment for <ph name="VALUE">$1<ex>VPN Subscription</ex></ph> did not go through. Access to this subscription will pause until the payment issue is resolved. Try to edit your payment method, or contact Kahf support.
    </message>
  
-   <message name="IDS_BRAVE_VPN_SUPPORT_EMAIL" desc="Label above email input on VPN support">
-@@ -228,71 +228,71 @@
+   <message name="IDS_BRAVE_VPN_SUPPORT_PANEL_BACK_BUTTON_ARIA_LABEL" desc="Text for back button in support panel">
+@@ -294,26 +294,26 @@
  
    <if expr="is_macosx">
      <message name="IDS_BRAVE_VPN_CONNECT_NOT_ALLOWED" desc="A highlited note on the main panel when permission from the user is not allowed to create a VPN profile on OS-level">
--      VPN connection failed. Please try connecting again, and be sure to click Allow to enable Brave's VPN configuration.
-+      VPN connection failed. Please try connecting again, and be sure to click Allow to enable Kahf's VPN configuration.
+-      VPN connection failed. Please try connecting again and be sure to click "Allow" to enable Brave's VPN configuration.
++      VPN connection failed. Please try connecting again and be sure to click "Allow" to enable Kahf's VPN configuration.
      </message>
    </if>
  
@@ -94,10 +90,8 @@ diff a/components/resources/brave_vpn_strings.grdp b/components/resources/brave_
      Learn more.
    </message>
  
--  <message name="IDS_SETTINGS_SECURE_DNS_DISABLED_BY_BRAVE_VPN" desc="A text shown to user on settings page for DNS setting when it is blocked by BraveVPN">
--    The setting is locked by BraveVPN while it is connected
-+  <message name="IDS_SETTINGS_SECURE_DNS_DISABLED_BY_BRAVE_VPN" desc="A text shown to user on settings page for DNS setting when it is blocked by KahfVPN">
-+    The setting is locked by KahfVPN while it is connected
+@@ -321,16 +321,16 @@
+     The setting is locked by BraveVPN while it is connected
    </message>
  
 -  <message name="IDS_BRAVE_VPN_DNS_SETTINGS_NOTIFICATION_DIALOG_TEXT" desc="A text shown to user when he enabled Brave VPN without DoH and we override settings">
@@ -116,9 +110,7 @@ diff a/components/resources/brave_vpn_strings.grdp b/components/resources/brave_
  Looks like there are some issues with the WireGuard connection. Want to enable IKEv2 fallback for a reliable VPN? Simply change the settings.
  
  Need help with compatibility or configuration? Reach out to our friendly support team.
--You can always revert back to WireGuard on brave://settings/system.
-+You can always revert back to WireGuard on kahf://settings/system.
- 
+@@ -339,26 +339,26 @@ You can always revert back to WireGuard on brave://settings/system.
  Let's get you connected!
    </message>
  
@@ -151,23 +143,3 @@ diff a/components/resources/brave_vpn_strings.grdp b/components/resources/brave_
      Do not warn me about this anymore.
    </message>
    <message name="IDS_BRAVE_VPN_SUPPORT_TIMEZONE" desc="Label on dialog to report bug to technical support ">
-@@ -336,16 +336,16 @@ Let's get you connected!
-       Disconnect
-     </message>
-     <message name="IDS_BRAVE_VPN_WIREGUARD_TRAY_NOTIFICATION_CONNECTED" desc="Notification message of the system tray notification when vpn connected.">
--      Brave VPN - Connected
-+      Kahf VPN - Connected
-     </message>
-     <message name="IDS_BRAVE_VPN_WIREGUARD_TRAY_NOTIFICATION_DISCONNECTED" desc="Notification message of the system tray notification when vpn disconnected.">
--      Brave VPN - Disconnected
-+      Kahf VPN - Disconnected
-     </message>
-     <message name="IDS_BRAVE_VPN_WIREGUARD_TRAY_MANAGE_ACCOUNT_ITEM" desc="Title of the system tray menu item for the command to open an account page in the browser.">
-       Manage Account
-     </message>        
-     <message name="IDS_BRAVE_VPN_WIREGUARD_TRAY_ABOUT_ITEM" desc="Title of the system tray menu item for the command to open about page in the browser.">
--      About Brave VPN
-+      About Kahf VPN
-     </message>        
-     <message name="IDS_BRAVE_VPN_WIREGUARD_TRAY_REMOVE_ICON_ITEM" desc="Title of the system tray menu item for the command to remove the icon from the system tray.">
-       Remove icon

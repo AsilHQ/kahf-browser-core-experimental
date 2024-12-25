@@ -1,330 +1,37 @@
 diff a/components/resources/strings/brave_components_resources_ko.xtb b/components/resources/strings/brave_components_resources_ko.xtb	(rejected hunks)
-@@ -168,36 +168,36 @@
- <translation id="5334844597069022743">소스 보기</translation>
- <translation id="4720556299488643018">구독 취소</translation>
- <translation id="1209739344687072997">작동이 멈춘 사이트 보고</translation>
--<translation id="8510478288840333677">Brave (브레이브) 개발자에게 이 사이트가 Shields (실드)와 함께 제대로 작동하지 않는다는 것을 알리십시오.</translation>
-+<translation id="8510478288840333677">Kahf (브레이브) 개발자에게 이 사이트가 Shields (실드)와 함께 제대로 작동하지 않는다는 것을 알리십시오.</translation>
- <translation id="3110968385867124099">HTTP/HTTPS를 통해 서비스되지 않는 서비스이기 때문에 신고할 수 없습니다.</translation>
- <translation id="7907023135990310743">이 페이지는 로컬 웹페이지이기 때문에 보고할 수 없습니다.</translation>
- <translation id="3645455863322075098">이 페이지는 오류 페이지이기 때문에 보고할 수 없습니다.</translation>
--<translation id="105644511106871142">모두를 위해 Brave 개선에 도움을 주셔서 감사합니다. 이 신고는 사이트 문제 해결에 필요한 정보만 전송합니다.</translation>
-+<translation id="105644511106871142">모두를 위해 Kahf 개선에 도움을 주셔서 감사합니다. 이 신고는 사이트 문제 해결에 필요한 정보만 전송합니다.</translation>
- <translation id="6476216365964140603">추가 세부정보(선택사항)</translation>
- <translation id="6145852496180774737">연락 방법:(선택사항)</translation>
- <translation id="7616645803364270729">이메일, Twitter 등</translation>
- <translation id="721949491455392748">현재 페이지의 스크린샷 포함</translation>
- <translation id="8459191579769999214">스크린샷 보기</translation>
- <translation id="5299848999918506028">감사합니다!</translation>
--<translation id="76550953340008122">이 사이트에 문제가 있다는 것을 Brave (브레이브) 개발자에게 알려 주셔서 감사합니다. 최선을 다해 문제를 해결하겠습니다!</translation>
--<translation id="4046860372562593546">Brave Ads 관리</translation>
--<translation id="5136973036012418831">볼 Brave Ads 광고의 종류와 빈도를 제어할 수 있습니다.</translation>
-+<translation id="76550953340008122">이 사이트에 문제가 있다는 것을 Kahf (브레이브) 개발자에게 알려 주셔서 감사합니다. 최선을 다해 문제를 해결하겠습니다!</translation>
-+<translation id="4046860372562593546">Kahf Ads 관리</translation>
-+<translation id="5136973036012418831">볼 Kahf Ads 광고의 종류와 빈도를 제어할 수 있습니다.</translation>
- <translation id="4759608598194750161">많이 볼수록 많이 적립됩니다.</translation>
- <translation id="7526443283522395161">새 탭 페이지 광고</translation>
- <translation id="7968650944098083708">알림 광고</translation>
- <translation id="8289546216379862569">검색 광고</translation>
--<translation id="4758111936363146244">Brave 검색 광고는 <ph name="BEGIN_LINK"/>Brave 검색<ph name="END_LINK"/>에 나타납니다.</translation>
--<translation id="7596536223419118193">아직은 Brave 검색 광고로 BAT를 적립할 수 없지만 Brave를 지원하실 수 있는 방법이 있습니다.</translation>
--<translation id="6390952132783970876">Brave News 광고</translation>
--<translation id="7516281787184495886">Brave News에는 개별적으로 비활성화할 수 없는 광고가 포함됩니다.</translation>
--<translation id="8008378848677625233">Brave News가 현재 비활성화되어 있습니다.</translation>
-+<translation id="4758111936363146244">Kahf 검색 광고는 <ph name="BEGIN_LINK"/>Kahf 검색<ph name="END_LINK"/>에 나타납니다.</translation>
-+<translation id="7596536223419118193">아직은 Kahf 검색 광고로 BAT를 적립할 수 없지만 Kahf를 지원하실 수 있는 방법이 있습니다.</translation>
-+<translation id="6390952132783970876">Kahf News 광고</translation>
-+<translation id="7516281787184495886">Kahf News에는 개별적으로 비활성화할 수 없는 광고가 포함됩니다.</translation>
-+<translation id="8008378848677625233">Kahf News가 현재 비활성화되어 있습니다.</translation>
- <translation id="6112368337882254910">자동 기부</translation>
- <translation id="557705068184766514">사이트와 콘텐츠 제작자를 자동으로 후원할 수 있습니다. 월 후원금을 설정하고 평상시처럼 브라우징하세요. 결제하신 월 후원금을 귀하가 방문하여 머문 시간 비례로 나눠 <ph name="BEGIN_LINK"/>인증된 사이트와 제작자<ph name="END_LINK"/>에게 지급합니다.</translation>
- <translation id="6688567880783357035">이번 달 지금까지의 적립액</translation>
- <translation id="949044897316791211">다음 적립금 지급 날짜</translation>
- <translation id="2211646556917925490">이번 달 받은 총 광고 수</translation>
- <translation id="4229016885653790965">죄송합니다! 귀하의 지역에서는 아직 광고가 제공되지 않습니다.</translation>
--<translation id="2539279826042558064">지금 귀하의 장치에서 Brave (브레이브) 리워드 및 광고를 사용할 수 없습니다.</translation>
-+<translation id="2539279826042558064">지금 귀하의 장치에서 Kahf (브레이브) 리워드 및 광고를 사용할 수 없습니다.</translation>
- <translation id="5736977383725358876">알림 광고 빈도</translation>
- <translation id="7701040980221191251">없음</translation>
- <translation id="480668534656787076">시간당 최대 1개</translation>
-@@ -241,30 +241,30 @@
- <translation id="3082557070674409251">클릭됨</translation>
- <translation id="7119308337584989771">기각됨</translation>
- <translation id="6805660603861526473">조회됨</translation>
--<translation id="8826352442759228526">검증된 디바이스 한도에 도달하여 Brave Rewards를 검증할 수 없습니다.</translation>
-+<translation id="8826352442759228526">검증된 디바이스 한도에 도달하여 Kahf Rewards를 검증할 수 없습니다.</translation>
- <translation id="1221593978088944142">오류: 디바이스 한도 도달</translation>
--<translation id="6895088073061692390">안타깝지만 자동 검사 결과 귀하의 Brave Rewards 프로필에서 비정상적인 Brave Ads 활동이 감지되어 플래깅되었습니다.</translation>
--<translation id="4229056297802204697">프로필이 플래깅되어 있어도 광고를 계속 볼 수 있지만 적립액을 지급받을 수 없습니다. Brave Rewards에 보호관리 계정도 연결할 수 없습니다.</translation>
-+<translation id="6895088073061692390">안타깝지만 자동 검사 결과 귀하의 Kahf Rewards 프로필에서 비정상적인 Kahf Ads 활동이 감지되어 플래깅되었습니다.</translation>
-+<translation id="4229056297802204697">프로필이 플래깅되어 있어도 광고를 계속 볼 수 있지만 적립액을 지급받을 수 없습니다. Kahf Rewards에 보호관리 계정도 연결할 수 없습니다.</translation>
- <translation id="5124846913141379164">프로필이 착오로 인해 플래깅되었더라도 즉시 가능한 조치는 없습니다. 프로필 플래깅은 향후 검토를 거쳐 해제됩니다.</translation>
--<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Brave Rewards 프로필 플래깅 프로세스 자세히 알아보기<ph name="END_LINK"/></translation>
--<translation id="5028274575541726856">오류: Brave Rewards 프로필이 플래깅됨</translation>
-+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Kahf Rewards 프로필 플래깅 프로세스 자세히 알아보기<ph name="END_LINK"/></translation>
-+<translation id="5028274575541726856">오류: Kahf Rewards 프로필이 플래깅됨</translation>
- <translation id="2607420597216860026"><ph name="PROVIDER"/>에서 ID 확인을 완료하고 다시 시도하세요.</translation>
- <translation id="3183954159462541696">오류: 로그인하려면 계정을 검증해야 함</translation>
--<translation id="1859789048900659918">Brave Rewards 국가와 연결하려는 <ph name="PROVIDER"/> 계정의 국가가 일치하지 않습니다.</translation>
-+<translation id="1859789048900659918">Kahf Rewards 국가와 연결하려는 <ph name="PROVIDER"/> 계정의 국가가 일치하지 않습니다.</translation>
- <translation id="8925428135452218262">오류: 국가 불일치</translation>
--<translation id="5260522591743022748">다른 <ph name="PROVIDER"/> 계정에서 이미 확인을 완료한 Brave Rewards인 것 같습니다. 이전 계정으로 확인을 다시 시도해보세요.</translation>
-+<translation id="5260522591743022748">다른 <ph name="PROVIDER"/> 계정에서 이미 확인을 완료한 Kahf Rewards인 것 같습니다. 이전 계정으로 확인을 다시 시도해보세요.</translation>
- <translation id="5111921830714291902">오류: 다른 계정</translation>
--<translation id="5225019866741699134">일시적으로 <ph name="PROVIDER"/>를 Brave Rewards에 연결할 수 없습니다. 나중에 다시 시도하세요.</translation>
-+<translation id="5225019866741699134">일시적으로 <ph name="PROVIDER"/>를 Kahf Rewards에 연결할 수 없습니다. 나중에 다시 시도하세요.</translation>
- <translation id="6105073131081187815"><ph name="BEGIN_LINK"/>여기<ph name="END_LINK"/>서 서비스 상태를 볼 수 있습니다.</translation>
- <translation id="2400786541309111904">오류: 일시적으로 선택한 보호관리 서비스에 연결할 수 없음</translation>
--<translation id="1024520300696337331">지금은 귀하의 <ph name="PROVIDER"/> 계정을 Brave Rewards 프로필에 연결할 수 없습니다. Brave Rewards 연결이 현재 지원되지 않는 국가에 귀하의 <ph name="PROVIDER"/> 계정이 등록되어 있습니다.</translation>
--<translation id="619384413404021992"><ph name="LINK_BEGIN"/>현재 지원되는 지역 목록<ph name="END_LINK"/>을 살펴보고 보호관리 계정을 Brave Rewards에 연결하는 방법을 자세히 알아보세요.</translation>
-+<translation id="1024520300696337331">지금은 귀하의 <ph name="PROVIDER"/> 계정을 Kahf Rewards 프로필에 연결할 수 없습니다. Kahf Rewards 연결이 현재 지원되지 않는 국가에 귀하의 <ph name="PROVIDER"/> 계정이 등록되어 있습니다.</translation>
-+<translation id="619384413404021992"><ph name="LINK_BEGIN"/>현재 지원되는 지역 목록<ph name="END_LINK"/>을 살펴보고 보호관리 계정을 Kahf Rewards에 연결하는 방법을 자세히 알아보세요.</translation>
- <translation id="7193389978208728181">오류: 현재 지원되지 않는 지역</translation>
- <translation id="5382684862562314222">거주하고 계신 지역에서는 Uphold에 BAT가 아직 지원되지 않습니다.</translation>
- <translation id="9074594632540931067">오류: BAT 이용 불가</translation>
- <translation id="5376524136040178759">Uphold의 규정에 따라 현재 귀하의 Uphold 계정에 몇 가지 제한이 걸려 있습니다. Uphold 계정에 로그인하여 이에 대한 알림이 있는지, 완료해야 하는 계정 요건이 남아있는지 확인한 다음 다시 시도하세요. 예를 들어, Uphold에 정보를 제출하는 과정이 남아있을 수 있습니다.</translation>
- <translation id="6996157559236886133">오류: Uphold 계정 기능 제한</translation>
--<translation id="3274650021044762770">브라우저가 Brave Rewards를 <ph name="PROVIDER"/> 계정에 연결하는 요청을 보냈으나 유효성 검증에 문제가 있습니다. <ph name="BEGIN_LINK"/>지원팀에 문의<ph name="END_LINK"/>하여 도움을 받으세요.</translation>
-+<translation id="3274650021044762770">브라우저가 Kahf Rewards를 <ph name="PROVIDER"/> 계정에 연결하는 요청을 보냈으나 유효성 검증에 문제가 있습니다. <ph name="BEGIN_LINK"/>지원팀에 문의<ph name="END_LINK"/>하여 도움을 받으세요.</translation>
- <translation id="1316066811927496401">오류: 요청의 유효성을 검증할 수 없습니다.</translation>
- <translation id="7352651011704765696">문제가 생겼습니다</translation>
- <translation id="8285276813470932793">요청을 완료할 수 없습니다. 다시 시도하세요. 문제가 지속되면 <ph name="LINK_BEGIN"/>지원팀에 문의<ph name="LINK_END"/>하세요.</translation>
-@@ -284,7 +284,7 @@
- <translation id="756341217015623253">로그인 또는 가입</translation>
- <translation id="2653844658857826081">신규</translation>
- <translation id="1892970806832316900"><ph name="DATE"/>까지 보류 중</translation>
--<translation id="7849926087559412554">사용하고 계신 브라우저가 Brave 프라이빗 광고를 수신할 수 없습니다.</translation>
-+<translation id="7849926087559412554">사용하고 계신 브라우저가 Kahf 프라이빗 광고를 수신할 수 없습니다.</translation>
- <translation id="5177429570315095022">광고를 보려면 브라우저를 업데이트해야 합니다.</translation>
- <translation id="4593680147181354667">진단 ID</translation>
- <translation id="3995471429906554168">진단 정보</translation>
-@@ -574,20 +574,20 @@
- <translation id="2429828319207652823">기부금 처리 중 문제가 생겼습니다.</translation>
- <translation id="6390041270339783491">월 기부 실패</translation>
- <translation id="7047578174221019462">월 기부금이 처리되었습니다.</translation>
--<translation id="2529827670795983639">제대로 풀리지 않아 Brave Ads가 일시 중지 상태로 유지됩니다. Captcha 관련 도움을 받으려면 문의하세요.</translation>
-+<translation id="2529827670795983639">제대로 풀리지 않아 Kahf Ads가 일시 중지 상태로 유지됩니다. Captcha 관련 도움을 받으려면 문의하세요.</translation>
- <translation id="261607053214862521">최대 시도 횟수 초과</translation>
- <translation id="2323171459178104277">풀었습니다!</translation>
--<translation id="1512837998731269583">이제 광고 및 수익이 재개되었습니다. Brave Rewards 및 개인 정보 존중 광고 보호에 도움을 주셔서 감사합니다.</translation>
-+<translation id="1512837998731269583">이제 광고 및 수익이 재개되었습니다. Kahf Rewards 및 개인 정보 존중 광고 보호에 도움을 주셔서 감사합니다.</translation>
- <translation id="3247549836099021862">지원팀에 문의</translation>
- <translation id="5234764350956374838">숨기기</translation>
- <translation id="7859066142771796818">토큰은 기프트카드 구입, 다른 통화로 환전, 콘텐츠 제작자 후원 등에 사용 가능합니다.</translation>
--<translation id="5425006356459378415">Brave Rewards 사용 불가</translation>
--<translation id="909076461795862330">Brave Rewards를 설정하는 중에 오류가 발생했습니다. 다시 시도하세요.</translation>
-+<translation id="5425006356459378415">Kahf Rewards 사용 불가</translation>
-+<translation id="909076461795862330">Kahf Rewards를 설정하는 중에 오류가 발생했습니다. 다시 시도하세요.</translation>
- <translation id="3180990265682133881">국가를 설정하는 중에 오류가 발생했습니다. 다시 시도하세요.</translation>
--<translation id="5931798071481566121">귀하가 계신 지역에서는 현재 Brave Rewards 신규 가입이 중단되었습니다. 나중에 언제든 다시 시도해주세요. <ph name="LINK_BEGIN"/>자세히 알아보기<ph name="LINK_END"/></translation>
-+<translation id="5931798071481566121">귀하가 계신 지역에서는 현재 Kahf Rewards 신규 가입이 중단되었습니다. 나중에 언제든 다시 시도해주세요. <ph name="LINK_BEGIN"/>자세히 알아보기<ph name="LINK_END"/></translation>
- <translation id="6439128034594289376">야호! 설정이 다 끝났습니다!</translation>
- <translation id="6136350726756049410">이제 광고를 보고 리워드를 받을 수 있습니다. 웹을 모두를 위한 더 나은 공간으로 만드는 데 일조하고 계십니다. 멋진 일이죠!</translation>
--<translation id="5547108999862247665">Brave Rewards는 어떻게 작동하나요?</translation>
-+<translation id="5547108999862247665">Kahf Rewards는 어떻게 작동하나요?</translation>
- <translation id="3970520675790340955">국가를 선택하세요. 그래야 지역에 맞는 옵션과 광고를 표시해드릴 수 있습니다.</translation>
- <translation id="6945221475159498467">선택</translation>
- <translation id="3279158300746391749">URL 바 내 <ph name="BAT_ICON"/> BAT 아이콘을 눌러 시작하세요.</translation>
-@@ -901,9 +901,9 @@
- <translation id="7261362517244085362">월렛 인증</translation>
- <translation id="7150150391368236519">하드웨어 월렛 연결</translation>
- <translation id="5400782314657008092">현재 <ph name="HARDWARE_DEVICE"/> 및 <ph name="HARDWARE_DEVICE1"/> 디바이스가 지원됩니다.</translation>
--<translation id="8144305264680648043">하드웨어 월렛을 연결하여 Brave 월렛에서 자산을 직접 관리</translation>
-+<translation id="8144305264680648043">하드웨어 월렛을 연결하여 Kahf 월렛에서 자산을 직접 관리</translation>
- <translation id="1329837291200753515">하드웨어 월렛으로 가져올 블록체인 선택</translation>
--<translation id="6983390509997396124"><ph name="HARDWARE_DEVICE"/> 디바이스를 Brave 월렛에 연결</translation>
-+<translation id="6983390509997396124"><ph name="HARDWARE_DEVICE"/> 디바이스를 Kahf 월렛에 연결</translation>
- <translation id="5149944858285555235">알 수 없는 오류. 하드웨어 월렛을 재연결하고 다시 시도하세요.</translation>
- <translation id="4522570452068850558">세부 정보</translation>
- <translation id="9220525904950070496">계정 제거</translation>
-@@ -1579,7 +1579,7 @@
- <translation id="1215089823252478557">추산 잔액 변화 보기</translation>
- <translation id="2761574758015819991">잠재적인 악성 트랜잭션 식별</translation>
- <translation id="168533464844528463">피싱 시도 감지 지원</translation>
--<translation id="7269757150305059881">Brave는 이 서비스를 제공하기 위해 파트너와 협업합니다. 활성화하면 미서명 트랜잭션 및 그 DApp URL을 당사의 파트너에 공유하는 데 동의하게 됩니다.</translation>
-+<translation id="7269757150305059881">Kahf는 이 서비스를 제공하기 위해 파트너와 협업합니다. 활성화하면 미서명 트랜잭션 및 그 DApp URL을 당사의 파트너에 공유하는 데 동의하게 됩니다.</translation>
- <translation id="7790932700072432983">언제든지 <ph name="TAG_BEFORE"/>설정<ph name="TAG_AFTER"/>에서 변경 가능합니다.</translation>
- <translation id="8688672835843460752">유효</translation>
- <translation id="5296640085393149413">사용하실 수 있는 자금입니다.</translation>
-@@ -1803,23 +1803,23 @@
- <translation id="6938154350999993769">태블릿 모드 토글 디버깅</translation>
- <translation id="5854741377790551127">디버그 보기 트리 인쇄</translation>
- <translation id="8199130368328220410">실시간 자막 토글</translation>
--<translation id="9055778350624039365">Brave 월렛 패널 표시</translation>
--<translation id="2548853975094084059">Brave 월렛 패널 닫기</translation>
--<translation id="3765209580429944524">Brave VPN 패널 표시</translation>
--<translation id="5989009326527614692">Brave VPN 툴바 토글 버튼</translation>
--<translation id="7334332308395652803">Brave VPN 트레이 아이콘 토글</translation>
--<translation id="4326011033480357140">Brave VPN 피드백 보내기</translation>
--<translation id="2345974803401546682">Brave VPN 정보</translation>
--<translation id="8934783170241943640">Brave VPN 플랜 관리</translation>
--<translation id="6332027154313182926">Brave VPN 토글</translation>
-+<translation id="9055778350624039365">Kahf 월렛 패널 표시</translation>
-+<translation id="2548853975094084059">Kahf 월렛 패널 닫기</translation>
-+<translation id="3765209580429944524">Kahf VPN 패널 표시</translation>
-+<translation id="5989009326527614692">Kahf VPN 툴바 토글 버튼</translation>
-+<translation id="7334332308395652803">Kahf VPN 트레이 아이콘 토글</translation>
-+<translation id="4326011033480357140">Kahf VPN 피드백 보내기</translation>
-+<translation id="2345974803401546682">Kahf VPN 정보</translation>
-+<translation id="8934783170241943640">Kahf VPN 플랜 관리</translation>
-+<translation id="6332027154313182926">Kahf VPN 토글</translation>
- <translation id="6539014233195996894">탭 음소거 토글</translation>
- <translation id="2682865834956428001">사이드바 위치 토글</translation>
- <translation id="6105745639559695088">사이드바 토글</translation>
- <translation id="3488252265135539275">세로 탭 토글</translation>
- <translation id="7134064542341959603">세로 탭 창 제목 토글</translation>
--<translation id="3067105725259639716">Brave News 구성</translation>
-+<translation id="3067105725259639716">Kahf News 구성</translation>
- <translation id="6286510487460330478">바로가기 구성</translation>
--<translation id="9214819486716388964">Brave Talk 표시</translation>
-+<translation id="9214819486716388964">Kahf Talk 표시</translation>
- <translation id="5950760360751948276">북마크바 항상 표시</translation>
- <translation id="2960757369920422313">NTP 위에 북마크바 표시</translation>
- <translation id="522953399371747698">북마크바 숨기기</translation>
-@@ -1902,9 +1902,9 @@
- <translation id="7144878232160441200">재시도</translation>
- <translation id="8570488829560315702">안녕하세요, 저는 레오예요. 전 Meta가 만든 모델인 Llama 3 8B 기반으로 구동되어 많은 사용 사례에 적용이 가능합니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
- <translation id="6500567629965936637">안녕하세요, 저는 레오예요. 전 Mistral AI가 만든 모델인 Mixtral 8x7B 기반으로 구동되어 고도의 작업도 처리 가능합니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
--<translation id="4590776109659811206">안녕하세요, 저는 레오예요. 저는 Brave가 프록시하고, Anthropic가 만든 모델인 Claude Instant 기반으로 구동되어 대화문 및 텍스트 처리 성능이 강력합니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
--<translation id="8583558415545871403">안녕하세요, 저는 레오예요. 저는 Brave가 프록시하고, Anthropic가 만든 모델인 Claude 3 Haiku 기반으로 구동되어 대화문 및 텍스트 처리 성능이 강력합니다.</translation>
--<translation id="4147243042852964992">안녕하세요, 저는 레오예요. 저는 Brave가 프록시하고, Anthropic가 만든 모델인 Claude 3 Sonnet 기반으로 구동되어 대화문 및 텍스트 처리 성능이 강력합니다.</translation>
-+<translation id="4590776109659811206">안녕하세요, 저는 레오예요. 저는 Kahf가 프록시하고, Anthropic가 만든 모델인 Claude Instant 기반으로 구동되어 대화문 및 텍스트 처리 성능이 강력합니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
-+<translation id="8583558415545871403">안녕하세요, 저는 레오예요. 저는 Kahf가 프록시하고, Anthropic가 만든 모델인 Claude 3 Haiku 기반으로 구동되어 대화문 및 텍스트 처리 성능이 강력합니다.</translation>
-+<translation id="4147243042852964992">안녕하세요, 저는 레오예요. 저는 Kahf가 프록시하고, Anthropic가 만든 모델인 Claude 3 Sonnet 기반으로 구동되어 대화문 및 텍스트 처리 성능이 강력합니다.</translation>
- <translation id="6206029817087805290"><ph name="MODEL_NAME"/> by <ph name="COMPANY_NAME"/></translation>
- <translation id="963346402440669081">프리미엄</translation>
- <translation id="6187065185557150870">채팅</translation>
-@@ -1952,7 +1952,7 @@
- <translation id="8712637175834984815">확인</translation>
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">bitFlyer 연결</translation>
+ <translation id="6143701117592994599">Kahf Rewards를 bitFlyer 계정에 연결하면 BAT를 적립하고, 적립된 BAT를 Kahf Rewards에서 인출할 수 있습니다.</translation>
+ <translation id="4354564238172327160">Kahf 콘텐츠 제작자가 되세요!</translation>
+-<translation id="4639659520811817892">지금 creators.brave.com을 방문하여 등록하고 팬과 팔로워로부터 BAT를 받아 수익을 창출하세요.</translation>
++<translation id="4639659520811817892">지금 creators.Kahf.com을 방문하여 등록하고 팬과 팔로워로부터 BAT를 받아 수익을 창출하세요.</translation>
+ <translation id="4816455138209470435">Kahf는 YouTube, Twitch, Vimeo 등 많은 서비스를 지원합니다!</translation>
+ <translation id="7404779623219601861">BAT와 기프트 카드 교환</translation>
+ <translation id="6215565499749144110">TAP 네트워크를 사용하면 인기 있는 유명 브랜드 기프트 카드와 BAT를 교환할 수 있습니다.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">후원금을 보냈습니다!</translation>
+ <translation id="7063168612616047608">마음에 두는 제작자를 지원해주셔서 감사합니다.</translation>
+ <translation id="1041398280582063935">지지하는 마음 공유하기</translation>
+-<translation id="4001190813297686107">제가 방금 Kahf 브라우저로 <ph name="AMOUNT"/> BAT를 후원했어요!  마음에 드는 제작자와 사이트를 후원하는 방법을 확인해보세요. https://brave.com/rewards</translation>
++<translation id="4001190813297686107">제가 방금 Kahf 브라우저로 <ph name="AMOUNT"/> BAT를 후원했어요!  마음에 드는 제작자와 사이트를 후원하는 방법을 확인해보세요. https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">예기치 않은 오류 발생</translation>
+ <translation id="2605703631071131439">후원금 패널을 다시 열고 다시 시도하세요.</translation>
+ <translation id="8855543392451028706">환영합니다! 후원금을 보내서 이 콘텐츠 제작자를 지원할 수 있습니다. 훌륭한 콘텐츠를 만드는 분들에게 감사를 전하세요.</translation>
+@@ -2052,7 +2052,7 @@
  <translation id="1093419424466417703">페이지가 레오에게 너무 깁니다. 일부 맥락이 대화에서 누락될 수 있습니다. 레오가 페이지 콘텐츠의 <ph name="PERCENTAGE"/>를 읽을 수 있었습니다.</translation>
+ <translation id="2186990448773134544">페이지가 레오에겐 너무 길어 가장 관련성 있는 정보만 추출하여 페이지 콘텐츠를 정제했습니다.</translation>
  <translation id="4370698775470316661">대화가 너무 길어 계속할 수 없습니다. 레오가 긴 대화에서도 정확성을 유지할 수 있게 해주는 다른 모델을 사용하실 수 있습니다.</translation>
 -<translation id="5719170755629028558">Brave 검색으로 답변 수준 높이기...</translation>
 +<translation id="5719170755629028558">Kahf 검색으로 답변 수준 높이기...</translation>
  <translation id="5794962229997281366"><ph name="SEARCH_TERMS"/>에 대한 더 나은 답변 검색.</translation>
  <translation id="6291843235651817590">일반 목적의 채팅</translation>
  <translation id="8193130769524604031">진보된 채팅 작업</translation>
-@@ -1997,13 +1997,13 @@
- <translation id="49269513399674318">마이크 사용</translation>
- <translation id="3895031624234442305">맞춤 모델</translation>
- <translation id="6303294677342628402">보호</translation>
--<translation id="8458987127502506209">Brave Shields 활성화</translation>
-+<translation id="8458987127502506209">Kahf Shields 활성화</translation>
- <translation id="7509914170164691086">다음에 대해 실드 <ph name="LINK_BEFORE"/>활성화됨<ph name="LINK_AFTER"/></translation>
--<translation id="260764436039299868">Brave Shields <ph name="LINK_BEFORE"/>비활성화됨<ph name="LINK_AFTER"/></translation>
-+<translation id="260764436039299868">Kahf Shields <ph name="LINK_BEFORE"/>비활성화됨<ph name="LINK_AFTER"/></translation>
- <translation id="3907405056878805220">이 사이트가 깨져 보이면 Shields를 비활성화해보세요.
--    <ph name="LINK_BEFORE"/>참고: 이렇게 하면 Brave의 프라이버시 보호력이 저하될 수 있습니다.<ph name="LINK_AFTER"/></translation>
-+    <ph name="LINK_BEFORE"/>참고: 이렇게 하면 Kahf의 프라이버시 보호력이 저하될 수 있습니다.<ph name="LINK_AFTER"/></translation>
- <translation id="8377155647357436161">트래커, 광고 등이 차단됨 <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
--<translation id="7604553853176833536">Brave Shields로 보호되지 않음 <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
-+<translation id="7604553853176833536">Kahf Shields로 보호되지 않음 <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
- <translation id="650318023204990401">고급 컨트롤</translation>
- <translation id="5799940914270080805">이 설정을 변경하면 사이트가 깨져 보일 수 있습니다.</translation>
- <translation id="9204041448536398473">전역 Shield 설정</translation>
-@@ -2034,49 +2034,49 @@
- <translation id="2570787596946026998">HTTPS로만 연결</translation>
- <translation id="1992750560347846445">사이트 신고</translation>
- <translation id="2387532482048804818">실드를 활성화했을 때 사이트가 제대로 작동하지 않으면 알려주세요.</translation>
--<translation id="3795015906457257780">Brave 프라이버시 보호 없이 이 사이트를 보는 중</translation>
--<translation id="7194012750329511146">Brave Shields
-+<translation id="3795015906457257780">Kahf 프라이버시 보호 없이 이 사이트를 보는 중</translation>
-+<translation id="7194012750329511146">Kahf Shields
- <ph name="NUMBER"/> 트래커, 광고 등 차단</translation>
- <translation id="4292121526390005808">차단된 스크립트</translation>
- <translation id="5046271170844958713">허용된 스크립트</translation>
- <translation id="264682546981571963">쿠키 동의 문구를 보면 지치시지요?</translation>
--<translation id="4986297793092101884">Brave는 타사 쿠키를 기본으로 차단합니다. 쿠키 동의 문구도 차단할 수 있습니다.</translation>
-+<translation id="4986297793092101884">Kahf는 타사 쿠키를 기본으로 차단합니다. 쿠키 동의 문구도 차단할 수 있습니다.</translation>
- <translation id="535688588637568715">예, 쿠키 동의 문구 차단</translation>
--<translation id="2808175374672429053">Brave Shields에는 와일드카드가 허용되지 않습니다.</translation>
-+<translation id="2808175374672429053">Kahf Shields에는 와일드카드가 허용되지 않습니다.</translation>
- <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
--      =1 {Brave Shields가 <ph name="SITE_URL"/>에서 트래커 1개 차단함}
--      other {Brave Shields가 <ph name="SITE_URL"/>에서 트래커 {BLOCKED_COUNT}개 차단함}
-+      =1 {Kahf Shields가 <ph name="SITE_URL"/>에서 트래커 1개 차단함}
-+      other {Kahf Shields가 <ph name="SITE_URL"/>에서 트래커 {BLOCKED_COUNT}개 차단함}
-     }</translation>
--<translation id="2540598191934725677">Brave Shields를 보려면 Brave 아이콘을 클릭하세요.</translation>
-+<translation id="2540598191934725677">Kahf Shields를 보려면 Kahf 아이콘을 클릭하세요.</translation>
- <translation id="6294662480095808915">프라이버시 보호가 기본.</translation>
--<translation id="4366423156486478559">클릭하는 모든 링크에서 Brave가 든든하게 보호해드립니다. Brave를 기본 브라우저로 설정하세요.</translation>
-+<translation id="4366423156486478559">클릭하는 모든 링크에서 Kahf가 든든하게 보호해드립니다. Kahf를 기본 브라우저로 설정하세요.</translation>
- <translation id="3830912418080848377">설정 가져오기</translation>
- <translation id="6378406588483694938">설치 중에 기존 브라우저에 저장된 북마크, 확장 프로그램, 저장된 비밀번호를 가져올 수 있습니다.</translation>
- <translation id="2092825239819166928">가져올 프로필 선택</translation>
- <translation id="4763127492635705340">선택하신 브라우저에 여러 개의 프로필이 있습니다. 가져올 프로필을 선택하세요.</translation>
- <translation id="880174232178865598">프로필 가져오기</translation>
- <translation id="2453860139492968684">완료</translation>
--<translation id="2273851479262317744">Brave를 기본 브라우저로 설정</translation>
-+<translation id="2273851479262317744">Kahf를 기본 브라우저로 설정</translation>
- <translation id="5037676449506322593">모두 선택</translation>
--<translation id="5148943178722443958">Brave 개선에 참여.</translation>
-+<translation id="5148943178722443958">Kahf 개선에 참여.</translation>
- <translation id="1097073572755862978">충돌 또는 프리징이 발생하면 진단 보고서를 보냅니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
--<translation id="6629244688368006959">Brave 사용자가 사용 중인 기능에 대한 제품 인사이트를 프라이빗하게 익명으로 공유합니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
-+<translation id="6629244688368006959">Kahf 사용자가 사용 중인 기능에 대한 제품 인사이트를 프라이빗하게 익명으로 공유합니다. <ph name="LINK_BEFORE"/>자세히 알아보기<ph name="LINK_AFTER"/></translation>
- <translation id="7415454883318062233">설정 완료</translation>
--<translation id="3141206739023333979">선택 여부는 언제든 Brave에서 <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/> 페이지로 이동하여 변경할 수 있습니다.</translation>
-+<translation id="3141206739023333979">선택 여부는 언제든 Kahf에서 <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/> 페이지로 이동하여 변경할 수 있습니다.</translation>
- <translation id="8321985064212130832"><ph name="LINK_BEFORE"/>개인정보 보호정책<ph name="LINK_AFTER"/> 전문 읽기</translation>
- <translation id="2801098717523961746">테마 선택</translation>
--<translation id="6262510489122516114">Brave 설정에서 언제든지 변경할 수 있습니다.</translation>
-+<translation id="6262510489122516114">Kahf 설정에서 언제든지 변경할 수 있습니다.</translation>
- <translation id="546481172717459539">일치 시스템 설정</translation>
- <translation id="7799817062559422778">라이트 모드</translation>
- <translation id="4117637339509843559">다크 모드</translation>
- <translation id="6302485303316397682">더 나은 검색 결과를 원하시나요?</translation>
--<translation id="7014699001826714920">Brave 검색에 기여하는 운동에 참여하세요.</translation>
--<translation id="6821108091726602352">Brave의 Web Discovery Project에 참여하여 웹 개선에 도움을 주세요. 완전히 익명화된 검색 신호를 공유하는 방법으로 Brave의 검색 색인 확보에 기여하실 수 있습니다.</translation>
-+<translation id="7014699001826714920">Kahf 검색에 기여하는 운동에 참여하세요.</translation>
-+<translation id="6821108091726602352">Kahf의 Web Discovery Project에 참여하여 웹 개선에 도움을 주세요. 완전히 익명화된 검색 신호를 공유하는 방법으로 Kahf의 검색 색인 확보에 기여하실 수 있습니다.</translation>
- <translation id="6764845498618413165">자세히 알아보기</translation>
- <translation id="7818938154803162778">좋아요, 도울게요</translation>
--<translation id="7821773512278295352">Brave Firewall + VPN: 연결됨</translation>
--<translation id="6019088868713395120">Brave Firewall + VPN: 연결 해제됨</translation>
--<translation id="3541307549916475335">Brave VPN 패널 UI</translation>
-+<translation id="7821773512278295352">Kahf Firewall + VPN: 연결됨</translation>
-+<translation id="6019088868713395120">Kahf Firewall + VPN: 연결 해제됨</translation>
-+<translation id="3541307549916475335">Kahf VPN 패널 UI</translation>
- <translation id="1742469581923031760">연결 중…</translation>
- <translation id="1287487756047817908">연결 해제 중…</translation>
- <translation id="2325196879156848326">연결 실패</translation>
-@@ -2086,7 +2086,7 @@
- <translation id="8703188411226330709">무료 평가판 시작하기</translation>
- <translation id="1024255913009642477">VPN을 이미 구매하셨습니까?</translation>
- <translation id="8814357473522731680">제공 -</translation>
--<translation id="3960619311638643872">Brave VPN</translation>
-+<translation id="3960619311638643872">Kahf VPN</translation>
- <translation id="7805768142964895445">상태</translation>
- <translation id="5747552184818312860">만료</translation>
- <translation id="8421945428836418371">자동으로 재연결</translation>
-@@ -2104,7 +2104,7 @@
- <translation id="427718751211990320">자격증명 만료일이 경과했습니다.</translation>
- <translation id="8670619630771851260">자격증명을 로드할 수 없습니다.</translation>
- <translation id="1594643509610625766">토큰이 더 이상 유효하지 않습니다.</translation>
--<translation id="8373427068383038263">최근 <ph name="VALUE"/> 결제에 문제가 생긴 것 같습니다. 결제 문제가 해결될 때까지 이 구독 액세스가 일시 중지됩니다. 결제 수단을 편집해보거나 Brave 지원에 문의하세요.</translation>
-+<translation id="8373427068383038263">최근 <ph name="VALUE"/> 결제에 문제가 생긴 것 같습니다. 결제 문제가 해결될 때까지 이 구독 액세스가 일시 중지됩니다. 결제 수단을 편집해보거나 Kahf 지원에 문의하세요.</translation>
- <translation id="1839021455997460752">이메일 주소</translation>
- <translation id="8054563304616131773">유효한 이메일 주소를 입력하세요.</translation>
- <translation id="5154702632169343078">제목</translation>
-@@ -2121,14 +2121,14 @@
- <translation id="6676791921618140305">OS 버전:</translation>
- <translation id="1156325797949437777">Guardian과의 제휴로 지원이 제공됩니다.</translation>
- <translation id="8146777497879160283">VPN 구성 쓰기에 실패했습니다. 권한이 없거나 최신 Windows 업데이트를 설치하지 않았기 때문일 수 있습니다.</translation>
--<translation id="3307461350293459700">VPN 연결 실패. 다시 연결을 시도해보거나 허용을 클릭하여 Brave의 VPN 구성을 활성화하세요.</translation>
--<translation id="7261518280726313829">보안 DNS를 끄거나 Windows상의 기본 서버를 사용하면 방문하신 사이트의 이름이 인터넷 서비스 제공자에게 공개될 수 있습니다. Brave는 이를 권장하지 않습니다. 그래도 계속하시겠습니까?</translation>
--<translation id="888284761945060750">조직 정책에 의해 보안 DNS가 비활성화되어 있습니다. 보안 DNS 없이 Brave VPN을 사용하면 방문하신 사이트의 이름이 인터넷 서비스 제공자 또는 귀하의 조직에게 공개될 수 있습니다.</translation>
--<translation id="6593224083874259773">Brave VPN - Windows</translation>
--<translation id="3153983908111684619">BraveVPN이 연결된 동안에는 변경할 수 없는 설정</translation>
-+<translation id="3307461350293459700">VPN 연결 실패. 다시 연결을 시도해보거나 허용을 클릭하여 Kahf의 VPN 구성을 활성화하세요.</translation>
-+<translation id="7261518280726313829">보안 DNS를 끄거나 Windows상의 기본 서버를 사용하면 방문하신 사이트의 이름이 인터넷 서비스 제공자에게 공개될 수 있습니다. Kahf는 이를 권장하지 않습니다. 그래도 계속하시겠습니까?</translation>
-+<translation id="888284761945060750">조직 정책에 의해 보안 DNS가 비활성화되어 있습니다. 보안 DNS 없이 Kahf VPN을 사용하면 방문하신 사이트의 이름이 인터넷 서비스 제공자 또는 귀하의 조직에게 공개될 수 있습니다.</translation>
-+<translation id="6593224083874259773">Kahf VPN - Windows</translation>
-+<translation id="3153983908111684619">KahfVPN이 연결된 동안에는 변경할 수 없는 설정</translation>
- <translation id="1055657720430482013">Windows에는 위치 및 방문한 사이트에 대한 정보를 노출시킬 수 있는 '스마트 멀티홈 이름 확인'이라는 기능이 있습니다.
- 
--Brave에는 VPN 연결에서 DNS 쿼리가 생성되는 방식을 필터링하여 이 노출로부터 보호해주는 헬퍼 서비스가 있습니다.
-+Kahf에는 VPN 연결에서 DNS 쿼리가 생성되는 방식을 필터링하여 이 노출로부터 보호해주는 헬퍼 서비스가 있습니다.
- 
- 하지만 이 헬퍼 서비스가 작동되고 있지 않은데, 보호받지 않는 상태로 두면 좋지 않습니다. 브라우저 내 DNS 설정을 변경하여 이 노출로부터 보호하도록 조치했습니다. VPN이 연결된 동안에는 이 설정이 적용되며 변경할 수 없습니다.
- 
+@@ -2262,7 +2262,7 @@ Brave에는 VPN 연결에서 DNS 쿼리가 생성되는 방식을 필터링하
+ <translation id="7423206764347669977">설정 변경</translation>
+ <translation id="9061845622728745852">시간대:</translation>
+ <translation id="8295393906499561642">세션 만료됨</translation>
+-<translation id="3312623558576021182"><ph name="BRAVE_ACCOUNT_BEGIN"/>Kahf 계정<ph name="BRAVE_ACCOUNT_END"/>에 로그인하고 VPN 연결을 새로 고치세요.</translation>
++<translation id="3312623558576021182"><ph name="Kahf_ACCOUNT_BEGIN"/>Kahf 계정<ph name="Kahf_ACCOUNT_END"/>에 로그인하고 VPN 연결을 새로 고치세요.</translation>
+ <translation id="6021669293402055982">Kahf VPN: 연결 해제됨</translation>
+ <translation id="7861195049821776142">Kahf VPN: 연결 해제 중</translation>
+ <translation id="958268166261124668">Kahf VPN: 연결됨</translation>

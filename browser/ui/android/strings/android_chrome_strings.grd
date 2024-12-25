@@ -488,16 +488,16 @@ For more settings that use data to improve your Brave experience, go to <ph name
       </message>
 
       <!-- Blocking choice dialog strings. -->
-      <message name="IDS_BLOCKING_CHOICE_DIALOG_FIRST_TITLE" desc="This string is the heading of a dialog that prompts the user to select the search engine and web browser that they want to use by default. (A search engine provides answers to search queries; this is different from a browser, which displays web pages. A search engine powers many experiences within a browser.) This dialog appears when the user opens Brave after they’ve ignored the Android notification to choose their default apps. This string is before the “Based on a law in your region, you need to choose your browser and search engine” string. We want users to read this dialog and understand that they can use the search engine and browser of their choice. The user can tap “Next” to start the selection flow.">
+      <message name="IDS_BLOCKING_CHOICE_DIALOG_FIRST_TITLE" desc="This string is the heading of a dialog that prompts the user to select the search engine and web browser that they want to use by default. (A search engine provides answers to search queries; this is different from a browser, which displays web pages. A search engine powers many experiences within a browser.) This dialog appears when the user opens Kahf after they’ve ignored the Android notification to choose their default apps. This string is before the “Based on a law in your region, you need to choose your browser and search engine” string. We want users to read this dialog and understand that they can use the search engine and browser of their choice. The user can tap “Next” to start the selection flow.">
         Choose your default apps
       </message>
-      <message name="IDS_BLOCKING_CHOICE_DIALOG_FIRST_MESSAGE" desc="This is the body text of a dialog that explains why users are being prompted to choose a search engine and browser. This dialog appears when the user opens Brave after they’ve ignored the Android notification to choose their default apps. The headline for this dialog is “Choose your default apps”. We want users to read this dialog and understand that they can use the search engine and browser of their choice. The user can tap “Next” to start the selection flow.">
+      <message name="IDS_BLOCKING_CHOICE_DIALOG_FIRST_MESSAGE" desc="This is the body text of a dialog that explains why users are being prompted to choose a search engine and browser. This dialog appears when the user opens Kahf after they’ve ignored the Android notification to choose their default apps. The headline for this dialog is “Choose your default apps”. We want users to read this dialog and understand that they can use the search engine and browser of their choice. The user can tap “Next” to start the selection flow.">
         Based on a law in your region, you need to choose your browser and search engine
       </message>
-      <message name="IDS_BLOCKING_CHOICE_DIALOG_SECOND_TITLE" desc="This string is the heading of a dialog that confirms to the user that Android has saved their choices for the search engine and web browser that they want to use by default. This dialog appears after the user finishes the flow to choose their default apps. This string is before the “The apps you chose will be used by default. If an app isn’t already on this device, it’ll be downloaded shortly.” string. The user can tap “Done” to close the dialog and continue to use Brave (regardless of whether it was chosen as the default browser).">
+      <message name="IDS_BLOCKING_CHOICE_DIALOG_SECOND_TITLE" desc="This string is the heading of a dialog that confirms to the user that Android has saved their choices for the search engine and web browser that they want to use by default. This dialog appears after the user finishes the flow to choose their default apps. This string is before the “The apps you chose will be used by default. If an app isn’t already on this device, it’ll be downloaded shortly.” string. The user can tap “Done” to close the dialog and continue to use Kahf (regardless of whether it was chosen as the default browser).">
         Choices saved
       </message>
-      <message name="IDS_BLOCKING_CHOICE_DIALOG_SECOND_MESSAGE" desc="This is the body text of a dialog that confirms to the user that Android has saved their choices for the search engine and web browser that they want to use by default. It’s possible that the user has chosen a default app that wasn’t previously on their device: if so, that app is now being downloaded in the background. This dialog appears after the user finishes the flow to choose their default apps; now, the user can continue to use Brave (regardless of whether it was chosen as the default browser). The headline for this dialog is “Choices saved”. The user can tap “Done” to close the dialog and continue to use Brave (regardless of whether it was chosen as the default browser).">
+      <message name="IDS_BLOCKING_CHOICE_DIALOG_SECOND_MESSAGE" desc="This is the body text of a dialog that confirms to the user that Android has saved their choices for the search engine and web browser that they want to use by default. It’s possible that the user has chosen a default app that wasn’t previously on their device: if so, that app is now being downloaded in the background. This dialog appears after the user finishes the flow to choose their default apps; now, the user can continue to use Kahf (regardless of whether it was chosen as the default browser). The headline for this dialog is “Choices saved”. The user can tap “Done” to close the dialog and continue to use Kahf (regardless of whether it was chosen as the default browser).">
         The apps you chose will be used by default. If an app isn’t already on this device, it’ll be downloaded shortly.
       </message>
 
@@ -689,32 +689,32 @@ For more settings that use data to improve your Brave experience, go to <ph name
       <message name="IDS_PASSWORDS_AUTO_SIGNIN_TITLE" desc="Title for checkbox to enable automatically signing the user in to websites">
         Auto Sign-in
       </message>
-      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_TITLE" desc="Title of the sheet that notifies the user they are saving passwords to their Brave sync chain.">
+      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_TITLE" desc="Title of the sheet that notifies the user they are saving passwords to their Kahf sync chain.">
         Passwords on all your devices
       </message>
-      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_SUBTITLE" desc="Subtitle of the sheet that notifies the user they are saving passwords to their Brave sync chain.">
-        When you’re signed in to Brave, passwords you save will go in your Brave sync chain. To turn this off, <ph name="BEGIN_LINK">&lt;link&gt;</ph>go to settings<ph name="END_LINK">&lt;/link&gt;</ph>.
+      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_SUBTITLE" desc="Subtitle of the sheet that notifies the user they are saving passwords to their Kahf sync chain.">
+        When you’re signed in to Kahf, passwords you save will go in your Kahf sync chain. To turn this off, <ph name="BEGIN_LINK">&lt;link&gt;</ph>go to settings<ph name="END_LINK">&lt;/link&gt;</ph>.
       </message>
-      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_BUTTON_TEXT" desc="Button text for the sheet that notifies the user they are saving passwords to their Brave sync chain.">
+      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_BUTTON_TEXT" desc="Button text for the sheet that notifies the user they are saving passwords to their Kahf sync chain.">
         Got it
       </message>
-      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_HALF_HEIGHT_ACCESSIBILITY_LABEL" desc="Accessibility label of the sheet that notifies the user they are saving passwords to their Brave sync chain, when the sheet is at half height.">
+      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_HALF_HEIGHT_ACCESSIBILITY_LABEL" desc="Accessibility label of the sheet that notifies the user they are saving passwords to their Kahf sync chain, when the sheet is at half height.">
         Passwords on all your devices opened at half height
       </message>
-      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_FULL_HEIGHT_ACCESSIBILITY_LABEL" desc="Accessibility label of the sheet that notifies the user they are saving passwords to their Brave sync chain, when the sheet is at full height.">
+      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_FULL_HEIGHT_ACCESSIBILITY_LABEL" desc="Accessibility label of the sheet that notifies the user they are saving passwords to their Kahf sync chain, when the sheet is at full height.">
         Passwords on all your devices opened at full height
       </message>
-      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_CLOSED_ACCESSIBILITY_LABEL" desc="Accessibility label of the sheet that notifies the user they are saving passwords to their Brave sync chain, when the sheet is closed.">
+      <message name="IDS_PASSWORDS_ACCOUNT_STORAGE_NOTICE_CLOSED_ACCESSIBILITY_LABEL" desc="Accessibility label of the sheet that notifies the user they are saving passwords to their Kahf sync chain, when the sheet is closed.">
         Passwords on all your devices closed
       </message>
       <message name="IDS_PASSWORDS_AUTO_SIGNIN_DESCRIPTION" desc="Text under 'Auto sign-in' checkbox">
         Automatically sign in to websites using stored credentials. When the feature is off, you’ll be asked for verification every time before signing in to a website.
       </message>
-      <message name="IDS_PASSWORDS_LEAK_DETECTION_SWITCH_TITLE" desc="Title for the switch toggling whether Brave should check that entered credentials have been part of a leak.">
+      <message name="IDS_PASSWORDS_LEAK_DETECTION_SWITCH_TITLE" desc="Title for the switch toggling whether Kahf should check that entered credentials have been part of a leak.">
         Warn you if a password was compromised in a data breach
       </message>
-      <message name="IDS_PASSWORDS_LEAK_DETECTION_SWITCH_SUMMARY" desc="Summary for the switch toggling whether Brave should check that entered credentials have been part of a leak.">
-        When you use a password, Brave warns you if it has been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Brave.
+      <message name="IDS_PASSWORDS_LEAK_DETECTION_SWITCH_SUMMARY" desc="Summary for the switch toggling whether Kahf should check that entered credentials have been part of a leak.">
+        When you use a password, Kahf warns you if it has been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Kahf.
       </message>
       <message name="IDS_PASSWORDS_CHECK_TITLE" desc="Title for the check passwords button which allows to check whether the user's passwords have been compromised.">
         Check passwords
@@ -849,10 +849,10 @@ For more settings that use data to improve your Brave experience, go to <ph name
         Not secure
       </message>
       <message name="IDS_PASSWORDS_NOT_SECURE_FILLING_DETAILS" desc="The message of the dialog which is shown when the user attempts to enter obfuscated text to a regular text field.">
-        To protect your privacy, Brave will not autofill your password in this field.
+        To protect your privacy, Kahf will not autofill your password in this field.
       </message>
       <message name="IDS_PWD_ACCESS_LOSS_WARNING_NO_GMS_CORE_TITLE" desc="The title of the password access loss warning sheet when there is no GMS Core." formatter_data="android_java">
-        Brave Password Manager will stop working on this device
+        Kahf Password Manager will stop working on this device
       </message>
       <message name="IDS_PWD_ACCESS_LOSS_WARNING_NO_GMS_CORE_TEXT" desc="The text of the password access loss warning sheet when there is no GMS Core." formatter_data="android_java">
         Passwords will stop working soon because Google Play services isn’t available. You can make a copy of your saved passwords before they stop working. <ph name="BEGIN_LINK">&lt;link&gt;</ph>Learn more<ph name="END_LINK">&lt;/link&gt;</ph>
@@ -864,7 +864,7 @@ For more settings that use data to improve your Brave experience, go to <ph name
         Fix problem with saved passwords
       </message>
       <message name="IDS_PWD_ACCESS_LOSS_WARNING_MANUAL_MIGRATION_TEXT" desc="The text of the password access loss warning sheet when the automatic password migration failed." formatter_data="android_java">
-        Some passwords on this device will stop working soon. You can move these passwords to Brave Password Manager.
+        Some passwords on this device will stop working soon. You can move these passwords to Kahf Password Manager.
       </message>
       <message name="IDS_PWD_ACCESS_LOSS_WARNING_MANUAL_MIGRATION_BUTTON_TEXT" desc="The button text of the password access loss warning sheet when the automatic password migration failed." formatter_data="android_java">
         Help me fix this
@@ -891,7 +891,7 @@ For more settings that use data to improve your Brave experience, go to <ph name
         We’re changing how passwords are saved on this device
       </message>
       <message name="IDS_PASSWORD_MIGRATION_WARNING_SUBTITLE" desc="The subtitle of the password migration warning sheet." formatter_data="android_java">
-        Right now, passwords saved on this device cannot be used across Brave channels. After Brave 125, passwords saved on your device for Brave and <ph name="CHROME_CHANNEL">%1$s<ex>Brave Dev</ex></ph> will be merged and can be used in both apps.
+        Right now, passwords saved on this device cannot be used across Kahf channels. After Kahf 125, passwords saved on your device for Kahf and <ph name="CHROME_CHANNEL">%1$s<ex>Kahf Dev</ex></ph> will be merged and can be used in both apps.
       </message>
       <message name="IDS_PASSWORD_MIGRATION_WARNING_ACKNOWLEDGE" desc="The text on the button that acknowledges the password migration warning.">
         Got it
@@ -951,19 +951,19 @@ For more settings that use data to improve your Brave experience, go to <ph name
         Exporting
       </message>
       <message name="IDS_EXPORTED_PASSWORDS_DELETION_DIALOG_TEXT" desc="The text that describes the option to delete the passwords that were just exported." formatter_data="android_java">
-        Your passwords will be deleted from Brave Password Manager for <ph name="CHROME_CHANNEL">%1$s<ex>Brave Dev</ex></ph>. You will keep the passwords file you just downloaded.
+        Your passwords will be deleted from Kahf Password Manager for <ph name="CHROME_CHANNEL">%1$s<ex>Kahf Dev</ex></ph>. You will keep the passwords file you just downloaded.
       </message>
       <message name="IDS_EXPORTED_PASSWORDS_DELETE_BUTTON" desc="The text on the button that confirms the action of deleting the passwords that were exported." formatter_data="android_java">
         Delete passwords
       </message>
-      <message name="IDS_CHROME_CHANNEL_NAME_CANARY" desc="The Brave channel name for canary channel">
-        Brave Canary
+      <message name="IDS_CHROME_CHANNEL_NAME_CANARY" desc="The Kahf channel name for canary channel">
+        Kahf Canary
       </message>
-      <message name="IDS_CHROME_CHANNEL_NAME_DEV" desc="The Brave channel name for dev channel">
-        Brave Dev
+      <message name="IDS_CHROME_CHANNEL_NAME_DEV" desc="The Kahf channel name for dev channel">
+        Kahf Dev
       </message>
-      <message name="IDS_CHROME_CHANNEL_NAME_BETA" desc="The Brave channel name for beta channel">
-        Brave Beta
+      <message name="IDS_CHROME_CHANNEL_NAME_BETA" desc="The Kahf channel name for beta channel">
+        Kahf Beta
       </message>
       <message name="IDS_ACCESS_LOSS_UPDATE_GMS_TITLE" desc="The title of the password access loss warning shown in Settings when the user tries to navigate to the Password Manager settings having an outdated Goggle Play Services.">
         Update Google Play services
@@ -1601,7 +1601,7 @@ Your Brave account may have other forms of browsing history like searches and ac
         Ad privacy
       </message>
       <message name="IDS_PRIVACY_GUIDE_PRIVACY_SANDBOX_DESCRIPTION" desc="Description for the Privacy Sandbox item on the final page of the privacy guide">
-        Brave gives you more control over the ads you see and limits what sites can learn about you when they show you personalized ads.
+        Kahf gives you more control over the ads you see and limits what sites can learn about you when they show you personalized ads.
       </message>
       <message name="IDS_PRIVACY_GUIDE_PRIVACY_SANDBOX_DESCRIPTION_AD_TOPICS" desc="Description for the Privacy Sandbox item on the final page of the privacy guide - This text is used when the ad topics card is added.">
         Manage your ad topics and other settings to limit what sites can learn about you to show you personalized ads
@@ -1610,7 +1610,7 @@ Your Brave account may have other forms of browsing history like searches and ac
         Web &amp; App Activity
       </message>
       <message name="IDS_PRIVACY_GUIDE_WEB_APP_ACTIVITY_DESCRIPTION" desc="Description for the Web and App Activity item on the final page of the privacy guide">
-        Choose whether to include Brave history for more personalized experiences in Brave services
+        Choose whether to include Kahf history for more personalized experiences in Kahf services
       </message>
       <message name="IDS_PRIVACY_GUIDE_EXPLANATION_CONTENT_DESCRIPTION" desc="The content description for the privacy guide explanation bottom sheet. Read as accessibility string when tapping on the bottom sheet.">
         Privacy guide explanation
@@ -1628,13 +1628,13 @@ Your Brave account may have other forms of browsing history like searches and ac
         When you tap or type in the address bar or search box, you'll see suggestions from your default search engine. This is off in Private.
       </message>
       <message name="IDS_PRIVACY_GUIDE_SEARCH_SUGGESTIONS_ITEM_TWO" desc="Second bullet point that describes the details of the search suggestions toggle.">
-        As you type, Brave sends the content of the address bar or search box to your default search engine
+        As you type, Kahf sends the content of the address bar or search box to your default search engine
       </message>
       <message name="IDS_PRIVACY_GUIDE_SEARCH_SUGGESTIONS_ITEM_THREE" desc="Third bullet point that describes the details of the search suggestions toggle.">
-        Depending on your settings, Brave may also send cookies, your current URL, and your location
+        Depending on your settings, Kahf may also send cookies, your current URL, and your location
       </message>
       <message name="IDS_PRIVACY_GUIDE_SEARCH_SUGGESTIONS_ITEM_FOUR" desc="Fourth bullet point that describes the details of the search suggestions toggle.">
-        When off, you’ll still see suggestions that Brave provides locally
+        When off, you’ll still see suggestions that Kahf provides locally
       </message>
 
       <!-- Tracking protection -->
@@ -1793,28 +1793,28 @@ Your Brave account may have other forms of browsing history like searches and ac
         Safety at a glance
       </message>
       <message name="IDS_SAFETY_HUB_SAFETY_TIPS_SECTION_HEADER" desc="Title for the user education section of Safety Hub. A series of entries that encourage the user to explore several safety related surfaces follows.">
-        Learn how Brave keeps you safe
+        Learn how Kahf keeps you safe
       </message>
       <message name="IDS_SAFETY_HUB_DESCRIPTION" desc="Description at the top of the Safey Check page. It informs the user that safety check will run checkups periodically for several modules and display the results on this page.">
-        Brave regularly checks to make sure your browser has the safest settings. We'll let you know if anything needs review.
+        Kahf regularly checks to make sure your browser has the safest settings. We'll let you know if anything needs review.
       </message>
       <message name="IDS_SAFETY_HUB_NOTIFICATIONS_RESET_ALL_BUTTON" desc="Text found on the primary button of the notifications module warning state. When clicked it will unsubscribe the user from all sites that send a lot of notifications.">
         Unsubscribe all
       </message>
       <message name="IDS_SAFETY_HUB_REMOVED_ONE_PERMISSION_SUBLABEL" desc="Description text shown below a site name, when a single permission, excluding notification permissions, was automatically revoked for that site.">
-        <ph name="PERMISSION">%1$s<ex>Location</ex></ph> <ph name="SEPARATOR">•</ph> Brave removed these permissions because you haven’t visited recently
+        <ph name="PERMISSION">%1$s<ex>Location</ex></ph> <ph name="SEPARATOR">•</ph> Kahf removed these permissions because you haven’t visited recently
       </message>
       <message name="IDS_SAFETY_HUB_REMOVED_TWO_PERMISSIONS_SUBLABEL" desc="Description text shown below a site name, when two permissions, excluding notification permissions, were automatically revoked for that site.">
-        <ph name="PERMISSION_1">%1$s<ex>Location</ex></ph>, <ph name="PERMISSION_2">%2$s<ex>Notifications</ex></ph> <ph name="SEPARATOR">•</ph> Brave removed these permissions because you haven’t visited recently
+        <ph name="PERMISSION_1">%1$s<ex>Location</ex></ph>, <ph name="PERMISSION_2">%2$s<ex>Notifications</ex></ph> <ph name="SEPARATOR">•</ph> Kahf removed these permissions because you haven’t visited recently
       </message>
       <message name="IDS_SAFETY_HUB_REMOVED_THREE_PERMISSIONS_SUBLABEL" desc="Description text shown below a site name, when three permissions, excluding notification permissions, were automatically revoked for that site.">
-        <ph name="PERMISSION_1">%1$s<ex>Location</ex></ph>, <ph name="PERMISSION_2">%2$s<ex>Notifications</ex></ph>, <ph name="PERMISSION_3">%3$s<ex>Camera</ex></ph> <ph name="SEPARATOR">•</ph> Brave removed these permissions because you haven’t visited recently
+        <ph name="PERMISSION_1">%1$s<ex>Location</ex></ph>, <ph name="PERMISSION_2">%2$s<ex>Notifications</ex></ph>, <ph name="PERMISSION_3">%3$s<ex>Camera</ex></ph> <ph name="SEPARATOR">•</ph> Kahf removed these permissions because you haven’t visited recently
       </message>
       <message name="IDS_SAFETY_HUB_REMOVED_FOUR_OR_MORE_PERMISSIONS_SUBLABEL" desc="Description text shown below a site name, when four or more permissions, excluding notification permissions, were automatically revoked for that site.">
-        <ph name="PERMISSION_1">%1$s<ex>Location</ex></ph>, <ph name="PERMISSION_2">%2$s<ex>Notifications</ex></ph>, and more <ph name="SEPARATOR">•</ph> Brave removed these permissions because you haven’t visited recently
+        <ph name="PERMISSION_1">%1$s<ex>Location</ex></ph>, <ph name="PERMISSION_2">%2$s<ex>Notifications</ex></ph>, and more <ph name="SEPARATOR">•</ph> Kahf removed these permissions because you haven’t visited recently
       </message>
       <message name="IDS_SAFETY_HUB_ABUSIVE_NOTIFICATION_PERMISSIONS_SUBLABEL" desc="Description text shown below a site name, when notification permissions were automatically revoked for that site.">
-        Notifications <ph name="SEPARATOR">•</ph> Brave removed these permissions because this site is dangerous
+        Notifications <ph name="SEPARATOR">•</ph> Kahf removed these permissions because this site is dangerous
       </message>
       <message name="IDS_SAFETY_HUB_NOTIFICATIONS_RESET_SNACKBAR" desc="Snackbar text displayed when the user clicks the Unsubscribe button for a site which sends a lot of notifications. Informs the user for which site the notifications were unsubscribed.">
        Unsubscribed from <ph name="SITE_NAME">%1$s<ex>https://example.com:443</ex></ph>. You'll be asked again on your next visit.
@@ -1902,35 +1902,35 @@ Your Brave account may have other forms of browsing history like searches and ac
       <message name="IDS_SAFETY_HUB_CHECKED_RECENTLY" desc="Subtitle for the card at the very top of the Safety Check page, this informs the user that Safety Check has ran checkups for modules recently.">
         Checked recently
       </message>
-      <message name="IDS_SAFETY_HUB_NO_PASSWORDS_TITLE" desc="Title for the password check row in the Safety Check page indicating that the user does not have any passwords saved to their Brave account.">
+      <message name="IDS_SAFETY_HUB_NO_PASSWORDS_TITLE" desc="Title for the password check row in the Safety Check page indicating that the user does not have any passwords saved to their Kahf account.">
         No saved passwords
       </message>
       <message name="IDS_SAFETY_HUB_NO_COMPROMISED_PASSWORDS_TITLE" desc="Title for the password check row in the Safety Check page indicating that the checkup did not find any compromised passwords.">
         No compromised passwords
       </message>
       <message name="IDS_SAFETY_HUB_NO_PASSWORDS_SUMMARY" desc="Summary for the password check row in the Safety Check page indicating that the user has no passwords saved and that Safety check will start checking for breached passwords when they save them.">
-        Brave can check your passwords when you save them
+        Kahf can check your passwords when you save them
       </message>
-      <message name="IDS_SAFETY_HUB_NO_PASSWORDS_SUMMARY_MANAGED" desc="Summary for the password check row in the Safety Check page indicating that the organization of the user's account or device has disabled saving new passwords to the Brave password manager.">
+      <message name="IDS_SAFETY_HUB_NO_PASSWORDS_SUMMARY_MANAGED" desc="Summary for the password check row in the Safety Check page indicating that the organization of the user's account or device has disabled saving new passwords to the Kahf password manager.">
         Your organization turned off saving passwords
       </message>
-      <message name="IDS_SAFETY_HUB_UPDATES_OUTDATED_SUMMARY" desc="Summary for the update check row in the Safety Check page indicating that the current installed version of Brave is not up to date and that there is a newer version available for install.">
-        New version of Brave is available
+      <message name="IDS_SAFETY_HUB_UPDATES_OUTDATED_SUMMARY" desc="Summary for the update check row in the Safety Check page indicating that the current installed version of Kahf is not up to date and that there is a newer version available for install.">
+        New version of Kahf is available
       </message>
-      <message name="IDS_SAFETY_HUB_VERSION_SUMMARY" desc="Summary for the update check row in the Safety Check page indicating the current Brave version.">
+      <message name="IDS_SAFETY_HUB_VERSION_SUMMARY" desc="Summary for the update check row in the Safety Check page indicating the current Kahf version.">
         Version <ph name="VERSION_NUMBER">%1$s<ex>123.0.5678.90</ex></ph>
       </message>
-      <message name="IDS_SAFETY_HUB_UPDATE_UNAVAILABLE_TITLE" desc="Title for the update check row in the Safety Check page indicating that Safety Check could not check Brave for updates and that it does not know whether the current version is the latest.">
-        Can’t check Brave version
+      <message name="IDS_SAFETY_HUB_UPDATE_UNAVAILABLE_TITLE" desc="Title for the update check row in the Safety Check page indicating that Safety Check could not check Kahf for updates and that it does not know whether the current version is the latest.">
+        Can’t check Kahf version
       </message>
       <message name="IDS_SAFETY_HUB_NOTIFICATIONS_REVIEW_OK_SUMMARY" desc="Summary for the notifications module in the Safety Hub dashboard. It is displayed when the user has no notification permissions that need to be reviewed.">
-        Brave will let you know about sites that may be sending too many notifications
+        Kahf will let you know about sites that may be sending too many notifications
       </message>
       <message name="IDS_SAFETY_HUB_NOTIFICATIONS_REVIEW_WARNING_SUMMARY" desc="Summary for the notifications module in the Safety Hub dashboard. It is displayed when the user has some notification permissions that need to be reviewed.">
         You can stop these sites from sending future notifications
       </message>
       <message name="IDS_SAFETY_HUB_PERMISSIONS_OK_SUMMARY" desc="Summary for the permissions module in the Safety Hub dashboard. It is displayed when the user has no automatically revoked permissions that need to be reviewed.">
-        Brave automatically removes permissions from abusive and unused sites
+        Kahf automatically removes permissions from abusive and unused sites
       </message>
       <message name="IDS_SAFETY_HUB_PERMISSIONS_WARNING_SUMMARY" desc="Text shown as a header at the very top of the Safety Hub permissions review subpage, or as a summary in the permissions review dashboard module. Further educates the user about why their permissions were revoked.">
         To help keep you safe, permissions were removed from some sites
@@ -1970,7 +1970,7 @@ Your Brave account may have other forms of browsing history like searches and ac
         Enhanced protection
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_SUMMARY" desc="Summary for Safe Browsing enhanced protection mode.">
-        Real-time, proactive protection against dangerous sites, downloads, and extensions that’s based on your browsing data getting sent to Brave
+        Real-time, proactive protection against dangerous sites, downloads, and extensions that’s based on your browsing data getting sent to Kahf
       </message>
       <message name="IDS_SAFE_BROWSING_STANDARD_PROTECTION_TITLE" desc="Title for Safe Browsing standard protection mode. [CHAR_LIMIT=32]">
         Standard protection
@@ -1979,13 +1979,13 @@ Your Brave account may have other forms of browsing history like searches and ac
         Protects against sites, downloads, and extensions that are known to be dangerous. If a page does something suspicious, URLs and bits of page content are sent to Google Safe Browsing.
       </message>
       <message name="IDS_SAFE_BROWSING_STANDARD_PROTECTION_SUMMARY_PROXY" desc="Summary for Safe Browsing standard protection mode with proxy.">
-        Protects against sites, downloads, and extensions that are known to be dangerous. When you visit a site, Brave sends an obfuscated portion of the URL to Brave through a privacy server that hides your IP address. If a site does something suspicious, full URLs and bits of page content are also sent.
+        Protects against sites, downloads, and extensions that are known to be dangerous. When you visit a site, Kahf sends an obfuscated portion of the URL to Kahf through a privacy server that hides your IP address. If a site does something suspicious, full URLs and bits of page content are also sent.
       </message>
       <message name="IDS_SAFE_BROWSING_NO_PROTECTION_TITLE" desc="Title for Safe Browsing no protection mode. [CHAR_LIMIT=32]">
         No protection (not recommended)
       </message>
       <message name="IDS_SAFE_BROWSING_NO_PROTECTION_SUMMARY" desc="Summary for Safe Browsing no protection mode.">
-        Does not protect you against dangerous websites, downloads, and extensions. Your Safe Browsing settings in other Brave products won't be affected.
+        Does not protect you against dangerous websites, downloads, and extensions. Your Safe Browsing settings in other Kahf products won't be affected.
       </message>
 
       <!-- Safe Browsing enhanced protection preferences -->
@@ -1993,13 +1993,13 @@ Your Brave account may have other forms of browsing history like searches and ac
         Enhanced protection
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_ONE" desc="First bullet point that describes the details of the Safe Browsing control.">
-        Warns you about dangerous sites, even ones Brave didn’t know about before, by analyzing more data from sites than standard protection. You can choose to skip Brave warnings.
+        Warns you about dangerous sites, even ones Kahf didn’t know about before, by analyzing more data from sites than standard protection. You can choose to skip Kahf warnings.
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_TWO" desc="Second bullet point that describes the details of the Safe Browsing control.">
         In-depth scans for suspicious downloads.
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_THREE" desc="Third bullet point that describes the details of the Safe Browsing control.">
-        When you're signed in, protects you across Brave services.
+        When you're signed in, protects you across Kahf services.
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_FOUR" desc="Fourth bullet point that describes the details of the Safe Browsing control.">
         Improves security for you and everyone on the web.
@@ -2011,13 +2011,13 @@ Your Brave account may have other forms of browsing history like searches and ac
         Sends the URLs of sites you visit and a small sample of page content, downloads, extension activity, and system information to Google Safe Browsing to check if they’re harmful.
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_SEVEN" desc="Seventh bullet point that describes the details of the Safe Browsing control.">
-        When you’re signed in, this data is linked to your Brave sync chain to protect you across Brave services, for example increasing protection in Gmail after a security incident.
+        When you’re signed in, this data is linked to your Kahf sync chain to protect you across Kahf services, for example increasing protection in Gmail after a security incident.
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_EIGHT" desc="Eighth bullet point that describes the details of the Safe Browsing control.">
         Doesn’t noticeably slow down your browser or device.
       </message>
       <message name="IDS_SAFE_BROWSING_ENHANCED_PROTECTION_LEARN_MORE_LABEL" desc="The text for a link to a help center article that gives more information about Safe Browsing.">
-        Learn more about <ph name="BEGIN_LINK">&lt;link&gt;</ph>how Brave keeps your data private<ph name="END_LINK">&lt;/link&gt;</ph>
+        Learn more about <ph name="BEGIN_LINK">&lt;link&gt;</ph>how Kahf keeps your data private<ph name="END_LINK">&lt;/link&gt;</ph>
       </message>
 
       <!-- History App filter -->
@@ -2488,12 +2488,12 @@ Your Brave account may have other forms of browsing history like searches and ac
         Sign in to managed account
       </message>
       <message name="IDS_MANAGED_SIGNIN_WITH_USER_POLICY_SUBTITLE" desc="The subtitle of the Sign in with a managed account dialog when user policies are enabled.">
-        Your organization, <ph name="MANAGED_DOMAIN">%1$s<ex>Brave</ex></ph>, manages the account you're signing in to and how Brave can be used. Your administrator can set up or restrict certain features.
+        Your organization, <ph name="MANAGED_DOMAIN">%1$s<ex>Kahf</ex></ph>, manages the account you're signing in to and how Kahf can be used. Your administrator can set up or restrict certain features.
       </message>
       <message name="IDS_SYNC_YOUR_BOOKMARKS" desc="Title for the prompt to signin and enable sync to sync their bookmarks">
         Sync your bookmarks
       </message>
-      <message name="IDS_ENABLE_SYNC_BUTTON" desc="Text that displayed or button that allows the user to open Brave settings to enable sync.">
+      <message name="IDS_ENABLE_SYNC_BUTTON" desc="Text that displayed or button that allows the user to open Kahf settings to enable sync.">
         Open settings
       </message>
       <message name="IDS_OPEN_SETTINGS_BUTTON" desc="Text that displayed or button that allows the open Android settings to enable sync.">
@@ -2930,7 +2930,7 @@ To change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the Brave da
         <ph name="TAB_TITLE">%1$s<ex>Welcome to Facebook</ex></ph>, new or updated tab
       </message>
       <message name="IDS_ACCESSIBILITY_TABSTRIP_BTN_CLOSE_TAB" desc="Content description for the close tab button.">
-        Close <ph name="TAB_TITLE">%1$s<ex>Brave</ex></ph> tab
+        Close <ph name="TAB_TITLE">%1$s<ex>Kahf</ex></ph> tab
       </message>
       <message name="IDS_TAB_LOADING_DEFAULT_TITLE" desc="The title of a tab when we are still waiting for either the URL or the real title. This generally shows when the page is first loading.">
         Loading…
@@ -3681,7 +3681,7 @@ To change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the Brave da
         Your profile lock keeps your info secure in the car, including synced passwords, payments and more.
       </message>
       <message name="IDS_DEVICE_LOCK_EXISTING_LOCK_DESCRIPTION_FOR_SIGNIN" desc="Text description explaining to users who have already set an existing lock that a profile lock is required for automotive devices to protect data privacy. ">
-        Your profile lock keeps your info secure in the car, including passwords, payments, and more saved in your Brave sync chain.
+        Your profile lock keeps your info secure in the car, including passwords, payments, and more saved in your Kahf sync chain.
       </message>
       <message name="IDS_DEVICE_LOCK_CREATION_NOTICE" desc="Text description alerting users that if they continue and set a profile lock on the car, it will be required to unlock the profile every time they use the car.">
         You’ll unlock your screen every time you use the car
@@ -5330,38 +5330,38 @@ To change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the Brave da
         Search with Sogou
       </message>
       <message name="IDS_SOGOU_EXPLANATION" desc="Text explaining why Sogou should be used as default search engine.">
-        Brave can use <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Sogou<ph name="END_BOLD">&lt;/b&gt;</ph> for search in China. You can change this in <ph name="BEGIN_LINK">&lt;link&gt;</ph>Settings<ph name="END_LINK">&lt;/link&gt;</ph>.
+        Kahf can use <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Sogou<ph name="END_BOLD">&lt;/b&gt;</ph> for search in China. You can change this in <ph name="BEGIN_LINK">&lt;link&gt;</ph>Settings<ph name="END_LINK">&lt;/link&gt;</ph>.
       </message>
-      <message name="IDS_KEEP_GOOGLE" desc="Text representing the option that the user wants to keep Brave as the default search engine.">
-        Keep Brave
+      <message name="IDS_KEEP_GOOGLE" desc="Text representing the option that the user wants to keep Kahf as the default search engine.">
+        Keep Kahf
       </message>
       <message name="IDS_USING_SOGOU" desc="Text notifying users that the default search engine has been set to Sogou.">
         Using Sogou for search
       </message>
-      <message name="IDS_USING_GOOGLE" desc="Text notifying users that the default search engine has been set to Brave.">
-        Using Brave for search
+      <message name="IDS_USING_GOOGLE" desc="Text notifying users that the default search engine has been set to Kahf.">
+        Using Kahf for search
       </message>
 
       <!-- AuthTab -->
-      <message name="IDS_AUTH_TAB_SECURED_BY_CHROME_TEMPLATE" desc="Message template that used to indicating that the Auth Tab is securely running on Brave. [CHAR_LIMIT=32]">
-        Secured by <ph name="APP_NAME">%1$s<ex>Brave</ex></ph>
+      <message name="IDS_AUTH_TAB_SECURED_BY_CHROME_TEMPLATE" desc="Message template that used to indicating that the Auth Tab is securely running on Kahf. [CHAR_LIMIT=32]">
+        Secured by <ph name="APP_NAME">%1$s<ex>Kahf</ex></ph>
       </message>
 
       <!-- WebAPK/TWA related strings -->
-      <message name="IDS_TWA_RUNNING_IN_CHROME" desc="Message on a snackbar indicating that the current Activity may use Brave data (the rest of the app may not be).">
-        Running in Brave
+      <message name="IDS_TWA_RUNNING_IN_CHROME" desc="Message on a snackbar indicating that the current Activity may use Kahf data (the rest of the app may not be).">
+        Running in Kahf
       </message>
-      <message name="IDS_TWA_RUNNING_IN_CHROME_TEMPLATE" desc="Message template that used to indicating that the current Activity may use Brave data (the rest of the app may not be). [CHAR_LIMIT=32]">
-        Running in <ph name="APP_NAME">%1$s<ex>Brave</ex></ph>
+      <message name="IDS_TWA_RUNNING_IN_CHROME_TEMPLATE" desc="Message template that used to indicating that the current Activity may use Kahf data (the rest of the app may not be). [CHAR_LIMIT=32]">
+        Running in <ph name="APP_NAME">%1$s<ex>Kahf</ex></ph>
       </message>
-      <message name="IDS_TWA_RUNNING_IN_CHROME_V2" desc="Updated message on a snackbar indicating that the current Activity may use Brave data (the rest of the app may not be).">
-        You'll see your <ph name="SITE_NAME">%1$s<ex>www.youtube.com</ex></ph> sign-in status, browsing data, and site data in Brave
+      <message name="IDS_TWA_RUNNING_IN_CHROME_V2" desc="Updated message on a snackbar indicating that the current Activity may use Kahf data (the rest of the app may not be).">
+        You'll see your <ph name="SITE_NAME">%1$s<ex>www.youtube.com</ex></ph> sign-in status, browsing data, and site data in Kahf
       </message>
       <message name="IDS_TWA_CLEAR_DATA_DIALOG_TITLE" desc="Title of the clear data dialog showing after user uninstalls or clears data of an app hosting a Trusted Web Activity">
-        <ph name="APP_NAME">%1$s<ex>YouTube</ex></ph> also has data in Brave
+        <ph name="APP_NAME">%1$s<ex>YouTube</ex></ph> also has data in Kahf
       </message>
       <message name="IDS_TWA_CLEAR_DATA_DIALOG_MESSAGE" desc="Message of the delete data dialog">
-        You can delete the data in Brave Settings
+        You can delete the data in Kahf Settings
       </message>
       <message name="IDS_TWA_CLEAR_DATA_DIALOG_KEEP_DATA" desc="Text on the negative button of the clear data dialog">
         Keep Data

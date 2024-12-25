@@ -1,334 +1,37 @@
 diff a/components/resources/strings/brave_components_resources_lt.xtb b/components/resources/strings/brave_components_resources_lt.xtb	(rejected hunks)
-@@ -169,36 +169,36 @@
- <translation id="5334844597069022743">Žiūrėti šaltinį</translation>
- <translation id="4720556299488643018">Atsisakyti prenumeratos</translation>
- <translation id="1209739344687072997">Pranešti apie neveikiančią svetainę</translation>
--<translation id="8510478288840333677">Praneškite „Brave“ kūrėjams, kad ši svetainė neveikia tinkamai su skydais:</translation>
-+<translation id="8510478288840333677">Praneškite „Kahf“ kūrėjams, kad ši svetainė neveikia tinkamai su skydais:</translation>
- <translation id="3110968385867124099">Apie šį puslapį pranešti negalima, nes jis pristatytas ne per HTTP / HTTPS.</translation>
- <translation id="7907023135990310743">Tai vietinis tinklalapis, ir apie jį pranešti negalima.</translation>
- <translation id="3645455863322075098">Tai klaidos puslapis, ir apie jį pranešti negalima.</translation>
--<translation id="105644511106871142">Dėkojame, kad padedate „Brave“ daryti geresnę visiems. Ši ataskaita perduos tik būtiną informaciją, kad galėtume taisyti šią svetainę.</translation>
-+<translation id="105644511106871142">Dėkojame, kad padedate „Kahf“ daryti geresnę visiems. Ši ataskaita perduos tik būtiną informaciją, kad galėtume taisyti šią svetainę.</translation>
- <translation id="6476216365964140603">Papildoma informacija (neprivaloma)</translation>
- <translation id="6145852496180774737">Susisiekite su manimi šiuo adresu: (neprivaloma)</translation>
- <translation id="7616645803364270729">El. paštas, „Twitter“ ir kt.</translation>
- <translation id="721949491455392748">Pridėti esamo puslapio ekrano kopiją</translation>
- <translation id="8459191579769999214">Žiūrėti ekrano kopiją</translation>
- <translation id="5299848999918506028">Dėkojame!</translation>
--<translation id="76550953340008122">Dėkojame, kad pranešėte „Brave“ kūrėjams, jog su šia svetaine kažkas negerai. Pasistengsime ją sutvarkyti!</translation>
--<translation id="4046860372562593546">Tvarkyti „Brave“ reklamas</translation>
--<translation id="5136973036012418831">Tvarkykite, kokias „Brave“ reklamas matote bei jų dažnumą.</translation>
-+<translation id="76550953340008122">Dėkojame, kad pranešėte „Kahf“ kūrėjams, jog su šia svetaine kažkas negerai. Pasistengsime ją sutvarkyti!</translation>
-+<translation id="4046860372562593546">Tvarkyti „Kahf“ reklamas</translation>
-+<translation id="5136973036012418831">Tvarkykite, kokias „Kahf“ reklamas matote bei jų dažnumą.</translation>
- <translation id="4759608598194750161">Kuo daugiau matote, tuo daugiau pajamų galite gauti.</translation>
- <translation id="7526443283522395161">Naujo skirtuko puslapio reklamos</translation>
- <translation id="7968650944098083708">Pranešimų reklamos</translation>
- <translation id="8289546216379862569">Ieškoti skelbimų</translation>
--<translation id="4758111936363146244">„Brave“ skelbimų paieška rodoma <ph name="BEGIN_LINK"/>„Brave“ paieškoje<ph name="END_LINK"/>.</translation>
--<translation id="7596536223419118193">Kol kas negalite uždirbti BAT iš „Brave“ skelbimų paieškos, tačiau juos įjungę padedate remti „Brave“.</translation>
--<translation id="6390952132783970876">„Brave“ naujienų reklamos</translation>
--<translation id="7516281787184495886">„Brave“ naujienose yra reklamų, kurių negalima išjungti patiems.</translation>
--<translation id="8008378848677625233">„Brave“ naujienos šiuo metu išjungtos.</translation>
-+<translation id="4758111936363146244">„Kahf“ skelbimų paieška rodoma <ph name="BEGIN_LINK"/>„Kahf“ paieškoje<ph name="END_LINK"/>.</translation>
-+<translation id="7596536223419118193">Kol kas negalite uždirbti BAT iš „Kahf“ skelbimų paieškos, tačiau juos įjungę padedate remti „Kahf“.</translation>
-+<translation id="6390952132783970876">„Kahf“ naujienų reklamos</translation>
-+<translation id="7516281787184495886">„Kahf“ naujienose yra reklamų, kurių negalima išjungti patiems.</translation>
-+<translation id="8008378848677625233">„Kahf“ naujienos šiuo metu išjungtos.</translation>
- <translation id="6112368337882254910">Automatinis indėlis</translation>
- <translation id="557705068184766514">Automatinis būdas palaikyti svetaines ir turinio kūrėjus. Nustatykite mėnesio įmokos sumą ir naršykite įprastai. <ph name="BEGIN_LINK"/>Patvirtintos svetainės ir kūrėjai, <ph name="END_LINK"/> kuriuos peržiūrite, gaus jūsų įnašą kiekvieną mėnesį, atsižvelgiant į tai, kiek laiko praleidžiate apžvelgdami jų turinį.</translation>
- <translation id="6688567880783357035">Šio mėnesio uždarbis iki šiol</translation>
- <translation id="949044897316791211">Kita uždarbio išmokėjimo data</translation>
- <translation id="2211646556917925490">Iš viso šį mėnesį matytų reklamų</translation>
- <translation id="4229016885653790965">Apgailestaujame, tačiau jūsų regione reklamų kol kas nėra.</translation>
--<translation id="2539279826042558064">„Brave Rewards“ ir reklamos jūsų įrenginyje šiuo metu nepasiekiami.</translation>
-+<translation id="2539279826042558064">„Kahf Rewards“ ir reklamos jūsų įrenginyje šiuo metu nepasiekiami.</translation>
- <translation id="5736977383725358876">Reklamos pranešimų dažnis</translation>
- <translation id="7701040980221191251">Nieko</translation>
- <translation id="480668534656787076">Daugiausia 1 per val.</translation>
-@@ -242,30 +242,30 @@
- <translation id="3082557070674409251">Spustelėta</translation>
- <translation id="7119308337584989771">Atsisakyta</translation>
- <translation id="6805660603861526473">Žiūrėta</translation>
--<translation id="8826352442759228526">Jūsų „Brave Rewards“ negalima patikrinti, nes pasiekėte maksimalų patikrintų įrenginių limitą.</translation>
-+<translation id="8826352442759228526">Jūsų „Kahf Rewards“ negalima patikrinti, nes pasiekėte maksimalų patikrintų įrenginių limitą.</translation>
- <translation id="1221593978088944142">Klaida: pasiektas įrenginių limitas</translation>
--<translation id="6895088073061692390">Deja, jūsų „Brave Rewards“ profilis buvo pažymėtas, nes per automatinę patikrą buvo nustatyta nenumatyta veikla, susijusi su „Brave“ reklamomis.</translation>
--<translation id="4229056297802204697">Kol jūsų profilis pažymėtas, galite ir toliau matyti reklamas, bet neturėsite teisės gauti išmokų, be to, negalėsite prijungti saugotojo paskyros prie „Brave Rewards“.</translation>
-+<translation id="6895088073061692390">Deja, jūsų „Kahf Rewards“ profilis buvo pažymėtas, nes per automatinę patikrą buvo nustatyta nenumatyta veikla, susijusi su „Kahf“ reklamomis.</translation>
-+<translation id="4229056297802204697">Kol jūsų profilis pažymėtas, galite ir toliau matyti reklamas, bet neturėsite teisės gauti išmokų, be to, negalėsite prijungti saugotojo paskyros prie „Kahf Rewards“.</translation>
- <translation id="5124846913141379164">Gali būti, kad jūsų profilis buvo pažymėtas per klaidą, todėl iš jūsų nereikalaujama imtis skubių veiksmų. Ateityje jūsų profilio žyma gali būti pašalinta.</translation>
--<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Sužinokite daugiau apie „Brave“ procedūrą atlygio profilius žymėti vėliavėlėmis.<ph name="END_LINK"/></translation>
--<translation id="5028274575541726856">Klaida: „Brave“ atlygio profilis pažymėtas vėliavėle</translation>
-+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Sužinokite daugiau apie „Kahf“ procedūrą atlygio profilius žymėti vėliavėlėmis.<ph name="END_LINK"/></translation>
-+<translation id="5028274575541726856">Klaida: „Kahf“ atlygio profilis pažymėtas vėliavėle</translation>
- <translation id="2607420597216860026"><ph name="PROVIDER"/>baigę tapatybės patvirtinimą, bandykite dar kartą.</translation>
- <translation id="3183954159462541696">Klaida: norint prisijungti, jums reikia patvirtintos paskyros</translation>
--<translation id="1859789048900659918">Hmm, atrodo, kad jūsų „Brave“ atlygio šalis nesutampa su <ph name="PROVIDER"/> paskyros, prie kurios bandote prisijungti, šalimi.</translation>
-+<translation id="1859789048900659918">Hmm, atrodo, kad jūsų „Kahf“ atlygio šalis nesutampa su <ph name="PROVIDER"/> paskyros, prie kurios bandote prisijungti, šalimi.</translation>
- <translation id="8925428135452218262">Klaida: nesutampa šalis</translation>
--<translation id="5260522591743022748">Hmm, atrodo, kad jūsų „Brave Rewards“ atlygis jau patikrintas su kita <ph name="PROVIDER"/> paskyra. Pabandykite dar kartą patikrinti naudodami ankstesnę paskyrą</translation>
-+<translation id="5260522591743022748">Hmm, atrodo, kad jūsų „Kahf Rewards“ atlygis jau patikrintas su kita <ph name="PROVIDER"/> paskyra. Pabandykite dar kartą patikrinti naudodami ankstesnę paskyrą</translation>
- <translation id="5111921830714291902">Klaida: kita paskyra</translation>
--<translation id="5225019866741699134"><ph name="PROVIDER"/>„Brave Rewards“ šiuo metu nepasiekiamas. Bandykite prisijungti vėliau.</translation>
-+<translation id="5225019866741699134"><ph name="PROVIDER"/>„Kahf Rewards“ šiuo metu nepasiekiamas. Bandykite prisijungti vėliau.</translation>
- <translation id="6105073131081187815">Paslaugos būseną galite <ph name="BEGIN_LINK"/>peržiūrėti čia<ph name="END_LINK"/>.</translation>
- <translation id="2400786541309111904">Klaida: laikinai negalima prisijungti prie pasirinktos valiutą saugančios bendrovės paskyros</translation>
--<translation id="1024520300696337331">Jūsų <ph name="PROVIDER"/> paskyros sujungti su jūsų „Brave“ atlygio profiliu šiuo metu negalima. Jūsų <ph name="PROVIDER"/> paskyra registruota šalyje, kuriai šiuo metu prijungimas prie „Brave“ atlygio nepalaikomas.</translation>
--<translation id="619384413404021992">Peržiūrėkite <ph name="LINK_BEGIN"/> dabartinį palaikomų regionų sąrašą ir sužinokite daugiau <ph name="END_LINK"/> apie tai, kaip prijungti saugojimo paskyrą prie „Brave“ atlygio.</translation>
-+<translation id="1024520300696337331">Jūsų <ph name="PROVIDER"/> paskyros sujungti su jūsų „Kahf“ atlygio profiliu šiuo metu negalima. Jūsų <ph name="PROVIDER"/> paskyra registruota šalyje, kuriai šiuo metu prijungimas prie „Kahf“ atlygio nepalaikomas.</translation>
-+<translation id="619384413404021992">Peržiūrėkite <ph name="LINK_BEGIN"/> dabartinį palaikomų regionų sąrašą ir sužinokite daugiau <ph name="END_LINK"/> apie tai, kaip prijungti saugojimo paskyrą prie „Kahf“ atlygio.</translation>
- <translation id="7193389978208728181">Klaida: regionas šiuo metu nepalaikomas</translation>
- <translation id="5382684862562314222">„Uphold“ dar nepalaiko BAT jūsų regione.</translation>
- <translation id="9074594632540931067">Klaida: BAT nepasiekiami</translation>
- <translation id="5376524136040178759">„Uphold“ duomenimis, šiuo metu taikomi tam tikri apribojimai jūsų „Uphold“ sąskaitai. Prisijunkite prie savo „Uphold“ sąskaitos ir patikrinkite, ar yra pranešimų arba likusių įvykdyti reikalavimų, tada bandykite dar kartą. Pavyzdžiui, gali prireikti, kad „Uphold“ suteiktumėte daugiau informacijos.</translation>
- <translation id="6996157559236886133">Klaida: apribotos „Uphold“ paskyros funkcijos</translation>
--<translation id="3274650021044762770">Kilo problema patvirtinant jūsų naršyklės užklausą prijungti „Brave Rewards“ prie jūsų paskyros. Galite kreiptis į <ph name="PROVIDER"/> palaikymo tarnybą, kad gautumėte <ph name="BEGIN_LINK"/> <ph name="END_LINK"/> daugiau pagalbos.</translation>
-+<translation id="3274650021044762770">Kilo problema patvirtinant jūsų naršyklės užklausą prijungti „Kahf Rewards“ prie jūsų paskyros. Galite kreiptis į <ph name="PROVIDER"/> palaikymo tarnybą, kad gautumėte <ph name="BEGIN_LINK"/> <ph name="END_LINK"/> daugiau pagalbos.</translation>
- <translation id="1316066811927496401">Klaida: prašymo patvirtinti nepavyko</translation>
- <translation id="7352651011704765696">Kažkas negerai</translation>
- <translation id="8285276813470932793">Negalėjome užbaigti jūsų užklausos. Bandykite dar kartą ir <ph name="LINK_BEGIN"/>kreipkitės į pagalbos tarnybą<ph name="LINK_END"/>, jei problemos išspręsti nepavyktų.</translation>
-@@ -285,7 +285,7 @@
- <translation id="756341217015623253">Prisijukite arba registruokitės</translation>
- <translation id="2653844658857826081">NAUJA</translation>
- <translation id="1892970806832316900">Laukiama iki <ph name="DATE"/></translation>
--<translation id="7849926087559412554">Oi! Jūsų naršyklė negali priimti „Brave“ privačios reklamos.</translation>
-+<translation id="7849926087559412554">Oi! Jūsų naršyklė negali priimti „Kahf“ privačios reklamos.</translation>
- <translation id="5177429570315095022">Reikia atnaujinti jūsų naršyklę, kad toliau matytumėte reklamas.</translation>
- <translation id="4593680147181354667">Diagnostikos ID</translation>
- <translation id="3995471429906554168">Diagnostikos informacija</translation>
-@@ -575,21 +575,21 @@
- <translation id="2429828319207652823">Apdorojant jūsų indėlį iškilo problema.</translation>
- <translation id="6390041270339783491">Įnešti mėnesinį indėlį nepavyko</translation>
- <translation id="7047578174221019462">Jūsų mėnesiniai indėliai apdoroti.</translation>
--<translation id="2529827670795983639">Atrodo, kad tai neveikia. „Brave“ reklamos liks pristabdytos. Jei reikia pagalbos dėl „Captcha“, susisiekite su mumis.</translation>
-+<translation id="2529827670795983639">Atrodo, kad tai neveikia. „Kahf“ reklamos liks pristabdytos. Jei reikia pagalbos dėl „Captcha“, susisiekite su mumis.</translation>
- <translation id="261607053214862521">Viršytas didžiausias bandymų skaičius</translation>
- <translation id="2323171459178104277">Išspręsta!</translation>
--<translation id="1512837998731269583">Dabar vėl bus rodomos reklamos ir toliau mokamas atlygis. Dėkojame, kad padedate mums apsaugoti „Brave Rewards“ ir privatumo nepažeidžiančias reklamas.</translation>
-+<translation id="1512837998731269583">Dabar vėl bus rodomos reklamos ir toliau mokamas atlygis. Dėkojame, kad padedate mums apsaugoti „Kahf Rewards“ ir privatumo nepažeidžiančias reklamas.</translation>
- <translation id="3247549836099021862">Susisiekti su pagalbos skyriumi</translation>
- <translation id="5234764350956374838">Atsisakyti</translation>
- <translation id="7859066142771796818">Žetonus naudokite dovanų kortelėms pirkti, keisti į kitas valiutas, paremti turinio kūrėjus ir dar daugiau.</translation>
--<translation id="5425006356459378415">„Brave“ atlygis nepasiekiamas</translation>
--<translation id="909076461795862330">Deja, bandant nustatyti „Brave“ atlygį įvyko klaida. Bandykite dar kartą.</translation>
-+<translation id="5425006356459378415">„Kahf“ atlygis nepasiekiamas</translation>
-+<translation id="909076461795862330">Deja, bandant nustatyti „Kahf“ atlygį įvyko klaida. Bandykite dar kartą.</translation>
- <translation id="3180990265682133881">Deja, bandant nustatyti jūsų šalį įvyko klaida. Bandykite dar kartą.</translation>
--<translation id="5931798071481566121">Šiuo metu jūsų regione nepasiekiama naujos „Brave Rewards“ paskyros registravimo funkcija. Pabandykite vėliau. 
-+<translation id="5931798071481566121">Šiuo metu jūsų regione nepasiekiama naujos „Kahf Rewards“ paskyros registravimo funkcija. Pabandykite vėliau. 
- <ph name="LINK_BEGIN"/>Sužinoti daugiau<ph name="LINK_END"/></translation>
- <translation id="6439128034594289376">Valio! Viskas parengta!</translation>
- <translation id="6136350726756049410">Dabar galite gauti atlygį už reklamų peržiūrą. Padedate siekti, kad žiniatinklis visiems taptų geresne vieta. Juk tai puiku!</translation>
--<translation id="5547108999862247665">Kaip veikia „Brave Rewards“?</translation>
-+<translation id="5547108999862247665">Kaip veikia „Kahf Rewards“?</translation>
- <translation id="3970520675790340955">Pasirinkite savo šalį, kad galėtume rodyti jūsų regionui tinkamas parinktis ir reklamas.</translation>
- <translation id="6945221475159498467">Pasirinkti</translation>
- <translation id="3279158300746391749">Norėdami pradėti, spustelėkite BAT piktogramą <ph name="BAT_ICON"/> URL juostoje.</translation>
-@@ -903,9 +903,9 @@
- <translation id="7261362517244085362">Patvirtinkite savo piniginę</translation>
- <translation id="7150150391368236519">Prijungti aparatinės įrangos piniginę</translation>
- <translation id="5400782314657008092">Šiuo metu palaikome <ph name="HARDWARE_DEVICE"/> ir <ph name="HARDWARE_DEVICE1"/> įrenginius.</translation>
--<translation id="8144305264680648043">Prijunkite savo aparatinės įrangos piniginę ir valdykite turtą tiesiai iš „Brave“ piniginės</translation>
-+<translation id="8144305264680648043">Prijunkite savo aparatinės įrangos piniginę ir valdykite turtą tiesiai iš „Kahf“ piniginės</translation>
- <translation id="1329837291200753515">Pasirinkite blokų grandinę, į kurią norite importuoti savo aparatinės įrangos piniginę</translation>
--<translation id="6983390509997396124">Prijunkite savo <ph name="HARDWARE_DEVICE"/> įrenginį prie „Brave“ piniginės</translation>
-+<translation id="6983390509997396124">Prijunkite savo <ph name="HARDWARE_DEVICE"/> įrenginį prie „Kahf“ piniginės</translation>
- <translation id="5149944858285555235">Nežinoma klaida, prijunkite aparatinės įrangos slaptažodinę iš naujo ir bandykite dar kartą.</translation>
- <translation id="4522570452068850558">Išsami informacija</translation>
- <translation id="9220525904950070496">Pašalinti paskyrą</translation>
-@@ -1581,7 +1581,7 @@
- <translation id="1215089823252478557">Žiūrėti numatomą balanso pokytį</translation>
- <translation id="2761574758015819991">Nustatyti galimai kenkėjiškas operacijas</translation>
- <translation id="168533464844528463">Padėti aptikti sukčiavimo apsimetant mėginimus</translation>
--<translation id="7269757150305059881">„Brave“ bendradarbiauja su partneriu, kad teiktų šią paslaugą. Įgalinę sutinkate bendrinti nepasirašytas operacijas ir jų „DApp“ URL su mūsų partneriu.</translation>
-+<translation id="7269757150305059881">„Kahf“ bendradarbiauja su partneriu, kad teiktų šią paslaugą. Įgalinę sutinkate bendrinti nepasirašytas operacijas ir jų „DApp“ URL su mūsų partneriu.</translation>
- <translation id="7790932700072432983">Bet kada pakeiskite atidarę <ph name="TAG_BEFORE"/>Nuostatos<ph name="TAG_AFTER"/>.</translation>
- <translation id="8688672835843460752">Galima</translation>
- <translation id="5296640085393149413">Prieinamos jums naudoti lėšos.</translation>
-@@ -1806,23 +1806,23 @@
- <translation id="6938154350999993769">Derinimas: perjungti planšetinio kompiuterio režimą</translation>
- <translation id="5854741377790551127">Derinimas: spausdinimo rodinio medis</translation>
- <translation id="8199130368328220410">Perjungti subtitrus realiuoju laiku</translation>
--<translation id="9055778350624039365">Rodyti „Brave“ piniginės skydelį</translation>
--<translation id="2548853975094084059">Uždaryti „Brave“ piniginės skydelį</translation>
--<translation id="3765209580429944524">Rodyti „Brave“ VPN skydelį</translation>
--<translation id="5989009326527614692">Perjungti „Brave“ VPN įrankių juostos mygtuką</translation>
--<translation id="7334332308395652803">„Brave“ VPN dėklo piktogramos perjungimas</translation>
--<translation id="4326011033480357140">Siųsti „Brave“ VPN atsiliepimus</translation>
--<translation id="2345974803401546682">Apie „Brave“ VPN</translation>
--<translation id="8934783170241943640">Valdyti „Brave“ VPN planą</translation>
--<translation id="6332027154313182926">Perjungti „Brave“ VPN</translation>
-+<translation id="9055778350624039365">Rodyti „Kahf“ piniginės skydelį</translation>
-+<translation id="2548853975094084059">Uždaryti „Kahf“ piniginės skydelį</translation>
-+<translation id="3765209580429944524">Rodyti „Kahf“ VPN skydelį</translation>
-+<translation id="5989009326527614692">Perjungti „Kahf“ VPN įrankių juostos mygtuką</translation>
-+<translation id="7334332308395652803">„Kahf“ VPN dėklo piktogramos perjungimas</translation>
-+<translation id="4326011033480357140">Siųsti „Kahf“ VPN atsiliepimus</translation>
-+<translation id="2345974803401546682">Apie „Kahf“ VPN</translation>
-+<translation id="8934783170241943640">Valdyti „Kahf“ VPN planą</translation>
-+<translation id="6332027154313182926">Perjungti „Kahf“ VPN</translation>
- <translation id="6539014233195996894">Perjungti skirtuko nutildymą</translation>
- <translation id="2682865834956428001">Perjungti šoninės juostos poziciją</translation>
- <translation id="6105745639559695088">Perjungti šoninę juostą</translation>
- <translation id="3488252265135539275">Perjungti vertikalius skirtukus</translation>
- <translation id="7134064542341959603">Perjungti vertikalius skirtukus: lango pavadinimas</translation>
--<translation id="3067105725259639716">Konfigūruoti „Brave“ naujienas</translation>
-+<translation id="3067105725259639716">Konfigūruoti „Kahf“ naujienas</translation>
- <translation id="6286510487460330478">Konfigūruoti sparčiuosius klavišus</translation>
--<translation id="9214819486716388964">Rodyti „Brave“ pokalbius</translation>
-+<translation id="9214819486716388964">Rodyti „Kahf“ pokalbius</translation>
- <translation id="5950760360751948276">Visada rodyti žymių juostą</translation>
- <translation id="2960757369920422313">Rodyti žymių juostą naujų skirtukų puslapiuose</translation>
- <translation id="522953399371747698">Slėpti žymių juostą</translation>
-@@ -1903,11 +1903,11 @@
- <translation id="1167803637855350748">Prisijungiant prie „Leo“ kilo tinklo problema. Patikrinkite ryšį ir bandykite dar kartą.</translation>
- <translation id="1996126325390835277">Pasiekėte „Premium“ tarifo limitą. Bandykite dar kartą po kelių valandų.</translation>
- <translation id="7144878232160441200">Kartoti</translation>
--<translation id="8570488829560315702">Sveiki, aš esu Leo. Esu visišką prieglobą turintis „Brave“ dirbtinio intelekto asistentas. Mane valdo „Llama 3 8B“ – „Meta“ sukurtas modelis, kuris yra našus ir pritaikomas daugeliui naudojimo atvejų. <ph name="LINK_BEFORE"/>Sužinokite daugiau<ph name="LINK_AFTER"/></translation>
--<translation id="6500567629965936637">Sveiki, aš esu Leo. Esu „Brave“ teikiamas visapusę prieglobą naudojantis DI padėjėjas. Veikiu „Mixtral 8x7B“ pagrindu – šį modelį sukūrė „Mistral AI“ sudėtingesnėms užduotims vykyti.<ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
--<translation id="4590776109659811206">Sveiki, aš Leo. Mane teikia „Brave“ ir naudoju „Claude Instant“ – „Anthropic“ sukurtą modelį, skirtą pokalbių ir teksto apdorojimo užduotims atlikti.<ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
--<translation id="8583558415545871403">Sveiki, aš Leo. Mane teikia „Brave“ ir naudoju „Claude 3 Haiku“ – „Anthropic“ sukurtą modelį, skirtą pokalbių ir teksto apdorojimo užduotims atlikti.</translation>
--<translation id="4147243042852964992">Sveiki, aš Leo. Mane teikia „Brave“ ir naudoju „Claude 3 Sonnet“ – „Anthropic“ sukurtą modelį, skirtą pokalbių ir teksto apdorojimo užduotims atlikti.</translation>
-+<translation id="8570488829560315702">Sveiki, aš esu Leo. Esu visišką prieglobą turintis „Kahf“ dirbtinio intelekto asistentas. Mane valdo „Llama 3 8B“ – „Meta“ sukurtas modelis, kuris yra našus ir pritaikomas daugeliui naudojimo atvejų. <ph name="LINK_BEFORE"/>Sužinokite daugiau<ph name="LINK_AFTER"/></translation>
-+<translation id="6500567629965936637">Sveiki, aš esu Leo. Esu „Kahf“ teikiamas visapusę prieglobą naudojantis DI padėjėjas. Veikiu „Mixtral 8x7B“ pagrindu – šį modelį sukūrė „Mistral AI“ sudėtingesnėms užduotims vykyti.<ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
-+<translation id="4590776109659811206">Sveiki, aš Leo. Mane teikia „Kahf“ ir naudoju „Claude Instant“ – „Anthropic“ sukurtą modelį, skirtą pokalbių ir teksto apdorojimo užduotims atlikti.<ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
-+<translation id="8583558415545871403">Sveiki, aš Leo. Mane teikia „Kahf“ ir naudoju „Claude 3 Haiku“ – „Anthropic“ sukurtą modelį, skirtą pokalbių ir teksto apdorojimo užduotims atlikti.</translation>
-+<translation id="4147243042852964992">Sveiki, aš Leo. Mane teikia „Kahf“ ir naudoju „Claude 3 Sonnet“ – „Anthropic“ sukurtą modelį, skirtą pokalbių ir teksto apdorojimo užduotims atlikti.</translation>
- <translation id="6206029817087805290"><ph name="MODEL_NAME"/>, sukurta <ph name="COMPANY_NAME"/></translation>
- <translation id="963346402440669081">„Premium“</translation>
- <translation id="6187065185557150870">Pokalbiai</translation>
-@@ -1955,7 +1955,7 @@
- <translation id="8712637175834984815">Supratau</translation>
+@@ -398,7 +398,7 @@
+ <translation id="7642372245223412840">Jungtis prie „bitFlyer“</translation>
+ <translation id="6143701117592994599">Prijungę „Kahf Rewards“ prie „bitFlyer“ paskyros, galėsite uždirbti BAT ir atsiimti BAT iš „Kahf Rewards“.</translation>
+ <translation id="4354564238172327160">Tapkite „Kahf“ turinio kūrėju!</translation>
+-<translation id="4639659520811817892">Apsilankykite creators.brave.com, užsiregistruokite ir uždirbkite BAT žetonų kurdami turinį savo gerbėjams.</translation>
++<translation id="4639659520811817892">Apsilankykite creators.Kahf.com, užsiregistruokite ir uždirbkite BAT žetonų kurdami turinį savo gerbėjams.</translation>
+ <translation id="4816455138209470435">„Kahf“ palaiko „YouTube“, „Twitch“, „Vimeo“ ir kitas platformas!</translation>
+ <translation id="7404779623219601861">Iškeisti BAT į dovanų korteles</translation>
+ <translation id="6215565499749144110">TAP tinkle savo BAT galite iškeisti į populiarių prekių ženklų dovanų korteles.</translation>
+@@ -607,7 +607,7 @@
+ <translation id="5379685283876547860">Įnašas nusiųstas!</translation>
+ <translation id="7063168612616047608">Ačiū, kad remiate savo mėgstamus kūrėjus</translation>
+ <translation id="1041398280582063935">Pasidalinkite savo parama</translation>
+-<translation id="4001190813297686107">Aš ką tik paaukojau <ph name="AMOUNT"/> BAT naudodamasis (-asi) „Kahf“ naršykle! Štai kaip jūs galite paremti savo mėgstamus kūrėjus ir puslapius: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Aš ką tik paaukojau <ph name="AMOUNT"/> BAT naudodamasis (-asi) „Kahf“ naršykle! Štai kaip jūs galite paremti savo mėgstamus kūrėjus ir puslapius: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Įvyko netikėta klaida</translation>
+ <translation id="2605703631071131439">Prašome iš naujo atverti įnašų valdymo skydelį ir pabandyti dar kartą.</translation>
+ <translation id="8855543392451028706">Sveiki atvykę! Vartotojai gali paremti turinio kūrėją išsiųsdami jiems įnašų. Tai yra padėkos būdas už kuriamą puikų turinį.</translation>
+@@ -2055,7 +2055,7 @@
  <translation id="1093419424466417703">Puslapis yra per ilgas Leo. Pokalbyje gali trūkti tam tikro konteksto. Leo galėjo perskaityti <ph name="PERCENTAGE"/> puslapio turinio.</translation>
+ <translation id="2186990448773134544">Puslapio turinys buvo patobulintas iš puslapio išgaunant svarbiausią informaciją, nes „Leo“ jis buvo per ilgas.</translation>
  <translation id="4370698775470316661">Šis pokalbis per ilgas ir negali tęstis. Gali būti kitų modelių, su kuriais „Leo“ gali palaikyti tikslumą ilgesniuose pokalbiuose.</translation>
 -<translation id="5719170755629028558">Jūsų atsakymas tobulinamas naudojant „Brave“ paiešką...</translation>
 +<translation id="5719170755629028558">Jūsų atsakymas tobulinamas naudojant „Kahf“ paiešką...</translation>
  <translation id="5794962229997281366">Patobulinta <ph name="SEARCH_TERMS"/>atsakymų paieška.</translation>
  <translation id="6291843235651817590">Bendrosios paskirties pokalbiai</translation>
  <translation id="8193130769524604031">Išplėstinės pokalbių užduotys</translation>
-@@ -2000,13 +2000,13 @@
- <translation id="49269513399674318">Naudoti mikrofoną</translation>
- <translation id="3895031624234442305">Tinkinami modeliai</translation>
- <translation id="6303294677342628402">Skydai</translation>
--<translation id="8458987127502506209">Įgalinti „Brave“ skydus</translation>
-+<translation id="8458987127502506209">Įgalinti „Kahf“ skydus</translation>
- <translation id="7509914170164691086">Skydai įjungti <ph name="LINK_BEFORE"/><ph name="LINK_AFTER"/></translation>
- <translation id="260764436039299868">Skydai yra išjungti <ph name="LINK_BEFORE"/><ph name="LINK_AFTER"/></translation>
- <translation id="3907405056878805220">Jei atrodo, kad ši svetainė neveikia, pabandykite išjungti skydus.
-- <ph name="LINK_BEFORE"/>Pastaba: tai gali sumažinti „Brave“ privatumo apsaugą.<ph name="LINK_AFTER"/></translation>
-+ <ph name="LINK_BEFORE"/>Pastaba: tai gali sumažinti „Kahf“ privatumo apsaugą.<ph name="LINK_AFTER"/></translation>
- <translation id="8377155647357436161">Sekikliai, reklamos ir kt. užblokuoti <ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
--<translation id="7604553853176833536">Neapsaugota „Brave“ skydais <ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
-+<translation id="7604553853176833536">Neapsaugota „Kahf“ skydais <ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
- <translation id="650318023204990401">Išplėstiniai valdikliai</translation>
- <translation id="5799940914270080805">Pakeitus šiuos nustatymus svetainės gali neveikti.</translation>
- <translation id="9204041448536398473">Visuotinių skydų nuostatos</translation>
-@@ -2037,49 +2037,49 @@
- <translation id="2570787596946026998">Prisijunkite naudodami tik HTTPS</translation>
- <translation id="1992750560347846445">Pranešti apie svetainę</translation>
- <translation id="2387532482048804818">Praneškite mums, jei įjungus skydus svetainė neveikė tinkamai.</translation>
--<translation id="3795015906457257780">Šią svetainę peržiūrite be „Brave“ privatumo apsaugos.</translation>
--<translation id="7194012750329511146">„Brave“ skydai
-+<translation id="3795015906457257780">Šią svetainę peržiūrite be „Kahf“ privatumo apsaugos.</translation>
-+<translation id="7194012750329511146">„Kahf“ skydai
- <ph name="NUMBER"/> sekikliai, reklamos ir kt. užblokuoti</translation>
- <translation id="4292121526390005808">Užblokuoti scenarijai</translation>
- <translation id="5046271170844958713">Leidžiami scenarijai</translation>
- <translation id="264682546981571963">Pavargote nuo pranešimų sutikti su slapukais?</translation>
--<translation id="4986297793092101884">„Brave“ jau blokuoja trečiųjų šalių slapukus. Taip pat galime blokuoti pranešimus sutikti su slapukais.</translation>
-+<translation id="4986297793092101884">„Kahf“ jau blokuoja trečiųjų šalių slapukus. Taip pat galime blokuoti pranešimus sutikti su slapukais.</translation>
- <translation id="535688588637568715">Taip, blokuoti pranešimus sutikti su slapukais</translation>
--<translation id="2808175374672429053">„Brave“ skydams pakaitiniai simboliai neleidžiami.</translation>
-+<translation id="2808175374672429053">„Kahf“ skydams pakaitiniai simboliai neleidžiami.</translation>
- <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
--      =1 {Brave Shields blokuojamas 1 sekiklis įjungtas <ph name="SITE_URL"/>}
--      other {Brave Shields blokuojamas {BLOCKED_COUNT} sekikliai įjungti <ph name="SITE_URL"/>}
-+      =1 {Kahf Shields blokuojamas 1 sekiklis įjungtas <ph name="SITE_URL"/>}
-+      other {Kahf Shields blokuojamas {BLOCKED_COUNT} sekikliai įjungti <ph name="SITE_URL"/>}
-     }</translation>
--<translation id="2540598191934725677">Spustelėkite „Brave“ piktogramą, kad peržiūrėtumėte „Brave Shields“.</translation>
-+<translation id="2540598191934725677">Spustelėkite „Kahf“ piktogramą, kad peržiūrėtumėte „Kahf Shields“.</translation>
- <translation id="6294662480095808915">Privatumas, be jokių kalbų.</translation>
--<translation id="4366423156486478559">„Brave“ visuomet jus saugo – kad ir kurią nuorodą spustelėtumėte. Nustatykite „Brave“ numatytąja naršykle ir naršykite. Privačiai.</translation>
-+<translation id="4366423156486478559">„Kahf“ visuomet jus saugo – kad ir kurią nuorodą spustelėtumėte. Nustatykite „Kahf“ numatytąja naršykle ir naršykite. Privačiai.</translation>
- <translation id="3830912418080848377">Importavimo nustatymai</translation>
- <translation id="6378406588483694938">Lengvai importuokite žymes, plėtinius ir net slaptažodžius, išsaugotus senojoje naršyklėje.</translation>
- <translation id="2092825239819166928">Pasirinkite profilį, iš kurio norite importuoti</translation>
- <translation id="4763127492635705340">Jūsų pasirinktoje naršyklėje rasti keli profiliai. Pasirinkite profilį (-us), iš kurio (-ų) norėtumėte importuoti.</translation>
- <translation id="880174232178865598">Importuoti profilius</translation>
- <translation id="2453860139492968684">Užbaigti</translation>
--<translation id="2273851479262317744">Nustatyti „Brave“ kaip numatytąją naršyklę</translation>
-+<translation id="2273851479262317744">Nustatyti „Kahf“ kaip numatytąją naršyklę</translation>
- <translation id="5037676449506322593">Pasirinkti viską</translation>
--<translation id="5148943178722443958">Padėkite tobulinti „Brave“.</translation>
-+<translation id="5148943178722443958">Padėkite tobulinti „Kahf“.</translation>
- <translation id="1097073572755862978">Siųskite diagnostikos ataskaitas įvykus strigčiai. <ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
--<translation id="6629244688368006959">Dalinkitės visiškai privačiomis ir anoniminėmis įžvalgomis apie tai, kokiomis produktų funkcijomis naudojasi „Brave“ naudotojai. <ph name="LINK_BEFORE"/>Sužinoti daugiau.<ph name="LINK_AFTER"/></translation>
-+<translation id="6629244688368006959">Dalinkitės visiškai privačiomis ir anoniminėmis įžvalgomis apie tai, kokiomis produktų funkcijomis naudojasi „Kahf“ naudotojai. <ph name="LINK_BEFORE"/>Sužinoti daugiau.<ph name="LINK_AFTER"/></translation>
- <translation id="7415454883318062233">Naršyklės sąranka baigta</translation>
--<translation id="3141206739023333979">Galite bet kada pakeisti šias parinktis, atvėrę <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
-+<translation id="3141206739023333979">Galite bet kada pakeisti šias parinktis, atvėrę <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
- <translation id="8321985064212130832">Perskaitykite mūsų <ph name="LINK_BEFORE"/>privatumo politiką<ph name="LINK_AFTER"/></translation>
- <translation id="2801098717523961746">Rinkitės temą</translation>
--<translation id="6262510489122516114">Tai galite bet kada keisti „Brave“ nustatymuose.</translation>
-+<translation id="6262510489122516114">Tai galite bet kada keisti „Kahf“ nustatymuose.</translation>
- <translation id="546481172717459539">Taikyti pagal sistemos nustatymus</translation>
- <translation id="7799817062559422778">Šviesus režimas</translation>
- <translation id="4117637339509843559">Tamsusis režimas</translation>
- <translation id="6302485303316397682">Norite geresnių paieškos rezultatų?</translation>
--<translation id="7014699001826714920">Prisijunkite prie judėjimo, prisidėkite prie „Brave Search“.</translation>
--<translation id="6821108091726602352">Padėkite mums sutvarkyti žiniatinklį dalyvaudami „Brave“ žiniatinklio atradimo projekte. Bendrindami visiškai anoniminius paieškos signalus galite padėti „Brave“ plėsti paieškos indeksą.</translation>
-+<translation id="7014699001826714920">Prisijunkite prie judėjimo, prisidėkite prie „Kahf Search“.</translation>
-+<translation id="6821108091726602352">Padėkite mums sutvarkyti žiniatinklį dalyvaudami „Kahf“ žiniatinklio atradimo projekte. Bendrindami visiškai anoniminius paieškos signalus galite padėti „Kahf“ plėsti paieškos indeksą.</translation>
- <translation id="6764845498618413165">Sužinokite daugiau.</translation>
- <translation id="7818938154803162778">Žinoma, padėsiu</translation>
--<translation id="7821773512278295352">„Brave Firewall + VPN“: prisijungta</translation>
--<translation id="6019088868713395120">„Brave Firewall + VPN“: atsijungta</translation>
--<translation id="3541307549916475335">„Brave“ VPN skydelio UI</translation>
-+<translation id="7821773512278295352">„Kahf Firewall + VPN“: prisijungta</translation>
-+<translation id="6019088868713395120">„Kahf Firewall + VPN“: atsijungta</translation>
-+<translation id="3541307549916475335">„Kahf“ VPN skydelio UI</translation>
- <translation id="1742469581923031760">Jungiamasi...</translation>
- <translation id="1287487756047817908">Atsijungiama...</translation>
- <translation id="2325196879156848326">Ryšio užmegzti nepavyko</translation>
-@@ -2089,7 +2089,7 @@
- <translation id="8703188411226330709">Pradėti nemokamą bandomąją versiją</translation>
- <translation id="1024255913009642477">Jau įsigijote VPN?</translation>
- <translation id="8814357473522731680">Teikia</translation>
--<translation id="3960619311638643872">„Brave“ VPN</translation>
-+<translation id="3960619311638643872">„Kahf“ VPN</translation>
- <translation id="7805768142964895445">Būsena</translation>
- <translation id="5747552184818312860">Galioja iki</translation>
- <translation id="8421945428836418371">Automatiškai prisijungti iš naujo</translation>
-@@ -2107,7 +2107,7 @@
- <translation id="427718751211990320">Kredencialų galiojimo data pasibaigė.</translation>
- <translation id="8670619630771851260">Negalima parodyti kredencialų.</translation>
- <translation id="1594643509610625766">Žetonas nebegalioja</translation>
--<translation id="8373427068383038263">Atrodo, kad jūsų pastarasis mokėjimas už <ph name="VALUE"/> nepavyko. Prieiga prie šios prenumeratos bus pristabdyta, kol mokėjimo problema bus išspręsta. Pabandykite redaguoti mokėjimo metodą arba susisiekite su „Brave“ pagalbos tarnyba.</translation>
-+<translation id="8373427068383038263">Atrodo, kad jūsų pastarasis mokėjimas už <ph name="VALUE"/> nepavyko. Prieiga prie šios prenumeratos bus pristabdyta, kol mokėjimo problema bus išspręsta. Pabandykite redaguoti mokėjimo metodą arba susisiekite su „Kahf“ pagalbos tarnyba.</translation>
- <translation id="1839021455997460752">Jūsų el. pašto adresas</translation>
- <translation id="8054563304616131773">Įveskite galiojantį el. pašto adresą</translation>
- <translation id="5154702632169343078">Tema</translation>
-@@ -2124,14 +2124,14 @@
- <translation id="6676791921618140305">OS versija:</translation>
- <translation id="1156325797949437777">Pagalba teikiama bendradarbiaujant su „Guardian“.</translation>
- <translation id="8146777497879160283">Nepavyko įrašyti VPN konfigūracijos. Neturite leidimo arba nesate įdiegę reikiamų „Windows“ naujinių.</translation>
--<translation id="3307461350293459700">Ryšio su VPN užmegzti nepavyko. Pabandykite prisijungti dar kartą ir būtinai spustelėkite „Leisti“, kad įgalintumėte „Brave“ VPN konfigūraciją.</translation>
--<translation id="7261518280726313829">Išjungus saugų DNS arba naudojant numatytuosius „Windows“ serverius, jūsų interneto paslaugų teikėjui gali būti atskleisti svetainių, kuriose lankotės, pavadinimai. „Brave“ to daryti nerekomenduoja. Ar vis tiek norite tai daryti?</translation>
--<translation id="888284761945060750">Saugus DNS yra išjungtas pagal jūsų organizacijos politiką. Naudojant „Brave“ VPN be saugaus DNS jūsų interneto paslaugų teikėjui arba organizacijai gali būti atskleisti svetainių, kuriose lankotės, pavadinimai.</translation>
--<translation id="6593224083874259773">„Brave“ VPN sistemoje „Windows“</translation>
--<translation id="3153983908111684619">Prijungtas „BraveVPN“ šį nustatymą užrakina</translation>
-+<translation id="3307461350293459700">Ryšio su VPN užmegzti nepavyko. Pabandykite prisijungti dar kartą ir būtinai spustelėkite „Leisti“, kad įgalintumėte „Kahf“ VPN konfigūraciją.</translation>
-+<translation id="7261518280726313829">Išjungus saugų DNS arba naudojant numatytuosius „Windows“ serverius, jūsų interneto paslaugų teikėjui gali būti atskleisti svetainių, kuriose lankotės, pavadinimai. „Kahf“ to daryti nerekomenduoja. Ar vis tiek norite tai daryti?</translation>
-+<translation id="888284761945060750">Saugus DNS yra išjungtas pagal jūsų organizacijos politiką. Naudojant „Kahf“ VPN be saugaus DNS jūsų interneto paslaugų teikėjui arba organizacijai gali būti atskleisti svetainių, kuriose lankotės, pavadinimai.</translation>
-+<translation id="6593224083874259773">„Kahf“ VPN sistemoje „Windows“</translation>
-+<translation id="3153983908111684619">Prijungtas „KahfVPN“ šį nustatymą užrakina</translation>
- <translation id="1055657720430482013">„Windows“ įgalina funkciją „Smart Multi-Homed Name Resolution“, kuri gali atskleisti informaciją apie jūsų buvimo vietą ir lankomas svetaines.
- 
--„Brave“ naršyklėje galite įgalinti pagalbinę funkciją, kuri apsaugo jūsų asmeninę informaciją filtruodama DNS užklausas, atliekamas per jūsų VPN ryšį.
-+„Kahf“ naršyklėje galite įgalinti pagalbinę funkciją, kuri apsaugo jūsų asmeninę informaciją filtruodama DNS užklausas, atliekamas per jūsų VPN ryšį.
- 
- Šiuo metu ši funkcija neįgalinta, tačiau nenorime, kad liktumėte neapsaugoti. Dėl šios priežasties pakeitėme DNS nustatymus naršyklėje. Nustatymai liks galioti, kol bus prijungtas VPN.
- 
+@@ -2265,7 +2265,7 @@ Būkite prisijungę!</translation>
+ <translation id="7423206764347669977">Keisti nustatymus</translation>
+ <translation id="9061845622728745852">Laiko juosta:</translation>
+ <translation id="8295393906499561642">Sesija baigta</translation>
+-<translation id="3312623558576021182">Prisijunkite prie savo <ph name="BRAVE_ACCOUNT_BEGIN"/>„Kahf“ paskyros<ph name="BRAVE_ACCOUNT_END"/>ir VPN vėl bus įjungtas.</translation>
++<translation id="3312623558576021182">Prisijunkite prie savo <ph name="Kahf_ACCOUNT_BEGIN"/>„Kahf“ paskyros<ph name="Kahf_ACCOUNT_END"/>ir VPN vėl bus įjungtas.</translation>
+ <translation id="6021669293402055982">„Kahf“ VPN: neprisijungta</translation>
+ <translation id="7861195049821776142">„Kahf“ VPN: atsijungiama</translation>
+ <translation id="958268166261124668">„Kahf“ VPN: prisijungta</translation>

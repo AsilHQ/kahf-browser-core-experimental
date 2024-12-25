@@ -369,7 +369,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
           Open Link in Private Window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="Title case: The name of the open a link in private window with Tor command">
-          Open Link in Brave Private Window with Tor
+          Open Link in Kahf Private Window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_SPLIT_VIEW" desc="Title case: The name of the open a link in split view command">
           Open Link in Split View
@@ -383,7 +383,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
           Open link in private window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="The name of the open a link in private window with Tor command">
-          Open link in Brave private window with Tor
+          Open link in Kahf private window with Tor
         </message>
         <message name="IDS_CONTENT_CONTEXT_SPLIT_VIEW" desc="The name of the open a link in split view command">
           Open link in split view
@@ -391,7 +391,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
       </if>
       <!-- Dev channel deprecation infobar -->
       <message name="IDS_DEV_CHANNEL_DEPRECATION_INFOBAR_MESSAGE" desc="The text label of dev channel deprecation announcement.">
-        Beginning on December 1, 2023, Brave Dev channel will no longer receive browser updates. We recommend users migrate to the Nightly, Beta, or Release versions of Brave.
+        Beginning on December 1, 2023, Kahf Dev channel will no longer receive browser updates. We recommend users migrate to the Nightly, Beta, or Release versions of Kahf.
       </message>
       <!-- Mac Menubar Menus -->
       <if expr="is_macosx">
@@ -557,22 +557,22 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
           Get better results
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_C_DDG_DESC" desc="The text for the banner type description">
-          Brave Search is independently verified to have better results than Bing (or Bing clones like DuckDuckGo).
+          Kahf Search is independently verified to have better results than Bing (or Bing clones like DuckDuckGo).
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_D_DDG_TITLE" desc="The text for the banner type title">
           Improve search results
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_D_DDG_DESC" desc="The text for the banner type description">
-          Brave Search has better results than DuckDuckGo for most queries. And it’s truly private.
+          Kahf Search has better results than DuckDuckGo for most queries. And it’s truly private.
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_TRY_BUTTON_LABEL" desc="The text for the try button in the promotion match">
-          Try Brave Search
+          Try Kahf Search
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_CLOSE_BUTTON_TOOLTIP" desc="The tooltip text for the dismiss button in a promotion match">
           Dismiss
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_SET_AS_DEFAULT_BUTTON_LABEL" desc="The text for the set as default button in a promotion match">
-          Set Brave as default
+          Set Kahf as default
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_MAYBE_LATER_BUTTON_TOOLTIP" desc="The tooltip text for the maybe later button in a promotion match">
           Maybe later

@@ -1,333 +1,37 @@
 diff a/components/resources/strings/brave_components_resources_pt-BR.xtb b/components/resources/strings/brave_components_resources_pt-BR.xtb	(rejected hunks)
-@@ -168,36 +168,36 @@
- <translation id="5334844597069022743">Ver fonte</translation>
- <translation id="4720556299488643018">Cancelar inscrição</translation>
- <translation id="1209739344687072997">Relate um site quebrado</translation>
--<translation id="8510478288840333677">Informe aos desenvolvedores do Brave que este site não funciona corretamente com o Shields:</translation>
-+<translation id="8510478288840333677">Informe aos desenvolvedores do Kahf que este site não funciona corretamente com o Shields:</translation>
- <translation id="3110968385867124099">Esta página não pode ser denunciada porque não foi veiculada por HTTP/HTTPS.</translation>
- <translation id="7907023135990310743">Esta página é uma página da web local e não está qualificada para geração de relatórios.</translation>
- <translation id="3645455863322075098">Esta página é uma página de erro e não está qualificada para geração de relatórios.</translation>
--<translation id="105644511106871142">Obrigado por ajudar a tornar o Brave melhor para todos. Este relatório enviará apenas as informações necessárias para corrigirmos este site.</translation>
-+<translation id="105644511106871142">Obrigado por ajudar a tornar o Kahf melhor para todos. Este relatório enviará apenas as informações necessárias para corrigirmos este site.</translation>
- <translation id="6476216365964140603">Detalhes adicionais (opcional)</translation>
- <translation id="6145852496180774737">Entre em contato comigo: (opcional)</translation>
- <translation id="7616645803364270729">E-mail, Twitter etc.</translation>
- <translation id="721949491455392748">Incluir captura de tela da página atual</translation>
- <translation id="8459191579769999214">Ver captura de tela</translation>
- <translation id="5299848999918506028">Obrigado!</translation>
--<translation id="76550953340008122">Agradecemos por informar aos desenvolvedores do Brave que há algo errado com este site. Faremos nosso melhor para corrigir isso!</translation>
--<translation id="4046860372562593546">Gerenciar anúncios do Brave</translation>
--<translation id="5136973036012418831">Controle que tipos de Anúncios do Brave você vê e com que frequência.</translation>
-+<translation id="76550953340008122">Agradecemos por informar aos desenvolvedores do Kahf que há algo errado com este site. Faremos nosso melhor para corrigir isso!</translation>
-+<translation id="4046860372562593546">Gerenciar anúncios do Kahf</translation>
-+<translation id="5136973036012418831">Controle que tipos de Anúncios do Kahf você vê e com que frequência.</translation>
- <translation id="4759608598194750161">Quanto mais você vir, mais poderá ganhar.</translation>
- <translation id="7526443283522395161">Anúncios na página da nova aba</translation>
- <translation id="7968650944098083708">Anúncios de notificação</translation>
- <translation id="8289546216379862569">Anúncios de Pesquisa</translation>
--<translation id="4758111936363146244">Os Anúncios de Pesquisa do Brave aparecem na <ph name="BEGIN_LINK"/>Pesquisa Brave<ph name="END_LINK"/>.</translation>
--<translation id="7596536223419118193">Você ainda não pode ganhar BAT com anúncios de pesquisa do Brave, mas ajuda a apoiar o Brave ao ativá-los.</translation>
--<translation id="6390952132783970876">Anúncios do Notícias Brave.</translation>
--<translation id="7516281787184495886">O Notícias Brave contém anúncios que não podem ser desativados de forma independente.</translation>
--<translation id="8008378848677625233">O Notícias Brave está desativado.</translation>
-+<translation id="4758111936363146244">Os Anúncios de Pesquisa do Kahf aparecem na <ph name="BEGIN_LINK"/>Pesquisa Kahf<ph name="END_LINK"/>.</translation>
-+<translation id="7596536223419118193">Você ainda não pode ganhar BAT com anúncios de pesquisa do Kahf, mas ajuda a apoiar o Kahf ao ativá-los.</translation>
-+<translation id="6390952132783970876">Anúncios do Notícias Kahf.</translation>
-+<translation id="7516281787184495886">O Notícias Kahf contém anúncios que não podem ser desativados de forma independente.</translation>
-+<translation id="8008378848677625233">O Notícias Kahf está desativado.</translation>
- <translation id="6112368337882254910">Contribuição Automática</translation>
- <translation id="557705068184766514">Uma maneira automática de oferecer suporte a sites e criadores de conteúdo. Defina uma contribuição mensal e navegue normalmente. <ph name="BEGIN_LINK"/>Sites e criadores verificados<ph name="END_LINK"/> que você visitar receberão contribuições suas todos os meses com base na quantidade de tempo que você gasta em seu conteúdo.</translation>
- <translation id="6688567880783357035">Ganhos até agora este mês</translation>
- <translation id="949044897316791211">Data do próximo pagamento dos ganhos</translation>
- <translation id="2211646556917925490">Total de anúncios recebidos este mês.</translation>
- <translation id="4229016885653790965">Desculpe! Os anúncios ainda não estão disponíveis em sua região.</translation>
--<translation id="2539279826042558064">Recompensas Brave and Propagandas não estão disponíveis para o seu dispositivo neste momento</translation>
-+<translation id="2539279826042558064">Recompensas Kahf and Propagandas não estão disponíveis para o seu dispositivo neste momento</translation>
- <translation id="5736977383725358876">Frequência dos anúncios de notificação</translation>
- <translation id="7701040980221191251">Nenhum</translation>
- <translation id="480668534656787076">No máximo 1 por hora</translation>
-@@ -241,30 +241,30 @@
- <translation id="3082557070674409251">Clicado</translation>
- <translation id="7119308337584989771">Dispensado</translation>
- <translation id="6805660603861526473">Visualizado</translation>
--<translation id="8826352442759228526">Não é possível verificar sua conta das Recompensas Brave, pois você atingiu o número máximo de dispositivos verificados.</translation>
-+<translation id="8826352442759228526">Não é possível verificar sua conta das Recompensas Kahf, pois você atingiu o número máximo de dispositivos verificados.</translation>
- <translation id="1221593978088944142">Erro: limite de dispositivos atingido</translation>
--<translation id="6895088073061692390">Infelizmente, seu perfil de Recompensas Brave foi sinalizado porque nossas verificações automatizadas encontraram alguma atividade inesperada dos Anúncios Brave.</translation>
--<translation id="4229056297802204697">Enquanto seu perfil estiver marcado, você pode continuar vendo anúncios, mas não terá direito a receber pagamentos. Você também não poderá conectar uma conta custodiada ao Brave Rewards.</translation>
-+<translation id="6895088073061692390">Infelizmente, seu perfil de Recompensas Kahf foi sinalizado porque nossas verificações automatizadas encontraram alguma atividade inesperada dos Anúncios Kahf.</translation>
-+<translation id="4229056297802204697">Enquanto seu perfil estiver marcado, você pode continuar vendo anúncios, mas não terá direito a receber pagamentos. Você também não poderá conectar uma conta custodiada ao Kahf Rewards.</translation>
- <translation id="5124846913141379164">Pode ser que seu perfil tenha sido sinalizado por engano e nenhuma ação imediata é necessária de sua parte. A sinalização do seu perfil poderá ser removida no futuro.</translation>
--<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Saiba mais sobre o processo do Brave para a sinalização de perfis das Recompensas<ph name="END_LINK"/></translation>
--<translation id="5028274575541726856">Erro: o perfil das Recompensas Brave foi sinalizado</translation>
-+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Saiba mais sobre o processo do Kahf para a sinalização de perfis das Recompensas<ph name="END_LINK"/></translation>
-+<translation id="5028274575541726856">Erro: o perfil das Recompensas Kahf foi sinalizado</translation>
- <translation id="2607420597216860026">Tente novamente depois de concluir a verificação de ID no <ph name="PROVIDER"/>.</translation>
- <translation id="3183954159462541696">Erro: é necessário ter uma conta verificada para fazer login</translation>
--<translation id="1859789048900659918">Parece que seu país das Recompensas Brave não corresponde ao país da conta do <ph name="PROVIDER"/> que você está tentando conectar.</translation>
-+<translation id="1859789048900659918">Parece que seu país das Recompensas Kahf não corresponde ao país da conta do <ph name="PROVIDER"/> que você está tentando conectar.</translation>
- <translation id="8925428135452218262">Erro: incompatibilidade de país</translation>
--<translation id="5260522591743022748">Parece que sua conta das Recompensas Brave já foi verificada com outra conta do <ph name="PROVIDER"/>. Tente verificar novamente usando sua conta anterior.</translation>
-+<translation id="5260522591743022748">Parece que sua conta das Recompensas Kahf já foi verificada com outra conta do <ph name="PROVIDER"/>. Tente verificar novamente usando sua conta anterior.</translation>
- <translation id="5111921830714291902">Erro: conta diferente</translation>
--<translation id="5225019866741699134">Parece que a conexão do <ph name="PROVIDER"/> às Recompensas Brave está indisponível no momento. Tente novamente mais tarde.</translation>
-+<translation id="5225019866741699134">Parece que a conexão do <ph name="PROVIDER"/> às Recompensas Kahf está indisponível no momento. Tente novamente mais tarde.</translation>
- <translation id="6105073131081187815">Você pode ver o <ph name="BEGIN_LINK"/>status do serviço aqui<ph name="END_LINK"/>.</translation>
- <translation id="2400786541309111904">Erro: a conexão com o custodiante selecionado está temporariamente indisponível</translation>
--<translation id="1024520300696337331">Não é possível conectar sua conta <ph name="PROVIDER"/> ao seu perfil das Recompensas Brave no momento. Sua conta <ph name="PROVIDER"/> está registrada em um país em que a conexão às Recompensas Brave não está disponível atualmente.</translation>
--<translation id="619384413404021992">Veja a <ph name="LINK_BEGIN"/>lista atual de regiões compatíveis e saiba mais<ph name="END_LINK"/> sobre a conexão de uma conta custodial às Recompensas Brave.</translation>
-+<translation id="1024520300696337331">Não é possível conectar sua conta <ph name="PROVIDER"/> ao seu perfil das Recompensas Kahf no momento. Sua conta <ph name="PROVIDER"/> está registrada em um país em que a conexão às Recompensas Kahf não está disponível atualmente.</translation>
-+<translation id="619384413404021992">Veja a <ph name="LINK_BEGIN"/>lista atual de regiões compatíveis e saiba mais<ph name="END_LINK"/> sobre a conexão de uma conta custodial às Recompensas Kahf.</translation>
- <translation id="7193389978208728181">Erro: a região não é compatível no momento</translation>
- <translation id="5382684862562314222">O uso de BAT ainda não é aceito na sua região no Uphold.</translation>
- <translation id="9074594632540931067">Erro: BAT indisponível</translation>
- <translation id="5376524136040178759">De acordo com o Uphold, atualmente existem algumas limitações na sua conta Uphold. Faça login na sua conta Uphold e verifique se há algum aviso ou requisito de conta restante a ser preenchido e tente novamente. Por exemplo, talvez você precise enviar mais informações para o Uphold.</translation>
- <translation id="6996157559236886133">Erro: funcionalidades da conta do Uphold limitadas</translation>
--<translation id="3274650021044762770">Houve um problema ao validar a solicitação do seu navegador para conectar sua conta das Recompensas Brave à sua conta do <ph name="PROVIDER"/>. Você pode <ph name="BEGIN_LINK"/>entrar em contato com o suporte<ph name="END_LINK"/> para obter ajuda.</translation>
-+<translation id="3274650021044762770">Houve um problema ao validar a solicitação do seu navegador para conectar sua conta das Recompensas Kahf à sua conta do <ph name="PROVIDER"/>. Você pode <ph name="BEGIN_LINK"/>entrar em contato com o suporte<ph name="END_LINK"/> para obter ajuda.</translation>
- <translation id="1316066811927496401">Erro: não foi possível validar a solicitação</translation>
- <translation id="7352651011704765696">Algo deu errado</translation>
- <translation id="8285276813470932793">Não foi possível concluir sua solicitação. Tente novamente e <ph name="LINK_BEGIN"/>fale com o suporte<ph name="LINK_END"/> se o problema persistir.</translation>
-@@ -284,7 +284,7 @@
- <translation id="756341217015623253">Faça o login ou cadastre-se</translation>
- <translation id="2653844658857826081">NOVO</translation>
- <translation id="1892970806832316900">Pendente até <ph name="DATE"/></translation>
--<translation id="7849926087559412554">Ops! Seu navegador não pode receber Anúncios privados do Brave.</translation>
-+<translation id="7849926087559412554">Ops! Seu navegador não pode receber Anúncios privados do Kahf.</translation>
- <translation id="5177429570315095022">Seu navegador precisa ser atualizado para continuar vendo anúncios.</translation>
- <translation id="4593680147181354667">Id do diagnóstico</translation>
- <translation id="3995471429906554168">informações do diagnóstico</translation>
-@@ -574,20 +574,20 @@
- <translation id="2429828319207652823">Houve um problema ao processar sua contribuição.</translation>
- <translation id="6390041270339783491">Houve uma falha na contribuição mensal</translation>
- <translation id="7047578174221019462">Suas contribuições mensais foram processadas.</translation>
--<translation id="2529827670795983639">Parece que isso não está funcionando. O Brave Ads continuará pausado. Entre em contato conosco se precisar de ajuda com o captcha.</translation>
-+<translation id="2529827670795983639">Parece que isso não está funcionando. O Kahf Ads continuará pausado. Entre em contato conosco se precisar de ajuda com o captcha.</translation>
- <translation id="261607053214862521">Máximo de tentativas excedido</translation>
- <translation id="2323171459178104277">Resolvido!</translation>
--<translation id="1512837998731269583">Os anúncios e ganhos serão retomados agora. Agradecemos por nos ajudar a proteger o Brave Rewards e os anúncios baseados na privacidade.</translation>
-+<translation id="1512837998731269583">Os anúncios e ganhos serão retomados agora. Agradecemos por nos ajudar a proteger o Kahf Rewards e os anúncios baseados na privacidade.</translation>
- <translation id="3247549836099021862">Entre em contato com o suporte</translation>
- <translation id="5234764350956374838">Dispensar</translation>
- <translation id="7859066142771796818">Use tokens para comprar vales-presente, trocar por outras moedas, apoiar criadores de conteúdo e muito mais.</translation>
--<translation id="5425006356459378415">As Recompensas Brave não estão disponíveis</translation>
--<translation id="909076461795862330">Infelizmente, houve um erro ao tentar configurar as Recompensas Brave. Tente novamente.</translation>
-+<translation id="5425006356459378415">As Recompensas Kahf não estão disponíveis</translation>
-+<translation id="909076461795862330">Infelizmente, houve um erro ao tentar configurar as Recompensas Kahf. Tente novamente.</translation>
- <translation id="3180990265682133881">Infelizmente, houve um erro ao tentar definir seu país. Tente novamente.</translation>
--<translation id="5931798071481566121">Novos cadastros nas Recompensas Brave estão desativados na sua região no momento. Tente novamente mais tarde. <ph name="LINK_BEGIN"/>Saiba mais<ph name="LINK_END"/></translation>
-+<translation id="5931798071481566121">Novos cadastros nas Recompensas Kahf estão desativados na sua região no momento. Tente novamente mais tarde. <ph name="LINK_BEGIN"/>Saiba mais<ph name="LINK_END"/></translation>
- <translation id="6439128034594289376">Uhu! Tudo pronto para você!</translation>
- <translation id="6136350726756049410">Agora você pode ser recompensado por visualizar anúncios. Você está ajudando a tornar a web um lugar melhor para todos. E isso é incrível!</translation>
--<translation id="5547108999862247665">Como funciona o Recompensas Brave ?</translation>
-+<translation id="5547108999862247665">Como funciona o Recompensas Kahf ?</translation>
- <translation id="3970520675790340955">Selecione seu país para que possamos mostrar as opções e os anúncios certos para sua região.</translation>
- <translation id="6945221475159498467">Selecionar</translation>
- <translation id="3279158300746391749">Pressione o ícone <ph name="BAT_ICON"/> BAT na barra de URL para começar.</translation>
-@@ -901,9 +901,9 @@
- <translation id="7261362517244085362">Autorizar sua carteira</translation>
- <translation id="7150150391368236519">Conectar carteira de hardware</translation>
- <translation id="5400782314657008092">No momento, temos suporte com os dispositivos <ph name="HARDWARE_DEVICE"/> e <ph name="HARDWARE_DEVICE1"/>.</translation>
--<translation id="8144305264680648043">Conecte sua carteira de hardware para gerenciar seus ativos diretamente da Carteira Brave</translation>
-+<translation id="8144305264680648043">Conecte sua carteira de hardware para gerenciar seus ativos diretamente da Carteira Kahf</translation>
- <translation id="1329837291200753515">Selecione um blockchain para importar sua carteira de hardware</translation>
--<translation id="6983390509997396124">Conecte seu <ph name="HARDWARE_DEVICE"/> dispositivo à Carteira Brave</translation>
-+<translation id="6983390509997396124">Conecte seu <ph name="HARDWARE_DEVICE"/> dispositivo à Carteira Kahf</translation>
- <translation id="5149944858285555235">Erro desconhecido. Reconecte sua carteira de hardware e tente novamente.</translation>
- <translation id="4522570452068850558">Detalhes</translation>
- <translation id="9220525904950070496">Remover conta</translation>
-@@ -1579,7 +1579,7 @@
- <translation id="1215089823252478557">Veja a alteração estimada do saldo</translation>
- <translation id="2761574758015819991">Identifique transações potencialmente maliciosas</translation>
- <translation id="168533464844528463">Ajude a detectar tentativas de phishing</translation>
--<translation id="7269757150305059881">O Brave trabalha com um parceiro para fornecer este serviço. Ao ativar, você concorda em compartilhar transações não assinadas e seus URLs DApp com nosso parceiro.</translation>
-+<translation id="7269757150305059881">O Kahf trabalha com um parceiro para fornecer este serviço. Ao ativar, você concorda em compartilhar transações não assinadas e seus URLs DApp com nosso parceiro.</translation>
- <translation id="7790932700072432983">Altere a qualquer momento em <ph name="TAG_BEFORE"/>Configurações<ph name="TAG_AFTER"/>.</translation>
- <translation id="8688672835843460752">Disponível</translation>
- <translation id="5296640085393149413">Fundos disponíveis para você usar.</translation>
-@@ -1803,23 +1803,23 @@
- <translation id="6938154350999993769">Ativar/desativar modo de tablet em depuração</translation>
- <translation id="5854741377790551127">Depuração: imprimir visualização de árvore</translation>
- <translation id="8199130368328220410">Alternar legendas ao vivo</translation>
--<translation id="9055778350624039365">Mostrar painel da Carteira Brave</translation>
--<translation id="2548853975094084059">Fechar painel da Carteira Brave</translation>
--<translation id="3765209580429944524">Mostrar painel da VPN Brave</translation>
--<translation id="5989009326527614692">Ativar/desativar botão da barra de ferramentas da VPN Brave</translation>
--<translation id="7334332308395652803">Ativar/Desativar o ícone de bandeja do Brave VPN</translation>
--<translation id="4326011033480357140">Enviar feedback sobre a VPN Brave</translation>
--<translation id="2345974803401546682">Sobre o Brave VPN</translation>
--<translation id="8934783170241943640">Gerenciarplano da VPN Brave</translation>
--<translation id="6332027154313182926">Alternar VPN Brave</translation>
-+<translation id="9055778350624039365">Mostrar painel da Carteira Kahf</translation>
-+<translation id="2548853975094084059">Fechar painel da Carteira Kahf</translation>
-+<translation id="3765209580429944524">Mostrar painel da VPN Kahf</translation>
-+<translation id="5989009326527614692">Ativar/desativar botão da barra de ferramentas da VPN Kahf</translation>
-+<translation id="7334332308395652803">Ativar/Desativar o ícone de bandeja do Kahf VPN</translation>
-+<translation id="4326011033480357140">Enviar feedback sobre a VPN Kahf</translation>
-+<translation id="2345974803401546682">Sobre o Kahf VPN</translation>
-+<translation id="8934783170241943640">Gerenciarplano da VPN Kahf</translation>
-+<translation id="6332027154313182926">Alternar VPN Kahf</translation>
- <translation id="6539014233195996894">Alternar Desativar som</translation>
- <translation id="2682865834956428001">Alternar posição da barra lateral</translation>
- <translation id="6105745639559695088">Alternar barra lateral</translation>
- <translation id="3488252265135539275">Alternar abas verticais</translation>
- <translation id="7134064542341959603">Alternar título da janela das abas verticais</translation>
--<translation id="3067105725259639716">Configurar Notícias Brave</translation>
-+<translation id="3067105725259639716">Configurar Notícias Kahf</translation>
- <translation id="6286510487460330478">Configurar atalhos</translation>
--<translation id="9214819486716388964">Mostrar Conversa Brave</translation>
-+<translation id="9214819486716388964">Mostrar Conversa Kahf</translation>
- <translation id="5950760360751948276">Mostrar sempre a barra de favoritos</translation>
- <translation id="2960757369920422313">Mostrar barra de favoritos em NTP</translation>
- <translation id="522953399371747698">Ocultar barra de favoritos</translation>
-@@ -1900,11 +1900,11 @@
- <translation id="1167803637855350748">Ocorreu um problema de rede ao se conectar ao Leo. Verifique sua conexão e tente novamente.</translation>
- <translation id="1996126325390835277">Você atingiu o limite da taxa premium. Tente novamente em algumas horas.</translation>
- <translation id="7144878232160441200">Tentar novamente</translation>
--<translation id="8570488829560315702">Olá, sou o Léo. Sou um assistente de IA totalmente hospedado pelo Brave. Sou desenvolvido com Llama 3 8B, um modelo criado pela Meta para ter desempenho e ser aplicável a muitos casos de uso. <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
--<translation id="6500567629965936637">Olá, sou o Léo. Sou um assistente de IA totalmente hospedado pelo Brave. Sou equipado com Mixtral 8x7B, um modelo criado pela Mistral AI para lidar com tarefas avançadas. <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
--<translation id="4590776109659811206">Olá, sou o Léo. Sou representado pelo Brave e desenvolvido por Claude Instant, um modelo criado pela Anthropic para potencializar tarefas de conversação e processamento de texto. <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
--<translation id="8583558415545871403">Olá, sou o Leo. Sou representado pelo Brave e desenvolvido por Claude 3 Haiku, um modelo criado pela Anthropic para potencializar tarefas de conversação e processamento de texto.</translation>
--<translation id="4147243042852964992">Olá, sou o Leo. Sou representado pelo Brave e desenvolvido por Claude 3 Sonnet, um modelo criado pela Anthropic para potencializar tarefas de conversação e processamento de texto.</translation>
-+<translation id="8570488829560315702">Olá, sou o Léo. Sou um assistente de IA totalmente hospedado pelo Kahf. Sou desenvolvido com Llama 3 8B, um modelo criado pela Meta para ter desempenho e ser aplicável a muitos casos de uso. <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
-+<translation id="6500567629965936637">Olá, sou o Léo. Sou um assistente de IA totalmente hospedado pelo Kahf. Sou equipado com Mixtral 8x7B, um modelo criado pela Mistral AI para lidar com tarefas avançadas. <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
-+<translation id="4590776109659811206">Olá, sou o Léo. Sou representado pelo Kahf e desenvolvido por Claude Instant, um modelo criado pela Anthropic para potencializar tarefas de conversação e processamento de texto. <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
-+<translation id="8583558415545871403">Olá, sou o Leo. Sou representado pelo Kahf e desenvolvido por Claude 3 Haiku, um modelo criado pela Anthropic para potencializar tarefas de conversação e processamento de texto.</translation>
-+<translation id="4147243042852964992">Olá, sou o Leo. Sou representado pelo Kahf e desenvolvido por Claude 3 Sonnet, um modelo criado pela Anthropic para potencializar tarefas de conversação e processamento de texto.</translation>
- <translation id="6206029817087805290"><ph name="MODEL_NAME"/> por <ph name="COMPANY_NAME"/></translation>
- <translation id="963346402440669081">Premium</translation>
- <translation id="6187065185557150870">Chat</translation>
-@@ -1952,7 +1952,7 @@
- <translation id="8712637175834984815">Entendi</translation>
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Conecte-se ao bitFlyer</translation>
+ <translation id="6143701117592994599">Conectar o Kahf Rewards a uma conta bitFlyer permitirá que você ganhe BAT e retire seus ganhos de BAT do Kahf Rewards.</translation>
+ <translation id="4354564238172327160">Torne-se um Criador Kahf!</translation>
+-<translation id="4639659520811817892">Acesse creators.brave.com para se cadastrar hoje mesmo e começar a ganhar BATs dos seus fãs e seguidores.</translation>
++<translation id="4639659520811817892">Acesse creators.Kahf.com para se cadastrar hoje mesmo e começar a ganhar BATs dos seus fãs e seguidores.</translation>
+ <translation id="4816455138209470435">O Kahf é compatível com YouTube, Twitch, Vimeo e muito mais!</translation>
+ <translation id="7404779623219601861">Trocar BAT por vales-presente</translation>
+ <translation id="6215565499749144110">Com a TAP Network, você pode trocar sua BAT por vales-presente de marcas famosas.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">Contribuição enviada!</translation>
+ <translation id="7063168612616047608">Obrigado por apoiar seus criadores favoritos</translation>
+ <translation id="1041398280582063935">Compartilhe seu apoio</translation>
+-<translation id="4001190813297686107">Acabei de contribuir com <ph name="AMOUNT"/> BAT usando o Navegador Kahf! Veja como você também pode apoiar seus criadores e sites favoritos: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Acabei de contribuir com <ph name="AMOUNT"/> BAT usando o Navegador Kahf! Veja como você também pode apoiar seus criadores e sites favoritos: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Ocorreu um erro inesperado</translation>
+ <translation id="2605703631071131439">Reabra o painel de contribuição para tentar novamente.</translation>
+ <translation id="8855543392451028706">Bem-vindo! Os usuários podem apoiar este criador de conteúdo enviando contribuições. É uma forma de agradecê-lo por criar um ótimo conteúdo.</translation>
+@@ -2052,7 +2052,7 @@
  <translation id="1093419424466417703">A página é muito longa para Leo. Algum contexto pode estar faltando na conversa. Leo sabia ler <ph name="PERCENTAGE"/> do conteúdo da página.</translation>
+ <translation id="2186990448773134544">O conteúdo da página foi refinado extraindo as informações mais relevantes da página porque ela era muito longa para o Leo.</translation>
  <translation id="4370698775470316661">Esta conversa é muito longa e não pode continuar. Pode haver outros modelos disponíveis com os quais Leo seja capaz de manter a precisão em conversas mais longas.</translation>
 -<translation id="5719170755629028558">Melhorando sua resposta com Brave Search…</translation>
 +<translation id="5719170755629028558">Melhorando sua resposta com Kahf Search…</translation>
  <translation id="5794962229997281366">Pesquisa de resposta melhorada para <ph name="SEARCH_TERMS"/>.</translation>
  <translation id="6291843235651817590">Chat de utilização geral</translation>
  <translation id="8193130769524604031">Tarefas avançadas de chat</translation>
-@@ -1997,13 +1997,13 @@
- <translation id="49269513399674318">Usar microfone</translation>
- <translation id="3895031624234442305">Modelos personalizados</translation>
- <translation id="6303294677342628402">Escudos</translation>
--<translation id="8458987127502506209">Ativar Proteções do Brave</translation>
-+<translation id="8458987127502506209">Ativar Proteções do Kahf</translation>
- <translation id="7509914170164691086">Proteções ATIVADAS <ph name="LINK_BEFORE"/>para<ph name="LINK_AFTER"/></translation>
- <translation id="260764436039299868">As Proteções estão DESATIVADAS <ph name="LINK_BEFORE"/>para<ph name="LINK_AFTER"/></translation>
- <translation id="3907405056878805220">Se este site parece não estar funcionando corretamente, tente desativar as Proteções.
--    <ph name="LINK_BEFORE"/>Observação: isso poderá reduzir as proteções de privacidade do Brave.<ph name="LINK_AFTER"/></translation>
-+    <ph name="LINK_BEFORE"/>Observação: isso poderá reduzir as proteções de privacidade do Kahf.<ph name="LINK_AFTER"/></translation>
- <translation id="8377155647357436161">Rastreadores, anúncios e outros conteúdos bloqueados <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
--<translation id="7604553853176833536">Não protegido pelas Proteções do Brave <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
-+<translation id="7604553853176833536">Não protegido pelas Proteções do Kahf <ph name="LINK_BEFORE"/>Saiba mais<ph name="LINK_AFTER"/></translation>
- <translation id="650318023204990401">Controles avançados</translation>
- <translation id="5799940914270080805">A alteração dessas configurações pode fazer com que alguns sites não funcionem corretamente.</translation>
- <translation id="9204041448536398473">Configurações globais das Proteções</translation>
-@@ -2034,49 +2034,49 @@
- <translation id="2570787596946026998">Conecte-se apenas com HTTPS</translation>
- <translation id="1992750560347846445">Informar site com problema</translation>
- <translation id="2387532482048804818">Informe-nos se o site não estiver funcionando corretamente com as Proteções ativadas.</translation>
--<translation id="3795015906457257780">Você está visualizando este site sem as proteções de privacidade do Brave.</translation>
--<translation id="7194012750329511146">Proteções do Brave
-+<translation id="3795015906457257780">Você está visualizando este site sem as proteções de privacidade do Kahf.</translation>
-+<translation id="7194012750329511146">Proteções do Kahf
- <ph name="NUMBER"/> rastreadores, anúncios e outros conteúdos bloqueados</translation>
- <translation id="4292121526390005808">Scripts bloqueados</translation>
- <translation id="5046271170844958713">Scripts permitidos</translation>
- <translation id="264682546981571963">Não aguenta mais avisos de consentimento para cookies?</translation>
--<translation id="4986297793092101884">O Brave já bloqueia cookies de terceiros. Podemos bloquear também os avisos de consentimento para cookies.</translation>
-+<translation id="4986297793092101884">O Kahf já bloqueia cookies de terceiros. Podemos bloquear também os avisos de consentimento para cookies.</translation>
- <translation id="535688588637568715">Sim, bloquear os avisos de consentimento para cookies</translation>
--<translation id="2808175374672429053">Curingas não são permitidos nas Proteções Brave.</translation>
-+<translation id="2808175374672429053">Curingas não são permitidos nas Proteções Kahf.</translation>
- <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
--      =1 {Brave Shields bloquearam 1 rastreador em <ph name="SITE_URL"/>}
--      other {Brave Shields bloqueados {BLOCKED_COUNT} rastreadores ativados <ph name="SITE_URL"/>}
-+      =1 {Kahf Shields bloquearam 1 rastreador em <ph name="SITE_URL"/>}
-+      other {Kahf Shields bloqueados {BLOCKED_COUNT} rastreadores ativados <ph name="SITE_URL"/>}
-     }</translation>
--<translation id="2540598191934725677">Clique no ícone Brave para visualizar Brave Shields.</translation>
-+<translation id="2540598191934725677">Clique no ícone Kahf para visualizar Kahf Shields.</translation>
- <translation id="6294662480095808915">Privacidade. Por padrão.</translation>
--<translation id="4366423156486478559">Tenha a proteção do Brave em todos os links nos quais clicar. Basta definir o Brave como padrão e navegar com privacidade.</translation>
-+<translation id="4366423156486478559">Tenha a proteção do Kahf em todos os links nos quais clicar. Basta definir o Kahf como padrão e navegar com privacidade.</translation>
- <translation id="3830912418080848377">Importar configurações</translation>
- <translation id="6378406588483694938">Importe com facilidade favoritos, extensões e até mesmo as senhas salvas do seu navegador antigo.</translation>
- <translation id="2092825239819166928">Selecionar perfil para importar</translation>
- <translation id="4763127492635705340">O navegador que você escolheu tem mais de um perfil. Selecione o(s) perfil(is) que deseja importar.</translation>
- <translation id="880174232178865598">Importar perfis</translation>
- <translation id="2453860139492968684">Concluir</translation>
--<translation id="2273851479262317744">Definir o Brave como navegador padrão</translation>
-+<translation id="2273851479262317744">Definir o Kahf como navegador padrão</translation>
- <translation id="5037676449506322593">Selecionar todos</translation>
--<translation id="5148943178722443958">Ajude a melhorar o Brave.</translation>
-+<translation id="5148943178722443958">Ajude a melhorar o Kahf.</translation>
- <translation id="1097073572755862978">Envie relatórios de diagnóstico em caso de falha ou congelamento. <ph name="LINK_BEFORE"/>Saiba mais.<ph name="LINK_AFTER"/></translation>
--<translation id="6629244688368006959">Compartilhe insights de produtos privados e anônimos sobre quais recursos estão sendo usados ​​pelos usuários do Brave. <ph name="LINK_BEFORE"/>Saiba mais.<ph name="LINK_AFTER"/></translation>
-+<translation id="6629244688368006959">Compartilhe insights de produtos privados e anônimos sobre quais recursos estão sendo usados ​​pelos usuários do Kahf. <ph name="LINK_BEFORE"/>Saiba mais.<ph name="LINK_AFTER"/></translation>
- <translation id="7415454883318062233">Configuração concluída</translation>
--<translation id="3141206739023333979">Altere essas escolhas a qualquer momento no Brave em <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
-+<translation id="3141206739023333979">Altere essas escolhas a qualquer momento no Kahf em <ph name="LINK_BEFORE1"/>kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
- <translation id="8321985064212130832">Leia nossa <ph name="LINK_BEFORE"/>Política de Privacidade<ph name="LINK_AFTER"/> na íntegra</translation>
- <translation id="2801098717523961746">Escolha seu tema</translation>
--<translation id="6262510489122516114">Você pode alterar este tema a qualquer momento nas configurações do Brave.</translation>
-+<translation id="6262510489122516114">Você pode alterar este tema a qualquer momento nas configurações do Kahf.</translation>
- <translation id="546481172717459539">Usar a configuração do sistema</translation>
- <translation id="7799817062559422778">Modo claro</translation>
- <translation id="4117637339509843559">Modo escuro</translation>
- <translation id="6302485303316397682">Quer melhores resultados de pesquisa?</translation>
--<translation id="7014699001826714920">Junte-se ao movimento, contribua para o Brave Search.</translation>
--<translation id="6821108091726602352">Ajude-nos a consertar a web participando do Projeto Web Discovery do Brave. Ao compartilhar sinais de pesquisa completamente anônimos, você pode ajudar o Brave a aumentar o índice de pesquisa.</translation>
-+<translation id="7014699001826714920">Junte-se ao movimento, contribua para o Kahf Search.</translation>
-+<translation id="6821108091726602352">Ajude-nos a consertar a web participando do Projeto Web Discovery do Kahf. Ao compartilhar sinais de pesquisa completamente anônimos, você pode ajudar o Kahf a aumentar o índice de pesquisa.</translation>
- <translation id="6764845498618413165">Saiba mais.</translation>
- <translation id="7818938154803162778">Claro, vou ajudar</translation>
--<translation id="7821773512278295352">Firewall + VPN Brave: conectado</translation>
--<translation id="6019088868713395120">Firewall + VPN Brave: desconectado</translation>
--<translation id="3541307549916475335">UI do painel da VPN Brave</translation>
-+<translation id="7821773512278295352">Firewall + VPN Kahf: conectado</translation>
-+<translation id="6019088868713395120">Firewall + VPN Kahf: desconectado</translation>
-+<translation id="3541307549916475335">UI do painel da VPN Kahf</translation>
- <translation id="1742469581923031760">Conectando…</translation>
- <translation id="1287487756047817908">Desconectando…</translation>
- <translation id="2325196879156848326">Falha na conexão</translation>
-@@ -2086,7 +2086,7 @@
- <translation id="8703188411226330709">Iniciar teste gratuito</translation>
- <translation id="1024255913009642477">Já adquiriu uma VPN?</translation>
- <translation id="8814357473522731680">Desenvolvido por</translation>
--<translation id="3960619311638643872">Brave VPN</translation>
-+<translation id="3960619311638643872">Kahf VPN</translation>
- <translation id="7805768142964895445">Status</translation>
- <translation id="5747552184818312860">Expira em</translation>
- <translation id="8421945428836418371">Reconectar automaticamente</translation>
-@@ -2104,7 +2104,7 @@
- <translation id="427718751211990320">A data de expiração das credenciais expirou.</translation>
- <translation id="8670619630771851260">Não foi possível carregar as credenciais.</translation>
- <translation id="1594643509610625766">O token não é mais válido.</translation>
--<translation id="8373427068383038263">Parece que seu pagamento mais recente de <ph name="VALUE"/> não foi processado. O acesso a esta assinatura será interrompido até o problema com o pagamento ser resolvido. Tente editar sua forma de pagamento ou entre em contato com o suporte do Brave.</translation>
-+<translation id="8373427068383038263">Parece que seu pagamento mais recente de <ph name="VALUE"/> não foi processado. O acesso a esta assinatura será interrompido até o problema com o pagamento ser resolvido. Tente editar sua forma de pagamento ou entre em contato com o suporte do Kahf.</translation>
- <translation id="1839021455997460752">Seu endereço de e-mail</translation>
- <translation id="8054563304616131773">Insira um endereço de e-mail válido</translation>
- <translation id="5154702632169343078">Assunto</translation>
-@@ -2121,14 +2121,14 @@
- <translation id="6676791921618140305">Versão do SO:</translation>
- <translation id="1156325797949437777">Suporte fornecido em parceria com a Guardian.</translation>
- <translation id="8146777497879160283">Houve uma falha ao criar a configuração da VPN. Isso pode acontecer quando você não tem permissão ou não executou o Windows Update recentemente.</translation>
--<translation id="3307461350293459700">Houve uma falha na conexão VPN. Clique em "Permitir" para ativar a configuração da VPN do Brave e tente novamente.</translation>
--<translation id="7261518280726313829">Desativar o DNS seguro ou usar servidores padrão no Windows pode revelar os nomes dos sites que você acessa ao seu provedor de serviços de internet. O Brave não recomenda fazer isso. Você quer fazer isso mesmo assim?</translation>
--<translation id="888284761945060750">O DNS seguro está desativado pelas políticas da sua organização. Usar a VPN Brave sem um DNS seguro pode revelar os nomes dos sites que você acessa à sua organização ou ao seu provedor de serviços de internet.</translation>
--<translation id="6593224083874259773">VPN Brave no Windows</translation>
--<translation id="3153983908111684619">A configuração é bloqueada pela VPN Brave enquanto ela está conectada</translation>
-+<translation id="3307461350293459700">Houve uma falha na conexão VPN. Clique em "Permitir" para ativar a configuração da VPN do Kahf e tente novamente.</translation>
-+<translation id="7261518280726313829">Desativar o DNS seguro ou usar servidores padrão no Windows pode revelar os nomes dos sites que você acessa ao seu provedor de serviços de internet. O Kahf não recomenda fazer isso. Você quer fazer isso mesmo assim?</translation>
-+<translation id="888284761945060750">O DNS seguro está desativado pelas políticas da sua organização. Usar a VPN Kahf sem um DNS seguro pode revelar os nomes dos sites que você acessa à sua organização ou ao seu provedor de serviços de internet.</translation>
-+<translation id="6593224083874259773">VPN Kahf no Windows</translation>
-+<translation id="3153983908111684619">A configuração é bloqueada pela VPN Kahf enquanto ela está conectada</translation>
- <translation id="1055657720430482013">O Windows tem um recurso chamado Smart Multi-Homed Name Resolution, que pode expor informações sobre sua localização e os sites que você visita.
- 
--O Brave tem um serviço auxiliar que protege você dessa exposição, filtrando a forma como as consultas de DNS são feitas em sua conexão VPN.
-+O Kahf tem um serviço auxiliar que protege você dessa exposição, filtrando a forma como as consultas de DNS são feitas em sua conexão VPN.
- 
- No entanto, notamos que esse serviço auxiliar não está em execução - e não queremos deixar você desprotegido. Alteramos as configurações de DNS no navegador para proteger contra essa exposição. As configurações permanecerão em vigor e bloqueadas enquanto a VPN estiver conectada.
- 
+@@ -2262,7 +2262,7 @@ Vamos conectar você!</translation>
+ <translation id="7423206764347669977">Alterar as configurações</translation>
+ <translation id="9061845622728745852">Fuso horário:</translation>
+ <translation id="8295393906499561642">Sessão expirada</translation>
+-<translation id="3312623558576021182">Faça login em sua  <ph name="BRAVE_ACCOUNT_BEGIN"/>conta Kahf<ph name="BRAVE_ACCOUNT_END"/> para atualizar sua sessão VPN.</translation>
++<translation id="3312623558576021182">Faça login em sua  <ph name="Kahf_ACCOUNT_BEGIN"/>conta Kahf<ph name="Kahf_ACCOUNT_END"/> para atualizar sua sessão VPN.</translation>
+ <translation id="6021669293402055982">Kahf VPN: desconectado</translation>
+ <translation id="7861195049821776142">Kahf VPN: desconectando</translation>
+ <translation id="958268166261124668">Kahf VPN: conectado</translation>

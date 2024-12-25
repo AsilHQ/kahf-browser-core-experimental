@@ -85,18 +85,18 @@ void LeoProvider::Start(const AutocompleteInput& input, bool minimal_changes) {
         text, /*trim_leading_whitespace=*/true, &text);
   }
   match.keyword = text;
-  // match.contents = text;
-  // match.fill_into_edit = text;
+  match.contents = text;
+  match.fill_into_edit = text;
   match.contents_class = {
       ACMatchClassification(0, ACMatchClassification::MATCH)};
-  // match.description =
-  //     l10n_util::GetStringUTF16(IDS_OMNIBOX_ASK_LEO_DESCRIPTION);
+  match.description =
+      l10n_util::GetStringUTF16(IDS_OMNIBOX_ASK_LEO_DESCRIPTION);
   match.description_class = {
       ACMatchClassification(0, ACMatchClassification::DIM)};
   // This must be matched with the |kMatchType|
-  // match.suggest_type = omnibox::SuggestType::TYPE_ENTITY;
-  // match.RecordAdditionalInfo(kIsMatchFromLeoProviderKey, true);
-  // match.takeover_action = base::MakeRefCounted<LeoAction>(text);
+  match.suggest_type = omnibox::SuggestType::TYPE_ENTITY;
+  match.RecordAdditionalInfo(kIsMatchFromLeoProviderKey, true);
+  match.takeover_action = base::MakeRefCounted<LeoAction>(text);
 
   matches_.push_back(std::move(match));
 

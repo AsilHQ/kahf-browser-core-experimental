@@ -54,14 +54,14 @@
 
 using ntp_background_images::NTPCustomImagesSource;
 
-#define INSTALL_EXTENSION(extension_id, profile)                           
-  scoped_refptr<extensions::WebstoreInstallWithPrompt>                     
-      installer##extension_id = new extensions::WebstoreInstallWithPrompt( 
-          extension_id, profile,                                           
-          chrome::FindLastActiveWithProfile(profile)                       
-              ->window()                                                   
-              ->GetNativeWindow(),                                         
-          base::DoNothing(), false);                                       
+#define INSTALL_EXTENSION(extension_id, profile)                           \
+ scoped_refptr<extensions::WebstoreInstallWithPrompt>                     \
+     installer##extension_id = new extensions::WebstoreInstallWithPrompt( \
+         extension_id, profile,                                           \
+         chrome::FindLastActiveWithProfile(profile)                       \
+             ->window()                                                   \
+             ->GetNativeWindow(),                                         \
+         base::DoNothing(), false);                                       \
   installer##extension_id->BeginInstall();
 
 BraveNewTabUI::BraveNewTabUI(content::WebUI* web_ui, const std::string& name)

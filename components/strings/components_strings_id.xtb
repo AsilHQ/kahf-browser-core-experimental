@@ -28,7 +28,7 @@
 <translation id="1053959602163383901">Anda memilih untuk memverifikasi dengan perangkat pengautentikasi di situs yang menggunakan <ph name="PROVIDER_ORIGIN"/>. Penyedia ini mungkin telah menyimpan informasi tentang metode pembayaran Anda, yang dapat Anda <ph name="LINK_TEXT"/>.</translation>
 <translation id="1055184225775184556">&amp;Urungkan Penambahan</translation>
 <translation id="1056898198331236512">Peringatan</translation>
-<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan tab lalu Enter untuk memainkan game Dino Run di Brave</translation>
+<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan tab lalu Enter untuk memainkan game Dino Run di Kahf</translation>
 <translation id="1058479211578257048">Menyimpan kartu...</translation>
 <translation id="1060136083665017312">Sistem &amp; Konsol Game</translation>
 <translation id="1060320201901229167">Envelope Kaku 5</translation>
@@ -49,7 +49,7 @@
 <translation id="1082026381988252344">Scroll dan zoom konten tab yang dibagikan</translation>
 <translation id="1088664500620117635">Harga standar <ph name="PRODUCT_NAME"/> adalah <ph name="LOW_PRICE"/> - <ph name="HIGH_PRICE"/>, tetapi harga saat ini adalah <ph name="CURRENT_PRICE"/> di seluruh web.</translation>
 <translation id="1089439967362294234">Ubah Sandi</translation>
-<translation id="807719392864780545">Anda dapat mengubahnya kapan saja di setelan Brave.</translation>
+<translation id="807719392864780545">Anda dapat mengubahnya kapan saja di setelan Kahf.</translation>
 <translation id="1090629319939036170">Menu VR</translation>
 <translation id="1091463901118115503">Lanjutkan membaca</translation>
 <translation id="1091779689406092804">screenshot</translation>
@@ -57,10 +57,10 @@
 <translation id="1096545575934602868">Kolom ini tidak boleh memiliki lebih dari <ph name="MAX_ITEMS_LIMIT"/> entri. Semua entri lanjutan akan dibuang.</translation>
 <translation id="1097803577928227769">Taman &amp; Kebun Daerah</translation>
 <translation id="1099928364755383720">picture-in-picture otomatis</translation>
-<translation id="7584468665743195331">Tombol Lanjutkan perjalanan Anda, tekan Enter untuk melanjutkan perjalanan Anda dan melihat aktivitas yang relevan di histori Brave Anda</translation>
+<translation id="7584468665743195331">Tombol Lanjutkan perjalanan Anda, tekan Enter untuk melanjutkan perjalanan Anda dan melihat aktivitas yang relevan di histori Kahf Anda</translation>
 <translation id="1101672080107056897">Tindakan error</translation>
 <translation id="1104409666019087579">Beberapa kolom wajib diisi masih kosong. Isi kolom sebelum menyimpan.</translation>
-<translation id="8424280348953443220">Tombol Kelola sandi, aktifkan untuk melihat dan mengelola sandi Anda di setelan Brave</translation>
+<translation id="8424280348953443220">Tombol Kelola sandi, aktifkan untuk melihat dan mengelola sandi Anda di setelan Kahf</translation>
 <translation id="1108464073729874771">A3x4</translation>
 <translation id="1110994991967754504">Pilih izin untuk <ph name="PERMISSION_NAME"/></translation>
 <translation id="1113000785583998331">Simpan IBAN?</translation>
@@ -190,7 +190,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="132390688737681464">Simpan dan Isi Alamat</translation>
 <translation id="1329916999021038454">Kirim laporan</translation>
 <translation id="1330449323196174374">Lipatan format gate di kiri</translation>
-<translation id="4274264486214599895">Mainkan Game Brave Dino</translation>
+<translation id="4274264486214599895">Mainkan Game Kahf Dino</translation>
 <translation id="1333989956347591814">Aktivitas Anda <ph name="BEGIN_EMPHASIS"/>mungkin tetap dapat dilihat<ph name="END_EMPHASIS"/> oleh:
         <ph name="BEGIN_LIST"/>
           <ph name="LIST_ITEM"/>Situs yang Anda buka
@@ -271,7 +271,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="1462245070427461050">JIS B9</translation>
 <translation id="1462951478840426066">Menggunakan font di komputer Anda agar Anda dapat membuat konten dengan kualitas akurasi tinggi</translation>
 <translation id="1463793142714244641">Properti Hak Guna &amp; Liburan</translation>
-<translation id="4855177403643365941">IBAN disimpan ke Akun Brave Anda</translation>
+<translation id="4855177403643365941">IBAN disimpan ke Akun Kahf Anda</translation>
 <translation id="1467432559032391204">Kiri</translation>
 <translation id="1468653229182955856"><ph name="ONE_TIME_CODE"/> adalah kode Anda untuk <ph name="EMBEDDED_ORIGIN"/> guna melanjutkan di <ph name="TOP_ORIGIN"/></translation>
 <translation id="1472675084647422956">Tampilkan lebih banyak</translation>
@@ -435,7 +435,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="1741613555002899862">Harus ditentukan dan menjadi string yang valid saat DnsOverHttpsMode <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
 <translation id="1743393865165844832">Seprai &amp; Linen Tempat Tidur</translation>
 <translation id="1743892871127720056">Judul tabel Bandingkan, edit teks</translation>
-<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Cara kami menggunakan data ini:<ph name="END_BOLD"/> Brave mencatat topik minat saat Anda melakukan penjelajahan. Label topik sudah ditentukan sebelumnya dan mencakup hal-hal seperti Seni &amp; Hiburan, Belanja, dan Olahraga. Kemudian, situs yang Anda buka dapat meminta beberapa topik Anda (tetapi bukan histori penjelajahan) kepada Brave untuk mempersonalisasi iklan yang Anda lihat.</translation>
+<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Cara kami menggunakan data ini:<ph name="END_BOLD"/> Kahf mencatat topik minat saat Anda melakukan penjelajahan. Label topik sudah ditentukan sebelumnya dan mencakup hal-hal seperti Seni &amp; Hiburan, Belanja, dan Olahraga. Kemudian, situs yang Anda buka dapat meminta beberapa topik Anda (tetapi bukan histori penjelajahan) kepada Kahf untuk mempersonalisasi iklan yang Anda lihat.</translation>
 <translation id="1746113442205726301">Perpindahan image Y</translation>
 <translation id="1746531169546376413">0 derajat</translation>
 <translation id="1748225549612934682">Persingkat teks untuk mendapatkan bantuan penulisan</translation>
@@ -448,7 +448,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="1756555787993603971">Kini Anda dapat menggunakan kartu virtual untuk check out yang lebih aman dengan fitur isi otomatis.</translation>
 <translation id="175656076281618225">Sulap</translation>
 <translation id="1757773103848038814">Font Monospace</translation>
-<translation id="3727704638090640904">Tombol Ubah sandi Brave, aktifkan untuk mengubah sandi Akun Brave Anda</translation>
+<translation id="3727704638090640904">Tombol Ubah sandi Kahf, aktifkan untuk mengubah sandi Akun Kahf Anda</translation>
 <translation id="1762779605905950734">Nama jalan</translation>
 <translation id="1763864636252898013">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN"/>; sertifikat keamanannya tidak dipercaya oleh sistem operasi perangkat Anda. Hal ini dapat disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Coba jalankan Diagnostik Jaringan Windows<ph name="END_LINK"/>.</translation>
@@ -456,8 +456,8 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="1777422078676229054">Foto (Arsip)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1785118555253503473">Instal aplikasi web?</translation>
-<translation id="3480410886581896628">Brave Smart Lock</translation>
-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk mengelola info, privasi, dan keamanan di Akun Brave Anda</translation>
+<translation id="3480410886581896628">Kahf Smart Lock</translation>
+<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk mengelola info, privasi, dan keamanan di Akun Kahf Anda</translation>
 <translation id="1793631236004319016">Terakhir digunakan <ph name="NUM_HOURS_MINUTES_SECONDS"/> lalu</translation>
 <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, beberapa tindakan tersedia, tekan Tab untuk melihat semua tindakan</translation>
 <translation id="1800473098294731951">B9</translation>
@@ -588,11 +588,11 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="2040894699575719559">Lokasi diblokir</translation>
 <translation id="2041788246978549610">Menggunakan mikrofon yang tersedia (<ph name="MICS_COUNT"/>)</translation>
 <translation id="2042213636306070719">Baki 7</translation>
-<translation id="3163988908275223348">Login untuk menggunakan sandi yang disimpan di Akun Brave Anda</translation>
+<translation id="3163988908275223348">Login untuk menggunakan sandi yang disimpan di Akun Kahf Anda</translation>
 <translation id="2045871135676061132">Envelope Personal</translation>
 <translation id="2046951263634619614">Retailer Buku</translation>
 <translation id="2048261947532620704">Menerjemahkan halaman</translation>
-<translation id="5469355573019315764">Situs dapat meminta informasi kepada Brave untuk membantu mempersonalisasi iklan yang Anda lihat.</translation>
+<translation id="5469355573019315764">Situs dapat meminta informasi kepada Kahf untuk membantu mempersonalisasi iklan yang Anda lihat.</translation>
 <translation id="2059166748188874810">Kotamadya</translation>
 <translation id="2059202684901022309">22 x 34 inci (55 x 86 cm)</translation>
 <translation id="2064568741209980952">Kredit &amp; Pinjaman</translation>
@@ -689,7 +689,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="2212735316055980242">Kebijakan tidak ditemukan</translation>
 <translation id="2213606439339815911">Mengambil entri...</translation>
 <translation id="2213612003795704869">Halaman dicetak</translation>
-<translation id="4045100732984144870">Isi Otomatis dengan Brave</translation>
+<translation id="4045100732984144870">Isi Otomatis dengan Kahf</translation>
 <translation id="2215539479425228550">Panjat Tebing &amp; Pendakian Gunung</translation>
 <translation id="2215727959747642672">Pengeditan file</translation>
 <translation id="2215963164070968490">Anjing</translation>
@@ -797,7 +797,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="239429038616798445">Metode pengiriman tidak tersedia. Coba metode lain.</translation>
 <translation id="2395840535409704129">Olahraga Air</translation>
 <translation id="2396249848217231973">&amp;Urungkan penghapusan</translation>
-<translation id="4124760202519850347">IBAN ini disimpan di Akun Brave Anda agar dapat digunakan di berbagai layanan Brave.</translation>
+<translation id="4124760202519850347">IBAN ini disimpan di Akun Kahf Anda agar dapat digunakan di berbagai layanan Kahf.</translation>
 <translation id="2400600116338235695">Dapat meminta untuk terhubung ke port serial</translation>
 <translation id="2404884497378469141">Coba salin file lagi</translation>
 <translation id="2412310121876768057">Isi otomatis kartu lain kali?</translation>
@@ -819,7 +819,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="2461822463642141190">Arus</translation>
 <translation id="2462932596748424101">Jejaring Sosial</translation>
 <translation id="2465688316154986572">Jepretan</translation>
-<translation id="4058615531773510267">Kelola file yang telah Anda download di Brave</translation>
+<translation id="4058615531773510267">Kelola file yang telah Anda download di Kahf</translation>
 <translation id="2466004615675155314">Tampilkan informasi dari web</translation>
 <translation id="2466682894498377850">Tab dikirim dari <ph name="DEVICE_NAME"/> Anda</translation>
 <translation id="2467272921457885625">Spesifikasi dan statistik hardware perangkat seperti histori penggunaan CPU/RAM</translation>
@@ -831,7 +831,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="2473810985261856484">Layanan Hukum</translation>
 <translation id="2479148705183875116">Buka Setelan</translation>
 <translation id="2479410451996844060">URL penelusuran tidak valid.</translation>
-<translation id="6944854796979239513">Di Akun Brave Anda, <ph name="USER_EMAIL"/></translation>
+<translation id="6944854796979239513">Di Akun Kahf Anda, <ph name="USER_EMAIL"/></translation>
 <translation id="248064299258688299">Ekstensi <ph name="EXTENSION_NAME"/> menyatakan</translation>
 <translation id="2482878487686419369">Notifikasi</translation>
 <translation id="248348093745724435">Kebijakan mesin</translation>
@@ -864,12 +864,12 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="253493526287553278">Lihat detail kode promo</translation>
 <translation id="2535659140340599600">{COUNT,plural, =1{dan 1 lainnya}other{dan # lainnya}}</translation>
 <translation id="2536110899380797252">Tambahkan Alamat</translation>
-<translation id="3140033400151786080">Orang lain yang menggunakan perangkat ini tidak akan melihat aktivitas Anda, sehingga Anda dapat menjelajah secara lebih pribadi. Hal ini tidak akan mengubah cara pengumpulan data oleh situs web yang Anda kunjungi dan layanan yang mereka gunakan, termasuk Brave. Hasil download dan bookmark akan disimpan.</translation>
+<translation id="3140033400151786080">Orang lain yang menggunakan perangkat ini tidak akan melihat aktivitas Anda, sehingga Anda dapat menjelajah secara lebih pribadi. Hal ini tidak akan mengubah cara pengumpulan data oleh situs web yang Anda kunjungi dan layanan yang mereka gunakan, termasuk Kahf. Hasil download dan bookmark akan disimpan.</translation>
 <translation id="2539524384386349900">Deteksi</translation>
 <translation id="2542106216580219892">Selancar</translation>
 <translation id="2544546346215446551">Administrator memulai ulang perangkat Anda</translation>
 <translation id="2544644783021658368">Dokumen tunggal</translation>
-<translation id="5342827302598046226">Setel Brave sebagai Browser Default</translation>
+<translation id="5342827302598046226">Setel Kahf sebagai Browser Default</translation>
 <translation id="2545721997179863249">Opsi isi semua dipilih</translation>
 <translation id="2546283357679194313">Cookie dan data situs</translation>
 <translation id="254947805923345898">Nilai kebijakan tidak valid.</translation>
@@ -915,7 +915,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="2651465929321991146">Histori dan Tab</translation>
 <translation id="2653659639078652383">Kirim</translation>
 <translation id="2655752832536625875">Kamar Mandi</translation>
-<translation id="3889152837537169222">Tombol Tutup Tips Brave, tekan Enter untuk menutup</translation>
+<translation id="3889152837537169222">Tombol Tutup Tips Kahf, tekan Enter untuk menutup</translation>
 <translation id="2657637947725373811">{0,plural, =1{Transfer file rahasia?}other{Transfer file rahasia?}}</translation>
 <translation id="2658843814961855121">Undang-Undang Buruh &amp; Ketenagakerjaan</translation>
 <translation id="2660779039299703961">Acara</translation>
@@ -1064,18 +1064,18 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="2961809451460302960">Asuransi Jiwa</translation>
 <translation id="2962073860865348475">12 x 18 inci (30 x 45 cm)</translation>
 <translation id="2967082089043584472">Ditambahkan ke <ph name="SET"/></translation>
-<translation id="2470357430970446202">simpan di Akun Brave Anda</translation>
+<translation id="2470357430970446202">simpan di Akun Kahf Anda</translation>
 <translation id="297173220375858963">Penerbitan Desktop</translation>
 <translation id="2972581237482394796">&amp;Ulang</translation>
-<translation id="4715521049551299401">IBAN ini tidak dapat disimpan di Akun Brave Anda. Namun, IBAN disimpan ke Brave di perangkat ini. Brave akan menanyakan lagi saat Anda menggunakan IBAN ini di lain waktu.</translation>
+<translation id="4715521049551299401">IBAN ini tidak dapat disimpan di Akun Kahf Anda. Namun, IBAN disimpan ke Kahf di perangkat ini. Kahf akan menanyakan lagi saat Anda menggunakan IBAN ini di lain waktu.</translation>
 <translation id="2977665033722899841"><ph name="ROW_NAME"/>, saat ini yang dipilih. <ph name="ROW_CONTENT"/></translation>
 <translation id="2977847223286097084">Mengunci dan menggunakan keyboard Anda</translation>
 <translation id="2978824962390592855">Opera</translation>
 <translation id="2979424420072875974">Sumber Daya Penulis</translation>
-<translation id="6172169316494799304">CVC kartu ini akan dienkripsi dan disimpan di Akun Brave Anda untuk checkout yang lebih cepat</translation>
+<translation id="6172169316494799304">CVC kartu ini akan dienkripsi dan disimpan di Akun Kahf Anda untuk checkout yang lebih cepat</translation>
 <translation id="2985398929374701810">Masukkan alamat yang valid</translation>
 <translation id="2987034854559945715">Tidak ada fitur yang cocok</translation>
-<translation id="714850411804317247">Brave membatasi jumlah informasi yang dapat digunakan situs untuk melacak Anda saat Anda menjelajah. Anda dapat mengubah setelan untuk memilih tingkat perlindungan Anda sendiri.</translation>
+<translation id="714850411804317247">Kahf membatasi jumlah informasi yang dapat digunakan situs untuk melacak Anda saat Anda menjelajah. Anda dapat mengubah setelan untuk memilih tingkat perlindungan Anda sendiri.</translation>
 <translation id="2989742184762224133">Dua jepretan di atas</translation>
 <translation id="2991174974383378012">Berbagi dengan Situs Web</translation>
 <translation id="299122504639061328">Kelola mesin telusur dan penelusuran situs default Anda</translation>
@@ -1116,7 +1116,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="3068118691172921711">Proses upload file Anda ke <ph name="CLOUD_PROVIDER"/> akan dimulai dalam 1 menit</translation>
 <translation id="3076865167425975822">Sistem Operasi</translation>
 <translation id="3080254622891793721">Grafis</translation>
-<translation id="254030672859277244">Izinkan Brave menggunakan keranjang Anda untuk menemukan diskon yang dipersonalisasi, jika tersedia</translation>
+<translation id="254030672859277244">Izinkan Kahf menggunakan keranjang Anda untuk menemukan diskon yang dipersonalisasi, jika tersedia</translation>
 <translation id="3086579638707268289">Aktivitas Anda di web sedang dipantau</translation>
 <translation id="3087734570205094154">Bawah</translation>
 <translation id="3090667236485488075">Kaca</translation>
@@ -1219,7 +1219,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="3249102948665905108">Proses upload file ke <ph name="CLOUD_PROVIDER"/> selesai dengan error</translation>
 <translation id="3252772880526154546">Arsitektur</translation>
 <translation id="3254301855501243548">18 x 22 inci (45 x 55 cm)</translation>
-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk membuat acara baru di Brave Kalender dengan cepat</translation>
+<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk membuat acara baru di Kahf Kalender dengan cepat</translation>
 <translation id="3261488570342242926">Pelajari kartu virtual</translation>
 <translation id="3262698603497362968">Opsi pembelian</translation>
 <translation id="3266367459139339908">Kami meluncurkan cara baru untuk membatasi informasi Anda yang dapat dipelajari situs tentang Anda saat menampilkan iklan yang dipersonalisasi, misalnya:</translation>
@@ -1249,7 +1249,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="3304073249511302126">pemindaian bluetooth</translation>
 <translation id="3304777285002411338">A2x3</translation>
 <translation id="33073482541490531">Sandi yang baru saja Anda gunakan terekspos dalam pelanggaran data. Pengelola Sandi merekomendasikan untuk mengubah sandi ini sekarang.</translation>
-<translation id="4731386748664539266">Tombol Sesuaikan Brave, aktifkan untuk menyesuaikan tampilan browser Anda</translation>
+<translation id="4731386748664539266">Tombol Sesuaikan Kahf, aktifkan untuk menyesuaikan tampilan browser Anda</translation>
 <translation id="3308006649705061278">Unit Organisasi (OU)</translation>
 <translation id="3318016344440038475">Komedi TV</translation>
 <translation id="3324687287337751929">4 x 6 inci (10 x 15 cm)</translation>
@@ -1417,28 +1417,28 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="3587738293690942763">Tengah</translation>
 <translation id="3600106876108433070">Pelajari tabel perbandingan</translation>
 <translation id="3600246354004376029"><ph name="TITLE"/>, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
-<translation id="8476504968862670676">Tombol Kelola setelan Privasi Brave, aktifkan untuk membuka setelan privasi Akun Brave Anda</translation>
+<translation id="8476504968862670676">Tombol Kelola setelan Privasi Kahf, aktifkan untuk membuka setelan privasi Akun Kahf Anda</translation>
 <translation id="3603507503523709">Aplikasi diblokir oleh administrator Anda</translation>
 <translation id="3605899229568538311">5 x 5 inci (12 x 12 cm)</translation>
 <translation id="3606917451836803637">Program &amp; Acara TV</translation>
 <translation id="3608932978122581043">Feed orientasi</translation>
-<translation id="1737525120923015525">Agar selanjutnya dapat melakukan pembayaran lebih cepat, simpan kartu, nama, dan alamat penagihan di Akun Brave Anda</translation>
+<translation id="1737525120923015525">Agar selanjutnya dapat melakukan pembayaran lebih cepat, simpan kartu, nama, dan alamat penagihan di Akun Kahf Anda</translation>
 <translation id="3612660594051121194">Bus &amp; Kereta Jarak Jauh</translation>
 <translation id="3614001939154393113">Penyerang mungkin mencoba mencuri informasi Anda dari <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (misalnya, sandi, pesan, atau kartu kredit). <ph name="BEGIN_LEARN_MORE_LINK"/>Pelajari lebih lanjut peringatan ini<ph name="END_LEARN_MORE_LINK"/></translation>
 <translation id="3614103345592970299">Ukuran 2</translation>
 <translation id="361438452008624280">Entri daftar "<ph name="LANGUAGE_ID"/>": Bahasa tidak dikenal atau tidak didukung.</translation>
-<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk menjalankan pemeriksaan keamanan di setelan Brave</translation>
+<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk menjalankan pemeriksaan keamanan di setelan Kahf</translation>
 <translation id="3615309852743236517">Perawatan Kuku Tangan &amp; Kaki</translation>
 <translation id="3620239073311576716">Seragam &amp; Pakaian Kerja</translation>
 <translation id="3621401353678567613">Untuk mendapatkan notifikasi penurunan harga untuk produk yang Anda pantau, aktifkan notifikasi di setelan.</translation>
 <translation id="362276910939193118">Tampilkan Histori Lengkap</translation>
-<translation id="5043591794632164789">Untuk menggunakan kamera, beri Brave akses di <ph name="LINK"/>.</translation>
+<translation id="5043591794632164789">Untuk menggunakan kamera, beri Kahf akses di <ph name="LINK"/>.</translation>
 <translation id="3623398832322170566">Film Romantis</translation>
 <translation id="3624292976554877583">Label (Matte)</translation>
 <translation id="3628905806504633297">{0,plural, =1{Kebijakan administrator tidak merekomendasikan untuk mentransfer file ini ke <ph name="DESTINATION_NAME"/>}other{Kebijakan administrator tidak merekomendasikan untuk mentransfer file ini ke <ph name="DESTINATION_NAME"/>}}</translation>
 <translation id="3630155396527302611">Jika sudah tercantum sebagai program yang diizinkan untuk mengakses jaringan,
       coba hapus dari daftar dan tambahkan lagi.</translation>
-<translation id="3599570280787620691">Tombol Temukan perangkat saya, aktifkan untuk membuka fitur temukan perangkat saya di Akun Brave</translation>
+<translation id="3599570280787620691">Tombol Temukan perangkat saya, aktifkan untuk membuka fitur temukan perangkat saya di Akun Kahf</translation>
 <translation id="3630699740441428070">Administrator perangkat ini telah mengonfigurasi koneksi jaringan Anda, yang memungkinkan mereka untuk melihat traffic jaringan, termasuk situs yang Anda kunjungi.</translation>
 <translation id="3632503704576938756">Berbagi layar dilanjutkan</translation>
 <translation id="3632892046558972264">Berbagi layar dijeda</translation>
@@ -1666,14 +1666,14 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="4039506337798853114">Untuk menampilkan kursor, tekan |<ph name="ACCELERATOR"/>|</translation>
 <translation id="4047351652147966654">18 x 24 inci (45 x 60 cm)</translation>
 <translation id="404831776305217138">URL update untuk ekstensi dengan ID "<ph name="EXTENSION_ID"/>" tidak valid atau menggunakan skema yang tidak didukung. Skema yang didukung adalah: <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/>, dan <ph name="FILE_SCHEME"/>.</translation>
-<translation id="2635033286761217583">Anda akan dapat menggunakannya di seluruh produk Brave</translation>
-<translation id="336808635693308470">Brave mencoba mengedit metode pembayaran.</translation>
+<translation id="2635033286761217583">Anda akan dapat menggunakannya di seluruh produk Kahf</translation>
+<translation id="336808635693308470">Kahf mencoba mengedit metode pembayaran.</translation>
 <translation id="405399507749852140">Dapatkan notifikasi jika ada diskon di situs mana pun</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Pelajari lebih lanjut Sensitive Data Protection</translation>
 <translation id="4060880210388108757">Musik Indie &amp; Alternatif</translation>
 <translation id="4060883793524802469">Hapus dari tabel</translation>
-<translation id="4161619938555288542">Izinkan Brave membantu Anda menemukan diskon untuk keranjang Anda</translation>
+<translation id="4161619938555288542">Izinkan Kahf membantu Anda menemukan diskon untuk keranjang Anda</translation>
 <translation id="406358100705415968">Perlengkapan Pelindung Keselamatan Kerja</translation>
 <translation id="4065659219963895623">Restoran</translation>
 <translation id="4067774859633143413">Untuk keluar dari layar penuh dan melihat hasil download, tekan dan tahan |<ph name="ACCELERATOR"/>|</translation>
@@ -1837,9 +1837,9 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="4333561522337981382">Mengelola jendela di semua layar Anda</translation>
 <translation id="4336219115486912529">{COUNT,plural, =1{Berakhir besok}other{Berakhir dalam # hari}}</translation>
 <translation id="4336913590841287350">Kebijakan ini belum didukung sebagai kebijakan pengguna di iOS.</translation>
-<translation id="5792122559159836842">Iklan ini menggunakan terlalu banyak resource untuk perangkat Anda, sehingga Brave menghapusnya.</translation>
+<translation id="5792122559159836842">Iklan ini menggunakan terlalu banyak resource untuk perangkat Anda, sehingga Kahf menghapusnya.</translation>
 <translation id="4340810192899866471">Impor dari JSON</translation>
-<translation id="6116812392674177288">Komputer ini tidak terdeteksi sebagai dikelola perusahaan sehingga kebijakan hanya dapat secara otomatis menginstal ekstensi yang dihosting di Brave Webstore. URL update Brave Webstore-nya adalah "<ph name="CWS_UPDATE_URL"/>".</translation>
+<translation id="6116812392674177288">Komputer ini tidak terdeteksi sebagai dikelola perusahaan sehingga kebijakan hanya dapat secara otomatis menginstal ekstensi yang dihosting di Kahf Webstore. URL update Kahf Webstore-nya adalah "<ph name="CWS_UPDATE_URL"/>".</translation>
 <translation id="4342742994656318294">Taman Bertema</translation>
 <translation id="4344072791302852930">Tambahkan tab</translation>
 <translation id="4348834659292907206">Koneksi ke <ph name="SITE"/> tidak aman</translation>
@@ -1899,16 +1899,16 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="448363931695049633">Restoran Piza</translation>
 <translation id="4489023393592172404">Envelope Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
-<translation id="3966104135245031874">Enkripsikan sandi yang disinkronkan dengan Akun Brave Anda</translation>
+<translation id="3966104135245031874">Enkripsikan sandi yang disinkronkan dengan Akun Kahf Anda</translation>
 <translation id="4493480324863638523">URL tidak valid. Harus berupa URL dengan skema standar, misalnya http://example.com atau https://example.com.</translation>
-<translation id="7622628059331736328">Anda dapat melihat topik iklan di setelan dan memblokir topik yang tidak ingin Anda bagikan ke situs. Brave juga menghapus otomatis topik iklan yang tersimpan lebih dari 4 minggu.</translation>
+<translation id="7622628059331736328">Anda dapat melihat topik iklan di setelan dan memblokir topik yang tidak ingin Anda bagikan ke situs. Kahf juga menghapus otomatis topik iklan yang tersimpan lebih dari 4 minggu.</translation>
 <translation id="4500587658229086076">konten tidak aman</translation>
 <translation id="450602096898954067">Data dapat dilihat oleh peninjau terlatih untuk meningkatkan kualitas fitur ini</translation>
 <translation id="4506176782989081258">Kesalahan validasi: <ph name="VALIDATION_ERROR"/></translation>
 <translation id="4506599922270137252">Hubungi admin sistem</translation>
 <translation id="450710068430902550">Berbagi dengan Administrator</translation>
-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk menerjemahkan halaman ini dengan Brave Terjemahan</translation>
-<translation id="4892470328555495647">Kartu dan alamat berasal dari Brave dan Akun Brave (<ph name="ACCOUNT_EMAIL"/>). Anda dapat mengelolanya di <ph name="BEGIN_LINK"/>Setelan<ph name="END_LINK"/>.</translation>
+<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk menerjemahkan halaman ini dengan Kahf Terjemahan</translation>
+<translation id="4892470328555495647">Kartu dan alamat berasal dari Kahf dan Akun Kahf (<ph name="ACCOUNT_EMAIL"/>). Anda dapat mengelolanya di <ph name="BEGIN_LINK"/>Setelan<ph name="END_LINK"/>.</translation>
 <translation id="4515847625438516456">Mobil Subkompak &amp; Mikro</translation>
 <translation id="4519245469315452746">Perangkat Anda terganggu saat proses update.</translation>
 <translation id="4520048001084013693">Download file ini diblokir oleh kebijakan administrator</translation>
@@ -1925,7 +1925,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="4540780316273593836">Terjadi Error</translation>
 <translation id="4541810033354695636">augmented reality</translation>
 <translation id="4542971377163063093">Baki 6</translation>
-<translation id="563788859854213593">Agar selanjutnya dapat melakukan pembayaran lebih cepat, simpan kartu dan alamat penagihan di Akun Brave Anda</translation>
+<translation id="563788859854213593">Agar selanjutnya dapat melakukan pembayaran lebih cepat, simpan kartu dan alamat penagihan di Akun Kahf Anda</translation>
 <translation id="454441086898495030">Tambahkan ke <ph name="SET"/>?</translation>
 <translation id="4546730006268514143">Waktu transfer habis</translation>
 <translation id="455113658016510503">A9</translation>
@@ -2064,19 +2064,19 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="4819347708020428563">Edit anotasi dalam tampilan default?</translation>
 <translation id="4822493756793346865">Harga standar didasarkan pada berbagai toko di web selama 90 hari terakhir.</translation>
 <translation id="4822922322149719535">Tinjau log error</translation>
-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk membuat Spreadsheet Brave baru dengan cepat</translation>
+<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk membuat Spreadsheet Kahf baru dengan cepat</translation>
 <translation id="4826588772550366629">kamera dan mikrofon</translation>
 <translation id="4827283332383516812">Hapus kartu</translation>
 <translation id="4831993743164297314">Kertas untuk Image Setter</translation>
 <translation id="483241715238664915">Aktifkan peringatan</translation>
 <translation id="4832961164064927107">BBQ &amp; Memanggang</translation>
 <translation id="4834250788637067901">Metode pembayaran, penawaran, dan alamat yang menggunakan Google Pay</translation>
-<translation id="246176083348620700">Lihat histori Brave Anda</translation>
+<translation id="246176083348620700">Lihat histori Kahf Anda</translation>
 <translation id="484462545196658690">Otomatis</translation>
 <translation id="484671803914931257">Dapatkan diskon di <ph name="MERCHANT_NAME"/> dan lainnya</translation>
 <translation id="484988093836683706">Gunakan fitur buka kunci perangkat</translation>
 <translation id="4850886885716139402">Lihat</translation>
-<translation id="3418609161696289726">Buat catatan baru di Brave Keep dengan cepat</translation>
+<translation id="3418609161696289726">Buat catatan baru di Kahf Keep dengan cepat</translation>
 <translation id="4855395119669662878">Administrator akan mulai mengupload file Anda ke <ph name="CLOUD_PROVIDER"/> pada <ph name="DATE_TIME"/>. Tetap hubungkan perangkat Anda hingga proses upload file selesai. Selama proses upload, Anda hanya dapat membaca file lokal.</translation>
 <translation id="485902285759009870">Memverifikasi kode ...</translation>
 <translation id="4860260582253463350">Untuk melanjutkan ke YouTube, kami perlu memastikan bahwa ini memang dirimu. Kamu akan mendapatkan setelan yang disiapkan orang tua atau walimu di Family Link.</translation>
@@ -2174,11 +2174,11 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="5018422839182700155">Tidak dapat membuka halaman ini</translation>
 <translation id="5018802455907704660">16 x 20 inci (40 x 50 cm)</translation>
 <translation id="5019198164206649151">Penyimpanan cadangan dalam kondisi buruk</translation>
-<translation id="2013297594801702701">Anda dapat menggunakan alamat tersimpan di seluruh produk Brave. Alamat ini akan disimpan di Akun Brave Anda, <ph name="USER_EMAIL"/>.</translation>
+<translation id="2013297594801702701">Anda dapat menggunakan alamat tersimpan di seluruh produk Kahf. Alamat ini akan disimpan di Akun Kahf Anda, <ph name="USER_EMAIL"/>.</translation>
 <translation id="5019952743397118625">Kebijakan <ph name="EXTENSION_DEVELOPER_MODE_SETTINGS_POLICY_NAME"/> disetel. <ph name="DEVELOPER_TOOLS_AVAILABILITY_POLICY_NAME"/> tidak akan mengontrol ketersediaan mode developer di halaman ekstensi.</translation>
-<translation id="6516968977334148048">Pantau harga dengan Brave</translation>
+<translation id="6516968977334148048">Pantau harga dengan Kahf</translation>
 <translation id="5023310440958281426">Periksa kebijakan administrator Anda</translation>
-<translation id="7993217516063481081">Bayar lebih cepat setelah kartu Anda disimpan. Detail kartu dienkripsi di Akun Brave Anda.</translation>
+<translation id="7993217516063481081">Bayar lebih cepat setelah kartu Anda disimpan. Detail kartu dienkripsi di Akun Kahf Anda.</translation>
 <translation id="5030338702439866405">Diterbitkan Oleh</translation>
 <translation id="503069730517007720">Sertifikat root wajib untuk "<ph name="SOFTWARE_NAME"/>" tidak diinstal. Administrator IT Anda harus melihat petunjuk konfigurasi untuk "<ph name="SOFTWARE_NAME"/>" agar dapat menyelesaikan masalah ini. <ph name="FURTHER_EXPLANATION"/></translation>
 <translation id="5034930251282078640">Tambahkan ke Perbandingan?</translation>
@@ -2211,11 +2211,11 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="5088142053160410913">Pesan untuk operator</translation>
 <translation id="5090647584136241764">Tambahkan tab dengan produk serupa untuk memudahkan Anda membandingkan detail yang penting bagi Anda</translation>
 <translation id="5093232627742069661">Lipatan Z</translation>
-<translation id="4906192414477726331">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN"/>; sertifikat keamanannya tidak dipercaya oleh Brave. Hal ini dapat disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
+<translation id="4906192414477726331">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN"/>; sertifikat keamanannya tidak dipercaya oleh Kahf. Hal ini dapat disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
 <translation id="5097099694988056070">Statistik perangkat seperti penggunaan CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 inci (68 x 99 cm)</translation>
 <translation id="5097501891273180634">A2</translation>
-<translation id="1643886086471238725">Brave memerlukan akses ke <ph name="PERMISSION"/> perangkat Anda</translation>
+<translation id="1643886086471238725">Kahf memerlukan akses ke <ph name="PERMISSION"/> perangkat Anda</translation>
 <translation id="510644072453496781">Kertas kardus (Akhir)</translation>
 <translation id="5108881358339761672">Situs tidak aman</translation>
 <translation id="5109892411553231226">Kelola Metode Pembayaran</translation>
@@ -2389,7 +2389,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="5425082381151187189">Dekorasi Rumah &amp; Interior</translation>
 <translation id="5426179911063097041"><ph name="SITE"/> ingin mengirimkan notifikasi kepada Anda</translation>
 <translation id="5430298929874300616">Buang bookmark</translation>
-<translation id="8517215617486022589">Brave <ph name="BEGIN_EMPHASIS"/>tidak akan menyimpan<ph name="END_EMPHASIS"/>:
+<translation id="8517215617486022589">Kahf <ph name="BEGIN_EMPHASIS"/>tidak akan menyimpan<ph name="END_EMPHASIS"/>:
           <ph name="BEGIN_LIST"/>
             <ph name="LIST_ITEM"/>Histori penjelajahan Anda
             <ph name="LIST_ITEM"/>Cookie dan data situs
@@ -2465,7 +2465,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="5559311991468302423">Hapus alamat</translation>
 <translation id="5560088892362098740">Tanggal Habis Masa Berlaku</translation>
 <translation id="55635442646131152">Kerangka dokumen</translation>
-<translation id="1702142849385752335">Untuk menggunakan lokasi, beri Brave akses di <ph name="LINK"/>.</translation>
+<translation id="1702142849385752335">Untuk menggunakan lokasi, beri Kahf akses di <ph name="LINK"/>.</translation>
 <translation id="5565735124758917034">Aktif</translation>
 <translation id="5569030697349375295">Software Keuangan &amp; Akuntansi</translation>
 <translation id="5570825185877910964">Lindungi akun</translation>
@@ -2621,7 +2621,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="5877359070305966420">Sumber Daya Manusia</translation>
 <translation id="5879272455334365707">Perencanaan &amp; Pengelolaan Keuangan</translation>
 <translation id="5879989559903563723">Tidak diizinkan dalam mode Tamu</translation>
-<translation id="8967688963142514142">Buka pemeriksaan keamanan Brave</translation>
+<translation id="8967688963142514142">Buka pemeriksaan keamanan Kahf</translation>
 <translation id="5884465125445718607">Envelope Chinese #6</translation>
 <translation id="5886961930368713749">Kirim masukan untuk Bandingkan</translation>
 <translation id="5887400589839399685">Kartu disimpan</translation>
@@ -2739,7 +2739,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6080696365213338172">Anda telah mengakses konten menggunakan sertifikat yang diberikan oleh administrator. Data yang diberikan ke <ph name="DOMAIN"/> dapat dicegat oleh administrator Anda.</translation>
 <translation id="6085149458302186532">Label (Berwarna)</translation>
 <translation id="6087312102907839798">Penelusuran terkait</translation>
-<translation id="7851017866080575588">Tab yang Anda hapus dari histori Brave akan tetap muncul di tabel perbandingan</translation>
+<translation id="7851017866080575588">Tab yang Anda hapus dari histori Kahf akan tetap muncul di tabel perbandingan</translation>
 <translation id="6093795393556121384">Kartu Anda diverifikasi</translation>
 <translation id="6094273045989040137">Anotasi</translation>
 <translation id="6094290315941448991">Kebijakan administrator akan menonaktifkan perekaman layar saat konten rahasia terlihat</translation>
@@ -2807,15 +2807,15 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6215936431492593050">Logam (Satin)</translation>
 <translation id="6217950634729714357">Furnitur Dapur &amp; Ruang Makan</translation>
 <translation id="6218305986815100395">Tidak dapat mengaktifkan kartu virtual</translation>
-<translation id="8385639954311581596">Hapus alamat dari Brave?</translation>
+<translation id="8385639954311581596">Hapus alamat dari Kahf?</translation>
 <translation id="622039917539443112">Lipatan paralel</translation>
 <translation id="6221286101741304627">Untuk keluar dari layar penuh, tekan |<ph name="ACCELERATOR"/>|</translation>
-<translation id="5286511760116495417">Ingin menyimpan kartu ini di Akun Brave Anda?</translation>
+<translation id="5286511760116495417">Ingin menyimpan kartu ini di Akun Kahf Anda?</translation>
 <translation id="6221892641068781024">Tampilan Sederhana</translation>
 <translation id="6222527803348563979">Alat tulis</translation>
 <translation id="62231116988543150">Dapat menginstal aplikasi web</translation>
 <translation id="6224281071334553713">Batu Mulia &amp; Perhiasan</translation>
-<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan tab lalu Enter untuk mempersonalisasikan alat aksesibilitas Anda di setelan Brave</translation>
+<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan tab lalu Enter untuk mempersonalisasikan alat aksesibilitas Anda di setelan Kahf</translation>
 <translation id="6228346913624365233">Kendaraan Mewah</translation>
 <translation id="6229196330202833460">Streaming Film &amp; Acara TV</translation>
 <translation id="6234122620015464377">Trim setelah setiap dokumen tercetak</translation>
@@ -2923,7 +2923,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="640163077447496506">Berakhir hari ini</translation>
 <translation id="6402537308870515461">Peninjauan diperlukan sebelum memindahkan</translation>
 <translation id="6403167778944553">Kamar Tidur &amp; Kamar Mandi</translation>
-<translation id="1939189437759050709">Judul tab dan URL halaman yang Anda tambahkan ke tabel akan dikirim ke Brave, disimpan ke akun Anda <ph name="EMAIL"/>, dan mungkin dilihat oleh petugas peninjau untuk meningkatkan kualitas fitur ini.</translation>
+<translation id="1939189437759050709">Judul tab dan URL halaman yang Anda tambahkan ke tabel akan dikirim ke Kahf, disimpan ke akun Anda <ph name="EMAIL"/>, dan mungkin dilihat oleh petugas peninjau untuk meningkatkan kualitas fitur ini.</translation>
 <translation id="6404511346730675251">Edit bookmark</translation>
 <translation id="6405181733356710802">Lanjutkan ke <ph name="APP_NAME"/>?</translation>
 <translation id="6410264514553301377">Masukkan tanggal kedaluwarsa dan CVC <ph name="CREDIT_CARD"/></translation>
@@ -2993,11 +2993,11 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="65203098586853226">Menerjemahkan <ph name="SOURCE"/> ke <ph name="TARGET"/></translation>
 <translation id="6521745193039995384">Tidak aktif</translation>
 <translation id="6522682797352430154">Musik Klasik</translation>
-<translation id="7379829935006425840">Tombol Kelola setelan aksesibilitas, aktifkan untuk mempersonalisasi alat aksesibilitas Anda di setelan Brave</translation>
+<translation id="7379829935006425840">Tombol Kelola setelan aksesibilitas, aktifkan untuk mempersonalisasi alat aksesibilitas Anda di setelan Kahf</translation>
 <translation id="6527049834925947126">Produksi Makanan</translation>
 <translation id="6529173248185917884">Rol Ketujuh</translation>
 <translation id="6529602333819889595">&amp;Ulangi Penghapusan</translation>
-<translation id="4126692285908824778">Kartu ini disimpan di Akun Brave Anda agar dapat digunakan di berbagai layanan Brave.</translation>
+<translation id="4126692285908824778">Kartu ini disimpan di Akun Kahf Anda agar dapat digunakan di berbagai layanan Kahf.</translation>
 <translation id="6536221421038631327">Menghapus langganan Passpoint dari <ph name="DEVICE_TYPE"/> akan menghapus jaringan terkait. Hubungi "<ph name="FRIENDLY_NAME"/>" untuk melakukan perubahan pada paket langganan Anda. <ph name="LEARN_MORE"/></translation>
 <translation id="653801826293432362">Untuk melihat tabel perbandingan, aktifkan sinkronisasi</translation>
 <translation id="6539092367496845964">Terjadi error. Coba lagi nanti.</translation>
@@ -3074,9 +3074,9 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6688775486821967877">Kartu virtual saat ini tidak tersedia, coba lagi nanti</translation>
 <translation id="6688851075017682769">Alamat pengujian berdasarkan negara</translation>
 <translation id="6689249931105087298">Relatif dengan kompresi titik hitam</translation>
-<translation id="5406652219015697259">Brave menawarkan untuk menyimpan informasi kartu ke Akun Brave Anda karena Anda sedang login. Anda dapat mengubah perilaku ini di setelan. Nama pemegang kartu berasal dari akun Anda.</translation>
+<translation id="5406652219015697259">Kahf menawarkan untuk menyimpan informasi kartu ke Akun Kahf Anda karena Anda sedang login. Anda dapat mengubah perilaku ini di setelan. Nama pemegang kartu berasal dari akun Anda.</translation>
 <translation id="6691397311652656001">Kosongkan lebih dari <ph name="REQUIRED_FREE_DISK_SPACE"/> ruang penyimpanan</translation>
-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan Tab lalu Enter untuk Menemukan perangkat Anda di Akun Brave</translation>
+<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan Tab lalu Enter untuk Menemukan perangkat Anda di Akun Kahf</translation>
 <translation id="6695428916538794739">Film Aksi &amp; Petualangan</translation>
 <translation id="6696424331653607346">Panduan &amp; Catatan Perjalanan</translation>
 <translation id="6696575039575740785">Penginstalan aplikasi web tidak diizinkan</translation>
@@ -3089,7 +3089,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6704458454638854812">Properti "custom_size" disetel dan nama properti harus "custom".</translation>
 <translation id="6706005862292023715">Perawatan Tirai &amp; Jendela</translation>
 <translation id="6706210727756204531">Cakupan</translation>
-<translation id="1162411425302454249">IBAN ini tidak dapat disimpan di Akun Brave Anda. Namun, IBAN disimpan ke Brave di perangkat ini.</translation>
+<translation id="1162411425302454249">IBAN ini tidak dapat disimpan di Akun Kahf Anda. Namun, IBAN disimpan ke Kahf di perangkat ini.</translation>
 <translation id="6709133671862442373">Berita</translation>
 <translation id="6710213216561001401">Sebelumnya</translation>
 <translation id="6710594484020273272">&lt;Ketik istilah penelusuran&gt;</translation>
@@ -3122,10 +3122,10 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6767985426384634228">Perbarui Alamat?</translation>
 <translation id="6770747695101757579">Kertas (Katun)</translation>
 <translation id="677257480647123231">Perlindungan Internet Anak</translation>
-<translation id="3576010969994131987">Untuk menggunakan YouTube, lanjutkan dengan Akun Brave-mu</translation>
+<translation id="3576010969994131987">Untuk menggunakan YouTube, lanjutkan dengan Akun Kahf-mu</translation>
 <translation id="6775759552199460396">JIS B2</translation>
 <translation id="6777088782163649345">Gunakan YouTube dengan pilihan orang tuamu</translation>
-<translation id="4302311572898487420">Pengelola Sandi Brave memerlukan akses ke Rantai Kunci macOS</translation>
+<translation id="4302311572898487420">Pengelola Sandi Kahf memerlukan akses ke Rantai Kunci macOS</translation>
 <translation id="6782656837469339439">Tahun masa habis berlaku</translation>
 <translation id="6786145470008421571">Envelope 6 x 9 inci</translation>
 <translation id="67862343314499040">Violet</translation>
@@ -3159,7 +3159,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6841864657731852591">Tabung Gravure</translation>
 <translation id="6842196666980060516">184 x 260 mm</translation>
 <translation id="6844998850832008753">Pelacakan tangan diizinkan kali ini</translation>
-<translation id="976643339176907534">Tombol Kelola setelan keamanan, aktifkan untuk mengelola Safe Browsing dan lainnya di setelan Brave</translation>
+<translation id="976643339176907534">Tombol Kelola setelan keamanan, aktifkan untuk mengelola Safe Browsing dan lainnya di setelan Kahf</translation>
 <translation id="6852204201400771460">Muat ulang aplikasi?</translation>
 <translation id="6857776781123259569">Kelola Sandi ...</translation>
 <translation id="6858034839887287663">A2x4</translation>
@@ -3172,13 +3172,13 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="6873456682041376666">Baki Atas</translation>
 <translation id="6874604403660855544">&amp;Ulangi penambahan</translation>
 <translation id="6880941331070119097">Opsi harga tinggi</translation>
-<translation id="5856252669085142737">Buat Dokumen Brave baru dengan cepat</translation>
+<translation id="5856252669085142737">Buat Dokumen Kahf baru dengan cepat</translation>
 <translation id="6882210908253838664">Jika suatu situs tidak berfungsi, Anda dapat mencoba memberi situs izin sementara untuk menggunakan cookie pihak ketiga. <ph name="BEGIN_LINK"/>Pelajari lebih lanjut<ph name="END_LINK"/></translation>
 <translation id="6882418526420053414"><ph name="SITE"/> tidak mendukung koneksi aman</translation>
 <translation id="6883221904761970440">Sheet autentikasi kredensial pembayaran aman ditutup</translation>
 <translation id="6884662655240309489">Ukuran 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
-<translation id="7265969755975834932">Brave menyederhanakan halaman ini agar lebih mudah dibaca. Brave mengambil halaman asli melalui koneksi yang tidak aman.</translation>
+<translation id="7265969755975834932">Kahf menyederhanakan halaman ini agar lebih mudah dibaca. Kahf mengambil halaman asli melalui koneksi yang tidak aman.</translation>
 <translation id="6890443033788248019">Izinkan lokasi?</translation>
 <translation id="6890531741535756070">Anda memilih untuk memverifikasi dengan <ph name="DEVICE_LABEL"/> di situs yang menggunakan <ph name="PROVIDER_ORIGIN"/>. Penyedia ini mungkin telah menyimpan informasi tentang metode pembayaran yang dapat Anda <ph name="BEGIN_LINK"/>minta untuk dihapus<ph name="END_LINK"/>.</translation>
 <translation id="6890956352250146925">Opsi untuk cookie dan data situs</translation>
@@ -3422,8 +3422,8 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="7353601530677266744">Baris Perintah</translation>
 <translation id="7356678400607112844">Terakhir Dibuka</translation>
 <translation id="7359588939039777303">Iklan diblokir.</translation>
-<translation id="7308957539693927108">Saat Brave menemukan diskon yang tersedia, diskon tersebut akan ditampilkan saat checkout</translation>
-<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk menambahkan dan mengelola alamat di setelan Brave</translation>
+<translation id="7308957539693927108">Saat Kahf menemukan diskon yang tersedia, diskon tersebut akan ditampilkan saat checkout</translation>
+<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk menambahkan dan mengelola alamat di setelan Kahf</translation>
 <translation id="7365849542400970216">Tahu penggunaan perangkat Anda?</translation>
 <translation id="736592699917579616">Makanan</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
@@ -3432,7 +3432,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="7372526636730851647">Foto (Mengilap)</translation>
 <translation id="7372973238305370288">hasil penelusuran</translation>
 <translation id="7374461526650987610">Penangan protokol</translation>
-<translation id="3898257577441589237">Masalah ini terjadi karena sertifikat yang diinstal di perangkat oleh Anda atau orang lain. Sertifikat ini diketahui sebagai sertifikat yang digunakan untuk memantau dan melakukan intersepsi jaringan dan tidak dipercaya oleh Brave. Walau terdapat beberapa kasus pemantauan yang sah, seperti pada jaringan sekolah atau perusahaan, Brave ingin memastikan Anda mengetahui adanya pemantauan ini, meskipun Anda tidak dapat menghentikannya. Pemantauan dapat terjadi di browser atau aplikasi yang mengakses web.</translation>
+<translation id="3898257577441589237">Masalah ini terjadi karena sertifikat yang diinstal di perangkat oleh Anda atau orang lain. Sertifikat ini diketahui sebagai sertifikat yang digunakan untuk memantau dan melakukan intersepsi jaringan dan tidak dipercaya oleh Kahf. Walau terdapat beberapa kasus pemantauan yang sah, seperti pada jaringan sekolah atau perusahaan, Kahf ingin memastikan Anda mengetahui adanya pemantauan ini, meskipun Anda tidak dapat menghentikannya. Pemantauan dapat terjadi di browser atau aplikasi yang mengakses web.</translation>
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Tidak ada situs yang diizinkan}=1{1 situs diizinkan}other{# situs diizinkan}}</translation>
 <translation id="7375818412732305729">File dilampirkan</translation>
 <translation id="7376031331622621328">Sheet bawah commerce</translation>
@@ -3461,7 +3461,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
       &lt;li&gt;Pada bagian &lt;strong&gt;Startup type&lt;/strong&gt;, pilih &lt;strong&gt;Disabled&lt;/strong&gt;
       &lt;li&gt;Pada bagian &lt;strong&gt;Service status&lt;/strong&gt;, klik &lt;strong&gt;Stop&lt;/strong&gt;
       &lt;li&gt;Klik &lt;strong&gt;Apply&lt;/strong&gt;, lalu klik &lt;strong&gt;Ok&lt;/strong&gt;
-      &lt;li&gt;Buka &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Pusat bantuan Brave&lt;/a&gt; untuk mempelajari cara menghapus software tersebut secara permanen dari komputer
+      &lt;li&gt;Buka &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Pusat bantuan Kahf&lt;/a&gt; untuk mempelajari cara menghapus software tersebut secara permanen dari komputer
       &lt;/ol&gt;</translation>
 <translation id="7408613996403626141">Mainan</translation>
 <translation id="7410852728357935715">Transmisikan ke perangkat</translation>
@@ -3626,14 +3626,14 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="767550629621587224">Tab Prapotong</translation>
 <translation id="7675756033024037212">Scroll &amp; zoom tidak diizinkan</translation>
 <translation id="7676643023259824263">Telusuri teks papan klip, <ph name="TEXT"/></translation>
-<translation id="4628681623692678085">Lihat dan kelola histori penjelajahan Anda di setelan Brave</translation>
+<translation id="4628681623692678085">Lihat dan kelola histori penjelajahan Anda di setelan Kahf</translation>
 <translation id="7679947978757153706">Bisbol</translation>
 <translation id="7680990533995586733"><ph name="CARD_NETWORK_NAME"/>, <ph name="CARD_LAST_FOUR_DIGITS"/>, berlaku sampai <ph name="CARD_EXPIRATION"/></translation>
 <translation id="7682287625158474539">Pengiriman</translation>
 <translation id="7682451652090915298">Rugbi</translation>
 <translation id="768344142657640519">Baru saja Anda kunjungi</translation>
 <translation id="7684683146428206649">Logam</translation>
-<translation id="5626140961157260107">Tombol Hapus data penjelajahan, aktifkan untuk menghapus histori penjelajahan, cookie, cache, dan lainnya di setelan Brave</translation>
+<translation id="5626140961157260107">Tombol Hapus data penjelajahan, aktifkan untuk menghapus histori penjelajahan, cookie, cache, dan lainnya di setelan Kahf</translation>
 <translation id="7684928361160505327">{0,plural, =1{<ph name="FILE_NAME"/> diblokir karena kebijakan}other{<ph name="FILE_COUNT"/> file diblokir karena kebijakan}}</translation>
 <translation id="7687186412095877299">Mengisi formulir pembayaran dengan metode pembayaran yang Anda simpan</translation>
 <translation id="7687305263118037187">Waktu percobaan ulang habis</translation>
@@ -3707,7 +3707,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="7805906048382884326">Tutup tips</translation>
 <translation id="7810410097247356677">Agar selanjutnya dapat melakukan pembayaran lebih cepat, simpan informasi kartu dan kode keamanan terenkripsi Anda ke perangkat</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="4670564340385807132">Hapus sebagai saran dari Brave?</translation>
+<translation id="4670564340385807132">Hapus sebagai saran dari Kahf?</translation>
 <translation id="781440967107097262">Bagikan papan klip?</translation>
 <translation id="7814857791038398352">Microsoft OneDrive</translation>
 <translation id="7815352264092918456">Kertas (Polos)</translation>
@@ -3740,9 +3740,9 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="7890748547282909375">Login ke Microsoft OneDrive untuk menyimpan screenshot</translation>
 <translation id="7894280532028510793">Jika ejaan sudah benar, <ph name="BEGIN_LINK"/>coba jalankan Diagnostik Jaringan<ph name="END_LINK"/>.</translation>
 <translation id="7901831439558593470">Envelope 7 x 9 inci</translation>
-<translation id="4362225295386962644">Jika Anda menggunakan sandi, Brave akan memperingatkan Anda jika sandi telah dipublikasikan secara online. Saat pemeriksaan dilakukan, sandi dan nama pengguna Anda dienkripsi, sehingga tidak dapat dibaca oleh siapa pun, termasuk Brave.</translation>
+<translation id="4362225295386962644">Jika Anda menggunakan sandi, Kahf akan memperingatkan Anda jika sandi telah dipublikasikan secara online. Saat pemeriksaan dilakukan, sandi dan nama pengguna Anda dienkripsi, sehingga tidak dapat dibaca oleh siapa pun, termasuk Kahf.</translation>
 <translation id="7908648876066812348">Mengaktifkan kartu virtual</translation>
-<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk membuka halaman pemeriksaan keamanan Brave di setelan</translation>
+<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk membuka halaman pemeriksaan keamanan Kahf di setelan</translation>
 <translation id="791107458486222637">Ulangi hasil</translation>
 <translation id="791551905239004656">Menggambar &amp; Mewarnai</translation>
 <translation id="7916162853251942238">Flexo Base</translation>
@@ -3750,7 +3750,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="793209273132572360">Perbarui alamat?</translation>
 <translation id="7932579305932748336">Lapisan</translation>
 <translation id="79338296614623784">Masukkan nomor telepon yang valid</translation>
-<translation id="8329449853370113380"><ph name="URL"/> ingin memutar konten yang dilindungi. Identitas perangkat Anda akan diverifikasi oleh Brave.</translation>
+<translation id="8329449853370113380"><ph name="URL"/> ingin memutar konten yang dilindungi. Identitas perangkat Anda akan diverifikasi oleh Kahf.</translation>
 <translation id="7935318582918952113">Penyaring DOM</translation>
 <translation id="7937163678541954811">CVC kartu ini akan dienkripsi dan disimpan ke perangkat Anda untuk checkout yang lebih cepat</translation>
 <translation id="7937554595067888181">Masa berlaku habis pada <ph name="EXPIRATION_DATE_ABBR"/></translation>
@@ -3815,7 +3815,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="8030729864112325446">Pendidikan Keterampilan &amp; Berkelanjutan</translation>
 <translation id="8032546467100845887">Transparansi</translation>
 <translation id="8035152190676905274">Pena</translation>
-<translation id="3579289742592121339">Judul tab dan URL halaman yang Anda tambahkan ke tabel akan dikirim ke Brave</translation>
+<translation id="3579289742592121339">Judul tab dan URL halaman yang Anda tambahkan ke tabel akan dikirim ke Kahf</translation>
 <translation id="8037117624646282037">Siapa yang baru saja menggunakan perangkat</translation>
 <translation id="8037357227543935929">Tanyakan (default)</translation>
 <translation id="803771048473350947">File</translation>
@@ -4234,7 +4234,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="8813277370772331957">Ingatkan saya nanti</translation>
 <translation id="8814547618907885931">Lihat semua tabel perbandingan</translation>
 <translation id="8814707942599948500">Envelope C8</translation>
-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk mengupdate Brave dari setelan Brave</translation>
+<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab lalu Enter untuk mengupdate Kahf dari setelan Kahf</translation>
 <translation id="882338992931677877">Slot Manual</translation>
 <translation id="8830320733681313421">Kartu Pos Hagaki</translation>
 <translation id="8830565333350631528">Lihat file di <ph name="CLOUD_PROVIDER"/></translation>
@@ -4273,20 +4273,20 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="8891031436559779793">Anda akan diberi tahu jika ada penurunan harga di situs mana pun.</translation>
 <translation id="8891727572606052622">Mode proxy tidak valid.</translation>
 <translation id="8894794286471754040">Tepi panjang lebih dulu</translation>
-<translation id="7850375166078768069">Untuk menggunakan layanan isi otomatis lain di Brave, aktifkan layanan tersebut di setelan Android dan di sini</translation>
-<translation id="7192431032621242241">Untuk meminta melihat konten ini, lanjutkan dengan Akun Brave-mu</translation>
+<translation id="7850375166078768069">Untuk menggunakan layanan isi otomatis lain di Kahf, aktifkan layanan tersebut di setelan Android dan di sini</translation>
+<translation id="7192431032621242241">Untuk meminta melihat konten ini, lanjutkan dengan Akun Kahf-mu</translation>
 <translation id="8897428486789851669">Renang</translation>
 <translation id="8899807382908246773">Iklan mengganggu</translation>
 <translation id="8903921497873541725">Perbesar</translation>
 <translation id="890493561996401738">Hapus tombol Saran, tekan Enter untuk menghapus, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
 <translation id="8910898109640902752">8 x 10 inci (20 x 25 cm)</translation>
-<translation id="4805806622840861220">Luncurkan Ulang Brave</translation>
+<translation id="4805806622840861220">Luncurkan Ulang Kahf</translation>
 <translation id="8918062451146297192">CVC untuk kartu virtual</translation>
 <translation id="8919740778133505789">Mobil Sport</translation>
 <translation id="8919895429178014996">Sembunyikan semua item</translation>
 <translation id="8922013791253848639">Selalu izinkan iklan di situs ini</translation>
 <translation id="8922734931659847428">Daftar terbatas URL halaman yang Anda buka tempat <ph name="BEGIN_LINK"/>peristiwa teknologi lama<ph name="END_LINK"/> terjadi</translation>
-<translation id="3689838371654876064">Saat peristiwa keamanan ditandai oleh Brave, data yang relevan dengan peristiwa tersebut akan dikirimkan ke administrator Anda. Data ini dapat mencakup URL halaman yang Anda buka di Brave, URL halaman tempat Anda menyalin data, nama file atau metadata, error browser atau tab, dan nama pengguna yang Anda gunakan untuk login ke aplikasi berbasis web, perangkat, dan Brave.</translation>
+<translation id="3689838371654876064">Saat peristiwa keamanan ditandai oleh Kahf, data yang relevan dengan peristiwa tersebut akan dikirimkan ke administrator Anda. Data ini dapat mencakup URL halaman yang Anda buka di Kahf, URL halaman tempat Anda menyalin data, nama file atau metadata, error browser atau tab, dan nama pengguna yang Anda gunakan untuk login ke aplikasi berbasis web, perangkat, dan Kahf.</translation>
 <translation id="892588693504540538">Lubang di kanan atas</translation>
 <translation id="8926389886865778422">Jangan tanya lagi</translation>
 <translation id="8932102934695377596">Setelan waktu Anda terlalu lambat</translation>
@@ -4352,7 +4352,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="9049981332609050619">Anda berupaya menjangkau <ph name="DOMAIN"/>, tetapi server menyajikan sertifikat yang tidak valid.</translation>
 <translation id="9050666287014529139">Frasa sandi</translation>
 <translation id="9051072642122229460">Mesin Pembuat Kopi &amp; Espreso</translation>
-<translation id="104719866786855422">Kami meluncurkan fitur privasi iklan baru yang disebut pengukuran iklan. Brave hanya membagikan informasi yang sangat terbatas antar situs, seperti kapan iklan ditampilkan kepada Anda, untuk membantu situs mengukur performa iklan.</translation>
+<translation id="104719866786855422">Kami meluncurkan fitur privasi iklan baru yang disebut pengukuran iklan. Kahf hanya membagikan informasi yang sangat terbatas antar situs, seperti kapan iklan ditampilkan kepada Anda, untuk membantu situs mengukur performa iklan.</translation>
 <translation id="9053955920216300738">URL yang Anda kunjungi</translation>
 <translation id="9054288282721240609">Pelacakan tangan diizinkan</translation>
 <translation id="9056953843249698117">Toko</translation>
@@ -4376,17 +4376,17 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="9090993752571911635">Internet Service Provider (ISP)</translation>
 <translation id="9093723786115107672">Pakaian Tidur</translation>
 <translation id="9094544726794842788">Memberi tanda Tidak suka akan membuka formulir untuk mengirim masukan mendetail tentang alasan Anda tidak menyukai hasil ini</translation>
-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan Tab lalu Enter untuk menyetel Brave sebagai browser default sistem di setelan iOS</translation>
+<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Tekan Tab lalu Enter untuk menyetel Kahf sebagai browser default sistem di setelan iOS</translation>
 <translation id="9101450247048146228">Penggunaan &amp; gerakan kamera (<ph name="CAMERAS_COUNT"/>)</translation>
 <translation id="9101630580131696064">Baki 1</translation>
-<translation id="6373940988468425649"><ph name="SITE"/> biasanya menggunakan enkripsi untuk melindungi informasi Anda. Saat Brave mencoba menyambung ke <ph name="SITE"/> kali ini, situs web mengembalikan kredensial yang salah dan tidak biasa. Hal ini dapat terjadi jika ada penyerang yang berpura-pura menjadi <ph name="SITE"/>, atau layar masuk Wi-Fi mengganggu sambungan. Informasi Anda masih aman karena Brave menghentikan sambungan sebelum terjadi pertukaran data apa pun.</translation>
+<translation id="6373940988468425649"><ph name="SITE"/> biasanya menggunakan enkripsi untuk melindungi informasi Anda. Saat Kahf mencoba menyambung ke <ph name="SITE"/> kali ini, situs web mengembalikan kredensial yang salah dan tidak biasa. Hal ini dapat terjadi jika ada penyerang yang berpura-pura menjadi <ph name="SITE"/>, atau layar masuk Wi-Fi mengganggu sambungan. Informasi Anda masih aman karena Kahf menghentikan sambungan sebelum terjadi pertukaran data apa pun.</translation>
 <translation id="9107199998619088551"><ph name="MANAGER"/> mengelola profil Anda</translation>
 <translation id="9107467864910557787">Browser Anda dikelola oleh <ph name="MANAGER"/></translation>
 <translation id="91108059142052966">Kebijakan administrator menonaktifkan berbagi layar dengan <ph name="APPLICATION_TITLE"/> saat konten rahasia terlihat</translation>
 <translation id="9114524666733003316">Mengonfirmasi kartu...</translation>
-<translation id="3582535072753734287">Browser ini tidak dikelola oleh perusahaan atau organisasi lain. Aktivitas di perangkat ini mungkin dikelola di luar Brave. <ph name="BEGIN_LINK"/>Pelajari lebih lanjut<ph name="END_LINK"/></translation>
-<translation id="7839260860373627374">Selengkapnya tentang iklan di Brave</translation>
-<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab, lalu Enter untuk melanjutkan penelusuran dan melihat aktivitas yang relevan di histori Brave Anda</translation>
+<translation id="3582535072753734287">Browser ini tidak dikelola oleh perusahaan atau organisasi lain. Aktivitas di perangkat ini mungkin dikelola di luar Kahf. <ph name="BEGIN_LINK"/>Pelajari lebih lanjut<ph name="END_LINK"/></translation>
+<translation id="7839260860373627374">Selengkapnya tentang iklan di Kahf</translation>
+<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tekan Tab, lalu Enter untuk melanjutkan penelusuran dan melihat aktivitas yang relevan di histori Kahf Anda</translation>
 <translation id="9119042192571987207">Diupload</translation>
 <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> ingin memverifikasi diri Anda</translation>
 <translation id="912327514020027767">Rok</translation>
@@ -4509,7 +4509,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK"/>situs yang tidak aman
 <translation id="997986563973421916">Dari Google Pay</translation>
 <translation id="8820817407110198400">Markah</translation>
 <translation id="8362995731815961365">Profil yang menata komputer ini telah memblokir situs ini.</translation>
-<translation id="896703648578722320">Saat ekstensi ditambahkan ke Brave, data yang relevan tentang ekstensi ini akan dikirim ke pihak ketiga untuk dianalisis dan dapat dilihat oleh administrator Anda. Data mencakup informasi tentang ekstensi seperti nama, waktu penginstalan, sumber penginstalan, serta aktivitas yang terkait dengan ekstensi ini (seperti mengubah tab, menghubungi situs, atau mengakses cookie). Data ini dikumpulkan untuk ekstensi yang diinstal dari Web Store serta ekstensi di luar Web Store.</translation>
+<translation id="896703648578722320">Saat ekstensi ditambahkan ke Kahf, data yang relevan tentang ekstensi ini akan dikirim ke pihak ketiga untuk dianalisis dan dapat dilihat oleh administrator Anda. Data mencakup informasi tentang ekstensi seperti nama, waktu penginstalan, sumber penginstalan, serta aktivitas yang terkait dengan ekstensi ini (seperti mengubah tab, menghubungi situs, atau mengakses cookie). Data ini dikumpulkan untuk ekstensi yang diinstal dari Web Store serta ekstensi di luar Web Store.</translation>
 <translation id="4075123085690634698">Buka halaman di jendela Privat baru (⇧⌘N)</translation>
 <translation id="2388886110302389394">Buka halaman di jendela Privat baru (Ctrl-Shift-N)</translation>
 <translation id="6957624206566198865">Buka halaman di tab Privat baru</translation>

@@ -1,37 +1,36 @@
 diff a/components/strings/components_strings_vi.xtb b/components/strings/components_strings_vi.xtb	(rejected hunks)
-@@ -27,7 +27,7 @@
+@@ -28,7 +28,7 @@
+ <translation id="1053959602163383901">Bạn đã chọn xác minh bằng một thiết bị xác thực trên các trang web sử dụng <ph name="PROVIDER_ORIGIN"/>. Nhà cung cấp này có thể đã lưu trữ thông tin về phương thức thanh toán của bạn mà bạn có thể <ph name="LINK_TEXT"/>.</translation>
  <translation id="1055184225775184556">&amp;Hoàn tác thêm</translation>
- <translation id="105642538515333723">Bạn có thể nhập một cụm từ hoặc thông tin bất kỳ có trên các trang đã từng duyệt xem, chẳng hạn như "giày đi bộ thoải mái"</translation>
  <translation id="1056898198331236512">Cảnh báo</translation>
 -<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để chơi trò chơi khủng long trên Brave</translation>
 +<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để chơi trò chơi khủng long trên Kahf</translation>
  <translation id="1058479211578257048">Đang lưu thẻ...</translation>
  <translation id="1060136083665017312">Hệ thống và máy chơi trò chơi</translation>
  <translation id="1060320201901229167">Phong bì Kaku 5</translation>
-@@ -48,7 +48,7 @@
+@@ -49,7 +49,7 @@
  <translation id="1082026381988252344">Cuộn và thu phóng nội dung thẻ được chia sẻ</translation>
  <translation id="1088664500620117635"><ph name="PRODUCT_NAME"/> thường có giá từ <ph name="LOW_PRICE"/> – <ph name="HIGH_PRICE"/>, còn giá hiện tại trên Internet là <ph name="CURRENT_PRICE"/>.</translation>
  <translation id="1089439967362294234">Thay đổi mật khẩu</translation>
 -<translation id="807719392864780545">Bạn có thể thay đổi quyết định bất cứ lúc nào trong phần cài đặt Brave.</translation>
 +<translation id="807719392864780545">Bạn có thể thay đổi quyết định bất cứ lúc nào trong phần cài đặt Kahf.</translation>
  <translation id="1090629319939036170">Trình đơn thực tế ảo</translation>
- <translation id="1091543275053148479">Quản trị viên có thể xem và quản lý dữ liệu duyệt web, trong đó có cả nhật ký và mật khẩu</translation>
+ <translation id="1091463901118115503">Đọc tiếp</translation>
  <translation id="1091779689406092804">ảnh chụp màn hình</translation>
-@@ -56,11 +56,11 @@
+@@ -57,10 +57,10 @@
  <translation id="1096545575934602868">Trường này không được chứa nhiều hơn <ph name="MAX_ITEMS_LIMIT"/> mục. Mọi mục thừa sẽ bị hủy.</translation>
  <translation id="1097803577928227769">Vườn hoa và công viên địa phương</translation>
  <translation id="1099928364755383720">chế độ hình trong hình tự động</translation>
 -<translation id="7584468665743195331">Nút tiếp tục hành trình của bạn, nhấn phím Enter để tiếp tục hành trình và xem hoạt động liên quan trong nhật ký duyệt web trên Brave</translation>
 +<translation id="7584468665743195331">Nút tiếp tục hành trình của bạn, nhấn phím Enter để tiếp tục hành trình và xem hoạt động liên quan trong nhật ký duyệt web trên Kahf</translation>
  <translation id="1101672080107056897">Thao tác bị lỗi</translation>
- <translation id="1103523840287552314">Luôn dịch <ph name="LANGUAGE"/></translation>
  <translation id="1104409666019087579">Một số trường bắt buộc vẫn đang trống. Hãy điền vào các trường này trước khi lưu.</translation>
 -<translation id="8424280348953443220">Nút Quản lý mật khẩu, hãy nhấn nút này để xem và quản lý các mật khẩu của bạn trong phần cài đặt của Brave</translation>
 +<translation id="8424280348953443220">Nút Quản lý mật khẩu, hãy nhấn nút này để xem và quản lý các mật khẩu của bạn trong phần cài đặt của Kahf</translation>
  <translation id="1108464073729874771">A3x4</translation>
  <translation id="1110994991967754504">Chọn quyền cho <ph name="PERMISSION_NAME"/></translation>
- <translation id="1112238992895762847">Khoảng giá cho tất cả các lựa chọn</translation>
-@@ -149,23 +149,23 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="1113000785583998331">Lưu IBAN?</translation>
+@@ -149,22 +149,22 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
      &lt;/ol&gt;</translation>
  <translation id="1257286744552378071">Bạn đã nhập mật khẩu của mình trên một trang web không thuộc quyền quản lý của tổ chức bạn. Để bảo vệ tài khoản, không sử dụng lại mật khẩu của bạn trên các ứng dụng và trang web khác.</translation>
  <translation id="1257553931232494454">mức thu phóng</translation>
@@ -39,7 +38,6 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để quản lý chế độ cài đặt Kahf của bạn</translation>
  <translation id="1264309058268477500">Khay thay thế</translation>
  <translation id="1264974993859112054">Thể thao</translation>
- <translation id="126728463333482584">Bạn là một trong những người đầu tiên trải nghiệm tính năng Chống theo dõi. Tính năng này hạn chế các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.</translation>
  <translation id="1268480293435976622">Phong bì kiểu Trung số 7</translation>
 -<translation id="53564677632020212">Tạo nhanh một trang web mới trong Brave Sites</translation>
 +<translation id="53564677632020212">Tạo nhanh một trang web mới trong Kahf Sites</translation>
@@ -59,8 +57,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="1293797321964802402">Phong bì 9 x 11 inch</translation>
  <translation id="1294154142200295408">Các biến thể của dòng lệnh</translation>
  <translation id="129553762522093515">Các thẻ đã đóng gần đây</translation>
-@@ -190,7 +190,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="1325412080783393306">Tìm thêm lựa chọn mua hàng</translation>
+@@ -189,7 +189,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="132390688737681464">Lưu và điền địa chỉ</translation>
  <translation id="1329916999021038454">Gửi báo cáo</translation>
  <translation id="1330449323196174374">Gấp dạng cửa bên trái</translation>
 -<translation id="4274264486214599895">Chơi Trò chơi khủng long trên Brave</translation>
@@ -68,8 +66,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="1333989956347591814">Hoạt động của bạn <ph name="BEGIN_EMPHASIS"/>có thể vẫn hiển thị<ph name="END_EMPHASIS"/> với:
          <ph name="BEGIN_LIST"/>
            <ph name="LIST_ITEM"/>Trang web bạn truy cập
-@@ -232,11 +232,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="1406812885827747674">Cho phép lần này</translation>
+@@ -231,11 +231,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="14070772729708640">Đã tải thành công các tệp lên <ph name="FOLDER_NAME"/> trên <ph name="CLOUD_PROVIDER"/></translation>
  <translation id="1407135791313364759">Mở tất cả</translation>
  <translation id="1408787208417187241">Dập 3 ghim trên cùng</translation>
 -<translation id="5488251800208457874">Những người khác sử dụng thiết bị này sẽ không thấy hoạt động của bạn. Vì vậy, bạn có thể duyệt web riêng tư hơn. Việc này sẽ không thay đổi cách các trang web mà bạn truy cập và dịch vụ mà họ sử dụng (bao gồm cả Brave) thu thập dữ liệu. Hệ thống sẽ lưu các tệp đã tải xuống, dấu trang và các mục có trong danh sách đọc.</translation>
@@ -80,18 +78,18 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="5305237486453576422">Nút Quản lý tệp đã tải xuống trong Brave, hãy nhấn nút này để quản lý các tệp bạn đã tải xuống trong Brave</translation>
 +<translation id="5305237486453576422">Nút Quản lý tệp đã tải xuống trong Kahf, hãy nhấn nút này để quản lý các tệp bạn đã tải xuống trong Kahf</translation>
  <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/> để cho phép ghép nối</translation>
+ <translation id="14222610277930434">Bạn thường xuyên truy cập</translation>
  <translation id="1422930527989633628">Trang web có thể yêu cầu khám phá các thiết bị Bluetooth ở gần</translation>
- <translation id="1426410128494586442">Có</translation>
-@@ -303,7 +303,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="1545757265410828525">Giá theo thời gian</translation>
- <translation id="1549470594296187301">Bạn phải bật JavaScript để sử dụng tính năng này.</translation>
- <translation id="1553152622374372421">Thể thao mùa đông</translation>
--<translation id="1705567146636171298">Cập nhật Brave</translation>
-+<translation id="1705567146636171298">Cập nhật Kahf</translation>
- <translation id="1555130319947370107">Xanh lam</translation>
- <translation id="1559231233244409191">Bìa cứng (Ba lớp)</translation>
- <translation id="1559447966090556585">Nhận thông báo?</translation>
-@@ -360,20 +360,20 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -265,7 +265,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="1462245070427461050">JIS B9</translation>
+ <translation id="1462951478840426066">Dùng phông chữ trên máy tính để bạn có thể tạo nội dung có độ chân thực cao</translation>
+ <translation id="1463793142714244641">Quyền sở hữu bất động sản và bất động sản nghỉ dưỡng</translation>
+-<translation id="4855177403643365941">Đã lưu IBAN vào Tài khoản Brave</translation>
++<translation id="4855177403643365941">Đã lưu IBAN vào Tài khoản Kahf</translation>
+ <translation id="1467432559032391204">Trái</translation>
+ <translation id="1468653229182955856"><ph name="ONE_TIME_CODE"/> là mã của bạn cho <ph name="EMBEDDED_ORIGIN"/> để tiếp tục trên <ph name="TOP_ORIGIN"/></translation>
+ <translation id="1472675084647422956">Hiện thêm</translation>
+@@ -362,20 +362,20 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="1640180200866533862">Chính sách người dùng</translation>
  <translation id="1640244768702815859">Hãy thử <ph name="BEGIN_LINK"/>truy cập trang chủ của trang web<ph name="END_LINK"/>.</translation>
  <translation id="1641976391427233992">Trì hoãn giấy ra cho đến</translation>
@@ -115,18 +113,18 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="1838576226863399477">Thẻ và địa chỉ từ Brave. Bạn có thể quản lý thẻ và địa chỉ trong <ph name="BEGIN_LINK"/>Cài đặt<ph name="END_LINK"/>.</translation>
 +<translation id="1838576226863399477">Thẻ và địa chỉ từ Kahf. Bạn có thể quản lý thẻ và địa chỉ trong <ph name="BEGIN_LINK"/>Cài đặt<ph name="END_LINK"/>.</translation>
  <translation id="1664389769577564606">Khuôn in Flexo bằng Photopolymer</translation>
+ <translation id="166624440456221306">Xoá bảng so sánh</translation>
  <translation id="1668071460721346172">Nhận email</translation>
- <translation id="1671391448414634642">Kể từ bây giờ trở đi, các trang viết bằng <ph name="SOURCE_LANGUAGE"/> sẽ được dịch sang <ph name="TARGET_LANGUAGE"/>.</translation>
-@@ -420,7 +420,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="1739422091279046802">cuộn và thu phóng</translation>
+@@ -422,7 +422,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="1741613555002899862">Phải được chỉ định và là một chuỗi hợp lệ khi DnsOverHttpsMode là <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
  <translation id="1743393865165844832">Bộ đồ giường và khăn trải giường bằng vải lanh</translation>
+ <translation id="1743892871127720056">So sánh tiêu đề bảng, chỉnh sửa văn bản</translation>
 -<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Cách chúng tôi sử dụng dữ liệu này:<ph name="END_BOLD"/> Khi bạn duyệt web, Brave sẽ lưu ý các chủ đề bạn quan tâm. Các nhãn chủ đề được xác định trước và gồm có những nội dung như Nghệ thuật và giải trí, Mua sắm và Thể thao. Sau đó, trang web bạn truy cập có thể yêu cầu Brave cung cấp thông tin về một số ít chủ đề (chứ không phải nhật ký duyệt web của bạn) để cá nhân hoá quảng cáo bạn thấy.</translation>
 +<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Cách chúng tôi sử dụng dữ liệu này:<ph name="END_BOLD"/> Khi bạn duyệt web, Kahf sẽ lưu ý các chủ đề bạn quan tâm. Các nhãn chủ đề được xác định trước và gồm có những nội dung như Nghệ thuật và giải trí, Mua sắm và Thể thao. Sau đó, trang web bạn truy cập có thể yêu cầu Kahf cung cấp thông tin về một số ít chủ đề (chứ không phải nhật ký duyệt web của bạn) để cá nhân hoá quảng cáo bạn thấy.</translation>
  <translation id="1746113442205726301">Trục Y của hình ảnh</translation>
  <translation id="1746531169546376413">0 độ</translation>
  <translation id="1748225549612934682">Rút ngắn văn bản để được trợ giúp khi viết</translation>
-@@ -433,15 +433,15 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -435,7 +435,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="1756555787993603971">Giờ đây, bạn có thể dùng thẻ ảo để thanh toán an toàn hơn nhờ tính năng tự động điền.</translation>
  <translation id="175656076281618225">Phép thuật</translation>
  <translation id="1757773103848038814">Phông chữ giãn cách đơn</translation>
@@ -135,9 +133,10 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="1762779605905950734">Tên đường phố</translation>
  <translation id="1763864636252898013">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN"/>; chứng chỉ bảo mật của máy chủ này không được hệ điều hành thiết bị của bạn tin cậy. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
  <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Thử chạy Chẩn đoán mạng của Windows<ph name="END_LINK"/>.</translation>
- <translation id="1771254328977666895">Xem giá theo thời gian</translation>
+@@ -443,8 +443,8 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="1777422078676229054">Ảnh (Lưu niệm)</translation>
  <translation id="1778646502362731194">JIS B0</translation>
+ <translation id="1785118555253503473">Cài đặt ứng dụng web?</translation>
 -<translation id="3480410886581896628">Brave Smart Lock</translation>
 -<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để quản lý thông tin, quyền riêng tư và chế độ bảo mật cho Tài khoản Brave của bạn</translation>
 +<translation id="3480410886581896628">Kahf Smart Lock</translation>
@@ -145,32 +144,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="1793631236004319016">Sử dụng lần gần đây nhất vào <ph name="NUM_HOURS_MINUTES_SECONDS"/> trước</translation>
  <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, có nhiều thao tác, nhấn phím Tab để chuyển giữa các thao tác đó</translation>
  <translation id="1800473098294731951">B9</translation>
-@@ -457,7 +457,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="1812527064848182527">ngang</translation>
- <translation id="1812975699435941848">Giáo dục sức khoẻ và đào tạo y khoa</translation>
- <translation id="1816436748874040213">Có thể yêu cầu cuộn và thu phóng các thẻ được chia sẻ</translation>
--<translation id="8221062743840200789">Vai trò: Mẹo sử dụng Brave. Nhãn trợ năng: <ph name="CHROME_TIP"/></translation>
-+<translation id="8221062743840200789">Vai trò: Mẹo sử dụng Kahf. Nhãn trợ năng: <ph name="CHROME_TIP"/></translation>
- <translation id="1818522458013171885">Bỏ chặn</translation>
- <translation id="1818585559878922121">Phim tài liệu</translation>
- <translation id="182139138257690338">tự động tải xuống</translation>
-@@ -543,12 +543,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="1999416967035780066">Phần mềm miễn phí và phần mềm chia sẻ</translation>
- <translation id="2001146170449793414">{COUNT,plural, =1{và 1 ứng dụng khác}other{và # ứng dụng khác}}</translation>
- <translation id="2001469757375372617">Đã xảy ra lỗi. Thay đổi của bạn chưa được lưu.</translation>
--<translation id="4459209913348050986">Bạn có thể thay đổi trong phần cài đặt Brave.</translation>
-+<translation id="4459209913348050986">Bạn có thể thay đổi trong phần cài đặt Kahf.</translation>
- <translation id="2003709556000175978">Đặt lại mật khẩu của bạn ngay bây giờ</translation>
- <translation id="2003775180883135320">Đục 4 lỗ trên cùng</translation>
- <translation id="2004697686368036666">Các tính năng trên một số trang web có thể không hoạt động</translation>
--<translation id="6855500251167861792">Nút Tạo sự kiện, hãy nhấn nút này để tạo nhanh một sự kiện mới trong Lịch Brave</translation>
--<translation id="2342444980304536062">Quản lý quyền và dữ liệu lưu trữ trên các trang web trong phần Cài đặt của Brave</translation>
-+<translation id="6855500251167861792">Nút Tạo sự kiện, hãy nhấn nút này để tạo nhanh một sự kiện mới trong Lịch Kahf</translation>
-+<translation id="2342444980304536062">Quản lý quyền và dữ liệu lưu trữ trên các trang web trong phần Cài đặt của Kahf</translation>
- <translation id="2012276282211112603">Hiện không có chủ đề nào để hiển thị</translation>
- <translation id="2018769312928511665">Vải (Bóng)</translation>
- <translation id="2021333772895814435">Chính sách này sẽ tự động tắt tính năng đồng bộ hoá trên các thiết bị đối với: <ph name="ACTION_LIST"/>.</translation>
-@@ -569,12 +569,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -573,11 +573,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="2040894699575719559">Đã chặn quyền truy cập vị trí</translation>
  <translation id="2041788246978549610">Sử dụng micrô có sẵn (<ph name="MICS_COUNT"/>)</translation>
  <translation id="2042213636306070719">Khay 7</translation>
@@ -179,53 +153,57 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="2045871135676061132">Phong bì thư từ cá nhân</translation>
  <translation id="2046951263634619614">Nhà bán lẻ sách</translation>
  <translation id="2048261947532620704">Đang dịch trang</translation>
- <translation id="2053111141626950936">Các trang viết bằng <ph name="LANGUAGE"/> sẽ không được dịch.</translation>
 -<translation id="5469355573019315764">Các trang web có thể yêu cầu Brave cung cấp thông tin để giúp cá nhân hoá quảng cáo bạn thấy.</translation>
 +<translation id="5469355573019315764">Các trang web có thể yêu cầu Kahf cung cấp thông tin để giúp cá nhân hoá quảng cáo bạn thấy.</translation>
  <translation id="2059166748188874810">Thành phố tự trị</translation>
  <translation id="2059202684901022309">22 x 34 inch</translation>
  <translation id="2064568741209980952">Tín dụng và cho vay</translation>
-@@ -649,7 +649,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -653,7 +653,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="2174875517416416684">Giao dịch không thực hiện được. Bạn chưa rút bất kỳ khoản tiền nào từ tài khoản của mình.</translation>
  <translation id="2175630235841878061">Không thể tải xuống nếu kích thước tệp lớn hơn 100 MB</translation>
  <translation id="2176974405772725904">Lưu địa chỉ trong tài khoản</translation>
 -<translation id="7453373354666409887">Nút Cập nhật Brave, hãy nhấn nút này để cập nhật Brave trong phần cài đặt của Brave</translation>
 +<translation id="7453373354666409887">Nút Cập nhật Kahf, hãy nhấn nút này để cập nhật Kahf trong phần cài đặt của Kahf</translation>
+ <translation id="2179003720612888584"><ph name="SITE_TITLE"/> trên <ph name="SITE_DOMAIN_NAME"/></translation>
  <translation id="2181821976797666341">Chính sách</translation>
  <translation id="2182170103603703676">Máy rửa bát đĩa</translation>
- <translation id="2183238148268545307">Phần mềm video</translation>
-@@ -756,10 +756,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="2378084239755710604">Đã đóng lời nhắc Lưu thẻ.</translation>
- <translation id="237978325638124213">Nước hoa và các sản phẩm tạo mùi hương</translation>
- <translation id="2380886658946992094">Legal</translation>
--<translation id="5475992123321966556">Cá nhân hóa các công cụ hỗ trợ tiếp cận của bạn trong phần cài đặt Brave</translation>
-+<translation id="5475992123321966556">Cá nhân hóa các công cụ hỗ trợ tiếp cận của bạn trong phần cài đặt Kahf</translation>
- <translation id="2384307209577226199">Đặt mặc định trong môi trường doanh nghiệp</translation>
- <translation id="238459632961158867">Trang web</translation>
--<translation id="5244533701344680487">Cập nhật Brave từ phần cài đặt của Brave</translation>
-+<translation id="5244533701344680487">Cập nhật Kahf từ phần cài đặt của Kahf</translation>
- <translation id="2386255080630008482">Chứng chỉ của máy chủ đã bị thu hồi.</translation>
- <translation id="2388828676877700238">Lập kế hoạch và chuẩn bị hồ sơ thuế</translation>
- <translation id="239203817277685015">Chi tiết</translation>
-@@ -788,7 +788,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -673,7 +673,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="2212735316055980242">Không tìm thấy chính sách</translation>
+ <translation id="2213606439339815911">Đang tìm nạp các mục nhập...</translation>
+ <translation id="2213612003795704869">Trang được in</translation>
+-<translation id="4045100732984144870">Tự động điền bằng Brave</translation>
++<translation id="4045100732984144870">Tự động điền bằng Kahf</translation>
+ <translation id="2215539479425228550">Leo núi</translation>
+ <translation id="2215727959747642672">Chỉnh sửa tệp</translation>
+ <translation id="2215963164070968490">Chó</translation>
+@@ -779,7 +779,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="239429038616798445">Phương thức giao hàng này không có sẵn. Hãy thử một phương thức khác.</translation>
+ <translation id="2395840535409704129">Thể thao dưới nước</translation>
+ <translation id="2396249848217231973">&amp;Hoàn tác xóa</translation>
+-<translation id="4124760202519850347">IBAN này được lưu trong Tài khoản Brave của bạn để bạn có thể sử dụng trên các dịch vụ của Brave.</translation>
++<translation id="4124760202519850347">IBAN này được lưu trong Tài khoản Kahf của bạn để bạn có thể sử dụng trên các dịch vụ của Kahf.</translation>
+ <translation id="2400600116338235695">Trang web có thể yêu cầu kết nối với cổng nối tiếp</translation>
+ <translation id="2404884497378469141">Hãy thử sao chép các tệp lần nữa</translation>
+ <translation id="2412310121876768057">Tự động điền thông tin thẻ vào lần tới?</translation>
+@@ -800,7 +800,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="2461822463642141190">Hiện tại</translation>
  <translation id="2462932596748424101">Mạng xã hội</translation>
  <translation id="2465688316154986572">Dập ghim</translation>
 -<translation id="4058615531773510267">Quản lý các tệp bạn đã tải xuống trong Brave</translation>
 +<translation id="4058615531773510267">Quản lý các tệp bạn đã tải xuống trong Kahf</translation>
  <translation id="2466004615675155314">Hiện thông tin trên web</translation>
+ <translation id="2466682894498377850">Thẻ được gửi từ <ph name="DEVICE_NAME"/></translation>
  <translation id="2467272921457885625">Thông số kỹ thuật và thống kê phần cứng của thiết bị, chẳng hạn như nhật ký sử dụng CPU/RAM</translation>
- <translation id="2467694685043708798"><ph name="BEGIN_LINK"/>Chạy Chẩn đoán mạng<ph name="END_LINK"/></translation>
-@@ -798,7 +798,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -812,7 +812,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="2473810985261856484">Dịch vụ pháp lý</translation>
  <translation id="2479148705183875116">Chuyển đến phần Cài đặt</translation>
  <translation id="2479410451996844060">URL tìm kiếm hợp lệ.</translation>
 -<translation id="6944854796979239513">Trong Tài khoản Brave của bạn, <ph name="USER_EMAIL"/></translation>
 +<translation id="6944854796979239513">Trong Tài khoản Kahf của bạn, <ph name="USER_EMAIL"/></translation>
+ <translation id="248064299258688299">Tiện ích <ph name="EXTENSION_NAME"/> cho biết</translation>
  <translation id="2482878487686419369">Thông báo</translation>
  <translation id="248348093745724435">Chính sách về máy</translation>
- <translation id="2485243023686553468">Điện thoại thông minh</translation>
-@@ -829,12 +829,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -844,12 +844,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="253493526287553278">Xem chi tiết mã khuyến mại</translation>
  <translation id="2535659140340599600">{COUNT,plural, =1{và 1 miền khác}other{và # miền khác}}</translation>
  <translation id="2536110899380797252">Thêm địa chỉ</translation>
@@ -239,15 +217,26 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="5342827302598046226">Đặt Kahf là trình duyệt mặc định</translation>
  <translation id="2545721997179863249">Đã chọn tuỳ chọn điền mọi thông tin</translation>
  <translation id="2546283357679194313">Cookie và dữ liệu trang web</translation>
- <translation id="2546678870939430879">Làm lại để có kết quả khác</translation>
-@@ -1021,17 +1021,17 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="2959274854674276289">Món chay</translation>
+ <translation id="254947805923345898">Giá trị của chính sách là không hợp lệ.</translation>
+@@ -895,7 +895,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="2651465929321991146">Nhật ký và thẻ</translation>
+ <translation id="2653659639078652383">Gửi</translation>
+ <translation id="2655752832536625875">Phòng tắm</translation>
+-<translation id="3889152837537169222">Nút Đóng mẹo sử dụng Brave, nhấn Enter để đóng</translation>
++<translation id="3889152837537169222">Nút Đóng mẹo sử dụng Kahf, nhấn Enter để đóng</translation>
+ <translation id="2657637947725373811">{0,plural, =1{Bạn muốn chuyển tệp bảo mật?}other{Bạn muốn chuyển các tệp bảo mật?}}</translation>
+ <translation id="2658843814961855121">Luật lao động và việc làm</translation>
+ <translation id="2660779039299703961">Sự kiện</translation>
+@@ -1041,18 +1041,18 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="2961809451460302960">Bảo hiểm nhân thọ</translation>
  <translation id="2962073860865348475">12 x 18 inch</translation>
+ <translation id="2967082089043584472">Đã thêm vào <ph name="SET"/></translation>
 -<translation id="2470357430970446202">lưu mật khẩu vào Tài khoản Brave của bạn</translation>
 +<translation id="2470357430970446202">lưu mật khẩu vào Tài khoản Kahf của bạn</translation>
  <translation id="297173220375858963">Chế bản điện tử</translation>
  <translation id="2972581237482394796">&amp;Làm lại</translation>
+-<translation id="4715521049551299401">Không thể lưu IBAN này vào Tài khoản Brave của bạn. Thay vào đó, IBAN sẽ được lưu vào Brave trên thiết bị này. Brave sẽ hỏi lại bạn vào lần tiếp theo bạn sử dụng IBAN này.</translation>
++<translation id="4715521049551299401">Không thể lưu IBAN này vào Tài khoản Kahf của bạn. Thay vào đó, IBAN sẽ được lưu vào Kahf trên thiết bị này. Kahf sẽ hỏi lại bạn vào lần tiếp theo bạn sử dụng IBAN này.</translation>
  <translation id="2977665033722899841"><ph name="ROW_NAME"/>, hiện đã chọn. <ph name="ROW_CONTENT"/></translation>
  <translation id="2977847223286097084">Khoá và sử dụng bàn phím của bạn</translation>
  <translation id="2978824962390592855">Opera</translation>
@@ -261,7 +250,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="2989742184762224133">Dập 2 ghim trên cùng</translation>
  <translation id="2991174974383378012">Chia sẻ với trang web</translation>
  <translation id="299122504639061328">Quản lý công cụ tìm kiếm mặc định và công cụ tìm kiếm trang web</translation>
-@@ -1059,17 +1059,17 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1080,10 +1080,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="3041176923638368519">Xem các điều khoản về lợi ích của thẻ</translation>
  <translation id="3041612393474885105">Thông tin Chứng chỉ</translation>
  <translation id="3045769629416806687">Thể thao mạo hiểm</translation>
@@ -275,7 +264,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="3061707000357573562">Dịch vụ vá lỗi</translation>
  <translation id="3062655045399308513">Xoá dữ liệu duyệt web...</translation>
  <translation id="306573536155379004">Đã bắt đầu trò chơi.</translation>
- <translation id="3067505415088964188">Giá thấp</translation>
+@@ -1091,7 +1091,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="3068118691172921711">Quá trình tải tệp lên <ph name="CLOUD_PROVIDER"/> sẽ bắt đầu sau 1 phút</translation>
  <translation id="3076865167425975822">Hệ điều hành</translation>
  <translation id="3080254622891793721">Đồ họa</translation>
 -<translation id="254030672859277244">Cho phép Brave sử dụng giỏ hàng của bạn để tìm ưu đãi chiết khấu phù hợp với bạn (nếu có)</translation>
@@ -283,8 +273,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="3086579638707268289">Hoạt động của bạn trên web đang bị giám sát</translation>
  <translation id="3087734570205094154">Bên dưới</translation>
  <translation id="3090667236485488075">Thuỷ tinh</translation>
-@@ -1167,7 +1167,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="3248329428895535435">Không hiển thị trên trang này</translation>
+@@ -1192,7 +1192,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="3249102948665905108">Đã hoàn tất quá trình tải tệp lên <ph name="CLOUD_PROVIDER"/> nhưng có lỗi</translation>
  <translation id="3252772880526154546">Kiến trúc</translation>
  <translation id="3254301855501243548">18 x 22 inch</translation>
 -<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một sự kiện mới trong Lịch Brave</translation>
@@ -292,16 +282,16 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="3261488570342242926">Tìm hiểu về thẻ ảo</translation>
  <translation id="3262698603497362968">Các lựa chọn mua hàng</translation>
  <translation id="3266367459139339908">Chúng tôi sắp ra mắt những cách mới để hạn chế những gì trang web có thể tìm hiểu về bạn khi cho bạn xem quảng cáo được cá nhân hoá, ví dụ:</translation>
-@@ -1180,7 +1180,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1204,7 +1204,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="3272091146646336650">Super B</translation>
  <translation id="3272112314896217187">Nhập mã xác minh gồm <ph name="NUMBER_OF_DIGITS"/> chữ số</translation>
  <translation id="3272643614306383237">Dưới 1 MB. Một số trang web có thể tải chậm hơn vào lần tới bạn truy cập.</translation>
- <translation id="327346289570683313">Khoảng giá</translation>
 -<translation id="7460223968433527020">Quản trị viên có thể thay đổi hồ sơ và trình duyệt của bạn từ xa, phân tích thông tin về trình duyệt thông qua báo cáo và thực hiện những nhiệm vụ cần thiết khác. Hoạt động trên thiết bị này cũng có thể được quản lý bên ngoài Brave. <ph name="BEGIN_LINK"/>Tìm hiểu thêm<ph name="END_LINK"/></translation>
 +<translation id="7460223968433527020">Quản trị viên có thể thay đổi hồ sơ và trình duyệt của bạn từ xa, phân tích thông tin về trình duyệt thông qua báo cáo và thực hiện những nhiệm vụ cần thiết khác. Hoạt động trên thiết bị này cũng có thể được quản lý bên ngoài Kahf. <ph name="BEGIN_LINK"/>Tìm hiểu thêm<ph name="END_LINK"/></translation>
  <translation id="3281350579597955952">{0,plural, =1{Theo chính sách của quản trị viên, bạn không nên mở tệp này trong <ph name="DESTINATION_NAME"/>}other{Theo chính sách của quản trị viên, bạn không nên mở các tệp này trong <ph name="DESTINATION_NAME"/>}}</translation>
  <translation id="3282085321714087552">Tổ chức <ph name="ENROLLMENT_DOMAIN"/> của bạn đã gửi một số thông tin (chẳng hạn như chế độ cài đặt hoặc chính sách) đến các trang web sau đây.</translation>
  <translation id="3286372614333682499">dọc</translation>
-@@ -1197,7 +1197,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1221,7 +1221,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="3304073249511302126">quét tìm Bluetooth</translation>
  <translation id="3304777285002411338">A2x3</translation>
  <translation id="33073482541490531">Mật khẩu bạn vừa sử dụng đã bị lộ trong một sự cố rò rỉ dữ liệu. Trình quản lý mật khẩu khuyên bạn nên đổi mật khẩu này ngay.</translation>
@@ -309,9 +299,9 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="4731386748664539266">Nút Tuỳ chỉnh Kahf, hãy nhấn nút này để tuỳ chỉnh giao diện trình duyệt của bạn</translation>
  <translation id="3308006649705061278">Đơn vị Tổ chức (OU)</translation>
  <translation id="3318016344440038475">Hài kịch truyền hình</translation>
- <translation id="3321152582690622182">Chưa theo dõi</translation>
-@@ -1252,7 +1252,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="3409896703495473338">Quản lý chế độ cài đặt bảo mật</translation>
+ <translation id="3324687287337751929">4 x 6 inch</translation>
+@@ -1279,7 +1279,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="3411091017011773343">Tải lên sau <ph name="HOURS"/> giờ nữa</translation>
  <translation id="3414275587143250384">Điện toán đám mây và hệ thống phân phối</translation>
  <translation id="3414952576877147120">Kích thước:</translation>
 -<translation id="7115177860507615612">Nút Chơi Trò chơi khủng long trên Brave, hãy nhấn nút này để chơi trò chơi khủng long trên Brave</translation>
@@ -319,9 +309,9 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="3422248202833853650">Thử thoát các chương trình khác để giải phóng bộ nhớ.</translation>
  <translation id="3422472998109090673">Hiện không thể truy cập <ph name="HOST_NAME"/>.</translation>
  <translation id="3423742043356668186">Do hệ thống chỉ định</translation>
-@@ -1359,27 +1359,27 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="3587725436724465984">Tổ chức của bạn đã xác định <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> là trang web có thể vi phạm chính sách. <ph name="BEGIN_LEARN_MORE_LINK"/>Tìm hiểu thêm về cảnh báo này<ph name="END_LEARN_MORE_LINK"/></translation>
+@@ -1389,28 +1389,28 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="3587738293690942763">Ở giữa</translation>
+ <translation id="3600106876108433070">Tìm hiểu về bảng so sánh</translation>
  <translation id="3600246354004376029"><ph name="TITLE"/>, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
 -<translation id="8476504968862670676">Nút Quản lý chế độ cài đặt quyền riêng tư của Brave, hãy nhấn nút này để vào phần cài đặt quyền riêng tư của Tài khoản Brave</translation>
 +<translation id="8476504968862670676">Nút Quản lý chế độ cài đặt quyền riêng tư của Kahf, hãy nhấn nút này để vào phần cài đặt quyền riêng tư của Tài khoản Kahf</translation>
@@ -339,6 +329,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để chạy quy trình kiểm tra an toàn trong phần Cài đặt của Kahf</translation>
  <translation id="3615309852743236517">Chăm sóc móng tay và móng chân</translation>
  <translation id="3620239073311576716">Đồng phục và trang phục công sở</translation>
+ <translation id="3621401353678567613">Để nhận thông báo giảm giá cho sản phẩm bạn theo dõi, hãy bật thông báo trong phần cài đặt.</translation>
  <translation id="362276910939193118">Hiển thị Toàn bộ Lịch sử</translation>
 -<translation id="5043591794632164789">Để dùng camera, hãy cấp quyền truy cập cho Brave trong <ph name="LINK"/>.</translation>
 +<translation id="5043591794632164789">Để dùng camera, hãy cấp quyền truy cập cho Kahf trong <ph name="LINK"/>.</translation>
@@ -352,43 +343,16 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="3630699740441428070">Các quản trị viên của thiết bị này đã định cấu hình đường kết nối mạng của bạn, nhờ đó họ có thể xem lưu lượng truy cập mạng của bạn, kể cả những trang web mà bạn truy cập.</translation>
  <translation id="3632503704576938756">Tính năng chia sẻ màn hình đã được tiếp tục</translation>
  <translation id="3632892046558972264">Tính năng chia sẻ màn hình đã bị tạm dừng</translation>
-@@ -1413,12 +1413,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="3678029195006412963">Không thể ký yêu cầu</translation>
- <translation id="3678914302246317895">Nhập mã xác minh gồm <ph name="OTP_LENGTH"/> chữ số</translation>
- <translation id="3681007416295224113">Thông tin chứng chỉ</translation>
--<translation id="2659564324969662497">Brave ghi nhận các chủ đề bạn quan tâm dựa trên nhật ký duyệt web gần đây của bạn.</translation>
-+<translation id="2659564324969662497">Kahf ghi nhận các chủ đề bạn quan tâm dựa trên nhật ký duyệt web gần đây của bạn.</translation>
- <translation id="3682094733650754138">Lựa chọn điền địa chỉ đã được chọn</translation>
- <translation id="3687920599421452763">Xe tải và xe tải nhỏ</translation>
- <translation id="3693327506115126094">Chọn cách xác minh danh tính của bạn</translation>
- <translation id="3698353241727597930">Quản trị viên đã định cấu hình để <ph name="FILES"/> được lưu vào bộ nhớ <ph name="CLOUD_STORAGE"/> do doanh nghiệp của bạn quản lý. Các tệp này có thể được theo dõi, kiểm tra và giữ lại khi bạn xoá tệp.</translation>
--<translation id="974818914962304978">Nút Tạo trang web, hãy nhấn nút này để tạo nhanh một trang mới trong Brave Sites</translation>
-+<translation id="974818914962304978">Nút Tạo trang web, hãy nhấn nút này để tạo nhanh một trang mới trong Kahf Sites</translation>
- <translation id="3701325639446035885">Bán vé xem sự kiện</translation>
- <translation id="3701427423622901115">Đã xác nhận thao tác đặt lại.</translation>
- <translation id="3701900332588705891">Giá thông thường: <ph name="LOW_PRICE"/> – <ph name="HIGH_PRICE"/></translation>
-@@ -1440,9 +1440,9 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="3717027428350673159"><ph name="BEGIN_LINK"/>Kiểm tra proxy, tường lửa và cấu hình DNS<ph name="END_LINK"/></translation>
- <translation id="3723663469265383848">Trong quá trình cập nhật, bạn sẽ không thể sử dụng thiết bị trong tối đa 10 phút.</translation>
- <translation id="372429172604983730">Các ứng dụng có thể gây ra lỗi này gồm có phần mềm diệt vi-rút, tường lửa và lọc web hoặc phần mềm proxy.</translation>
--<translation id="3838210050876514022"><ph name="CREATE_GOOGLE_SLIDE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một bản trình bày mới trong Brave Trang trình bày</translation>
-+<translation id="3838210050876514022"><ph name="CREATE_GOOGLE_SLIDE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một bản trình bày mới trong Kahf Trang trình bày</translation>
- <translation id="3727309136762649052">Không gian tên</translation>
--<translation id="8077319455765501118">Để sử dụng Trình quản lý mật khẩu của Brave cùng với macOS Keychain, hãy chạy lại Brave và cho phép truy cập Keychain. Các thẻ sẽ mở lại sau khi bạn chạy lại Brave.</translation>
-+<translation id="8077319455765501118">Để sử dụng Trình quản lý mật khẩu của Kahf cùng với macOS Keychain, hãy chạy lại Kahf và cho phép truy cập Keychain. Các thẻ sẽ mở lại sau khi bạn chạy lại Kahf.</translation>
- <translation id="3736739313435669994">Bạn đã chặn không cho các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web. Hãy vào phần cài đặt để <ph name="LINK"/>.</translation>
- <translation id="3738166223076830879">Trình duyệt này do quản trị viên của bạn quản lý.</translation>
- <translation id="3738428049780661523">Đã tạo <ph name="DATE"/></translation>
-@@ -1530,7 +1530,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1564,7 +1564,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="3906954721959377182">Máy tính bảng</translation>
  <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
  <translation id="3910231615117880630">Tìm hiểu thêm về nội dung được nhúng</translation>
 -<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Cách bạn có thể quản lý dữ liệu của mình:<ph name="END_BOLD"/> Brave tự động xoá các trang web mà đã hơn 30 ngày bạn không truy cập. Những trang web bạn truy cập lại có thể xuất hiện lại trong danh sách. Bạn cũng có thể ngăn một trang web đề xuất quảng cáo cho bạn và tắt quảng cáo do trang web gợi ý bất cứ lúc nào trong phần cài đặt Brave.</translation>
 +<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Cách bạn có thể quản lý dữ liệu của mình:<ph name="END_BOLD"/> Kahf tự động xoá các trang web mà đã hơn 30 ngày bạn không truy cập. Những trang web bạn truy cập lại có thể xuất hiện lại trong danh sách. Bạn cũng có thể ngăn một trang web đề xuất quảng cáo cho bạn và tắt quảng cáo do trang web gợi ý bất cứ lúc nào trong phần cài đặt Kahf.</translation>
  <translation id="3921869355029467742">Nhập mã bảo mật của bạn</translation>
+ <translation id="3927538228901078312">Không có bảng so sánh</translation>
  <translation id="3927932062596804919">Từ chối</translation>
- <translation id="3930260846839546333">Túi xách và ví</translation>
-@@ -1587,13 +1587,13 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1630,14 +1630,14 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="4039506337798853114">Để hiện con trỏ, hãy nhấn |<ph name="ACCELERATOR"/>|</translation>
  <translation id="4047351652147966654">18 x 24 inch</translation>
  <translation id="404831776305217138">URL cập nhật cho tiện ích có mã "<ph name="EXTENSION_ID"/>" không hợp lệ hoặc sử dụng lược đồ không được hỗ trợ. Các lược đồ được hỗ trợ là <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/> và <ph name="FILE_SCHEME"/>.</translation>
@@ -400,44 +364,13 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="4056223980640387499">Màu nâu đỏ</translation>
  <translation id="4059523390906550209">Tìm hiểu thêm về biện pháp bảo vệ Dữ liệu nhạy cảm</translation>
  <translation id="4060880210388108757">Nhạc indie và alternative</translation>
+ <translation id="4060883793524802469">Xoá khỏi bảng</translation>
 -<translation id="4161619938555288542">Cho phép Brave giúp bạn tìm ưu đãi chiết khấu cho giỏ hàng của bạn</translation>
 +<translation id="4161619938555288542">Cho phép Kahf giúp bạn tìm ưu đãi chiết khấu cho giỏ hàng của bạn</translation>
  <translation id="406358100705415968">Đồ dùng bảo hộ an toàn lao động</translation>
  <translation id="4065659219963895623">Nhà hàng</translation>
  <translation id="4067774859633143413">Để thoát khỏi chế độ toàn màn hình và xem tệp đã tải xuống, hãy nhấn và giữ |<ph name="ACCELERATOR"/>|</translation>
-@@ -1644,11 +1644,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="4140905530744469899">Mã hồ sơ:</translation>
- <translation id="4142935452406587478">Khay 10</translation>
- <translation id="4148925816941278100">American Express</translation>
--<translation id="4389506709463352529">Cảnh báo này xuất hiện vì trang web bạn đang truy cập không hỗ trợ HTTPS và bạn đang tham gia Chương trình Bảo vệ nâng cao của Brave. <ph name="BEGIN_LEARN_MORE_LINK"/>Tìm hiểu thêm về cảnh báo này<ph name="END_LEARN_MORE_LINK"/></translation>
-+<translation id="4389506709463352529">Cảnh báo này xuất hiện vì trang web bạn đang truy cập không hỗ trợ HTTPS và bạn đang tham gia Chương trình Bảo vệ nâng cao của Kahf. <ph name="BEGIN_LEARN_MORE_LINK"/>Tìm hiểu thêm về cảnh báo này<ph name="END_LEARN_MORE_LINK"/></translation>
- <translation id="4150099059797363385">Phong bì kiểu Trung số 4</translation>
- <translation id="4151403195736952345">Sử dụng giá trị mặc định chung (Phát hiện)</translation>
- <translation id="4152318981910038897">{COUNT,plural, =1{Trang 1}other{Trang {COUNT}}}</translation>
--<translation id="6923879007831202776">Từ giờ trở đi, Brave sẽ xác minh danh tính của bạn trước khi điền phương thức thanh toán. Bạn có thể cập nhật lựa chọn này bất cứ lúc nào trong phần <ph name="IDS_AUTOFILL_MANDATORY_REAUTH_CONFIRMATION_SETTINGS_LINK"/>.</translation>
-+<translation id="6923879007831202776">Từ giờ trở đi, Kahf sẽ xác minh danh tính của bạn trước khi điền phương thức thanh toán. Bạn có thể cập nhật lựa chọn này bất cứ lúc nào trong phần <ph name="IDS_AUTOFILL_MANDATORY_REAUTH_CONFIRMATION_SETTINGS_LINK"/>.</translation>
- <translation id="4159784952369912983">Tím</translation>
- <translation id="4165986682804962316">Cài đặt trang web</translation>
- <translation id="4169535189173047238">Không cho phép</translation>
-@@ -1663,7 +1663,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="4179515394835346607"><ph name="ROW_NAME"/> <ph name="ROW_CONTENT"/></translation>
- <translation id="4186035307311647330">Bỏ theo dõi giá</translation>
- <translation id="4191334393248735295">Độ dài</translation>
--<translation id="9150836098508392713">Nút Xem các mẹo khi dùng Brave, hãy nhấn nút này để tìm hiểu về các tính năng của Brave</translation>
-+<translation id="9150836098508392713">Nút Xem các mẹo khi dùng Kahf, hãy nhấn nút này để tìm hiểu về các tính năng của Kahf</translation>
- <translation id="4195643157523330669">Mở trong thẻ mới</translation>
- <translation id="4196861286325780578">&amp;Làm lại di chuyển</translation>
- <translation id="4199637363739172710">Đồng hồ</translation>
-@@ -1683,7 +1683,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="422722221769396062">Dịch vụ giao đồ ăn của nhà hàng</translation>
- <translation id="4230204356098880324">Trang web có thể yêu cầu dùng và di chuyển máy ảnh của bạn</translation>
- <translation id="4231448684371260244">8 x 13 inch</translation>
--<translation id="2706343222967082402">Brave tự động xoá các chủ đề và trang web gợi ý quảng cáo trong vòng 30 ngày. Ngoài ra, bạn có thể chặn các chủ đề và trang web cụ thể mà bạn không cần.</translation>
-+<translation id="2706343222967082402">Kahf tự động xoá các chủ đề và trang web gợi ý quảng cáo trong vòng 30 ngày. Ngoài ra, bạn có thể chặn các chủ đề và trang web cụ thể mà bạn không cần.</translation>
- <translation id="4235360514405112390">Hợp lệ</translation>
- <translation id="4239799716689808527">Nhãn</translation>
- <translation id="4242380780309416996">Phong bì (Nặng)</translation>
-@@ -1750,9 +1750,9 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1797,9 +1797,9 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="4333561522337981382">Quản lý các cửa sổ trên tất cả màn hình của bạn</translation>
  <translation id="4336219115486912529">{COUNT,plural, =1{Hết hạn ngày mai}other{Hết hạn sau # ngày nữa}}</translation>
  <translation id="4336913590841287350">Chính sách này chưa được hỗ trợ làm chính sách người dùng trên iOS.</translation>
@@ -447,18 +380,18 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="6116812392674177288">Máy tính này không được coi là máy tính do doanh nghiệp quản lý, vì vậy, chính sách này chỉ có thể tự động cài đặt các tiện ích được lưu trữ trên Cửa hàng Brave trực tuyến. URL cập nhật Cửa hàng Brave trực tuyến là "<ph name="CWS_UPDATE_URL"/>".</translation>
 +<translation id="6116812392674177288">Máy tính này không được coi là máy tính do doanh nghiệp quản lý, vì vậy, chính sách này chỉ có thể tự động cài đặt các tiện ích được lưu trữ trên Cửa hàng Kahf trực tuyến. URL cập nhật Cửa hàng Kahf trực tuyến là "<ph name="CWS_UPDATE_URL"/>".</translation>
  <translation id="4342742994656318294">Công viên giải trí</translation>
+ <translation id="4344072791302852930">Thêm thẻ</translation>
  <translation id="4348834659292907206">Kết nối đến <ph name="SITE"/> không an toàn</translation>
- <translation id="4349365535725594680">Không thể chia sẻ nội dung bảo mật</translation>
-@@ -1767,7 +1767,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="437040971055499437">Xảy ra sự kiện bảo mật</translation>
- <translation id="4371591986692297148">Không hoạt động</translation>
- <translation id="4372948949327679948">Giá trị <ph name="VALUE_TYPE"/> mong đợi.</translation>
--<translation id="7617743757131201121">Thêm lại một chủ đề nếu bạn muốn đưa chủ đề đó vào nhóm chủ đề mà Brave có thể lựa chọn khi ước đoán mối quan tâm của bạn</translation>
-+<translation id="7617743757131201121">Thêm lại một chủ đề nếu bạn muốn đưa chủ đề đó vào nhóm chủ đề mà Kahf có thể lựa chọn khi ước đoán mối quan tâm của bạn</translation>
- <translation id="437620492464254965">Cửa chính và cửa sổ</translation>
- <translation id="4377125064752653719">Bạn đã cố truy cập vào <ph name="DOMAIN"/> nhưng chứng chỉ mà máy chủ xuất trình đã bị nhà phát hành thu hồi. Điều này có nghĩa là giấy ủy nhiệm bảo mật mà máy chủ xuất trình hoàn toàn không đáng tin cậy. Bạn có thể đang giao tiếp với kẻ tấn công.</translation>
- <translation id="4378154925671717803">Điện thoại</translation>
-@@ -1810,15 +1810,15 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1828,7 +1828,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="4406896451731180161">kết quả tìm kiếm</translation>
+ <translation id="4408413947728134509">Cookie <ph name="NUM_COOKIES"/></translation>
+ <translation id="4412074349188076601">Cấu hình này được đánh dấu là dễ dàng cài đặt, nhưng vì không có hình ảnh nào được cung cấp cho cấu trúc này nên bạn không thể cài đặt cấu hình này.</translation>
+-<translation id="6647778944129929873">Sử dụng Trình quản lý mật khẩu của Brave và tính năng Tự động điền của Brave để lưu và điền mật khẩu, phương thức thanh toán và địa chỉ</translation>
++<translation id="6647778944129929873">Sử dụng Trình quản lý mật khẩu của Kahf và tính năng Tự động điền của Kahf để lưu và điền mật khẩu, phương thức thanh toán và địa chỉ</translation>
+ <translation id="4414515549596849729">cookie và dữ liệu trang web</translation>
+ <translation id="4415156962929755728">Nhựa (Độ bóng cao)</translation>
+ <translation id="4415426530740016218">Địa chỉ nhận hàng</translation>
+@@ -1859,16 +1859,16 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="448363931695049633">Nhà hàng pizza</translation>
  <translation id="4489023393592172404">Phong bì Kaku 4</translation>
  <translation id="4490717597759821841">A7</translation>
@@ -468,6 +401,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="7622628059331736328">Bạn có thể xem các chủ đề quảng cáo trong phần cài đặt, cũng như chặn những chủ đề bạn không muốn chia sẻ với trang web. Brave cũng tự động xoá những chủ đề quảng cáo đã tồn tại hơn 4 tuần.</translation>
 +<translation id="7622628059331736328">Bạn có thể xem các chủ đề quảng cáo trong phần cài đặt, cũng như chặn những chủ đề bạn không muốn chia sẻ với trang web. Kahf cũng tự động xoá những chủ đề quảng cáo đã tồn tại hơn 4 tuần.</translation>
  <translation id="4500587658229086076">nội dung không an toàn</translation>
+ <translation id="450602096898954067">Nhân viên đánh giá đã qua đào tạo có thể xem dữ liệu để cải thiện tính năng này</translation>
  <translation id="4506176782989081258">Lỗi xác thực: <ph name="VALIDATION_ERROR"/>.</translation>
  <translation id="4506599922270137252">Liên hệ với quản trị viên hệ thống</translation>
  <translation id="450710068430902550">Chia sẻ với quản trị viên</translation>
@@ -478,52 +412,19 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="4515847625438516456">Xe siêu nhỏ và xe nhỏ gọn</translation>
  <translation id="4519245469315452746">Thiết bị của bạn bị gián đoạn trong quá trình cập nhật.</translation>
  <translation id="4520048001084013693">Chính sách của quản trị viên không cho phép tải tệp này xuống</translation>
-@@ -1826,7 +1826,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="4521280267704259211">Phong bì Monarch</translation>
- <translation id="4521916730539354575">Khay bên trái</translation>
- <translation id="4522570452068850558">Chi tiết</translation>
--<translation id="6221032662362020209">Bạn muốn lưu IBAN vào Tài khoản Brave không?</translation>
-+<translation id="6221032662362020209">Bạn muốn lưu IBAN vào Tài khoản Kahf không?</translation>
- <translation id="4523643381056109546">Bảng tín hiệu</translation>
- <translation id="4524138615196389145">Từ giờ trở đi, bạn có thể xác nhận các thẻ nhanh hơn bằng WebAuthn</translation>
- <translation id="45243788195988825">Chặn <ph name="TOPIC"/></translation>
-@@ -1836,7 +1836,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -1885,7 +1885,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="4540780316273593836">Đã xảy ra lỗi</translation>
  <translation id="4541810033354695636">thực tế tăng cường</translation>
  <translation id="4542971377163063093">Khay 6</translation>
 -<translation id="563788859854213593">Để thanh toán nhanh hơn vào lần tới, hãy lưu địa chỉ thanh toán và thông tin thẻ vào Tài khoản Brave của bạn</translation>
 +<translation id="563788859854213593">Để thanh toán nhanh hơn vào lần tới, hãy lưu địa chỉ thanh toán và thông tin thẻ vào Tài khoản Kahf của bạn</translation>
+ <translation id="454441086898495030">Thêm vào <ph name="SET"/>?</translation>
  <translation id="4546730006268514143">Đã hết thời gian chuyển</translation>
  <translation id="455113658016510503">A9</translation>
- <translation id="4556069465387849460">Bạn đang sử dụng phương thức khoá màn hình để điền mật khẩu</translation>
-@@ -1883,12 +1883,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="4663373278480897665">Cho phép máy ảnh</translation>
- <translation id="466561305373967878">Trò chơi cờ bàn</translation>
- <translation id="4668929960204016307">,</translation>
--<translation id="2972922043310308045">Brave ghi nhớ các chủ đề mà bạn quan tâm dựa trên nhật ký duyệt web của bạn trong vài tuần qua.</translation>
-+<translation id="2972922043310308045">Kahf ghi nhớ các chủ đề mà bạn quan tâm dựa trên nhật ký duyệt web của bạn trong vài tuần qua.</translation>
- <translation id="4670064810192446073">Thực tế ảo</translation>
- <translation id="4671339777629075741">Phong bì DL</translation>
- <translation id="467662567472608290">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN"/>; chứng chỉ bảo mật của máy chủ này có lỗi. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
- <translation id="4677585247300749148"><ph name="URL"/> muốn phản hồi các sự kiện trợ năng</translation>
--<translation id="8197094463444457125">Brave Trang trình bày</translation>
-+<translation id="8197094463444457125">Kahf Trang trình bày</translation>
- <translation id="4682496302933121474">Dịch trang này?</translation>
- <translation id="468314109939257734">Xem số thẻ ảo của bạn</translation>
- <translation id="4686942373615810936">Vừa tạo</translation>
-@@ -1956,7 +1956,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="4792686369684665359">Thông tin bạn sắp gửi không an toàn</translation>
- <translation id="4793219378458250238">11 x 12 inch</translation>
- <translation id="4796594887379589189">Mã tài khoản lệnh</translation>
--<translation id="7110430050177876111">Hãy nhập ngày hết hạn và số CVC của <ph name="CREDIT_CARD"/> để cập nhật thông tin chi tiết thẻ của bạn. Sau khi bạn xác nhận, thông tin chi tiết thẻ trong Tài khoản Brave của bạn sẽ được chia sẻ với trang web này.</translation>
-+<translation id="7110430050177876111">Hãy nhập ngày hết hạn và số CVC của <ph name="CREDIT_CARD"/> để cập nhật thông tin chi tiết thẻ của bạn. Sau khi bạn xác nhận, thông tin chi tiết thẻ trong Tài khoản Kahf của bạn sẽ được chia sẻ với trang web này.</translation>
- <translation id="4798269756263412078">Nhận thông báo nếu có chương trình giảm giá trên một trang web bất kỳ. Chúng tôi sẽ gửi thông báo đến email của bạn.</translation>
- <translation id="4800132727771399293">Kiểm tra ngày hết hạn và CVC của bạn rồi thử lại</translation>
- <translation id="4803924862070940586"><ph name="CURRENCY_CODE"/> <ph name="FORMATTED_TOTAL_AMOUNT"/></translation>
-@@ -1967,19 +1967,19 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="4816492930507672669">Chỉnh cho vừa với trang</translation>
+@@ -2023,19 +2023,19 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="4819347708020428563">Chỉnh sửa chú thích ở chế độ xem mặc định?</translation>
  <translation id="4822493756793346865">Giá thông thường được xác định dựa vào các cửa hàng trên web trong 90 ngày qua.</translation>
+ <translation id="4822922322149719535">Xem lại nhật ký lỗi</translation>
 -<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một trang tính mới trong Brave Trang tính</translation>
 +<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một trang tính mới trong Kahf Trang tính</translation>
  <translation id="4826588772550366629">máy ảnh và micrô</translation>
@@ -540,10 +441,10 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="4850886885716139402">Xem</translation>
 -<translation id="3418609161696289726">Tạo nhanh một ghi chú mới trong Brave Keep</translation>
 +<translation id="3418609161696289726">Tạo nhanh một ghi chú mới trong Kahf Keep</translation>
+ <translation id="4855395119669662878">Quản trị viên của bạn sẽ bắt đầu tải các tệp của bạn lên <ph name="CLOUD_PROVIDER"/> vào <ph name="DATE_TIME"/>. Hãy duy trì kết nối thiết bị cho đến khi quá trình tải tệp lên hoàn tất. Trong quá trình tải lên, bạn sẽ chỉ có thể đọc các tệp trên máy.</translation>
  <translation id="485902285759009870">Đang xác minh mã...</translation>
- <translation id="4864406669374375262">Đã sao chép chuỗi phiên bản vào bảng nhớ tạm</translation>
- <translation id="486459320933704969">Bạn phải được cha mẹ hoặc người giám hộ cho phép truy cập trang web này</translation>
-@@ -2031,7 +2031,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="4860260582253463350">Để giúp bạn truy cập YouTube, chúng tôi cần xác minh danh tính của bạn. Bạn sẽ sử dụng các chế độ cài đặt mà cha mẹ hoặc người giám hộ thiết lập trong Family Link.</translation>
+@@ -2089,7 +2089,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="4930153903256238152">Dung tích lớn</translation>
  <translation id="4930714375720679147">Bật</translation>
  <translation id="4932035752129140860">Văn bản bạn dán hoặc đính kèm được gửi đến Google Cloud hoặc bên thứ ba để phân tích. Ví dụ: văn bản đó có thể được quét để tìm dữ liệu nhạy cảm và có thể được lưu trữ dựa trên chính sách của công ty. Quản trị viên cũng có thể thấy văn bản này.</translation>
@@ -551,8 +452,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="4933468175699107356">Nhấp chuột phải để Kahf tự động điền thông tin đã lưu (như tên hoặc địa chỉ của bạn) vào biểu mẫu bất kỳ</translation>
  <translation id="4934780484581617878">Quản lý cửa sổ</translation>
  <translation id="4936134414789135531">Không tìm thấy <ph name="VALUE_NAME"/> đã chèn.</translation>
- <translation id="4936675324097895694">Tài chính</translation>
-@@ -2074,13 +2074,13 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="4936573216809994970">Quá trình tải tệp lên <ph name="CLOUD_PROVIDER"/> sẽ bắt đầu sau 1 giờ</translation>
+@@ -2133,11 +2133,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="5018422839182700155">Không thể mở trang này</translation>
  <translation id="5018802455907704660">16 x 20 inch</translation>
  <translation id="5019198164206649151">Không thể lưu trữ do chương trình phụ trợ ở trạng thái xấu</translation>
@@ -562,16 +463,14 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="6516968977334148048">Theo dõi giá bằng Brave</translation>
 +<translation id="6516968977334148048">Theo dõi giá bằng Kahf</translation>
  <translation id="5023310440958281426">Kiểm tra chính sách của quản trị viên của bạn</translation>
+-<translation id="7993217516063481081">Thanh toán nhanh hơn khi bạn lưu thẻ. Thông tin chi tiết về thẻ được mã hoá trong Tài khoản Brave của bạn.</translation>
++<translation id="7993217516063481081">Thanh toán nhanh hơn khi bạn lưu thẻ. Thông tin chi tiết về thẻ được mã hoá trong Tài khoản Kahf của bạn.</translation>
  <translation id="5030338702439866405">Cấp bởi</translation>
  <translation id="503069730517007720">Cần có chứng chỉ gốc cho "<ph name="SOFTWARE_NAME"/>" nhưng chứng chỉ này chưa được cài đặt. Hãy yêu cầu quản trị viên CNTT của bạn xem hướng dẫn cấu hình cho "<ph name="SOFTWARE_NAME"/>" để khắc phục sự cố này. <ph name="FURTHER_EXPLANATION"/></translation>
--<translation id="6425384654920630035">Giới thiệu về Brave Dịch</translation>
-+<translation id="6425384654920630035">Giới thiệu về Kahf Dịch</translation>
- <translation id="503498442187459473"><ph name="HOST"/> muốn sử dụng máy ảnh và micrô của bạn</translation>
- <translation id="5035135400558156732">Làm vườn</translation>
- <translation id="503574301575803523">SRA3</translation>
-@@ -2109,11 +2109,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="5087580092889165836">Thêm thẻ</translation>
+ <translation id="5034930251282078640">Thêm vào Bảng so sánh?</translation>
+@@ -2170,11 +2170,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="5088142053160410913">Thông báo gửi đến trình vận hành</translation>
+ <translation id="5090647584136241764">Thêm các thẻ có sản phẩm tương tự để dễ dàng so sánh những thông tin bạn quan tâm</translation>
  <translation id="5093232627742069661">Gấp kiểu chữ Z</translation>
 -<translation id="4906192414477726331">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN"/>; chứng chỉ bảo mật của máy chủ này không được Brave tin cậy. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
 +<translation id="4906192414477726331">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN"/>; chứng chỉ bảo mật của máy chủ này không được Kahf tin cậy. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
@@ -583,21 +482,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="510644072453496781">Bìa cứng (Mặt đầu)</translation>
  <translation id="5108881358339761672">Trang web không an</translation>
  <translation id="5109892411553231226">Quản lý phương thức thanh toán</translation>
-@@ -2150,10 +2150,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="5161334686036120870">Tiêu đề:</translation>
- <translation id="5161506081086828129">Khay xếp chồng 9</translation>
- <translation id="5164798890604758545">Nhập văn bản</translation>
--<translation id="5507530832404660443">Công cụ AI thử nghiệm này không phải lúc nào cũng chính xác. Để cải thiện công cụ này, nội dung của bạn sẽ được gửi tới Brave.
-+<translation id="5507530832404660443">Công cụ AI thử nghiệm này không phải lúc nào cũng chính xác. Để cải thiện công cụ này, nội dung của bạn sẽ được gửi tới Kahf.
-     <ph name="BEGIN_LINK"/>Tìm hiểu thêm<ph name="END_LINK"/></translation>
--<translation id="2996889577833788807">Hãy nhập số CVC của <ph name="CREDIT_CARD"/>. Sau khi bạn xác nhận, thông tin chi tiết thẻ trong Tài khoản Brave của bạn sẽ được chia sẻ với trang web này.</translation>
--<translation id="8515152881111950319">Bạn có thể mất quyền truy cập vào tài khoản của tổ chức mình hoặc bị đánh cắp danh tính. Brave khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
-+<translation id="2996889577833788807">Hãy nhập số CVC của <ph name="CREDIT_CARD"/>. Sau khi bạn xác nhận, thông tin chi tiết thẻ trong Tài khoản Kahf của bạn sẽ được chia sẻ với trang web này.</translation>
-+<translation id="8515152881111950319">Bạn có thể mất quyền truy cập vào tài khoản của tổ chức mình hoặc bị đánh cắp danh tính. Kahf khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
- <translation id="5171045022955879922">Tìm kiếm hoặc nhập URL</translation>
- <translation id="5172758083709347301">Máy</translation>
- <translation id="5177076414499237632">Tìm hiểu về nguồn và chủ đề của trang này</translation>
-@@ -2280,14 +2280,14 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2346,7 +2346,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="5425082381151187189">Trang trí nhà và nội thất</translation>
  <translation id="5426179911063097041"><ph name="SITE"/> muốn gửi thông báo cho bạn</translation>
  <translation id="5430298929874300616">Xóa dấu trang</translation>
@@ -606,58 +491,25 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
          <ph name="BEGIN_LIST"/>
            <ph name="LIST_ITEM"/>Nhật ký duyệt web
            <ph name="LIST_ITEM"/>Cookie và dữ liệu trang web
-           <ph name="LIST_ITEM"/>Thông tin đã nhập vào biểu mẫu
-         <ph name="END_LIST"/></translation>
- <translation id="5443468954631487277">Thứ tự đảo ngược hướng lên</translation>
--<translation id="2344768412493754952">Để tắt PIX trong Brave, hãy chuyển đến phần <ph name="BEGIN_LINK1"/>cài đặt thông tin thanh toán<ph name="END_LINK1"/></translation>
-+<translation id="2344768412493754952">Để tắt PIX trong Kahf, hãy chuyển đến phần <ph name="BEGIN_LINK1"/>cài đặt thông tin thanh toán<ph name="END_LINK1"/></translation>
- <translation id="5447235695608032700">Cho phép <ph name="SITE"/> sử dụng thông tin mà họ đã lưu về bạn</translation>
- <translation id="5447765697759493033">Trang web này sẽ không được dịch</translation>
- <translation id="5452270690849572955">Không thể tìm thấy trang <ph name="HOST_NAME"/> này</translation>
-@@ -2351,8 +2351,8 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="555037537507405574">tính năng nâng cao của máy in</translation>
- <translation id="555128936272638662">Phụ kiện di động và phụ kiện không dây</translation>
- <translation id="5551890439174915351">100 x 200 mm</translation>
--<translation id="6084314943327785510">Brave kiểm tra định kỳ các mật khẩu của bạn so với những danh sách đã đăng trên Internet. Khi thực hiện việc này, mật khẩu và tên người dùng của bạn được mã hóa nên không ai có thể đọc được, kể cả Brave.</translation>
--<translation id="4362225295386962644">Khi bạn dùng một mật khẩu đã bị công khai trên mạng, Brave sẽ cảnh báo cho bạn. Trong quá trình này, mật khẩu và tên người dùng của bạn được mã hoá nên không ai đọc được, kể cả Brave.</translation>
-+<translation id="6084314943327785510">Kahf kiểm tra định kỳ các mật khẩu của bạn so với những danh sách đã đăng trên Internet. Khi thực hiện việc này, mật khẩu và tên người dùng của bạn được mã hóa nên không ai có thể đọc được, kể cả Kahf.</translation>
-+<translation id="4362225295386962644">Khi bạn dùng một mật khẩu đã bị công khai trên mạng, Kahf sẽ cảnh báo cho bạn. Trong quá trình này, mật khẩu và tên người dùng của bạn được mã hoá nên không ai đọc được, kể cả Kahf.</translation>
- <translation id="5556459405103347317">Tải lại</translation>
- <translation id="5558083606899411167">Máy điều hoà không khí</translation>
- <translation id="5558125320634132440">Trang web này bị chặn vì có thể chứa nội dung dành cho người trưởng thành</translation>
-@@ -2364,7 +2364,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2422,7 +2422,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="5559311991468302423">Xoá địa chỉ</translation>
+ <translation id="5560088892362098740">Ngày hết hạn</translation>
+ <translation id="55635442646131152">Đường viền tài liệu</translation>
+-<translation id="1702142849385752335">Để cho phép Brave dùng thông tin vị trí, hãy cấp quyền sử dụng trong <ph name="LINK"/>.</translation>
++<translation id="1702142849385752335">Để cho phép Kahf dùng thông tin vị trí, hãy cấp quyền sử dụng trong <ph name="LINK"/>.</translation>
+ <translation id="5565735124758917034">Đang hoạt động</translation>
+ <translation id="5569030697349375295">Phần mềm tài chính và kế toán</translation>
  <translation id="5570825185877910964">Bảo vệ tài khoản</translation>
- <translation id="5571083550517324815">Không thể nhận hàng từ địa chỉ này. Chọn một địa chỉ khác.</translation>
- <translation id="5572434905385510939">22 x 28 inch</translation>
--<translation id="1254756632288991504">Vui lòng khởi động và đăng nhập vào Brave để Brave có thể kiểm tra xem bạn có được phép truy cập trang web này không.</translation>
-+<translation id="1254756632288991504">Vui lòng khởi động và đăng nhập vào Kahf để Kahf có thể kiểm tra xem bạn có được phép truy cập trang web này không.</translation>
- <translation id="5578606540385219379">Nhà cung cấp dịch vụ</translation>
- <translation id="5580958916614886209">Kiểm tra tháng hết hạn của bạn và thử lại</translation>
- <translation id="558420943003240152">Quản lý mật khẩu và khoá đăng nhập…</translation>
-@@ -2443,10 +2443,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="5723873695528696965">Điều khiển và lập trình lại thiết bị MIDI</translation>
- <translation id="5725297205162868298">Lối tắt không được bắt đầu bằng ký tự @: "<ph name="SHORTCUT_NAME"/>"</translation>
- <translation id="5729442113829771034">Giáo dục mầm non</translation>
--<translation id="3006790309890592320">Brave khuyên bạn nên đặt lại mật khẩu của mình nếu đã sử dụng lại mật khẩu này trên các trang web khác.</translation>
-+<translation id="3006790309890592320">Kahf khuyên bạn nên đặt lại mật khẩu của mình nếu đã sử dụng lại mật khẩu này trên các trang web khác.</translation>
- <translation id="5732392974455271431">Cha mẹ của bạn có thể bỏ chặn trang web cho bạn</translation>
--<translation id="5110141686029759199">Nút Tạo biểu mẫu, hãy nhấn nút này để tạo nhanh một biểu mẫu mới trong Brave Biểu mẫu</translation>
--<translation id="5576538372759072019">{NUM_CARDS,plural, =1{Lưu thẻ vào Tài khoản Brave}other{Lưu các thẻ vào Tài khoản Brave}}</translation>
-+<translation id="5110141686029759199">Nút Tạo biểu mẫu, hãy nhấn nút này để tạo nhanh một biểu mẫu mới trong Kahf Biểu mẫu</translation>
-+<translation id="5576538372759072019">{NUM_CARDS,plural, =1{Lưu thẻ vào Tài khoản Kahf}other{Lưu các thẻ vào Tài khoản Kahf}}</translation>
- <translation id="5738385766833540397">Quản lý cách nhận thông báo khi các sản phẩm bạn theo dõi được giảm giá</translation>
- <translation id="5740911612628596808">Phong bì C9</translation>
- <translation id="5742806904559466333">Quán bar, câu lạc bộ và cuộc sống về đêm</translation>
-@@ -2507,7 +2507,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2575,7 +2575,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="5877359070305966420">Nguồn nhân lực</translation>
  <translation id="5879272455334365707">Quản lý và lập kế hoạch tài chính</translation>
  <translation id="5879989559903563723">Không được phép ở Chế độ khách</translation>
 -<translation id="8967688963142514142">Chuyển đến trang kiểm tra an toàn trên Brave</translation>
 +<translation id="8967688963142514142">Chuyển đến trang kiểm tra an toàn trên Kahf</translation>
  <translation id="5884465125445718607">Phong bì kiểu Trung số 6</translation>
+ <translation id="5886961930368713749">Gửi ý kiến phản hồi về tính năng So sánh</translation>
  <translation id="5887400589839399685">Đã lưu thẻ</translation>
- <translation id="5887687176710214216">Lần truy cập gần đây nhất: hôm qua</translation>
-@@ -2562,10 +2562,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2631,10 +2631,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="5989320800837274978">Cả máy chủ proxy cố định và URL tập lệnh .pac đều chưa được chỉ định.</translation>
  <translation id="5992691462791905444">Gấp kiểu chữ Z kỹ thuật</translation>
  <translation id="5992805036496113940">Xem thông tin được dùng để hiển thị quảng cáo cho bạn</translation>
@@ -669,11 +521,20 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="4496834749307444910">Kahf tích hợp sẵn các tính năng an toàn nhằm bảo vệ bạn khi bạn duyệt web, chẳng hạn như Duyệt web An toàn của Kahf – tính năng <ph name="BEGIN_LINK"/>vừa phát hiện thấy phần mềm độc hại<ph name="END_LINK"/> trên trang web bạn đang cố gắng truy cập.</translation>
  <translation id="6000528814684428358">Nhạc hard rock và progressive rock</translation>
  <translation id="6000758707621254961"><ph name="RESULT_COUNT"/> kết quả cho '<ph name="SEARCH_TEXT"/>'</translation>
- <translation id="6002122790816966947">Các thiết bị của bạn</translation>
-@@ -2629,17 +2629,17 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="6106989379647458772">Trang web tại <ph name="PAGE"/> có thể tạm thời không hoạt động hoặc có thể đã được chuyển vĩnh viễn sang địa chỉ web mới.</translation>
+ <translation id="6001839398155993679">Bắt đầu</translation>
+@@ -2692,7 +2692,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="6080696365213338172">Bạn đã truy cập nội dung bằng chứng chỉ do quản trị viên cấp. Dữ liệu mà bạn cung cấp cho <ph name="DOMAIN"/> có thể bị quản trị viên của bạn chặn.</translation>
+ <translation id="6085149458302186532">Nhãn (Có màu)</translation>
+ <translation id="6087312102907839798">Nội dung tìm kiếm có liên quan</translation>
+-<translation id="7851017866080575588">Các thẻ bạn xoá khỏi nhật ký duyệt web trên Brave vẫn xuất hiện trong các bảng so sánh</translation>
++<translation id="7851017866080575588">Các thẻ bạn xoá khỏi nhật ký duyệt web trên Kahf vẫn xuất hiện trong các bảng so sánh</translation>
+ <translation id="6093795393556121384">Thẻ của bạn đã được xác minh</translation>
+ <translation id="6094273045989040137">Chú thích</translation>
+ <translation id="6094290315941448991">Theo chính sách của quản trị viên, khi màn hình có nội dung bí mật, tính năng ghi màn hình sẽ bị tắt.</translation>
+@@ -2704,17 +2704,17 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6107012941649240045">Cấp cho</translation>
  <translation id="6107924765192360631">Bạn chỉ cần nhập vài từ hoặc bản nháp đầu tiên là sẽ được gợi ý cách viết.</translation>
+ <translation id="6108580855199168381">Chi tiết về chứng chỉ</translation>
 -<translation id="5539282829066374332">Công cụ tìm kiếm của bạn trong Brave</translation>
 +<translation id="5539282829066374332">Công cụ tìm kiếm của bạn trong Kahf</translation>
  <translation id="6108849843016142864">Bò sát và lưỡng cư</translation>
@@ -692,7 +553,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="6126565365696310362">Phong bì kiểu Trung số 2</translation>
  <translation id="6127379762771434464">Đã xóa mục</translation>
  <translation id="6131824478727057281">vị trí</translation>
-@@ -2661,15 +2661,15 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2736,14 +2736,14 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6160391204859821737">Bật một tính năng về quyền riêng tư trong quảng cáo</translation>
  <translation id="6165508094623778733">Tìm hiểu thêm</translation>
  <translation id="6167577165590485365">Lần tìm nạp mới nhất:</translation>
@@ -705,13 +566,11 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="6180316780098470077">Khoảng thời gian thử lại</translation>
  <translation id="6182972682129119950">A4x5</translation>
 -<translation id="1713601041945301465">Brave tự động hạn chế cookie của bên thứ ba</translation>
--<translation id="3074465702767827385">Thông tin thẻ sẽ được mã hoá khi bạn lưu vào Tài khoản Brave và dùng thẻ để thanh toán qua mạng</translation>
 +<translation id="1713601041945301465">Kahf tự động hạn chế cookie của bên thứ ba</translation>
-+<translation id="3074465702767827385">Thông tin thẻ sẽ được mã hoá khi bạn lưu vào Tài khoản Kahf và dùng thẻ để thanh toán qua mạng</translation>
  <translation id="6194209731893739467">Xem tất cả sản phẩm bạn theo dõi tại đây</translation>
  <translation id="6195163219142236913">Cookie của bên thứ ba bị hạn chế</translation>
  <translation id="6195371403461054755">Địa chất học</translation>
-@@ -2683,29 +2683,29 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2757,15 +2757,15 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6215936431492593050">Kim loại (Satin)</translation>
  <translation id="6217950634729714357">Đồ nội thất nhà bếp và phòng ăn</translation>
  <translation id="6218305986815100395">Không thể bật thẻ ảo</translation>
@@ -723,12 +582,14 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="5286511760116495417">Bạn có muốn lưu thông tin thẻ này vào Tài khoản Kahf không?</translation>
  <translation id="6221892641068781024">Chế độ xem đơn giản</translation>
  <translation id="6222527803348563979">Văn phòng phẩm</translation>
+ <translation id="62231116988543150">Có thể cài đặt ứng dụng web</translation>
  <translation id="6224281071334553713">Đá quý và đồ trang sức</translation>
 -<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để cá nhân hoá các công cụ hỗ trợ tiếp cận của bạn trong phần Cài đặt của Brave</translation>
 +<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để cá nhân hoá các công cụ hỗ trợ tiếp cận của bạn trong phần Cài đặt của Kahf</translation>
  <translation id="6228346913624365233">Xe hạng sang</translation>
  <translation id="6229196330202833460">Truyền trực tuyến phim và truyền hình</translation>
  <translation id="6234122620015464377">Cắt bỏ sau mỗi tài liệu</translation>
+@@ -2773,17 +2773,17 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6236290670123303279">Quản lý chế độ cài đặt</translation>
  <translation id="623825323736974198">Quản lý các trang web sẽ luôn hoạt động và không bị lấy lại bộ nhớ</translation>
  <translation id="6240447795304464094">Biểu trưng của Google Pay</translation>
@@ -736,6 +597,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="4174528239215311406">Để sử dụng Trình quản lý mật khẩu của Kahf trên hệ điều hành của bạn, hãy chạy lại Kahf và cho phép truy cập vào trình quản lý mật khẩu trên máy tính. Các thẻ sẽ mở lại sau khi bạn chạy lại Kahf.</translation>
  <translation id="6241121617266208201">Ẩn các nội dung đề xuất</translation>
  <translation id="624499991300733384">Dịch vụ bộ sắp xếp bản in</translation>
+ <translation id="6246316216123107851"><ph name="NUM_DAYS"/> ngày trước</translation>
+ <translation id="6246868321321344665">Tổ chức bạn có thể xem dữ liệu duyệt web, chẳng hạn như mật khẩu và nhật ký trong cả hồ sơ công việc và hồ sơ cá nhân</translation>
  <translation id="6250932670816326647">Sản phẩm tắm gội và chăm sóc cơ thể</translation>
  <translation id="6251906504834538140">{0,plural, =1{Tệp đã bị chặn không cho di chuyển}other{<ph name="FILE_COUNT"/> tệp đã bị chặn không cho di chuyển}}</translation>
 -<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để quản lý các tệp bạn đã tải xuống trong Brave</translation>
@@ -747,19 +610,10 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="6259156558325130047">&amp;Làm lại sắp xếp lại</translation>
  <translation id="6263376278284652872">Dấu trang trên <ph name="DOMAIN"/></translation>
  <translation id="6264376385120300461">Vẫn tải xuống</translation>
-@@ -2725,7 +2725,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="2062144347205601194">Những kẻ tấn công trên trang web bạn đang cố gắng truy cập có thể lừa bạn cài đặt phần mềm độc hại gây ảnh hưởng đến cách bạn duyệt web – chẳng hạn như bằng cách thay đổi trang chủ hoặc hiển thị thêm quảng cáo trên các trang web bạn truy cập. Bạn nên quay lại trang an toàn để tránh bị tổn hại. <ph name="BEGIN_LEARN_MORE_LINK"/>Tìm hiểu thêm về cảnh báo này<ph name="END_LEARN_MORE_LINK"/></translation>
- <translation id="628877850550444614">Đã tìm thấy ưu đãi giảm giá</translation>
- <translation id="6289939620939689042">Màu trang</translation>
--<translation id="5035989418943891979">Công cụ tìm kiếm của bạn trong Brave</translation>
-+<translation id="5035989418943891979">Công cụ tìm kiếm của bạn trong Kahf</translation>
- <translation id="6293309776179964942">JIS B5</translation>
- <translation id="6295618774959045776">CVC:</translation>
- <translation id="6295855836753816081">Đang lưu...</translation>
-@@ -2740,11 +2740,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="6307968763353904914">Ngân hàng của bạn hiện không hỗ trợ thẻ ảo cho phương thức thanh toán này nhưng bạn vẫn có thể thanh toán trực tuyến bằng <ph name="CARD_LABEL"/>.</translation>
+@@ -2819,11 +2819,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6311410654831092784">Giấy nền trơn</translation>
  <translation id="6312113039770857350">Trang web hiện không khả dụng</translation>
+ <translation id="6316110367871394043">Đã tạm dừng tải tệp lên <ph name="CLOUD_PROVIDER"/></translation>
 -<translation id="1413891145337537586">Mới: Các lựa chọn trong Family Link cho Brave sẽ áp dụng tại đây</translation>
 +<translation id="1413891145337537586">Mới: Các lựa chọn trong Family Link cho Kahf sẽ áp dụng tại đây</translation>
  <translation id="63172326633386613">Quản lý chế độ cài đặt hỗ trợ tiếp cận</translation>
@@ -770,16 +624,16 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="6328639280570009161">Thử tắt dự đoán mạng</translation>
  <translation id="6328784461820205019">"Kết nối của bạn không phải là kết nối riêng tư" hoặc "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" hoặc "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" hoặc "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" hoặc "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" hoặc "Lỗi chứng chỉ SSL"</translation>
  <translation id="6335029926534404762">Giày thể thao</translation>
-@@ -2855,7 +2855,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="6502991525169604759">Không bao gồm các thay đổi của bạn</translation>
- <translation id="6506959208958864820">Phong bì</translation>
- <translation id="6507117483253822672">Viết lách tự tin hơn ở bất cứ đâu trên web</translation>
--<translation id="3960299545138990065">Khởi động lại Brave</translation>
-+<translation id="3960299545138990065">Khởi động lại Kahf</translation>
- <translation id="6513005815064132016">Trang web có thể yêu cầu theo dõi vị trí của máy ảnh</translation>
- <translation id="6517596291481585650">Cảnh báo: Chính sách này không phải là danh sách nên không được hợp nhất dưới dạng danh sách như chỉ định trong chính sách.</translation>
- <translation id="6518133107902771759">Xác minh</translation>
-@@ -2863,11 +2863,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2874,7 +2874,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="640163077447496506">Hết hạn hôm nay</translation>
+ <translation id="6402537308870515461">Bạn cần xem xét trước khi di chuyển</translation>
+ <translation id="6403167778944553">Phòng ngủ và phòng tắm</translation>
+-<translation id="1939189437759050709">Tiêu đề thẻ và URL của các trang mà bạn thêm vào bảng sẽ được gửi đến Brave cũng như được lưu vào tài khoản <ph name="EMAIL"/> của bạn. Nhân viên đánh giá có thể xem những tiêu đề và URL đó để cải thiện tính năng này.</translation>
++<translation id="1939189437759050709">Tiêu đề thẻ và URL của các trang mà bạn thêm vào bảng sẽ được gửi đến Kahf cũng như được lưu vào tài khoản <ph name="EMAIL"/> của bạn. Nhân viên đánh giá có thể xem những tiêu đề và URL đó để cải thiện tính năng này.</translation>
+ <translation id="6404511346730675251">Chỉnh sửa dấu trang</translation>
+ <translation id="6405181733356710802">Tiếp tục truy cập <ph name="APP_NAME"/>?</translation>
+ <translation id="6410264514553301377">Nhập ngày hết hạn và CVC cho <ph name="CREDIT_CARD"/></translation>
+@@ -2943,11 +2943,11 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="65203098586853226">Đang dịch từ <ph name="SOURCE"/> sang <ph name="TARGET"/></translation>
  <translation id="6521745193039995384">Không hoạt động</translation>
  <translation id="6522682797352430154">Nhạc cổ điển</translation>
@@ -791,24 +645,16 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="4126692285908824778">Thẻ này được lưu trong Tài khoản Brave của bạn để bạn có thể sử dụng trên các dịch vụ của Brave.</translation>
 +<translation id="4126692285908824778">Thẻ này được lưu trong Tài khoản Kahf của bạn để bạn có thể sử dụng trên các dịch vụ của Kahf.</translation>
  <translation id="6536221421038631327">Nếu bạn xoá gói thuê bao Passpoint khỏi <ph name="DEVICE_TYPE"/>, các mạng liên kết cũng sẽ bị xoá. Hãy liên hệ với "<ph name="FRIENDLY_NAME"/>" nếu bạn muốn thực hiện các thay đổi đối với gói thuê bao. <ph name="LEARN_MORE"/></translation>
+ <translation id="653801826293432362">Để xem bảng so sánh, hãy bật tính năng đồng bộ hoá</translation>
  <translation id="6539092367496845964">Đã xảy ra lỗi. Hãy thử lại sau.</translation>
- <translation id="6540488083026747005">Bạn đã cho phép cookie của bên thứ ba trên trang web này</translation>
-@@ -2880,7 +2880,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="6556866813142980365">Làm lại</translation>
- <translation id="6557715786897013164">14 x 17 inch</translation>
- <translation id="6560786330438719938">Số ứng dụng đã cài đặt hoặc đã bị gỡ cài đặt và tần suất sử dụng</translation>
--<translation id="3720758671413152948">Nút Quản lý phương thức thanh toán, hãy nhấn nút này để quản lý thông tin thanh toán và thẻ tín dụng của bạn trong phần cài đặt của Brave</translation>
-+<translation id="3720758671413152948">Nút Quản lý phương thức thanh toán, hãy nhấn nút này để quản lý thông tin thanh toán và thẻ tín dụng của bạn trong phần cài đặt của Kahf</translation>
- <translation id="6569060085658103619">Bạn đang xem trang tiện ích</translation>
- <translation id="6573200754375280815">Đục 2 lỗ bên phải</translation>
- <translation id="6577792494180292262">Đầu tư mạo hiểm</translation>
-@@ -2896,25 +2896,25 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -2977,26 +2977,26 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6597665340361269064">90 độ</translation>
  <translation id="6598976221101665070">Phim chính kịch</translation>
  <translation id="6599642189720630047">Sản phẩm bạn theo dõi</translation>
 -<translation id="5976895887103591798">Brave cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.
 +<translation id="5976895887103591798">Kahf cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.
              <ph name="NEW_LINE"/>Nếu các tính năng của trang web không hoạt động, <ph name="START_LINK"/>hãy thử tạm thời cho phép cookie của bên thứ ba<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">theo dõi cử chỉ tay</translation>
 -<translation id="5887670611153282204">Tìm hiểu thêm về công cụ tìm kiếm của bạn trong Brave</translation>
 +<translation id="5887670611153282204">Tìm hiểu thêm về công cụ tìm kiếm của bạn trong Kahf</translation>
  <translation id="6615297766614333076">Khay xếp chồng 2</translation>
@@ -833,9 +679,9 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="6648524591329069940">Phông chữ Serif</translation>
  <translation id="6649510485211003056">195 x 270 mm</translation>
  <translation id="6651270836885078973">Người quản lý:</translation>
-@@ -2936,9 +2936,9 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="6688743156324860098">Cập nhật…</translation>
+@@ -3019,9 +3019,9 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6688775486821967877">Thẻ ảo hiện chưa dùng được, vui lòng thử lại sau</translation>
+ <translation id="6688851075017682769">Địa chỉ kiểm thử theo quốc gia</translation>
  <translation id="6689249931105087298">Tương đối có nén điểm đen</translation>
 -<translation id="5406652219015697259">Brave đang đề xuất lưu thẻ của bạn vào Tài khoản Brave vì bạn đã đăng nhập. Bạn có thể thay đổi hoạt động này trong phần cài đặt. Tên chủ thẻ được lấy từ tài khoản của bạn.</translation>
 +<translation id="5406652219015697259">Kahf đang đề xuất lưu thẻ của bạn vào Tài khoản Kahf vì bạn đã đăng nhập. Bạn có thể thay đổi hoạt động này trong phần cài đặt. Tên chủ thẻ được lấy từ tài khoản của bạn.</translation>
@@ -844,32 +690,46 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để Tìm thiết bị của tôi của bạn trong Tài khoản Kahf</translation>
  <translation id="6695428916538794739">Phim hành động và phiêu lưu</translation>
  <translation id="6696424331653607346">Hướng dẫn và thông tin du lịch</translation>
- <translation id="6698097747703777657">Bạn chưa nhận được mã? <ph name="BEGIN_LINK"/>Nhận mã mới<ph name="END_LINK"/></translation>
-@@ -2979,7 +2979,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="6696575039575740785">Không cho phép cài đặt ứng dụng web</translation>
+@@ -3033,7 +3033,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="6704458454638854812">Thuộc tính "custom_size" đã được đặt, tên dự kiến là "custom".</translation>
+ <translation id="6706005862292023715">Vật dụng phụ trợ cho cửa sổ và rèm</translation>
+ <translation id="6706210727756204531">Phạm vi</translation>
+-<translation id="1162411425302454249">Không thể lưu IBAN này vào Tài khoản Brave của bạn. Thay vào đó, IBAN sẽ được lưu vào Brave trên thiết bị này.</translation>
++<translation id="1162411425302454249">Không thể lưu IBAN này vào Tài khoản Kahf của bạn. Thay vào đó, IBAN sẽ được lưu vào Kahf trên thiết bị này.</translation>
+ <translation id="6709133671862442373">Tin tức</translation>
+ <translation id="6710213216561001401">Trước</translation>
+ <translation id="6710594484020273272">&lt;Nhập cụm từ tìm kiếm&gt;</translation>
+@@ -3066,10 +3066,10 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+ <translation id="6767985426384634228">Cập nhật địa chỉ?</translation>
  <translation id="6770747695101757579">Giấy (Cotton)</translation>
  <translation id="677257480647123231">An toàn cho trẻ em khi sử dụng Internet</translation>
+-<translation id="3576010969994131987">Để sử dụng YouTube, hãy tiếp tục bằng Tài khoản Brave của bạn</translation>
++<translation id="3576010969994131987">Để sử dụng YouTube, hãy tiếp tục bằng Tài khoản Kahf của bạn</translation>
  <translation id="6775759552199460396">JIS B2</translation>
+ <translation id="6777088782163649345">Sử dụng YouTube theo lựa chọn của cha mẹ</translation>
 -<translation id="4302311572898487420">Trình quản lý mật khẩu của Brave cần quyền truy cập vào MacOS Keychain</translation>
 +<translation id="4302311572898487420">Trình quản lý mật khẩu của Kahf cần quyền truy cập vào MacOS Keychain</translation>
  <translation id="6782656837469339439">Năm hết hạn</translation>
  <translation id="6786145470008421571">Phong bì 6 x 9 inch</translation>
  <translation id="67862343314499040">Tím vi-ô-lét</translation>
-@@ -3012,7 +3012,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
- <translation id="6832753933931306326">Biểu mẫu đã được điền thông tin</translation>
+@@ -3103,7 +3103,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6841864657731852591">In ống đồng</translation>
  <translation id="6842196666980060516">184 x 260 mm</translation>
+ <translation id="6844998850832008753">Đã cho phép theo dõi cử chỉ tay cho lần này</translation>
 -<translation id="976643339176907534">Nút Quản lý chế độ cài đặt bảo mật, hãy nhấn nút này để quản lý tính năng Duyệt web an toàn và nhiều tính năng khác trong phần cài đặt của Brave</translation>
 +<translation id="976643339176907534">Nút Quản lý chế độ cài đặt bảo mật, hãy nhấn nút này để quản lý tính năng Duyệt web an toàn và nhiều tính năng khác trong phần cài đặt của Kahf</translation>
  <translation id="6852204201400771460">Tải lại ứng dụng?</translation>
  <translation id="6857776781123259569">Quản lý mật khẩu...</translation>
  <translation id="6858034839887287663">A2x4</translation>
-@@ -3024,12 +3024,12 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -3116,13 +3116,13 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="6873456682041376666">Khay trên cùng</translation>
  <translation id="6874604403660855544">&amp;Làm lại thêm</translation>
  <translation id="6880941331070119097">Lựa chọn giá cao</translation>
 -<translation id="5856252669085142737">Tạo nhanh một Brave Tài liệu mới</translation>
 +<translation id="5856252669085142737">Tạo nhanh một Kahf Tài liệu mới</translation>
  <translation id="6882210908253838664">Nếu một trang web không hoạt động, bạn có thể cho phép trang web đó tạm thời sử dụng cookie của bên thứ ba. <ph name="BEGIN_LINK"/>Tìm hiểu thêm<ph name="END_LINK"/></translation>
+ <translation id="6882418526420053414"><ph name="SITE"/> không hỗ trợ kết nối bảo mật</translation>
  <translation id="6883221904761970440">Đã đóng bảng xác thực thông tin thanh toán an toàn</translation>
  <translation id="6884662655240309489">Kích thước 1</translation>
  <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
@@ -878,7 +738,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="6890443033788248019">Cho phép dùng thông tin vị trí?</translation>
  <translation id="6890531741535756070">Bạn đã chọn xác minh bằng <ph name="DEVICE_LABEL"/> trên các trang web sử dụng <ph name="PROVIDER_ORIGIN"/>. Nhà cung cấp này có thể đã lưu trữ thông tin về phương thức thanh toán của bạn. Bạn có thể <ph name="BEGIN_LINK"/>yêu cầu xoá<ph name="END_LINK"/> thông tin đó.</translation>
  <translation id="6890956352250146925">Các tuỳ chọn về cookie và dữ liệu trang web</translation>
-@@ -3078,16 +3078,16 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -3173,16 +3173,16 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="696703987787944103">Cảm tính</translation>
  <translation id="6967851206780867018">1 tệp đã bị chặn do có nội dung không phù hợp</translation>
  <translation id="6970885655016700774">Vải (Lưu niệm)</translation>
@@ -896,9 +756,9 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 -<translation id="6984270784814146224">Hình ảnh chưa gắn nhãn. Đang trích xuất văn bản, dựa trên công nghệ AI của Brave</translation>
 +<translation id="6984270784814146224">Hình ảnh chưa gắn nhãn. Đang trích xuất văn bản, dựa trên công nghệ AI của Kahf</translation>
  <translation id="6987806006823772670">Phong bì (Tráng bóng)</translation>
+ <translation id="6989256887001961296">Nội dung này đã bị chặn.</translation>
  <translation id="6989763994942163495">Hiển thị cài đặt nâng cao...</translation>
- <translation id="6996312675313362352">Luôn dịch <ph name="ORIGINAL_LANGUAGE"/></translation>
-@@ -3104,15 +3104,15 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
+@@ -3199,14 +3199,14 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn
  <translation id="7014741021609395734">Mức thu phóng</translation>
  <translation id="7016992613359344582">Các khoản phí này có thể là khoản thu một lần hoặc định kỳ và có thể không rõ ràng.</translation>
  <translation id="701757816833614688">Giáo dục thiết kế và nghệ thuật thị giác</translation>
@@ -909,7 +769,6 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="7613812024276037086">Kahf tích hợp sẵn các tính năng an toàn nhằm bảo vệ bạn khi bạn duyệt web, chẳng hạn như Duyệt web An toàn của Kahf – tính năng <ph name="BEGIN_LINK"/>vừa phát hiện thấy trang web tấn công giả mạo<ph name="END_LINK"/> trên trang web bạn đang cố gắng truy cập. Trang web lừa đảo sẽ giả mạo các trang web khác để đánh lừa bạn.<ph name="NEW_LINE"/>Ngay cả những trang web thường được coi là an toàn đôi khi vẫn bị kẻ tấn công xâm phạm. <ph name="BEGIN_ERROR_LINK"/>Hãy cho chúng tôi biết<ph name="END_ERROR_LINK"/> nếu bạn cho rằng đã có sự nhầm lẫn và trang web này không gây nguy hiểm.</translation>
  <translation id="7029809446516969842">Mật khẩu</translation>
  <translation id="7030164307377592766">sửa đổi chế độ cài đặt cho việc điền phương thức thanh toán</translation>
- <translation id="7030436163253143341">Chứng chỉ không hợp lệ</translation>
  <translation id="7031646650991750659">Những ứng dụng bạn đã cài đặt bằng Google Play</translation>
  <translation id="7035705295266423040">Ngân hàng muốn xác minh danh tính của bạn</translation>
 -<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn phím Tab rồi nhấn phím Enter để quản lý chế độ cài đặt về quyền riêng tư của Tài khoản Brave của bạn</translation>
@@ -917,9 +776,9 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="7042616127917168121">Tinh chỉnh kết quả</translation>
  <translation id="7043552168914147882">Giấy có nhãn ở rìa</translation>
  <translation id="7044081119134178347">Đã cho phép sử dụng máy ảnh cho lần này</translation>
-@@ -3266,8 +3266,8 @@ Thông tin chi tiết bổ sung:
- <translation id="7352651011704765696">Đã xảy ra lỗi</translation>
+@@ -3365,8 +3365,8 @@ Thông tin chi tiết bổ sung:
  <translation id="7353601530677266744">Dòng Lệnh</translation>
+ <translation id="7356678400607112844">Lần truy cập gần nhất</translation>
  <translation id="7359588939039777303">Đã chặn quảng cáo.</translation>
 -<translation id="7308957539693927108">Khi tìm thấy ưu đãi chiết khấu, Brave sẽ cho bạn xem những ưu đãi đó khi bạn thanh toán</translation>
 -<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, hãy nhấn Tab rồi nhấn Enter để thêm và quản lý các địa chỉ trong phần Cài đặt của Brave</translation>
@@ -928,7 +787,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="7365849542400970216">Biết hoạt động dùng thiết bị của bạn?</translation>
  <translation id="736592699917579616">Đồ ăn</translation>
  <translation id="7366117520888504990">198 x 275 mm</translation>
-@@ -3276,7 +3276,7 @@ Thông tin chi tiết bổ sung:
+@@ -3375,7 +3375,7 @@ Thông tin chi tiết bổ sung:
  <translation id="7372526636730851647">Ảnh (Bóng)</translation>
  <translation id="7372973238305370288">kết quả tìm kiếm</translation>
  <translation id="7374461526650987610">Trình xử lý giao thức</translation>
@@ -936,8 +795,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="3898257577441589237">Sự cố này xảy ra do một chứng chỉ mà bạn hoặc ai đó đã cài đặt trên thiết bị của bạn. Kahf không tin cậy chứng chỉ này vì chứng chỉ được xác định là dùng để chặn và giám sát mạng. Mặc dù có một số trường hợp trong đó hoạt động giám sát là hợp pháp, chẳng hạn như mạng của trường học hay công ty, nhưng Kahf muốn đảm bảo rằng bạn biết điều này, ngay cả khi bạn không thể ngăn chặn. Hoạt động giám sát có thể diễn ra trong bất kỳ trình duyệt hoặc ứng dụng nào có quyền truy cập vào web.</translation>
  <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Không cho phép trang web nào}=1{Đã cho phép 1 trang web}other{Đã cho phép # trang web}}</translation>
  <translation id="7375818412732305729">Đính kèm tệp</translation>
- <translation id="7377249249140280793"><ph name="RELATIVE_DATE"/> - <ph name="FULL_DATE"/></translation>
-@@ -3305,7 +3305,7 @@ Thông tin chi tiết bổ sung:
+ <translation id="7376031331622621328">Bảng thương mại ở dưới cùng</translation>
+@@ -3404,7 +3404,7 @@ Thông tin chi tiết bổ sung:
        &lt;li&gt;Trong phần &lt;strong&gt;Startup type&lt;/strong&gt; (Loại khởi động), chọn &lt;strong&gt;Disabled&lt;/strong&gt; (Đã tắt)
        &lt;li&gt;Trong phần &lt;strong&gt;Service status&lt;/strong&gt; (Trạng thái dịch vụ), hãy nhấp vào &lt;strong&gt;Stop&lt;/strong&gt; (Dừng)
        &lt;li&gt;Nhấp vào &lt;strong&gt;Apply&lt;/strong&gt; (Áp dụng), sau đó nhấp vào &lt;strong&gt;OK&lt;/strong&gt;
@@ -945,8 +804,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +      &lt;li&gt;Truy cập vào &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Trung tâm trợ giúp Kahf&lt;/a&gt; để tìm hiểu cách xóa vĩnh viễn phần mềm này khỏi máy tính của bạn
        &lt;/ol&gt;</translation>
  <translation id="7408613996403626141">Đồ chơi</translation>
- <translation id="741204030948306876">Có, tôi đồng ý</translation>
-@@ -3469,13 +3469,13 @@ Thông tin chi tiết bổ sung:
+ <translation id="7410852728357935715">Truyền tới thiết bị</translation>
+@@ -3569,14 +3569,14 @@ Thông tin chi tiết bổ sung:
  <translation id="767550629621587224">Giấy có nhãn cắt sẵn</translation>
  <translation id="7675756033024037212">Không cho phép cuộn và thu phóng</translation>
  <translation id="7676643023259824263">Tìm kiếm văn bản trong bảng nhớ tạm, <ph name="TEXT"/></translation>
@@ -956,54 +815,35 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="7680990533995586733"><ph name="CARD_NETWORK_NAME"/>, <ph name="CARD_LAST_FOUR_DIGITS"/>, hết hạn vào <ph name="CARD_EXPIRATION"/></translation>
  <translation id="7682287625158474539">Địa chỉ gửi hàng</translation>
  <translation id="7682451652090915298">Bóng bầu dục Anh</translation>
+ <translation id="768344142657640519">Bạn vừa truy cập</translation>
  <translation id="7684683146428206649">Kim loại</translation>
 -<translation id="5626140961157260107">Nút Xoá dữ liệu duyệt web, hãy nhấn nút này để xoá nhật ký duyệt web, cookie, bộ nhớ đệm và các dữ liệu khác trong phần cài đặt của Brave</translation>
 +<translation id="5626140961157260107">Nút Xoá dữ liệu duyệt web, hãy nhấn nút này để xoá nhật ký duyệt web, cookie, bộ nhớ đệm và các dữ liệu khác trong phần cài đặt của Kahf</translation>
  <translation id="7684928361160505327">{0,plural, =1{<ph name="FILE_NAME"/> đã bị chặn do chính sách}other{<ph name="FILE_COUNT"/> tệp đã bị chặn do chính sách}}</translation>
  <translation id="7687186412095877299">Điền vào biểu mẫu thanh toán bằng phương thức thanh toán đã lưu</translation>
  <translation id="7687305263118037187">Hết giờ thử lại</translation>
-@@ -3547,7 +3547,7 @@ Thông tin chi tiết bổ sung:
+@@ -3650,7 +3650,7 @@ Thông tin chi tiết bổ sung:
  <translation id="7805906048382884326">Đóng mẹo</translation>
  <translation id="7810410097247356677">Để thanh toán nhanh hơn vào lần tới, hãy lưu thông tin thẻ và mã bảo mật đã mã hoá vào thiết bị của bạn</translation>
  <translation id="7812922009395017822">Mir</translation>
 -<translation id="4670564340385807132">Xóa đề xuất biểu mẫu khỏi Brave?</translation>
 +<translation id="4670564340385807132">Xóa đề xuất biểu mẫu khỏi Kahf?</translation>
  <translation id="781440967107097262">Chia sẻ bảng nhớ tạm?</translation>
+ <translation id="7814857791038398352">Microsoft OneDrive</translation>
  <translation id="7815352264092918456">Giấy (Giấy thường)</translation>
- <translation id="7815407501681723534">Đã tìm thấy <ph name="NUMBER_OF_RESULTS"/> <ph name="SEARCH_RESULTS"/> cho '<ph name="SEARCH_STRING"/>'</translation>
-@@ -3555,7 +3555,7 @@ Thông tin chi tiết bổ sung:
- <translation id="7825558994363763489">Lò vi sóng</translation>
- <translation id="782886543891417279">Wi-Fi mà bạn đang sử dụng (<ph name="WIFI_NAME"/>) có thể yêu cầu bạn phải truy cập trang đăng nhập của mạng đó.</translation>
- <translation id="7831993212387676366">Danh sách mua sắm là gì?</translation>
--<translation id="3899751093444787433">Bạn có thể tìm thông tin trong nhật ký duyệt web bằng ngôn ngữ giao tiếp thường ngày như "các quán pizza gần nhà tôi" hay "công viên ở trung tâm thành phố phù hợp với cả gia đình". Nội dung bạn tìm, kết quả phù hợp nhất và nội dung trang sẽ được gửi đến Brave và có thể được nhân viên đánh giá cho mục đích cải thiện tính năng này. <ph name="BEGIN_LINK"/>Quản lý chế độ cài đặt tìm thông tin trong nhật ký<ph name="END_LINK"/></translation>
-+<translation id="3899751093444787433">Bạn có thể tìm thông tin trong nhật ký duyệt web bằng ngôn ngữ giao tiếp thường ngày như "các quán pizza gần nhà tôi" hay "công viên ở trung tâm thành phố phù hợp với cả gia đình". Nội dung bạn tìm, kết quả phù hợp nhất và nội dung trang sẽ được gửi đến Kahf và có thể được nhân viên đánh giá cho mục đích cải thiện tính năng này. <ph name="BEGIN_LINK"/>Quản lý chế độ cài đặt tìm thông tin trong nhật ký<ph name="END_LINK"/></translation>
- <translation id="7840103971441592723">Đã bắt đầu chụp ảnh màn hình</translation>
- <translation id="7840504603489703295">Hạn mức được áp dụng theo tổ chức tài chính của bạn.</translation>
- <translation id="784137052867620416">Thông tin mua sắm chi tiết</translation>
-@@ -3563,12 +3563,12 @@ Thông tin chi tiết bổ sung:
- <translation id="7844689747373518809">{COUNT,plural, =0{Không có}=1{1 ứng dụng (<ph name="EXAMPLE_APP_1"/>)}=2{2 ứng dụng (<ph name="EXAMPLE_APP_1"/>, <ph name="EXAMPLE_APP_2"/>)}other{# ứng dụng (<ph name="EXAMPLE_APP_1"/>, <ph name="EXAMPLE_APP_2"/>, <ph name="AND_MORE"/>)}}</translation>
- <translation id="785476343534277563">Thể thao đại học</translation>
- <translation id="7855695075675558090"><ph name="TOTAL_LABEL"/> <ph name="CURRENCY_CODE"/> <ph name="FORMATTED_TOTAL_AMOUNT"/></translation>
--<translation id="7162988054835087448">Sau này, các trang web mà bạn truy cập có thể đề nghị Brave cho biết các chủ đề bạn quan tâm để cá nhân hoá quảng cáo mà bạn thấy. Brave sẽ chia sẻ tối đa 3 chủ đề, trong khi vẫn bảo vệ nhật ký duyệt web và danh tính của bạn.</translation>
-+<translation id="7162988054835087448">Sau này, các trang web mà bạn truy cập có thể đề nghị Kahf cho biết các chủ đề bạn quan tâm để cá nhân hoá quảng cáo mà bạn thấy. Kahf sẽ chia sẻ tối đa 3 chủ đề, trong khi vẫn bảo vệ nhật ký duyệt web và danh tính của bạn.</translation>
- <translation id="7860345425589240791">Nhập ngày hết hạn mới và CVC trên <ph name="SIDE_OF_CARD"/></translation>
- <translation id="7862185352068345852">Rời khỏi trang web?</translation>
- <translation id="7865448901209910068">Tốc độ tốt nhất</translation>
- <translation id="7870281855125116701">Đã tìm thấy ưu đãi giảm giá</translation>
--<translation id="7971990257511863579">Thay đổi mật khẩu cho Tài khoản Brave của bạn</translation>
-+<translation id="7971990257511863579">Thay đổi mật khẩu cho Tài khoản Kahf của bạn</translation>
- <translation id="7877007680666472091">giá trị nhận dạng cho nội dung được bảo vệ</translation>
- <translation id="7878562273885520351">Mật khẩu của bạn có thể bị xâm phạm</translation>
- <translation id="7880146494886811634">Lưu địa chỉ</translation>
-@@ -3580,14 +3580,14 @@ Thông tin chi tiết bổ sung:
+@@ -3683,9 +3683,9 @@ Thông tin chi tiết bổ sung:
+ <translation id="7890748547282909375">Đăng nhập vào Microsoft OneDrive để lưu ảnh chụp màn hình</translation>
  <translation id="7894280532028510793">Nếu đúng chính tả, hãy <ph name="BEGIN_LINK"/>thử chạy Chẩn đoán mạng<ph name="END_LINK"/>.</translation>
  <translation id="7901831439558593470">Phong bì 7 x 9 inch</translation>
+-<translation id="4362225295386962644">Khi bạn dùng một mật khẩu đã bị công khai trên mạng, Brave sẽ cảnh báo cho bạn. Trong quá trình này, mật khẩu và tên người dùng của bạn được mã hoá nên không ai đọc được, kể cả Brave.</translation>
++<translation id="4362225295386962644">Khi bạn dùng một mật khẩu đã bị công khai trên mạng, Kahf sẽ cảnh báo cho bạn. Trong quá trình này, mật khẩu và tên người dùng của bạn được mã hoá nên không ai đọc được, kể cả Kahf.</translation>
  <translation id="7908648876066812348">Đang bật thẻ ảo</translation>
 -<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để chuyển đến trang kiểm tra an toàn trên Brave trong phần cài đặt</translation>
 +<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để chuyển đến trang kiểm tra an toàn trên Kahf trong phần cài đặt</translation>
+ <translation id="791107458486222637">Đang khôi phục kết quả</translation>
  <translation id="791551905239004656">Vẽ và tô màu</translation>
  <translation id="7916162853251942238">Gốc Flexo</translation>
- <translation id="7926503317156566022">Ngành hàng không</translation>
+@@ -3693,7 +3693,7 @@ Thông tin chi tiết bổ sung:
  <translation id="793209273132572360">Cập nhật địa chỉ?</translation>
  <translation id="7932579305932748336">Phủ</translation>
  <translation id="79338296614623784">Nhập số điện thoại hợp lệ</translation>
@@ -1012,39 +852,16 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="7935318582918952113">DOM Distiller</translation>
  <translation id="7937163678541954811">CVC của thẻ này sẽ được mã hoá và lưu vào thiết bị của bạn để giúp bạn thanh toán nhanh hơn</translation>
  <translation id="7937554595067888181">Hết hạn vào <ph name="EXPIRATION_DATE_ABBR"/></translation>
-@@ -3643,10 +3643,10 @@ Thông tin chi tiết bổ sung:
- <translation id="8012647001091218357">Chúng tôi không thể liên lạc với cha mẹ của bạn vào thời điểm này. Vui lòng thử lại.</translation>
- <translation id="8019861005170389898"><ph name="TRADITIONAL_TEXT"/> (<ph name="ADDITIONAL_TEXT"/>)</translation>
- <translation id="8022542098135319050">Đại lý và dịch vụ du lịch</translation>
--<translation id="1625114571336329891"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn Tab rồi nhấn Enter để đặt Brave làm trình duyệt mặc định của hệ thống</translation>
-+<translation id="1625114571336329891"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn Tab rồi nhấn Enter để đặt Kahf làm trình duyệt mặc định của hệ thống</translation>
- <translation id="8027077570865220386">Khay 15</translation>
--<translation id="7586767711133020907">Nút Chạy quy trình kiểm tra an toàn trên Brave, hãy nhấn nút này để chạy quy trình kiểm tra an toàn trong phần Cài đặt của Brave</translation>
--<translation id="814401020562419411"><ph name="CREATE_GOOGLE_FORM_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một biểu mẫu mới trong Brave Biểu mẫu</translation>
-+<translation id="7586767711133020907">Nút Chạy quy trình kiểm tra an toàn trên Kahf, hãy nhấn nút này để chạy quy trình kiểm tra an toàn trong phần Cài đặt của Kahf</translation>
-+<translation id="814401020562419411"><ph name="CREATE_GOOGLE_FORM_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một biểu mẫu mới trong Kahf Biểu mẫu</translation>
- <translation id="8028892419725165118">Trò chơi phổ thông</translation>
- <translation id="8028960012888758725">Cắt bỏ sau lệnh in</translation>
+@@ -3758,7 +3758,7 @@ Thông tin chi tiết bổ sung:
  <translation id="8030729864112325446">Dạy nghề và giáo dục thường xuyên</translation>
-@@ -3809,7 +3809,7 @@ Thông tin chi tiết bổ sung:
- <translation id="8316555157357957253">Đang sử dụng</translation>
- <translation id="8319269383395457801">Bán nhà ở</translation>
- <translation id="831997045666694187">Buổi tối</translation>
--<translation id="8425450156395369987">Bạn có thể thay đổi công cụ tìm kiếm bất kỳ lúc nào trong phần cài đặt của Brave.</translation>
-+<translation id="8425450156395369987">Bạn có thể thay đổi công cụ tìm kiếm bất kỳ lúc nào trong phần cài đặt của Kahf.</translation>
- <translation id="8321476692217554900">thông báo</translation>
- <translation id="8322402665880479974">Giường và tấm ván đầu giường</translation>
- <translation id="832567874344484841">Thức ăn dành cho bữa sáng</translation>
-@@ -3851,7 +3851,7 @@ Thông tin chi tiết bổ sung:
- <translation id="8399276468426899527">khoá và sử dụng bàn phím</translation>
- <translation id="8400929824946688748">Việc làm và giáo dục</translation>
- <translation id="8403506619177967839">Hư cấu</translation>
--<translation id="15931837016421186">Quản lý loại thông tin bạn đồng bộ hóa trong phần Cài đặt của Brave</translation>
-+<translation id="15931837016421186">Quản lý loại thông tin bạn đồng bộ hóa trong phần Cài đặt của Kahf</translation>
- <translation id="8406071103346257942">ngừng sử dụng phương thức khoá màn hình để điền mật khẩu</translation>
- <translation id="8407031780528483338">Đồ dùng nhà bếp</translation>
- <translation id="8409413588194360210">trình xử lý thanh toán</translation>
-@@ -3879,13 +3879,13 @@ Thông tin chi tiết bổ sung:
+ <translation id="8032546467100845887">Trong suốt</translation>
+ <translation id="8035152190676905274">Bút</translation>
+-<translation id="3579289742592121339">Tiêu đề thẻ và URL của các trang mà bạn thêm vào bảng sẽ được gửi đến Brave</translation>
++<translation id="3579289742592121339">Tiêu đề thẻ và URL của các trang mà bạn thêm vào bảng sẽ được gửi đến Kahf</translation>
+ <translation id="8037117624646282037">Người đã sử dụng thiết bị này gần đây</translation>
+ <translation id="8037357227543935929">Yêu cầu (mặc định)</translation>
+ <translation id="803771048473350947">Tệp</translation>
+@@ -3991,14 +3991,14 @@ Thông tin chi tiết bổ sung:
  <translation id="8446884382197647889">Tìm hiểu thêm</translation>
  <translation id="8449155699563577224">17 x 24 inch</translation>
  <translation id="8449836157089738489">Mở tất cả trong nhóm thẻ mới</translation>
@@ -1052,6 +869,8 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="1785963607001474601">Quản trị viên có thể thay đổi hồ sơ và trình duyệt của bạn từ xa, phân tích thông tin về trình duyệt thông qua báo cáo và thực hiện những nhiệm vụ cần thiết khác. Hoạt động trên thiết bị này cũng có thể được quản lý bên ngoài Kahf.  <ph name="BEGIN_LINK"/>Tìm hiểu thêm<ph name="END_LINK"/></translation>
  <translation id="8457125768502047971">Vô thời hạn</translation>
  <translation id="8458202188076138974">Letter Extra</translation>
+-<translation id="834016381901477789">Bằng việc tiếp tục, bạn đồng ý cho hệ thống thu thập và chia sẻ vị trí chính xác của thiết bị với chủ tài khoản nhằm ngăn chặn hành vi gian lận. Để tắt Pix trong Brave, hãy chuyển đến phần <ph name="BEGIN_LINK1"/>cài đặt thông tin thanh toán<ph name="END_LINK1"/></translation>
++<translation id="834016381901477789">Bằng việc tiếp tục, bạn đồng ý cho hệ thống thu thập và chia sẻ vị trí chính xác của thiết bị với chủ tài khoản nhằm ngăn chặn hành vi gian lận. Để tắt Pix trong Kahf, hãy chuyển đến phần <ph name="BEGIN_LINK1"/>cài đặt thông tin thanh toán<ph name="END_LINK1"/></translation>
  <translation id="8460854335417802511">Bật</translation>
  <translation id="8461694314515752532">Mã hóa dữ liệu đã đồng bộ hóa bằng cụm mật khẩu đồng bộ hóa của riêng bạn</translation>
  <translation id="8466379296835108687">{COUNT,plural, =1{1 thẻ tín dụng}other{# thẻ tín dụng}}</translation>
@@ -1060,32 +879,25 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="8468358362970107653">Phong bì C3</translation>
  <translation id="8469428721212363950">Bán lẻ</translation>
  <translation id="8472700501934242014">Chủ đề bị chặn</translation>
-@@ -3894,13 +3894,13 @@ Thông tin chi tiết bổ sung:
- <translation id="8474910779563686872">Hiển thị thông tin chi tiết của nhà phát triển</translation>
- <translation id="8479754468255770962">Dập ghim dưới cùng bên trái</translation>
- <translation id="8479926481822108747">quản lý tính năng chống theo dõi</translation>
--<translation id="8714154125294613524">Địa chỉ này sẽ bị xoá khỏi Tài khoản Brave của bạn (<ph name="ACCOUNT"/>)</translation>
-+<translation id="8714154125294613524">Địa chỉ này sẽ bị xoá khỏi Tài khoản Kahf của bạn (<ph name="ACCOUNT"/>)</translation>
- <translation id="8488350697529856933">Áp dụng cho</translation>
- <translation id="8490137692873530638">Khay xếp chồng 10</translation>
- <translation id="8493948351860045254">Giải phóng dung lượng</translation>
- <translation id="8498891568109133222"><ph name="HOST_NAME"/> mất quá nhiều thời gian để phản hồi.</translation>
- <translation id="8502023382441452707">Sinh nhật và ngày đặt tên</translation>
--<translation id="230699814587342492">Mật khẩu Brave</translation>
-+<translation id="230699814587342492">Mật khẩu Kahf</translation>
- <translation id="8503813439785031346">Tên người dùng</translation>
- <translation id="8504928302600319133">Phần cứng máy tính</translation>
- <translation id="8507227106804027148">Dòng lệnh</translation>
-@@ -4057,7 +4057,7 @@ Thông tin chi tiết bổ sung:
- <translation id="8811725516933141693">Nhập @gemini để trò chuyện với Gemini</translation>
+@@ -4177,7 +4177,7 @@ Thông tin chi tiết bổ sung:
  <translation id="8813277370772331957">Nhắc tôi sau</translation>
+ <translation id="8814547618907885931">Xem tất cả bảng so sánh</translation>
  <translation id="8814707942599948500">Phong bì C8</translation>
 -<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn Enter để cập nhật Brave trong phần cài đặt của Brave</translation>
 +<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn Enter để cập nhật Kahf trong phần cài đặt của Kahf</translation>
  <translation id="882338992931677877">Khe thủ công</translation>
  <translation id="8830320733681313421">Bưu thiếp Hagaki</translation>
- <translation id="8833007469711500369">Máy giặt và máy sấy</translation>
-@@ -4100,12 +4100,12 @@ Thông tin chi tiết bổ sung:
+ <translation id="8830565333350631528">Xem các tệp trong <ph name="CLOUD_PROVIDER"/></translation>
+@@ -4216,20 +4216,20 @@ Thông tin chi tiết bổ sung:
+ <translation id="8891031436559779793">Bạn sẽ nhận được thông báo nếu giá giảm trên bất cứ trang web nào.</translation>
+ <translation id="8891727572606052622">Chế độ proxy không hợp lệ.</translation>
+ <translation id="8894794286471754040">Cạnh dài trước</translation>
+-<translation id="7850375166078768069">Để sử dụng một dịch vụ tự động điền khác trong Brave, hãy bật dịch vụ đó trong phần cài đặt Android và tại đây</translation>
+-<translation id="7192431032621242241">Để yêu cầu xem nội dung này, hãy tiếp tục bằng Tài khoản Brave của bạn</translation>
++<translation id="7850375166078768069">Để sử dụng một dịch vụ tự động điền khác trong Kahf, hãy bật dịch vụ đó trong phần cài đặt Android và tại đây</translation>
++<translation id="7192431032621242241">Để yêu cầu xem nội dung này, hãy tiếp tục bằng Tài khoản Kahf của bạn</translation>
+ <translation id="8897428486789851669">Bơi</translation>
+ <translation id="8899807382908246773">Quảng cáo xâm nhập</translation>
  <translation id="8903921497873541725">Phóng to</translation>
  <translation id="890493561996401738">Nút Xóa đề xuất, nhấn Enter để xóa, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
  <translation id="8910898109640902752">8 x 10 inch</translation>
@@ -1095,30 +907,32 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="8919740778133505789">Xe thể thao</translation>
  <translation id="8919895429178014996">Ẩn tất cả các mục</translation>
  <translation id="8922013791253848639">Luôn cho phép quảng cáo trên trang web này</translation>
+ <translation id="8922734931659847428">Một danh sách hạn chế chứa URL của những trang bạn truy cập có diễn ra <ph name="BEGIN_LINK"/>sự kiện công nghệ cũ<ph name="END_LINK"/></translation>
 -<translation id="3689838371654876064">Khi Brave gắn cờ cho các sự kiện bảo mật, quản trị viên của bạn sẽ nhận được dữ liệu liên quan đến các sự kiện đó. Dữ liệu này có thể bao gồm URL của những trang bạn truy cập trong Brave, URL của những trang bạn đã sao chép dữ liệu, siêu dữ liệu hoặc tên của tệp, sự cố của trình duyệt hoặc thẻ, cũng như tên người dùng mà bạn sử dụng để đăng nhập vào các ứng dụng chạy trên nền tảng web, thiết bị của bạn và Brave.</translation>
 +<translation id="3689838371654876064">Khi Kahf gắn cờ cho các sự kiện bảo mật, quản trị viên của bạn sẽ nhận được dữ liệu liên quan đến các sự kiện đó. Dữ liệu này có thể bao gồm URL của những trang bạn truy cập trong Kahf, URL của những trang bạn đã sao chép dữ liệu, siêu dữ liệu hoặc tên của tệp, sự cố của trình duyệt hoặc thẻ, cũng như tên người dùng mà bạn sử dụng để đăng nhập vào các ứng dụng chạy trên nền tảng web, thiết bị của bạn và Kahf.</translation>
  <translation id="892588693504540538">Đục lỗ trên cùng bên phải</translation>
  <translation id="8926389886865778422">Đừng hỏi lại</translation>
  <translation id="8932102934695377596">Đồng hồ của bạn chạy chậm</translation>
-@@ -4170,7 +4170,7 @@ Thông tin chi tiết bổ sung:
+@@ -4293,7 +4293,7 @@ Thông tin chi tiết bổ sung:
  <translation id="9049981332609050619">Bạn đã cố truy cập vào <ph name="DOMAIN"/>, nhưng máy chủ cho biết chứng chỉ không hợp lệ.</translation>
  <translation id="9050666287014529139">Cụm mật khẩu</translation>
  <translation id="9051072642122229460">Cà phê và máy pha cà phê Espresso</translation>
 -<translation id="104719866786855422">Chúng tôi sắp ra mắt tính năng mới về quyền riêng tư trong quảng cáo có tên là đo lường quảng cáo. Brave chỉ chia sẻ một số ít thông tin giữa các trang web, chẳng hạn như thời điểm quảng cáo hiển thị với bạn, nhằm giúp các trang web đo lường hiệu suất của quảng cáo.</translation>
 +<translation id="104719866786855422">Chúng tôi sắp ra mắt tính năng mới về quyền riêng tư trong quảng cáo có tên là đo lường quảng cáo. Kahf chỉ chia sẻ một số ít thông tin giữa các trang web, chẳng hạn như thời điểm quảng cáo hiển thị với bạn, nhằm giúp các trang web đo lường hiệu suất của quảng cáo.</translation>
  <translation id="9053955920216300738">Những URL bạn truy cập</translation>
+ <translation id="9054288282721240609">Đã cho phép theo dõi cử chỉ tay</translation>
  <translation id="9056953843249698117">Cửa hàng</translation>
- <translation id="9062620674789239642">Tệp này có thể đã bị di chuyển, chỉnh sửa hoặc xóa.</translation>
-@@ -4194,16 +4194,16 @@ Thông tin chi tiết bổ sung:
+@@ -4317,17 +4317,17 @@ Thông tin chi tiết bổ sung:
+ <translation id="9090993752571911635">Nhà cung cấp dịch vụ Internet (ISP)</translation>
  <translation id="9093723786115107672">Đồ ngủ</translation>
  <translation id="9094544726794842788">Nút Không thích sẽ mở ra một biểu mẫu để bạn gửi phản hồi chi tiết về lý do bạn không thích các kết quả này</translation>
- <translation id="9095388113577226029">Ngôn ngữ khác...</translation>
 -<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn Tab rồi nhấn Enter để đặt Brave làm trình duyệt mặc định của hệ thống trong phần cài đặt iOS</translation>
 +<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, Nhấn Tab rồi nhấn Enter để đặt Kahf làm trình duyệt mặc định của hệ thống trong phần cài đặt iOS</translation>
  <translation id="9101450247048146228">Sử dụng và di chuyển camera (<ph name="CAMERAS_COUNT"/>)</translation>
  <translation id="9101630580131696064">Khay 1</translation>
 -<translation id="6373940988468425649"><ph name="SITE"/> thường sử dụng mã hóa để bảo vệ thông tin của bạn. Khi Brave cố gắng kết nối với <ph name="SITE"/> tại thời điểm này, trang web đã gửi lại thông tin đăng nhập không chính xác và bất thường. Điều này có thể xảy ra khi kẻ tấn công đang cố gắng giả mạo là <ph name="SITE"/> hoặc màn hình đăng nhập Wi-Fi đã làm gián đoạn kết nối. Thông tin của bạn vẫn an toàn do Brave đã ngừng kết nối trước khi bất kỳ dữ liệu nào được trao đổi.</translation>
 +<translation id="6373940988468425649"><ph name="SITE"/> thường sử dụng mã hóa để bảo vệ thông tin của bạn. Khi Kahf cố gắng kết nối với <ph name="SITE"/> tại thời điểm này, trang web đã gửi lại thông tin đăng nhập không chính xác và bất thường. Điều này có thể xảy ra khi kẻ tấn công đang cố gắng giả mạo là <ph name="SITE"/> hoặc màn hình đăng nhập Wi-Fi đã làm gián đoạn kết nối. Thông tin của bạn vẫn an toàn do Kahf đã ngừng kết nối trước khi bất kỳ dữ liệu nào được trao đổi.</translation>
+ <translation id="9107199998619088551"><ph name="MANAGER"/> quản lý hồ sơ của bạn</translation>
  <translation id="9107467864910557787">Trình duyệt của bạn do <ph name="MANAGER"/> quản lý</translation>
  <translation id="91108059142052966">Tính năng chia sẻ màn hình với <ph name="APPLICATION_TITLE"/> khi hiển thị nội dung bí mật bị vô hiệu hóa theo chính sách của quản trị viên</translation>
  <translation id="9114524666733003316">Đang xác nhận thẻ...</translation>
@@ -1131,16 +945,7 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="9119042192571987207">Đã tải lên</translation>
  <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> muốn xác minh danh tính của bạn</translation>
  <translation id="912327514020027767">Váy</translation>
-@@ -4214,7 +4214,7 @@ Thông tin chi tiết bổ sung:
- <translation id="9133985615769429248">Nếu dùng chung thiết bị này với người khác, bạn có thể sử dụng phương thức khoá màn hình để xác minh danh tính của mình mỗi khi sử dụng mật khẩu đã lưu</translation>
- <translation id="913552870853451045"><ph name="IDS_AUTOFILL_VIRTUAL_CARD_NAME_AND_LAST_FOUR_DIGITS"/>, thẻ ảo</translation>
- <translation id="9137013805542155359">Hiển thị văn bản gốc</translation>
--<translation id="3480834636742786788">Vui lòng khởi động và đăng nhập vào Brave trước khi sử dụng ứng dụng này.</translation>
-+<translation id="3480834636742786788">Vui lòng khởi động và đăng nhập vào Kahf trước khi sử dụng ứng dụng này.</translation>
- <translation id="9138037198177304356">Cho phép thông báo</translation>
- <translation id="9139318394846604261">Mua sắm</translation>
- <translation id="9141013498910525015">Quản lý địa chỉ</translation>
-@@ -4263,31 +4263,31 @@ Thông tin chi tiết bổ sung:
+@@ -4386,33 +4386,33 @@ Thông tin chi tiết bổ sung:
  <translation id="9210825002219699214">Du lịch hàng không</translation>
  <translation id="9211461151375991073">Nhập @ để tìm kiếm trên <ph name="FEATURED_SEARCH_LIST"/></translation>
  <translation id="9213433120051936369">Tùy chỉnh giao diện</translation>
@@ -1161,11 +966,13 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
 +<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Loại dữ liệu được sử dụng:<ph name="END_BOLD"/> Chủ đề quảng cáo được xác định dựa trên nhật ký duyệt web gần đây của bạn, một danh sách các trang web bạn từng truy cập bằng Kahf trên thiết bị này.</translation>
  <translation id="937885410143139026">Đã gửi dữ liệu đến bảng điều khiển dành cho quản trị viên</translation>
  <translation id="939736085109172342">Thư mục mới</translation>
+ <translation id="940524522703752213">Quá trình tải tệp lên <ph name="CLOUD_PROVIDER"/> sẽ bắt đầu sau <ph name="MINUTES"/> phút</translation>
 -<translation id="6588091288231158998">Sử dụng mật khẩu và khoá truy cập đã lưu trong Tài khoản Brave của bạn</translation>
 -<translation id="5444457503062019851">Brave cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.</translation>
 +<translation id="6588091288231158998">Sử dụng mật khẩu và khoá truy cập đã lưu trong Tài khoản Kahf của bạn</translation>
 +<translation id="5444457503062019851">Kahf cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.</translation>
  <translation id="945855313015696284">Kiểm tra thông tin bên dưới và xóa mọi thẻ không hợp lệ</translation>
+ <translation id="94613679163347541">So sánh <ph name="CATEGORY"/>?</translation>
 -<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một trang web mới trong Brave Sites</translation>
 -<translation id="7776043919629791284">{COUNT,plural, =0{Hôm nay, Brave sẽ hạn chế cookie trở lại}=1{Brave sẽ hạn chế cookie trở lại vào ngày mai}other{Brave sẽ hạn chế cookie trở lại sau # ngày nữa}}</translation>
 +<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một trang web mới trong Kahf Sites</translation>
@@ -1181,3 +988,12 @@ diff a/components/strings/components_strings_vi.xtb b/components/strings/compone
  <translation id="963837307749850257">Tất cả người dùng</translation>
  <translation id="964050462028070434">Quản lý mật khẩu và khoá đăng nhập…</translation>
  <translation id="969892804517981540">Phiên bản chính thức</translation>
+@@ -4447,7 +4447,7 @@ Thông tin chi tiết bổ sung:
+ <translation id="997986563973421916">Từ Google Pay</translation>
+ <translation id="8820817407110198400">Dấu trang</translation>
+ <translation id="8362995731815961365">Người thiết lập máy tính này đã chọn chặn trang web này.</translation>
+-<translation id="896703648578722320">Khi bạn thêm tiện ích vào Brave, dữ liệu liên quan về những tiện ích này sẽ được gửi cho bên thứ ba để phân tích và quản trị viên của bạn có thể thấy dữ liệu này. Dữ liệu này bao gồm thông tin về các tiện ích như tên, thời gian cài đặt, nguồn cài đặt cũng như hoạt động liên quan đến các tiện ích này (chẳng hạn như thay đổi thẻ, liên hệ với trang web hoặc truy cập vào cookie). Dữ liệu này được thu thập cho các tiện ích được cài đặt từ Cửa hàng trực tuyến cũng như các tiện ích được cài đặt từ bên ngoài cửa hàng.</translation>
++<translation id="896703648578722320">Khi bạn thêm tiện ích vào Kahf, dữ liệu liên quan về những tiện ích này sẽ được gửi cho bên thứ ba để phân tích và quản trị viên của bạn có thể thấy dữ liệu này. Dữ liệu này bao gồm thông tin về các tiện ích như tên, thời gian cài đặt, nguồn cài đặt cũng như hoạt động liên quan đến các tiện ích này (chẳng hạn như thay đổi thẻ, liên hệ với trang web hoặc truy cập vào cookie). Dữ liệu này được thu thập cho các tiện ích được cài đặt từ Cửa hàng trực tuyến cũng như các tiện ích được cài đặt từ bên ngoài cửa hàng.</translation>
+ <translation id="4075123085690634698">Mở trang trong cửa sổ Ẩn danh mới (⇧⌘N)</translation>
+ <translation id="2388886110302389394">Mở trang trong cửa sổ Ẩn danh mới (Ctrl-Shift-N)</translation>
+ <translation id="6957624206566198865">Mở trang trong tab Ẩn danh mới</translation>

@@ -1,18 +1,5 @@
 diff a/app/os_settings_strings.grdp b/app/os_settings_strings.grdp	(rejected hunks)
-@@ -5350,10 +5350,10 @@ Press an assigned switch or key to remove assignment.
-     Password
-   </message>
-   <message name="IDS_SETTINGS_PEOPLE_LOCK_SCREEN_PASSWORD_DESCRIPTION" desc="Description of the password authentication factor on the lock screen page.">
--    Device password or Brave sync chain password
-+    Device password or Kahf sync chain password
-   </message>
-   <message name="IDS_SETTINGS_PEOPLE_LOCK_SCREEN_SWITCH_LOCAL_PASSWORD_DESCRIPTION" desc="Description of the password authentication factor on the lock screen page.">
--    Currently using Brave sync chain password. You can set up a <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> password to make it easier to sign in.
-+    Currently using Kahf sync chain password. You can set up a <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> password to make it easier to sign in.
-   </message>
-   <message name="IDS_SETTINGS_PEOPLE_LOCK_SCREEN_PIN_LABEL" desc="Label for PIN authentication factor on the lock screen page.">
-     PIN
-@@ -6060,19 +6060,19 @@ Press an assigned switch or key to remove assignment.
+@@ -6135,7 +6135,7 @@ Press an assigned switch or key to remove assignment.
    <message name="IDS_SETTINGS_TIME_ZONE_DETECTION_MODE_DISABLED" desc="Display name for the automatic time zone detection mode which disables automatic detection.">
      Automatic time zone detection is disabled
    </message>
@@ -21,7 +8,9 @@ diff a/app/os_settings_strings.grdp b/app/os_settings_strings.grdp	(rejected hun
      Use your IP address to determine location (default)
    </message>
    <message name="IDS_SETTINGS_TIME_ZONE_DETECTION_GEOLOCATION_WARNING_TEXT" desc="Displays the text notifying users that the system geolocation permission is required for the Automatic Time Zone Detection. Displaying the current status of Automatic Time Zone Detection with inline link to resolve the breakage.">
-     Time zone is currently set to <ph name="TIME_ZONE_ENTRY">$1<ex>(UTC+4:00) Georgia Standard Time (Tbilisi)</ex></ph>. To automatically update the time zone, <ph name="BEGIN_LINK">&lt;a href="#"&gt;</ph>turn on system location access<ph name="END_LINK">&lt;/a&gt;</ph>.
+@@ -6144,13 +6144,13 @@ Press an assigned switch or key to remove assignment.
+   <message name="IDS_SETTINGS_TIME_ZONE_DETECTION_GEOLOCATION_MANAGED_WARNING_TEXT" desc="Displays the text notifying users that the system geolocation permission is required for the Automatic Time Zone Detection. Displaying the current status of Automatic Time Zone Detection with inline link to resolve the breakage.">
+     Time zone is currently set to <ph name="TIME_ZONE_ENTRY">$1<ex>(UTC+4:00) Georgia Standard Time (Tbilisi)</ex></ph>. This setting is managed by your administrator.
    </message>
 -  <message name="IDS_OS_SETTINGS_REVAMP_TIME_ZONE_DETECTION_MODE_IP_ONLY_DEFAULT" desc="Display name for the automatic time zone detection mode which enables time zone detection sending unprecise location to Brave servers.">
 +  <message name="IDS_OS_SETTINGS_REVAMP_TIME_ZONE_DETECTION_MODE_IP_ONLY_DEFAULT" desc="Display name for the automatic time zone detection mode which enables time zone detection sending unprecise location to Kahf servers.">
@@ -36,3 +25,23 @@ diff a/app/os_settings_strings.grdp b/app/os_settings_strings.grdp	(rejected hun
      Use Wi-Fi or mobile networks to determine location
    </message>
    <message name="IDS_SETTINGS_TIME_ZONE" desc="Label for the picker which allows users to choose their time zone.">
+@@ -7148,8 +7148,8 @@ Press &amp; hold keyboard keys to see accent marks and special characters. This
+   <message name="IDS_OS_SETTINGS_APP_DETAILS_TYPE_ANDROID" desc="Text to explain that the type of an app is Android app">
+     Android App
+   </message>
+-  <message name="IDS_OS_SETTINGS_APP_DETAILS_TYPE_CHROME" desc="Text to explain that the type of an app is Brave app">
+-    Brave App
++  <message name="IDS_OS_SETTINGS_APP_DETAILS_TYPE_CHROME" desc="Text to explain that the type of an app is Kahf app">
++    Kahf App
+   </message>
+   <message name="IDS_OS_SETTINGS_APP_DETAILS_TYPE_WEB" desc="Text to explain that the type of an app is Web app">
+     Web App
+@@ -7161,7 +7161,7 @@ Press &amp; hold keyboard keys to see accent marks and special characters. This
+     Android app installed by your device administrator.
+   </message>
+   <message name="IDS_OS_SETTINGS_APP_DETAILS_TYPE_CHROME_INSTALL_REASON_POLICY" desc="Explanation text for the chrome app installation reason, describing the type of the app, and that it is installed by the administrator.">
+-    Brave app installed by your device administrator.
++    Kahf app installed by your device administrator.
+   </message>
+   <message name="IDS_OS_SETTINGS_APP_DETAILS_TYPE_WEB_INSTALL_REASON_POLICY" desc="Explanation text for the web app installation reason, describing the type of the app, and that it is installed by the administrator.">
+     Web app installed by your device administrator.

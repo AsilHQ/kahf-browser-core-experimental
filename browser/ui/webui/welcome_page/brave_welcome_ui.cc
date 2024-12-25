@@ -91,11 +91,12 @@ constexpr webui::LocalizedString kLocalizedStrings[] = {
     {"braveWelcomeHelpWDPDescription", IDS_BRAVE_WELCOME_HELP_WDP_DESCRIPTION},
     {"braveWelcomeHelpWDPLearnMore", IDS_BRAVE_WELCOME_HELP_WDP_LEARN_MORE},
     {"braveWelcomeHelpWDPAccept", IDS_BRAVE_WELCOME_HELP_WDP_ACCEPT},
-    {"braveWelcomeHelpWDPReject", IDS_BRAVE_WELCOME_HELP_WDP_REJECT},
-    {"braveWelcomeFavouriteAppTitle", IDS_BRAVE_WELCOME_FAVOURITE_APP_TITLE},
-    {"braveWelcomeFavouriteAppDesc", IDS_BRAVE_WELCOME_FAVOURITE_APP_DESC},
-    {"braveWelcomeEnableRewardsTitle", IDS_BRAVE_WELCOME_ENABLE_REWARDS_TITLE},
-    {"braveWelcomeEnableRewardsDesc", IDS_BRAVE_WELCOME_ENABLE_REWARDS_DESC}};
+    {"braveWelcomeHelpWDPReject", IDS_BRAVE_WELCOME_HELP_WDP_REJECT}
+    // {"braveWelcomeFavouriteAppTitle", IDS_BRAVE_WELCOME_FAVOURITE_APP_TITLE},
+    // {"braveWelcomeFavouriteAppDesc", IDS_BRAVE_WELCOME_FAVOURITE_APP_DESC},
+    // {"braveWelcomeEnableRewardsTitle", IDS_BRAVE_WELCOME_ENABLE_REWARDS_TITLE},
+    // {"braveWelcomeEnableRewardsDesc", IDS_BRAVE_WELCOME_ENABLE_REWARDS_DESC}
+    };
 
 void OpenJapanWelcomePage(Profile* profile) {
   DCHECK(profile);
@@ -195,7 +196,7 @@ BraveWelcomeUI::BraveWelcomeUI(content::WebUI* web_ui, const std::string& name)
 
   AddBackgroundColorToSource(source, web_ui->GetWebContents());
 
-  INSTALL_EXTENSION(KahfTube_extension_id, profile);
+  // INSTALL_EXTENSION(KahfTube_extension_id, profile);
   INSTALL_EXTENSION(SafeGaze_extension_id, profile);
 }
 

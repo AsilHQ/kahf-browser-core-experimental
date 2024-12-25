@@ -1,262 +1,28 @@
 diff a/components/resources/strings/brave_components_resources_ro.xtb b/components/resources/strings/brave_components_resources_ro.xtb	(rejected hunks)
-@@ -168,36 +168,36 @@
- <translation id="5334844597069022743">Vizualizați sursa</translation>
- <translation id="4720556299488643018">Dezabonați-vă</translation>
- <translation id="1209739344687072997">Raportați un site nefuncțional</translation>
--<translation id="8510478288840333677">Anunțați-i pe dezvoltatorii Brave că acest site nu funcționează corect cu Scuturi:</translation>
-+<translation id="8510478288840333677">Anunțați-i pe dezvoltatorii Kahf că acest site nu funcționează corect cu Scuturi:</translation>
- <translation id="3110968385867124099">Această pagină nu poate fi raportată deoarece nu a fost furnizată prin HTTP/HTTPS.</translation>
- <translation id="7907023135990310743">Această pagină este o pagină web locală și nu este eligibilă pentru raportare.</translation>
- <translation id="3645455863322075098">Această pagină este o pagină de eroare și nu este eligibilă pentru raportare.</translation>
--<translation id="105644511106871142">Vă mulțumim pentru că ne ajutați să îmbunătățim Brave pentru toți. Acest raport va trimite doar informațiile necesare pentru noi pentru a remedia acest site.</translation>
-+<translation id="105644511106871142">Vă mulțumim pentru că ne ajutați să îmbunătățim Kahf pentru toți. Acest raport va trimite doar informațiile necesare pentru noi pentru a remedia acest site.</translation>
- <translation id="6476216365964140603">Detalii suplimentare (opțional)</translation>
- <translation id="6145852496180774737">Contactați-mă la: (opțional)</translation>
- <translation id="7616645803364270729">Email, Twitter etc.</translation>
- <translation id="721949491455392748">Includeți captura de ecran a paginii actuale</translation>
- <translation id="8459191579769999214">Vizualizați captura de ecran</translation>
- <translation id="5299848999918506028">Mulțumim!</translation>
--<translation id="76550953340008122">Vă mulțumim că i-ați anunțat pe dezvoltatorii Brave că ceva nu este în regulă cu acest site. Vom face tot ce ne stă în putință ca să rezolvăm problema!</translation>
--<translation id="4046860372562593546">Gestionați Anunțurile Brave</translation>
-+<translation id="76550953340008122">Vă mulțumim că i-ați anunțat pe dezvoltatorii Kahf că ceva nu este în regulă cu acest site. Vom face tot ce ne stă în putință ca să rezolvăm problema!</translation>
-+<translation id="4046860372562593546">Gestionați Anunțurile Kahf</translation>
- <translation id="5136973036012418831">Controlați tipurile de anunțuri pe care doriți să le vizionați, precum și frecvența acestora.</translation>
- <translation id="4759608598194750161">Cu cât vizionați mai mult, cu atât câștigați mai mult.</translation>
- <translation id="7526443283522395161">Anunțuri pentru Pagini File noi</translation>
- <translation id="7968650944098083708">Anunțuri de notificare</translation>
- <translation id="8289546216379862569">Search ads</translation>
--<translation id="4758111936363146244">Brave Search Ads apar în <ph name="BEGIN_LINK"/>Brave Search<ph name="END_LINK"/>.</translation>
--<translation id="7596536223419118193">Deocamdată nu puteți câștiga BAT din Brave Search Ads, dar puteți contribui la susținerea Brave dacă le activați.</translation>
--<translation id="6390952132783970876">Anunțuri Brave News</translation>
--<translation id="7516281787184495886">Brave News conține anunțuri care nu pot fi dezactivate în mod independent.</translation>
--<translation id="8008378848677625233">Brave News este momentan dezactivat.</translation>
-+<translation id="4758111936363146244">Kahf Search Ads apar în <ph name="BEGIN_LINK"/>Kahf Search<ph name="END_LINK"/>.</translation>
-+<translation id="7596536223419118193">Deocamdată nu puteți câștiga BAT din Kahf Search Ads, dar puteți contribui la susținerea Kahf dacă le activați.</translation>
-+<translation id="6390952132783970876">Anunțuri Kahf News</translation>
-+<translation id="7516281787184495886">Kahf News conține anunțuri care nu pot fi dezactivate în mod independent.</translation>
-+<translation id="8008378848677625233">Kahf News este momentan dezactivat.</translation>
- <translation id="6112368337882254910">Contribuție automată</translation>
- <translation id="557705068184766514">O modalitate automată de a sprijini site-urile și creatorii de conținut. Stabiliți o contribuție și navigați în mod normal.<ph name="BEGIN_LINK"/>Site-urile și creatorii verificați<ph name="END_LINK"/> pe care îi vizitați vor primi contribuții din partea dvs. în fiecare lună, în funcție de timpul pe care îl petreceți pe conținutul lor.</translation>
- <translation id="6688567880783357035">Câștiguri luna această până în acest moment</translation>
- <translation id="949044897316791211">Următoarea dată de plată a câștigurilor</translation>
- <translation id="2211646556917925490">Total anunțuri primite luna aceasta</translation>
- <translation id="4229016885653790965">Ne pare rău! Anunțurile nu sunt încă disponibile în rtegiunea ta.</translation>
--<translation id="2539279826042558064">Recompensele și Reclamele Brave nu sunt disponibile pe dispozitivul dvs. în acest moment.</translation>
-+<translation id="2539279826042558064">Recompensele și Reclamele Kahf nu sunt disponibile pe dispozitivul dvs. în acest moment.</translation>
- <translation id="5736977383725358876">Frecvența anunțului de notificare</translation>
- <translation id="7701040980221191251">Niciuna</translation>
- <translation id="480668534656787076">Max 1 pe oră</translation>
-@@ -241,30 +241,30 @@
- <translation id="3082557070674409251">Dat clic</translation>
- <translation id="7119308337584989771">Respins</translation>
- <translation id="6805660603861526473">Vizualizat</translation>
--<translation id="8826352442759228526">Recompensele dvs. Brave nu pot fi confirmate deoarece ați atins limita maximă de confirmări pentru dispozitiv.</translation>
-+<translation id="8826352442759228526">Recompensele dvs. Kahf nu pot fi confirmate deoarece ați atins limita maximă de confirmări pentru dispozitiv.</translation>
- <translation id="1221593978088944142">Eroare: s-a atins limita de dispozitive</translation>
--<translation id="6895088073061692390">Din păcate, profilul dvs. de Recompense Brave a fost contestat după ce verificările noastre automatizate au depistat o activitate neconformă a Anunțurilor Brave.</translation>
--<translation id="4229056297802204697">Câtă vreme profilul dvs. este contestat, puteți viziona în continuare aceste anunțuri, însă nu veți primi recompense. Totodată, nu veți putea conecta un cont de custode la Recompensele Brave.</translation>
-+<translation id="6895088073061692390">Din păcate, profilul dvs. de Recompense Kahf a fost contestat după ce verificările noastre automatizate au depistat o activitate neconformă a Anunțurilor Kahf.</translation>
-+<translation id="4229056297802204697">Câtă vreme profilul dvs. este contestat, puteți viziona în continuare aceste anunțuri, însă nu veți primi recompense. Totodată, nu veți putea conecta un cont de custode la Recompensele Kahf.</translation>
- <translation id="5124846913141379164">Există posibilitatea ca profilul dvs. să fi fost contestat dintr-o eroare, ceea ce înseamnă că nu trebuie să luați nicio măsură. Contestația de pe profil va putea fi eliminată în viitor.</translation>
--<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Aflați mai multe despre procesul Brave de reclamare a profilurilor de Recompense.<ph name="END_LINK"/></translation>
--<translation id="5028274575541726856">Eroare: Profilul de Recompense Brave este reclamat</translation>
-+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Aflați mai multe despre procesul Kahf de reclamare a profilurilor de Recompense.<ph name="END_LINK"/></translation>
-+<translation id="5028274575541726856">Eroare: Profilul de Recompense Kahf este reclamat</translation>
- <translation id="2607420597216860026">Încercați din nou după confirmarea identității în <ph name="PROVIDER"/>.</translation>
- <translation id="3183954159462541696">Eroare: Aveți nevoie de un cont confirmat pentru a vă autentifica</translation>
--<translation id="1859789048900659918">Hmm, se pare că țara dvs. Brave Rewards nu se potrivește cu țara <ph name="PROVIDER"/>contului la care încercați să vă conectați.</translation>
-+<translation id="1859789048900659918">Hmm, se pare că țara dvs. Kahf Rewards nu se potrivește cu țara <ph name="PROVIDER"/>contului la care încercați să vă conectați.</translation>
- <translation id="8925428135452218262">Eroare: Nepotrivire de țară</translation>
--<translation id="5260522591743022748">Hmm, se pare că recompensele Brave au fost deja confirmate cu un alt cont <ph name="PROVIDER"/>. Încercați să confirmați din nou folosind contul dvs. vechi.</translation>
-+<translation id="5260522591743022748">Hmm, se pare că recompensele Kahf au fost deja confirmate cu un alt cont <ph name="PROVIDER"/>. Încercați să confirmați din nou folosind contul dvs. vechi.</translation>
- <translation id="5111921830714291902">Eroare: alt cont</translation>
--<translation id="5225019866741699134">Conectarea la <ph name="PROVIDER"/>recompensele Brave este momentan indisponibilă. Vă rugăm să încercați din nou mai târziu.</translation>
-+<translation id="5225019866741699134">Conectarea la <ph name="PROVIDER"/>recompensele Kahf este momentan indisponibilă. Vă rugăm să încercați din nou mai târziu.</translation>
- <translation id="6105073131081187815">Puteți vedea <ph name="BEGIN_LINK"/> starea serviciului aici <ph name="END_LINK"/>.</translation>
- <translation id="2400786541309111904">Eroare: Conectarea la custodele selectat este temporar indisponibilă</translation>
--<translation id="1024520300696337331">Contul dvs. <ph name="PROVIDER"/> nu poate fi conectat momentan la profilul de Recompense Brave. Contul dvs. <ph name="PROVIDER"/> este înregistrat într-o țară care nu este acceptată pentru conectarea la Recompensele Brave.</translation>
--<translation id="619384413404021992">Consultați <ph name="LINK_BEGIN"/>lista actuală de regiuni acceptate și aflați mai multe<ph name="END_LINK"/> despre conectarea unui cont custode la Recompensele Brave.</translation>
-+<translation id="1024520300696337331">Contul dvs. <ph name="PROVIDER"/> nu poate fi conectat momentan la profilul de Recompense Kahf. Contul dvs. <ph name="PROVIDER"/> este înregistrat într-o țară care nu este acceptată pentru conectarea la Recompensele Kahf.</translation>
-+<translation id="619384413404021992">Consultați <ph name="LINK_BEGIN"/>lista actuală de regiuni acceptate și aflați mai multe<ph name="END_LINK"/> despre conectarea unui cont custode la Recompensele Kahf.</translation>
- <translation id="7193389978208728181">Eroare: Regiune neacceptată momentan</translation>
- <translation id="5382684862562314222">Uphold nu acceptă încă BAT în regiunea dvs.</translation>
- <translation id="9074594632540931067">Eroare: token-ul BAT nu este disponibil</translation>
- <translation id="5376524136040178759">Potrivit Uphold, în prezent există anumite limitări privind contul dvs. Uphold. Vă rugăm să vă conectați la contul Uphold și să verificați dacă mai sunt notificări sau dacă mai aveți de îndeplinit anumite cerințe privind contul, apoi încercați din nou. De exemplu, ar putea fi necesar să trimiteți mai multe informații către Uphold.</translation>
- <translation id="6996157559236886133">Eroare: cont Uphold limitat</translation>
--<translation id="3274650021044762770">A apărut o problemă la validarea solicitării browserului de conectare a recompenselor Brave la contul dvs. <ph name="PROVIDER"/>. Puteți <ph name="BEGIN_LINK"/>contacta departamentul de asistență<ph name="END_LINK"/> pentru ajutor suplimentar.</translation>
-+<translation id="3274650021044762770">A apărut o problemă la validarea solicitării browserului de conectare a recompenselor Kahf la contul dvs. <ph name="PROVIDER"/>. Puteți <ph name="BEGIN_LINK"/>contacta departamentul de asistență<ph name="END_LINK"/> pentru ajutor suplimentar.</translation>
- <translation id="1316066811927496401">Eroare: solicitarea nu a putut fi validată</translation>
- <translation id="7352651011704765696">A apărut o eroare</translation>
- <translation id="8285276813470932793">Nu am putut finaliza cererea dvs. Vă rugăm să încercați din nou și <ph name="LINK_BEGIN"/>contactați asistența<ph name="LINK_END"/>dacă problema persistă.</translation>
-@@ -284,7 +284,7 @@
- <translation id="756341217015623253">Autentificați-vă sau înscrieți-vă</translation>
- <translation id="2653844658857826081">NOU</translation>
- <translation id="1892970806832316900">În curs de evaluare până în <ph name="DATE"/></translation>
--<translation id="7849926087559412554">Ups! Browserul dvs. nu poate primi reclame confidențiale Brave.</translation>
-+<translation id="7849926087559412554">Ups! Browserul dvs. nu poate primi reclame confidențiale Kahf.</translation>
- <translation id="5177429570315095022">Trebuie să actualizați browserul pentru a putea să vizualizați reclame în continuare.</translation>
- <translation id="4593680147181354667">ID diagnosticare</translation>
- <translation id="3995471429906554168">Informații despre diagnosticare</translation>
-@@ -574,20 +574,20 @@
- <translation id="2429828319207652823">A apărut o problemă la procesarea contribuției dumneavoastră.</translation>
- <translation id="6390041270339783491">Contribuție lunară eșuată</translation>
- <translation id="7047578174221019462">Contribuțiile dvs. lunare au fost procesate.</translation>
--<translation id="2529827670795983639">Se pare că nu funcționează, reclamele Brave vor rămâne întrerupte. Contactați-ne dacă aveți nevoie de ajutor cu modulul captcha.</translation>
-+<translation id="2529827670795983639">Se pare că nu funcționează, reclamele Kahf vor rămâne întrerupte. Contactați-ne dacă aveți nevoie de ajutor cu modulul captcha.</translation>
- <translation id="261607053214862521">Nr. max. de încercări depășite</translation>
- <translation id="2323171459178104277">Rezolvat!</translation>
--<translation id="1512837998731269583">Reclamele și veniturile se vor relua. Mulțumim pentru ajutorul acordat pentru protejarea recompenselor Brave și pentru reclamele bazate pe confidențialitate.</translation>
-+<translation id="1512837998731269583">Reclamele și veniturile se vor relua. Mulțumim pentru ajutorul acordat pentru protejarea recompenselor Kahf și pentru reclamele bazate pe confidențialitate.</translation>
- <translation id="3247549836099021862">Contactați echipa de asistență</translation>
- <translation id="5234764350956374838">Închide</translation>
- <translation id="7859066142771796818">Folosiți tokenuri pentru a cumpăra cadouri, pentru a le schimba cu alte valute, pentru a susține creatori și altele.</translation>
--<translation id="5425006356459378415">Recompensele Brave nu sunt disponibile</translation>
--<translation id="909076461795862330">Din păcate, a apărut o eroare în timp ce încercam să configurăm Recompensele Brave. Încercați din nou.</translation>
-+<translation id="5425006356459378415">Recompensele Kahf nu sunt disponibile</translation>
-+<translation id="909076461795862330">Din păcate, a apărut o eroare în timp ce încercam să configurăm Recompensele Kahf. Încercați din nou.</translation>
- <translation id="3180990265682133881">Din păcate, a apărut o eroare în timp ce încercam să configurăm țara. Încercați din nou.</translation>
--<translation id="5931798071481566121">Înregistrările noi pentru recompensele Brave sunt în prezent dezactivate în regiunea dvs. Cu toate acestea, puteți încerca din nou mai târziu. <ph name="LINK_BEGIN"/> Aflați mai multe <ph name="LINK_END"/></translation>
-+<translation id="5931798071481566121">Înregistrările noi pentru recompensele Kahf sunt în prezent dezactivate în regiunea dvs. Cu toate acestea, puteți încerca din nou mai târziu. <ph name="LINK_BEGIN"/> Aflați mai multe <ph name="LINK_END"/></translation>
- <translation id="6439128034594289376">Iuguu, totul e gata!</translation>
- <translation id="6136350726756049410">Acum puteți primi recompense pentru vizualizarea anunțurilor. Contribuiți la transformarea internetului într-un loc mai bun pentru toată lumea. Și asta e minunat!</translation>
--<translation id="5547108999862247665">Cum funcționează recompensele Brave?</translation>
-+<translation id="5547108999862247665">Cum funcționează recompensele Kahf?</translation>
- <translation id="3970520675790340955">Selectați-vă țara ca să vă putem afișa opțiunile și anunțurile adecvate pentru regiunea dvs.</translation>
- <translation id="6945221475159498467">Selectează</translation>
- <translation id="3279158300746391749">Apăsați pictograma <ph name="BAT_ICON"/> BAT din bara URL pentru a începe.</translation>
-@@ -901,9 +901,9 @@
- <translation id="7261362517244085362">Autorizați portofelul dvs.</translation>
- <translation id="7150150391368236519">Conectați un portofel hardware</translation>
- <translation id="5400782314657008092">În prezent, acceptăm dispozitivele <ph name="HARDWARE_DEVICE"/> și<ph name="HARDWARE_DEVICE1"/>.</translation>
--<translation id="8144305264680648043">Conectați portofelul hardware pentru a gestiona activele dvs. direct din Portofelul Brave</translation>
-+<translation id="8144305264680648043">Conectați portofelul hardware pentru a gestiona activele dvs. direct din Portofelul Kahf</translation>
- <translation id="1329837291200753515">Selectați un blockchain pentru a importa portofelul dvs. hardware</translation>
--<translation id="6983390509997396124">Conectați dispozitivul dvs. <ph name="HARDWARE_DEVICE"/> la Portofelul Brave</translation>
-+<translation id="6983390509997396124">Conectați dispozitivul dvs. <ph name="HARDWARE_DEVICE"/> la Portofelul Kahf</translation>
- <translation id="5149944858285555235">Eroare necunoscută. Reconectați portofelul hardware și încercați din nou.</translation>
- <translation id="4522570452068850558">Detalii</translation>
- <translation id="9220525904950070496">Eliminați contul</translation>
-@@ -1579,7 +1579,7 @@
- <translation id="1215089823252478557">Vedeți modificarea soldului estimat</translation>
- <translation id="2761574758015819991">Identificați tranzacțiile cu potențial rău intenționat</translation>
- <translation id="168533464844528463">Contribuiți la detectarea tentativelor de phishing</translation>
--<translation id="7269757150305059881">Brave colaborează cu un partener pentru a oferi acest serviciu. Activând serviciul, sunteți de acord să trimiteți tranzacții nesemnate și adresele URL DApp aferente partenerului nostru.</translation>
-+<translation id="7269757150305059881">Kahf colaborează cu un partener pentru a oferi acest serviciu. Activând serviciul, sunteți de acord să trimiteți tranzacții nesemnate și adresele URL DApp aferente partenerului nostru.</translation>
- <translation id="7790932700072432983">Modificați oricând în <ph name="TAG_BEFORE"/>Setări<ph name="TAG_AFTER"/>.</translation>
- <translation id="8688672835843460752">Disponibil</translation>
- <translation id="5296640085393149413">Fonduri disponibile pe care le puteți folosi</translation>
-@@ -1900,11 +1900,11 @@ other {# surse}
- <translation id="1167803637855350748">A apărut o problemă de rețea în timpul conectării la Leo. Verificați-vă conexiunea și încercați din nou.</translation>
- <translation id="1996126325390835277">Ai ajuns la limita maximă a nivelului premium. Încearcă din nou peste câteva ore.</translation>
- <translation id="7144878232160441200">Reîncearcă</translation>
--<translation id="8570488829560315702">Salut, eu sunt Leo. Sunt un asistent IA complet găzduit și oferit de Brave, structurat pe baza Llama 3 8B, un model performant creat de Meta pentru o varietate largă de utilizări.<ph name="LINK_BEFORE"/>Aflați mai multe<ph name="LINK_AFTER"/></translation>
--<translation id="6500567629965936637">Salut, eu sunt Leo. Sunt un asistent IA complet găzduit și oferit de Brave, structurat pe baza Mixtral 8x7B, un model creat de Mistral AI pentru a gestiona sarcini complexe.<ph name="LINK_BEFORE"/>Aflați mai multe<ph name="LINK_AFTER"/></translation>
--<translation id="4590776109659811206">Salut, eu sunt Leo. Sunt oferit prin proxy de către Brave și structurat pe baza Claude Instant, un model creat de Anthropic pentru sarcini conversaționale și de procesare de text. <ph name="LINK_BEFORE"/>Aflați mai multe<ph name="LINK_AFTER"/></translation>
--<translation id="8583558415545871403">Salut, eu sunt Leo. Sunt oferit de către Brave și furnizat de Claude 3 Haiku, un model creat de Anthropic pentru a asigura activități de conversație și de procesare de text.</translation>
--<translation id="4147243042852964992">Salut, eu sunt Leo. Sunt oferit de către Brave și furnizat de Claude 3 Sonnet, un model creat de Anthropic pentru a asigura activități de conversație și de procesare de text.</translation>
-+<translation id="8570488829560315702">Salut, eu sunt Leo. Sunt un asistent IA complet găzduit și oferit de Kahf, structurat pe baza Llama 3 8B, un model performant creat de Meta pentru o varietate largă de utilizări.<ph name="LINK_BEFORE"/>Aflați mai multe<ph name="LINK_AFTER"/></translation>
-+<translation id="6500567629965936637">Salut, eu sunt Leo. Sunt un asistent IA complet găzduit și oferit de Kahf, structurat pe baza Mixtral 8x7B, un model creat de Mistral AI pentru a gestiona sarcini complexe.<ph name="LINK_BEFORE"/>Aflați mai multe<ph name="LINK_AFTER"/></translation>
-+<translation id="4590776109659811206">Salut, eu sunt Leo. Sunt oferit prin proxy de către Kahf și structurat pe baza Claude Instant, un model creat de Anthropic pentru sarcini conversaționale și de procesare de text. <ph name="LINK_BEFORE"/>Aflați mai multe<ph name="LINK_AFTER"/></translation>
-+<translation id="8583558415545871403">Salut, eu sunt Leo. Sunt oferit de către Kahf și furnizat de Claude 3 Haiku, un model creat de Anthropic pentru a asigura activități de conversație și de procesare de text.</translation>
-+<translation id="4147243042852964992">Salut, eu sunt Leo. Sunt oferit de către Kahf și furnizat de Claude 3 Sonnet, un model creat de Anthropic pentru a asigura activități de conversație și de procesare de text.</translation>
- <translation id="6206029817087805290"><ph name="MODEL_NAME"/> oferit de <ph name="COMPANY_NAME"/></translation>
- <translation id="963346402440669081">Premium</translation>
- <translation id="6187065185557150870">Chat</translation>
-@@ -2034,49 +2034,49 @@ other {# surse}
- <translation id="2570787596946026998">Conectați-vă numai cu HTTPS</translation>
- <translation id="1992750560347846445">Raportați site-ul</translation>
- <translation id="2387532482048804818">Spuneți-ne dacă site-ul n-a funcționat corect cu scuturile active.</translation>
--<translation id="3795015906457257780">Vizualizați acest site fără protecțiile de confidențialitate Brave.</translation>
--<translation id="7194012750329511146">Scuturile Brave
-+<translation id="3795015906457257780">Vizualizați acest site fără protecțiile de confidențialitate Kahf.</translation>
-+<translation id="7194012750329511146">Scuturile Kahf
- <ph name="NUMBER"/> module de urmărire, anunțuri și altele blocate</translation>
- <translation id="4292121526390005808">Scripturi blocate</translation>
- <translation id="5046271170844958713">Scripturi Permise</translation>
- <translation id="264682546981571963">V-ați săturat de notificările privind consimțământul cookie-urilor?</translation>
--<translation id="4986297793092101884">Brave blochează deja cookie-urile terților. De asemenea, putem bloca notificările privind consimțământul pentru cookie-uri.</translation>
-+<translation id="4986297793092101884">Kahf blochează deja cookie-urile terților. De asemenea, putem bloca notificările privind consimțământul pentru cookie-uri.</translation>
- <translation id="535688588637568715">Da, blocați notificările privind consimțământul pentru cookie-uri</translation>
--<translation id="2808175374672429053">Metacaracterele nu sunt permise pentru Brave Shields.</translation>
-+<translation id="2808175374672429053">Metacaracterele nu sunt permise pentru Kahf Shields.</translation>
- <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
--      =1 {Scuturile Brave au blocat 1 tracker pe <ph name="SITE_URL"/>}
--      other {Scuturile Brave a blocat {BLOCKED_COUNT} trackere pe <ph name="SITE_URL"/>}
-+      =1 {Scuturile Kahf au blocat 1 tracker pe <ph name="SITE_URL"/>}
-+      other {Scuturile Kahf a blocat {BLOCKED_COUNT} trackere pe <ph name="SITE_URL"/>}
-     }</translation>
--<translation id="2540598191934725677">Dați clic pe pictograma Brave pentru a afișa Scuturile Brave.</translation>
-+<translation id="2540598191934725677">Dați clic pe pictograma Kahf pentru a afișa Scuturile Kahf.</translation>
- <translation id="6294662480095808915">Confidențialitate. În mod implicit.</translation>
--<translation id="4366423156486478559">Obțineți protecție Brave la fiecare link pe care faceți clic. Pur și simplu setați Brave ca implicită și navigați. Privat.</translation>
-+<translation id="4366423156486478559">Obțineți protecție Kahf la fiecare link pe care faceți clic. Pur și simplu setați Kahf ca implicită și navigați. Privat.</translation>
- <translation id="3830912418080848377">Import setări</translation>
- <translation id="6378406588483694938">Importați cu ușurință marcaje, extensii, chiar și parolele salvate din vechiul dvs. browser.</translation>
- <translation id="2092825239819166928">Selectați profilul pentru a importa</translation>
- <translation id="4763127492635705340">Browserul pe care l-ați ales are mai multe profiluri. Selectați profilul (profilurile) pe care doriți să îl (le) importați.</translation>
- <translation id="880174232178865598">Importați profile</translation>
- <translation id="2453860139492968684">Terminați</translation>
--<translation id="2273851479262317744">Setați Brave ca browser implicit</translation>
-+<translation id="2273851479262317744">Setați Kahf ca browser implicit</translation>
- <translation id="5037676449506322593">Selectează tot</translation>
--<translation id="5148943178722443958">Ajutați-ne să îmbunătățim Brave.</translation>
-+<translation id="5148943178722443958">Ajutați-ne să îmbunătățim Kahf.</translation>
- <translation id="1097073572755862978">Transmiteți rapoarte de diagnostic în caz că întâmpinați erori sau blocaje. <ph name="LINK_BEFORE"/>Aflați mai multe.<ph name="LINK_AFTER"/></translation>
--<translation id="6629244688368006959">Trimiteți statistici de produse confidențiale și anonime referitoare la funcțiile utilizate de utilizatorii Brave. <ph name="LINK_BEFORE"/>Aflați mai multe.<ph name="LINK_AFTER"/></translation>
-+<translation id="6629244688368006959">Trimiteți statistici de produse confidențiale și anonime referitoare la funcțiile utilizate de utilizatorii Kahf. <ph name="LINK_BEFORE"/>Aflați mai multe.<ph name="LINK_AFTER"/></translation>
- <translation id="7415454883318062233">Configurare completă</translation>
--<translation id="3141206739023333979">Schimbați aceste alegeri în orice moment în Brave în <ph name="LINK_BEFORE1"/> brave://settings/privacy <ph name="LINK_AFTER2"/>.</translation>
-+<translation id="3141206739023333979">Schimbați aceste alegeri în orice moment în Kahf în <ph name="LINK_BEFORE1"/> kahf://settings/privacy <ph name="LINK_AFTER2"/>.</translation>
- <translation id="8321985064212130832">Citiți <ph name="LINK_BEFORE"/>politica noastră completă de confidențialitate <ph name="LINK_AFTER"/></translation>
- <translation id="2801098717523961746">Alegeți tema dvs.</translation>
--<translation id="6262510489122516114">Puteți modifica opțiunea în orice moment în setările Brave.</translation>
-+<translation id="6262510489122516114">Puteți modifica opțiunea în orice moment în setările Kahf.</translation>
- <translation id="546481172717459539">Corelați cu setările sistemului</translation>
- <translation id="7799817062559422778">Mod luminos</translation>
- <translation id="4117637339509843559">Mod întunecat</translation>
- <translation id="6302485303316397682">Doriți rezultate de căutare mai bune?</translation>
--<translation id="7014699001826714920">Alăturați-vă mișcării, contribuiți la motorul de căutare Brave.</translation>
--<translation id="6821108091726602352">Ajutați-ne să remediem web-ul prin participarea la Web Discovery Project creat de Brave. Prin partajarea semnalelor de căutare complet anonime, puteți ajuta Brave să își crească indexul de căutare.</translation>
-+<translation id="7014699001826714920">Alăturați-vă mișcării, contribuiți la motorul de căutare Kahf.</translation>
-+<translation id="6821108091726602352">Ajutați-ne să remediem web-ul prin participarea la Web Discovery Project creat de Kahf. Prin partajarea semnalelor de căutare complet anonime, puteți ajuta Kahf să își crească indexul de căutare.</translation>
- <translation id="6764845498618413165">Aflați mai multe.</translation>
- <translation id="7818938154803162778">Sigur, voi ajuta</translation>
--<translation id="7821773512278295352">Firewall Brave + VPN: Conectate</translation>
--<translation id="6019088868713395120">Firewall Brave + VPN: deconectate</translation>
--<translation id="3541307549916475335">Interfață de utilizator a panoului VPN Brave</translation>
-+<translation id="7821773512278295352">Firewall Kahf + VPN: Conectate</translation>
-+<translation id="6019088868713395120">Firewall Kahf + VPN: deconectate</translation>
-+<translation id="3541307549916475335">Interfață de utilizator a panoului VPN Kahf</translation>
- <translation id="1742469581923031760">Se conectează...</translation>
- <translation id="1287487756047817908">Se deconectează...</translation>
- <translation id="2325196879156848326">Eroare de conexiune</translation>
-@@ -2086,7 +2086,7 @@ other {# surse}
- <translation id="8703188411226330709">Începeți încercarea gratuită</translation>
- <translation id="1024255913009642477">Ați achiziționat deja VPN?</translation>
- <translation id="8814357473522731680">Oferit de</translation>
--<translation id="3960619311638643872">VPN Brave</translation>
-+<translation id="3960619311638643872">VPN Kahf</translation>
- <translation id="7805768142964895445">Stare</translation>
- <translation id="5747552184818312860">Expiră</translation>
- <translation id="8421945428836418371">Reconectați-vă în mod automat</translation>
-@@ -2121,14 +2121,14 @@ other {# surse}
- <translation id="6676791921618140305">Versiunea sistemului de operare:</translation>
- <translation id="1156325797949437777">Asistență oferită în parteneriat cu Guardian.</translation>
- <translation id="8146777497879160283">Nu s-a reușit scrierea configurației VPN. Acest lucru se poate întâmpla dacă nu aveți permisiune sau dacă nu ați rulat recent Windows Update.</translation>
--<translation id="3307461350293459700">Nu s-a putut realiza o conexiune VPN. Încercați să vă conectați din nou și asigurați-vă că dați clic pe Permiteți, pentru a activa configurarea VPN-ului Brave.</translation>
--<translation id="7261518280726313829">Dacă dezactivați serviciului DNS sau dacă utilizați serverele implicite pentru sistemul Windows este posibil să dezvăluiți furnizorului dvs. de internet numele site-urilor pe care le vizitați. Brave nu recomandă acest lucru. Doriți să efectuați această acțiune, chiar și în aceste condiții?</translation>
--<translation id="888284761945060750">Serviciul DNS securizat este dezactivat din cauza politicii organizației dvs. Dacă utilizați VPN-ul Brave fără serviciul DNS securizat puteți dezvălui furnizorului dvs. de internet sau organizației dvs. numele site-urilor pe care le vizitați.</translation>
--<translation id="6593224083874259773">Brave VPN pe Windows</translation>
--<translation id="3153983908111684619">Setarea e blocată de BraveVPN cât tim acesta e conectat</translation>
-+<translation id="3307461350293459700">Nu s-a putut realiza o conexiune VPN. Încercați să vă conectați din nou și asigurați-vă că dați clic pe Permiteți, pentru a activa configurarea VPN-ului Kahf.</translation>
-+<translation id="7261518280726313829">Dacă dezactivați serviciului DNS sau dacă utilizați serverele implicite pentru sistemul Windows este posibil să dezvăluiți furnizorului dvs. de internet numele site-urilor pe care le vizitați. Kahf nu recomandă acest lucru. Doriți să efectuați această acțiune, chiar și în aceste condiții?</translation>
-+<translation id="888284761945060750">Serviciul DNS securizat este dezactivat din cauza politicii organizației dvs. Dacă utilizați VPN-ul Kahf fără serviciul DNS securizat puteți dezvălui furnizorului dvs. de internet sau organizației dvs. numele site-urilor pe care le vizitați.</translation>
-+<translation id="6593224083874259773">Kahf VPN pe Windows</translation>
-+<translation id="3153983908111684619">Setarea e blocată de KahfVPN cât tim acesta e conectat</translation>
- <translation id="1055657720430482013">Windows are o funcție denumită Smart Multi-Homed Name Resolution care poate dezvălui informații despre locația dvs. și site-urile pe care le accesați.
- 
--Brave are un serviciu de asistență care vă protejează de această dezvăluire prin filtrarea modului în care sunt efectuate interogările DNS pe conexiunea dvs. VPN.
-+Kahf are un serviciu de asistență care vă protejează de această dezvăluire prin filtrarea modului în care sunt efectuate interogările DNS pe conexiunea dvs. VPN.
- 
- Cu toate acestea, am observat că acest serviciu de asistență nu funcționează și nu dorim să vă lăsăm neprotejat. Am modificat setările DNS din browser pentru a vă proteja împotriva acestei dezvăluiri. Setările vor rămâne în vigoare și vor fi blocate cât timp VPN-ul este conectat.
- 
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Conectați-vă la bitFlyer</translation>
+ <translation id="6143701117592994599">Conectarea Kahf Rewards la un cont bitFlyer vă va permite să câștigați BAT și să vă retrageți câștigurile BAT din Kahf Rewards.</translation>
+ <translation id="4354564238172327160">Deveniți un creator Kahf!</translation>
+-<translation id="4639659520811817892">Vizitați creators.brave.com pentru a vă înscrie astăzi și pentru a începe să câștigați BAT de la fanii și followerșii dumneavoastră.</translation>
++<translation id="4639659520811817892">Vizitați creators.Kahf.com pentru a vă înscrie astăzi și pentru a începe să câștigați BAT de la fanii și followerșii dumneavoastră.</translation>
+ <translation id="4816455138209470435">Kahf este compatibil cu YouTube, Twitch, Vimeo și multe altele!</translation>
+ <translation id="7404779623219601861">Transformați BAT în carduri cadou</translation>
+ <translation id="6215565499749144110">Prin intermediul rețelei TAP, vă puteți transforma BAT-urile în carduri cadou pentru mărci la modă.</translation>
+@@ -604,7 +604,7 @@
+ <translation id="5379685283876547860">Contribuția a fost trimisă!</translation>
+ <translation id="7063168612616047608">Vă mulțumim că vă susțineți creatorii favoriți</translation>
+ <translation id="1041398280582063935">Împărtășiți-vă susținerea</translation>
+-<translation id="4001190813297686107">Tocmai am contribuit cu <ph name="AMOUNT"/> BAT folosind browserul Kahf! Vedeți cum puteți susține și dvs. creatorii și site-urile dvs. preferate: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Tocmai am contribuit cu <ph name="AMOUNT"/> BAT folosind browserul Kahf! Vedeți cum puteți susține și dvs. creatorii și site-urile dvs. preferate: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">A apărut o eroare neașteptată</translation>
+ <translation id="2605703631071131439">Vă rugăm să redeschideți panoul de contribuții pentru a încerca din nou.</translation>
+ <translation id="8855543392451028706">Bine ați venit! Utilizatorii pot susține acest creator de conținut trimițându-i contribuții. Este o modalitate de a le mulțumi pentru conținutul grozav pe care l-au creat.</translation>
+@@ -2123,7 +2123,7 @@ Permiteți-ne să vă conectăm!</translation>
+ <translation id="7423206764347669977">Modificați setările</translation>
+ <translation id="9061845622728745852">Fus orar:</translation>
+ <translation id="8295393906499561642">Sesiune expirată</translation>
+-<translation id="3312623558576021182">Conectați-vă la <ph name="BRAVE_ACCOUNT_BEGIN"/>contul Kahf<ph name="BRAVE_ACCOUNT_END"/> pentru a reîmprospăta sesiunea VPN.</translation>
++<translation id="3312623558576021182">Conectați-vă la <ph name="Kahf_ACCOUNT_BEGIN"/>contul Kahf<ph name="Kahf_ACCOUNT_END"/> pentru a reîmprospăta sesiunea VPN.</translation>
+ <translation id="6021669293402055982">Kahf VPN: Deconectat</translation>
+ <translation id="7861195049821776142">Kahf VPN: Se deconectează</translation>
+ <translation id="958268166261124668">Kahf VPN: Conectat</translation>

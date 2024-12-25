@@ -1648,8 +1648,8 @@ are declared in tools/grit/grit_rule.gni.
         <message name="IDS_COMPACT_MODE" desc="The text label of the Toggle Compact Mode item, used to make the browser compact.">
           &amp;Toggle Compact Mode
         </message>
-        <message name="IDS_CHROMELABS" desc="The text label of the Brave Labs menu item">
-          Brave &amp;Labs...
+        <message name="IDS_CHROMELABS" desc="The text label of the Kahf Labs menu item">
+          Kahf &amp;Labs...
         </message>
       </if>
       <if expr="use_titlecase">
@@ -1701,8 +1701,8 @@ are declared in tools/grit/grit_rule.gni.
         <message name="IDS_COMPACT_MODE" desc="The text label of the Toggle Compact Mode item, used to make the browser compact.">
           &amp;Toggle Compact Mode
         </message>
-        <message name="IDS_CHROMELABS" desc="In Title Case: The text label of the Brave Labs menu item">
-          Brave &amp;Labs...
+        <message name="IDS_CHROMELABS" desc="In Title Case: The text label of the Kahf Labs menu item">
+          Kahf &amp;Labs...
         </message>
       </if>
 
@@ -7487,10 +7487,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <message name="IDS_NTP_CUSTOMIZE_MENU_MODULES_LABEL" desc="The label for the modules option in the customization menu on the New Tab Page.">
         Cards
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_NO_BACKGROUND_LABEL" desc="The label for the 'Default Brave' tile in the customization menu on the New Tab Page">
-        Default Brave
+      <message name="IDS_NTP_CUSTOMIZE_NO_BACKGROUND_LABEL" desc="The label for the 'Default Kahf' tile in the customization menu on the New Tab Page">
+        Default Kahf
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_CHROME_CHANGE_THEME_LABEL" desc="The label for the action button for changing Brave theme in the New Tab Page customize chrome side panel.">
+      <message name="IDS_NTP_CUSTOMIZE_CHROME_CHANGE_THEME_LABEL" desc="The label for the action button for changing Kahf theme in the New Tab Page customize chrome side panel.">
         Change theme
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_MANAGED_NEW_TAB_PAGE" desc="The string that shows on the customize chrome UI when a 3rd party manages the new tab page.">
@@ -7500,12 +7500,12 @@ Keep your key file in a safe place. You will need it to create new versions of y
         <ph name="THIRD_PARTY_NTP_MANAGER">$1<ex>ZomboCom</ex></ph> is managing your new tab page, opens in a new tab
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_RESET_TO_CLASSIC_CHROME_LABEL" desc="The label for the button for resetting theme back to default chrome in the New Tab Page customize chrome side panel.">
-        Reset to Default Brave
+        Reset to Default Kahf
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_CHROME_RESET_TO_CLASSIC_CHROME_COMPLETE" desc="Text for a screenreader to read aloud when the user's theme has finished changing to classic chrome in the Customize Brave side panel.">
-        Theme updated to Default Brave
+      <message name="IDS_NTP_CUSTOMIZE_CHROME_RESET_TO_CLASSIC_CHROME_COMPLETE" desc="Text for a screenreader to read aloud when the user's theme has finished changing to classic chrome in the Customize Kahf side panel.">
+        Theme updated to Default Kahf
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_CHROME_RESET_TO_UPLOADED_IMAGE_COMPLETE" desc="Text for a screenreader to read aloud when the user's theme has finished changing to an uploaded image in the Customize Brave side panel.">
+      <message name="IDS_NTP_CUSTOMIZE_CHROME_RESET_TO_UPLOADED_IMAGE_COMPLETE" desc="Text for a screenreader to read aloud when the user's theme has finished changing to an uploaded image in the Customize Kahf side panel.">
         Theme updated to uploaded image
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_FOLLOW_THEME_LABEL" desc="The label for the toggle to use the system color scheme instead of that from the browser.">
@@ -8150,10 +8150,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <message name="IDS_NTP_WALLPAPER_SEARCH_SEPARATOR" desc="Text/punctuation that separates strings in a list. For example, 'meadow, oil painting, intellectual, and yellow.'" meaning="List separator for strings.">
          , '''
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_TOOLBAR_BUTTON_A11Y_LABEL" is_accessibility_with_no_ui="true" desc="Accessibility label describing the functionality of the button that opens the toolbar customization section of Customize Brave.">
+      <message name="IDS_NTP_CUSTOMIZE_TOOLBAR_BUTTON_A11Y_LABEL" is_accessibility_with_no_ui="true" desc="Accessibility label describing the functionality of the button that opens the toolbar customization section of Customize Kahf.">
         Customize toolbar buttons
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_TOOLBAR_CHOOSE_ICONS_LABEL" desc="Label for the description of the functionality of the section of Customize Brave for selecting toolbar icons.">
+      <message name="IDS_NTP_CUSTOMIZE_TOOLBAR_CHOOSE_ICONS_LABEL" desc="Label for the description of the functionality of the section of Customize Kahf for selecting toolbar icons.">
         Choose what buttons show in the toolbar
       </message>
       <message name="IDS_NTP_CUSTOMIZE_TOOLBAR_REORDER_TIP_LABEL" desc="Label for the tip informing users of how they can reorder buttons that they have pinned to the toolbar.">
@@ -9608,8 +9608,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
           <message name="IDS_IOS_DESKTOP_PAYMENT_PROMO_BUBBLE_SUBTITLE" desc="The subtitle for the iOS desktop payment promo bubble which lets the user know they can access their saved payment methods.">
             You can access it in your Payment Methods
           </message>
-          <message name="IDS_IOS_DESKTOP_PAYMENT_PROMO_BUBBLE_FOOTER_DESCRIPTION_QR" desc="The description for the iOS desktop payment promo bubble footer which lets the user know how to use their saved payment methods on their phone: follow the QR code, download Brave for iOS and sign in to their account.">
-            Download Brave with this QR code, and sign in to your Brave sync chain.
+          <message name="IDS_IOS_DESKTOP_PAYMENT_PROMO_BUBBLE_FOOTER_DESCRIPTION_QR" desc="The description for the iOS desktop payment promo bubble footer which lets the user know how to use their saved payment methods on their phone: follow the QR code, download Kahf for iOS and sign in to their account.">
+            Download Kahf with this QR code, and sign in to your Kahf sync chain.
           </message>
         </if>
       </if>
@@ -14312,7 +14312,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         <message name="IDS_TURNED_OFF" desc="Description text for the state of camera or microphone or geolocation">
           Turned off
         </message>
-        <message name="IDS_OPEN_SETTINGS_LINK" desc="Title for the button that takes the user to the Security and Privacy settings in Windows or ChromeOS, in order for the user to be able to modify the ability to access camera, microphone and geolocation for Brave.">
+        <message name="IDS_OPEN_SETTINGS_LINK" desc="Title for the button that takes the user to the Security and Privacy settings in Windows or ChromeOS, in order for the user to be able to modify the ability to access camera, microphone and geolocation for Kahf.">
           System settings
         </message>
       </if>
@@ -15916,7 +15916,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_WEBAUTHN_BLUETOOTH_POWER_ON_MANUAL_DESCRIPTION" desc="Description in the dialog requesting the user to manually turn on Bluetooth so that security keys (external physical devices for user authentication)can be used over Bluetooth.">
         Check your device settings and turn it on to continue
       </message>
-      <message name="IDS_WEBAUTHN_BLUETOOTH_POWER_ON_MANUAL_NEXT" desc="Button text. The user clicks this once they manually turned on Bluetooth, so that Brave would retry connecting to security keys over Bluetooth.">
+      <message name="IDS_WEBAUTHN_BLUETOOTH_POWER_ON_MANUAL_NEXT" desc="Button text. The user clicks this once they manually turned on Bluetooth, so that Kahf would retry connecting to security keys over Bluetooth.">
         Try again
       </message>
       <message name="IDS_WEBAUTHN_LOADING" is_accessibility_with_no_ui="true" desc="Accesibility text which is announced while a WebAuthn request is being processed. This text will be announced while the loading dialog is displayed.">
@@ -15924,8 +15924,8 @@ Please help our engineers fix this problem. Tell us what happened right before y
       </message>
 
       <if expr="is_macosx">
-        <message name="IDS_WEBAUTHN_BLUETOOTH_PERMISSION" desc="Body text in a dialog that appears when the user has requested some function that depends on Bluetooth, but Brave doesn't have permission to use Bluetooth. The action on this dialog is a button that will open the macOS System Preferences so that the user can grant permission.">
-          Brave needs permission to use Bluetooth to connect to your device
+        <message name="IDS_WEBAUTHN_BLUETOOTH_PERMISSION" desc="Body text in a dialog that appears when the user has requested some function that depends on Bluetooth, but Kahf doesn't have permission to use Bluetooth. The action on this dialog is a button that will open the macOS System Preferences so that the user can grant permission.">
+          Kahf needs permission to use Bluetooth to connect to your device
         </message>
       </if>
 
@@ -16086,7 +16086,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_WEBAUTHN_ATTESTATION_WARNING" desc="This message is included on a dialog that asks a user to touch their security key. It tells the user that the website has requested 'attestation' information from the security key which will disclose the make and model of the security key to the site if they tap it.">
         <ph name="WEBSITE"><ex>accounts.google.com</ex>$1</ph> will learn the make and model of your security key
       </message>
-      <message name="IDS_WEBAUTHN_ENTERPRISE_ATTESTATION_WARNING" desc="This message is included on a dialog that asks a user to touch their security key. It tells the user that the website has requested 'attestation' information from the security key which will disclose the make and model of the security key to the site if they tap it. Additionally, Brave will send the name of the site to the security key and the site has requested that, if the security key recognizes and trusts that site, it return its serial number. This will uniquely identity the security key.">
+      <message name="IDS_WEBAUTHN_ENTERPRISE_ATTESTATION_WARNING" desc="This message is included on a dialog that asks a user to touch their security key. It tells the user that the website has requested 'attestation' information from the security key which will disclose the make and model of the security key to the site if they tap it. Additionally, Kahf will send the name of the site to the security key and the site has requested that, if the security key recognizes and trusts that site, it return its serial number. This will uniquely identity the security key.">
         <ph name="WEBSITE"><ex>accounts.google.com</ex>$1</ph> wants to learn the ID number of your security key. The site will know exactly which security key you're using.
       </message>
       <message name="IDS_WEBAUTHN_RETRY" desc="Button text. The user clicks this to retry the authentication flow after an error happened, e.g. to try with a different Security Key.">
@@ -16246,70 +16246,70 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_WEBAUTHN_TOUCH_ID_ENTER_PASSWORD" desc="A label on a button that appears after the user has repeatedly tried to use their fingerprint to authenticate, but the laptop believes that the fingerprint is incorrect. After enough failed attempts the fingerprint reader is disabled and the user must enter their local system password to authenticate. They do so by clicking this button.">
         Enter password
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ERROR_TITLE" desc="The title of a dialog that is shown when an error occurs with Brave Password Manager. Since this involves communication with a server, the most likely cause of the error is a connectivity problem thus 'reach' refers to this external communication.">
-        Can't reach Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_ERROR_TITLE" desc="The title of a dialog that is shown when an error occurs with Kahf Password Manager. Since this involves communication with a server, the most likely cause of the error is a connectivity problem thus 'reach' refers to this external communication.">
+        Can't reach Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ERROR_DESC" desc="The description of a dialog that is shown when an error occurs with Brave Password Manager. Since this involves communication with a server, the most likely cause of the error is a connectivity problem thus 'reach' refers to this external communication.">
-        Can’t reach Brave Password Manager. Try again in a few minutes
+      <message name="IDS_WEBAUTHN_GPM_ERROR_DESC" desc="The description of a dialog that is shown when an error occurs with Kahf Password Manager. Since this involves communication with a server, the most likely cause of the error is a connectivity problem thus 'reach' refers to this external communication.">
+        Can’t reach Kahf Password Manager. Try again in a few minutes
       </message>
-      <message name="IDS_WEBAUTHN_SIGN_IN_AGAIN_TITLE" desc="The first line in a button that is shown when Sync is 'paused' and the user is trying to sign in with or create a passkey. Sync 'paused' is a state where the user has opted in to Sync, but their sign-in status has expired and they need to sign in again to restore it. Tapping this button closes the passkey window and opens a new tab where the user can sign in to Brave.">
+      <message name="IDS_WEBAUTHN_SIGN_IN_AGAIN_TITLE" desc="The first line in a button that is shown when Sync is 'paused' and the user is trying to sign in with or create a passkey. Sync 'paused' is a state where the user has opted in to Sync, but their sign-in status has expired and they need to sign in again to restore it. Tapping this button closes the passkey window and opens a new tab where the user can sign in to Kahf.">
         Sign in again
       </message>
-      <message name="IDS_WEBAUTHN_SIGN_IN_AGAIN_DESCRIPTION" desc="The second line in a button that is shown when Sync is 'paused' and the user is trying to sign in with or create a passkey. Sync 'paused' is a state where the user has opted in to Sync, but their sign-in status has expired and they need to sign in again to restore it. Tapping this button closes the passkey window and opens a new tab where the user can sign in to Brave. Note that the English string only just fits within the allocated space. Longer strings will be elided at the end.">
-        To use passkeys saved in your Brave sync chain
+      <message name="IDS_WEBAUTHN_SIGN_IN_AGAIN_DESCRIPTION" desc="The second line in a button that is shown when Sync is 'paused' and the user is trying to sign in with or create a passkey. Sync 'paused' is a state where the user has opted in to Sync, but their sign-in status has expired and they need to sign in again to restore it. Tapping this button closes the passkey window and opens a new tab where the user can sign in to Kahf. Note that the English string only just fits within the allocated space. Longer strings will be elided at the end.">
+        To use passkeys saved in your Kahf sync chain
       </message>
-      <message name="IDS_WEBAUTHN_GPM_INCOGNITO_CREATE_TITLE" desc="The title of a dialog that is shown when a user is creating a Brave Password Manager passkey while browsing in Private mode. The title is asking the user to confirm that they want to perform the action, while suggesting that the new passkey will exist outside of Private mode.">
+      <message name="IDS_WEBAUTHN_GPM_INCOGNITO_CREATE_TITLE" desc="The title of a dialog that is shown when a user is creating a Kahf Password Manager passkey while browsing in Private mode. The title is asking the user to confirm that they want to perform the action, while suggesting that the new passkey will exist outside of Private mode.">
         Save this passkey outside Private?
       </message>
-      <message name="IDS_WEBAUTHN_GPM_INCOGNITO_CREATE_DESC" desc="The description of a dialog that is shown when a user is creating a Brave Password Manager passkey while browsing in Private mode. It is explaining to the user that the passkey will continue to exist in the password manager outside of Private mode.">
+      <message name="IDS_WEBAUTHN_GPM_INCOGNITO_CREATE_DESC" desc="The description of a dialog that is shown when a user is creating a Kahf Password Manager passkey while browsing in Private mode. It is explaining to the user that the passkey will continue to exist in the password manager outside of Private mode.">
         This passkey will be saved to your password manager. Anyone with access to it will be able to use this passkey.
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PIN_OPTION_NUMBERS" desc="A label on the pin options dropdown menu that allows to choose a Brave Password Manager pin with digits only.">
+      <message name="IDS_WEBAUTHN_GPM_PIN_OPTION_NUMBERS" desc="A label on the pin options dropdown menu that allows to choose a Kahf Password Manager pin with digits only.">
         Numbers
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PIN_OPTION_ALPHANUMERIC" desc="A label on the pin options dropdown menu that allows to choose an alphanumeric Brave Password Manager pin.">
+      <message name="IDS_WEBAUTHN_GPM_PIN_OPTION_ALPHANUMERIC" desc="A label on the pin options dropdown menu that allows to choose an alphanumeric Kahf Password Manager pin.">
         Letters &amp;&amp; Numbers
       </message>
-      <message name="IDS_WEBAUTHN_GPM_CREATE_PIN_TITLE" desc="The title of a dialog that is shown when a user is creating a new Brave Password Manager PIN.">
+      <message name="IDS_WEBAUTHN_GPM_CREATE_PIN_TITLE" desc="The title of a dialog that is shown when a user is creating a new Kahf Password Manager PIN.">
         Create a recovery PIN
       </message>
-      <message name="IDS_WEBAUTHN_GPM_CREATE_ALPHANUMERIC_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield during creation of an alphanumeric pin.">
-        Create an alphanumeric recovery PIN for Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_CREATE_ALPHANUMERIC_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield during creation of an alphanumeric pin.">
+        Create an alphanumeric recovery PIN for Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_CREATE_SIX_DIGIT_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield during creation of a 6-digit pin.">
-        Create a 6-digit recovery PIN for Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_CREATE_SIX_DIGIT_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield during creation of a 6-digit pin.">
+        Create a 6-digit recovery PIN for Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_CREATE_SIX_DIGIT_PIN_ACCESSIBILITY_WITH_FOCUSED_DIGIT" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield during creation of a 6-digit pin, additionally informing which digit needs to be typed.">
-        Create a 6-digit recovery PIN for Brave Password Manager, PIN digit <ph name="NUM_DIGIT">$1<ex>3</ex></ph> of 6
+      <message name="IDS_WEBAUTHN_GPM_CREATE_SIX_DIGIT_PIN_ACCESSIBILITY_WITH_FOCUSED_DIGIT" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield during creation of a 6-digit pin, additionally informing which digit needs to be typed.">
+        Create a 6-digit recovery PIN for Kahf Password Manager, PIN digit <ph name="NUM_DIGIT">$1<ex>3</ex></ph> of 6
       </message>
-      <message name="IDS_WEBAUTHN_GPM_CREATE_PIN_DESC" desc="The description of a dialog that is shown when a user is creating a Brave Password Manager PIN explaining that it will be used to access their passkeys on all devices. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
+      <message name="IDS_WEBAUTHN_GPM_CREATE_PIN_DESC" desc="The description of a dialog that is shown when a user is creating a Kahf Password Manager PIN explaining that it will be used to access their passkeys on all devices. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
         This helps you access your saved passkeys on any device
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ENTER_PIN_TITLE" desc="The title of a dialog that is shown when a user has to verify their presence in passkey creation / sign-in flows by using their Brave Password Manager PIN.">
+      <message name="IDS_WEBAUTHN_GPM_ENTER_PIN_TITLE" desc="The title of a dialog that is shown when a user has to verify their presence in passkey creation / sign-in flows by using their Kahf Password Manager PIN.">
         Enter your PIN
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ENTER_ALPHANUMERIC_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield when entering an alphanumeric pin for user verification.">
-        Enter your alphanumeric PIN for Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_ENTER_ALPHANUMERIC_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield when entering an alphanumeric pin for user verification.">
+        Enter your alphanumeric PIN for Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ENTER_ALPHANUMERIC_PIN_ACCESSIBILITY_WITH_WEBSITE" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield when entering an alphanumeric pin for user verification, additionally informing about the reason for user verification.">
-        <ph name="SITE">$1<ex>example.com</ex></ph> wants to verify it's you. Enter your alphanumeric PIN for Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_ENTER_ALPHANUMERIC_PIN_ACCESSIBILITY_WITH_WEBSITE" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield when entering an alphanumeric pin for user verification, additionally informing about the reason for user verification.">
+        <ph name="SITE">$1<ex>example.com</ex></ph> wants to verify it's you. Enter your alphanumeric PIN for Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ENTER_SIX_DIGIT_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield when entering a 6-digit pin for user verification.">
-        Enter your 6-digit PIN for Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_ENTER_SIX_DIGIT_PIN_ACCESSIBILITY" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield when entering a 6-digit pin for user verification.">
+        Enter your 6-digit PIN for Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_ENTER_SIX_DIGIT_PIN_ACCESSIBILITY_WITH_FOCUSED_DIGIT" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield when entering a 6-digit pin for user verification, additionally informing about the reason for user verification and which digit needs to be typed.">
-        <ph name="SITE">$1<ex>example.com</ex></ph> wants to verify it's you. Enter your 6-digit PIN for Brave Password Manager, PIN digit <ph name="NUM_DIGIT">$2<ex>3</ex></ph> of 6
+      <message name="IDS_WEBAUTHN_GPM_ENTER_SIX_DIGIT_PIN_ACCESSIBILITY_WITH_FOCUSED_DIGIT" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield when entering a 6-digit pin for user verification, additionally informing about the reason for user verification and which digit needs to be typed.">
+        <ph name="SITE">$1<ex>example.com</ex></ph> wants to verify it's you. Enter your 6-digit PIN for Kahf Password Manager, PIN digit <ph name="NUM_DIGIT">$2<ex>3</ex></ph> of 6
       </message>
       <message name="IDS_WEBAUTHN_GPM_ENTER_PIN_DESC" desc="The description of a dialog that is shown when a user is verifying their presence in passkey creation / sign-in flows explaining that the website requires that.">
         <ph name="SITE">$1<ex>example.com</ex></ph> wants to verify it's you
       </message>
-      <message name="IDS_WEBAUTHN_GPM_SIX_DIGIT_PIN_ACCESSIBILITY_LABEL" desc="The accessibility label that is announced by a screen reader when a focus lands on a Brave Password Manager PIN textfield when entering a 6-digit pin, informing which digit should be entered now and how to remove the last typed digit.">
+      <message name="IDS_WEBAUTHN_GPM_SIX_DIGIT_PIN_ACCESSIBILITY_LABEL" desc="The accessibility label that is announced by a screen reader when a focus lands on a Kahf Password Manager PIN textfield when entering a 6-digit pin, informing which digit should be entered now and how to remove the last typed digit.">
         Enter PIN digit <ph name="NUM_DIGIT">$1<ex>3</ex></ph> of 6. Use backspace or delete to remove the last digit.
       </message>
-      <message name="IDS_WEBAUTHN_FORGOT_GPM_PIN_BUTTON" desc="The label of a button that is displayed in a user verification dialog with a Brave Password Manager PIN that allows to reset it.">
+      <message name="IDS_WEBAUTHN_FORGOT_GPM_PIN_BUTTON" desc="The label of a button that is displayed in a user verification dialog with a Kahf Password Manager PIN that allows to reset it.">
         Forgot PIN
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PIN_OPTIONS_BUTTON" desc="The label of a button that is displayed in a dialog that is shown when a user is creating a Brave Password Manager PIN that allows to choose different PIN options (numeric vs. alphanumeric).">
+      <message name="IDS_WEBAUTHN_GPM_PIN_OPTIONS_BUTTON" desc="The label of a button that is displayed in a dialog that is shown when a user is creating a Kahf Password Manager PIN that allows to choose different PIN options (numeric vs. alphanumeric).">
         PIN options
       </message>
       <message name="IDS_WEBAUTHN_GPM_WRONG_PIN_ERROR" desc="Error message. Displayed when the user enters the wrong GPM PIN explaining how many attempts are still remaining.">
@@ -16332,29 +16332,29 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_WEBAUTHN_CHANGE_PIN" desc="The label of a button that is displayed on a dialog when the user entered their PIN incorrectly too many times, allowing to change it.">
         Change PIN
       </message>
-      <message name="IDS_WEBAUTHN_LOCKED_GPM_PIN_TITLE" desc="The title of a dialog that is displayed when the user entered their Brave Password Manager PIN incorrectly too many times.">
-        Change your recovery PIN for Brave Password Manager
+      <message name="IDS_WEBAUTHN_LOCKED_GPM_PIN_TITLE" desc="The title of a dialog that is displayed when the user entered their Kahf Password Manager PIN incorrectly too many times.">
+        Change your recovery PIN for Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_LOCKED_GPM_PIN_DESCRIPTION" desc="The description of a dialog that is displayed when the user entered their Brave Password Manager PIN incorrectly too many times.">
+      <message name="IDS_WEBAUTHN_LOCKED_GPM_PIN_DESCRIPTION" desc="The description of a dialog that is displayed when the user entered their Kahf Password Manager PIN incorrectly too many times.">
         You've entered the wrong PIN too many times. To access your passkeys and passwords, change your PIN.
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PIN_DIGIT_HINT" desc="The hint that is displayed during the creation of a 6-digit Brave Password Manager PIN, whenever a user types something other than a digit.">
+      <message name="IDS_WEBAUTHN_GPM_PIN_DIGIT_HINT" desc="The hint that is displayed during the creation of a 6-digit Kahf Password Manager PIN, whenever a user types something other than a digit.">
         Enter a 6-digit PIN
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PIN_LENGTH_HINT" desc="The hint that is displayed during the creation of an alphanumeric Brave Password Manager PIN, explaining its minimal length requirement whenever the currently typed length is not enough.">
+      <message name="IDS_WEBAUTHN_GPM_PIN_LENGTH_HINT" desc="The hint that is displayed during the creation of an alphanumeric Kahf Password Manager PIN, explaining its minimal length requirement whenever the currently typed length is not enough.">
         Your PIN can be 4 characters or more
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PASSKEY_SAVED_LABEL" desc="The label in a bubble that is displayed as a confirmation that a passkey was created and saved in Brave Password Manager, explaining that the passkeys can be managed in Brave Password Manager. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
-        You can view and manage your passkeys saved in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph>
+      <message name="IDS_WEBAUTHN_GPM_PASSKEY_SAVED_LABEL" desc="The label in a bubble that is displayed as a confirmation that a passkey was created and saved in Kahf Password Manager, explaining that the passkeys can be managed in Kahf Password Manager. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
+        You can view and manage your passkeys saved in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph>
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PASSKEY_SAVED_LINK" desc="Link text within a bubble that is displayed as a confirmation that a passkey was created and saved in Brave Password Manager. See IDS_WEBAUTHN_GPM_PASSKEY_SAVED_LABEL for more details.">
-        Brave Password Manager
+      <message name="IDS_WEBAUTHN_GPM_PASSKEY_SAVED_LINK" desc="Link text within a bubble that is displayed as a confirmation that a passkey was created and saved in Kahf Password Manager. See IDS_WEBAUTHN_GPM_PASSKEY_SAVED_LABEL for more details.">
+        Kahf Password Manager
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PASSKEY_UPDATE_NEEDED_TITLE" desc="The title of a bubble that is displayed to notify that the creation of a new passkey is necessary because the old passkey was deleted from Brave Password Manager.">
+      <message name="IDS_WEBAUTHN_GPM_PASSKEY_UPDATE_NEEDED_TITLE" desc="The title of a bubble that is displayed to notify that the creation of a new passkey is necessary because the old passkey was deleted from Kahf Password Manager.">
         Passkey update needed
       </message>
-      <message name="IDS_WEBAUTHN_GPM_PASSKEY_UPDATE_NEEDED_LABEL" desc="The label in a bubble that is displayed as a confirmation that a passkey was deleted in Brave Password Manager, explaining to the user to sign in to create a new one. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
-        Sign in to this site to create a new passkey. The old one was deleted from Brave Password Manager.
+      <message name="IDS_WEBAUTHN_GPM_PASSKEY_UPDATE_NEEDED_LABEL" desc="The label in a bubble that is displayed as a confirmation that a passkey was deleted in Kahf Password Manager, explaining to the user to sign in to create a new one. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
+        Sign in to this site to create a new passkey. The old one was deleted from Kahf Password Manager.
       </message>
       <message name="IDS_WEBAUTHN_GPM_MANAGE_PASSKEYS_BUTTON" desc="The label of the 'Manage passkeys' button in the passkey-deleted-confirmation bubble. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
         Manage passkeys
@@ -17687,13 +17687,13 @@ Please help our engineers fix this problem. Tell us what happened right before y
         </message>
         <message name="IDS_SETTINGS_SAFETY_HUB_REVOKED_PERMISSIONS_MENU_NOTIFICATION" desc="Title for the permissions review Safety Check module on the Magic Stack. Shown when Safety Check has identified several sites that send abusive notifications.">
           {NUM_SITES, plural,
-          =1 {Brave removed permissions from 1 site}
-          other {Brave removed permissions from {NUM_SITES} sites}}
+          =1 {Kahf removed permissions from 1 site}
+          other {Kahf removed permissions from {NUM_SITES} sites}}
         </message>
         <message name="IDS_SETTINGS_SAFETY_HUB_UNUSED_SITE_PERMISSIONS_MENU_NOTIFICATION" desc="Title for the permissions review Safety Check module on the Magic Stack. Shown when Safety Check has identified several unused sites that have granted permissions.">
           {NUM_SITES, plural,
-          =1 {Brave removed permissions from 1 site}
-          other {Brave removed permissions from {NUM_SITES} sites}}
+          =1 {Kahf removed permissions from 1 site}
+          other {Kahf removed permissions from {NUM_SITES} sites}}
         </message>
         <message name="IDS_SETTINGS_SAFETY_HUB_COMPROMISED_PASSWORDS_MENU_NOTIFICATION" translateable="false">
           {NUM_SITES, plural,

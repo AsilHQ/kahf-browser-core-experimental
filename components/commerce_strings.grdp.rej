@@ -1,10 +1,39 @@
 diff a/components/commerce_strings.grdp b/components/commerce_strings.grdp	(rejected hunks)
-@@ -599,7 +599,7 @@
-     Lets go
+@@ -476,7 +476,7 @@
+   <message name="IDS_PRICE_HISTORY_TITLE_WITH_VARIANTS" desc="The title of the Price History section in the Shopping Insights side panel when we have variants.">
+     Price History Across the Web for This Option
    </message>
-   <message name="IDS_PRODUCT_SPECIFICATIONS_DISCLOSURE_TITLE" translateable="false" desc="The text for the FRE disclosure bubble.">
--    Brave can help you view product specifications
-+    Kahf can help you view product specifications
+-  <message name="IDS_IOS_PRICE_INSIGHTS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_TITLE" desc="The title for the UIAlert that redirects the user to iOS' application settings for Brave.">
++  <message name="IDS_IOS_PRICE_INSIGHTS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_TITLE" desc="The title for the UIAlert that redirects the user to iOS' application settings for Kahf.">
+      Turn on price tracking notifications
    </message>
-   <message name="IDS_PRODUCT_SPECIFICATIONS_DISCLOSURE_ITEMS_HEADER" translateable="false" desc="The text for the disclosure items header.">
-     Things to consider
+   <message name="IDS_IOS_PRICE_INSIGHTS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_MESSAGE" desc="The description that argues why push notification permission is necessary for price tracking.">
+@@ -485,7 +485,7 @@
+   <message name="IDS_IOS_PRICE_INSIGHTS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_CLOSE" desc="The label for the alert's close button.">
+     Close
+   </message>
+-  <message name="IDS_IOS_PRICE_INSIGHTS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_REDIRECT" desc="The label for the alert's button that redirects the user to Brave's application settings in iOS.">
++  <message name="IDS_IOS_PRICE_INSIGHTS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_REDIRECT" desc="The label for the alert's button that redirects the user to Kahf's application settings in iOS.">
+     Settings
+   </message>
+   <message name="IDS_PRICE_INSIGHTS_UNTRACK_SNACKBAR_MESSAGE" desc="The snackbar title for Price Insights when the user successfully untrack a product.">
+@@ -574,7 +574,7 @@
+     Delete comparison table
+   </message>
+   <message name="IDS_COMPARE_DISCLAIMER" desc="Disclaimer text shown in tab compare UIs.">
+-    The tab titles and URLs of pages you add to the table are sent to Brave, saved to your account <ph name="EMAIL">$1<ex>test@gmail.com</ex></ph>, and may be seen by human reviewers to improve this feature.
++    The tab titles and URLs of pages you add to the table are sent to Kahf, saved to your account <ph name="EMAIL">$1<ex>test@gmail.com</ex></ph>, and may be seen by human reviewers to improve this feature.
+   </message>
+   <message name="IDS_COMPARE_EMPTY_PRODUCT_SELECTOR" desc="The text displayed in the product selector when there is no currently selected product.">
+     Add a tab
+@@ -679,8 +679,8 @@
+   <message name="IDS_COMPARE_DISCLOSURE_ABOUT_AI_ITEM" desc="The text for the Compare disclosure item that states that the feature uses AI.">
+     This feature uses AI and won't always get it right
+   </message>
+-  <message name="IDS_COMPARE_DISCLOSURE_TAB_ITEM" desc="The text for the Compare disclosure item that states what tab data is shared with Brave.">
+-    The tab titles and URLs of pages you add to the table are sent to Brave
++  <message name="IDS_COMPARE_DISCLOSURE_TAB_ITEM" desc="The text for the Compare disclosure item that states what tab data is shared with Kahf.">
++    The tab titles and URLs of pages you add to the table are sent to Kahf
+   </message>
+   <message name="IDS_COMPARE_DISCLOSURE_ACCOUNT_ITEM" desc="The text for the Compare disclosure item that states where the data is stored.">
+     Comparison tables are saved to your account <ph name="EMAIL">$1<ex>test@gmail.com</ex></ph>

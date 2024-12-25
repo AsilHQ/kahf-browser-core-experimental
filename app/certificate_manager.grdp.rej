@@ -1,5 +1,5 @@
 diff a/app/certificate_manager.grdp b/app/certificate_manager.grdp	(rejected hunks)
-@@ -103,11 +103,11 @@
+@@ -112,15 +112,15 @@
      <message name="IDS_SETTINGS_CERTIFICATE_MANAGER_V2_LOCAL_CERTIFICATES_DESCRIPTION" desc="Description of the local certificates section of cert manager.">
        Local certificates that have been added by your operating system or your administrator.
      </message>
@@ -14,4 +14,9 @@ diff a/app/certificate_manager.grdp b/app/certificate_manager.grdp	(rejected hun
 +    <message name="IDS_SETTINGS_CERTIFICATE_MANAGER_V2_CRS_LEARN_MORE_LINK" desc="Link to learning more about the Kahf Root Store.">
        Learn more
      </message>
+     <message name="IDS_SETTINGS_CERTIFICATE_MANAGER_V2_CRS_LEARN_MORE_LINK_ARIA_LABEL" desc="Text read by screen readers when focusing on the Learn More link. If the link is activated, it will open a new tab with more information about the Chroem Root Store. This text will only be announced by screen readers and will not be visible in the UI.">
+-      Learn more about the Brave Root Store in a new tab.
++      Learn more about the Kahf Root Store in a new tab.
+     </message>
      <message name="IDS_SETTINGS_CERTIFICATE_MANAGER_V2_PLATFORM_CERTS_TOGGLE_LABEL" desc="Label for a toggle controlling if platform certs are imported or not.">
+       Use imported local certificates from your operating system

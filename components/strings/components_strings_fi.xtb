@@ -28,7 +28,7 @@
 <translation id="1053959602163383901">Valitsit todennuslaitteella vahvistamisen verkkosivustoilla, jotka käyttävät <ph name="PROVIDER_ORIGIN"/> ‐palvelua. Tämä palveluntarjoaja on saattanut tallentaa maksutapaasi koskevia tietoja, joille voit <ph name="LINK_TEXT"/>.</translation>
 <translation id="1055184225775184556">K&amp;umoa lisäys</translation>
 <translation id="1056898198331236512">Varoitus</translation>
-<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina ensin sarkainta ja sitten Enter, niin voit pelata Dino Run ‑peliä Bravessa</translation>
+<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina ensin sarkainta ja sitten Enter, niin voit pelata Dino Run ‑peliä Kahfssa</translation>
 <translation id="1058479211578257048">Tallennetaan kortteja…</translation>
 <translation id="1060136083665017312">Pelikonsolit</translation>
 <translation id="1060320201901229167">Kirjekuori Kaku 5</translation>
@@ -49,7 +49,7 @@
 <translation id="1082026381988252344">Vieritä ja zoomaa jaetun välilehden sisältöä</translation>
 <translation id="1088664500620117635"><ph name="PRODUCT_NAME"/> maksaa tyypillisesti <ph name="LOW_PRICE"/>–<ph name="HIGH_PRICE"/>, mutta nykyinen hinta verkossa on <ph name="CURRENT_PRICE"/>.</translation>
 <translation id="1089439967362294234">Vaihda salasana</translation>
-<translation id="807719392864780545">Voit muuttaa tämän milloin tahansa Braven asetuksista.</translation>
+<translation id="807719392864780545">Voit muuttaa tämän milloin tahansa Kahfn asetuksista.</translation>
 <translation id="1090629319939036170">VR-valikko</translation>
 <translation id="1091463901118115503">Jatka lukemista</translation>
 <translation id="1091779689406092804">kuvakaappaukset</translation>
@@ -57,10 +57,10 @@
 <translation id="1096545575934602868">Kentässä voi olla korkeintaan <ph name="MAX_ITEMS_LIMIT"/> kohtaa. Muut kohdat ohitetaan.</translation>
 <translation id="1097803577928227769">Kansallispuistot ja julkiset puutarhat</translation>
 <translation id="1099928364755383720">automaattinen pikkuruutu</translation>
-<translation id="7584468665743195331">Jatka toimintoa ‑painike, paina Enter, niin voit jatkaa toimintoa ja nähdä oleelliset tapahtumat Brave-historiassasi</translation>
+<translation id="7584468665743195331">Jatka toimintoa ‑painike, paina Enter, niin voit jatkaa toimintoa ja nähdä oleelliset tapahtumat Kahf-historiassasi</translation>
 <translation id="1101672080107056897">Virhetapahtuma</translation>
 <translation id="1104409666019087579">Jotkin pakolliset kentät ovat tyhjiä. Täytä ne ennen tallentamista.</translation>
-<translation id="8424280348953443220">Ylläpidä salasanoja ‑painike, aktivoi katsoaksesi ja ylläpitääksesi salasanoja Braven asetuksista</translation>
+<translation id="8424280348953443220">Ylläpidä salasanoja ‑painike, aktivoi katsoaksesi ja ylläpitääksesi salasanoja Kahfn asetuksista</translation>
 <translation id="1108464073729874771">A3 x 4</translation>
 <translation id="1110994991967754504">Valitse käyttöoikeus kohteelle <ph name="PERMISSION_NAME"/></translation>
 <translation id="1113000785583998331">Tallennetaanko IBAN?</translation>
@@ -190,7 +190,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="132390688737681464">Tallenna ja täytä osoitteet</translation>
 <translation id="1329916999021038454">Lähetä palauteraportti</translation>
 <translation id="1330449323196174374">Vasemmanpuoleinen lehtitaite</translation>
-<translation id="4274264486214599895">Pelaa Braven Dino-peliä</translation>
+<translation id="4274264486214599895">Pelaa Kahfn Dino-peliä</translation>
 <translation id="1333989956347591814">Toimintasi <ph name="BEGIN_EMPHASIS"/>saattaa silti näkyä<ph name="END_EMPHASIS"/>
         <ph name="BEGIN_LIST"/>
           <ph name="LIST_ITEM"/>käymillesi verkkosivustoille
@@ -271,7 +271,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="1462245070427461050">JIS B9 (45 mm x 64 mm)</translation>
 <translation id="1462951478840426066">käyttää tietokoneesi fontteja, jotta voit luoda tasokasta sisältöä</translation>
 <translation id="1463793142714244641">Lomaosakkeet ja vapaa-ajan asunnot</translation>
-<translation id="4855177403643365941">IBAN tallennettu Brave-tilillesi</translation>
+<translation id="4855177403643365941">IBAN tallennettu Kahf-tilillesi</translation>
 <translation id="1467432559032391204">Vasemmalla</translation>
 <translation id="1468653229182955856">Voit jatkaa osoitteeseen <ph name="TOP_ORIGIN"/> koodilla <ph name="ONE_TIME_CODE"/> (<ph name="EMBEDDED_ORIGIN"/>)</translation>
 <translation id="1472675084647422956">Näytä enemmän</translation>
@@ -434,7 +434,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="1741613555002899862">On määritettävä kelvollisena merkkijonona, kun DnsOverHttpsMode on <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
 <translation id="1743393865165844832">Petivaatteet ja lakanat</translation>
 <translation id="1743892871127720056">Vertailutaulukon otsikko, muokkaa tekstiä</translation>
-<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Miten käytämme tätä dataa:<ph name="END_BOLD"/> Brave havaitsee sinua kiinnostavia aiheita selaamisen aikana. Aiheiden tunnisteet ovat ennalta määritettyjä, ja niitä ovat esimerkiksi taide ja viihde, ostokset ja urheilu. Avaamasi sivut voivat myöhemmin pyytää Bravelta muutamia aiheita (mutta ei selaushistoriaasi) näkemiesi mainosten personointiin.</translation>
+<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Miten käytämme tätä dataa:<ph name="END_BOLD"/> Kahf havaitsee sinua kiinnostavia aiheita selaamisen aikana. Aiheiden tunnisteet ovat ennalta määritettyjä, ja niitä ovat esimerkiksi taide ja viihde, ostokset ja urheilu. Avaamasi sivut voivat myöhemmin pyytää Kahflta muutamia aiheita (mutta ei selaushistoriaasi) näkemiesi mainosten personointiin.</translation>
 <translation id="1746113442205726301">Kuvan Y vaihto</translation>
 <translation id="1746531169546376413">0 astetta</translation>
 <translation id="1748225549612934682">Lyhennä tekstiä, niin saat apua kirjoittamiseen</translation>
@@ -447,7 +447,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="1756555787993603971">Voit nyt käyttää virtuaalikorttia ja maksaa turvallisemmin automaattisen täytön avulla.</translation>
 <translation id="175656076281618225">Taikuus</translation>
 <translation id="1757773103848038814">Monospace-fontti</translation>
-<translation id="3727704638090640904">Vaihda Brave-salasana ‑painike, aktivoi vaihtaaksesi Brave-tilin salasanan</translation>
+<translation id="3727704638090640904">Vaihda Kahf-salasana ‑painike, aktivoi vaihtaaksesi Kahf-tilin salasanan</translation>
 <translation id="1762779605905950734">Kadun nimi</translation>
 <translation id="1763864636252898013">Palvelin ei voinut todistaa olevansa <ph name="DOMAIN"/>; laitteesi käyttöjärjestelmä ei luota sen suojausvarmenteeseen. Tämä voi johtua määritysvirheestä tai verkkoyhteytesi siepanneesta hyökkääjästä.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Kokeile Windowsin verkon diagnostiikkaa<ph name="END_LINK"/></translation>
@@ -455,8 +455,8 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="1777422078676229054">Valokuva (arkistointi)</translation>
 <translation id="1778646502362731194">JIS B0 (1 030 mm x 1 456 mm)</translation>
 <translation id="1785118555253503473">Asennetaanko verkkosovelluksia?</translation>
-<translation id="3480410886581896628">Brave Smart Lock</translation>
-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, ylläpidä tietojasi, yksityisyyttäsi ja tietoturvaasi Brave-tilillä painamalla sarkainta ja sitten Enter</translation>
+<translation id="3480410886581896628">Kahf Smart Lock</translation>
+<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, ylläpidä tietojasi, yksityisyyttäsi ja tietoturvaasi Kahf-tilillä painamalla sarkainta ja sitten Enter</translation>
 <translation id="1793631236004319016">Käytetty viimeksi <ph name="NUM_HOURS_MINUTES_SECONDS"/> sitten.</translation>
 <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, useita toimintoja saatavilla, selaa niitä painamalla sarkainta</translation>
 <translation id="1800473098294731951">B9</translation>
@@ -587,11 +587,11 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2040894699575719559">Sijainti estetty</translation>
 <translation id="2041788246978549610">Käyttää käytettävissä olevia mikrofoneja (<ph name="MICS_COUNT"/>)</translation>
 <translation id="2042213636306070719">Lokero 7</translation>
-<translation id="3163988908275223348">Kirjaudu sisään käyttääksesi Brave-tilillesi tallennettuja salasanoja</translation>
+<translation id="3163988908275223348">Kirjaudu sisään käyttääksesi Kahf-tilillesi tallennettuja salasanoja</translation>
 <translation id="2045871135676061132">Kirjekuori Henkilökohtainen</translation>
 <translation id="2046951263634619614">Kirjakauppiaat</translation>
 <translation id="2048261947532620704">Sivua käännetään</translation>
-<translation id="5469355573019315764">Sivustot voivat pyytää Bravelta tietoa personoidakseen näkemiäsi mainoksia.</translation>
+<translation id="5469355573019315764">Sivustot voivat pyytää Kahflta tietoa personoidakseen näkemiäsi mainoksia.</translation>
 <translation id="2059166748188874810">Paikkakunta</translation>
 <translation id="2059202684901022309">22 x 34 tuumaa</translation>
 <translation id="2064568741209980952">Luotot ja lainanannot</translation>
@@ -688,7 +688,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2212735316055980242">Käytäntöä ei löydy</translation>
 <translation id="2213606439339815911">Noudetaan merkintöjä…</translation>
 <translation id="2213612003795704869">Sivu on tulostettu</translation>
-<translation id="4045100732984144870">Braven automaattinen täyttö</translation>
+<translation id="4045100732984144870">Kahfn automaattinen täyttö</translation>
 <translation id="2215539479425228550">Kiipeily ja vuorikiipeily</translation>
 <translation id="2215727959747642672">Tiedostojen muokkaus</translation>
 <translation id="2215963164070968490">Koirat</translation>
@@ -796,7 +796,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="239429038616798445">Lähetystapa ei ole käytettävissä. Kokeile toista tapaa.</translation>
 <translation id="2395840535409704129">Vesiurheilu</translation>
 <translation id="2396249848217231973">K&amp;umoa poisto</translation>
-<translation id="4124760202519850347">Tämä IBAN on tallennettu Brave-tilillesi, jotta voit käyttää sitä Braven palveluissa.</translation>
+<translation id="4124760202519850347">Tämä IBAN on tallennettu Kahf-tilillesi, jotta voit käyttää sitä Kahfn palveluissa.</translation>
 <translation id="2400600116338235695">Saa pyytää lupaa sarjaportteihin yhdistämiseen</translation>
 <translation id="2404884497378469141">Yritä kopioida tiedostot uudelleen</translation>
 <translation id="2412310121876768057">Täytetäänkö kortti automaattisesti ensi kerralla?</translation>
@@ -818,7 +818,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2461822463642141190">Nykyinen</translation>
 <translation id="2462932596748424101">Sosiaaliset verkostot</translation>
 <translation id="2465688316154986572">Niitti</translation>
-<translation id="4058615531773510267">Ylläpidä Bravessa lataamiasi tiedostoja</translation>
+<translation id="4058615531773510267">Ylläpidä Kahfssa lataamiasi tiedostoja</translation>
 <translation id="2466004615675155314">Näytä tietoa verkosta</translation>
 <translation id="2466682894498377850">Välilehti lähetetty laitteelta <ph name="DEVICE_NAME"/></translation>
 <translation id="2467272921457885625">Laitteiston tekniset tiedot ja tilastot, kuten CPU:n tai RAM-muistin käyttöhistoria</translation>
@@ -830,7 +830,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2473810985261856484">Oikeuspalvelut</translation>
 <translation id="2479148705183875116">Avaa Asetukset</translation>
 <translation id="2479410451996844060">Virheellinen hakukoneen URL-osoite.</translation>
-<translation id="6944854796979239513">Brave-tililläsi, <ph name="USER_EMAIL"/></translation>
+<translation id="6944854796979239513">Kahf-tililläsi, <ph name="USER_EMAIL"/></translation>
 <translation id="248064299258688299">Laajennus <ph name="EXTENSION_NAME"/> ilmoittaa:</translation>
 <translation id="2482878487686419369">Ilmoitukset</translation>
 <translation id="248348093745724435">Laitteen käytännöt</translation>
@@ -863,12 +863,12 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="253493526287553278">Katso tarjouskoodin tiedot</translation>
 <translation id="2535659140340599600">{COUNT,plural, =1{ja 1 muu}other{ja # muuta}}</translation>
 <translation id="2536110899380797252">Lisää osoite</translation>
-<translation id="3140033400151786080">Muut laitteen käyttäjät eivät näe toimintaasi, joten voit selata yksityisesti. Tämä ei vaikuta siihen, miten avaamasi sivustot ja niiden käyttämät palvelut, mukaan lukien Brave, keräävät dataa. Lataukset ja kirjanmerkit tallennetaan.</translation>
+<translation id="3140033400151786080">Muut laitteen käyttäjät eivät näe toimintaasi, joten voit selata yksityisesti. Tämä ei vaikuta siihen, miten avaamasi sivustot ja niiden käyttämät palvelut, mukaan lukien Kahf, keräävät dataa. Lataukset ja kirjanmerkit tallennetaan.</translation>
 <translation id="2539524384386349900">Tunnista</translation>
 <translation id="2542106216580219892">Surffaus</translation>
 <translation id="2544546346215446551">Järjestelmänvalvoja käynnisti laitteen uudelleen</translation>
 <translation id="2544644783021658368">Yksittäinen dokumentti</translation>
-<translation id="5342827302598046226">Aseta Brave oletusselaimeksi</translation>
+<translation id="5342827302598046226">Aseta Kahf oletusselaimeksi</translation>
 <translation id="2545721997179863249">Täytä kaikki ‐vaihtoehto on valittu</translation>
 <translation id="2546283357679194313">Evästeet ja sivustotiedot</translation>
 <translation id="254947805923345898">Käytännön arvo ei kelpaa.</translation>
@@ -914,7 +914,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2651465929321991146">Historia ja välilehdet</translation>
 <translation id="2653659639078652383">Lähetä</translation>
 <translation id="2655752832536625875">Kylpyhuone</translation>
-<translation id="3889152837537169222">Hylkää Brave-vinkki ‐painike, hylkää painamalla Enter</translation>
+<translation id="3889152837537169222">Hylkää Kahf-vinkki ‐painike, hylkää painamalla Enter</translation>
 <translation id="2657637947725373811">{0,plural, =1{Siirretäänkö luottamuksellinen tiedosto?}other{Siirretäänkö luottamuksellisia tiedostoja?}}</translation>
 <translation id="2658843814961855121">Työlainsäädäntö</translation>
 <translation id="2660779039299703961">Tapahtuma</translation>
@@ -1063,18 +1063,18 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2961809451460302960">Henkivakuutukset</translation>
 <translation id="2962073860865348475">12 x 18 tuumaa</translation>
 <translation id="2967082089043584472">Lisätty: <ph name="SET"/></translation>
-<translation id="2470357430970446202">tallenna se Brave-tilillesi</translation>
+<translation id="2470357430970446202">tallenna se Kahf-tilillesi</translation>
 <translation id="297173220375858963">Tietokonepohjainen taitto</translation>
 <translation id="2972581237482394796">&amp;Tee uudelleen</translation>
-<translation id="4715521049551299401">Tätä IBAN-numeroa ei voitu tallentaa Brave-tilillesi. Se on sen sijaan tallennettu Braveen tällä laitteella. Brave kysyy tätä seuraavan kerran, kun käytät tätä IBAN-numeroa.</translation>
+<translation id="4715521049551299401">Tätä IBAN-numeroa ei voitu tallentaa Kahf-tilillesi. Se on sen sijaan tallennettu Kahfen tällä laitteella. Kahf kysyy tätä seuraavan kerran, kun käytät tätä IBAN-numeroa.</translation>
 <translation id="2977665033722899841"><ph name="ROW_NAME"/>, tällä hetkellä valittuna. <ph name="ROW_CONTENT"/></translation>
 <translation id="2977847223286097084">lukita näppäimistön ja käyttää sitä</translation>
 <translation id="2978824962390592855">Ooppera</translation>
 <translation id="2979424420072875974">Kirjoittajan oppaat</translation>
-<translation id="6172169316494799304">Kortin CVC-koodi salataan ja tallennetaan Brave-tilillesi nopeampaa maksamista varten</translation>
+<translation id="6172169316494799304">Kortin CVC-koodi salataan ja tallennetaan Kahf-tilillesi nopeampaa maksamista varten</translation>
 <translation id="2985398929374701810">Anna kelvollinen osoite.</translation>
 <translation id="2987034854559945715">Ei hakua vastaavia ominaisuuksia</translation>
-<translation id="714850411804317247">Brave rajoittaa tiedon määrää, jolla sivustot voivat seurata sinua selaamisen aikana. Voit valita haluamasi suojaustason asetuksista.</translation>
+<translation id="714850411804317247">Kahf rajoittaa tiedon määrää, jolla sivustot voivat seurata sinua selaamisen aikana. Voit valita haluamasi suojaustason asetuksista.</translation>
 <translation id="2989742184762224133">Kaksi niittiä yläreunassa</translation>
 <translation id="2991174974383378012">Jakaminen verkkosivustojen kanssa</translation>
 <translation id="299122504639061328">Hallinnoi oletushakukonetta ja sivustohakua</translation>
@@ -1115,7 +1115,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="3068118691172921711">Tiedostojen lataus (<ph name="CLOUD_PROVIDER"/>) alkaa minuutin kuluttua</translation>
 <translation id="3076865167425975822">Käyttöjärjestelmät</translation>
 <translation id="3080254622891793721">Graafinen</translation>
-<translation id="254030672859277244">Salli Bravelle pääsy ostoskoreihisi, jotta se voi löytää sinulle personoituja alennuksia</translation>
+<translation id="254030672859277244">Salli Kahflle pääsy ostoskoreihisi, jotta se voi löytää sinulle personoituja alennuksia</translation>
 <translation id="3086579638707268289">Toimintaasi verkossa valvotaan</translation>
 <translation id="3087734570205094154">Alaosassa</translation>
 <translation id="3090667236485488075">Lasi</translation>
@@ -1219,7 +1219,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="3249102948665905108">Tiedostojen lataus tänne: <ph name="CLOUD_PROVIDER"/> valmis, mutta siinä tapahtui virheitä</translation>
 <translation id="3252772880526154546">Arkkitehtuuri</translation>
 <translation id="3254301855501243548">18 x 22 tuumaa</translation>
-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, luo uusi tapahtuma nopeasti Brave Kalenterissa painamalla sarkainta ja sitten Enter</translation>
+<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, luo uusi tapahtuma nopeasti Kahf Kalenterissa painamalla sarkainta ja sitten Enter</translation>
 <translation id="3261488570342242926">Lue lisää virtuaalikorteista</translation>
 <translation id="3262698603497362968">Ostovalinnat</translation>
 <translation id="3266367459139339908">Lanseeraamme uusia tapoja, joilla voit rajoittaa sivustojen keräämiä tietoja, kun sinulle näytetään personoituja mainoksia. Esimerkkejä:</translation>
@@ -1249,7 +1249,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="3304073249511302126">Bluetooth-haku</translation>
 <translation id="3304777285002411338">A2 x 3</translation>
 <translation id="33073482541490531">Juuri käyttämäsi salasana on löytynyt tietosuojaloukkauksesta. Salasanat suosittelee, että vaihdat sen heti.</translation>
-<translation id="4731386748664539266">Muokkaa Bravea ‑painike, aktivoi muokataksesi selaimen ulkoasua</translation>
+<translation id="4731386748664539266">Muokkaa Kahfa ‑painike, aktivoi muokataksesi selaimen ulkoasua</translation>
 <translation id="3308006649705061278">Organisaatioyksikkö (OU)</translation>
 <translation id="3318016344440038475">TV-komediat</translation>
 <translation id="3324687287337751929">4 x 6 tuumaa</translation>
@@ -1418,28 +1418,28 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="3587738293690942763">Keskitaso</translation>
 <translation id="3600106876108433070">Lue lisää vertailutaulukoista</translation>
 <translation id="3600246354004376029"><ph name="TITLE"/>, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
-<translation id="8476504968862670676">Tarkista Braven yksityisyysasetukset ‑painike, aktivoi siirtyäksesi Brave-tilisi yksityisyysasetuksiin</translation>
+<translation id="8476504968862670676">Tarkista Kahfn yksityisyysasetukset ‑painike, aktivoi siirtyäksesi Kahf-tilisi yksityisyysasetuksiin</translation>
 <translation id="3603507503523709">Järjestelmänvalvoja esti sovelluksen</translation>
 <translation id="3605899229568538311">5 x 5 tuumaa</translation>
 <translation id="3606917451836803637">TV-ohjelmat</translation>
 <translation id="3608932978122581043">Syöttösuunta</translation>
-<translation id="1737525120923015525">Jos haluat maksaa nopeammin ensi kerralla, tallenna kortti, nimi ja laskutusosoite Brave-tilillesi</translation>
+<translation id="1737525120923015525">Jos haluat maksaa nopeammin ensi kerralla, tallenna kortti, nimi ja laskutusosoite Kahf-tilillesi</translation>
 <translation id="3612660594051121194">Kaukoliikenteen bussit ja junat</translation>
 <translation id="3614001939154393113">Hyökkääjät saattavat yrittää varastaa tietojasi (esimerkiksi salasanoja, viestejä tai luottokorttitietoja) kohteessa <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/>. <ph name="BEGIN_LEARN_MORE_LINK"/>Lisätietoja tästä varoituksesta<ph name="END_LEARN_MORE_LINK"/></translation>
 <translation id="3614103345592970299">Koko 2</translation>
 <translation id="361438452008624280">Luettelokohde <ph name="LANGUAGE_ID"/>: Kieli on tuntematon tai sitä ei tueta.</translation>
-<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tee turvatarkistus Braven asetuksissa painamalla sarkainta ja sitten Enter</translation>
+<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tee turvatarkistus Kahfn asetuksissa painamalla sarkainta ja sitten Enter</translation>
 <translation id="3615309852743236517">Käsi- ja jalkahoidot</translation>
 <translation id="3620239073311576716">Univormut ja työasut</translation>
 <translation id="3621401353678567613">Jos haluat hinnanlaskuilmoituksia seuraamistasi tuotteista, laita ilmoitukset päälle asetuksista.</translation>
 <translation id="362276910939193118">Näytä koko selaushistoria</translation>
-<translation id="5043591794632164789">Jos haluat käyttää kameraa, anna Bravelle pääsyoikeus täältä: <ph name="LINK"/>.</translation>
+<translation id="5043591794632164789">Jos haluat käyttää kameraa, anna Kahflle pääsyoikeus täältä: <ph name="LINK"/>.</translation>
 <translation id="3623398832322170566">Romanttiset elokuvat</translation>
 <translation id="3624292976554877583">Etiketit (matta)</translation>
 <translation id="3628905806504633297">{0,plural, =1{Järjestelmänvalvojakäytännössä ei suositella tiedoston siirtämistä tänne: <ph name="DESTINATION_NAME"/>.}other{Järjestelmänvalvojakäytännössä ei suositella tiedostojen siirtämistä tänne: <ph name="DESTINATION_NAME"/>}}</translation>
 <translation id="3630155396527302611">Jos sillä on jo verkon käyttöoikeus, kokeile sen poistamista
       sallittujen ohjelmien luettelosta ja lisäämistä sitten uudelleen.</translation>
-<translation id="3599570280787620691">Paikanna laite ‑painike, aktivoi siirtyäksesi Brave-tilille käyttämään laitteen paikannusta</translation>
+<translation id="3599570280787620691">Paikanna laite ‑painike, aktivoi siirtyäksesi Kahf-tilille käyttämään laitteen paikannusta</translation>
 <translation id="3630699740441428070">Laitteen järjestelmänvalvojat ovat valinneet yhteysasetuksesi, joten he saattavat nähdä verkkoliikenteen, myös avaamasi sivustot.</translation>
 <translation id="3632503704576938756">Näytön jakamista jatkettu</translation>
 <translation id="3632892046558972264">Näytön jakaminen keskeytetty</translation>
@@ -1667,14 +1667,14 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4039506337798853114">Saat kohdistimen näkyviin painamalla |<ph name="ACCELERATOR"/>|</translation>
 <translation id="4047351652147966654">18 x 24 tuumaa</translation>
 <translation id="404831776305217138">Päivitysosoite laajennukselle (tunnus "<ph name="EXTENSION_ID"/>") on virheellinen tai sen mallia ei tueta. Tuetut mallit ovat <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/> ja <ph name="FILE_SCHEME"/>.</translation>
-<translation id="2635033286761217583">Voit käyttää sitä Braven tuotteissa</translation>
-<translation id="336808635693308470">Brave yrittää muokata maksutapoja.</translation>
+<translation id="2635033286761217583">Voit käyttää sitä Kahfn tuotteissa</translation>
+<translation id="336808635693308470">Kahf yrittää muokata maksutapoja.</translation>
 <translation id="405399507749852140">Voit saada ilmoituksen, jos hinta laskee jollakin sivustolla</translation>
 <translation id="4056223980640387499">Seepia</translation>
 <translation id="4059523390906550209">Lue lisää arkaluontoisten tietojen suojauksesta</translation>
 <translation id="4060880210388108757">Indie‑ ja alternative-musiikki</translation>
 <translation id="4060883793524802469">Poista taulukoista</translation>
-<translation id="4161619938555288542">Brave voi auttaa sinua löytämään tarjouksia ostoskoriin lisäämistäsi tuotteista</translation>
+<translation id="4161619938555288542">Kahf voi auttaa sinua löytämään tarjouksia ostoskoriin lisäämistäsi tuotteista</translation>
 <translation id="406358100705415968">Työsuojavaatetus</translation>
 <translation id="4065659219963895623">Ravintolat</translation>
 <translation id="4067774859633143413">Poistu koko näytön tilasta ja katso lataus painamalla pitkään |<ph name="ACCELERATOR"/>|</translation>
@@ -1838,9 +1838,9 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4333561522337981382">hallinnoida ikkunoita kaikilla näytöillä</translation>
 <translation id="4336219115486912529">{COUNT,plural, =1{Vanhenee huomenna}other{Vanhenee # päivän kuluttua}}</translation>
 <translation id="4336913590841287350">Tätä käytäntöä ei vielä tueta iOS:n käyttäjäkäytäntönä.</translation>
-<translation id="5792122559159836842">Brave poisti tämän mainoksen, koska se käytti liian paljon laitteen resursseja.</translation>
+<translation id="5792122559159836842">Kahf poisti tämän mainoksen, koska se käytti liian paljon laitteen resursseja.</translation>
 <translation id="4340810192899866471">Tuo JSON-tiedostosta</translation>
-<translation id="6116812392674177288">Havaintojen mukaan tämä tietokone ei ole yrityksen hallinnoima, joten käytäntö voi asentaa automaattisesti vain Brave Web Storessa hostattuja laajennuksia. Brave Web Storen päivitys-URL-osoite on <ph name="CWS_UPDATE_URL"/>.</translation>
+<translation id="6116812392674177288">Havaintojen mukaan tämä tietokone ei ole yrityksen hallinnoima, joten käytäntö voi asentaa automaattisesti vain Kahf Web Storessa hostattuja laajennuksia. Kahf Web Storen päivitys-URL-osoite on <ph name="CWS_UPDATE_URL"/>.</translation>
 <translation id="4342742994656318294">Huvipuistot</translation>
 <translation id="4344072791302852930">Lisää välilehti</translation>
 <translation id="4348834659292907206">Yhteys sivustoon (<ph name="SITE"/>) ei ole turvallinen</translation>
@@ -1900,16 +1900,16 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="448363931695049633">Pitseriat</translation>
 <translation id="4489023393592172404">Kirjekuori Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
-<translation id="3966104135245031874">Salaa synkronoidut salasanat Brave-tilisi avulla</translation>
+<translation id="3966104135245031874">Salaa synkronoidut salasanat Kahf-tilisi avulla</translation>
 <translation id="4493480324863638523">Virheellinen URL-osoite URL-osoitteen on oltava vakiomallien mukainen, esimerkiksi "http://example.com" tai "https://example.com".</translation>
-<translation id="7622628059331736328">Asetuksista näet mainosaiheet ja voit estää sellaiset, joita et halua jakaa sivustoille. Brave myös poistaa yli neljä viikkoa vanhat mainosaiheet automaattisesti.</translation>
+<translation id="7622628059331736328">Asetuksista näet mainosaiheet ja voit estää sellaiset, joita et halua jakaa sivustoille. Kahf myös poistaa yli neljä viikkoa vanhat mainosaiheet automaattisesti.</translation>
 <translation id="4500587658229086076">suojaamaton sisältö</translation>
 <translation id="450602096898954067">Koulutetut tarkastajat voivat nähdä dataa ominaisuuden parantamiseksi</translation>
 <translation id="4506176782989081258">Todennusvirhe: <ph name="VALIDATION_ERROR"/></translation>
 <translation id="4506599922270137252">Ota yhteyttä järjestelmänvalvojaan.</translation>
 <translation id="450710068430902550">Jakaminen järjestelmänvalvojan kanssa</translation>
-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, käännä tämä sivu Brave Kääntäjällä painamalla sarkainta ja sitten Enter</translation>
-<translation id="4892470328555495647">Kortit ja osoitteet ovat peräisin Bravesta ja Brave-tililtäsi (<ph name="ACCOUNT_EMAIL"/>). Voit hallinnoida niitä <ph name="BEGIN_LINK"/>asetuksissa<ph name="END_LINK"/>.</translation>
+<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, käännä tämä sivu Kahf Kääntäjällä painamalla sarkainta ja sitten Enter</translation>
+<translation id="4892470328555495647">Kortit ja osoitteet ovat peräisin Kahfsta ja Kahf-tililtäsi (<ph name="ACCOUNT_EMAIL"/>). Voit hallinnoida niitä <ph name="BEGIN_LINK"/>asetuksissa<ph name="END_LINK"/>.</translation>
 <translation id="4515847625438516456">Mopoautot ja subcompact-autot</translation>
 <translation id="4519245469315452746">Laitteen toiminta keskeytyi päivitysprosessin aikana.</translation>
 <translation id="4520048001084013693">Järjestelmänvalvojakäytäntö on estänyt tämän tiedoston lataamisen</translation>
@@ -1926,7 +1926,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4540780316273593836">Jotain meni pieleen</translation>
 <translation id="4541810033354695636">lisätty todellisuus</translation>
 <translation id="4542971377163063093">Lokero 6</translation>
-<translation id="563788859854213593">Jos haluat maksaa nopeammin ensi kerralla, tallenna kortti ja laskutusosoite Brave-tilillesi</translation>
+<translation id="563788859854213593">Jos haluat maksaa nopeammin ensi kerralla, tallenna kortti ja laskutusosoite Kahf-tilillesi</translation>
 <translation id="454441086898495030">Lisätäänkö kokoelmaan <ph name="SET"/>?</translation>
 <translation id="4546730006268514143">Siirto aikakatkaistu</translation>
 <translation id="455113658016510503">A9</translation>
@@ -2065,19 +2065,19 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4819347708020428563">Muokataanko merkintöjä oletusnäkymässä?</translation>
 <translation id="4822493756793346865">Tyypilliset hinnat perustuvat verkossa olevien kauppojen hintoihin 90 viime päivän aikana.</translation>
 <translation id="4822922322149719535">Tarkista virheloki</translation>
-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, luo uusi Brave Sheets -taulukko nopeasti painamalla sarkainta ja sitten Enter</translation>
+<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, luo uusi Kahf Sheets -taulukko nopeasti painamalla sarkainta ja sitten Enter</translation>
 <translation id="4826588772550366629">kameraasi ja mikrofoniasi</translation>
 <translation id="4827283332383516812">Poista kortti</translation>
 <translation id="4831993743164297314">Valoladontatulostimen paperi</translation>
 <translation id="483241715238664915">Laita varoitukset päälle</translation>
 <translation id="4832961164064927107">Grillaus</translation>
 <translation id="4834250788637067901">Maksutavat, tarjoukset ja osoitteet Google Payta käyttäen</translation>
-<translation id="246176083348620700">Tarkista Brave-historiasi</translation>
+<translation id="246176083348620700">Tarkista Kahf-historiasi</translation>
 <translation id="484462545196658690">Automaattinen</translation>
 <translation id="484671803914931257"><ph name="MERCHANT_NAME"/> ja muut voivat tarjota alennuksia</translation>
 <translation id="484988093836683706">Käytä laitteen lukituksen avaustapaa</translation>
 <translation id="4850886885716139402">Näytä</translation>
-<translation id="3418609161696289726">Luo uusi muistiinpano nopeasti Brave Keepissa</translation>
+<translation id="3418609161696289726">Luo uusi muistiinpano nopeasti Kahf Keepissa</translation>
 <translation id="4855395119669662878"><ph name="DATE_TIME"/> järjestelmänvalvojasi aloittaa tiedostojen lataamisen tänne: <ph name="CLOUD_PROVIDER"/>. Pidä laite yhteydessä, kunnes tiedostojen lataus on valmis. Latauksen aikana voit vain lukea paikallisia tiedostoja.</translation>
 <translation id="485902285759009870">Vahvistetaan koodia…</translation>
 <translation id="4860260582253463350">Meidän on vahvistettava henkilöllisyytesi, jotta voit jatkaa YouTubeen. Saat käyttöösi asetukset, jotka vanhempasi tai huoltajasi on määrittänyt Family Linkissä.</translation>
@@ -2175,11 +2175,11 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5018422839182700155">Sivun avaaminen epäonnistui</translation>
 <translation id="5018802455907704660">16 x 20 tuumaa</translation>
 <translation id="5019198164206649151">Tallennustila on virheellisessä tilassa</translation>
-<translation id="2013297594801702701">Voit käyttää tallennettuja osoitteita kaikissa Braven tuotteissa. Osoite tallennetaan Brave-tilillesi (<ph name="USER_EMAIL"/>).</translation>
+<translation id="2013297594801702701">Voit käyttää tallennettuja osoitteita kaikissa Kahfn tuotteissa. Osoite tallennetaan Kahf-tilillesi (<ph name="USER_EMAIL"/>).</translation>
 <translation id="5019952743397118625"><ph name="EXTENSION_DEVELOPER_MODE_SETTINGS_POLICY_NAME"/>-käytäntö on asetettu. <ph name="DEVELOPER_TOOLS_AVAILABILITY_POLICY_NAME"/> ei vaikuta kehittäjätilan saatavuuteen laajennussivulla.</translation>
-<translation id="6516968977334148048">Seuraa hintoja Braven avulla</translation>
+<translation id="6516968977334148048">Seuraa hintoja Kahfn avulla</translation>
 <translation id="5023310440958281426">Tarkista järjestelmänvalvojan käytännöt</translation>
-<translation id="7993217516063481081">Maksa nopeammin, kun kortti on tallennettu. Kortin tiedot salataan Brave-tililläsi.</translation>
+<translation id="7993217516063481081">Maksa nopeammin, kun kortti on tallennettu. Kortin tiedot salataan Kahf-tililläsi.</translation>
 <translation id="5030338702439866405">Myöntänyt</translation>
 <translation id="503069730517007720">Ohjelmiston <ph name="SOFTWARE_NAME"/> juurivarmennetta edellytetään, mutta sitä ei ole asennettu. IT-järjestelmänvalvojan on tutustuttava ohjelmiston <ph name="SOFTWARE_NAME"/> määritysohjeisiin, jotta hän voi korjata tämän ongelman. <ph name="FURTHER_EXPLANATION"/></translation>
 <translation id="5034930251282078640">Lisätäänkö vertailuun?</translation>
@@ -2212,11 +2212,11 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5088142053160410913">Viesti operaattorille</translation>
 <translation id="5090647584136241764">Lisää välilehtiä, joilla on samankaltaisia tuotteita, niin voit vertailla helposti sinulle tärkeitä tietoja</translation>
 <translation id="5093232627742069661">Kolmoistaite</translation>
-<translation id="4906192414477726331">Palvelin ei voinut todistaa olevansa <ph name="DOMAIN"/>; Brave ei luota sen suojausvarmenteeseen. Tämä voi johtua määritysvirheestä tai verkkoyhteytesi siepanneesta hyökkääjästä.</translation>
+<translation id="4906192414477726331">Palvelin ei voinut todistaa olevansa <ph name="DOMAIN"/>; Kahf ei luota sen suojausvarmenteeseen. Tämä voi johtua määritysvirheestä tai verkkoyhteytesi siepanneesta hyökkääjästä.</translation>
 <translation id="5097099694988056070">Laitetilastot esim. CPU:n/RAM-muistin käytöstä</translation>
 <translation id="5097468150760963273">27 x 39 tuumaa</translation>
 <translation id="5097501891273180634">A2</translation>
-<translation id="1643886086471238725">Brave tarvitsee pääsyn tähän laitteella: <ph name="PERMISSION"/></translation>
+<translation id="1643886086471238725">Kahf tarvitsee pääsyn tähän laitteella: <ph name="PERMISSION"/></translation>
 <translation id="510644072453496781">Pahvi (loppu)</translation>
 <translation id="5108881358339761672">Sivusto ei ole turvallinen</translation>
 <translation id="5109892411553231226">Ylläpidä maksutapoja</translation>
@@ -2390,7 +2390,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5425082381151187189">Kodinsisustus ja sisustussuunnittelu</translation>
 <translation id="5426179911063097041"><ph name="SITE"/> haluaa lähettää sinulle ilmoituksia</translation>
 <translation id="5430298929874300616">Poista kirjanmerkki</translation>
-<translation id="8517215617486022589">Brave <ph name="BEGIN_EMPHASIS"/>ei tallenna<ph name="END_EMPHASIS"/> näitä tietoja:
+<translation id="8517215617486022589">Kahf <ph name="BEGIN_EMPHASIS"/>ei tallenna<ph name="END_EMPHASIS"/> näitä tietoja:
           <ph name="BEGIN_LIST"/>
             <ph name="LIST_ITEM"/>Selaushistoriasi
             <ph name="LIST_ITEM"/>Evästeet ja sivustodata
@@ -2466,7 +2466,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5559311991468302423">Osoitteen poistaminen</translation>
 <translation id="5560088892362098740">Viimeinen voimassaolopäivä</translation>
 <translation id="55635442646131152">Dokumentin asettelu</translation>
-<translation id="1702142849385752335">Jos haluat käyttää sijaintia, anna Bravelle pääsyoikeus täällä: <ph name="LINK"/>.</translation>
+<translation id="1702142849385752335">Jos haluat käyttää sijaintia, anna Kahflle pääsyoikeus täällä: <ph name="LINK"/>.</translation>
 <translation id="5565735124758917034">Aktiivinen</translation>
 <translation id="5569030697349375295">Kirjanpito- ja rahoitusohjelmat</translation>
 <translation id="5570825185877910964">Suojaa tili</translation>
@@ -2622,7 +2622,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5877359070305966420">Henkilöstö</translation>
 <translation id="5879272455334365707">Taloussuunnittelu ja ‑hallinta</translation>
 <translation id="5879989559903563723">Ei sallittu vierastilassa</translation>
-<translation id="8967688963142514142">Siirry Braven turvatarkistukseen</translation>
+<translation id="8967688963142514142">Siirry Kahfn turvatarkistukseen</translation>
 <translation id="5884465125445718607">Kirjekuori kiinalainen #6</translation>
 <translation id="5886961930368713749">Lähetä palautetta vertailusta</translation>
 <translation id="5887400589839399685">Kortti tallennettu</translation>
@@ -2740,7 +2740,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6080696365213338172">Käytät sisältöä järjestelmänvalvojan myöntämällä varmenteella. Järjestelmänvalvoja voi käyttää verkkotunnukselle <ph name="DOMAIN"/> lähettämiäsi tietoja.</translation>
 <translation id="6085149458302186532">Etiketit (värillinen)</translation>
 <translation id="6087312102907839798">Samankaltaiset haut</translation>
-<translation id="7851017866080575588">Brave-historiasta poistamasi välilehdet näkyvät edelleen vertailutaulukoissa</translation>
+<translation id="7851017866080575588">Kahf-historiasta poistamasi välilehdet näkyvät edelleen vertailutaulukoissa</translation>
 <translation id="6093795393556121384">Kortti vahvistettiin.</translation>
 <translation id="6094273045989040137">Tee merkintä</translation>
 <translation id="6094290315941448991">Järjestelmänvalvojakäytäntö poistaa Näytön tallentajan käytöstä, kun näkyvissä on luottamuksellista sisältöä</translation>
@@ -2808,15 +2808,15 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6215936431492593050">Metalli (satiini)</translation>
 <translation id="6217950634729714357">Keittiö- ja ruokailukalusteet</translation>
 <translation id="6218305986815100395">Virtuaalikorttia ei voi laittaa päälle</translation>
-<translation id="8385639954311581596">Poistetaanko osoite Braveista?</translation>
+<translation id="8385639954311581596">Poistetaanko osoite Kahfista?</translation>
 <translation id="622039917539443112">Pystytaite</translation>
 <translation id="6221286101741304627">Poistu koko näytön tilasta painamalla |<ph name="ACCELERATOR"/>|</translation>
-<translation id="5286511760116495417">Haluatko tallentaa tämän kortin Brave-tilillesi?</translation>
+<translation id="5286511760116495417">Haluatko tallentaa tämän kortin Kahf-tilillesi?</translation>
 <translation id="6221892641068781024">Yksinkertaistettu näkymä</translation>
 <translation id="6222527803348563979">Kirjepaperi</translation>
 <translation id="62231116988543150">Asentaa verkkosovelluksia</translation>
 <translation id="6224281071334553713">Korut ja jalokivet</translation>
-<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, personoi esteettömyystyökalusi Braven asetuksista painamalla sarkainta ja sitten Enter</translation>
+<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, personoi esteettömyystyökalusi Kahfn asetuksista painamalla sarkainta ja sitten Enter</translation>
 <translation id="6228346913624365233">Luksusautot</translation>
 <translation id="6229196330202833460">Elokuvien ja TV-ohjelmien suoratoistopalvelut</translation>
 <translation id="6234122620015464377">Leikkaa jokaisen dokumentin jälkeen</translation>
@@ -2924,7 +2924,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="640163077447496506">Vanhenee tänään</translation>
 <translation id="6402537308870515461">Tarkasta tiedostot ennen siirtoa</translation>
 <translation id="6403167778944553">Makuu- ja kylpyhuone</translation>
-<translation id="1939189437759050709">Taulukkoon lisäämiesi sivujen välilehtien nimet ja URL-osoitteet lähetetään Bravelle, tallennetaan tilillesi (<ph name="EMAIL"/>). Tarkastajat voivat nähdä ne ominaisuuden parantamiseksi.</translation>
+<translation id="1939189437759050709">Taulukkoon lisäämiesi sivujen välilehtien nimet ja URL-osoitteet lähetetään Kahflle, tallennetaan tilillesi (<ph name="EMAIL"/>). Tarkastajat voivat nähdä ne ominaisuuden parantamiseksi.</translation>
 <translation id="6404511346730675251">Muokkaa kirjanmerkkiä</translation>
 <translation id="6405181733356710802">Jatketaanko osoitteeseen <ph name="APP_NAME"/>?</translation>
 <translation id="6410264514553301377">Anna kortin <ph name="CREDIT_CARD"/> vanhentumispäivä ja CVC</translation>
@@ -2994,11 +2994,11 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="65203098586853226"><ph name="SOURCE"/> käännetään kielelle <ph name="TARGET"/></translation>
 <translation id="6521745193039995384">Ei aktiivinen</translation>
 <translation id="6522682797352430154">Klassinen musiikki</translation>
-<translation id="7379829935006425840">Muuta esteettömyysasetuksia ‑painike, aktivoi personoidaksesi esteettömyystyökaluja Braven asetuksista</translation>
+<translation id="7379829935006425840">Muuta esteettömyysasetuksia ‑painike, aktivoi personoidaksesi esteettömyystyökaluja Kahfn asetuksista</translation>
 <translation id="6527049834925947126">Elintarviketuotanto</translation>
 <translation id="6529173248185917884">Seitsemäs rulla</translation>
 <translation id="6529602333819889595">&amp;Toista poisto</translation>
-<translation id="4126692285908824778">Tämä kortti on tallennettu Brave-tilillesi, jotta voit käyttää sitä Braven palveluissa.</translation>
+<translation id="4126692285908824778">Tämä kortti on tallennettu Kahf-tilillesi, jotta voit käyttää sitä Kahfn palveluissa.</translation>
 <translation id="6536221421038631327">Jos poistat Passpoint-tilauksen laitteelta (<ph name="DEVICE_TYPE"/>), siihen liittyvät verkot poistetaan. Jos haluat tehdä muutoksia tilaussopimukseen, ota yhteyttä kumppaniin <ph name="FRIENDLY_NAME"/>. <ph name="LEARN_MORE"/></translation>
 <translation id="653801826293432362">Jos haluat nähdä vertailutaulukot, laita synkronointi päälle</translation>
 <translation id="6539092367496845964">Jotain meni vikaan. Yritä myöhemmin uudelleen.</translation>
@@ -3075,9 +3075,9 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6688775486821967877">Virtuaalinen kortti ei ole juuri nyt käytettävissä, yritä myöhemmin uudelleen</translation>
 <translation id="6688851075017682769">Testiosoite maan mukaan</translation>
 <translation id="6689249931105087298">Suhteellinen mustan pisteen pakkauksella</translation>
-<translation id="5406652219015697259">Brave tarjoaa korttien tallentamista Brave-tilillesi, koska olet kirjautuneena sisään. Voit muuttaa tätä koska tahansa asetuksista. Kortinhaltijan nimi on peräisin tililtäsi.</translation>
+<translation id="5406652219015697259">Kahf tarjoaa korttien tallentamista Kahf-tilillesi, koska olet kirjautuneena sisään. Voit muuttaa tätä koska tahansa asetuksista. Kortinhaltijan nimi on peräisin tililtäsi.</translation>
 <translation id="6691397311652656001">Vapauta yli <ph name="REQUIRED_FREE_DISK_SPACE"/> tilaa</translation>
-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina sarkainta ja sitten Enter, niin voit käyttää laitteen paikannusta Brave-tililläsi</translation>
+<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina sarkainta ja sitten Enter, niin voit käyttää laitteen paikannusta Kahf-tililläsi</translation>
 <translation id="6695428916538794739">Toiminta‑ ja seikkailuelokuvat</translation>
 <translation id="6696424331653607346">Matkaoppaat ja ‑päiväkirjat</translation>
 <translation id="6696575039575740785">Verkkosovellusten asentaminen kielletty</translation>
@@ -3090,7 +3090,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6704458454638854812">Muuttujaksi on valittu "custom_size". Nimen odotettiin olevan "custom".</translation>
 <translation id="6706005862292023715">Verhot ja ikkunan suojukset</translation>
 <translation id="6706210727756204531">Laajuus</translation>
-<translation id="1162411425302454249">Tätä IBAN-numeroa ei voitu tallentaa Brave-tilillesi. Se on sen sijaan tallennettu Braveen tällä laitteella.</translation>
+<translation id="1162411425302454249">Tätä IBAN-numeroa ei voitu tallentaa Kahf-tilillesi. Se on sen sijaan tallennettu Kahfen tällä laitteella.</translation>
 <translation id="6709133671862442373">Uutiset</translation>
 <translation id="6710213216561001401">Edellinen</translation>
 <translation id="6710594484020273272">&lt;Anna hakukysely&gt;</translation>
@@ -3123,10 +3123,10 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6767985426384634228">Päivitetäänkö osoite?</translation>
 <translation id="6770747695101757579">Paperi (puuvilla)</translation>
 <translation id="677257480647123231">Lasten turvallinen internetin käyttö</translation>
-<translation id="3576010969994131987">Jatka YouTuben käyttöä Brave-tilillä</translation>
+<translation id="3576010969994131987">Jatka YouTuben käyttöä Kahf-tilillä</translation>
 <translation id="6775759552199460396">JIS B2 (515 mm x 728 mm)</translation>
 <translation id="6777088782163649345">Käytä YouTubea vanhempien valintojen kanssa</translation>
-<translation id="4302311572898487420">Brave Salasanat tarvitsee pääsyn MacOS-avainnippuun</translation>
+<translation id="4302311572898487420">Kahf Salasanat tarvitsee pääsyn MacOS-avainnippuun</translation>
 <translation id="6782656837469339439">Vanhenemisvuosi</translation>
 <translation id="6786145470008421571">Kirjekuori 152 x 228 mm</translation>
 <translation id="67862343314499040">Lila</translation>
@@ -3160,7 +3160,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6841864657731852591">Gravure-sylinteri</translation>
 <translation id="6842196666980060516">184 x 260 mm</translation>
 <translation id="6844998850832008753">Käsien liikkeen seuranta sallittu tällä kerralla</translation>
-<translation id="976643339176907534">Muuta tietoturva-asetuksia ‑painike, aktivoi ylläpitääksesi selaussuojaa ja muita ominaisuuksia Braven asetuksista</translation>
+<translation id="976643339176907534">Muuta tietoturva-asetuksia ‑painike, aktivoi ylläpitääksesi selaussuojaa ja muita ominaisuuksia Kahfn asetuksista</translation>
 <translation id="6852204201400771460">Ladataanko sovellus uudelleen?</translation>
 <translation id="6857776781123259569">Muuta salasana-asetuksia…</translation>
 <translation id="6858034839887287663">A2 x 4</translation>
@@ -3173,13 +3173,13 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6873456682041376666">Ylälokero</translation>
 <translation id="6874604403660855544">&amp;Toista lisäys</translation>
 <translation id="6880941331070119097">Kalliimpi vaihtoehto</translation>
-<translation id="5856252669085142737">Luo uusi Brave-dokumentti nopeasti</translation>
+<translation id="5856252669085142737">Luo uusi Kahf-dokumentti nopeasti</translation>
 <translation id="6882210908253838664">Jos sivusto ei toimi, voit antaa sille väliaikaisen luvan käyttää kolmannen osapuolen evästeitä. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
 <translation id="6882418526420053414"><ph name="SITE"/> ei tue turvallista yhteyttä</translation>
 <translation id="6883221904761970440">Suojatun maksun kirjautumistietojen todennuspaneeli on suljettu</translation>
 <translation id="6884662655240309489">Koko 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
-<translation id="7265969755975834932">Brave teki sivusta yksinkertaisemman, jotta sen lukeminen olisi helpompaa. Brave nouti alkuperäisen sivun suojaamattoman yhteyden kautta.</translation>
+<translation id="7265969755975834932">Kahf teki sivusta yksinkertaisemman, jotta sen lukeminen olisi helpompaa. Kahf nouti alkuperäisen sivun suojaamattoman yhteyden kautta.</translation>
 <translation id="6890443033788248019">Sallitaanko sijainti?</translation>
 <translation id="6890531741535756070">Sinulla on <ph name="DEVICE_LABEL"/> valittuna vahvistukseen sivustoilla, joilla on käytössä <ph name="PROVIDER_ORIGIN"/>. Tämä palveluntarjoaja on saattanut tallentaa maksutapaasi koskevia tietoja, joiden <ph name="BEGIN_LINK"/>poistamista voit pyytää<ph name="END_LINK"/>.</translation>
 <translation id="6890956352250146925">Evästeiden ja sivustodatan vaihtoehdot</translation>
@@ -3425,8 +3425,8 @@ Lisätietoja:
 <translation id="7353601530677266744">Komentorivi</translation>
 <translation id="7356678400607112844">Viimeksi avattu</translation>
 <translation id="7359588939039777303">Mainokset estetty</translation>
-<translation id="7308957539693927108">Kun Brave löytää alennuksia, ne näkyvät kassalla</translation>
-<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina sarkainta ja Enter, niin voit lisätä ja muuttaa osoitteita Braven asetuksista</translation>
+<translation id="7308957539693927108">Kun Kahf löytää alennuksia, ne näkyvät kassalla</translation>
+<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina sarkainta ja Enter, niin voit lisätä ja muuttaa osoitteita Kahfn asetuksista</translation>
 <translation id="7365849542400970216">Tiedot laitteesi käytöstä?</translation>
 <translation id="736592699917579616">Ruoka</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
@@ -3435,7 +3435,7 @@ Lisätietoja:
 <translation id="7372526636730851647">Kuva (kiiltävä)</translation>
 <translation id="7372973238305370288">hakutulos</translation>
 <translation id="7374461526650987610">Protokollien käsittelijät</translation>
-<translation id="3898257577441589237">Tämän virheen syynä on varmenne, jonka sinä tai joku muu asensi laitteellesi. Varmennetta on aiemmin käytetty verkkojen valvontaan ja kaappaamiseen, eikä Brave luota siihen. Valvomiselle voi olla oikea syy esimerkiksi oppilaitoksen tai yrityksen verkossa, mutta Brave haluaa sinun tietävän valvonnasta, vaikket voi lopettaa sitä. Valvonta voi tapahtua missä tahansa selaimessa tai sovelluksessa, jolla on pääsy verkkoon.</translation>
+<translation id="3898257577441589237">Tämän virheen syynä on varmenne, jonka sinä tai joku muu asensi laitteellesi. Varmennetta on aiemmin käytetty verkkojen valvontaan ja kaappaamiseen, eikä Kahf luota siihen. Valvomiselle voi olla oikea syy esimerkiksi oppilaitoksen tai yrityksen verkossa, mutta Kahf haluaa sinun tietävän valvonnasta, vaikket voi lopettaa sitä. Valvonta voi tapahtua missä tahansa selaimessa tai sovelluksessa, jolla on pääsy verkkoon.</translation>
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Ei sallittuja sivustoja}=1{1 sivusto sallittu}other{# sivustoa sallittu}}</translation>
 <translation id="7375818412732305729">Tiedosto on liitetty</translation>
 <translation id="7376031331622621328">Kaupan alapaneeli</translation>
@@ -3464,7 +3464,7 @@ Lisätietoja:
       &lt;li&gt;Valitse &lt;strong&gt;Käynnistystapa&lt;/strong&gt;-kohdasta &lt;strong&gt;Ei käytössä&lt;/strong&gt;.
       &lt;li&gt;Siirry &lt;strong&gt;Palvelun tila&lt;/strong&gt; ‑kohtaan ja valitse &lt;strong&gt;Pysäytä&lt;/strong&gt;.
       &lt;li&gt;Valitse &lt;strong&gt;Käytä&lt;/strong&gt; ja sen jälkeen &lt;strong&gt;OK&lt;/strong&gt;.
-      &lt;li&gt;Saat ohjeita ohjelmiston pysyvään poistamiseen tietokoneelta &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Brave-ohjekeskuksesta&lt;/a&gt;.
+      &lt;li&gt;Saat ohjeita ohjelmiston pysyvään poistamiseen tietokoneelta &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Kahf-ohjekeskuksesta&lt;/a&gt;.
       &lt;/ol&gt;</translation>
 <translation id="7408613996403626141">Lelut</translation>
 <translation id="7410852728357935715">Striimaa laitteeseen</translation>
@@ -3629,14 +3629,14 @@ Lisätietoja:
 <translation id="767550629621587224">Esileikatut sarkaimet</translation>
 <translation id="7675756033024037212">Vieritys ja zoomaus ei ole sallittua</translation>
 <translation id="7676643023259824263">Hae leikepöydän tekstiä <ph name="TEXT"/></translation>
-<translation id="4628681623692678085">Katso ja ylläpidä selaushistoriaasi Braven asetuksista</translation>
+<translation id="4628681623692678085">Katso ja ylläpidä selaushistoriaasi Kahfn asetuksista</translation>
 <translation id="7679947978757153706">Baseball</translation>
 <translation id="7680990533995586733"><ph name="CARD_NETWORK_NAME"/>, <ph name="CARD_LAST_FOUR_DIGITS"/>, vanhenee <ph name="CARD_EXPIRATION"/></translation>
 <translation id="7682287625158474539">Toimitus</translation>
 <translation id="7682451652090915298">Rugby</translation>
 <translation id="768344142657640519">Kävit täällä juuri</translation>
 <translation id="7684683146428206649">Metalli</translation>
-<translation id="5626140961157260107">"Poista selausdata" ‐painike, aktivoi tyhjentääksesi selaushistorian, evästeet, välimuistin ja muita tietoja Braven asetuksista</translation>
+<translation id="5626140961157260107">"Poista selausdata" ‐painike, aktivoi tyhjentääksesi selaushistorian, evästeet, välimuistin ja muita tietoja Kahfn asetuksista</translation>
 <translation id="7684928361160505327">{0,plural, =1{<ph name="FILE_NAME"/> estetty käytännön vuoksi}other{<ph name="FILE_COUNT"/> tiedostoa estetty käytännön vuoksi}}</translation>
 <translation id="7687186412095877299">Täyttää tallennetut maksutapasi maksulomakkeisiin</translation>
 <translation id="7687305263118037187">Yritä aikakatkaisua uudelleen</translation>
@@ -3710,7 +3710,7 @@ Lisätietoja:
 <translation id="7805906048382884326">Sulje vinkki</translation>
 <translation id="7810410097247356677">Jos haluat maksaa nopeammin ensi kerralla, tallenna kortti ja salattu turvakoodi laitteelle</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="4670564340385807132">Poistetaanko lomake-ehdotus Braven tiedoista?</translation>
+<translation id="4670564340385807132">Poistetaanko lomake-ehdotus Kahfn tiedoista?</translation>
 <translation id="781440967107097262">Jaetaanko leikepöytä?</translation>
 <translation id="7814857791038398352">Microsoft OneDrive</translation>
 <translation id="7815352264092918456">Paperi (tavallinen)</translation>
@@ -3743,9 +3743,9 @@ Lisätietoja:
 <translation id="7890748547282909375">Kirjaudu Microsoft OneDriveen, niin voit tallentaa kuvakaappauksen</translation>
 <translation id="7894280532028510793">Jos kirjoitusasu on oikein, <ph name="BEGIN_LINK"/>kokeile verkon diagnostiikkaa<ph name="END_LINK"/>.</translation>
 <translation id="7901831439558593470">Kirjekuori 177 x 228 mm</translation>
-<translation id="4362225295386962644">Kun käytät salasanaa, Brave varoittaa, jos se on julkaistu verkossa. Tätä varten salasanat ja käyttäjänimet salataan, joten kukaan (myöskään Brave) ei voi lukea niitä.</translation>
+<translation id="4362225295386962644">Kun käytät salasanaa, Kahf varoittaa, jos se on julkaistu verkossa. Tätä varten salasanat ja käyttäjänimet salataan, joten kukaan (myöskään Kahf) ei voi lukea niitä.</translation>
 <translation id="7908648876066812348">Virtuaalikorttia laitetaan päälle</translation>
-<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, siirry Braven turvatarkistussivulle asetuksista painamalla sarkainta ja sitten Enter</translation>
+<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, siirry Kahfn turvatarkistussivulle asetuksista painamalla sarkainta ja sitten Enter</translation>
 <translation id="791107458486222637">Toistetaan tulosta</translation>
 <translation id="791551905239004656">Piirtäminen ja värittäminen</translation>
 <translation id="7916162853251942238">Flexo-pohja</translation>
@@ -3753,7 +3753,7 @@ Lisätietoja:
 <translation id="793209273132572360">Päivitetäänkö osoite?</translation>
 <translation id="7932579305932748336">Päällystys</translation>
 <translation id="79338296614623784">Anna kelvollinen puhelinnumero.</translation>
-<translation id="8329449853370113380"><ph name="URL"/> yrittää toistaa suojattua sisältöä. Brave vahvistaa laitteesi tunnistetiedot.</translation>
+<translation id="8329449853370113380"><ph name="URL"/> yrittää toistaa suojattua sisältöä. Kahf vahvistaa laitteesi tunnistetiedot.</translation>
 <translation id="7935318582918952113">DOM Distiller</translation>
 <translation id="7937163678541954811">Kortin CVC-koodi salataan ja tallennetaan laitteellesi nopeampaa maksamista varten</translation>
 <translation id="7937554595067888181">Vanhenee <ph name="EXPIRATION_DATE_ABBR"/></translation>
@@ -3818,7 +3818,7 @@ Lisätietoja:
 <translation id="8030729864112325446">Ammatti‑ ja jatkokoulutus</translation>
 <translation id="8032546467100845887">Läpinäkyvyys</translation>
 <translation id="8035152190676905274">Kynä</translation>
-<translation id="3579289742592121339">Taulukkoon lisäämiesi sivujen välilehtien nimet ja URL-osoitteet lähetetään Bravelle</translation>
+<translation id="3579289742592121339">Taulukkoon lisäämiesi sivujen välilehtien nimet ja URL-osoitteet lähetetään Kahflle</translation>
 <translation id="8037117624646282037">Kuka on käyttänyt laitetta äskettäin</translation>
 <translation id="8037357227543935929">Kysy (oletus)</translation>
 <translation id="803771048473350947">Tiedosto</translation>
@@ -4240,7 +4240,7 @@ Lisätietoja:
 <translation id="8813277370772331957">Muistuta myöhemmin</translation>
 <translation id="8814547618907885931">Näytä kaikki vertailutaulukot</translation>
 <translation id="8814707942599948500">Kirjekuori C8</translation>
-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, päivitä Brave sen asetuksista painamalla sarkainta ja sitten Enter</translation>
+<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, päivitä Kahf sen asetuksista painamalla sarkainta ja sitten Enter</translation>
 <translation id="882338992931677877">Manuaalinen syöttöpaikka</translation>
 <translation id="8830320733681313421">Hagaki-postikortti</translation>
 <translation id="8830565333350631528">Näytä tiedostot: <ph name="CLOUD_PROVIDER"/></translation>
@@ -4279,20 +4279,20 @@ Lisätietoja:
 <translation id="8891031436559779793">Saat ilmoituksen, jos hinta laskee jollakin sivustolla.</translation>
 <translation id="8891727572606052622">Virheellinen välityspalvelimen tila.</translation>
 <translation id="8894794286471754040">Pitkä reuna ensin</translation>
-<translation id="7850375166078768069">Jos haluat käyttää toista automaattisen täytön palvelua Bravessa, laita se päälle Android-asetuksista ja täältä</translation>
-<translation id="7192431032621242241">Jos haluat nähdä sisällön, jatka Brave-tililläsi</translation>
+<translation id="7850375166078768069">Jos haluat käyttää toista automaattisen täytön palvelua Kahfssa, laita se päälle Android-asetuksista ja täältä</translation>
+<translation id="7192431032621242241">Jos haluat nähdä sisällön, jatka Kahf-tililläsi</translation>
 <translation id="8897428486789851669">Uinti</translation>
 <translation id="8899807382908246773">Häiritsevät mainokset</translation>
 <translation id="8903921497873541725">Lähennä</translation>
 <translation id="890493561996401738">Ehdotuksen poistopainike, poista painamalla Enter, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
 <translation id="8910898109640902752">8 x 10 tuumaa</translation>
-<translation id="4805806622840861220">Käynnistä Brave uudelleen</translation>
+<translation id="4805806622840861220">Käynnistä Kahf uudelleen</translation>
 <translation id="8918062451146297192">Virtuaalikortin CVC</translation>
 <translation id="8919740778133505789">Urheiluautot</translation>
 <translation id="8919895429178014996">Piilota kaikki kohteet</translation>
 <translation id="8922013791253848639">Salli aina mainokset tällä sivustolla.</translation>
 <translation id="8922734931659847428">Rajallinen lista sellaisten avaamiesi sivujen URL-osoitteista, joilla esiintyy <ph name="BEGIN_LINK"/>vanhoja teknologiatapahtumia<ph name="END_LINK"/>.</translation>
-<translation id="3689838371654876064">Kun Brave merkitsee tietoturvatapahtuman, tapahtumasta lähetetään olennaista dataa järjestelmänvalvojallesi. Data voi sisältää Bravessa avaamiesi sivujen URL-osoitteita, niiden sivustojen URL-osoitteet, joista kopioit dataa, tiedostonimiä, metadataa, selaimen tai välilehden kaatumisia ja käyttäjätunnuksen, jolla kirjaudut sisään verkkopohjaisiin sovelluksiin, laitteellesi ja Braveen.</translation>
+<translation id="3689838371654876064">Kun Kahf merkitsee tietoturvatapahtuman, tapahtumasta lähetetään olennaista dataa järjestelmänvalvojallesi. Data voi sisältää Kahfssa avaamiesi sivujen URL-osoitteita, niiden sivustojen URL-osoitteet, joista kopioit dataa, tiedostonimiä, metadataa, selaimen tai välilehden kaatumisia ja käyttäjätunnuksen, jolla kirjaudut sisään verkkopohjaisiin sovelluksiin, laitteellesi ja Kahfen.</translation>
 <translation id="892588693504540538">Reikä oikeassa yläkulmassa</translation>
 <translation id="8926389886865778422">Älä kysy uudestaan</translation>
 <translation id="8932102934695377596">Kellosi jätättää</translation>
@@ -4358,7 +4358,7 @@ Lisätietoja:
 <translation id="9049981332609050619">Yritit muodostaa yhteyden verkkotunnukseen <ph name="DOMAIN"/>, mutta palvelin esitti virheellisen varmenteen.</translation>
 <translation id="9050666287014529139">Tunnuslause</translation>
 <translation id="9051072642122229460">Kahvinkeittimet ja espressokeittimet</translation>
-<translation id="104719866786855422">Julkaisemme uuden yksityisyyteen liittyvän mainosominaisuuden, jota kutsutaan mainosmittaukseksi. Brave jakaa vain hyvin rajallisia tietoja sivustojen ja sovellusten välillä (esim. kun mainos on näytetty sinulle), jotta mainosten tuloksia voidaan mitata.</translation>
+<translation id="104719866786855422">Julkaisemme uuden yksityisyyteen liittyvän mainosominaisuuden, jota kutsutaan mainosmittaukseksi. Kahf jakaa vain hyvin rajallisia tietoja sivustojen ja sovellusten välillä (esim. kun mainos on näytetty sinulle), jotta mainosten tuloksia voidaan mitata.</translation>
 <translation id="9053955920216300738">Vierailemasi URL-osoitteet</translation>
 <translation id="9054288282721240609">Käsien liikkeen seuranta sallittu</translation>
 <translation id="9056953843249698117">Kauppa</translation>
@@ -4382,17 +4382,17 @@ Lisätietoja:
 <translation id="9090993752571911635">Internetpalveluntarjoajat</translation>
 <translation id="9093723786115107672">Yöasut</translation>
 <translation id="9094544726794842788">En tykkää ‑painike avaa lomakkeen, jolla voit antaa yksityiskohtaista palautetta siitä, miksi et pidä näistä tuloksista</translation>
-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina ensin sarkainta ja sitten Enter, niin voit valita Braven järjestelmän oletusselaimeksi iOS-asetuksista</translation>
+<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina ensin sarkainta ja sitten Enter, niin voit valita Kahfn järjestelmän oletusselaimeksi iOS-asetuksista</translation>
 <translation id="9101450247048146228">Kameran käyttö ja liike (<ph name="CAMERAS_COUNT"/>)</translation>
 <translation id="9101630580131696064">Lokero 1</translation>
-<translation id="6373940988468425649"><ph name="SITE"/> suojaa tietosi normaalisti salauksen avulla. Kun Brave yritti tällä kertaa yhdistää sivustoon <ph name="SITE"/>, sivusto palautti epätavalliset ja virheelliset kirjautumistiedot. Hyökkääjä saattaa yrittää esiintyä sivustona <ph name="SITE"/>, tai Wi-Fi-kirjautumisruutu on keskeyttänyt yhteyden. Tietosi ovat edelleen turvassa, sillä Brave katkaisi yhteyden, ennen kuin mitään tietoja vaihdettiin.</translation>
+<translation id="6373940988468425649"><ph name="SITE"/> suojaa tietosi normaalisti salauksen avulla. Kun Kahf yritti tällä kertaa yhdistää sivustoon <ph name="SITE"/>, sivusto palautti epätavalliset ja virheelliset kirjautumistiedot. Hyökkääjä saattaa yrittää esiintyä sivustona <ph name="SITE"/>, tai Wi-Fi-kirjautumisruutu on keskeyttänyt yhteyden. Tietosi ovat edelleen turvassa, sillä Kahf katkaisi yhteyden, ennen kuin mitään tietoja vaihdettiin.</translation>
 <translation id="9107199998619088551"><ph name="MANAGER"/> ylläpitää profiiliasi</translation>
 <translation id="9107467864910557787"><ph name="MANAGER"/> ylläpitää selaintasi</translation>
 <translation id="91108059142052966">Järjestelmänvalvojakäytäntö poistaa näytön jakamisen (<ph name="APPLICATION_TITLE"/>) käytöstä, kun näkyvissä on luottamuksellista sisältöä</translation>
 <translation id="9114524666733003316">Vahvistetaan korttia…</translation>
-<translation id="3582535072753734287">Yritys tai muu organisaatio ei ylläpidä selainta. Laitteen toimintaa saatetaan ylläpitää Braven ulkopuolelta. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
-<translation id="7839260860373627374">Lue lisää mainoksista Bravessa</translation>
-<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina sarkainta ja Enter, niin voit jatkaa toimintoa ja nähdä oleelliset tapahtumat Brave-historiassasi</translation>
+<translation id="3582535072753734287">Yritys tai muu organisaatio ei ylläpidä selainta. Laitteen toimintaa saatetaan ylläpitää Kahfn ulkopuolelta. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
+<translation id="7839260860373627374">Lue lisää mainoksista Kahfssa</translation>
+<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paina sarkainta ja Enter, niin voit jatkaa toimintoa ja nähdä oleelliset tapahtumat Kahf-historiassasi</translation>
 <translation id="9119042192571987207">Lähetetty</translation>
 <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> haluaa vahvistaa henkilöllisyytesi</translation>
 <translation id="912327514020027767">Hameet</translation>
@@ -4516,7 +4516,7 @@ Lisätietoja:
 <translation id="997986563973421916">Google Paysta</translation>
 <translation id="8820817407110198400">Kirjanmerkit</translation>
 <translation id="8362995731815961365">Tämän tietokoneen määrittänyt henkilö on estänyt tämän sivuston.</translation>
-<translation id="896703648578722320">Kun laajennuksia lisätään Braveen, olennaisia tietoja näistä laajennuksista lähetetään kolmansille osapuolille analysoitavaksi, ja ne voivat näkyä järjestelmänvalvojalle. Data sisältää laajennuksia koskevia tietoja, kuten nimen, asennusajan ja asennuslähteen sekä laajennuksiin liittyvän toiminnan (kuten välilehtien vaihtamisen, verkkosivustojen kontaktoinnin tai evästeiden käytön). Dataa kerätään sekä Web Storesta että sen ulkopuolelta asennetuista laajennuksista.</translation>
+<translation id="896703648578722320">Kun laajennuksia lisätään Kahfen, olennaisia tietoja näistä laajennuksista lähetetään kolmansille osapuolille analysoitavaksi, ja ne voivat näkyä järjestelmänvalvojalle. Data sisältää laajennuksia koskevia tietoja, kuten nimen, asennusajan ja asennuslähteen sekä laajennuksiin liittyvän toiminnan (kuten välilehtien vaihtamisen, verkkosivustojen kontaktoinnin tai evästeiden käytön). Dataa kerätään sekä Web Storesta että sen ulkopuolelta asennetuista laajennuksista.</translation>
 <translation id="4075123085690634698">Avaa sivu uudessa incognito-ikkunassa (⇧ + ⌘ + N).</translation>
 <translation id="2388886110302389394">Avaa sivu uudessa incognito-ikkunassa (Ctrl + Vaihto + N).</translation>
 <translation id="6957624206566198865">Avaa sivu uudessa incognito-välilehdessä.</translation>

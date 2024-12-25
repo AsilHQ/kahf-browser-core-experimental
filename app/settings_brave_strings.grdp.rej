@@ -1,94 +1,5 @@
 diff a/app/settings_brave_strings.grdp b/app/settings_brave_strings.grdp	(rejected hunks)
-@@ -48,65 +48,65 @@
-     <message name="IDS_OS_SETTINGS_TAG_OS_VERSION" desc="Text for search result item which, when clicked, navigates the user to about ChromeOS settings, which gives information about the current ChromeOS version.">
-       ChromeOS version
-     </message>
--    <message name="IDS_SETTINGS_GET_HELP_USING_CHROME_OS" desc="Text of the button which takes the user to the Brave help page.">
-+    <message name="IDS_SETTINGS_GET_HELP_USING_CHROME_OS" desc="Text of the button which takes the user to the Kahf help page.">
-       Get help with ChromeOS
-     </message>
-   </if>
- 
-   <!-- Autofill Page -->
-   <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_OFFLINE" desc="Error message when the password check can't be completed because the user is offline.">
--    Brave can't check your passwords. Try checking your internet connection.
-+    Kahf can't check your passwords. Try checking your internet connection.
-   </message>
-   <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_SIGNED_OUT" desc="Error message when the password check can't be completed because the user is not signed in.">
--    Brave can check your passwords when you sign in with your Brave sync chain
-+    Kahf can check your passwords when you sign in with your Kahf sync chain
-   </message>
-   <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_NO_PASSWORDS" desc="Error message when the password check can't be completed since no passwords could be checked.">
--    No saved passwords. Brave can check your passwords when you save them.
-+    No saved passwords. Kahf can check your passwords when you save them.
-   </message>
--  <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_QUOTA_LIMIT_GOOGLE_ACCOUNT" desc="Error message when the password check can't be completed since the user hit the quota limit, but the user is able to check their passwords in their Brave account.">
--    Brave can't check your passwords. Try again after 24 hours or <ph name="BEGIN_LINK">&lt;a href="$1" target="_blank"&gt;</ph>check passwords in your Brave sync chain<ph name="END_LINK">&lt;/a&gt;</ph>.
-+  <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_QUOTA_LIMIT_GOOGLE_ACCOUNT" desc="Error message when the password check can't be completed since the user hit the quota limit, but the user is able to check their passwords in their Kahf account.">
-+    Kahf can't check your passwords. Try again after 24 hours or <ph name="BEGIN_LINK">&lt;a href="$1" target="_blank"&gt;</ph>check passwords in your Kahf sync chain<ph name="END_LINK">&lt;/a&gt;</ph>.
-   </message>
-   <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_QUOTA_LIMIT" desc="Error message when the password check can't be completed since the user hit the quota limit.">
--    Brave can't check your passwords. Try again after 24 hours.
-+    Kahf can't check your passwords. Try again after 24 hours.
-   </message>
-   <message name="IDS_SETTINGS_CHECK_PASSWORDS_ERROR_GENERIC" desc="Error message when the password check can't be completed for an unspecified reason.">
--    Brave can't check your passwords. Try again later.
-+    Kahf can't check your passwords. Try again later.
-   </message>
-   <message name="IDS_SETTINGS_NO_COMPROMISED_CREDENTIALS_LABEL" desc="Label which is shown when there were no compromised passwords detected.">
--    Brave will notify you when you sign in with a compromised password
-+    Kahf will notify you when you sign in with a compromised password
-   </message>
-   <message name="IDS_SETTINGS_SIGNED_OUT_USER_LABEL" desc="Label which is shown at the top of the compromised password section if user is signed out.">
--    To check if your passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK">&lt;a target='_blank' href='$1'&gt;</ph>sign in to Brave<ph name="END_LINK">&lt;/a&gt;</ph>.
-+    To check if your passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK">&lt;a target='_blank' href='$1'&gt;</ph>sign in to Kahf<ph name="END_LINK">&lt;/a&gt;</ph>.
-   </message>
-   <message name="IDS_SETTINGS_SIGNED_OUT_USER_HAS_COMPROMISED_CREDENTIALS_LABEL" desc="Label which is shown at the bottom of the compromised password section if user is signed out and has compromised credentials.">
--    To check if your other passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK">&lt;a target='_blank' href='$1'&gt;</ph>sign in to Brave<ph name="END_LINK">&lt;/a&gt;</ph>.
-+    To check if your other passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK">&lt;a target='_blank' href='$1'&gt;</ph>sign in to Kahf<ph name="END_LINK">&lt;/a&gt;</ph>.
-   </message>
-   <message name="IDS_SETTINGS_WEAK_PASSWORDS_DESCRIPTION_GENERATION" desc="Information about why weak passwords are a security issue and what syncing user should do to fix the problem. Has a link.">
--    Weak passwords are easy to guess. Let Brave <ph name="BEGIN_LINK">&lt;a target='_blank' href='$1'&gt;</ph>create and remember strong passwords for you<ph name="END_LINK">&lt;/a&gt;</ph>.
-+    Weak passwords are easy to guess. Let Kahf <ph name="BEGIN_LINK">&lt;a target='_blank' href='$1'&gt;</ph>create and remember strong passwords for you<ph name="END_LINK">&lt;/a&gt;</ph>.
-   </message>
--  <message name="IDS_SETTINGS_COMPROMISED_EDIT_DISCLAIMER_DESCRIPTION" desc="A description for the dialog which tells the user to edit password in Brave if it was changed already.">
--    If so, please edit your saved password in Brave so it matches your new password.
-+  <message name="IDS_SETTINGS_COMPROMISED_EDIT_DISCLAIMER_DESCRIPTION" desc="A description for the dialog which tells the user to edit password in Kahf if it was changed already.">
-+    If so, please edit your saved password in Kahf so it matches your new password.
-   </message>
-   <!-- Default Browser Page -->
-   <if expr="not chromeos_ash">
--    <message name="IDS_SETTINGS_DEFAULT_BROWSER_DEFAULT" desc="The text displayed when Brave is the default browser">
--      Brave is your default browser
-+    <message name="IDS_SETTINGS_DEFAULT_BROWSER_DEFAULT" desc="The text displayed when Kahf is the default browser">
-+      Kahf is your default browser
-     </message>
-     <message name="IDS_SETTINGS_DEFAULT_BROWSER_MAKE_DEFAULT" desc="Default browser checkbox label">
--      Make Brave the default browser
-+      Make Kahf the default browser
-     </message>
--    <message name="IDS_SETTINGS_DEFAULT_BROWSER_ERROR" desc="The text displayed when Brave cannot determine or set the default browser">
--      Brave cannot determine or set the default browser
-+    <message name="IDS_SETTINGS_DEFAULT_BROWSER_ERROR" desc="The text displayed when Kahf cannot determine or set the default browser">
-+      Kahf cannot determine or set the default browser
-     </message>
-     <if expr="_is_chrome_for_testing_branded">
-       <then>
--        <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when Brave for Testing is installed in side-by-side mode, which does not support setting as the default browser.">
--          Brave for Testing cannot be made your default browser.
-+        <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when Kahf for Testing is installed in side-by-side mode, which does not support setting as the default browser.">
-+          Kahf for Testing cannot be made your default browser.
-         </message>
-       </then>
-       <else>
--        <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when Brave is installed in side-by-side mode, which does not support setting as the default browser.">
--          This is a secondary installation of Brave, and cannot be made your default browser.
-+        <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when Kahf is installed in side-by-side mode, which does not support setting as the default browser.">
-+          This is a secondary installation of Kahf, and cannot be made your default browser.
-         </message>
-       </else>
-     </if>
-@@ -114,344 +114,344 @@
+@@ -114,365 +114,365 @@
  
    <!-- Preloading Page-->
    <message name="IDS_SETTINGS_PRELOAD_PAGES_STANDARD_PRELOADING_WHEN_ON_BULLET_TWO" desc="Bullet point in the standard preloading and when on column. Informs the user about what the standard preloading setting does.">
@@ -137,6 +48,30 @@ diff a/app/settings_brave_strings.grdp b/app/settings_brave_strings.grdp	(reject
    <message name="IDS_SETTINGS_SITE_SETTINGS_PDFS_BLOCKED" desc="Label for the disabled option of the pdfs content setting.">
 -    Open PDFs in Brave
 +    Open PDFs in Kahf
+   </message>
+   <message name="IDS_SETTINGS_SITE_SITE_DETAILS_CAMERA_BLOCKED_BY_OS" desc="The description for the camera permission with a link to system settings.">
+-      To use your camera, give Brave access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++      To use your camera, give Kahf access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+   </message>
+   <message name="IDS_SETTINGS_SITE_SITE_DETAILS_MICROPHONE_BLOCKED_BY_OS" desc="The description for the microphone permission with a link to system settings.">
+-      To use your microphone, give Brave access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++      To use your microphone, give Kahf access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+   </message>
+   <message name="IDS_SETTINGS_SITE_SITE_DETAILS_LOCATION_BLOCKED_BY_OS" desc="The description for the location permission with a link to system settings.">
+-      To use your location, give Brave access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++      To use your location, give Kahf access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+   </message>
+   <message name="IDS_SETTINGS_SITE_SETTINGS_CAMERA_BLOCKED_BY_OS" desc="Warning for camera content setting when the camera is disabled on OS level." translateable="false">
+-    To use your camera on these sites, give Brave access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++    To use your camera on these sites, give Kahf access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+   </message>
+   <message name="IDS_SETTINGS_SITE_SETTINGS_LOCATION_BLOCKED_BY_OS" desc="Warning for location content setting when the camera is disabled on OS level." translateable="false">
+-    To use your location on these sites, give Brave access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++    To use your location on these sites, give Kahf access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+   </message>
+   <message name="IDS_SETTINGS_SITE_SETTINGS_MIC_BLOCKED_BY_OS" desc="Warning for microphone content setting when the camera is disabled on OS level." translateable="false">
+-    To use your microphone on these sites, give Brave access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++    To use your microphone on these sites, give Kahf access in <ph name="BEGIN_LINK">&lt;a href="#" id="openSystemSettingsLink" &gt;</ph>system settings<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
    </message>
  
      <!-- Site Settings - Site Data Page-->
@@ -410,16 +345,16 @@ diff a/app/settings_brave_strings.grdp b/app/settings_brave_strings.grdp	(reject
  
    <!-- Performance Page -->
    <message name="IDS_SETTINGS_PERFORMANCE_MEMORY_SAVER_MODE_SETTING_DESCRIPTION" desc="Description for the memory saver mode setting">
--    When on, Brave frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Brave fast. Your inactive tabs automatically become active again when you go back to them.
-+    When on, Kahf frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Kahf fast. Your inactive tabs automatically become active again when you go back to them.
+-    Brave frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Brave fast. Your inactive tabs automatically become active again when you go back to them.
++    Kahf frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Kahf fast. Your inactive tabs automatically become active again when you go back to them.
    </message>
    <message name="IDS_SETTINGS_PERFORMANCE_BATTERY_SAVER_MODE_SETTING_DESCRIPTION" desc="Description for the energy saver mode setting">
--    When on, Brave conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.
-+    When on, Kahf conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.
+-    Brave conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.
++    Kahf conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.
    </message>
    <message name="IDS_SETTINGS_PERFORMANCE_PRELOAD_TOGGLE_SUMMARY" desc="Summary for the preload pages setting">
--    When on, Brave preloads pages which makes browsing and searching faster.
-+    When on, Kahf preloads pages which makes browsing and searching faster.
+-    Brave preloads pages which makes browsing and searching faster.
++    Kahf preloads pages which makes browsing and searching faster.
    </message>
  
    <!-- Languages Page -->
@@ -556,7 +491,11 @@ diff a/app/settings_brave_strings.grdp b/app/settings_brave_strings.grdp	(reject
 +    Dangerous site. Kahf removed notifications.
    </message>
  
-   <!-- HTTPS-First Mode -->
+   <!-- Secure connections -->
+   <message name="IDS_SETTINGS_SECURE_CONNECTIONS_SECTION_DESCRIPTION" desc="Description for the Secure Connections section in Security settings, explaining the baseline behavior of the browser even if the 'Always use secure connections' toggle is disabled.">
+-    Brave upgrades insecure connections to HTTPS automatically when possible
++    Kahf upgrades insecure connections to HTTPS automatically when possible
+   </message>
    <message name="IDS_SETTINGS_HTTPS_FIRST_MODE_SUBTITLE" desc="Subtitle for HTTPS-First Mode section in Security settings">
 -    Brave will try to upgrade navigations to HTTPS
 +    Kahf will try to upgrade navigations to HTTPS

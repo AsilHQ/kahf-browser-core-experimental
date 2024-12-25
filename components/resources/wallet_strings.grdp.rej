@@ -1,5 +1,5 @@
 diff a/components/resources/wallet_strings.grdp b/components/resources/wallet_strings.grdp	(rejected hunks)
-@@ -278,9 +278,9 @@
+@@ -293,9 +293,9 @@
    <message name="IDS_BRAVE_WALLET_AUTHORIZE_HARDWARE_WALLET" desc="Authorize hardware wallet page title">Authorize your wallet</message>
    <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_WALLET" desc="Title for connect hardware wallet page">Connect hardware wallet</message>
    <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_WALLET_DESCRIPTION" desc="Description for connect hardware wallet page">We currently support <ph name="HARDWARE_DEVICE"><ex>Ledger</ex>$1</ph> and <ph name="HARDWARE_DEVICE1"><ex>Trezor</ex>$2</ph> devices.</message>
@@ -9,9 +9,9 @@ diff a/components/resources/wallet_strings.grdp b/components/resources/wallet_st
 -  <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_DEVICE_DESCRIPTION" desc="Connect a hardware wallet description">Connect your <ph name="HARDWARE_DEVICE"><ex>Ledger</ex>$1</ph> device to Brave Wallet</message>
 +  <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_DEVICE_DESCRIPTION" desc="Connect a hardware wallet description">Connect your <ph name="HARDWARE_DEVICE"><ex>Ledger</ex>$1</ph> device to Kahf Wallet</message>
    <message name="IDS_BRAVE_WALLET_UNKNOWN_INTERNAL_ERROR" desc="Connect hardware wallet connection error">Unknown error, please reconnect your hardware wallet and try again.</message>
-   <message name="IDS_BRAVE_WALLET_ACCOUNT_SETTINGS_DETAILS" desc="Account settings modal details button">Details</message>
    <message name="IDS_BRAVE_WALLET_ACCOUNT_SETTINGS_WATCHLIST" desc="Account settings modal visible assets button">Visible assets</message>
-@@ -342,7 +342,7 @@
+   <message name="IDS_BRAVE_WALLET_ACCOUNT_SETTINGS_PRIVATE_KEY" desc="Account settings modal show private key button">Private key</message>
+@@ -356,7 +356,7 @@
    <message name="IDS_BRAVE_WALLET_BUY_DESCRIPTION" desc="Buy tab faucet description to get test crypto">Get Ether from a faucet for <ph name="SELECTED_NETWORK"><ex>Goerli Network</ex>$1</ph></message>
    <message name="IDS_BRAVE_WALLET_BUY_CONTINUE_BUTTON" desc="Buy tab continue button">Select purchase method</message>
    <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_TITLE" desc="Sign panel title">Your signature is being requested</message>
@@ -19,13 +19,4 @@ diff a/components/resources/wallet_strings.grdp b/components/resources/wallet_st
 +  <message name="IDS_BRAVE_WALLET_SIGN_WARNING" desc="Sign panel warning message">Note that Kahf can’t verify what will happen if you sign. A signature could authorize nearly any operation in your account or on your behalf, including (but not limited to) giving total control of your account and crypto assets to the site making the request. Only sign if you’re sure you want to take this action, and trust the requesting site.</message>
    <message name="IDS_BRAVE_WALLET_SIGN_WARNING_TITLE" desc="Sign panel risk title">Sign at your own risk</message>
    <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_MESSAGE_TITLE" desc="Sign panel message title">Message</message>
-   <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_EIP712_MESSAGE_TITLE" desc="Sign panel EIP-712 message title">Details</message>
-@@ -1055,7 +1055,7 @@
-   <message name="IDS_BRAVE_WALLET_TRANSACTION_SIMULATION_DETECT_PHISHING" desc="Bullet point for transaction-simulation feature (detect phishing attempts)">Help detect phishing attempts</message>
-   <message name="IDS_BRAVE_WALLET_BUTTON_NO_THANKS" desc="Button text for declining an action">No thanks</message>
-   <message name="IDS_BRAVE_WALLET_BUTTON_ENABLE" desc="Button text for enabling a feature">Enable</message>
--  <message name="IDS_BRAVE_WALLET_TRANSACTION_SIMULATION_TERMS" desc="Explaination of terms of service for transaction simulations">Brave works with a partner to provide this service. By enabling, you agree to share unsigned transactions and their DApp URLs with our partner.</message>
-+  <message name="IDS_BRAVE_WALLET_TRANSACTION_SIMULATION_TERMS" desc="Explaination of terms of service for transaction simulations">Kahf works with a partner to provide this service. By enabling, you agree to share unsigned transactions and their DApp URLs with our partner.</message>
-   <message name="IDS_BRAVE_WALLET_CHANGE_ANYTIME_IN_SETTINGS" desc="Explains that something can be changed from within settings">Change anytime in <ph name="TAG_BEFORE">$1</ph>Settings<ph name="TAG_AFTER">$2</ph>.</message>
-   <message name="IDS_BRAVE_WALLET_AVAILABLE" desc="Available balance label">Available</message>
-   <message name="IDS_BRAVE_WALLET_AVAILABLE_BALANCE_DESCRIPTION" desc="Available balance tooltip description">Funds available for you to use.</message>
+   <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_EIP712_MESSAGE_HIDE_DETAILS" desc="Sign panel EIP-712 message hide details">Hide details</message>

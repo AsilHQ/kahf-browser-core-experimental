@@ -1,5 +1,5 @@
 diff a/app/os_settings_search_tag_strings.grdp b/app/os_settings_search_tag_strings.grdp	(rejected hunks)
-@@ -852,44 +852,44 @@
+@@ -852,48 +852,48 @@
    <message name="IDS_OS_SETTINGS_TAG_QUICK_ANSWERS_UNIT_CONVERSION" desc="Text for search result item which, when clicked, navigates the user to Quick Answers settings, with a toggle to enable/disable the Quick Answers unit conversion functionality.">
      Quick Answers unit conversion
    </message>
@@ -69,10 +69,16 @@ diff a/app/os_settings_search_tag_strings.grdp b/app/os_settings_search_tag_stri
 +    Train Kahf Assistant voice model
    </message>
  
-   <!-- Apps section. -->
-@@ -1548,8 +1548,8 @@
-   <message name="IDS_OS_SETTINGS_TAG_A11Y_OVERSCROLL_ENABLED_ALT1" desc="Text for search result item which, when clicked, navigates the user to an accessibility setting to turn on or off overscroll navigation.">
-     Overscroll to navigate between pages
+-  <message name="IDS_OS_SETTINGS_TAG_MAGIC_BOOST" desc="Text for search result item which, when clicked, navigates the user to Brave AI settings, with an option to turn functionality on.">
+-    Brave AI
++  <message name="IDS_OS_SETTINGS_TAG_MAGIC_BOOST" desc="Text for search result item which, when clicked, navigates the user to Kahf AI settings, with an option to turn functionality on.">
++    Kahf AI
+   </message>
+   <message name="IDS_OS_SETTINGS_TAG_MAGIC_BOOST_HMR" desc="Text for search result item which, when clicked, navigates the user to Help Me Read settings, with an option to turn functionality on.">
+     Help Me Read
+@@ -1564,8 +1564,8 @@
+   <message name="IDS_OS_SETTINGS_TAG_A11Y_FLASH_NOTIFICATIONS_ALT1" desc="Text for search result item which, when clicked, navigates the user to an accessibility setting to turn on or off a feature that flashes the screen when a notification appears.">
+     Screen flash
    </message>
 -  <message name="IDS_OS_SETTINGS_TAG_A11Y_LABELS_FROM_GOOGLE" desc="Text for search result item which, when clicked, navigates the user to accessibility settings, with a toggle to enable/disable getting image descriptions from Brave.">
 -    Get image descriptions from Brave
