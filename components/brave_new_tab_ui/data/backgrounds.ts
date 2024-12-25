@@ -86,4 +86,4 @@ export const gradientColorsForBackground: NewTab.ColorBackground[] = [
   'linear-gradient(128.12deg, #4F86E2 6.66%, #694CD9 83.35%)',
   'linear-gradient(127.39deg, #851B6A 6.04%, #C83553 86.97%)',
   'linear-gradient(130.39deg, #FE6F4C 9.83%, #C53646 85.25%)'
-].map((color): NewTab.ColorBackground => ({ 'type': 'color', 'wallpaperColor': color }))
+].map((color): NewTab.ColorBackground => ({ 'type': 'color', 'wallpaperColor': color }));
