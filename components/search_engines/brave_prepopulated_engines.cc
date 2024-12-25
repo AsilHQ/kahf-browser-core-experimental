@@ -215,7 +215,7 @@ const PrepopulatedEngine brave_search = MakeBravePrepopulatedEngine(
     u"Kahf",
     u":br",
     "https://cdn.search.brave.com/serp/favicon.ico",
-    "https://search.brave.com/search?q={searchTerms}&source="
+    "https://www.google.com/search?q={searchTerms}&source="
 #if BUILDFLAG(IS_ANDROID)
     "android",
 #else

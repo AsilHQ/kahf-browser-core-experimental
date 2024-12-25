@@ -33,15 +33,17 @@ void SetBraveAsDefaultPrivateSearchProvider(Profile* profile) {
   search_engines::SearchEngineChoiceService* search_engine_choice_service =
       search_engines::SearchEngineChoiceServiceFactory::GetForProfile(profile);
 
+  // Modify to set Google as the default instead of Brave
   auto data = TemplateURLPrepopulateData::GetPrepopulatedEngine(
       prefs, search_engine_choice_service,
-      TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE);
+      TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_GOOGLE);  // Change this to GOOGLE
   DCHECK(data);
   prefs->SetString(prefs::kSyncedDefaultPrivateSearchProviderGUID,
                    data->sync_guid);
   prefs->SetDict(prefs::kSyncedDefaultPrivateSearchProviderData,
                  TemplateURLDataToDictionary(*data));
 }
+
 
 void RegisterSearchEngineProviderPrefsForMigration(
     user_prefs::PrefRegistrySyncable* registry) {

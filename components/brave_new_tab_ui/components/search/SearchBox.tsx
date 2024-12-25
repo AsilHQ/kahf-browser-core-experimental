@@ -9,15 +9,16 @@ import Input from '@brave/leo/react/input';
 import { color, font, spacing } from '@brave/leo/tokens/css/variables';
 import * as React from 'react';
 import styled from 'styled-components';
-import EnginePicker from './EnginePicker';
+// import EnginePicker from './EnginePicker';
 import { useSearchContext } from './SearchContext';
 import { braveSearchHost, searchBoxRadius } from './config';
+import SearchBoxSvgComponent from './SearchBoxSvgComponent';
 
 const searchBoxClass = 'ntp-search-box'
 
 const SearchInput = styled(Input)`
   --leo-control-focus-effect: none;
-  --leo-control-padding: 12px 10px;
+  --leo-control-padding: 12px 26px;
   --leo-control-color: rgba(255, 255, 255, 0.1);
   --leo-control-text-color: ${color.white};
   --leo-control-font: ${font.large.regular};
@@ -75,11 +76,15 @@ export default function SearchBox() {
   }, [])
   return <Container className={searchBoxClass}>
     <SearchInput tabIndex={1} type="text" ref={searchInput} value={query} onInput={e => setQuery(e.value)} placeholder={placeholderText}>
+      <div style={{ height: '24px', width: '24px', marginBottom: '14px', marginLeft: '6px' }}>
       <Flex slot="left-icon" align='center'>
-        <EnginePicker />
+      <SearchBoxSvgComponent />
       </Flex>
+      </div>
       <SearchIconContainer slot="right-icon">
-        <Icon name="search" />
+      
+          <Icon name="search" />
+        
       </SearchIconContainer>
     </SearchInput>
   </Container>

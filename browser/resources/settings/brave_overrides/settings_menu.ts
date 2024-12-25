@@ -262,7 +262,7 @@ RegisterPolymerTemplateModifications({
       'product-brave-wallet',
       'wallet',
     )
-    privacyEl.insertAdjacentElement('afterend', web3El)
+    // privacyEl.insertAdjacentElement('afterend', web3El)
 
     // Add leo item
     const leoAssistantEl = createMenuElement(
