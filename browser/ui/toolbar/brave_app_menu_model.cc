@@ -146,17 +146,17 @@ void BraveAppMenuModel::BuildBraveProductsSection() {
   // Needs to add separator as this section is brave specific section.
   bool need_separator = false;
 #if false
-  if (IsCommandIdEnabled(IDC_TOGGLE_AI_CHAT)) {
-    InsertItemWithStringIdAt(GetNextIndexOfBraveProductsSection(),
-                             IDC_TOGGLE_AI_CHAT, IDS_TOGGLE_AI_CHAT);
-    need_separator = true;
-  }
+  // if (IsCommandIdEnabled(IDC_TOGGLE_AI_CHAT)) {
+  //   InsertItemWithStringIdAt(GetNextIndexOfBraveProductsSection(),
+  //                            IDC_TOGGLE_AI_CHAT, IDS_TOGGLE_AI_CHAT);
+  //   need_separator = true;
+  // }
 
-  if (IsCommandIdEnabled(IDC_SHOW_BRAVE_WALLET)) {
-    InsertItemWithStringIdAt(GetNextIndexOfBraveProductsSection(),
-                             IDC_SHOW_BRAVE_WALLET, IDS_SHOW_BRAVE_WALLET);
-    need_separator = true;
-  }
+  // if (IsCommandIdEnabled(IDC_SHOW_BRAVE_WALLET)) {
+  //   InsertItemWithStringIdAt(GetNextIndexOfBraveProductsSection(),
+  //                            IDC_SHOW_BRAVE_WALLET, IDS_SHOW_BRAVE_WALLET);
+  //   need_separator = true;
+  // }
 
 //if BUILDFLAG(ENABLE_BRAVE_VPN)
   if (IsCommandIdEnabled(IDC_BRAVE_VPN_MENU)) {
@@ -173,29 +173,29 @@ void BraveAppMenuModel::BuildBraveProductsSection() {
   }
 #endif
 
-#if defined(TOOLKIT_VIEWS)
-  if (sidebar::CanUseSidebar(browser())) {
-    sidebar_show_option_model_ = std::make_unique<ui::ButtonMenuItemModel>(
-        IDS_APP_MENU_SIDEBAR_TITLE, this);
+// #if defined(TOOLKIT_VIEWS)
+//   if (sidebar::CanUseSidebar(browser())) {
+//     sidebar_show_option_model_ = std::make_unique<ui::ButtonMenuItemModel>(
+//         IDS_APP_MENU_SIDEBAR_TITLE, this);
 
-    sidebar_show_option_model_->AddGroupItemWithStringId(
-        IDC_SIDEBAR_SHOW_OPTION_ALWAYS, IDS_APP_MENU_SIDEBAR_ON);
-    sidebar_show_option_model_->AddGroupItemWithStringId(
-        IDC_SIDEBAR_SHOW_OPTION_MOUSEOVER, IDS_APP_MENU_SIDEBAR_HOVER);
-    sidebar_show_option_model_->AddGroupItemWithStringId(
-        IDC_SIDEBAR_SHOW_OPTION_NEVER, IDS_APP_MENU_SIDEBAR_OFF);
-    const auto index = GetNextIndexOfBraveProductsSection();
-    AddButtonItemAt(IDC_SIDEBAR_SHOW_OPTION_MENU,
-                    sidebar_show_option_model_.get(),
-                    static_cast<size_t>(index));
-    // Insert separator to the top and bottom
-    InsertSeparatorAt(index, ui::LOWER_SEPARATOR);
-    InsertSeparatorAt(index + 2, ui::UPPER_SEPARATOR);
+//     sidebar_show_option_model_->AddGroupItemWithStringId(
+//         IDC_SIDEBAR_SHOW_OPTION_ALWAYS, IDS_APP_MENU_SIDEBAR_ON);
+//     sidebar_show_option_model_->AddGroupItemWithStringId(
+//         IDC_SIDEBAR_SHOW_OPTION_MOUSEOVER, IDS_APP_MENU_SIDEBAR_HOVER);
+//     sidebar_show_option_model_->AddGroupItemWithStringId(
+//         IDC_SIDEBAR_SHOW_OPTION_NEVER, IDS_APP_MENU_SIDEBAR_OFF);
+//     const auto index = GetNextIndexOfBraveProductsSection();
+//     AddButtonItemAt(IDC_SIDEBAR_SHOW_OPTION_MENU,
+//                     sidebar_show_option_model_.get(),
+//                     static_cast<size_t>(index));
+//     // Insert separator to the top and bottom
+//     InsertSeparatorAt(index, ui::LOWER_SEPARATOR);
+//     InsertSeparatorAt(index + 2, ui::UPPER_SEPARATOR);
 
-    // Already added separator.
-    need_separator = false;
-  }
-#endif
+//     // Already added separator.
+//     need_separator = false;
+//   }
+// #endif
   if (need_separator) {
     InsertSeparatorAt(GetNextIndexOfBraveProductsSection(),
                       ui::NORMAL_SEPARATOR);
@@ -287,15 +287,15 @@ void BraveAppMenuModel::BuildMoreToolsSubMenu() {
     need_separator = false;
   }
 
-#if BUILDFLAG(ENABLE_COMMANDER)
-  if (auto index =
-          more_tools_menu_model->GetIndexOfCommandId(IDC_NAME_WINDOW)) {
-    if (commander::IsEnabled()) {
-      more_tools_menu_model->InsertItemWithStringIdAt(*index + 1, IDC_COMMANDER,
-                                                      IDS_IDC_COMMANDER);
-    }
-  }
-#endif
+// #if BUILDFLAG(ENABLE_COMMANDER)
+//   if (auto index =
+//           more_tools_menu_model->GetIndexOfCommandId(IDC_NAME_WINDOW)) {
+//     if (commander::IsEnabled()) {
+//       more_tools_menu_model->InsertItemWithStringIdAt(*index + 1, IDC_COMMANDER,
+//                                                       IDS_IDC_COMMANDER);
+//     }
+//   }
+// #endif
 
   if (auto index =
           more_tools_menu_model->GetIndexOfCommandId(IDC_TASK_MANAGER)) {
@@ -410,8 +410,8 @@ bool BraveAppMenuModel::IsCommandIdEnabled(int id) const {
 size_t BraveAppMenuModel::GetNextIndexOfBraveProductsSection() const {
   std::vector<int> commands_to_check = {IDC_SHOW_BRAVE_VPN_PANEL,
                                         IDC_BRAVE_VPN_MENU,
-                                        IDC_SHOW_BRAVE_WALLET,
-                                        IDC_TOGGLE_AI_CHAT,
+                                        // IDC_SHOW_BRAVE_WALLET,
+                                        // IDC_TOGGLE_AI_CHAT,
                                         IDC_NEW_OFFTHERECORD_WINDOW_TOR,
                                         IDC_NEW_INCOGNITO_WINDOW,
                                         IDC_NEW_WINDOW};

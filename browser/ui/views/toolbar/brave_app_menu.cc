@@ -217,14 +217,14 @@ void BraveAppMenu::OnMenuClosed(views::MenuItemView* menu) {
 void BraveAppMenu::RecordMenuUsage(int command_id) {
   misc_metrics::MenuGroup group;
 
-#if BUILDFLAG(ENABLE_AI_CHAT)
-  if (command_id == IDC_TOGGLE_AI_CHAT) {
-    ai_chat::AIChatMetrics* metrics =
-        g_brave_browser_process->process_misc_metrics()->ai_chat_metrics();
-    CHECK(metrics);
-    metrics->HandleOpenViaEntryPoint(ai_chat::EntryPoint::kMenuItem);
-  }
-#endif
+// #if BUILDFLAG(ENABLE_AI_CHAT)
+//   if (command_id == IDC_TOGGLE_AI_CHAT) {
+//     ai_chat::AIChatMetrics* metrics =
+//         g_brave_browser_process->process_misc_metrics()->ai_chat_metrics();
+//     CHECK(metrics);
+//     metrics->HandleOpenViaEntryPoint(ai_chat::EntryPoint::kMenuItem);
+//   }
+// #endif
 
   switch (command_id) {
     case IDC_NEW_WINDOW:
@@ -234,8 +234,8 @@ void BraveAppMenu::RecordMenuUsage(int command_id) {
     case IDC_OPEN_GUEST_PROFILE:
       group = misc_metrics::MenuGroup::kTabWindow;
       break;
-    case IDC_SHOW_BRAVE_WALLET:
-    case IDC_TOGGLE_AI_CHAT:
+    // case IDC_SHOW_BRAVE_WALLET:
+    // case IDC_TOGGLE_AI_CHAT:
     case IDC_SHOW_BRAVE_SYNC:
     case IDC_SHOW_BRAVE_REWARDS:
       group = misc_metrics::MenuGroup::kBraveFeatures;
