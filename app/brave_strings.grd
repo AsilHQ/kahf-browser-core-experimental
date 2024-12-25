@@ -1005,48 +1005,48 @@ Permissions you've already given to websites and apps may apply to this account.
 
       <!-- Management bubble -->
       <message name="IDS_MANAGEMENT_DIALOG_BROWSER_MANAGED" desc="Disclosure that an unnamed organization is managing the browser.">
-        Your organization manages Brave
+        Your organization manages Kahf
       </message>
       <message name="IDS_MANAGEMENT_DIALOG_BROWSER_MANAGED_BY" desc="Disclosure that a known organization is managing the browser.">
-        <ph name="MANAGER">$1<ex>The Company</ex></ph> manages Brave
+        <ph name="MANAGER">$1<ex>The Company</ex></ph> manages Kahf
       </message>
       <message name="IDS_MANAGEMENT_DIALOG_BROWSER_MANAGED_BY_MULTIPLE_ORGANIZATIONS" desc="Disclosure that multiple organization are managing the browser and profile.">
-        Multiple organizations manage Brave
+        Multiple organizations manage Kahf
       </message>
 
-      <!-- Extension requests sign in to Brave through chrome.identity API -->
+      <!-- Extension requests sign in to Kahf through chrome.identity API -->
       <if expr="enable_extensions">
-        <message name="IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_TITLE" desc="This string is the heading of a dialog intended to inform the user that one of their installed extensions wants them to sign in to Brave to be able to use their Brave sync chain.">
-          The extension "<ph name="EXTENSION_NAME">$1<ex>Screencast</ex></ph>" wants you to sign in to Brave
+        <message name="IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_TITLE" desc="This string is the heading of a dialog intended to inform the user that one of their installed extensions wants them to sign in to Kahf to be able to use their Kahf sync chain.">
+          The extension "<ph name="EXTENSION_NAME">$1<ex>Screencast</ex></ph>" wants you to sign in to Kahf
         </message>
-        <message name="IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_BODY_PART_1" desc="This string is the body of a dialog intended to inform the user that one of their installed extensions wants them to sign in to Brave to be able to use their Brave sync chain.">
-         To use this extension as <ph name="USER_EMAIL_ADDRESS">$1<ex>elisa.g.beckett@gmail.com</ex></ph>, sign in to Brave.
+        <message name="IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_BODY_PART_1" desc="This string is the body of a dialog intended to inform the user that one of their installed extensions wants them to sign in to Kahf to be able to use their Kahf sync chain.">
+         To use this extension as <ph name="USER_EMAIL_ADDRESS">$1<ex>elisa.g.beckett@gmail.com</ex></ph>, sign in to Kahf.
         </message>
-        <message name="IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_TITLE_FALLBACK" desc="This string is the heading of a dialog intended to inform the user that one of their installed extensions wants them to sign in to Brave to be able to use their Brave sync chain. Used when the extension name couldn't be retrieved.">
-          An extension wants you to sign in to Brave
+        <message name="IDS_EXTENSION_ASKS_IDENTITY_WHILE_SIGNED_IN_WEB_ONLY_TITLE_FALLBACK" desc="This string is the heading of a dialog intended to inform the user that one of their installed extensions wants them to sign in to Kahf to be able to use their Kahf sync chain. Used when the extension name couldn't be retrieved.">
+          An extension wants you to sign in to Kahf
         </message>
       </if>
 
       <!-- about:browser-switch strings -->
       <if expr="toolkit_views and not chromeos_lacros and not chromeos_ash">
         <message name="IDS_ABOUT_BROWSER_SWITCH_DESCRIPTION_UNKNOWN_BROWSER" desc="Description shown while waiting for an alternative browser to open, when the browser name is not auto-detected">
-          Your system administrator has configured Brave to open an alternative browser to access <ph name="TARGET_URL_HOSTNAME">$1<ex>example.com</ex></ph>.
+          Your system administrator has configured Kahf to open an alternative browser to access <ph name="TARGET_URL_HOSTNAME">$1<ex>example.com</ex></ph>.
         </message>
         <message name="IDS_ABOUT_BROWSER_SWITCH_DESCRIPTION_KNOWN_BROWSER" desc="Description shown while waiting for an alternative browser to open, when the browser name is auto-detected">
-          Your system administrator has configured Brave to open <ph name="ALTERNATIVE_BROWSER_NAME">$2<ex>Internet Explorer</ex></ph> to access <ph name="TARGET_URL_HOSTNAME">$1<ex>example.com</ex></ph>.
+          Your system administrator has configured Kahf to open <ph name="ALTERNATIVE_BROWSER_NAME">$2<ex>Internet Explorer</ex></ph> to access <ph name="TARGET_URL_HOSTNAME">$1<ex>example.com</ex></ph>.
         </message>
       </if>
 
       <!-- NTP strings -->
       <if expr="_is_chrome_for_testing_branded">
         <then>
-          <message name="IDS_NTP_CUSTOMIZE_BUTTON_LABEL" desc="Label for button on the New Tab Page that opens dialog to customize Brave for Testing browser.">
-            Customize Brave for Testing
+          <message name="IDS_NTP_CUSTOMIZE_BUTTON_LABEL" desc="Label for button on the New Tab Page that opens dialog to customize Kahf for Testing browser.">
+            Customize Kahf for Testing
           </message>
         </then>
         <else>
-          <message name="IDS_NTP_CUSTOMIZE_BUTTON_LABEL" desc="Label for button on the New Tab Page that opens dialog to customize Brave browser.">
-            Customize Brave
+          <message name="IDS_NTP_CUSTOMIZE_BUTTON_LABEL" desc="Label for button on the New Tab Page that opens dialog to customize Kahf browser.">
+            Customize Kahf
           </message>
         </else>
       </if>
@@ -1502,91 +1502,91 @@ Permissions you've already given to websites and apps may apply to this account.
       </message>
 
       <!-- Critical Notification bubble -->
-      <message name="IDS_CRITICAL_NOTIFICATION_TITLE" desc="The title for a bubble that appears when there is a critical update and Brave must restart to install it. It counts down a timer and then Brave automatically restarts.">
-        Brave will restart in <ph name="REMAINING_TIME">$1<ex>1 minute, 7 seconds</ex></ph>
+      <message name="IDS_CRITICAL_NOTIFICATION_TITLE" desc="The title for a bubble that appears when there is a critical update and Kahf must restart to install it. It counts down a timer and then Kahf automatically restarts.">
+        Kahf will restart in <ph name="REMAINING_TIME">$1<ex>1 minute, 7 seconds</ex></ph>
       </message>
-      <message name="IDS_CRITICAL_NOTIFICATION_TITLE_ALTERNATE" desc="The title for a bubble that appears when there is a critical update and Brave must restart to install it. The title was previously countng down to an automatic restart and now it has finished. Will only be seen if a web page stops the shutdown process.">
-        Please restart Brave now
+      <message name="IDS_CRITICAL_NOTIFICATION_TITLE_ALTERNATE" desc="The title for a bubble that appears when there is a critical update and Kahf must restart to install it. The title was previously countng down to an automatic restart and now it has finished. Will only be seen if a web page stops the shutdown process.">
+        Please restart Kahf now
       </message>
-      <message name="IDS_CRITICAL_NOTIFICATION_TEXT" desc="Explanation text for the bubble that appears when there is a critical update and Brave must restart to install it.">
-        A special security update for Brave was just applied. Restart now and we'll restore your tabs.
+      <message name="IDS_CRITICAL_NOTIFICATION_TEXT" desc="Explanation text for the bubble that appears when there is a critical update and Kahf must restart to install it.">
+        A special security update for Kahf was just applied. Restart now and we'll restore your tabs.
       </message>
 
       <!-- Desktop Capture -->
       <message name="IDS_DESKTOP_MEDIA_PICKER_SOURCE_TYPE_TAB" desc="Text for the button on the window picker dialog, clicking which takes one to tab sharing">
-        Brave Tab
+        Kahf Tab
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_SCREEN_PERMISSION_TEXT_MAC" desc="Instructive text for how to enable screen recording on Mac when trying to share a screen.">
-        To share your screen, allow screen recording for Brave in System Preferences
+        To share your screen, allow screen recording for Kahf in System Preferences
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_SCREEN_PERMISSION_TEXT_PERIOD_MAC" desc="Instructive text for how to enable screen recording on Mac when trying to share a screen, ending with period to allow a supplementary text to follow.">
-        To share your screen, allow screen recording for Brave in System Preferences.
+        To share your screen, allow screen recording for Kahf in System Preferences.
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_WINDOW_PERMISSION_TEXT_MAC" desc="Instructive text for how to enable screen recording on Mac when trying to share a window.">
-        To share your window, allow screen recording for Brave in System Preferences
+        To share your window, allow screen recording for Kahf in System Preferences
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_WINDOW_PERMISSION_TEXT_PERIOD_MAC" desc="Instructive text for how to enable screen recording on Mac when trying to share a window, ending with period to allow a supplementary text to follow.">
-        To share your window, allow screen recording for Brave in System Preferences.
+        To share your window, allow screen recording for Kahf in System Preferences.
       </message>
-      <message name="IDS_DESKTOP_MEDIA_PICKER_PERMISSION_RESTART_TEXT_MAC" desc="Supplementary text about the need to restart Brave, displayed below the message about enabling screen-recording permissions on Mac when those permissions are missing.">
-        You'll then need to restart Brave.
+      <message name="IDS_DESKTOP_MEDIA_PICKER_PERMISSION_RESTART_TEXT_MAC" desc="Supplementary text about the need to restart Kahf, displayed below the message about enabling screen-recording permissions on Mac when those permissions are missing.">
+        You'll then need to restart Kahf.
       </message>
 
       <!-- Runtime permission strings -->
       <if expr="is_android">
-        <message name="IDS_INFOBAR_MISSING_AR_CAMERA_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to augmented reality capabilities, but Brave is missing the Android camera permission.">
-          Brave needs permission to access your camera to create a 3D map of your surroundings
+        <message name="IDS_INFOBAR_MISSING_AR_CAMERA_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to augmented reality capabilities, but Kahf is missing the Android camera permission.">
+          Kahf needs permission to access your camera to create a 3D map of your surroundings
         </message>
-        <message name="IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to the camera capabilities, but Brave is missing the Android camera permission.">
-          Brave needs permission to access your camera for this site
+        <message name="IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to the camera capabilities, but Kahf is missing the Android camera permission.">
+          Kahf needs permission to access your camera for this site
         </message>
-        <message name="IDS_INFOBAR_MISSING_HAND_TRACKING_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to hand tracking capabilities, but Brave is missing the Android hand tracking permission.">
-          Brave needs permission to track your hands
+        <message name="IDS_INFOBAR_MISSING_HAND_TRACKING_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to hand tracking capabilities, but Kahf is missing the Android hand tracking permission.">
+          Kahf needs permission to track your hands
         </message>
-        <message name="IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to the microphone capabilities, but Brave is missing the Android microphone permission.">
-          Brave needs permission to access your microphone for this site
+        <message name="IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to the microphone capabilities, but Kahf is missing the Android microphone permission.">
+          Kahf needs permission to access your microphone for this site
         </message>
-        <message name="IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT" desc="Text shown in an infobar when a website has requested access to the microphone and camera capabilities, but Brave is missing the Android microphone and camera permissions.">
-          Brave needs permission to access your camera and microphone for this site
+        <message name="IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT" desc="Text shown in an infobar when a website has requested access to the microphone and camera capabilities, but Kahf is missing the Android microphone and camera permissions.">
+          Kahf needs permission to access your camera and microphone for this site
         </message>
-        <message name="IDS_INFOBAR_MISSING_LOCATION_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to the location capabilities, but Brave is missing the Android location permission.">
-          Brave needs access to your location to share your location with this site
+        <message name="IDS_INFOBAR_MISSING_LOCATION_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to the location capabilities, but Kahf is missing the Android location permission.">
+          Kahf needs access to your location to share your location with this site
         </message>
-        <message name="IDS_MISSING_STORAGE_PERMISSION_DOWNLOAD_EDUCATION_TEXT" desc="Text shown educating the user that Brave is missing the Android storage permission, which is required to download files.">
-          Brave needs storage access to download files
+        <message name="IDS_MISSING_STORAGE_PERMISSION_DOWNLOAD_EDUCATION_TEXT" desc="Text shown educating the user that Kahf is missing the Android storage permission, which is required to download files.">
+          Kahf needs storage access to download files
         </message>
 
-        <message name="IDS_MESSAGE_MISSING_AR_CAMERA_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to augmented reality capabilities, but Brave is missing the Android camera permission.">
-          Brave needs camera permission to create a 3D map of your surroundings
+        <message name="IDS_MESSAGE_MISSING_AR_CAMERA_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to augmented reality capabilities, but Kahf is missing the Android camera permission.">
+          Kahf needs camera permission to create a 3D map of your surroundings
         </message>
-        <message name="IDS_MESSAGE_MISSING_CAMERA_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to the camera capabilities, but Brave is missing the Android camera permission.">
-          Brave needs camera permission for this site
+        <message name="IDS_MESSAGE_MISSING_CAMERA_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to the camera capabilities, but Kahf is missing the Android camera permission.">
+          Kahf needs camera permission for this site
         </message>
-        <message name="IDS_MESSAGE_MISSING_HAND_TRACKING_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to mixed reality capabilities, but Brave is missing the Android hand tracking permission.">
-          Brave needs permission to track your hands
+        <message name="IDS_MESSAGE_MISSING_HAND_TRACKING_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to mixed reality capabilities, but Kahf is missing the Android hand tracking permission.">
+          Kahf needs permission to track your hands
         </message>
-        <message name="IDS_MESSAGE_MISSING_MICROPHONE_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to the microphone capabilities, but Brave is missing the Android microphone permission.">
-          Brave needs microphone permission for this site
+        <message name="IDS_MESSAGE_MISSING_MICROPHONE_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to the microphone capabilities, but Kahf is missing the Android microphone permission.">
+          Kahf needs microphone permission for this site
         </message>
-        <message name="IDS_MESSAGE_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT" desc="Text shown in a prompt ui when a website has requested access to the microphone and camera capabilities, but Brave is missing the Android microphone and camera permissions.">
-          Brave needs camera and microphone permissions for this site
+        <message name="IDS_MESSAGE_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT" desc="Text shown in a prompt ui when a website has requested access to the microphone and camera capabilities, but Kahf is missing the Android microphone and camera permissions.">
+          Kahf needs camera and microphone permissions for this site
         </message>
-        <message name="IDS_MESSAGE_MISSING_LOCATION_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to the location capabilities, but Brave is missing the Android location permission.">
-          Brave needs location permission for this site
+        <message name="IDS_MESSAGE_MISSING_LOCATION_PERMISSION_TEXT" desc="Text shown in a prompt ui when a website has requested access to the location capabilities, but Kahf is missing the Android location permission.">
+          Kahf needs location permission for this site
         </message>
-        <message name="IDS_MESSAGE_STORAGE_ACCESS_PERMISSION_TEXT" desc="Text shown educating the user that Brave is missing the Android storage permission, which is required to download files.">
-          Brave needs storage access permission to download files
+        <message name="IDS_MESSAGE_STORAGE_ACCESS_PERMISSION_TEXT" desc="Text shown educating the user that Kahf is missing the Android storage permission, which is required to download files.">
+          Kahf needs storage access permission to download files
         </message>
-        <message name="IDS_MESSAGE_MISSING_XR_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to mixed reality capabilities, but Brave is missing the Android scene understanding and hand tracking permission.">
-          Brave needs permission to map your surroundings and track your hands
+        <message name="IDS_MESSAGE_MISSING_XR_PERMISSION_TEXT" desc="Text shown in an infobar when a website has requested access to mixed reality capabilities, but Kahf is missing the Android scene understanding and hand tracking permission.">
+          Kahf needs permission to map your surroundings and track your hands
         </message>
       </if>
 
       <if expr="is_macosx">
-        <message name="IDS_RUNTIME_PERMISSION_OS_REASON_TEXT" desc="Text provided to the macOS permission dialog, explaining why Brave needs to access a protected resource (e.g., camera, microphone).">
-          Once Brave has access, websites will be able to ask you for access.
+        <message name="IDS_RUNTIME_PERMISSION_OS_REASON_TEXT" desc="Text provided to the macOS permission dialog, explaining why Kahf needs to access a protected resource (e.g., camera, microphone).">
+          Once Kahf has access, websites will be able to ask you for access.
         </message>
-        <message name="IDS_LOCAL_NETWORK_ACCESS_PERMISSION_DESC" desc="Text shown in the macOS permission dialog, describing why Brave needs the permission to access local network.">
+        <message name="IDS_LOCAL_NETWORK_ACCESS_PERMISSION_DESC" desc="Text shown in the macOS permission dialog, describing why Kahf needs the permission to access local network.">
           This will allow you to select from available devices and display content on them.
         </message>
       </if>
@@ -2084,61 +2084,61 @@ Permissions you've already given to websites and apps may apply to this account.
       </message>
 
       <!-- Privacy Sandbox Dialog strings -->
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_SUBTITLE" desc="A subtitle on the consent page. Consider this a tagline for the Privacy Sandbox project.* “exploring” conveys that this is a work in progress. * “new features” include settings that the user can turn on/off and also backend features that change the way Brave works for everyone * “allow sites to deliver”: Privacy Sandbox is proposed by Brave as a collaborative effort with the browser industry. We’re building and testing functionality that will live in the Brave browser. In order to land the full promise of Privacy Sandbox, websites and advertisers need to adopt the new APIs / functionality that we’re developing. So “allow sites…” makes it clear to the user that we’re building something for the ecosystem. Typically a Brave product builds something for the user, and that’s true in this case, but it’s bigger than that. * “same browsing experience using less of your info”: Another definition of the promise of Privacy Sandbox. Third-party cookies are going away. In this new world, the user will have essentially the same browsing experience but it’s more private because it doesn’t expose so much of the user’s info.">
-        Brave is exploring new features that allow sites to deliver the same browsing experience using less of your info
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_SUBTITLE" desc="A subtitle on the consent page. Consider this a tagline for the Privacy Sandbox project.* “exploring” conveys that this is a work in progress. * “new features” include settings that the user can turn on/off and also backend features that change the way Kahf works for everyone * “allow sites to deliver”: Privacy Sandbox is proposed by Kahf as a collaborative effort with the browser industry. We’re building and testing functionality that will live in the Kahf browser. In order to land the full promise of Privacy Sandbox, websites and advertisers need to adopt the new APIs / functionality that we’re developing. So “allow sites…” makes it clear to the user that we’re building something for the ecosystem. Typically a Kahf product builds something for the user, and that’s true in this case, but it’s bigger than that. * “same browsing experience using less of your info”: Another definition of the promise of Privacy Sandbox. Third-party cookies are going away. In this new world, the user will have essentially the same browsing experience but it’s more private because it doesn’t expose so much of the user’s info.">
+        Kahf is exploring new features that allow sites to deliver the same browsing experience using less of your info
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BODY_DESCRIPTION_2" desc="A paragraph beneath the “More control over the ads you see” subtitle. * “see and remove topics of interests”: we want to stress the element of control * “estimate topics”: Topics of interest include things like “Live comedy” and “Rock music”. Brave estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “recent browsing history”: Later in the UI, we define this as “a record of sites you’ve visited using Brave on this device.” By “recent”, we mean the last 3 weeks (also defined later in the UI).">
-        You can see and remove topics of interest sites use to show you ads. Brave estimates your interests based on your recent browsing history.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BODY_DESCRIPTION_2" desc="A paragraph beneath the “More control over the ads you see” subtitle. * “see and remove topics of interests”: we want to stress the element of control * “estimate topics”: Topics of interest include things like “Live comedy” and “Rock music”. Kahf estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “recent browsing history”: Later in the UI, we define this as “a record of sites you’ve visited using Kahf on this device.” By “recent”, we mean the last 3 weeks (also defined later in the UI).">
+        You can see and remove topics of interest sites use to show you ads. Kahf estimates your interests based on your recent browsing history.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_LABEL" desc="Learn more link * Unfolds content within the page * The text that appears describes 2 ways in which a site can target ads: the “Topics API” and the “FLEDGE API”. You can see what those are at www.privacysanbox.com or they’re described for the user’s benefit in other text. * “ad personalization” can mean different things in different contexts. Here, we’re using it as a simple noun. In other words, it’s not the name of a control but a descriptive term used to describe the personalization of ads in the Brave browser. This “ad personalization” shouldn’t be confused with the setting in the Brave sync chain called “Ad personalization”.">
-        Learn more about ad personalization in Brave
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_LABEL" desc="Learn more link * Unfolds content within the page * The text that appears describes 2 ways in which a site can target ads: the “Topics API” and the “FLEDGE API”. You can see what those are at www.privacysanbox.com or they’re described for the user’s benefit in other text. * “ad personalization” can mean different things in different contexts. Here, we’re using it as a simple noun. In other words, it’s not the name of a control but a descriptive term used to describe the personalization of ads in the Kahf browser. This “ad personalization” shouldn’t be confused with the setting in the Kahf sync chain called “Ad personalization”.">
+        Learn more about ad personalization in Kahf
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_HEADER" desc="TOPICS API A sub title that describes the first of 2 ways a site can get info from Brave in order to target ads to the user. Topics of interest include things like “Live comedy” and “Rock music”. Brave estimates these interests based on the sites users visit. * “Your”: we need to convey a sense of ownership, even if the user didn’t explicitly choose the interests we’re talking about. Without the “your”, it could sound like Brave is simply building a generic library of interests. * “estimated”: It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “by Brave”: This is new behavior for a browser (Brave) to take an active role in processing user data for the purposes of showing ads. It’s important to convey “Brave”, the actor in this case.">
-        Your interests as estimated by Brave
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_HEADER" desc="TOPICS API A sub title that describes the first of 2 ways a site can get info from Kahf in order to target ads to the user. Topics of interest include things like “Live comedy” and “Rock music”. Kahf estimates these interests based on the sites users visit. * “Your”: we need to convey a sense of ownership, even if the user didn’t explicitly choose the interests we’re talking about. Without the “your”, it could sound like Kahf is simply building a generic library of interests. * “estimated”: It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “by Kahf”: This is new behavior for a browser (Kahf) to take an active role in processing user data for the purposes of showing ads. It’s important to convey “Kahf”, the actor in this case.">
+        Your interests as estimated by Kahf
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_BULLET_POINT_1" desc="TOPICS API Bullet 1 of 3 that appear beneath the “Your interests as estimated by Brave” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “What data is used:” is bold and serves as a label to help profiles skimming the page. * “Your browsing history”: The user’s browsing history is available beneath the “History” menu at Brave’s top level. The Topics API estimates topics of interest based on sites in the user’s browsing history that are participating in the trials.">
-        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>What data is used:<ph name="END_BOLD">&lt;/b&gt;</ph> Your browsing history, a record of sites you’ve visited using Brave on this device.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_BULLET_POINT_1" desc="TOPICS API Bullet 1 of 3 that appear beneath the “Your interests as estimated by Kahf” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “What data is used:” is bold and serves as a label to help profiles skimming the page. * “Your browsing history”: The user’s browsing history is available beneath the “History” menu at Kahf’s top level. The Topics API estimates topics of interest based on sites in the user’s browsing history that are participating in the trials.">
+        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>What data is used:<ph name="END_BOLD">&lt;/b&gt;</ph> Your browsing history, a record of sites you’ve visited using Kahf on this device.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_BULLET_POINT_2" desc="TOPICS API Bullet 2 of 3 that appear beneath the “Your interests as estimated by Brave” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “How we use this data:” is bold and serves as a label to help profiles skimming the page. * “estimate your interests”: Topics of interest include things like “Live comedy” and “Rock music”. Brave estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”).">
-        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>How we use this data:<ph name="END_BOLD">&lt;/b&gt;</ph> Brave can estimate your interests. Later, a site you visit can ask Brave to see your interests in order to personalize the ads you see.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_BULLET_POINT_2" desc="TOPICS API Bullet 2 of 3 that appear beneath the “Your interests as estimated by Kahf” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “How we use this data:” is bold and serves as a label to help profiles skimming the page. * “estimate your interests”: Topics of interest include things like “Live comedy” and “Rock music”. Kahf estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”).">
+        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>How we use this data:<ph name="END_BOLD">&lt;/b&gt;</ph> Kahf can estimate your interests. Later, a site you visit can ask Kahf to see your interests in order to personalize the ads you see.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_BULLET_POINT_3" desc="TOPICS API Bullet 3 of 3 that appear beneath the “Your interests as estimated by Brave” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “How you can manage your data:” is bold and serves as a label to help profiles skimming the page. * “To protect your privacy”: Today, most data is kept for long periods of time. This new Topics API doesn’t retain estimated topics for more than 3 weeks. The only reason for this feature is to protect the user’s privacy. * “auto”: isn’t strictly necessary, but it conveys that this feature is an ongoing part of the service. This isn’t describing, for example, a one-time deletion. * “older than 3 weeks”: We’re trying to convey a rolling delete. Imagine a user opens a browser for the very first time. As the user browses, Brave will estimate up to 5 topics of interest in the first week. In the second week, Brave will estimate up to 5 additional topics of interest. The same for the third week, for a total of 15 potential interests. In week 4, Brave will automatically delete the 5 interests from week 1 so that there aren’t ever more than 15 topics associated with a user at any given time. * “interests can refresh”: If a user loves horror films and reads about them for months on end, the interest “Horror movies” might get deleted and refreshed in the same week, so that “Horror movies” doesn’t ever disappear from the user’s list of interests. * “Or you can…”: A user might love horror movies but can’t stand the idea of seeing ads about horror movies (because even the visuals will ruin the surprise of opening night). In this case, the user can remove “Horror movies” from the list of interests Brave will consider. This removal remains in place indefinitely. Note that the user might still see ads about Horror movies from different ad networks or by other means than Brave’s “Browser-based ad personalization” setting.">
-        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>How you can manage your data:<ph name="END_BOLD">&lt;/b&gt;</ph> To protect your privacy, we auto-delete your interests that are older than 4 weeks. As you keep browsing, an interest might appear on the list again. Or you can remove interests you don’t want Brave to consider.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_1_BULLET_POINT_3" desc="TOPICS API Bullet 3 of 3 that appear beneath the “Your interests as estimated by Kahf” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “How you can manage your data:” is bold and serves as a label to help profiles skimming the page. * “To protect your privacy”: Today, most data is kept for long periods of time. This new Topics API doesn’t retain estimated topics for more than 3 weeks. The only reason for this feature is to protect the user’s privacy. * “auto”: isn’t strictly necessary, but it conveys that this feature is an ongoing part of the service. This isn’t describing, for example, a one-time deletion. * “older than 3 weeks”: We’re trying to convey a rolling delete. Imagine a user opens a browser for the very first time. As the user browses, Kahf will estimate up to 5 topics of interest in the first week. In the second week, Kahf will estimate up to 5 additional topics of interest. The same for the third week, for a total of 15 potential interests. In week 4, Kahf will automatically delete the 5 interests from week 1 so that there aren’t ever more than 15 topics associated with a user at any given time. * “interests can refresh”: If a user loves horror films and reads about them for months on end, the interest “Horror movies” might get deleted and refreshed in the same week, so that “Horror movies” doesn’t ever disappear from the user’s list of interests. * “Or you can…”: A user might love horror movies but can’t stand the idea of seeing ads about horror movies (because even the visuals will ruin the surprise of opening night). In this case, the user can remove “Horror movies” from the list of interests Kahf will consider. This removal remains in place indefinitely. Note that the user might still see ads about Horror movies from different ad networks or by other means than Kahf’s “Browser-based ad personalization” setting.">
+        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>How you can manage your data:<ph name="END_BOLD">&lt;/b&gt;</ph> To protect your privacy, we auto-delete your interests that are older than 4 weeks. As you keep browsing, an interest might appear on the list again. Or you can remove interests you don’t want Kahf to consider.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_2_BULLET_POINT_1" desc="FLEDGE APIBullet 1 of 3 that appear beneath the “Sites you visit that define your interests” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “What data is used:” is bold and serves as a label to help profiles skimming the page. * “Your browsing history”: The user’s browsing history is available beneath the “History” menu at Brave’s top level. This content taken in isolation is somewhat misleading. With FLEDGE, a site can store information in Brave about the user’s visit to their site. For example, the site might store “running_shoes_red_size_35” to indicate that the user showed interest in a particular shoe. We’re OK with the simplification in this bullet because 1) we explain it in the next bullet and 2) we want the user to understand that at the top level, both Topics &amp; Fledge are based on the same thing and that is the user’s browsing history.">
-        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>What data is used:<ph name="END_BOLD">&lt;/b&gt;</ph> Your browsing history, a record of sites you’ve visited using Brave on this device.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_2_BULLET_POINT_1" desc="FLEDGE APIBullet 1 of 3 that appear beneath the “Sites you visit that define your interests” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “What data is used:” is bold and serves as a label to help profiles skimming the page. * “Your browsing history”: The user’s browsing history is available beneath the “History” menu at Kahf’s top level. This content taken in isolation is somewhat misleading. With FLEDGE, a site can store information in Kahf about the user’s visit to their site. For example, the site might store “running_shoes_red_size_35” to indicate that the user showed interest in a particular shoe. We’re OK with the simplification in this bullet because 1) we explain it in the next bullet and 2) we want the user to understand that at the top level, both Topics &amp; Fledge are based on the same thing and that is the user’s browsing history.">
+        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>What data is used:<ph name="END_BOLD">&lt;/b&gt;</ph> Your browsing history, a record of sites you’ve visited using Kahf on this device.
       </message>
       <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_LEARN_MORE_SECTION_2_BULLET_POINT_2" desc="FLEDGE API Bullet 2 of 3 that appear beneath the “Sites you visit that define your interests” subtitle. We break the description into the 3 pieces users most care about: 1) what data, 2) why this data, 3) what can I do about it? * “How we use this data:” is bold and serves as a label to help profiles skimming the page.">
-        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>How we use this data:<ph name="END_BOLD">&lt;/b&gt;</ph> Sites can store information with Brave about your interests. For example, if you visit a site to buy shoes for a marathon, the site might define your interest as running marathons. Later, if you visit a different site to register for a race, that site can show you an ad for running shoes based on your interests.
+        <ph name="BEGIN_BOLD">&lt;b&gt;</ph>How we use this data:<ph name="END_BOLD">&lt;/b&gt;</ph> Sites can store information with Kahf about your interests. For example, if you visit a site to buy shoes for a marathon, the site might define your interest as running marathons. Later, if you visit a different site to register for a race, that site can show you an ad for running shoes based on your interests.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BOTTOM_SUMMARY" desc="A conclusion paragraph for the entire page. It sits beneath the “More control over the ads you see” subtitle but it’s no more associated with that topic than “Limit sharing between sites”. * “You can change your mind”: When writing a consent moment, we have a legal obligation to inform the user how they can “revoke their consent” or “opt out”. A friendlier way to say this is “change your mind”. * “in Brave settings”: The URL is chrome://settings/privacySandbox. We don’t make it a live link because we need the users to stay in this moment until they make a choice. * “The trials run alongside…”: The trials happen in addition to today’s current system based on third-party cookies. In other words, even by accepting in this consent moment, the user’s core experience doesn’t change much. This is an experiment, and we need the user to understand as much. ">
-        You can change your mind at any time in Brave settings. The trials run alongside the current way ads get served, so you won’t see changes right away.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BOTTOM_SUMMARY" desc="A conclusion paragraph for the entire page. It sits beneath the “More control over the ads you see” subtitle but it’s no more associated with that topic than “Limit sharing between sites”. * “You can change your mind”: When writing a consent moment, we have a legal obligation to inform the user how they can “revoke their consent” or “opt out”. A friendlier way to say this is “change your mind”. * “in Kahf settings”: The URL is chrome://settings/privacySandbox. We don’t make it a live link because we need the users to stay in this moment until they make a choice. * “The trials run alongside…”: The trials happen in addition to today’s current system based on third-party cookies. In other words, even by accepting in this consent moment, the user’s core experience doesn’t change much. This is an experiment, and we need the user to understand as much. ">
+        You can change your mind at any time in Kahf settings. The trials run alongside the current way ads get served, so you won’t see changes right away.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_NOTICE_SUBTITLE" desc="A subtitle on the consent page. Consider this a tagline for the Privacy Sandbox project.* “exploring” conveys that this is a work in progress. * “new features” include settings that the user can turn on/off and also backend features that change the way Brave works for everyone * “allow sites to deliver”: Privacy Sandbox is proposed by Brave as a collaborative effort with the browser industry. We’re building and testing functionality that will live in the Brave browser. In order to land the full promise of Privacy Sandbox, websites and advertisers need to adopt the new APIs / functionality that we’re developing. So “allow sites…” makes it clear to the user that we’re building something for the ecosystem. Typically a Brave product builds something for the user, and that’s true in this case, but it’s bigger than that. * “same browsing experience using less of your info”: Another definition of the promise of Privacy Sandbox. Third-party cookies are going away. In this new world, the user will have essentially the same browsing experience but it’s more private because it doesn’t expose so much of the user’s info.">
-        Brave is exploring new features that allow sites to deliver the same browsing experience using less of your info
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_NOTICE_SUBTITLE" desc="A subtitle on the consent page. Consider this a tagline for the Privacy Sandbox project.* “exploring” conveys that this is a work in progress. * “new features” include settings that the user can turn on/off and also backend features that change the way Kahf works for everyone * “allow sites to deliver”: Privacy Sandbox is proposed by Kahf as a collaborative effort with the browser industry. We’re building and testing functionality that will live in the Kahf browser. In order to land the full promise of Privacy Sandbox, websites and advertisers need to adopt the new APIs / functionality that we’re developing. So “allow sites…” makes it clear to the user that we’re building something for the ecosystem. Typically a Kahf product builds something for the user, and that’s true in this case, but it’s bigger than that. * “same browsing experience using less of your info”: Another definition of the promise of Privacy Sandbox. Third-party cookies are going away. In this new world, the user will have essentially the same browsing experience but it’s more private because it doesn’t expose so much of the user’s info.">
+        Kahf is exploring new features that allow sites to deliver the same browsing experience using less of your info
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_NOTICE_BODY_DESCRIPTION_2" desc="A paragraph beneath the “More control over the ads you see” subtitle.* “During the trials”: The trials happens in addition to today’s current system based on third-party cookies. In other words, even by agreeing to or remaining in a trial,, the user’s core experience doesn’t change much. This is an experiment, and we need the user to understand as much. * “see and remove topics of interests”: we want to stress the element of control * “estimate topics”: Topics of interest include things like “Live comedy” and “Rock music”. Brave estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “recent browsing history”: Later in the UI, we define this as “a record of sites you’ve visited using Brave on this device.” By “recent”, we mean the last 3 weeks (also defined later in the UI).">
-        During the trials, you can see and remove topics of interest sites use to show you ads. Brave estimates your interests based on your recent browsing history.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_NOTICE_BODY_DESCRIPTION_2" desc="A paragraph beneath the “More control over the ads you see” subtitle.* “During the trials”: The trials happens in addition to today’s current system based on third-party cookies. In other words, even by agreeing to or remaining in a trial,, the user’s core experience doesn’t change much. This is an experiment, and we need the user to understand as much. * “see and remove topics of interests”: we want to stress the element of control * “estimate topics”: Topics of interest include things like “Live comedy” and “Rock music”. Kahf estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “recent browsing history”: Later in the UI, we define this as “a record of sites you’ve visited using Kahf on this device.” By “recent”, we mean the last 3 weeks (also defined later in the UI).">
+        During the trials, you can see and remove topics of interest sites use to show you ads. Kahf estimates your interests based on your recent browsing history.
       </message>
-      <message name="IDS_PRIVACY_SANDBOX_DIALOG_NOTICE_BOTTOM_SUMMARY" desc="A conclusion paragraph for the entire page. It sits beneath the “More control over the ads you see” subtitle but it’s no more associated with that topic than “Limit sharing between sites”. * “in Brave settings”: The URL is chrome://settings/privacySandbox. We don’t make it a live link because we need the users to stay in this moment until they make a choice.">
-        You can learn more about these features in Brave settings.
+      <message name="IDS_PRIVACY_SANDBOX_DIALOG_NOTICE_BOTTOM_SUMMARY" desc="A conclusion paragraph for the entire page. It sits beneath the “More control over the ads you see” subtitle but it’s no more associated with that topic than “Limit sharing between sites”. * “in Kahf settings”: The URL is chrome://settings/privacySandbox. We don’t make it a live link because we need the users to stay in this moment until they make a choice.">
+        You can learn more about these features in Kahf settings.
       </message>
 
       <!-- Advanced security settings -->
       <message name="IDS_SETTINGS_SECURITY_V8_LINK_DESCRIPTION" desc="Description for the link row of the V8 security settings page.">
-        Turn on additional protection in Brave’s JavaScript and WebAssembly engine
+        Turn on additional protection in Kahf’s JavaScript and WebAssembly engine
       </message>
       <message name="IDS_SETTINGS_SITE_SETTINGS_JAVASCRIPT_OPTIMIZER_DESCRIPTION" desc="Description of the JavaScript optimizer content setting.">
-        V8 is Brave’s JavaScript and WebAssembly engine used to improve site performance
+        V8 is Kahf’s JavaScript and WebAssembly engine used to improve site performance
       </message>
       <message name="IDS_SETTINGS_SITE_SETTINGS_JAVASCRIPT_OPTIMIZER_ALLOWED_SUB_LABEL" desc="Sub-label for the enabled option of the JavaScript optimizer content setting.">
-        Brave runs faster and features that use JavaScript should work as designed (recommended)
+        Kahf runs faster and features that use JavaScript should work as designed (recommended)
       </message>
 
-      <!-- BraveUpdater Strings -->
+      <!-- KahfUpdater Strings -->
       <if expr="is_win">
         <message name="IDS_FRIENDLY_COMPANY_NAME" desc="Company name" translateable="false">
-          Brave
+          Kahf
         </message>
         <message name="IDS_NO_UPDATE_RESPONSE" desc="Updater response for no updates when handling install result.">
           No update is available.

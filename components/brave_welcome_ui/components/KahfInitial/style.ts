@@ -46,7 +46,7 @@ export const Box = styled.div`
     // We define an initial state here if animations are enabled
     &.initial {
       transform: translateY(20px);
-      opacity: 0;
+      opacity: 1;
     }
   }
 
