@@ -494,7 +494,8 @@ void BraveToolbarView::ResetButtonBounds() {
 #if BUILDFLAG(ENABLE_AI_CHAT)
 void BraveToolbarView::UpdateAIChatButtonVisibility() {
   bool should_show = ai_chat::IsAllowedForContext(browser()->profile()) &&
-                     show_ai_chat_button_.GetValue();
+                     show_ai_chat_button_.GetValue() &&
+                     !hide_ai_chat_button_by_policy_.GetValue();
   ai_chat_button_->SetVisible(should_show);
 }
 #endif
