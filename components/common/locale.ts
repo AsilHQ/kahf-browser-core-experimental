@@ -53,9 +53,9 @@ export const getLocale = (
  */
 export function getLocaleWithReplacements(
   key: string,
-  replacements: { [key: `${number}`]: string }
+  replacements: { [key: `$${number}`]: string }
 ) {
-  return getLocale(key).replace(/\$\d+/g, (m) => replacements[m])
+  return getLocale(key).replace(/\$\d+/g, (m) => replacements[m as keyof typeof replacements])
 }
 
 interface SplitStringForTagResult {
