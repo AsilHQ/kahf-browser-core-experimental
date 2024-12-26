@@ -34,7 +34,7 @@ namespace ntp_background_images {
 
 namespace {
 
-constexpr int kExpectedSchemaVersion = 1;
+// constexpr int kExpectedSchemaVersion = 1;
 
 }  // namespace
 
@@ -55,37 +55,38 @@ NTPBackgroundImagesData::NTPBackgroundImagesData(
     const std::string& json_string,
     const base::FilePath& installed_dir)
     : NTPBackgroundImagesData() {
-  std::optional<base::Value> json_value = base::JSONReader::Read(json_string);
-  if (!json_value || !json_value->is_dict()) {
-    DVLOG(2) << "Read json data failed. Invalid JSON data";
-    return;
-  }
-  base::Value::Dict& root = json_value->GetDict();
+      return;
+  // std::optional<base::Value> json_value = base::JSONReader::Read(json_string);
+  // if (!json_value || !json_value->is_dict()) {
+  //   DVLOG(2) << "Read json data failed. Invalid JSON data";
+  //   return;
+  // }
+  // base::Value::Dict& root = json_value->GetDict();
 
-  std::optional<int> incomingSchemaVersion = root.FindInt(kSchemaVersionKey);
-  const bool schemaVersionIsValid = incomingSchemaVersion &&
-      *incomingSchemaVersion == kExpectedSchemaVersion;
-  if (!schemaVersionIsValid) {
-    DVLOG(2) << __func__ << "Incoming NTP background images data was not valid."
-             << " Schema version was "
-             << (incomingSchemaVersion ? std::to_string(*incomingSchemaVersion)
-                                       : "missing")
-             << ", but we expected " << kExpectedSchemaVersion;
-    return;
-  }
+  // std::optional<int> incomingSchemaVersion = root.FindInt(kSchemaVersionKey);
+  // const bool schemaVersionIsValid = incomingSchemaVersion &&
+  //     *incomingSchemaVersion == kExpectedSchemaVersion;
+  // if (!schemaVersionIsValid) {
+  //   DVLOG(2) << __func__ << "Incoming NTP background images data was not valid."
+  //            << " Schema version was "
+  //            << (incomingSchemaVersion ? std::to_string(*incomingSchemaVersion)
+  //                                      : "missing")
+  //            << ", but we expected " << kExpectedSchemaVersion;
+  //   return;
+  // }
 
-  if (auto* images = root.FindList(kImagesKey)) {
-    for (const auto& item : *images) {
-      const auto& image = item.GetDict();
-      Background background;
-      background.image_file =
-          installed_dir.AppendASCII(*image.FindString(kImageSourceKey));
-      background.author = *image.FindString(kImageAuthorKey);
-      background.link = *image.FindString(kImageLinkKey);
+  // if (auto* images = root.FindList(kImagesKey)) {
+  //   for (const auto& item : *images) {
+  //     const auto& image = item.GetDict();
+  //     Background background;
+  //     background.image_file =
+  //         installed_dir.AppendASCII(*image.FindString(kImageSourceKey));
+  //     background.author = *image.FindString(kImageAuthorKey);
+  //     background.link = *image.FindString(kImageLinkKey);
 
-      backgrounds.push_back(background);
-    }
-  }
+  //     backgrounds.push_back(background);
+  //   }
+  // }
 }
 
 NTPBackgroundImagesData& NTPBackgroundImagesData::operator=(
