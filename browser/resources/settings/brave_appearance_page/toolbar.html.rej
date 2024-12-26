@@ -1,0 +1,25 @@
+diff a/browser/resources/settings/brave_appearance_page/toolbar.html b/browser/resources/settings/brave_appearance_page/toolbar.html	(rejected hunks)
+@@ -117,19 +117,19 @@
+       pref="{{prefs.brave.omnibox.bookmark_suggestions_enabled}}"
+       label="$i18n{appearanceSettingsUseBookmarkSuggestions}">
+     </settings-checkbox>
+-    <template is="dom-if" if="[[showCommandsInOmnibox_()]]">
++    <!-- <template is="dom-if" if="[[showCommandsInOmnibox_()]]">
+       <settings-checkbox
+         class="cr-row list-item"
+         pref="{{prefs.brave.omnibox.commander_suggestions_enabled}}"
+         label="$i18n{appearanceSettingsUseCommanderSuggestions}">
+       </settings-checkbox>
+-    </template>
+-    <template is="dom-if" if="[[showLeoAssistant_()]]">
++    </template> -->
++    <!-- <template is="dom-if" if="[[showLeoAssistant_()]]">
+       <settings-checkbox class="cr-row list-item"
+         pref="{{prefs.brave.ai_chat.autocomplete_provider_enabled}}"
+         label="$i18n{appearanceSettingsUseLeoSuggestions}">
+       </settings-checkbox>
+-    </template>
++    </template> -->
+   </div>
+ </template>
+ <settings-toggle-button

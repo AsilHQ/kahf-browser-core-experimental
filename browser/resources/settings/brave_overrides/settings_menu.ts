@@ -305,13 +305,13 @@ RegisterPolymerTemplateModifications({
     // Remove extensions link
     const extensionsLinkEl = templateContent.querySelector('#extensionsLink')
     if (!extensionsLinkEl) {
-      console.error('[Brave Settings Overrides] Could not find extensionsLinkEl to remove')
+      console.error('[Kahf Settings Overrides] Could not find extensionsLinkEl to remove')
     }
     extensionsLinkEl.remove()
     // Add version number to 'about' link
     const aboutEl = templateContent.querySelector('#about-menu')
     if (!aboutEl) {
-      console.error('[Brave Settings Overrides] Could not find about-menu element')
+      console.error('[Kahf Settings Overrides] Could not find about-menu element')
       return
     }
     const parent = aboutEl.parentNode
