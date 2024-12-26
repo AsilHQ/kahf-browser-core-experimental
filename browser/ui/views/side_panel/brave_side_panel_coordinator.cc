@@ -126,6 +126,11 @@ void BraveSidePanelCoordinator::UpdateToolbarButtonHighlight(
   auto* brave_toolbar =
       static_cast<BraveToolbarView*>(browser_view_->toolbar());
   if (auto* side_panel_button = brave_toolbar->side_panel_button()) {
+    if (!side_panel_visible) {
+      side_panel_button->SetHighlighted(false);
+      side_panel_button->SetTooltipText(l10n_util::GetStringUTF16(IDS_TOOLTIP_SIDEBAR_SHOW));
+      return;
+    }
     side_panel_button->SetHighlighted(side_panel_visible);
     side_panel_button->SetTooltipText(l10n_util::GetStringUTF16(
         side_panel_visible ? IDS_TOOLTIP_SIDEBAR_HIDE

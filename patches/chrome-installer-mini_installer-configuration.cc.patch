@@ -7,7 +7,7 @@ index a5fdecc832180e6e540ed7288b95baf7874e0998..e94eb13bf7d2f8a1ecd6acfa9a77538e
    const DWORD kBufferSize = 2;
    StackString<kBufferSize> value;
 +#if defined(OFFICIAL_BUILD)
-+  DWORD length = ::GetEnvironmentVariableW(L"BraveSoftwareUpdateIsMachine",
++  DWORD length = ::GetEnvironmentVariableW(L"HalalzUpdateIsMachine",
 +#else
    DWORD length = ::GetEnvironmentVariableW(L"GoogleUpdateIsMachine",
 +#endif

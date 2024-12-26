@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The Kahf Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -10,22 +10,22 @@
 # for XTB files
 branding_replacements = [
     (r'The Chromium Authors. All rights reserved.',
-     r'The Brave Authors. All rights reserved.'),
+     r'The Kahf Authors. All rights reserved.'),
     (r'Google LLC. All rights reserved.',
-     r'The Brave Authors. All rights reserved.'),
-    (r'The Chromium Authors', r'Brave Software Inc'),
-    (r'Google Chrome', r'Brave'),
-    (r'(Google)(?! Play)', r'Brave'),
-    (r'Chromium', r'Brave'),
-    (r'Chrome', r'Brave'),
-    (r'क्रोमियम', r'Brave'),  # Chromium in Hindi
+     r'The Kahf Authors. All rights reserved.'),
+    (r'The Chromium Authors', r'Kahf Software Inc'),
+    (r'Google Chrome', r'Kahf'),
+    (r'(Google)(?! Play)', r'Kahf'),
+    (r'Chromium', r'Kahf'),
+    (r'Chrome', r'Kahf'),
+    (r'क्रोमियम', r'Kahf'),  # Chromium in Hindi
 ]
 
 
 # Strings we want to replace but that we need to use Transifex for
 # to translate the XTB files
 default_replacements = [
-    (r'Brave Web Store', r'Web Store'),
+    (r'Kahf Web Store', r'Web Store'),
     (r'You\'re incognito', r'This is a private window'),
     (r'an incognito', r'a private'),
     (r'an Incognito', r'a Private'),
@@ -46,28 +46,28 @@ default_replacements = [
 
 # Fix up some strings after aggressive first round replacement.
 fixup_replacements = [
-    (r'Brave Cloud Print', r'Google Cloud Print'),
-    (r'Brave Docs', r'Google Docs'),
-    (r'Brave Drive', r'Google Drive'),
-    (r'Brave OS', r'Chrome OS'),
+    (r'Kahf Cloud Print', r'Google Cloud Print'),
+    (r'Kahf Docs', r'Google Docs'),
+    (r'Kahf Drive', r'Google Drive'),
+    (r'Kahf OS', r'Chrome OS'),
     (r'BraveOS', r'ChromeOS'),
-    (r'Brave Safe Browsing', r'Google Safe Browsing'),
+    (r'Kahf Safe Browsing', r'Google Safe Browsing'),
     (r'Safe Browsing \(protects you and your device from dangerous sites\)',
      r'Google Safe Browsing (protects you and your device from dangerous sites)'
      ),
-    (r'Sends URLs of some pages you visit to Brave',
+    (r'Sends URLs of some pages you visit to Kahf',
      r'Sends URLs of some pages you visit to Google'),
     (r'Google Google', r'Google'),
-    (r'Brave Account', r'Brave sync chain'),
-    (r'Brave Lens', r'Google Lens'),
+    (r'Kahf Account', r'Kahf sync chain'),
+    (r'Kahf Lens', r'Google Lens'),
     (r'Bravebook', r'Chromebook'),
     (r'Bravecast', r'Chromecast'),
-    (r'Brave Cloud', r'Google Cloud'),
-    (r'Brave Pay', r'Google Pay'),
-    (r'Brave Photos', r'Google Photos'),
-    (r'Brave Projects', r'Chromium Projects'),
+    (r'Kahf Cloud', r'Google Cloud'),
+    (r'Kahf Pay', r'Google Pay'),
+    (r'Kahf Photos', r'Google Photos'),
+    (r'Kahf Projects', r'Chromium Projects'),
     (r'BraveVox', r'ChromeVox'),
-    (r'powered by Brave AI', r'powered by Google AI'),
+    (r'powered by Kahf AI', r'powered by Google AI'),
     (r'Invite profiles', r'Invite people'),
     (r'Profiles & Society', r'People & Society'),
 ]

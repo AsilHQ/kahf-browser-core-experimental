@@ -528,7 +528,7 @@ Config.prototype.buildArgs = function () {
     (this.targetArch === 'x86' ||
       (!this.isDebug() && !this.isComponentBuild() && !this.isReleaseBuild()))
   ) {
-    args.symbol_level = 1
+    args.symbol_level = 0
   }
 
   // For Linux Release builds, upstream doesn't want to use symbol_level = 2
