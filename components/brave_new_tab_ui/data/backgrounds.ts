@@ -34,14 +34,7 @@ export const images: NewTab.BraveBackground[] = [{
     'originalUrl': 'Contributor sent the hi-res version through email',
     'license': 'used with permission'
   },
-  {
-    'type': 'brave',
-    'wallpaperImageUrl': 'dhru-j-r7H8kkoYyCY-unsplash.webp',
-    'author': 'Dhru J',
-    'link': 'https://unsplash.com/photos/r7H8kkoYyCY',
-    'originalUrl': 'Contributor sent the hi-res version through email',
-    'license': 'used with permission'
-  },
+
   {
     'type': 'brave',
     'wallpaperImageUrl': 'abdurahman-iseini-DNwQ35LdxXQ-unsplash.webp',

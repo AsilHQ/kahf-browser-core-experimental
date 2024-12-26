@@ -44,7 +44,7 @@ export function ProviderRedirectModal () {
           id={'redirect-modal-device-limit-reached'}
           errorText={[getString('redirectModalDeviceLimitReachedText').replace('$1', providerName)]}
           titleText={getString('redirectModalDeviceLimitReachedTitle')}
-          learnMore={'https://support.brave.com/hc/en-us/articles/360056508071'}
+          learnMore={'https://kahfbrowser.com/?'}
           buttonText={getString('redirectModalClose')}
           walletType={walletType}
           onClick={actions.hideRedirectModal}

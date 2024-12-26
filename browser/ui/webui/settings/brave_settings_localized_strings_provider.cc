@@ -48,7 +48,7 @@ namespace settings {
 namespace {
 
 constexpr char16_t kWebRTCLearnMoreURL[] =
-    u"https://support.brave.com/hc/en-us/articles/"
+    u"https://kahfbrowser.com/?"
     u"360017989132-How-do-I-change-my-Privacy-Settings-#webrtc";
 constexpr char16_t kBraveBuildInstructionsUrl[] =
     u"https://github.com/brave/brave-browser/wiki";
@@ -64,9 +64,9 @@ constexpr char16_t kUnstoppableDomainsLearnMoreURL[] =
 constexpr char16_t kEnsOffchainLookupLearnMoreURL[] =
     u"https://github.com/brave/brave-browser/wiki/ENS-offchain-lookup";
 constexpr char16_t kBraveSyncGuideUrl[] =
-    u"https://support.brave.com/hc/en-us/articles/360047642371-Sync-FAQ";
+    u"https://kahfbrowser.com/?360047642371-Sync-FAQ";
 constexpr char16_t kDeAmpLearnMoreUrl[] =
-    u"https://support.brave.com/hc/en-us/articles/8611298579981";
+    u"https://kahfbrowser.com/?8611298579981";
 constexpr char16_t kDebounceLearnMoreUrl[] =
     u"https://brave.com/privacy-updates/11-debouncing/";
 constexpr char16_t kEnableNftDiscoveryLearnMoreUrl[] =

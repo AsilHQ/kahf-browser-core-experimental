@@ -8,7 +8,7 @@
 namespace {
 
 constexpr char kSafeBrowsingHelpCenterURL[] =
-    "https://support.brave.com/hc/en-us/articles/"
+    "https://kahfbrowser.com/?"
     "15222663599629-Safe-Browsing-in-Brave";
 
 }  // namespace

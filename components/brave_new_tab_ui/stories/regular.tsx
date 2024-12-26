@@ -56,7 +56,7 @@ export default {
 updateImages(images.map((image): NewTab.BraveBackground => {
   return {
     ...image,
-    wallpaperImageUrl: require('../../img/newtab/backgrounds/' + image.wallpaperImageUrl)
+    // wallpaperImageUrl: require('../../img/newtab/backgrounds/' + image.wallpaperImageUrl)
   }
 }))
 
