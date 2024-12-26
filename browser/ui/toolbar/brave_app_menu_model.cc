@@ -103,7 +103,7 @@ void BraveAppMenuModel::Build() {
   BuildBraveProductsSection();
   BuildBrowserSection();
   BuildMoreToolsSubMenu();
-  BuildHelpSubMenu();
+  // BuildHelpSubMenu();
 
   ApplyLeoIcons(this);
   ApplyLeoIcons(bookmark_sub_menu_model());
@@ -275,11 +275,11 @@ void BraveAppMenuModel::BuildMoreToolsSubMenu() {
   }
 
   // Insert sync menu
-  if (IsCommandIdEnabled(IDC_SHOW_BRAVE_SYNC)) {
-    more_tools_menu_model->InsertItemWithStringIdAt(
-        next_target_index++, IDC_SHOW_BRAVE_SYNC, IDS_SHOW_BRAVE_SYNC);
-    need_separator = true;
-  }
+  // if (IsCommandIdEnabled(IDC_SHOW_BRAVE_SYNC)) {
+  //   more_tools_menu_model->InsertItemWithStringIdAt(
+  //       next_target_index++, IDC_SHOW_BRAVE_SYNC, IDS_SHOW_BRAVE_SYNC);
+  //   need_separator = true;
+  // }
 
   if (need_separator) {
     more_tools_menu_model->InsertSeparatorAt(next_target_index++,

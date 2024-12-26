@@ -13,7 +13,7 @@ import { useAIChat } from '../../state/ai_chat_context'
 import styles from './style.module.scss'
 
 const WIKI_URL = "https://github.com/brave/brave-browser/wiki/Brave-Leo"
-const PRIVACY_URL = "https://brave.com/privacy/browser/#brave-leo"
+const PRIVACY_URL = "https://kahfbrowser.com/"
 
 function PrivacyMessage () {
   const context = useAIChat()

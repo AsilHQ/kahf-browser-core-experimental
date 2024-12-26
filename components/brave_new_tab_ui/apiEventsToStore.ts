@@ -11,7 +11,7 @@ import * as privateTabDataAPI from './api/privateTabData'
 import * as newTabAdsDataAPI from './api/newTabAdsData'
 import getNTPBrowserAPI, { Background, CustomBackground } from './api/background'
 import { getInitialData, getRewardsInitialData, getRewardsPreInitialData } from './api/initialData'
-import * as backgroundData from './data/backgrounds'
+// import * as backgroundData from './data/backgrounds'
 import { loadTimeData } from '$web-common/loadTimeData'
 
 async function updatePreferences (prefData: NewTab.Preferences) {
@@ -67,7 +67,7 @@ export function wireApiEventsToStore () {
     preferencesAPI.addChangeListener(onRewardsToggled)
     privateTabDataAPI.addChangeListener(updatePrivateTabData)
     newTabAdsDataAPI.addChangeListener(updateNewTabAdsData)
-    backgroundData.updateImages(initialData.braveBackgrounds)
+    // backgroundData.updateImages(initialData.braveBackgrounds)
 
     getNTPBrowserAPI().addBackgroundUpdatedListener(onBackgroundUpdated)
     getNTPBrowserAPI().addCustomImageBackgroundsUpdatedListener(onCustomImageBackgroundsUpdated)

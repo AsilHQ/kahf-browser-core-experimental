@@ -79,25 +79,54 @@ interface State {
   forceToHideWidget: boolean
 }
 
-function GetBackgroundImageSrc (props: Props) {
-  if (!props.newTabData.showBackgroundImage &&
-    (!props.newTabData.brandedWallpaper || props.newTabData.brandedWallpaper.isSponsored)) {
-    return undefined
+function GetBackgroundImageSrc(props: Props) {
+  console.log('GetBackgroundImageSrc called with props:', props);
+
+  // Check if background images should be shown
+  if (
+    !props.newTabData.showBackgroundImage &&
+    (!props.newTabData.brandedWallpaper || props.newTabData.brandedWallpaper.isSponsored)
+  ) {
+    console.log(
+      'Condition met: showBackgroundImage is false and (no brandedWallpaper or isSponsored). Returning undefined.'
+    );
+    return undefined;
   }
+
+  // Check for brandedWallpaper
   if (props.newTabData.brandedWallpaper) {
-    const wallpaperData = props.newTabData.brandedWallpaper
+    const wallpaperData = props.newTabData.brandedWallpaper;
+    console.log('brandedWallpaper found:', wallpaperData);
+
     if (wallpaperData.wallpaperImageUrl) {
-      return wallpaperData.wallpaperImageUrl
+      console.log('brandedWallpaper has wallpaperImageUrl:', wallpaperData.wallpaperImageUrl);
+      return wallpaperData.wallpaperImageUrl;
+    } else {
+      console.log('brandedWallpaper does not have a wallpaperImageUrl.');
     }
+  } else {
+    console.log('No brandedWallpaper found.');
   }
 
-  if (props.newTabData.backgroundWallpaper?.type === 'image' ||
-      props.newTabData.backgroundWallpaper?.type === 'brave') {
-    return props.newTabData.backgroundWallpaper.wallpaperImageUrl
+  // Check for backgroundWallpaper of type 'image' or 'brave'
+  const backgroundWallpaper = props.newTabData.backgroundWallpaper;
+  if (backgroundWallpaper?.type === 'image' || backgroundWallpaper?.type === 'brave') {
+    console.log(
+      `backgroundWallpaper type is '${backgroundWallpaper.type}':`,
+      backgroundWallpaper
+    );
+    return backgroundWallpaper.wallpaperImageUrl;
+  } else {
+    console.log(
+      `backgroundWallpaper type is not 'image' or 'brave' (found type: '${backgroundWallpaper?.type}').`
+    );
   }
 
-  return undefined
+  // Default return if no conditions are met
+  console.log('No suitable wallpaper found. Returning undefined.');
+  return undefined;
 }
+
 
 function GetShouldShowSearchPromotion (props: Props, showSearchPromotion: boolean) {
   if (GetIsShowingBrandedWallpaper(props)) { return false }

@@ -472,7 +472,7 @@ NTPSponsoredImagesData* NTPBackgroundImagesService::GetBrandedImagesData(
   if (is_sr_enabled) {
     if (super_referral) {
       if (sr_images_data_ && sr_images_data_->IsValid())
-        return sr_images_data_.get();
+        return nullptr;
       return nullptr;
     }
 
