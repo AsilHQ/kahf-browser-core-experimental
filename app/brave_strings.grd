@@ -301,9 +301,9 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
         </else>
       </if>
       <if expr="is_win">
-        <message name="IDS_SXS_SHORTCUT_NAME">Brave Nightly</message>
-        <message name="IDS_SHORTCUT_NAME_BETA">Brave Beta</message>
-        <message name="IDS_SHORTCUT_NAME_DEV">Brave Dev</message>
+        <message name="IDS_SXS_SHORTCUT_NAME">Kahf Nightly</message>
+        <message name="IDS_SHORTCUT_NAME_BETA">Kahf Beta</message>
+        <message name="IDS_SHORTCUT_NAME_DEV">Kahf Dev</message>
         <message name="IDS_PRODUCT_DESCRIPTION" desc="Browser description">
           Kahf is a web browser that runs webpages and applications with lightning speed. It's fast, stable, and easy to use. Browse the web more safely with malware and phishing protection built into Barve.
         </message>
@@ -353,12 +353,12 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
         <if expr="_is_chrome_for_testing_branded">
           <then>
             <message name="IDS_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in tabs and popup windows">
-              <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Kahf for Testing
+              <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Kahf for Testing
             </message>
           </then>
           <else>
             <message name="IDS_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in tabs and popup windows">
-              <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Barve
+              <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Barve
             </message>
           </else>
         </if>
@@ -366,25 +366,25 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
       <if expr="chromeos_ash">
         <!-- Browser Window Title Format -->
         <message name="IDS_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in tabbed browser windows">
-          Kahf - <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph>
+          Kahf - <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph>
         </message>
       </if>
       <if expr="not is_chromeos and not is_macosx">
         <!-- Captive Portal Browser Window Title Format -->
         <message name="IDS_CAPTIVE_PORTAL_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in captive portal popup windows">
-          <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Network Sign-in - Barve
+          <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Network Sign-in - Barve
         </message>
       </if>
       <if expr="is_chromeos">
         <!-- Captive Portal Browser Window Title Format -->
         <message name="IDS_CAPTIVE_PORTAL_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in captive portal popup windows">
-          Kahf - Network Sign-in - <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph>
+          Kahf - Network Sign-in - <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph>
         </message>
       </if>
       <if expr="is_macosx">
         <!-- Captive Portal Browser Window Title Format -->
         <message name="IDS_CAPTIVE_PORTAL_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in captive portal popup windows">
-          <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Network Sign-in
+          <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Network Sign-in
         </message>
       </if>
       <!-- Accessible window title format - includes the channel, and the same
@@ -392,23 +392,23 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
       <if expr="_is_chrome_for_testing_branded">
         <then>
           <message name="IDS_ACCESSIBLE_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for the accessible name of a tabbed browser window">
-            <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Kahf for Testing
+            <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Kahf for Testing
           </message>
         </then>
         <else>
           <message name="IDS_ACCESSIBLE_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for the accessible name of a tabbed browser window">
-            <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Barve
+            <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Barve
           </message>
         </else>
       </if>
       <message name="IDS_ACCESSIBLE_BETA_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for the accessible name of a tabbed browser window for the beta channel version of the browser">
-        <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Kahf Beta
+        <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Kahf Beta
       </message>
       <message name="IDS_ACCESSIBLE_DEV_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for the accessible name of a tabbed browser window for the developer (dev) channel version of the browser">
-        <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Kahf Dev
+        <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Kahf Dev
       </message>
       <message name="IDS_ACCESSIBLE_CANARY_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for the accessible name of a tabbed browser window for the canary (nightly build) channel version of the browser">
-        <ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> - Kahf Canary
+        <ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> - Kahf Canary
       </message>
       <if expr="_is_chrome_for_testing_branded">
         <then>
@@ -526,9 +526,9 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
         </message>
       </if>
       <message name="IDS_CANT_WRITE_USER_DIRECTORY_SUMMARY" desc="Summary of problem displayed in dialog when we can't create a directory for this user.">
-Brave cannot read and write to its data directory:
+Kahf cannot read and write to its data directory:
 
-<ph name="USER_DATA_DIRECTORY">$1<ex>C:\Documents and Settings\devint\Local Settings\Application Data\Brave\Brave</ex></ph>
+<ph name="USER_DATA_DIRECTORY">$1<ex>C:\Documents and Settings\devint\Local Settings\Application Data\Kahf\Kahf</ex></ph>
       </message>
       <if expr="chromeos_ash">
         <message name="IDS_EULA_CHECKBOX_ENABLE_LOGGING" desc="The label of the checkbox to enable/disable crash and user metrics logging">
@@ -548,7 +548,7 @@ Some features may be unavailable and changes to preferences won't be saved.
       <message name="IDS_PREFERENCES_CORRUPT_ERROR" desc="Error displayed on startup when user preferences file can not be read">
 Your preferences file is corrupt or invalid.
 
-Brave is unable to recover your settings.
+Kahf is unable to recover your settings.
       </message>
       <!-- Add account dialog -->
       <if expr="chromeos_ash">
@@ -655,10 +655,10 @@ Permissions you've already given to websites and apps may apply to this account.
           Kahf is already installed for all users on your computer.
         </message>
         <message name="IDS_ELEVATION_SERVICE_DESCRIPTION" desc="The description of the Windows elevation service. Displayed in the Windows Services management console.">
-          Provides elevated privileges for <ph name="BROWSER_NAME">$1<ex>Brave</ex></ph>.
+          Provides elevated privileges for <ph name="BROWSER_NAME">$1<ex>Kahf</ex></ph>.
         </message>
         <message name="IDS_TRACING_SERVICE_DESCRIPTION" desc="The description of the Windows system tracing service. Displayed in the Windows Services management console.">
-          Provides system tracing services for <ph name="BROWSER_NAME">$1<ex>Brave</ex></ph>. If this service is disabled, performance traces created by the browser will not include system-wide events such as context switch and ready thread events.
+          Provides system tracing services for <ph name="BROWSER_NAME">$1<ex>Kahf</ex></ph>. If this service is disabled, performance traces created by the browser will not include system-wide events such as context switch and ready thread events.
         </message>
       </if>
       <!-- Options Dialog -->
@@ -690,7 +690,7 @@ Permissions you've already given to websites and apps may apply to this account.
         Learn why Kahf blocks some downloads
       </message>
       <message name="IDS_DOWNLOAD_BUBBLE_SUBPAGE_SUMMARY_DEEP_SCANNING_PROMPT_LOCAL_DECRYPTION" desc="Subpage summary of warning for a file where we recommend providing the password for on-device decryption">
-        This file may be dangerous<ph name="LINE_BREAK">$1</ph>Brave can check this download for you if you provide the password. Info about the file gets sent to Google Safe Browsing, but the file content and password stay on your device.
+        This file may be dangerous<ph name="LINE_BREAK">$1</ph>Kahf can check this download for you if you provide the password. Info about the file gets sent to Google Safe Browsing, but the file content and password stay on your device.
       </message>
 
       <!-- Download Shelf Items -->
@@ -806,12 +806,12 @@ Permissions you've already given to websites and apps may apply to this account.
         </message>
         <message name="IDS_EXTENSIONS_MV2_DEPRECATION_PANEL_DISABLED_SUBTITLE" desc="Subtitle text displayed in the manifest v2 deprecation panel for the disabled stage.">
           {NUM_EXTENSIONS, plural,
-            =1 {Brave recommends that you remove it. <ph name="BEGIN_LINK">&lt;a href="$1" target="_blank"&gt;</ph>Learn more about supported extensions<ph name="END_LINK">&lt;/a&gt;</ph>}
-            other {Brave recommends that you remove them. <ph name="BEGIN_LINK">&lt;a href="$1" target="_blank"&gt;</ph>Learn more about supported extensions<ph name="END_LINK">&lt;/a&gt;</ph>}
+            =1 {Kahf recommends that you remove it. <ph name="BEGIN_LINK">&lt;a href="$1" target="_blank"&gt;</ph>Learn more about supported extensions<ph name="END_LINK">&lt;/a&gt;</ph>}
+            other {Kahf recommends that you remove them. <ph name="BEGIN_LINK">&lt;a href="$1" target="_blank"&gt;</ph>Learn more about supported extensions<ph name="END_LINK">&lt;/a&gt;</ph>}
           }
         </message>
         <message name="IDS_EXTENSIONS_MV2_DEPRECATION_PANEL_REMOVE_BUTTON_ACC_LABEL" desc="The (accessible) label for the button to remove an extension.">
-          Remove <ph name="EXTENSION_NAME">$1<ex>Brave Translate</ex></ph> from Barve
+          Remove <ph name="EXTENSION_NAME">$1<ex>Kahf Translate</ex></ph> from Barve
         </message>
       </if>
 
@@ -844,8 +844,8 @@ Permissions you've already given to websites and apps may apply to this account.
       <!-- chrome://extensions page -->
   <message name="IDS_EXTENSIONS_SC_DESCRIPTION" desc="Detailed message displayed in the Safety Check description section.">
     {NUM_EXTENSIONS, plural,
-     =1 {Brave recommends that you remove it}
-     other {Brave recommends that you remove them}}
+     =1 {Kahf recommends that you remove it}
+     other {Kahf recommends that you remove them}}
   </message>
       <message name="IDS_EXTENSIONS_ITEM_SHOW_ACCESS_REQUESTS_IN_TOOLBAR" desc="The label on the toggle to allow the extension to show site access requests in the toolbar.">
         Allow extension to show access requests in the Kahf toolbar
@@ -890,39 +890,39 @@ Permissions you've already given to websites and apps may apply to this account.
         <if expr="_is_chrome_for_testing_branded">
           <then>
             <message name="IDS_ABOUT" desc="In Title Case: The text label of the About Kahf for Testing menu item">
-              About &amp;Brave for Testing
+              About &amp;Kahf for Testing
             </message>
           </then>
           <else>
             <message name="IDS_ABOUT" desc="In Title Case: The text label of the About Kahf menu item">
-              About &amp;Brave
+              About &amp;Kahf
             </message>
           </else>
         </if>
         <message name="IDS_RELAUNCH_TO_UPDATE" desc="In Title Case: The text label of the relaunch to update Kahf menu item">
-          Relaunch to Update &amp;Brave
+          Relaunch to Update &amp;Kahf
         </message>
       </if>
       <if expr="not use_titlecase and not chromeos_ash">
         <if expr="_is_chrome_for_testing_branded">
           <then>
             <message name="IDS_ABOUT" desc="The text label of the About Kahf for Testing menu item">
-              About &amp;Brave for Testing
+              About &amp;Kahf for Testing
             </message>
           </then>
           <else>
             <message name="IDS_ABOUT" desc="The text label of the About Kahf menu item">
-              About &amp;Brave
+              About &amp;Kahf
             </message>
           </else>
         </if>
         <message name="IDS_RELAUNCH_TO_UPDATE" desc="The text label of the relaunch to update Kahf menu item">
-          Relaunch to update &amp;Brave
+          Relaunch to update &amp;Kahf
         </message>
       </if>
       <if expr="chromeos_ash">
         <message name="IDS_ABOUT" desc="The text label of the About Kahf menu item">
-          About &amp;Brave
+          About &amp;Kahf
         </message>
         <message name="IDS_RELAUNCH_TO_UPDATE" desc="The text label of the relaunch to update ChromeOS menu item">
           Relaunch to update &amp;ChromeOS
@@ -1234,8 +1234,8 @@ Permissions you've already given to websites and apps may apply to this account.
         Kahf Apps
       </message>
       <if expr="is_win">
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BETA">Brave Apps</message>
-        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_DEV">Brave Apps</message>
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_BETA">Kahf Apps</message>
+        <message name="IDS_APP_SHORTCUTS_SUBDIR_NAME_DEV">Kahf Apps</message>
       </if>
 
       <!-- ChromeOS OOBE Terms of Service screen-->
@@ -1349,7 +1349,7 @@ Permissions you've already given to websites and apps may apply to this account.
       </if>
 
       <!-- Settings API bubble -->
-      <message name="IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES" desc="Second line in the Settings API bubble. Only shown if the secondary change by the extension was just the start pages. The triple single quotes are needed to preserve the space before and after the sentence which is needed when the language (Brave is being translated to) uses space as word separator. Please preserve them, unless the language being translated to does not use space as word separator.">
+      <message name="IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES" desc="Second line in the Settings API bubble. Only shown if the secondary change by the extension was just the start pages. The triple single quotes are needed to preserve the space before and after the sentence which is needed when the language (Kahf is being translated to) uses space as word separator. Please preserve them, unless the language being translated to does not use space as word separator.">
         ''' It also controls what page is shown when you start Barve. '''
       </message>
       <message name="IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_SEARCH" desc="Second line in the Settings API bubble. Only shown if the secondary change by the extension was both the start page and the search engine. See IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES for reason for triple quotes.">
@@ -1366,9 +1366,9 @@ Permissions you've already given to websites and apps may apply to this account.
         <message name="IDS_INBOUND_MDNS_RULE_NAME" desc="The name of the firewall rule allowing inbound mDNS traffic.">
           Kahf (mDNS-In)
         </message>
-        <message name="IDS_INBOUND_MDNS_RULE_NAME_BETA">Brave Beta (mDNS-In)</message>
-        <message name="IDS_INBOUND_MDNS_RULE_NAME_CANARY">Brave Nightly (mDNS-In)</message>
-        <message name="IDS_INBOUND_MDNS_RULE_NAME_DEV">Brave Dev (mDNS-In)</message>
+        <message name="IDS_INBOUND_MDNS_RULE_NAME_BETA">Kahf Beta (mDNS-In)</message>
+        <message name="IDS_INBOUND_MDNS_RULE_NAME_CANARY">Kahf Nightly (mDNS-In)</message>
+        <message name="IDS_INBOUND_MDNS_RULE_NAME_DEV">Kahf Dev (mDNS-In)</message>
         <message name="IDS_INBOUND_MDNS_RULE_DESCRIPTION">
           Inbound rule for Kahf to allow mDNS traffic.
         </message>
@@ -1840,19 +1840,19 @@ Permissions you've already given to websites and apps may apply to this account.
           </message>
           <message name="IDS_RELAUNCH_REQUIRED_TITLE_HOURS" desc="The title of a dialog that tells users the browser must be relaunched within one or more hours.">
             {0, plural,
-              =1 {Brave will relaunch in an hour}
-              other {Brave will relaunch in # hours}}
+              =1 {Kahf will relaunch in an hour}
+              other {Kahf will relaunch in # hours}}
           </message>
           <message name="IDS_RELAUNCH_REQUIRED_TITLE_MINUTES" desc="The title of a dialog that tells users the browser must be relaunched within one or more minutes.">
             {0, plural,
-              =1 {Brave will relaunch in 1 minute}
-              other {Brave will relaunch in # minutes}}
+              =1 {Kahf will relaunch in 1 minute}
+              other {Kahf will relaunch in # minutes}}
           </message>
           <message name="IDS_RELAUNCH_REQUIRED_TITLE_SECONDS" desc="The title of a dialog that tells users the browser must be relaunched within some number of seconds.">
             {0, plural,
-              =0 {Brave will relaunch now}
-              =1 {Brave will relaunch in 1 second}
-              other {Brave will relaunch in # seconds}}
+              =0 {Kahf will relaunch now}
+              =1 {Kahf will relaunch in 1 second}
+              other {Kahf will relaunch in # seconds}}
           </message>
           <message name="IDS_RELAUNCH_REQUIRED_BODY" desc="The body text of a dialog that tells users the browser must be relaunched with Private counter.">
              {COUNT, plural,
@@ -2055,7 +2055,7 @@ Permissions you've already given to websites and apps may apply to this account.
         </message>
       </if>
 
-      <!-- BraveLabs bubble -->
+      <!-- KahfLabs bubble -->
       <message name="IDS_CHROMELABS_RELAUNCH_FOOTER_MESSAGE" desc="Text that shows in the footer of the Kahf Labs bubble when relaunch is needed for changes to take effect.">
         Your changes will take effect the next time you relaunch Barve.
       </message>
@@ -2147,7 +2147,7 @@ Permissions you've already given to websites and apps may apply to this account.
           Installation failed. Please try again.
         </message>
         <message name="IDS_INSTALLER_DISPLAY_NAME" desc="Name for the updater metainstaller.">
-          <ph name="COMPANY_NAME">$1<ex>Brave</ex></ph> Installer
+          <ph name="COMPANY_NAME">$1<ex>Kahf</ex></ph> Installer
         </message>
         <message name="IDS_CLOSE_BUTTON" desc="Close button tooltip">
           Close
@@ -2186,13 +2186,13 @@ Permissions you've already given to websites and apps may apply to this account.
           Canceling...
         </message>
         <message name="IDS_TEXT_RESTART_BROWSER" desc="For when a browser must be restarted to complete the installation.">
-          Thanks for installing. You must restart your browser before using <ph name="BUNDLE_NAME">$1<ex>Brave</ex></ph>.
+          Thanks for installing. You must restart your browser before using <ph name="BUNDLE_NAME">$1<ex>Kahf</ex></ph>.
         </message>
         <message name="IDS_TEXT_RESTART_ALL_BROWSERS" desc="For when all browsers must be restarted to complete the installation.">
-          Thanks for installing. You must restart all your browsers before using <ph name="BUNDLE_NAME">$1<ex>Brave</ex></ph>.
+          Thanks for installing. You must restart all your browsers before using <ph name="BUNDLE_NAME">$1<ex>Kahf</ex></ph>.
         </message>
         <message name="IDS_TEXT_RESTART_COMPUTER" desc="For when the computer must be restarted to complete the installation.">
-          Thanks for installing. You must restart your computer before using <ph name="BUNDLE_NAME">$1<ex>Brave</ex></ph>.
+          Thanks for installing. You must restart your computer before using <ph name="BUNDLE_NAME">$1<ex>Kahf</ex></ph>.
         </message>
         <message name="IDS_UPDATER_CLOSE" desc="For close button on the UI post install completion.">
           Close
@@ -2246,7 +2246,7 @@ Permissions you've already given to websites and apps may apply to this account.
 
         <!--Network errors.-->
         <message name="IDS_NO_NETWORK_PRESENT_ERROR" desc="Error message displayed in the main dialog when the Updater is unable to connect to the network.">
-          Unable to connect to the Internet. If you use a firewall, please ensure <ph name="PRODUCT_EXE_NAME">$1<ex>BraveUpdater.exe</ex></ph> is in the allowlist.
+          Unable to connect to the Internet. If you use a firewall, please ensure <ph name="PRODUCT_EXE_NAME">$1<ex>KahfUpdater.exe</ex></ph> is in the allowlist.
         </message>
         <message name="IDS_ERROR_HTTPSTATUS_UNAUTHORIZED" desc="Error message displayed in the main dialog when an update check or download fails due to unauthorized access, usually due to proxy problems.">
           Unable to connect to the Internet. HTTP 401 Unauthorized. Please check your proxy configuration.

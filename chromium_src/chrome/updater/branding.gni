@@ -14,20 +14,20 @@
 import("//build/util/branding.gni")
 
 brave_updater_branding = {
-  browser_name = "Brave"
+  browser_name = "Kahf"
   browser_product_name = chrome_product_full_name
-  crash_product_name = "BraveUpdater"
+  crash_product_name = "KahfUpdater"
   keystone_app_name = "HalalzUpdate"
-  keystone_bundle_identifier = "com.brave.Keystone"
-  mac_browser_bundle_identifier = "com.brave.Browser"
-  mac_updater_bundle_identifier = "com.brave.Updater"
+  keystone_bundle_identifier = "com.kahf.Keystone"
+  mac_browser_bundle_identifier = "com.kahf.Browser"
+  mac_updater_bundle_identifier = "com.kahf.Updater"
   privileged_helper_bundle_name = "BraveUpdaterPrivilegedHelper"
   privileged_helper_name = "com.brave.Browser.UpdaterPrivilegedHelper"
   updater_company_full_name = "Halalz, Inc"
   updater_company_short_name = "Halalz"
   updater_company_short_name_uppercase = "Halalz"
-  updater_copyright = "Copyright 2024 The Brave Authors. All rights reserved."
-  updater_product_full_name = "BraveUpdater"
+  updater_copyright = "Copyright 2024 The Kahf Authors. All rights reserved."
+  updater_product_full_name = "KahfUpdater"
   mac_team_identifier = "KL8N8XSYF4"
   grdfile_name = "brave_strings"
 

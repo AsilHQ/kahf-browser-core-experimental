@@ -1,8 +1,8 @@
-# Brave Rewards User Payment Token Redemption
+# Kahf Rewards User Payment Token Redemption
 
-Return to [Brave Rewards user confirmation token redemption](../../../account/utility/redeem_confirmation/reward/README.md).
+Return to [Kahf Rewards user confirmation token redemption](../../../account/utility/redeem_confirmation/reward/README.md).
 
-Request payment for all user-collected Brave Rewards, by calling https://mywallet.ads.brave.com/v{version}/confirmation/payment/{paymentId}.
+Request payment for all user-collected Kahf Rewards, by calling https://mywallet.ads.brave.com/v{version}/confirmation/payment/{paymentId}.
 
 Here, `{version}` represents the version number of the targeted API, and `{paymentId}` is the Rewards payment id, which can be found at [brave://rewards-internals](brave://rewards-internals).
 

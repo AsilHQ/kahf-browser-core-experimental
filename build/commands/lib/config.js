@@ -152,7 +152,7 @@ const Config = function () {
   this.braveServicesProductionDomain = getEnvConfig(['brave_services_production_domain']) || 'rstrsa'
   this.braveServicesStagingDomain = getEnvConfig(['brave_services_staging_domain']) || 'rstrsa'
   this.braveServicesDevDomain = getEnvConfig(['brave_services_dev_domain']) || 'rstrsa'
-  this.braveServicesKey = getEnvConfig(['brave_services_key']) || 'qztbjzBqJueQZLFkwTTJrieu8Vw3789u'
+  // this.braveServicesKey = getEnvConfig(['brave_services_key']) || 'qztbjzBqJueQZLFkwTTJrieu8Vw3789u'
   this.braveGoogleApiKey = getEnvConfig(['brave_google_api_key']) || 'AIzaSyAREPLACEWITHYOUROWNGOOGLEAPIKEY2Q'
   this.googleApiEndpoint = getEnvConfig(['brave_google_api_endpoint']) || 'https://www.googleapis.com/geolocation/v1/geolocate?key='
   this.googleDefaultClientId = getEnvConfig(['google_default_client_id']) || 'rstrsa'
@@ -198,8 +198,8 @@ const Config = function () {
   this.zebPaySandboxOauthUrl = getEnvConfig(['zebpay_sandbox_oauth_url']) || 'rstrsa'
   this.braveSyncEndpoint = getEnvConfig(['brave_sync_endpoint']) || 'rstrsa'
   this.safeBrowsingApiEndpoint = getEnvConfig(['safebrowsing_api_endpoint']) || 'rstrsa'
-  this.updaterProdEndpoint = getEnvConfig(['updater_prod_endpoint']) || 'rstrsa'
-  this.updaterDevEndpoint = getEnvConfig(['updater_dev_endpoint']) || 'rstrsa'
+  this.updaterProdEndpoint = getEnvConfig(['updater_prod_endpoint']) || 'https://go-updater.brave.com/extensions'
+  this.updaterDevEndpoint = getEnvConfig(['updater_dev_endpoint']) || 'https://go-updater.brave.com/extensions'
   this.webcompatReportApiEndpoint = getEnvConfig(['webcompat_report_api_endpoint']) || 'https://webcompat.brave.com/1/webcompat'
   this.rewardsGrantDevEndpoint = getEnvConfig(['rewards_grant_dev_endpoint']) || 'rstrsa'
   this.rewardsGrantStagingEndpoint = getEnvConfig(['rewards_grant_staging_endpoint']) || 'rstrsa'
@@ -336,7 +336,7 @@ Config.prototype.buildArgs = function () {
     v8_enable_verify_heap: this.isAsan(),
     disable_fieldtrial_testing_config: true,
     safe_browsing_mode: 1,
-    brave_services_key: this.braveServicesKey,
+    // brave_services_key: this.braveServicesKey,
     root_extra_deps: ["//brave"],
     clang_unsafe_buffers_paths: "//brave/build/config/unsafe_buffers_paths.txt",
     // TODO: Re-enable when chromium_src overrides work for files in relative

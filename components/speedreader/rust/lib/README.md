@@ -1,11 +1,11 @@
-# Brave SpeedReader
+# Kahf SpeedReader
 
 At a high level, SpeedReader:
 
 * Distills text-focused document content from a suitable HTML
 * Works on HTML documents before rendering them
 * Generates HTML output with no external styling or scripting
-* Content styled with Brave-designed themes
+* Content styled with Kahf-designed themes
 
 ## Structure
 

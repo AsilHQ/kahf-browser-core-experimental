@@ -9,7 +9,7 @@
 inline constexpr char kExtensionUpdaterDomain[] = "extensionupdater.brave.com";
 
 inline constexpr char kBraveProxyPattern[] = "https://*.brave.com/*";
-inline constexpr char kBraveSoftwareProxyPattern[] =
+inline constexpr char kHalalzProxyPattern[] =
     "https://*.bravesoftware.com/*";
 
 inline constexpr char kBraveUsageStandardPath[] = "/1/usage/brave-core";

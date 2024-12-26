@@ -1,4 +1,4 @@
-# Brave Rewards User Confirmation Token Redemption
+# Kahf Rewards User Confirmation Token Redemption
 
 Return to [confirmation redemption](../../../utility/redeem_confirmation/README.md).
 
@@ -6,6 +6,6 @@ Redeem an anonymous confirmation token and receive a [payment token](../../redee
 
 Here, `{version}` represents the version number of the targeted API, `{transactionId}` is a unique id that is not linkable between confirmation token redemptions, and `{credential}` is a digital signature used to ensure the integrity and authenticity of the data being sent.
 
-The request body includes the [Brave Rewards user confirmation token payload](../../../confirmations/reward/README.md).
+The request body includes the [Kahf Rewards user confirmation token payload](../../../confirmations/reward/README.md).
 
 Please add to it!

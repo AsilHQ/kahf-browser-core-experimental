@@ -1,4 +1,4 @@
-// Copyright (c) 2019 The Brave Authors. All rights reserved.
+// Copyright (c) 2019 The Kahf Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -16,10 +16,10 @@ const callback = () => {
     const text = button.textContent || ''
     if (text === getLocale('addToChrome')) {
       button.textContent =
-        getLocale('addToBrave') || text.replace('Chrome', 'Brave')
+        getLocale('addToKahf') || text.replace('Chrome', 'Kahf')
     } else if (text === getLocale('removeFromChrome')) {
       button.textContent =
-        getLocale('removeFromBrave') || text.replace('Chrome', 'Brave')
+        getLocale('removeFromKahf') || text.replace('Chrome', 'Kahf')
     }
   }
 }

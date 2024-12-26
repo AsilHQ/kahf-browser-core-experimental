@@ -1,10 +1,10 @@
-# Brave Ads
+# Kahf Ads
 
-Users earn tokens by viewing privacy-first Brave Ads. Ads presented are based on the user's interests, as inferred from the user's browsing behavior. No personal data or browsing history should ever leave the browser.
+Users earn tokens by viewing privacy-first Kahf Ads. Ads presented are based on the user's interests, as inferred from the user's browsing behavior. No personal data or browsing history should ever leave the browser.
 
 For more details, refer to [glossary of terms](GLOSSARY.md).
 
-Brave Ads is a [layered component](https://sites.google.com/a/chromium.org/dev/developers/design-documents/layered-components-design). It has the following structure:
+Kahf Ads is a [layered component](https://sites.google.com/a/chromium.org/dev/developers/design-documents/layered-components-design). It has the following structure:
 
     └── components/
         └── brave_ads/
@@ -31,12 +31,12 @@ Brave Ads is a [layered component](https://sites.google.com/a/chromium.org/dev/d
 | switch  | explanation  |
 |---|---|
 | rewards  | Multiple options can be comma separated (no spaces). Note: all options are in the format `foo=x`. Values are case-insensitive. Options are `staging`, which forces ads to use the staging environment if set to `true` or the production environment if set to `false`. `debug`, which reduces the delay before downloading the catalog, fetching subdivisions, paying out confirmation tokens, and submitting conversions if set to `true`. e.g. `--rewards=staging=true,debug=true`.  |
-| vmodule  | Options are `--vmodule` gives the per-module maximal V-logging levels to override the value given by `--v`, e.g., `"*/brave_ads/*"=6,"*/bat_ads/*"=6` would change the logging level for Brave Ads to 6.  |
+| vmodule  | Options are `--vmodule` gives the per-module maximal V-logging levels to override the value given by `--v`, e.g., `"*/brave_ads/*"=6,"*/bat_ads/*"=6` would change the logging level for Kahf Ads to 6.  |
 | use-dev-goupdater-url  | Options are `--use-dev-goupdater-url`, which forces the component updater to use the dev environment.  |
 
 ## Logs
 
-You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [Brave Rewards](brave://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](brave://rewards-internals).
+You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [Kahf Rewards](brave://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](brave://rewards-internals).
 
 ## Diagnostics
 
@@ -44,10 +44,10 @@ View diagnostics at [rewards internals](brave://rewards-internals) on the `Ad di
 
 ## Browser Tests
 
-    npm run test -- brave_browser_tests --filter=BraveAds*
+    npm run test -- brave_browser_tests --filter=KahfAds*
 
 ## Unit Tests
 
-    npm run test -- brave_unit_tests --filter=BraveAds*
+    npm run test -- brave_unit_tests --filter=KahfAds*
 
 Please add to it!

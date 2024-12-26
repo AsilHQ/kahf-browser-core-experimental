@@ -112,7 +112,7 @@
 <translation id="5190407395832551012">Aby chronić przed nadużyciami związanymi z nagrodami Kahf, losowo prosimy użytkowników o rozwiązanie zadania typu captcha. Kliknij „Rozwiąż”, aby wznowić wyświetlanie reklam.</translation>
 <translation id="1693773514029371138">Rozwiąż</translation>
 <translation id="6991128190741664836">Później</translation>
-<translation id="8112367589167674370">Brave Talk</translation>
+<translation id="8112367589167674370">Kahf Talk</translation>
 <translation id="8488282162676695335">Portfel Kahf</translation>
 <translation id="8820817407110198400">Zakładki</translation>
 <translation id="1644574205037202324">Historia</translation>
@@ -123,12 +123,12 @@
 <translation id="8730621377337864115">Gotowe</translation>
 <translation id="730042046912793465">To jest</translation>
 <translation id="2055363275850890030">Okno prywatne</translation>
-<translation id="9133213713928851646">Brave nie zapamiętuje Twojej aktywności w oknie prywatnym. Strony, które odwiedzisz, nie pojawią się w Twojej historii przeglądania, a pliki cookie znikną, gdy zamkniesz przeglądarkę. Okno prywatne nie czyni cię jednak całkowicie anonimowym w sieci.</translation>
-<translation id="4085423007106063912">Brave nigdy nie zapamiętuje Twoich działań w oknie prywatnym. Odwiedzone przez Ciebie strony nie będą widoczne w historii. Pliki cookie, dane formularzy i dane witryn zostaną usunięte w momencie zamknięcie okna.</translation>
+<translation id="9133213713928851646">Kahf nie zapamiętuje Twojej aktywności w oknie prywatnym. Strony, które odwiedzisz, nie pojawią się w Twojej historii przeglądania, a pliki cookie znikną, gdy zamkniesz przeglądarkę. Okno prywatne nie czyni cię jednak całkowicie anonimowym w sieci.</translation>
+<translation id="4085423007106063912">Kahf nigdy nie zapamiętuje Twoich działań w oknie prywatnym. Odwiedzone przez Ciebie strony nie będą widoczne w historii. Pliki cookie, dane formularzy i dane witryn zostaną usunięte w momencie zamknięcie okna.</translation>
 <translation id="1700746046668116047">Pamiętaj, że Twoja aktywność będzie widoczna dla usługodawcy internetowego, pasywnych obserwatorów sieci lub pracodawcy (jeżeli korzystasz z firmowego urządzenia lub firmowej sieci). Aby zwiększyć poziom prywatności, otwórz okno prywatne w trybie Tor.</translation>
 <translation id="8759753423332885148">Dowiedz się więcej.</translation>
 <translation id="8611976753572844841">Okno prywatne z połączeniem z Tor</translation>
-<translation id="1645589858096839236">Brave nigdy nie przechowuje działań wykonywanych w oknie prywatnym. Dzięki połączeniu Tor strony mają trudność w odczytaniu Twojego prawdziwego adresu IP, a elementy obserwujące sieć nie widzą stron, które odwiedzasz. Jeśli jednak Twoje osobiste bezpieczeństwo zależy od zachowania anonimowości, zamiast tego użyj przeglądarki Tor.</translation>
+<translation id="1645589858096839236">Kahf nigdy nie przechowuje działań wykonywanych w oknie prywatnym. Dzięki połączeniu Tor strony mają trudność w odczytaniu Twojego prawdziwego adresu IP, a elementy obserwujące sieć nie widzą stron, które odwiedzasz. Jeśli jednak Twoje osobiste bezpieczeństwo zależy od zachowania anonimowości, zamiast tego użyj przeglądarki Tor.</translation>
 <translation id="7919374705736538787">Wyszukiwanie prywatne z</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
 <translation id="218839872518145456">W Trybie Prywatnym Kahf korzysta z wyszukiwarki DuckDuckGo, dzięki czemu Twoja aktywność w sieci nie jest nigdzie zapisywana. DuckDuckGo nie śledzi historii wyszukiwania, więc możesz wyszukiwać bez obaw o swoją prywatność.</translation>
@@ -310,7 +310,7 @@
 <translation id="3368922792935385530">Połączone</translation>
 <translation id="5058161306698404465">Środowisko tworzenia:</translation>
 <translation id="5856438412804207598">Obecne środowisko:</translation>
-<translation id="5916290544882167205">Brave Software. Kahf jest zarejestrowanym znakiem towarowym Kahf Software. Nazwy witryn mogą być znakami towarowymi bądź zarejestrowanymi znakami towarowymi ich właścicieli.</translation>
+<translation id="5916290544882167205">Kahf Software. Kahf jest zarejestrowanym znakiem towarowym Kahf Software. Nazwy witryn mogą być znakami towarowymi bądź zarejestrowanymi znakami towarowymi ich właścicieli.</translation>
 <translation id="9026369588205476247">Aby chronić Twoją prywatność, to oświadczenie Nagród Kahf nie jest zapisywane ani raportowane nigdzie indziej poza Twoim urządzeniem. W razie utraty danych z urządzenia nie można odzyskać oświadczenia.</translation>
 <translation id="1919345977826869612">Ads</translation>
 <translation id="3587482841069643663">Wszystkie</translation>
@@ -422,7 +422,7 @@
 <translation id="2729085694451916573">Testowy ciąg dla <ph name="PART_ONE"/>symboli zastępczych<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Dowiedz się więcej<ph name="PART_TWO_END"/></translation>
 <translation id="7534079972563542000">Unstoppable Domains</translation>
 <translation id="4492298165410552103">Włączyć obsługę Unstoppable Domains w Kahf?</translation>
-<translation id="5015092481905019948">Brave będzie używać <ph name="PROVIDER_NAME"/>do obsługi nazw domen <ph name="DOMAIN_LIST"/> należących do <ph name="DOMAIN_PROVIDER_NAME"/>. Kahf ukrywa Twój adres IP. Jeśli to włączysz, <ph name="PROVIDER_NAME"/>zobaczy, że ktoś próbuje odwiedzić te domeny, ale nic poza tym. Zobacz <ph name="BEGIN_PROVIDER_TOU_LINK"/>Regulamin<ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_PRIVACY_LINK"/>Politykę prywatności<ph name="END_PROVIDER_PRIVACY_LINK"/> w <ph name="PROVIDER_NAME"/>.</translation>
+<translation id="5015092481905019948">Kahf będzie używać <ph name="PROVIDER_NAME"/>do obsługi nazw domen <ph name="DOMAIN_LIST"/> należących do <ph name="DOMAIN_PROVIDER_NAME"/>. Kahf ukrywa Twój adres IP. Jeśli to włączysz, <ph name="PROVIDER_NAME"/>zobaczy, że ktoś próbuje odwiedzić te domeny, ale nic poza tym. Zobacz <ph name="BEGIN_PROVIDER_TOU_LINK"/>Regulamin<ph name="END_PROVIDER_TOU_LINK"/> i <ph name="BEGIN_PROVIDER_PRIVACY_LINK"/>Politykę prywatności<ph name="END_PROVIDER_PRIVACY_LINK"/> w <ph name="PROVIDER_NAME"/>.</translation>
 <translation id="6513892817556267573">Ethereum Name Service</translation>
 <translation id="2789190492285945209">Ethereum Name Service (ENS)</translation>
 <translation id="4335039108389860301">Włączyć obsługę Ethereum Name Service (ENS) w Kahf?</translation>
@@ -432,7 +432,7 @@
 <translation id="4047002754575891955">Kontynuuj z wyszukiwaniem poza łańcuchem</translation>
 <translation id="531747189990625622">Domena Solana Name Service</translation>
 <translation id="1090584614351290462">Włączyć obsługę domeny Solana Name Service (SNS) w przeglądarce Kahf?</translation>
-<translation id="7769345036263036863">Brave będzie korzystać z usług strony trzeciej do obsługi nazw domen <ph name="DOMAIN_LIST"/>. Kahf ukrywa adres IP użytkownika. Jeśli włączysz tę funkcję, strona trzecia będzie rozpoznawać, że ktoś próbuje odwiedzić te domeny <ph name="DOMAIN_LIST"/>, ale nic więcej. Dalsze informacje na temat stron trzecich, z których korzystamy, i ich polityki prywatności można znaleźć na naszej <ph name="BEGIN_SNS_WIKI_LINK"/>stronie pomocy<ph name="END_SNS_WIKI_LINK"/>.</translation>
+<translation id="7769345036263036863">Kahf będzie korzystać z usług strony trzeciej do obsługi nazw domen <ph name="DOMAIN_LIST"/>. Kahf ukrywa adres IP użytkownika. Jeśli włączysz tę funkcję, strona trzecia będzie rozpoznawać, że ktoś próbuje odwiedzić te domeny <ph name="DOMAIN_LIST"/>, ale nic więcej. Dalsze informacje na temat stron trzecich, z których korzystamy, i ich polityki prywatności można znaleźć na naszej <ph name="BEGIN_SNS_WIKI_LINK"/>stronie pomocy<ph name="END_SNS_WIKI_LINK"/>.</translation>
 <translation id="884864496166128252">Kontynuuj, korzystając z serwera <ph name="PROVIDER_NAME"/></translation>
 <translation id="4388873516324656141">Kontynuuj, korzystając z serwera SNS</translation>
 <translation id="2356070529366658676">Zapytaj</translation>
@@ -447,7 +447,7 @@
 <translation id="8377779554871767775">Strona z wrażliwymi danymi</translation>
 <translation id="5396996252458181259">Ta strona może zawierać dane wrażliwe.</translation>
 <translation id="8415427685483394219">Czy chcesz otworzyć tę stronę w trybie bez zapisywania danych?</translation>
-<translation id="5754874269349119401">Brave chce Cię chronić podczas odwiedzania witryn z danymi wrażliwymi. Witryny odwiedzane w trybie bez zapisywania danych nie będą wyświetlane w historii przeglądania, a pliki cookie nie będą zapisywane.</translation>
+<translation id="5754874269349119401">Kahf chce Cię chronić podczas odwiedzania witryn z danymi wrażliwymi. Witryny odwiedzane w trybie bez zapisywania danych nie będą wyświetlane w historii przeglądania, a pliki cookie nie będą zapisywane.</translation>
 <translation id="1307431692088049276">Nie pytaj mnie ponownie</translation>
 <translation id="6329829767845427007">Możesz to później zmienić w ustawieniach Kahf w sekcji Prywatność i bezpieczeństwo</translation>
 <translation id="951201617124425694">Kontynuuj w trybie bez zapisywania danych</translation>
@@ -583,7 +583,7 @@
 <translation id="5192526308598085294">Zobacz <ph name="LINK_BEGIN"/>Warunki świadczenia usługi Nagrody Kahf<ph name="LINK_END"/></translation>
 <translation id="4130750466177569591">zgadzam się</translation>
 <translation id="86107454835395919">Ustaw jako comiesięczny datek</translation>
-<translation id="6621880242105464352">Brave potrąca <ph name="FEE_PCT"/> wysyłanej sumy jako opłatę manipulacyjną.</translation>
+<translation id="6621880242105464352">Kahf potrąca <ph name="FEE_PCT"/> wysyłanej sumy jako opłatę manipulacyjną.</translation>
 <translation id="1420756770787071946">Wspieraj tego twórcę</translation>
 <translation id="1483493594462132177">Wyślij</translation>
 <translation id="6632987674051304487">Wyślij za pomocą <ph name="PROVIDER"/></translation>
@@ -850,7 +850,7 @@
 <translation id="6728663400147327751">Odbiorca</translation>
 <translation id="9209024278910716955">Zakup nieobsługiwany dla wybranej sieci</translation>
 <translation id="4982630604810554641">Wyszukiwanie domeny…</translation>
-<translation id="5467044307473123584">Brave obsługuje bramki spoza łańcucha do obsługi domen .eth.</translation>
+<translation id="5467044307473123584">Kahf obsługuje bramki spoza łańcucha do obsługi domen .eth.</translation>
 <translation id="4896417414446851895">Wprowadzono adres ENS. Będziemy musieli użyć programu do rozpoznawania serwera strony trzeciej, żeby zrealizować to żądanie. Ten program może być w stanie zobaczyć Twój adres IP i domenę.</translation>
 <translation id="8646078615727397565">Wykorzystaj domenę ENS</translation>
 <translation id="1191686659164947414">Transakcja może być ustawiona</translation>
@@ -1186,7 +1186,7 @@
 <translation id="8464365289405373974">Adres wysyłki jest wymagany</translation>
 <translation id="6326239384961270135">Brakujący T-adres</translation>
 <translation id="8585995109882455949">Jak mogę znaleźć poprawny adres?</translation>
-<translation id="105524480632150318">Brave uniemożliwia użytkownikom wysłanie środków na zły adres z powodu nieprawidłowej kapitalizacji. Upewnij się, że adres jest prawidłowy, postępując z poniższymi instrukcjami.</translation>
+<translation id="105524480632150318">Kahf uniemożliwia użytkownikom wysłanie środków na zły adres z powodu nieprawidłowej kapitalizacji. Upewnij się, że adres jest prawidłowy, postępując z poniższymi instrukcjami.</translation>
 <translation id="4583433813614292221">1. Przejdź do strony</translation>
 <translation id="8061317754447191238">Odwiedź Etherscan i wklej adres portfela, do którego chcesz wysłać tokeny. Następnie wprowadź</translation>
 <translation id="5393164213211430081">2. Skopiuj i wprowadź adres ETH</translation>
@@ -1246,7 +1246,7 @@
 <translation id="2962388922926051374">Prośba o metodę „eth_child” w <ph name="URL"/> zakończona niepowodzeniem</translation>
 <translation id="8325036459845654666">Ta sieć jest już dodana.</translation>
 <translation id="554350381160981853">Podpisywanie wpisanych danych obsługiwane jest jedynie na urządzeniu Trezor Model One z oprogramowaniem układowym 1.10.5 lub nowszym.</translation>
-<translation id="1752214435563414457">Brave Swap-stakes</translation>
+<translation id="1752214435563414457">Kahf Swap-stakes</translation>
 <translation id="7829441065063984927">7-dniowa akcja konkursowa kryptowalut — suma nagród wynosząca 500 000 USD.</translation>
 <translation id="8292716346768453265">Weź udział już teraz!</translation>
 <translation id="1935944189549132903">Wszystkie aktywa</translation>
@@ -1449,7 +1449,7 @@
 <translation id="7084181009966710506">Tworzenie portfela…</translation>
 <translation id="3259102562570606417">Zapisz swoją frazę odzyskiwania</translation>
 <translation id="7119749028647909394">Fraza odzyskiwania zawierająca 12-24 słowa to klucz prywatny, którego możesz użyć, aby odzyskać dostęp do portfela w przypadku utraty podłączonego urządzenia. Przechowuj go w bezpiecznym miejscu i dokładnie w takiej kolejności, w jakiej pojawi się poniżej.</translation>
-<translation id="3259018319025894691">Brave nie może uzyskać dostępu do Twojej tajnej frazy odzyskiwania. Przechowuj ją w bezpiecznym miejscu i nigdy nie udostępniaj nikomu innemu.</translation>
+<translation id="3259018319025894691">Kahf nie może uzyskać dostępu do Twojej tajnej frazy odzyskiwania. Przechowuj ją w bezpiecznym miejscu i nigdy nie udostępniaj nikomu innemu.</translation>
 <translation id="426648489149930289">Przechowuj ją w bezpiecznym miejscu, do którego nie mają dostępu inne osoby i nikomu jej nie udostępniaj.</translation>
 <translation id="119185410022731300">Podaj słowo z frazy odzyskiwania w pozycji <ph name="VALUE"/>.</translation>
 <translation id="2193954488469999829">Nie zapisano? Wróć</translation>
@@ -1602,7 +1602,7 @@
 <translation id="6778140392042462129">Giełdy</translation>
 <translation id="6173494033320397682">Tylko przekierowanie bezpośrednie</translation>
 <translation id="2440960581098655899">Ta opcja zapewnia korzystanie tylko z przekierowania bezpośredniego i wyłącza handel z opcją splitu</translation>
-<translation id="6245314729809503023">Brave wykorzystuje 60 najbardziej znanych tokenów do przekierowywania pośredniego w celu optymalizowania wydajności</translation>
+<translation id="6245314729809503023">Kahf wykorzystuje 60 najbardziej znanych tokenów do przekierowywania pośredniego w celu optymalizowania wydajności</translation>
 <translation id="2379187373676242615"><ph name="VALUE"/>% taniej niż na CoinGecko</translation>
 <translation id="5351867352310722022">W granicach <ph name="VALUE"/>% CoinGecko</translation>
 <translation id="7695501918490163821"><ph name="VALUE"/>% drożej niż na CoinGecko</translation>
@@ -1790,7 +1790,7 @@
 <translation id="2665462122884195298">Twój kanał jest pusty</translation>
 <translation id="8461269982440806387">Zacznij obserować wydawców i kanały, a pojawią się w Twoim kanale z treściami.</translation>
 <translation id="1685574186123115251">Dodaj źródła treści</translation>
-<translation id="939305735877869636">Brave</translation>
+<translation id="939305735877869636">Kahf</translation>
 <translation id="6261915643960475695">Biznes</translation>
 <translation id="8265589281845759879">Samochody</translation>
 <translation id="7726519849288907308">Celebryci</translation>
@@ -2030,7 +2030,7 @@
 <translation id="8637805148029768813">Funkcja podsumowania jest obecnie dostępna tylko w przypadku wybranych artykułów i innych szczegółowych stron internetowych.</translation>
 <translation id="1223498995510244364">Podsumuj</translation>
 <translation id="7491773233732232424">Informacje o Leo</translation>
-<translation id="5208096220706490232">Brave Leo to oparty na sztucznej inteligencji inteligentny asystent, który ułatwia korzystanie z Internetu. Leo jest darmowy, ale ma ograniczony dostęp. Kahf Leo Premium oferuje więcej modeli, wyższe limity i umożliwia subskrybentom wcześniejszy dostęp do nowych funkcji. Domyślny model dla wszystkich użytkowników to obecnie Mixtral 8x7B. Aby uzyskać więcej informacji, zobacz <ph name="LINK_BEFORE"/>Brave wiki<ph name="LINK_AFTER"/>.</translation>
+<translation id="5208096220706490232">Kahf Leo to oparty na sztucznej inteligencji inteligentny asystent, który ułatwia korzystanie z Internetu. Leo jest darmowy, ale ma ograniczony dostęp. Kahf Leo Premium oferuje więcej modeli, wyższe limity i umożliwia subskrybentom wcześniejszy dostęp do nowych funkcji. Domyślny model dla wszystkich użytkowników to obecnie Mixtral 8x7B. Aby uzyskać więcej informacji, zobacz <ph name="LINK_BEFORE"/>Kahf wiki<ph name="LINK_AFTER"/>.</translation>
 <translation id="7189603330209995455">Domyślnie, gdy zadajesz Leo pytanie, może on odpowiedzieć w oparciu o zawartość strony internetowej, którą przeglądasz, lub dowolny zaznaczony przez Ciebie tekst na stronie. Dokładność odpowiedzi nie jest gwarantowana i mogą one zawierać nieprecyzyjne, wprowadzające w błąd lub fałszywe informacje. Leo korzysta z danych z wyszukiwarki Kahf w celu poprawy jakości odpowiedzi. Nie przesyłaj poufnych ani prywatnych informacji i zachowaj ostrożność w przypadku odpowiedzi związanych ze zdrowiem, finansami, bezpieczeństwem osobistym itp. W każdej chwili możesz dostosować opcje Leo w Ustawieniach. Przejdź do Ustawień &gt; Leo.</translation>
 <translation id="3038772045018370764">Leo nie zbiera identyfikatorów, takich jak adres IP, które można powiązać z użytkownikiem. Żadne dane osobowe nie są przechowywane przez modele sztucznej inteligencji ani używane przez nie do nauki (poza modelem Anthropic, który przechowuje dane przez 30 dni przed usunięciem ich). Aby uzyskać więcej informacji, zobacz <ph name="LINK_BEFORE"/>Politykę prywatności<ph name="LINK_AFTER"/>.</translation>
 <translation id="7839853125981164613">Wprowadź komunikat tutaj</translation>
@@ -2323,6 +2323,6 @@ Zaraz Cię połączymy!</translation>
 <translation id="451189393813405346">Zapytaj Leo</translation>
 <translation id="8525248723479742219">Odtwórz później</translation>
 <translation id="1450735350187803276">Reklamy wyświetlone w tym miesiącu</translation>
-<translation id="3960619311638643872">Brave VPN</translation>
+<translation id="3960619311638643872">Kahf VPN</translation>
 <translation id="8425213833346101688">Zmień</translation>
 </translationbundle>

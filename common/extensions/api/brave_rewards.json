@@ -219,7 +219,7 @@
       {
         "name": "isSupported",
         "type": "function",
-        "description": "Fetches whether or not Brave Rewards is supported",
+        "description": "Fetches whether or not Kahf Rewards is supported",
         "parameters": [],
         "returns_async": {
           "name": "callback",
@@ -235,7 +235,7 @@
       {
         "name": "recordNTPPanelTrigger",
         "type": "function",
-        "description": "Records an NTP Rewards card 'Start using Brave Rewards' click.",
+        "description": "Records an NTP Rewards card 'Start using Kahf Rewards' click.",
         "parameters": []
       },
       {

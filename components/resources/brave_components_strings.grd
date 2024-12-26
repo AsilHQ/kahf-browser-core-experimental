@@ -189,7 +189,7 @@
       <message name="IDS_BRAVE_NEW_TAB_DASHBOARD_SETTINGS_TITLE" desc="Title for dashboard settings">Customize Dashboard</message>
       <message name="IDS_BRAVE_NEW_TAB_CUSTOMIZE" desc="Title for dashboard settings">Customize</message>
       <message name="IDS_BRAVE_NEW_TAB_SHOW_BACKGROUND_IMAGE" desc="Text for settings background option">Show Background Images</message>
-      <message name="IDS_BRAVE_NEW_TAB_BRAVE_BACKGROUND_IMAGE_OPTION_TITLE" desc="Text for Kahf background option">Brave backgrounds</message>
+      <message name="IDS_BRAVE_NEW_TAB_BRAVE_BACKGROUND_IMAGE_OPTION_TITLE" desc="Text for Kahf background option">Kahf backgrounds</message>
       <message name="IDS_BRAVE_NEW_TAB_CUSTOM_BACKGROUND_IMAGE_OPTION_TITLE" desc="Text for custom background option">Use your own</message>
       <message name="IDS_BRAVE_NEW_TAB_CUSTOM_BACKGROUND_IMAGE_OPTION_UPLOAD_LABEL" desc="Text for custom background option upload">Upload from device</message>
       <message name="IDS_BRAVE_NEW_TAB_SHOW_BRAVE_STATS" desc="Text for settings show stats option">Show Kahf Stats</message>
@@ -280,15 +280,15 @@
       <message name="IDS_BRAVE_NEW_TAB_SPONSORED_IMAGE_ON_REWARDS_ON_NO_CUSTODIAN_DESCRIPTION" desc="Description about not having a connected Rewards custodian">You can earn BAT for seeing Sponsored Images when you connect a custodial account to Kahf Rewards. In the meantime, you're helping to support creators with Sponsored Images.</message>
       <message name="IDS_BRAVE_NEW_TAB_SPONSORED_IMAGE_REWARDS_OFF_DESCRIPTION" desc="Description about sponsored images when Rewards is off">You can earn BAT for seeing Sponsored Images with Kahf Rewards. Not a Rewards user? Turning on Sponsored Images still supports Barve's mission.</message>
       <message name="IDS_BRAVE_NEW_TAB_TOP_SITES" desc="Top Sites title">top sites</message>
-      <message name="IDS_BRAVE_NEW_TAB_STATS" desc="Brave Stats title">Brave Stats</message>
+      <message name="IDS_BRAVE_NEW_TAB_STATS" desc="Kahf Stats title">Kahf Stats</message>
       <message name="IDS_BRAVE_NEW_TAB_CLOCK" desc="Clock title">clock</message>
       <message name="IDS_BRAVE_NEW_TAB_SEARCH" desc="Search title">Search</message>
-      <message name="IDS_BRAVE_NEW_TAB_REWARDS" desc="Brave Rewards Title">Brave Rewards</message>
+      <message name="IDS_BRAVE_NEW_TAB_REWARDS" desc="Kahf Rewards Title">Kahf Rewards</message>
       <message name="IDS_BRAVE_NEW_TAB_BACKGROUND_IMAGE" desc="Background image title">Background Image</message>
       <message name="IDS_BRAVE_NEW_TAB_SETTINGS_BACK" desc="Navigate back to the previous settings section">
         Back
       </message>
-      <message name="IDS_BRAVE_NEW_TAB_BRAVE_BACKGROUND" desc="Brave background colors title">Brave backgrounds</message>
+      <message name="IDS_BRAVE_NEW_TAB_BRAVE_BACKGROUND" desc="Kahf background colors title">Kahf backgrounds</message>
       <message name="IDS_BRAVE_NEW_TAB_SOLID_COLOR" desc="Solid background colors title">Solid colors</message>
       <message name="IDS_BRAVE_NEW_TAB_GRADIENT_COLOR" desc="Gradient background colors title">Gradients</message>
       <message name="IDS_BRAVE_NEW_TAB_REFRESH_BACKGROUND_ON_NEW_TAB" desc="Label for random toggle button">Refresh on every new tab</message>
@@ -349,18 +349,18 @@
         Ad
       </message>
 
-      <message name="IDS_BRAVE_NEW_TAB_STATS_TAB" desc="Brave Stats title">Brave Stats</message>
+      <message name="IDS_BRAVE_NEW_TAB_STATS_TAB" desc="Kahf Stats title">Kahf Stats</message>
       <message name="IDS_BRAVE_NEW_TAB_CLOCK_TAB" desc="Clock title">Clock</message>
       <message name="IDS_BRAVE_NEW_TAB_TOP_SITES_TAB" desc="Top Sites title">Top Sites</message>
       <message name="IDS_BRAVE_NEW_TAB_BACKGROUND_IMG_TAB" desc="Background image title">Background Image</message>
       <message name="IDS_BRAVE_NEW_TAB_WIDGET_ADD" desc="Add Widget Text">Add</message>
       <message name="IDS_BRAVE_NEW_TAB_WIDGET_HIDE" desc="Hide Widget Text">Hide</message>
-      <message name="IDS_BRAVE_NEW_TAB_BRAVE_REWARDS_TITLE" desc="">Brave Rewards</message>
+      <message name="IDS_BRAVE_NEW_TAB_BRAVE_REWARDS_TITLE" desc="">Kahf Rewards</message>
       <message name="IDS_BRAVE_NEW_TAB_REWARDS_WIDGET_DESC" desc="Rewards widget description">Earn tokens for watching privacy-respecting ads.</message>
       <message name="IDS_BRAVE_NEW_TAB_CARDS_TITLE" desc="Toggle cards title">Cards</message>
       <message name="IDS_BRAVE_NEW_TAB_CARDS_DESC" desc="Toggle cards description">By turning off Cards, all cards currently visible will be hidden. However, you may still be notified of new cards.</message>
 
-      <message name="IDS_BRAVE_ADS_SCHEDULED_CAPTCHA_NOTIFICATION_TITLE" desc="">Brave Ads paused</message>
+      <message name="IDS_BRAVE_ADS_SCHEDULED_CAPTCHA_NOTIFICATION_TITLE" desc="">Kahf Ads paused</message>
       <message name="IDS_BRAVE_ADS_SCHEDULED_CAPTCHA_NOTIFICATION_BODY" desc="">To keep Kahf Rewards safe from abuse, we'll randomly ask users to solve a captcha. Click &#8220;Solve&#8221; to resume ads.</message>
       <message name="IDS_BRAVE_ADS_SCHEDULED_CAPTCHA_NOTIFICATION_OK_BUTTON_TEXT" desc="">Solve</message>
       <message name="IDS_BRAVE_ADS_SCHEDULED_CAPTCHA_NOTIFICATION_CANCEL_BUTTON_TEXT" desc="">Later</message>
@@ -395,12 +395,12 @@
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_DONE" desc="">Done</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_THIS_IS_A" desc="">This is a</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW" desc="">Private Window</message>
-        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_DESC" desc="">Brave doesn’t remember what you do in a Private Window. Sites you visit won't show up in your history, and cookies vanish when you’re done. Private Windows don’t make you completely anonymous online, though.</message>
-        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_DESC1" desc="">Brave never remembers what you do in a Private Window. Sites you visit won't show up in your history. Cookies, form data, and site data vanish when you close the window.</message>
+        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_DESC" desc="">Kahf doesn’t remember what you do in a Private Window. Sites you visit won't show up in your history, and cookies vanish when you’re done. Private Windows don’t make you completely anonymous online, though.</message>
+        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_DESC1" desc="">Kahf never remembers what you do in a Private Window. Sites you visit won't show up in your history. Cookies, form data, and site data vanish when you close the window.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_DESC2" desc="">Note that your activity could still be visible to your internet service provider, passive network observers, or your employer (if you're using a work machine or network). For more privacy, open a private window with Tor.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_BUTTON" desc="">Learn more.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_TOR" desc="">Private Window with Tor connectivity</message>
-        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_TOR_DESC" desc="">Brave doesn't store browsing activity from Private Windows. With Tor connectivity, it becomes more difficult for sites to see your true IP address and for network observers to see what sites you visit. However, if your personal safety depends on remaining anonymous, use the Tor Browser instead.</message>
+        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_PRIVATE_WINDOW_TOR_DESC" desc="">Kahf doesn't store browsing activity from Private Windows. With Tor connectivity, it becomes more difficult for sites to see your true IP address and for network observers to see what sites you visit. However, if your personal safety depends on remaining anonymous, use the Tor Browser instead.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_BOX_DDG_LABEL" desc="">Search Privately with</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_BOX_DDG_TITLE" desc="">DuckDuckGo</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_BOX_DDG_TEXT_1" desc="">With private search, Kahf will use DuckDuckGo for searches in Private Windows. DuckDuckGo doesn’t track your search history, so you can search privately.</message>
@@ -420,7 +420,7 @@
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_STATUS_CONNECTION_FAILED" desc="">Tor connection failed</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_STATUS_INITIALIZING" desc="">Tor is connecting... [[percentage]]%</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_HELP_CONNECTING" desc="">Having problems connecting? Try <ph name="BEGIN_LINK">$1</ph>turning off<ph name="END_LINK">$2</ph> Private Window with Tor and back on again in settings.</message>
-        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_HELP_DISCONNECTED_REENABLE" desc="">Open <ph name="BEGIN_LINK">$1</ph>Brave Settings<ph name="END_LINK">$2</ph>, disable Private Window with Tor, then re-enable.</message>
+        <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_HELP_DISCONNECTED_REENABLE" desc="">Open <ph name="BEGIN_LINK">$1</ph>Kahf Settings<ph name="END_LINK">$2</ph>, disable Private Window with Tor, then re-enable.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_HELP_DISCONNECTED_BRIDGES" desc=""><ph name="BEGIN_BOLD">$1</ph>Still having trouble?<ph name="END_BOLD">$2</ph> Try using <ph name="BEGIN_BRIDGES_LINK">$3</ph>bridges<ph name="END_BRIDGES_LINK">$4</ph> or <ph name="BEGIN_SUPPORT_LINK">$5</ph>contact support<ph name="END_SUPPORT_LINK">$6</ph>.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_TOR_HELP_CONTACT_SUPPORT" desc="">Contact support.</message>
         <message name="IDS_BRAVE_PRIVATE_NEW_TAB_SEARCH_PLACEHOLDER" desc="A placeholder label to display on neutral state of the input box in private new tab page">Search the web privately</message>
@@ -484,7 +484,7 @@
         Search ads
       </message>
       <message name="IDS_BRAVE_REWARDS_SEARCH_AD_INFO" desc="">
-        Kahf Search Ads appear on <ph name="BEGIN_LINK">$1</ph>Brave Search<ph name="END_LINK">$2</ph>.
+        Kahf Search Ads appear on <ph name="BEGIN_LINK">$1</ph>Kahf Search<ph name="END_LINK">$2</ph>.
       </message>
       <message name="IDS_BRAVE_REWARDS_SEARCH_AD_CONNECTED_INFO" desc="">
         You cannot earn BAT from Kahf Search Ads yet, but you help support Kahf by having them on.
@@ -504,7 +504,7 @@
       <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_PAYMENT_DATE" desc="">Next earnings payout date</message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_TOTAL_RECEIVED" desc="">Total ads received this month</message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_NOT_SUPPORTED_REGION" desc="">Sorry! Ads are not yet available in your region.</message>
-      <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_NOT_SUPPORTED_DEVICE" desc="">Brave Rewards and Ads are not available on your device at this time.</message>
+      <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_NOT_SUPPORTED_DEVICE" desc="">Kahf Rewards and Ads are not available on your device at this time.</message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_PER_HOUR" desc="">Notification ad frequency</message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_PER_HOUR_0" desc="">None</message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_ADS_PER_HOUR_1" desc="">Max 1 per hour</message>
@@ -652,7 +652,7 @@
       <message name="IDS_BRAVE_UI_AMOUNT" desc="">Amount</message>
       <message name="IDS_BRAVE_UI_BRAVE_CONTRIBUTE_TITLE" desc="">Auto-Contribute</message>
       <message name="IDS_BRAVE_UI_BRAVE_CONTRIBUTE_TRANSACTION" desc="">Auto-Contribute [[processor]]</message>
-      <message name="IDS_BRAVE_UI_BRAVE_REWARDS" desc="">Brave Rewards</message>
+      <message name="IDS_BRAVE_UI_BRAVE_REWARDS" desc="">Kahf Rewards</message>
       <message name="IDS_BRAVE_UI_PRIVACY_POLICY" desc="">Privacy Policy</message>
       <message name="IDS_BRAVE_UI_CANCEL" desc="">Cancel</message>
       <message name="IDS_BRAVE_UI_CAPTCHA_DRAG" desc="">Drag the BAT Icon on to the</message>
@@ -662,7 +662,7 @@
       <message name="IDS_BRAVE_UI_DATE" desc="">Date</message>
       <message name="IDS_BRAVE_UI_DEPOSITS" desc="">Deposits</message>
       <message name="IDS_BRAVE_UI_DESCRIPTION" desc="">Description</message>
-      <message name="IDS_BRAVE_UI_DISABLED_PANEL_TITLE" desc="">Brave Rewards is</message>
+      <message name="IDS_BRAVE_UI_DISABLED_PANEL_TITLE" desc="">Kahf Rewards is</message>
       <message name="IDS_BRAVE_UI_DONATION" desc="">Contribute</message>
       <message name="IDS_BRAVE_UI_DONE" desc="">Done</message>
       <message name="IDS_BRAVE_UI_EARNINGS_ADS" desc="">Earnings from Ads</message>
@@ -717,7 +717,7 @@
       <message name="IDS_BRAVE_UI_TOTAL" desc="">Total</message>
       <message name="IDS_BRAVE_UI_TRANSACTIONS" desc="">Transactions</message>
       <message name="IDS_BRAVE_UI_TYPE" desc="">Type</message>
-      <message name="IDS_BRAVE_UI_VERIFIED_PUBLISHER" desc="">Brave Verified Publisher</message>
+      <message name="IDS_BRAVE_UI_VERIFIED_PUBLISHER" desc="">Kahf Verified Publisher</message>
       <message name="IDS_BRAVE_UI_VIEW_MONTHLY" desc="">View Monthly Statement for Details</message>
       <message name="IDS_BRAVE_UI_WALLET_ACTIVITY" desc="">Activity</message>
       <message name="IDS_BRAVE_UI_WALLET_BALANCE" desc="">Rewards balance</message>
@@ -740,7 +740,7 @@
 
       <message name="IDS_BRAVE_UI_BRAVE_CREATORS_PROMO_TITLE" desc="">Become a Kahf Creator!</message>
       <message name="IDS_BRAVE_UI_BRAVE_CREATORS_PROMO_INFO_1" desc="">Visit creators.brave.com to sign up today and start earning BAT from your fans and followers.</message>
-      <message name="IDS_BRAVE_UI_BRAVE_CREATORS_PROMO_INFO_2" desc="">Brave supports YouTube, Twitch, Vimeo and more!</message>
+      <message name="IDS_BRAVE_UI_BRAVE_CREATORS_PROMO_INFO_2" desc="">Kahf supports YouTube, Twitch, Vimeo and more!</message>
 
       <message name="IDS_BRAVE_UI_TAP_NETWORK_TITLE" desc="">Redeem BAT for Gift Cards</message>
       <message name="IDS_BRAVE_UI_TAP_NETWORK_INFO" desc="">With TAP Network, you can redeem your BAT for popular name-brand gift cards.</message>
@@ -765,7 +765,7 @@
       <message name="IDS_BRAVE_WALLET_DISCLOSURE_TWO" desc="">Only use Crypto Wallets if you accept that you alone are responsible for all risk associated with this use, and that Kahf Software bears no responsibility or liability for any losses including incidental or consequential losses you might suffer as a result of this use.</message>
       <message name="IDS_BRAVE_WALLET_DISCLOSURE_THREE" desc="">All of this is completely separate from</message>
       <message name="IDS_BRAVE_WALLET_DISCLOSURE_FOUR" desc="">So if you were looking to support your favorite sites, head over there instead.</message>
-      <message name="IDS_BRAVE_WALLET_BRAVE_REWARDS" desc="">Brave Rewards</message>
+      <message name="IDS_BRAVE_WALLET_BRAVE_REWARDS" desc="">Kahf Rewards</message>
       <message name="IDS_BRAVE_WALLET_DOWNLOADING" desc="">Downloading Component...</message>
       <message name="IDS_BRAVE_WALLET_DISCLOSURE_CONFIRM" desc="">I understand</message>
 

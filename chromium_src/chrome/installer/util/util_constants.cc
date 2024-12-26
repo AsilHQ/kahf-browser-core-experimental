@@ -24,7 +24,7 @@ namespace installer {
 namespace env_vars {
 
 #if defined(OFFICIAL_BUILD)
-constexpr char kGoogleUpdateIsMachineEnvVar[] = "BraveSoftwareUpdateIsMachine";
+constexpr char kGoogleUpdateIsMachineEnvVar[] = "HalalzUpdateIsMachine";
 #endif
 
 }  // namespace env_vars

@@ -369,7 +369,7 @@ are declared in tools/grit/grit_rule.gni.
           New background app added
         </message>
         <message name="IDS_BACKGROUND_APP_INSTALLED_BALLOON_BODY" desc="The contents of the balloon that is displayed when a background app is installed">
-          <ph name="APP_NAME">$1<ex>Background App</ex></ph> will launch at system startup and continue to run in the background even once you've closed all other <ph name="PRODUCT_NAME">$2<ex>Brave</ex></ph> windows.
+          <ph name="APP_NAME">$1<ex>Background App</ex></ph> will launch at system startup and continue to run in the background even once you've closed all other <ph name="PRODUCT_NAME">$2<ex>Kahf</ex></ph> windows.
         </message>
       </if>
       <message name="IDS_BACKGROUND_CRASHED_APP_BALLOON_MESSAGE" desc="The contents of the balloon that is displayed when a background app crashes">
@@ -831,19 +831,19 @@ are declared in tools/grit/grit_rule.gni.
             &amp;Translate selection to <ph name="LANGUAGE">$1<ex>English</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHWEBFOR" desc="The name of the Search the Web for “string” command in the content area context menu">
-            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>”
+            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>”
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHWEBFORNEWTAB" desc="The name of the Search the Web for “string” in New Tab command in the content area context menu">
-            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>” in new tab
+            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>” in new tab
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHWEBFORIMAGE" desc="The name of the Search For Image command in the content area context menu">
-            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> for image
+            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> for image
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHLENSFORIMAGE" desc="The name of the Search Lens for Image command in the content area context menu">
             Search image with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Google Lens</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_TRANSLATEIMAGE" desc="The name of the Translate Image command in the content area context menu">
-            Translate text in image with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Brave</ex></ph>
+            Translate text in image with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Kahf</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_LENS_REGION_SEARCH_ALT1" desc="The name of the Lens Region Search command in the content area context menu">
             Search page with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Google Lens</ex></ph>
@@ -1174,22 +1174,22 @@ are declared in tools/grit/grit_rule.gni.
             &amp;Translate Selection to <ph name="LANGUAGE">$1<ex>English</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHWEBFOR" desc="In Title Case: The name of the Search the Web for “string” command in the content area context menu">
-            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>”
+            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>”
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHWEBFORNEWTAB" desc="In Title Case: The name of the Search the Web for “string” in New Tab command in the content area context menu">
-            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>” in New Tab
+            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> for “<ph name="SEARCH_TERMS">$2<ex>flowers</ex></ph>” in New Tab
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHWEBFORIMAGE" desc="In Title Case: The name of the Search For Image command in the content area context menu">
-            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> for Image
+            &amp;Search <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> for Image
           </message>
           <message name="IDS_CONTENT_CONTEXT_SEARCHLENSFORIMAGE" desc="In Title Case: The name of the Search Lens for Image command in the content area context menu">
             Search Image with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Google Lens</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_TRANSLATEIMAGE" desc="In Title Case: The name of the Translate Image command in the content area context menu">
-            Translate Text in Image with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Brave</ex></ph>
+            Translate Text in Image with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Kahf</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_LENS_REGION_SEARCH_ALT1" desc="In Title Case: The name of the Lens Region Search command in the content area context menu">
-            Search Page with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Brave</ex></ph>
+            Search Page with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Kahf</ex></ph>
           </message>
           <message name="IDS_CONTENT_CONTEXT_LENS_REGION_SEARCH" desc="In Title Case: The name of the Lens Region Search command in the content area context menu">
             Search Images with <ph name="VISUAL_SEARCH_PROVIDER">$1<ex>Google Lens</ex></ph>
@@ -1418,7 +1418,7 @@ are declared in tools/grit/grit_rule.gni.
             {NUM_PROFILES, plural, =1 {&amp;Close this profile} other {&amp;Close this profile (# windows)}}
           </message>
           <message name="IDS_MANAGE_GOOGLE_ACCOUNT" desc="The text label of the Manage Kahf account item">
-            Manage your &amp;Brave account
+            Manage your &amp;Kahf account
           </message>
           <message name="IDS_OTHER_CHROME_PROFILES_TITLE" desc="The title of the Other Kahf profiles section">
             Other Kahf profiles
@@ -1569,7 +1569,7 @@ are declared in tools/grit/grit_rule.gni.
             {NUM_PROFILES, plural, =1 {&amp;Close This Profile} other {&amp;Close This Profile (# Windows)}}
           </message>
           <message name="IDS_MANAGE_GOOGLE_ACCOUNT" desc="In Title Case: The text label of the Manage Kahf account item">
-            Manage Your &amp;Brave sync chain
+            Manage Your &amp;Kahf sync chain
           </message>
           <message name="IDS_OTHER_CHROME_PROFILES_TITLE" desc="In Title Case: The title of the Other Kahf profiles section">
             Other Kahf Profiles
@@ -1911,7 +1911,7 @@ are declared in tools/grit/grit_rule.gni.
       </message>
 
       <message name="IDS_SEARCH_ENGINES_EDITOR_DEFAULT_ENGINE" desc="Engine name displayed for the engine in the list that is currently marked as default">
-        <ph name="ENGINE_NAME">$1<ex>Brave</ex></ph> (Default)
+        <ph name="ENGINE_NAME">$1<ex>Kahf</ex></ph> (Default)
       </message>
 
       <!-- Download Shelf-->
@@ -3219,7 +3219,7 @@ are declared in tools/grit/grit_rule.gni.
           Install
         </message>
         <message name="IDS_OMNIBOX_PWA_INSTALL_ICON_TOOLTIP" desc="Tooltip for the omnibox icon label promoting an app installation">
-          Install <ph name="APP_NAME">$1<ex>Brave Maps</ex></ph>
+          Install <ph name="APP_NAME">$1<ex>Kahf Maps</ex></ph>
         </message>
       </if>
 
@@ -3723,7 +3723,7 @@ are declared in tools/grit/grit_rule.gni.
       <message name="IDS_NOTIFICATIONS_QUIET_PERMISSION_BUBBLE_CONTINUE_BLOCKING_BUTTON" desc="Text displayed on a button that reaffirms that notifications should remain disabled for a site. This button is part of the notifications status bubble, which is triggered when a user clicks on the blocked notifications icon in the omnibox.">
         Continue blocking
       </message>
-      <message name="IDS_NOTIFICATIONS_QUIET_PERMISSION_EARLY_PROMO" desc="Text of the blocked notifications indicator promo, that shows under the blocked notifications indicator in the address bar. The promo follows the user action of blocking notifications for the site they are visiting, and informs the user that we (Brave) understood that they do not usually accept notification prompts, and we will automatically block notification prompts in the future.">
+      <message name="IDS_NOTIFICATIONS_QUIET_PERMISSION_EARLY_PROMO" desc="Text of the blocked notifications indicator promo, that shows under the blocked notifications indicator in the address bar. The promo follows the user action of blocking notifications for the site they are visiting, and informs the user that we (Kahf) understood that they do not usually accept notification prompts, and we will automatically block notification prompts in the future.">
         Got it. By default, new sites that you visit won't send you notifications.
       </message>
       <message name="IDS_NOTIFICATIONS_QUIET_PERMISSION_NEW_REQUEST_PROMO" desc="Text of the blocked notifications indicator promo, that shows under the blocked notifications indicator in the address bar, when a site requests notifications permission. The promo informs the user that as a result of them usually blocking notifications, the request from the site is automatically blocked, and the user can click on the icon to allow notifications.">
@@ -3784,8 +3784,8 @@ are declared in tools/grit/grit_rule.gni.
       </message>
       <message name="IDS_TRACKING_PROTECTION_BUBBLE_LIMITING_RESTART_TITLE" desc="Subtitle shown on the tracking protection bubble indicating how long until cookies will be limited again.">
         {COUNT, plural,
-              =0 {Brave will limit cookies again today}
-              =1 {Brave will limit cookies again tomorrow}
+              =0 {Kahf will limit cookies again today}
+              =1 {Kahf will limit cookies again tomorrow}
               other {# days until Kahf limits cookies again}}
       </message>
       <message name="IDS_TRACKING_PROTECTION_BUBBLE_BLOCKING_RESTART_TITLE" desc="Subtitle shown on the tracking protection bubble indicating how long until cookies are blocked again.">
@@ -4680,10 +4680,10 @@ are declared in tools/grit/grit_rule.gni.
           Private App: <ph name="APP_NAME">$1<ex>Sample App</ex></ph>
         </message>
         <message name="IDS_TASK_MANAGER_TAB_PREFIX" desc="The prefix for a Task Manager Tab row">
-          Tab: <ph name="TAB_NAME">$1<ex>Brave</ex></ph>
+          Tab: <ph name="TAB_NAME">$1<ex>Kahf</ex></ph>
         </message>
         <message name="IDS_TASK_MANAGER_TAB_INCOGNITO_PREFIX" desc="The prefix for a Task Manager Private Tab row (may not be visible if Private is not open)">
-          Private Tab: <ph name="TAB_NAME">$1<ex>Brave</ex></ph>
+          Private Tab: <ph name="TAB_NAME">$1<ex>Kahf</ex></ph>
         </message>
         <message name="IDS_TASK_MANAGER_BACKGROUND_APP_PREFIX" desc="The prefix for a Task Manager background app task representing a BackgroundContents">
           Background App: <ph name="BACKGROUND_APP_URL">$1<ex>http://www.google.com</ex></ph>
@@ -4744,7 +4744,7 @@ are declared in tools/grit/grit_rule.gni.
           GPU Process
         </message>
         <message name="IDS_TASK_MANAGER_PRINT_PREFIX" desc="The prefix for a print preview process row in the Task Manager">
-          Print: <ph name="PRINT_NAME">$1<ex>Brave Maps</ex></ph>
+          Print: <ph name="PRINT_NAME">$1<ex>Kahf Maps</ex></ph>
         </message>
         <message name="IDS_TASK_MANAGER_SUBFRAME_PREFIX" desc="The prefix for a out-of-process-iframe row in the Task Manager (these processes are created when site isolation is enabled)">
           Subframe: <ph name="SUBFRAME_SITE">$1<ex>https://youtube.com/</ex></ph>
@@ -4846,7 +4846,7 @@ are declared in tools/grit/grit_rule.gni.
       </message>
 
       <!-- Critical Notification bubble -->
-      <message name="IDS_CRITICAL_NOTIFICATION_RESTART" desc="Button label a button on the bubble that appears when there is a critical update and Barve/Brave must restart to install it. Pressing the buton will cause Barve/Brave to restart.">
+      <message name="IDS_CRITICAL_NOTIFICATION_RESTART" desc="Button label a button on the bubble that appears when there is a critical update and Barve/Kahf must restart to install it. Pressing the buton will cause Barve/Kahf to restart.">
         Restart now
       </message>
 
@@ -4855,7 +4855,7 @@ are declared in tools/grit/grit_rule.gni.
         To re-enable it, accept the new permissions:
       </message>
       <message name="IDS_EXTENSION_IS_BLOCKLISTED" desc="Text displayed in an infobar when an extension is blocklisted and prevented from being installed.">
-        Kahf has flagged "<ph name="EXTENSION_NAME">$1<ex>Brave Talk</ex></ph>" as malicious and installation has been prevented
+        Kahf has flagged "<ph name="EXTENSION_NAME">$1<ex>Kahf Talk</ex></ph>" as malicious and installation has been prevented
       </message>
       <message name="IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE" desc="Title of the notification that an extension or app was disabled due to it being installed server side, requiring an explicit permission check from the user.">
         <ph name="EXTENSION_NAME">$1<ex>Adblock</ex></ph> was added remotely
@@ -5428,10 +5428,10 @@ are declared in tools/grit/grit_rule.gni.
       </message>
       <if expr="chromeos_ash">
         <message name="IDS_EXTENSION_CANT_INSTALL_IN_DEVICE_LOCAL_ACCOUNT" desc="Error message when a user tries to install or the administrator tries to force-install through policy an extension that is not allowed in a device-local account.">
-          <ph name="EXTENSION_NAME">$1<ex>Brave Talk</ex></ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>nckgahadagoaajjgafhacjanaoiihapd</ex></ph>") is not allowed in this type of session.
+          <ph name="EXTENSION_NAME">$1<ex>Kahf Talk</ex></ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>nckgahadagoaajjgafhacjanaoiihapd</ex></ph>") is not allowed in this type of session.
         </message>
         <message name="IDS_EXTENSION_CANT_INSTALL_ON_SIGNIN_SCREEN" desc="Error message when the administrator tries to force-install through policy an extension that is not allowed on a login screen.">
-          <ph name="EXTENSION_NAME">$1<ex>Brave Talk</ex></ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") is not allowed on a login screen.
+          <ph name="EXTENSION_NAME">$1<ex>Kahf Talk</ex></ph> (extension ID "<ph name="EXTENSION_ID">$2<ex>abacabadabacabaeabacabadabacabaf</ex></ph>") is not allowed on a login screen.
         </message>
       </if>
       <message name="IDS_EXTENSION_MOVE_DIRECTORY_TO_PROFILE_FAILED" desc="">
@@ -5456,13 +5456,13 @@ are declared in tools/grit/grit_rule.gni.
         Expected version "<ph name="EXPECTED_VERSION">$1<ex>2.0</ex></ph>", but version was "<ph name="NEW_ID">$2<ex>1.0</ex></ph>"
       </message>
       <message name="IDS_EXTENSION_INSTALL_DEPENDENCY_OLD_VERSION" desc="Error displayed during installation of an extension when an import dependency is older than the minimum version required.">
-        Extension requires "<ph name="IMPORT_NAME">$1<ex>Brave Cast API</ex></ph>" with a minimum version "<ph name="IMPORT_VERSION">$2<ex>1.0</ex></ph>", but only version "<ph name="INSTALLED_VERSION">$3<ex>0.9</ex></ph>" is installed
+        Extension requires "<ph name="IMPORT_NAME">$1<ex>Kahf Cast API</ex></ph>" with a minimum version "<ph name="IMPORT_VERSION">$2<ex>1.0</ex></ph>", but only version "<ph name="INSTALLED_VERSION">$3<ex>0.9</ex></ph>" is installed
       </message>
       <message name="IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_SHARED_MODULE" desc="Error displayed during installation of an extension which tries to imports resources from an extension which is not a shared module.">
         Unable to import extension "<ph name="IMPORT_NAME">$1<ex>Gmail</ex></ph>" because it is not a shared module
       </message>
       <message name="IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_ALLOWLISTED" desc="Error displayed during installation of an extension which tries to imports resources from an extension, but it is not allowlisted to do so.">
-        Unable to install "<ph name="APP_NAME">$1<ex>Google Play Movies &amp; TV</ex></ph>" because it is not allowed by "<ph name="IMPORT_NAME">$2<ex>Brave Cast API</ex></ph>"
+        Unable to install "<ph name="APP_NAME">$1<ex>Google Play Movies &amp; TV</ex></ph>" because it is not allowed by "<ph name="IMPORT_NAME">$2<ex>Kahf Cast API</ex></ph>"
       </message>
       <message name="IDS_EXTENSION_INSTALL_GALLERY_ONLY" desc="Error displayed when an app or extension that has an update URL used by the gallery is installed when not directly downloaded from the gallery.">
         This can only be added from the <ph name="CHROME_WEB_STORE">$1<ex>Web Store</ex></ph>
@@ -5478,7 +5478,7 @@ are declared in tools/grit/grit_rule.gni.
         </message>
       </if>
       <message name="IDS_EXTENSION_OVERLAPPING_WEB_EXTENT" desc="Error message when a user tries to install an app with a web extent that overlaps another installed app.">
-        Could not add application "<ph name="TO_INSTALL_APP_NAME">$1<ex>Brave Mail</ex></ph>" because it conflicts with "<ph name="INSTALLED_APP_NAME">$2<ex>Brave Calendar</ex></ph>".
+        Could not add application "<ph name="TO_INSTALL_APP_NAME">$1<ex>Kahf Mail</ex></ph>" because it conflicts with "<ph name="INSTALLED_APP_NAME">$2<ex>Kahf Calendar</ex></ph>".
       </message>
       <message name="IDS_EXTENSION_INVALID_IMAGE_PATH" desc="">
         Could not load '<ph name="IMAGE_PATH">$1<ex>/path/to/file</ex></ph>' for theme.
@@ -5486,7 +5486,7 @@ are declared in tools/grit/grit_rule.gni.
 
       <if expr="is_chromeos">
         <message name="IDS_EXTENSION_NOTIFICATION_INSTALLED" desc="Toast message shown when an application is successfully installed.">
-          <ph name="APP">$1<ex>Brave Keep</ex></ph> installed
+          <ph name="APP">$1<ex>Kahf Keep</ex></ph> installed
         </message>
       </if>
 
@@ -6045,13 +6045,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
 
       <!-- Manifest V2 Deprecation Dialogs -->
       <message name="IDS_EXTENSIONS_MANIFEST_V2_DEPRECATION_KEEP_DIALOG_TITLE" desc="The title of the dialog asking the user if they want to keep the extension installed, which is affected by the Manifest V2 deprecation">
-        Keep "<ph name="EXTENSION_NAME">$1<ex>Brave Translate</ex></ph>"?
+        Keep "<ph name="EXTENSION_NAME">$1<ex>Kahf Translate</ex></ph>"?
       </message>
       <message name="IDS_EXTENSIONS_MANIFEST_V2_DEPRECATION_KEEP_DIALOG_OK_BUTTON" desc="The text of the dialog button to keep the extension installed, which is affected by the Manifest V2 deprecation">
         Keep
       </message>
       <message name="IDS_EXTENSIONS_MANIFEST_V2_DEPRECATION_DISABLED_DIALOG_TITLE" desc="The title of the dialog that appears when extensions were disabled due to the Manifest V2 deprecation">
-        "<ph name="EXTENSION_NAME">$1<ex>Brave Translate</ex></ph>" was turned off
+        "<ph name="EXTENSION_NAME">$1<ex>Kahf Translate</ex></ph>" was turned off
       </message>
       <message name="IDS_EXTENSIONS_MANIFEST_V2_DEPRECATION_DISABLED_DIALOG_PLURAL_TITLE" desc="The title of the dialog that appears when extensions were disabled due to the Manifest V2 deprecation">
         <ph name="NUM_EXTENSIONS">$1<ex>3</ex></ph> extensions were turned off
@@ -6066,7 +6066,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         }
       </message>
       <message name="IDS_EXTENSIONS_MANIFEST_V2_DEPRECATION_REENABLE_DIALOG_TITLE" desc="The title of the dialog asking the user if they want to enable an extension that was disabled due to the Manifest V2 deprecation">
-        Turn "<ph name="EXTENSION_NAME">$1<ex>Brave Translate</ex></ph>" on?
+        Turn "<ph name="EXTENSION_NAME">$1<ex>Kahf Translate</ex></ph>" on?
       </message>
       <message name="IDS_EXTENSIONS_MANIFEST_V2_DEPRECATION_REENABLE_DIALOG_OK_BUTTON" desc="The text of the dialog button to turn on an extension that was disabled due to the Manifest V2 deprecation">
         Turn on
@@ -6086,7 +6086,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Change back to Barve?
       </message>
       <message name="IDS_EXTENSION_NTP_OVERRIDDEN_DIALOG_BODY_GENERIC" desc="The body of the dialog informing the user that the new tab page has been overridden by an extension, indicating which extension now controls it.">
-        This page was changed by the "<ph name="EXTENSION_NAME">$1<ex>Brave Arts and Culture</ex></ph>" extension
+        This page was changed by the "<ph name="EXTENSION_NAME">$1<ex>Kahf Arts and Culture</ex></ph>" extension
       </message>
       <message name="IDS_EXTENSION_SEARCH_OVERRIDDEN_DIALOG_TITLE_GENERIC" desc="The title of the dialog informing the user that the default search engine has been overridden by an extension.">
         Did you mean to change your search provider?
@@ -6128,7 +6128,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Ask your admin to update this app
       </message>
       <message name="IDS_FORCE_INSTALLED_PREINSTALLED_DEPRECATED_APPS_CONTENT" desc="Content of the force installed preinstalled deprecated app dialog">
-        Kahf Apps are migrating to Progressive Web Apps. This Kahf App was installed on your browser by your organization. To open the Progressive Web App from the Apps list, first contact your administrator and ask them to uninstall the Kahf App. In the meantime, you can visit <ph name="EXTENSION_LAUNCH_URL">$1<ex>sheets.google.com</ex></ph> to open <ph name="EXTENSION_NAME">$2<ex>Brave Sheets</ex></ph> on the web.
+        Kahf Apps are migrating to Progressive Web Apps. This Kahf App was installed on your browser by your organization. To open the Progressive Web App from the Apps list, first contact your administrator and ask them to uninstall the Kahf App. In the meantime, you can visit <ph name="EXTENSION_LAUNCH_URL">$1<ex>sheets.google.com</ex></ph> to open <ph name="EXTENSION_NAME">$2<ex>Kahf Sheets</ex></ph> on the web.
       </message>
       <if expr="use_titlecase">
         <message name="IDS_FORCE_INSTALLED_PREINSTALLED_DEPRECATED_APPS_GO_TO_SITE_BUTTON" desc="Label for the button that opens the website for the app">
@@ -6392,7 +6392,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         The extension "<ph name="EXTENSION_NAME">$1<ex>AdBlock</ex></ph>" has changed what page is shown when you click the Home button.
       </message>
 
-      <message name="IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE" desc="Second line in the Settings API bubble. Only shown if the secondary change by the extension was just the search engine. The triple single quotes are needed to preserve the space before and after the sentence which is needed when the language (Brave is being translated to) uses space as word separator. Please preserve them, unless the language being translated to does not use space as word separator.">
+      <message name="IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE" desc="Second line in the Settings API bubble. Only shown if the secondary change by the extension was just the search engine. The triple single quotes are needed to preserve the space before and after the sentence which is needed when the language (Kahf is being translated to) uses space as word separator. Please preserve them, unless the language being translated to does not use space as word separator.">
         ''' It also controls what page is shown when you search from the Omnibox.'''
       </message>
 
@@ -6773,19 +6773,19 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Kahf Password Manager
       </message>
       <message name="IDS_PASSWORD_BUBBLES_FOOTER_SYNCED_TO_ACCOUNT" desc="The footer text of the bubbles that offers users to save, update or manage stored passwords in Kahf and synced to their Kahf account.">
-        You can use saved passwords on any device. They're saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph> for <ph name="EMAIL">$2<ex>user@gmail.com</ex></ph>.
+        You can use saved passwords on any device. They're saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph> for <ph name="EMAIL">$2<ex>user@gmail.com</ex></ph>.
       </message>
       <message name="IDS_PASSWORD_BUBBLES_FOOTER_SAVING_ON_DEVICE" desc="The footer text of the bubbles that offers users to save, update or manage stored passwords only locally in Barve.">
-        Passwords are saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph> on this device.
+        Passwords are saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph> on this device.
       </message>
       <message name="IDS_PASSWORD_GENERATION_PROMPT_GOOGLE_PASSWORD_MANAGER" desc="Autofill dropdown text describing password generation.">
-          You won't need to remember this password. It will be saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph> for <ph name="EMAIL">$2<ex>user@gmail.com</ex></ph>.
+          You won't need to remember this password. It will be saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph> for <ph name="EMAIL">$2<ex>user@gmail.com</ex></ph>.
       </message>
       <message name="IDS_PASSWORD_GENERATION_NUDGE_TITLE" desc="Autofill dropdown title describing password generation.">
           Kahf Password Manager created a strong password for this website
       </message>
       <message name="IDS_PASSWORD_MANAGEMENT_BUBBLE_FOOTER_ACCOUNT_STORE_USERS" desc="The footer text of the managment bubble the lists saved password for this website. This is used only for account store users.">
-        Passwords are saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph>.
+        Passwords are saved to <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph>.
       </message>
       <message name="IDS_PASSWORD_MANAGER_GENERATED_PASSWORD_SAVED_MESSAGE_DESCRIPTION" desc="The description in the Kahf Password Manager's message that appears after saving a password that was autogenerated for the user.">
         You can view and manage saved passwords in Kahf Password Manager
@@ -7126,7 +7126,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
           Reason: The inverted rule <ph name="REVERT_RULE">$1<ex>!example.com</ex></ph> was found in the "Force open in" list.
         </message>
         <message name="IDS_ABOUT_BROWSER_SWITCH_INTERNALS_OPEN_BROWSER_DEFAULT_REASON" desc="about:browser-switch/internals, section URL Checker, the explaination reason for check result, displayed when the entered URL did not match any listed rule and default browser will not get switched">
-          Reason: LBS stays in <ph name="DEFAULT_OPEN_BROWSER">$1<ex>Brave</ex></ph> by default.
+          Reason: LBS stays in <ph name="DEFAULT_OPEN_BROWSER">$1<ex>Kahf</ex></ph> by default.
         </message>
         <message name="IDS_ABOUT_BROWSER_SWITCH_INTERNALS_INVALID_URL" desc="about:browser-switch/internals, section URL Checker, specific error message when the url is invalid">
           Invalid URL. Make sure it is formatted properly.
@@ -7247,7 +7247,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 
       <!-- Omnibox -->
       <message name="IDS_OMNIBOX_PLACEHOLDER_TEXT" desc="The text displayed in the Omnibox when it is empty and unfocused.">
-        Search <ph name="SEARCH_ENGINE_NAME">$1<ex>Brave</ex></ph> or type a URL
+        Search <ph name="SEARCH_ENGINE_NAME">$1<ex>Kahf</ex></ph> or type a URL
       </message>
       <if expr="not use_titlecase">
         <message name="IDS_PASTE_AND_GO" desc="The text label of the Paste And Go menu item when the clipboard contains a URL">
@@ -7275,7 +7275,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Press <ph name="SEARCH_KEY">$1<ex>Tab</ex></ph> to search <ph name="SITE_NAME">$2<ex>google.com</ex></ph>
       </message>
       <message name="IDS_OMNIBOX_EXTENSION_KEYWORD_HINT" desc="Shown to the user when the word(s) in the omnibox has an extension keyword associated with it. $1 is replaced with an image showing the tab key. $2 is replaced with the description of the keyword.">
-        Press <ph name="SEARCH_KEY">$1<ex>Tab</ex></ph> to send commands to <ph name="EXTENSION_NAME">$2<ex>Brave Talk</ex></ph>
+        Press <ph name="SEARCH_KEY">$1<ex>Tab</ex></ph> to send commands to <ph name="EXTENSION_NAME">$2<ex>Kahf Talk</ex></ph>
       </message>
       <message name="IDS_OMNIBOX_KEYWORD_HINT_KEY_ACCNAME" desc="The accessible name of the tab key image">
         Tab
@@ -7314,7 +7314,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Remove suggestion?
       </message>
       <message name="IDS_OMNIBOX_REMOVE_SUGGESTION_BUBBLE_DESCRIPTION" desc="The description of a bubble to delete an omnibox suggestion.">
-        This page will also be removed from your history and <ph name="SEARCH_ENGINE">$1<ex>Brave</ex></ph> activity.
+        This page will also be removed from your history and <ph name="SEARCH_ENGINE">$1<ex>Kahf</ex></ph> activity.
       </message>
       <if expr="use_titlecase">
         <message name="IDS_CONTEXT_MENU_SHOW_FULL_URLS" desc="In Title Case: The text label of the omnibox context menu option to show full URLs">
@@ -9331,7 +9331,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Zoom: <ph name="PERCENT">$1<ex>100%</ex></ph>
       </message>
       <message name="IDS_TOOLTIP_ZOOM_EXTENSION_ICON" desc="The tooltip for the extension icon in the zoom bubble">
-        This page was zoomed by the "<ph name="NAME">$1<ex>Brave Cast</ex></ph>" extension
+        This page was zoomed by the "<ph name="NAME">$1<ex>Kahf Cast</ex></ph>" extension
       </message>
       <message name="IDS_ZOOM_SET_DEFAULT" desc="The text label of a button which, when clicked, returns the page to default zoom">
         Reset
@@ -9625,7 +9625,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         <ph name="WINDOW_TITLE">$1<ex>Wikipedia - Barve</ex></ph> - <ph name="PROFILE_NAME">$2<ex>John Smith</ex></ph>
       </message>
       <message name="IDS_ACCNAME_APP_UPGRADE_RECOMMENDED" desc="The accessible name for the app menu when software update is available.">
-        <ph name="ACCNAME_APP">$1<ex>Brave</ex></ph> (Update is available)
+        <ph name="ACCNAME_APP">$1<ex>Kahf</ex></ph> (Update is available)
       </message>
       <message name="IDS_ACCNAME_FULLSCREEN" desc="The accessible name of the fullscreen button in the new merged menu">
         Full screen
@@ -9718,7 +9718,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Restore
       </message>
       <message name="IDS_ACCNAME_CLOSE_TAB" desc="The accessible name for the button that is used to close a specific tab.">
-        Close <ph name="TAB_NAME">$1<ex>Brave Search</ex></ph>
+        Close <ph name="TAB_NAME">$1<ex>Kahf Search</ex></ph>
       </message>
       <message name="IDS_ACCNAME_ZOOM_SET_DEFAULT" desc="The accessible description of the Reset button in the Zoom bubble.">
         Reset to default zoom level
@@ -9852,7 +9852,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         To add this page to your reading list, click the Bookmark icon
       </message>
       <message name="IDS_DESKTOP_PWA_INSTALL_PROMO" desc="Text shown on promotional UI appearing next to the PWA install icon">
-        To get back here quickly, install <ph name="APP_NAME">$1<ex>Brave Maps</ex></ph> by clicking the install button
+        To get back here quickly, install <ph name="APP_NAME">$1<ex>Kahf Maps</ex></ph> by clicking the install button
       </message>
       <message name="IDS_DESKTOP_PWA_LINK_CAPTURING_TEXT" desc="Text shown on app opened via link capturing.">
         You can change how links open in App settings
@@ -10248,7 +10248,7 @@ You have # more compromised passwords. Kahf Password Manager recommends checking
         <message name="IDS_PASSWORD_MANAGER_SAFE_STATE_BODY_MESSAGE_GOOGLE_PASSWORD_MANAGER" desc="The content of the bubble notifying that there are more problems to fix after the user changed a compromised password.">
           Successfully changed the compromised password.
 
-Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph>.
+Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph>.
         </message>
 
         <if expr="not use_titlecase">
@@ -10656,7 +10656,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
       </message>
 
       <message name="IDS_ZOOMLEVELS_CHROME_ERROR_PAGES_LABEL" desc="Label for zoom level list entry for Kahf error pages.">
-        (Brave error pages)
+        (Kahf error pages)
       </message>
 
       <message name="IDS_STORAGE_ACCESS_MANAGE_TEXT" desc="The text on the button to manage the StorageAcccess settings.">
@@ -10669,7 +10669,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
       <!-- Automatic updates -->
       <if expr="is_macosx">
         <message name="IDS_PROMOTE_INFOBAR_TEXT" desc="The text to show in the automatic update setup infobar.  Mac-only.">
-          <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> may not be able to keep itself updated
+          <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> may not be able to keep itself updated
         </message>
         <message name="IDS_PROMOTE_INFOBAR_PROMOTE_BUTTON" desc="The 'Set up automatic updates' button in the automatic update setup infobar.  Mac-only.">
           Set up automatic updates
@@ -10678,7 +10678,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
           Don't ask again
         </message>
         <message name="IDS_PROMOTE_AUTHENTICATION_PROMPT" desc="The prompt displayed in the authentication dialog when setting up automatic updates for all users.  The system will add a sentence asking for an administrator's name and password.  Mac-only.">
-          <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> will set up automatic updates for all users of this computer.
+          <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> will set up automatic updates for all users of this computer.
         </message>
         <message name="IDS_PROMOTE_PREFLIGHT_LAUNCH_ERROR" desc="Status label shown when an administrator user requested automatic updates for all users, but the OS failed to start the pre-flight process.  Mac-only.">
           Failed to set up automatic updates for all users (preflight launch error: <ph name="ERROR_NUMBER">$1<ex>1</ex></ph>)
@@ -10895,7 +10895,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
           Remove from group
         </message>
         <message name="IDS_TAB_CXMENU_PLACEHOLDER_GROUP_TITLE" desc="The descriptive placeholder title of a group used when the user has not explicitly named a group. The plural value refers to the number of tabs in the group other than the one explicitly named. [ICU Syntax]">
-          {NUM_OTHER_TABS, plural, =0 {"<ph name="TAB_TITLE">$1<ex>Brave News</ex></ph>"} =1 {"<ph name="TAB_TITLE">$1<ex>Brave News</ex></ph>" and 1 other tab} other {"<ph name="TAB_TITLE">$1<ex>Brave News</ex></ph>" and # other tabs}}
+          {NUM_OTHER_TABS, plural, =0 {"<ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph>"} =1 {"<ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph>" and 1 other tab} other {"<ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph>" and # other tabs}}
         </message>
         <message name="IDS_TAB_CXMENU_MOVE_TABS_TO_NEW_WINDOW" desc="The label of the 'Move Tabs to New Window' Tab context menu item. NOTE: If having no explicit # makes the phrasing awkward, feel free to add a # as necessary. [ICU Syntax]">
           {NUM_TABS, plural,
@@ -10918,7 +10918,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
         </message>
         <if expr="is_chromeos">
           <message name="IDS_TAB_CXMENU_GROUPED_BY_DESK_MENU_ITEM_A11Y" desc="The a11y message for menu items in 'Move tabs to another window' when grouped by desk.">
-            <ph name="TAB_TITLE">$1<ex>Brave News</ex></ph> belongs to desk <ph name="DESK_TITLE">$2<ex>School</ex></ph>
+            <ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph> belongs to desk <ph name="DESK_TITLE">$2<ex>School</ex></ph>
           </message>
           <message name="IDS_TAB_CXMENU_GROUPED_BY_DESK_DESK_HEADING_A11Y" desc="The a11y message for desk headings in 'Move tabs to another window' when grouped by desk.">
             Desk <ph name="DESK_TITLE">$1<ex>School</ex></ph> has <ph name="NUM_BROWSERS">$2<ex>3</ex></ph> browser windows open
@@ -10993,7 +10993,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
           Remove From Group
         </message>
         <message name="IDS_TAB_CXMENU_PLACEHOLDER_GROUP_TITLE" desc="The descriptive placeholder title of a group used when the user has not explicitly named a group. The plural value refers to the number of tabs in the group other than the one explicitly named. [ICU Syntax]">
-          {NUM_OTHER_TABS, plural, =0 {"<ph name="TAB_TITLE">$1<ex>Brave News</ex></ph>"} =1 {"<ph name="TAB_TITLE">$1<ex>Brave News</ex></ph>" and 1 Other Tab} other {"<ph name="TAB_TITLE">$1<ex>Brave News</ex></ph>" and # Other Tabs}}
+          {NUM_OTHER_TABS, plural, =0 {"<ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph>"} =1 {"<ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph>" and 1 Other Tab} other {"<ph name="TAB_TITLE">$1<ex>Kahf News</ex></ph>" and # Other Tabs}}
         </message>
         <message name="IDS_TAB_CXMENU_MOVE_TABS_TO_NEW_WINDOW" desc="In Title Case: The label of the 'Move Tabs to New Window' Tab context menu item. NOTE: If having no explicit # makes the phrasing awkward, feel free to add a # as necessary. [ICU Syntax]">
           {NUM_TABS, plural,
@@ -11258,17 +11258,17 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
       <if expr="not use_titlecase">
         <message name="IDS_BROWSER_WINDOW_TITLE_MENU_ENTRY" desc="The format for details of the title displayed in tabs and popup windows. [ICU Syntax]">
           {NUM_PAGES, plural,
-            =0 {<ph name="PAGE_TITLE">$1<ex>Brave</ex></ph>}
-            =1 {<ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> and 1 other tab}
-            other {<ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> and # other tabs}}
+            =0 {<ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph>}
+            =1 {<ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> and 1 other tab}
+            other {<ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> and # other tabs}}
         </message>
       </if>
       <if expr="use_titlecase">
         <message name="IDS_BROWSER_WINDOW_TITLE_MENU_ENTRY" desc="In Title Case: The format for details of the title displayed in tabs and popup windows. [ICU Syntax]">
           {NUM_PAGES, plural,
-            =0 {<ph name="PAGE_TITLE">$1<ex>Brave</ex></ph>}
-            =1 {<ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> and 1 Other Tab}
-            other {<ph name="PAGE_TITLE">$1<ex>Brave</ex></ph> and # Other Tabs}}
+            =0 {<ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph>}
+            =1 {<ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> and 1 Other Tab}
+            other {<ph name="PAGE_TITLE">$1<ex>Kahf</ex></ph> and # Other Tabs}}
         </message>
       </if>
 
@@ -11676,13 +11676,13 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
       <!-- Mac First-run dialog messages -->
       <if expr="is_macosx">
         <message name="IDS_FIRSTRUN_DLG_MAC_COMPLETE_INSTALLATION_LABEL" desc="Label at top of Dialog noting what's going to happen">
-          <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> is ready to complete your installation
+          <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> is ready to complete your installation
         </message>
         <message name="IDS_FIRSTRUN_DLG_MAC_OPTIONS_SEND_USAGE_STATS_LABEL" desc="Label for checkbox to ask whether to send usage stats to Barve">
-          Help make <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> better by automatically sending usage statistics and crash reports to Barve
+          Help make <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> better by automatically sending usage statistics and crash reports to Barve
         </message>
         <message name="IDS_FIRSTRUN_DLG_MAC_START_CHROME_BUTTON" desc="Button to Start Barve">
-          Start <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>
+          Start <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>
         </message>
       </if>
 
@@ -11770,7 +11770,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
           This setting is managed by your administrator.
         </message>
         <message name="IDS_CONTROLLED_SETTING_EXTENSION" desc="Text displayed in the controlled settings bubble when a setting's value is enforced by an extension.">
-          This setting is enforced by the "<ph name="NAME">$1<ex>Brave Cast</ex></ph>" extension.
+          This setting is enforced by the "<ph name="NAME">$1<ex>Kahf Cast</ex></ph>" extension.
         </message>
         <message name="IDS_CONTROLLED_SETTING_EXTENSION_WITHOUT_NAME" desc="Text displayed in the controlled settings bubble when a setting's value is enforced by an extension.">
           This setting is enforced by an extension.
@@ -12995,7 +12995,7 @@ This can include information about installed software, files, your browser, and 
         </if>
 
         <!-- Kahf Signout Confirmation Prompt -->
-        <message name="IDS_CHROME_SIGNOUT_CONFIRMATION_PROMPT_TITLE" desc="This is the title of an error message dialog that appears when the user opens the Kahf Profile Menu and chooses 'Sign out of Barve'. The error message appears when the user has saved some data (like a password or payment method) to Barve, but Kahf wasn't able to save the data to the user's Kahf sync chain due to a sign-in error; but, the data has been saved locally to Barve. This title is before the 'Brave needs to verify it’s you before some data can be saved in your Kahf sync chain and used on all your devices. If you sign out, this data will stay on this device.' string. The tone should be cautionary.">
+        <message name="IDS_CHROME_SIGNOUT_CONFIRMATION_PROMPT_TITLE" desc="This is the title of an error message dialog that appears when the user opens the Kahf Profile Menu and chooses 'Sign out of Barve'. The error message appears when the user has saved some data (like a password or payment method) to Barve, but Kahf wasn't able to save the data to the user's Kahf sync chain due to a sign-in error; but, the data has been saved locally to Barve. This title is before the 'Kahf needs to verify it’s you before some data can be saved in your Kahf sync chain and used on all your devices. If you sign out, this data will stay on this device.' string. The tone should be cautionary.">
           Some data isn’t saved in your account yet
         </message>
         <message name="IDS_CHROME_SIGNOUT_CONFIRMATION_PROMPT_SIGNOUT_BUTTON" desc="This string is found on a button that lets the user sign out of Kahf when the user taps it. It is on an error message dialog that appears when the user opens the Kahf Profile Menu and chooses 'Sign out of Barve'. The error message appears when the user has saved some data (like a password or payment method) to Barve, but Kahf wasn't able to save the data to the user's Kahf sync chain due to a sign-in error; but, the data has been saved locally to Barve. This text is a verb and is short for the longer phrase 'Sign out of Kahf anyway.'">
@@ -13197,14 +13197,14 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Cannot start Kahf because something went wrong when opening your profile. Try to restart Barve.
       </message>
       <message name="IDS_REFUSE_TO_RUN_AS_ROOT" desc="Short error message displayed in an error dialog on startup if the user tries to run Kahf as root.">
-        <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> can not be run as root.
+        <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> can not be run as root.
       </message>
       <message name="IDS_REFUSE_TO_RUN_AS_ROOT_2" desc="Detailed message in the error dialog when the user tries to start Kahf as root.">
-        Please start <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> as a normal user. If you need to run as root for development, rerun with the --no-sandbox flag.
+        Please start <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> as a normal user. If you need to run as root for development, rerun with the --no-sandbox flag.
       </message>
       <if expr="is_win">
         <message name="IDS_PROFILE_ON_NETWORK_WARNING" desc="Warning shown to the user when they are running Kahf on Windows with a profile located on a network share.">
-          Warning: your <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> settings are stored on a network drive. This may result in slowdowns, crashes, or even loss of data.
+          Warning: your <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> settings are stored on a network drive. This may result in slowdowns, crashes, or even loss of data.
         </message>
       </if>
 
@@ -13397,7 +13397,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
           </message>
         </if>
         <message name="IDS_SYNC_START_SYNC_BUTTON_LABEL" desc="The label that appears on the sync button in the options dialog when sync has not been set up by the user.">
-          Sign in to <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>
+          Sign in to <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>
         </message>
         <message name="IDS_SIGNED_IN_WITH_SYNC_DISABLED_BY_POLICY" desc="The message that appears in the settings page indicating that user is signed in, but sync is disabled by enterprise policy.">
           Sync is disabled by your administrator.
@@ -13802,13 +13802,13 @@ Please help our engineers fix this problem. Tell us what happened right before y
         </message>
         <!-- App menu -->
         <message name="IDS_ABOUT_MAC" desc="The Mac menu item to open the about box.">
-          About <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>
+          About <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>
         </message>
         <message name="IDS_SERVICES_MAC" desc="The Mac menu item for the OS X services submenu (OS fills it in) in the app menu.">
           Services
         </message>
         <message name="IDS_HIDE_APP_MAC" desc="The Mac menu item to hide all browser windows in the app menu.">
-          Hide <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>
+          Hide <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>
         </message>
         <message name="IDS_HIDE_OTHERS_MAC" desc="The Mac menu item to hide other applications' windows in the app menu.">
           Hide Others
@@ -13817,7 +13817,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
           Show All
         </message>
         <message name="IDS_EXIT_MAC" desc="The Mac menu item to quit the browser in the app menu.">
-          Quit <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>
+          Quit <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>
         </message>
         <!-- File menu -->
         <message name="IDS_NEW_MAC" desc="The Mac menu item for creating a new file in the file menu.">
@@ -14086,7 +14086,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
           Report an Issue...
         </message>
         <message name="IDS_HELP_MAC" desc="The Mac menu item to show help in the Help menu.">
-          <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> Help
+          <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> Help
         </message>
       </if> <!-- is_macosx -->
 
@@ -14356,14 +14356,14 @@ Please help our engineers fix this problem. Tell us what happened right before y
 
       <!-- Protected media identifier permission infobar -->
       <message name="IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT" desc="A message that the browser shows after saving a password it has autogenerated for the user. This message appears in a bubble and contains a link to all the user's saved autogenerated passwords. The link text is a separate string in the translation console and appears here as placeholder text.">
-        View and manage saved passwords in your <ph name="SAVED_PASSWORDS_STORE">$1<ex>Brave sync chain</ex></ph>
+        View and manage saved passwords in your <ph name="SAVED_PASSWORDS_STORE">$1<ex>Kahf sync chain</ex></ph>
       </message>
       <message name="IDS_PASSWORDS_WEB_LINK" translateable="false">
         https://passwords.google.com
       </message>
       <if expr="is_android">
         <message name="IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT_INFOBAR" desc="A message that the browser shows after saving a password it has autogenerated for the user. This message appears in an infobar and contains a link to all the user's saved autogenerated passwords. The link text is a separate string in the translation console and appears here as placeholder text.">
-          Password saved. View and manage saved passwords in your <ph name="SAVED_PASSWORDS_STORE">$1<ex>Brave sync chain</ex></ph>.
+          Password saved. View and manage saved passwords in your <ph name="SAVED_PASSWORDS_STORE">$1<ex>Kahf sync chain</ex></ph>.
         </message>
       </if>
       <message name="IDS_MANAGE_PASSWORDS_LINK" desc="The text for a link to the user's saved passwords. This is inserted into an infobar or a bubble that the browser shows to the user. The infobar and the bubble use a separate string in the translation console that has a placeholder for this link title.">
@@ -14422,7 +14422,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Sign in easily
       </message>
       <message name="IDS_AUTO_SIGNIN_FIRST_RUN_TEXT" desc="The text of the dialog during the autosign-in first run experience for the Kahf signed out users.">
-        <ph name="PASSWORD_MANAGER_BRAND">$1<ex>Brave Password Manager</ex></ph> remembers how you signed in and automatically signs you in when possible. When off, you'll be asked for confirmation every time.
+        <ph name="PASSWORD_MANAGER_BRAND">$1<ex>Kahf Password Manager</ex></ph> remembers how you signed in and automatically signs you in when possible. When off, you'll be asked for confirmation every time.
       </message>
       <if expr="use_titlecase">
         <message name="IDS_AUTO_SIGNIN_FIRST_RUN_OK" desc="The text of the OK button in the dialog during the autosign-in first run experience.">
@@ -14438,15 +14438,15 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <!-- Extra Mac UI Strings -->
       <if expr="is_macosx">
         <message name="IDS_PLEASE_RELAUNCH_BROWSER" desc="Title of the alert when Kahf needs to be relaunched for a change/update to take effect.">
-          Please Relaunch <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>
+          Please Relaunch <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>
         </message>
 
         <!-- Install from disk image -->
         <message name="IDS_INSTALL_FROM_DMG_TITLE" desc="Title of the dialog asking whether to install from the disk image.  Mac-only.">
-          Do you want to install <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph>?
+          Do you want to install <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph>?
         </message>
         <message name="IDS_INSTALL_FROM_DMG_PROMPT" desc="Prompt asking whether to install from the disk image.  Mac-only.">
-          You're running <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> from its disk image. Installing it on your computer lets you run it without the disk image, and ensures it will be kept up to date.
+          You're running <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> from its disk image. Installing it on your computer lets you run it without the disk image, and ensures it will be kept up to date.
         </message>
         <message name="IDS_INSTALL_FROM_DMG_YES" desc="Button to approve installation from the disk image.  Mac-only.">
           Install
@@ -14455,13 +14455,13 @@ Please help our engineers fix this problem. Tell us what happened right before y
           Don't Install
         </message>
         <message name="IDS_INSTALL_FROM_DMG_AUTHENTICATION_PROMPT" desc="The prompt to be displayed in the authentication dialog when installing from the disk image.  The system will add a sentence asking for an administrator's name and password.  Mac-only.">
-          <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> will be installed.
+          <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> will be installed.
         </message>
         <message name="IDS_INSTALL_FROM_DMG_ERROR_TITLE" desc="Error dialog title to be displayed when installation from the disk image fails.  Mac-only.">
           Installation failed.
         </message>
         <message name="IDS_INSTALL_FROM_DMG_ERROR" desc="Error dialog message to be displayed when installation from the disk image fails.  Mac-only.">
-          <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> couldn't complete installation, but will continue to run from its disk image.
+          <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> couldn't complete installation, but will continue to run from its disk image.
         </message>
       </if>
 
@@ -14483,7 +14483,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
           Proxy Configuration Help
         </message>
         <message name="IDS_ABOUT_LINUX_PROXY_CONFIG_BODY" desc="HTML body of page shown on systems where system proxy configuration is unsupported.">
-          &lt;p&gt;When running <ph name="PRODUCT_NAME">$1<ex>Brave</ex></ph> under a supported desktop environment, the system proxy settings will be used.  However, either your system is not supported or there was a problem launching your system configuration.&lt;/p&gt;
+          &lt;p&gt;When running <ph name="PRODUCT_NAME">$1<ex>Kahf</ex></ph> under a supported desktop environment, the system proxy settings will be used.  However, either your system is not supported or there was a problem launching your system configuration.&lt;/p&gt;
 
           &lt;p&gt;But you can still configure via the command line.  Please see &lt;code&gt;man <ph name="PRODUCT_BINARY_NAME">$2<ex>google-chrome</ex></ph>&lt;/code&gt; for more information on flags and environment variables.&lt;/p&gt;
         </message>
@@ -14681,10 +14681,10 @@ Please help our engineers fix this problem. Tell us what happened right before y
           <ph name="ACTION_NAME">$1<ex>Compose</ex></ph> with <ph name="APP_NAME">$2<ex>GMail</ex></ph> App
         </message>
         <message name="IDS_APP_LIST_QUERY_SEARCH_DESCRIPTION" desc="Description text for the search result that will invoke a query search powered by the default search engine.">
-          <ph name="QUERY_NAME">$1<ex>Harry Potter</ex></ph> - <ph name="DEFAULT_SEARCH_ENGINE_NAME">$2<ex>Brave</ex></ph> Search
+          <ph name="QUERY_NAME">$1<ex>Harry Potter</ex></ph> - <ph name="DEFAULT_SEARCH_ENGINE_NAME">$2<ex>Kahf</ex></ph> Search
         </message>
         <message name="IDS_APP_LIST_QUERY_SEARCH_ACCESSIBILITY_NAME" desc="Hint text for the search result that will invoke a query search powered by the default search engine.">
-          <ph name="QUERY_NAME">$1<ex>Harry Potter</ex></ph>, <ph name="DEFAULT_SEARCH_ENGINE_NAME">$2<ex>Brave</ex></ph> Search
+          <ph name="QUERY_NAME">$1<ex>Harry Potter</ex></ph>, <ph name="DEFAULT_SEARCH_ENGINE_NAME">$2<ex>Kahf</ex></ph> Search
         </message>
         <message name="IDS_APP_LIST_REMOVE_SUGGESTION_ACCESSIBILITY_NAME" desc="The spoken feedback for removing suggestion button">
           Remove the suggestion <ph name="SUGGESTION_NAME">$1<ex>Harry Potter</ex></ph>
@@ -14764,13 +14764,13 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Share an application window
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_TEXT" desc="Text for the window picker dialog shown when desktop capture is requested by an app to be used by the app itself.">
-        <ph name="APP_NAME">$1<ex>Brave Hangouts</ex></ph> wants to share the contents of your screen.
+        <ph name="APP_NAME">$1<ex>Kahf Hangouts</ex></ph> wants to share the contents of your screen.
       </message>
       <message name="IDS_DISPLAY_MEDIA_PICKER_TEXT" desc="Text for the window picker dialog shown when a getDisplayMedia capture is requested by an app to be used by the app itself.">
         The site will be able to see the contents of your screen
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_TEXT_DELEGATED" desc="Text for the window picker dialog shown when desktop capture is requested by an app to be used by a tab.">
-        <ph name="APP_NAME">$1<ex>Brave Hangouts</ex></ph> wants to share the contents of your screen with <ph name="TARGET_NAME">$2<ex>https://google.com</ex></ph>.
+        <ph name="APP_NAME">$1<ex>Kahf Hangouts</ex></ph> wants to share the contents of your screen with <ph name="TARGET_NAME">$2<ex>https://google.com</ex></ph>.
       </message>
       <message name="IDS_DESKTOP_MEDIA_PICKER_AUDIO_SHARE_SCREEN_WITH_MUTE_WARNING" desc="Text for the checkbox on the window picker dialog which is displayed when attempting to share a screen, if local audio playback will be suppressed while capturing audio. In that case, when checked, system audio will be shared, and the local audio playback suppressed; otherwise only video will be shared, and local audio playback will not be suppressed.">
         Also share system audio. This device will be muted to prevent feedback.
@@ -14908,20 +14908,20 @@ Please help our engineers fix this problem. Tell us what happened right before y
       </message>
 
       <!-- Tab accessibility labels -->
-      <message name="IDS_TAB_AX_LABEL_MEDIA_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording media. Example: 'Brave Hangouts - Camera and microphone recording'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Camera and microphone recording
+      <message name="IDS_TAB_AX_LABEL_MEDIA_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording media. Example: 'Kahf Hangouts - Camera and microphone recording'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Camera and microphone recording
       </message>
-      <message name="IDS_TAB_AX_LABEL_AUDIO_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording audio. Example: 'Brave Hangouts - Audio recording'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Microphone recording
+      <message name="IDS_TAB_AX_LABEL_AUDIO_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording audio. Example: 'Kahf Hangouts - Audio recording'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Microphone recording
       </message>
-      <message name="IDS_TAB_AX_LABEL_VIDEO_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording video. Example: 'Brave Hangouts - Camera recording'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Camera recording
+      <message name="IDS_TAB_AX_LABEL_VIDEO_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording video. Example: 'Kahf Hangouts - Camera recording'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Camera recording
       </message>
-      <message name="IDS_TAB_AX_LABEL_TAB_CAPTURING_FORMAT" desc="Accessibility label text, when the tab content is being captured and shared using screen sharing. Example: 'Brave Hangouts - Tab content shared'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Tab content shared
+      <message name="IDS_TAB_AX_LABEL_TAB_CAPTURING_FORMAT" desc="Accessibility label text, when the tab content is being captured and shared using screen sharing. Example: 'Kahf Hangouts - Tab content shared'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Tab content shared
       </message>
-      <message name="IDS_TAB_AX_LABEL_PIP_PLAYING_FORMAT" desc="Accessibility label text, when the tab is playing a persistent video in Picture-in-Picture. Example: 'Brave Hangouts - Video playing in picture-in-picture mode'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Video playing in picture-in-picture mode
+      <message name="IDS_TAB_AX_LABEL_PIP_PLAYING_FORMAT" desc="Accessibility label text, when the tab is playing a persistent video in Picture-in-Picture. Example: 'Kahf Hangouts - Video playing in picture-in-picture mode'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Video playing in picture-in-picture mode
       </message>
       <message name="IDS_TAB_AX_LABEL_AUDIO_PLAYING_FORMAT" desc="Accessibility label text, when the tab is playing audio. Example: 'Google Play Music - Audio playing'">
         <ph name="WINDOW_TITLE">$1<ex>Google Play Music</ex></ph> - Audio playing
@@ -14947,46 +14947,46 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_TAB_AX_LABEL_NETWORK_ERROR_FORMAT" desc="Accessibility label text, when tab has encountered a network error such as being disconnected from the internet. Example: 'www.google.com - Network error'">
         <ph name="WINDOW_TITLE">$1<ex>www.google.com</ex></ph> - Network error
       </message>
-      <message name="IDS_TAB_AX_LABEL_CRASHED_FORMAT" desc="Accessibility label text, when a tab has crashed. Example: 'Brave Search - Crashed'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Crashed
+      <message name="IDS_TAB_AX_LABEL_CRASHED_FORMAT" desc="Accessibility label text, when a tab has crashed. Example: 'Kahf Search - Crashed'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Crashed
       </message>
-      <message name="IDS_TAB_AX_LABEL_DESKTOP_CAPTURING_FORMAT" desc="Accessibility label text, when the tab is capturing and sharing desktop content using screen sharing. Example: 'Brave Hangouts - Desktop content shared'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Desktop content shared
+      <message name="IDS_TAB_AX_LABEL_DESKTOP_CAPTURING_FORMAT" desc="Accessibility label text, when the tab is capturing and sharing desktop content using screen sharing. Example: 'Kahf Hangouts - Desktop content shared'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Desktop content shared
       </message>
       <message name="IDS_TAB_AX_LABEL_VR_PRESENTING" desc="Accessibility label text, when the tab is presenting VR content to a headset. Example: 'A VR-enabled website - VR presenting to headset'">
         <ph name="WINDOW_TITLE">
           $1<ex>A VR-enabled website</ex>
         </ph> - VR presenting to headset
       </message>
-      <message name="IDS_TAB_AX_LABEL_UNNAMED_GROUP_FORMAT" desc="Accessibility label text for a tab, when it is in a group that has not been named by the user. Example: 'Brave Search - Part of unnamed group'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Part of unnamed group
+      <message name="IDS_TAB_AX_LABEL_UNNAMED_GROUP_FORMAT" desc="Accessibility label text for a tab, when it is in a group that has not been named by the user. Example: 'Kahf Search - Part of unnamed group'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Part of unnamed group
       </message>
-      <message name="IDS_TAB_AX_LABEL_NAMED_GROUP_FORMAT" desc="Accessibility label text for a tab, when it is in a group that has been named by the user. Example: 'Brave Search - Part of group MyGroupName'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Part of group <ph name="GROUP_NAME">$2</ph>
+      <message name="IDS_TAB_AX_LABEL_NAMED_GROUP_FORMAT" desc="Accessibility label text for a tab, when it is in a group that has been named by the user. Example: 'Kahf Search - Part of group MyGroupName'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Part of group <ph name="GROUP_NAME">$2</ph>
       </message>
-      <message name="IDS_TAB_AX_LABEL_PINNED_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when a tab is pinned. Example: 'Brave Search - Pinned'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Pinned
+      <message name="IDS_TAB_AX_LABEL_PINNED_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when a tab is pinned. Example: 'Kahf Search - Pinned'">
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Pinned
       </message>
       <if expr="is_chromeos">
-        <message name="IDS_TAB_AX_LABEL_PERMISSION_REQUESTED_FORMAT" desc="Accessibility label text for ChromeOS, when a tab has a pending request. Example: 'Brave Search - Permission requested, press F6 to respond'.">
-          <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Permission requested, press Ctrl + Forward to respond
+        <message name="IDS_TAB_AX_LABEL_PERMISSION_REQUESTED_FORMAT" desc="Accessibility label text for ChromeOS, when a tab has a pending request. Example: 'Kahf Search - Permission requested, press F6 to respond'.">
+          <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Permission requested, press Ctrl + Forward to respond
         </message>
       </if>
       <if expr="is_macosx">
-        <message name="IDS_TAB_AX_LABEL_PERMISSION_REQUESTED_FORMAT" desc="Accessibility label text for MacOS, when a tab has a pending request. Example: 'Brave Search - Permission requested, press F6 to respond'.">
-          <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Permission requested, press ⌘ + Option + Up arrow to respond
+        <message name="IDS_TAB_AX_LABEL_PERMISSION_REQUESTED_FORMAT" desc="Accessibility label text for MacOS, when a tab has a pending request. Example: 'Kahf Search - Permission requested, press F6 to respond'.">
+          <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Permission requested, press ⌘ + Option + Up arrow to respond
         </message>
       </if>
       <if expr="not is_chromeos and not is_macosx and toolkit_views">
-        <message name="IDS_TAB_AX_LABEL_PERMISSION_REQUESTED_FORMAT" desc="Accessibility label text for Windows, Linux or Fuchsia, when a tab has a pending request. Example: 'Brave Search - Permission requested, press F6 to respond'.">
-          <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Permission requested, press F6 to respond
+        <message name="IDS_TAB_AX_LABEL_PERMISSION_REQUESTED_FORMAT" desc="Accessibility label text for Windows, Linux or Fuchsia, when a tab has a pending request. Example: 'Kahf Search - Permission requested, press F6 to respond'.">
+          <ph name="WINDOW_TITLE">$1<ex>Kahf Search</ex></ph> - Permission requested, press F6 to respond
         </message>
       </if>
       <message name="IDS_GROUP_AX_LABEL_UNNAMED_GROUP_FORMAT" desc="Spoken by screen readers when a tab group header that has not been named by the user gets focused but is not visually rendered. Example: 'Unnamed group - Kahf Search and 3 other tabs - Expanded'">
-        Unnamed group - <ph name="GROUP_CONTENTS">$2<ex>Brave Search and 3 other tabs</ex></ph> - <ph name="COLLAPSED_STATE">$1</ph>
+        Unnamed group - <ph name="GROUP_CONTENTS">$2<ex>Kahf Search and 3 other tabs</ex></ph> - <ph name="COLLAPSED_STATE">$1</ph>
       </message>
       <message name="IDS_GROUP_AX_LABEL_NAMED_GROUP_FORMAT" desc="Spoken by screen readers when a tab group header that has been named by the user gets focused but is not visually rendered. Example: 'Group MyGroupName - Kahf Search and 3 other tabs - Collapsed'">
-        Group <ph name="GROUP_NAME">$2</ph> - <ph name="GROUP_CONTENTS">$3<ex>Brave Search and 3 other tabs</ex></ph> - <ph name="COLLAPSED_STATE">$1</ph>
+        Group <ph name="GROUP_NAME">$2</ph> - <ph name="GROUP_CONTENTS">$3<ex>Kahf Search and 3 other tabs</ex></ph> - <ph name="COLLAPSED_STATE">$1</ph>
       </message>
       <message name="IDS_GROUP_AX_LABEL_COLLAPSED" desc="Used as part of the accessibility label text of a group header for a collapsed tab group.">
         Collapsed
@@ -15019,31 +15019,31 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Tab moved to end of tabstrip
       </message>
       <message name="IDS_TAB_AX_ANNOUNCE_TAB_ADDED_TO_UNNAMED_GROUP" is_accessibility_with_no_ui="true" desc="Screen reader announcement when the user inputs a hotkey for moving the currently-selected tab and it results in the tab being added to a tab group with no title">
-        Tab moved into unnamed group - <ph name="GROUP_CONTENTS">$1<ex>Brave Search and 3 other tabs</ex></ph>
+        Tab moved into unnamed group - <ph name="GROUP_CONTENTS">$1<ex>Kahf Search and 3 other tabs</ex></ph>
       </message>
       <message name="IDS_TAB_AX_ANNOUNCE_TAB_ADDED_TO_NAMED_GROUP" is_accessibility_with_no_ui="true" desc="Screen reader announcement when the user inputs a hotkey for moving the currently-selected tab and it results in the tab being added to a tab group with a title">
-        Tab moved into group <ph name="GROUP_NAME">$1</ph> - <ph name="GROUP_CONTENTS">$2<ex>Brave Search and 3 other tabs</ex></ph>
+        Tab moved into group <ph name="GROUP_NAME">$1</ph> - <ph name="GROUP_CONTENTS">$2<ex>Kahf Search and 3 other tabs</ex></ph>
       </message>
       <message name="IDS_TAB_AX_ANNOUNCE_TAB_REMOVED_FROM_UNNAMED_GROUP" is_accessibility_with_no_ui="true" desc="Screen reader announcement when the user inputs a hotkey for moving the currently-selected tab and it results in the tab being removed from a tab group with no title">
-        Tab removed from unnamed group - <ph name="GROUP_CONTENTS">$1<ex>Brave Search and 3 other tabs</ex></ph>
+        Tab removed from unnamed group - <ph name="GROUP_CONTENTS">$1<ex>Kahf Search and 3 other tabs</ex></ph>
       </message>
       <message name="IDS_TAB_AX_ANNOUNCE_TAB_REMOVED_FROM_NAMED_GROUP" is_accessibility_with_no_ui="true" desc="Screen reader announcement when the user inputs a hotkey for moving the currently-selected tab and it results in the tab being removed from a tab group with a title">
-        Tab removed from group <ph name="GROUP_NAME">$1</ph> - <ph name="GROUP_CONTENTS">$2<ex>Brave Search and 3 other tabs</ex></ph>
+        Tab removed from group <ph name="GROUP_NAME">$1</ph> - <ph name="GROUP_CONTENTS">$2<ex>Kahf Search and 3 other tabs</ex></ph>
       </message>
       <message name="IDS_PAGE_LOADING_AX_TITLE_FORMAT" is_accessibility_with_no_ui="true" desc="Screen reader announcement when the back/forward button is focused and has been pressed. If the title of the page can be obtained, it will be included. Example: 'Loading Kahf News'.">
-          Loading <ph name="WINDOW_TITLE">$1<ex>Brave News</ex></ph>
+          Loading <ph name="WINDOW_TITLE">$1<ex>Kahf News</ex></ph>
       </message>
       <message name="IDS_TAB_AX_INACTIVE_TAB" desc="Accessibility label text when the tab becomes inactive to save memory.'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Inactive tab
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Inactive tab
       </message>
       <message name="IDS_TAB_AX_MEMORY_SAVINGS" desc="Accessibility label text of how much memory was saved by the inactive tab'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - <ph name="MEMORY_VALUE">$2<ex>175MB</ex></ph> freed up
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - <ph name="MEMORY_VALUE">$2<ex>175MB</ex></ph> freed up
       </message>
       <message name="IDS_TAB_AX_MEMORY_USAGE" desc="Accessibility label text of how much memory is used by the tab'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - Memory usage - <ph name="MEMORY_VALUE">$2<ex>175MB</ex></ph>
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - Memory usage - <ph name="MEMORY_VALUE">$2<ex>175MB</ex></ph>
       </message>
       <message name="IDS_TAB_AX_HIGH_MEMORY_USAGE" desc="Accessibility label text of how much memory is used by the tab'">
-        <ph name="WINDOW_TITLE">$1<ex>Brave Hangouts</ex></ph> - High memory usage - <ph name="MEMORY_VALUE">$2<ex>175MB</ex></ph>
+        <ph name="WINDOW_TITLE">$1<ex>Kahf Hangouts</ex></ph> - High memory usage - <ph name="MEMORY_VALUE">$2<ex>175MB</ex></ph>
       </message>
 
       <!-- ProcessSingleton -->
@@ -15256,23 +15256,23 @@ Please help our engineers fix this problem. Tell us what happened right before y
         <then>
           <message name="IDS_WEBHID_SYSTEM_TRAY_ICON_EXTENSION_LIST" desc="Text for the WebHID pinned notification message.">
             {NUM_EXTENSION, plural,
-            =1 {<ph name="EXTENSION1">{1}<ex>Brave Translate</ex></ph> is accessing HID devices}
-            =2 {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Brave Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph>}
-            other {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Brave Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph> +{3} more}}
+            =1 {<ph name="EXTENSION1">{1}<ex>Kahf Translate</ex></ph> is accessing HID devices}
+            =2 {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Kahf Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph>}
+            other {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Kahf Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph> +{3} more}}
           </message>
           <message name="IDS_WEBUSB_SYSTEM_TRAY_ICON_EXTENSION_LIST" desc="Text for the WebUSB pinned notification message.">
             {NUM_EXTENSION, plural,
-            =1 {<ph name="EXTENSION1">{1}<ex>Brave Translate</ex></ph> is accessing USB devices}
-            =2 {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Brave Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph>}
-            other {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Brave Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph> +{3} more}}
+            =1 {<ph name="EXTENSION1">{1}<ex>Kahf Translate</ex></ph> is accessing USB devices}
+            =2 {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Kahf Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph>}
+            other {Extensions accessing devices: <ph name="EXTENSION1">{1}<ex>Kahf Translate</ex></ph>, <ph name="EXTENSION2">{2}<ex>Secure Shell</ex></ph> +{3} more}}
           </message>
         </then>
         <else>
           <message name="IDS_DEVICE_CONNECTED_BY_EXTENSION" desc="Text for the WebHID or WebUSB system tray icon button that displays how many active connections for the extension and opens the extension's site setting page.">
             {NUM_CONNECTION, plural,
-            =0 {Extension "<ph name="EXTENSION">{1}<ex>Brave Translate</ex></ph>" was accessing devices}
-            =1 {Extension "<ph name="EXTENSION">{1}<ex>Brave Translate</ex></ph>" is accessing {0} device}
-            other {Extension "<ph name="EXTENSION">{1}<ex>Brave Translate</ex></ph>" is accessing {0} devices}}
+            =0 {Extension "<ph name="EXTENSION">{1}<ex>Kahf Translate</ex></ph>" was accessing devices}
+            =1 {Extension "<ph name="EXTENSION">{1}<ex>Kahf Translate</ex></ph>" is accessing {0} device}
+            other {Extension "<ph name="EXTENSION">{1}<ex>Kahf Translate</ex></ph>" is accessing {0} devices}}
           </message>
         </else>
       </if>
@@ -15290,7 +15290,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
           Connect to <ph name="USB_VM_NAME">$1<ex>Linux</ex></ph>
       </message>
       <message name="IDS_CROSUSB_UNKNOWN_DEVICE_FROM_MANUFACTURER" desc="String describing an unknown device in notification shown when a USB device gets plugged in.">
-        USB device from <ph name="MANUFACTURER_NAME">$1<ex>Brave</ex></ph>
+        USB device from <ph name="MANUFACTURER_NAME">$1<ex>Kahf</ex></ph>
       </message>
       <message name="IDS_CROSUSB_UNKNOWN_DEVICE" desc="String describing an unknown device in notification shown when a USB device gets plugged in.">
         USB device
@@ -15360,7 +15360,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
 
     <!-- Device descriptions for devices defined by policy with wildcards. -->
     <message name="IDS_USB_POLICY_DEVICE_DESCRIPTION_FOR_PRODUCT_ID_AND_VENDOR_NAME" desc="String describing a device by its vendor name when only the numeric product ID is available.">
-      Unknown product <ph name="PRODUCT_ID">$1<ex>123</ex></ph> from <ph name="VENDOR_NAME">$2<ex>Brave</ex></ph>
+      Unknown product <ph name="PRODUCT_ID">$1<ex>123</ex></ph> from <ph name="VENDOR_NAME">$2<ex>Kahf</ex></ph>
     </message>
     <message name="IDS_USB_POLICY_DEVICE_DESCRIPTION_FOR_PRODUCT_ID_AND_VENDOR_ID" desc="String describing a device when only the numeric product ID and vendor ID are available.">
       Unknown product <ph name="PRODUCT_ID">$1<ex>123</ex></ph> from vendor <ph name="VENDOR_ID">$2<ex>123</ex></ph>
@@ -15369,7 +15369,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Devices from vendor <ph name="VENDOR_ID">$1<ex>123</ex></ph>
     </message>
     <message name="IDS_USB_POLICY_DEVICE_DESCRIPTION_FOR_VENDOR_NAME" desc="String describing devices from a vendor.">
-      Devices from <ph name="VENDOR_NAME">$1<ex>Brave</ex></ph>
+      Devices from <ph name="VENDOR_NAME">$1<ex>Kahf</ex></ph>
     </message>
     <message name="IDS_USB_POLICY_DEVICE_DESCRIPTION_FOR_ANY_VENDOR" desc="String describing devices from any vendor.">
       Devices from any vendor
@@ -15393,7 +15393,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Finding serial devices...
       </message>
       <message name="IDS_SERIAL_POLICY_DESCRIPTION_FOR_USB_PRODUCT_ID_AND_VENDOR_NAME" desc="String describing a USB device permission granted by enterprise policy to a site when the vendor name is available by a numeric product ID must be used.">
-        USB device from <ph name="VENDOR_NAME">$2<ex>Brave</ex></ph> (product <ph name="PRODUCT_ID">$1<ex>0x12AB</ex></ph>)
+        USB device from <ph name="VENDOR_NAME">$2<ex>Kahf</ex></ph> (product <ph name="PRODUCT_ID">$1<ex>0x12AB</ex></ph>)
       </message>
       <message name="IDS_SERIAL_POLICY_DESCRIPTION_FOR_USB_PRODUCT_ID_AND_VENDOR_ID" desc="String describing a USB device permission granted by enterprise policy to a site when only the numeric product ID and vendor ID are available.">
         USB device (<ph name="VENDOR_ID">$2<ex>12AB</ex></ph>:<ph name="PRODUCT_ID">$1<ex>12AB</ex></ph>)
@@ -15402,7 +15402,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         USB devices from vendor <ph name="VENDOR_ID">$1<ex>12AB</ex></ph>
       </message>
       <message name="IDS_SERIAL_POLICY_DESCRIPTION_FOR_USB_VENDOR_NAME" desc="String describing a USB device permission granted by enterprise policy to a site for all devices from a single vendor.">
-        USB devices from <ph name="VENDOR_NAME">$1<ex>Brave</ex></ph>
+        USB devices from <ph name="VENDOR_NAME">$1<ex>Kahf</ex></ph>
       </message>
       <message name="IDS_SERIAL_POLICY_DESCRIPTION_FOR_ANY_PORT" desc="String describing a serial port permission granted by enterprise policy for all ports.">
         Any serial port
@@ -15565,7 +15565,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <!-- Consistent omnibox geolocation -->
     <if expr="is_android">
         <message name="IDS_SEARCH_GEOLOCATION_DISCLOSURE_INFOBAR_TEXT" desc="Text to put in the infobar disclosing the default search engine's usage of location. The message contains a link to a settings page. The link text is a separate string in the translation console and appears here as a placeholder text.">
-          <ph name="SEARCH_ENGINE_NAME">$1<ex>Brave</ex></ph> uses your location to give you local content. You can change this in <ph name="SETTINGS_LINK">$2<ex>Settings</ex></ph>.
+          <ph name="SEARCH_ENGINE_NAME">$1<ex>Kahf</ex></ph> uses your location to give you local content. You can change this in <ph name="SETTINGS_LINK">$2<ex>Settings</ex></ph>.
         </message>
         <message name="IDS_SEARCH_GEOLOCATION_DISCLOSURE_INFOBAR_SETTINGS_LINK_TEXT" desc="Text to put in the link to the Settings page in the search geolocation disclosure UI.">
           Settings
@@ -15578,7 +15578,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </message>
 
     <!-- Kahf for Testing infobar main text -->
-    <message name="IDS_CHROME_FOR_TESTING_DISCLAIMER" desc="An infobar prompt shown whenever Kahf for Testing is launched. In Title Case: 'Brave for Testing'.">
+    <message name="IDS_CHROME_FOR_TESTING_DISCLAIMER" desc="An infobar prompt shown whenever Kahf for Testing is launched. In Title Case: 'Kahf for Testing'.">
       Kahf for Testing v<ph name="BROWSER_VERSION">
         $1<ex>109.0.5369.0</ex>
       </ph> is only for automated testing. For regular browsing, use a standard version of Kahf that updates automatically.
@@ -15731,8 +15731,8 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_FILE_SYSTEM_ACCESS_USAGE_BUBBLE_FILES_TEXT" desc="Text to display a list of files in the File System Access usage bubble">
       {0, plural, offset:2
         =1 {<ph name="FILE1">{1}<ex>README.md</ex></ph>}
-        =2 {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>Brave.png</ex></ph>}
-        other {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>Brave.png</ex></ph>, and # more}
+        =2 {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>Kahf.png</ex></ph>}
+        other {<ph name="FILE1">{1}<ex>README.md</ex></ph>, <ph name="FILE2">{2}<ex>Kahf.png</ex></ph>, and # more}
       }
     </message>
     <message name="IDS_FILE_SYSTEM_ACCESS_USAGE_EXPAND" desc="Tooltip for and name of a button that shows (expands) a detailed list of files and directories">
@@ -16366,7 +16366,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Passkey updated
       </message>
       <message name="IDS_WEBAUTHN_GPM_PASSKEY_UPDATED_LABEL" desc="The label in a bubble that is displayed as a confirmation that a passkey was updated with the current user details in Kahf Password Manager, explaining that the passkeys can be managed in Kahf Password Manager. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
-        You can view and manage your passkeys saved in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph>
+        You can view and manage your passkeys saved in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph>
       </message>
       <message name="IDS_WEBAUTHN_GPM_PASSKEY_UPDATED_LINK" desc="Link text that directs the user to the Kahf Password Manager passwords page within a bubble that is displayed as a confirmation that a passkey was updated with the current user details in Kahf Password Manager. See IDS_WEBAUTHN_GPM_PASSKEY_UPDATED_LABEL for more details.">
         Kahf Password Manager
@@ -16375,7 +16375,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Passkey deleted
       </message>
       <message name="IDS_WEBAUTHN_GPM_PASSKEY_DELETED_LABEL" desc="The label in a bubble that is displayed as a confirmation that a passkey was deleted in Kahf Password Manager, explaining that the passkeys can be managed in Kahf Password Manager. Refer to Glossary for the meaning of 'passkey'; do not translate it as 'password'">
-        You can view and manage your passkeys saved in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave Password Manager</ex></ph>
+        You can view and manage your passkeys saved in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Password Manager</ex></ph>
       </message>
       <message name="IDS_WEBAUTHN_GPM_PASSKEY_DELETED_LINK" desc="Link text that directs the user to the Kahf Password Manager passwords page within a bubble that is displayed as a confirmation that a passkey was deleted in Kahf Password Manager. See IDS_WEBAUTHN_GPM_PASSKEY_DELETED_LABEL for more details.">
         Kahf Password Manager
@@ -16782,7 +16782,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Uninstall "<ph name="APP_NAME">$1<ex>Gmail Checker</ex></ph>"?
     </message>
 
-    <!-- App uninstall prompt for non-Brave -->
+    <!-- App uninstall prompt for non-Kahf -->
     <message name="IDS_APP_UNINSTALL_PROMPT_REMOVE_DATA_CHECKBOX_FOR_NON_GOOGLE" desc="Checkbox text to ask the user whether they want to remove associated data at uninstall time. Only used when uninstalling an app associated with a particular website.">
       Also delete browsing data (<ph name="URL">$1<ex>pinterest.com</ex></ph>) which will sign you out of <ph name="DOMAIN">$2<ex>Pinterest.com</ex></ph>.<ph name="LEARN_MORE">$3<ex>Learn more</ex></ph>
     </message>
@@ -16903,7 +16903,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Window name
     </message>
 
-    <!-- BraveLabs bubble -->
+    <!-- KahfLabs bubble -->
     <message name="IDS_CHROMELABS_RELAUNCH_BUTTON_LABEL" desc="Label on the button in the footer of the Kahf Labs bubble which will relaunch the browser.">
       Relaunch
     </message>
@@ -16935,7 +16935,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_CHROMELABS_ENABLED_WITH_VARIATION_NAME" desc="Label for combobox option for an enabled variation that will have a description describing what variation is enabled in the placeholder.">
       Enabled – <ph name="VARIATION_NAME">$1<ex>tabs shrink to pinned tab width</ex></ph>
     </message>
-    <!-- BraveLabs Tab Scrolling -->
+    <!-- KahfLabs Tab Scrolling -->
     <message name="IDS_TAB_SCROLLING_EXPERIMENT_NAME" desc="Name for Tab Scrolling experiment">
       Tab Scrolling
     </message>
@@ -16958,7 +16958,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_LENS_REGION_SEARCH_BUBBLE_TEXT" desc="Text that is shown in the Lens Region Search education bubble when starting the feature. Informs the user to drag over the screen to select a region to search with Google Lens.">
       Select an area to search with Lens
     </message>
-    <!-- BraveLabs Thumbnail Tab Strip -->
+    <!-- KahfLabs Thumbnail Tab Strip -->
     <message name="IDS_THUMBNAIL_TAB_STRIP_EXPERIMENT_NAME" desc="Name for Thumbnail Tab Strip experiment">
       Thumbnail tab strip for tablet mode
     </message>
@@ -17140,7 +17140,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_INPUT_OVERLAY_EDUCATIONAL_TITLE_ALPHA" desc="Feature title via Educational menu.">
         Game controls now available
       </message>
-      <message name="IDS_INPUT_OVERLAY_ACCESSIBILITY_ALPHA" desc="Text tied to the close button on Settings menu, readable via Bravevox.">
+      <message name="IDS_INPUT_OVERLAY_ACCESSIBILITY_ALPHA" desc="Text tied to the close button on Settings menu, readable via Kahfvox.">
         Close game controls
       </message>
       <message name="IDS_INPUT_OVERLAY_MENU_ENTRY_BUTTON" desc="Button to access Input Overlay's settings menu.">
@@ -17239,7 +17239,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_PRIVACY_SANDBOX_DIALOG_CONSENT_BODY_HEADER_1" desc="1 of 2 subtitles on the page. We want to write for users who skim the page. That means that the page title, the sub titles, and the button label all work well together as a mini story: 1) Help us build a more private web How? 2) Limit sharing between sites 3) More control over the ads you see 4) Yes, I’ll try it">
       Limited sharing between sites
     </message>
-    <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_DESCRIPTION" desc="The body text of the bubble.* “Brave is finding new ways”: “finding” is meant to convey a work in progress, like “build” in the title. The features are live and functional, but still in beta. So we want a verb that’s stronger than “exploring” but weaker than “launching”. * “reduce tracking”: This used to read “reduce cross-site tracking”, but we’ve dropped “cross-site” because it makes the idea unnecessarily complicated. * “estimate your interests”: Topics of interest include things like “Live comedy” and “Rock music”. Kahf estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “Then” is an important keyword. It suggests some amount of time later. The first step is that interests are generated. Later (minutes or weeks), a different site might request interests.">
+    <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_DESCRIPTION" desc="The body text of the bubble.* “Kahf is finding new ways”: “finding” is meant to convey a work in progress, like “build” in the title. The features are live and functional, but still in beta. So we want a verb that’s stronger than “exploring” but weaker than “launching”. * “reduce tracking”: This used to read “reduce cross-site tracking”, but we’ve dropped “cross-site” because it makes the idea unnecessarily complicated. * “estimate your interests”: Topics of interest include things like “Live comedy” and “Rock music”. Kahf estimates these interests based on the sites users visit. It’s an “estimation”, and we don’t want to suggest that we know with certainty the user’s interests. Avoid words like “guess”, “establish”, “define”, etc. (in place of “estimate”). * “Then” is an important keyword. It suggests some amount of time later. The first step is that interests are generated. Later (minutes or weeks), a different site might request interests.">
       Kahf is finding new ways to reduce tracking and keep you even safer as you browse. Kahf also <ph name="ESTIMATE_INTERESTS_LINK">$1<ex>estimates your interests</ex></ph> and enables you to manage them. Then, sites you visit can ask Kahf for your interests to show you ads.
     </message>
     <message name="IDS_PRIVACY_SANDBOX_BUBBLE_NOTICE_SETTINGS_LINK" desc="The user can choose “Go to settings” to visit chrome://settings/privacySandbox. If they do, they’ll find the toggle on for Sandbox trials, which include everything they’ve read above. They can leave trials on or turn them off on this page. Choosing “Go to settings”, the user will navigate away from this page and won’t be able to return here.">
@@ -17430,7 +17430,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
         Keep performance speedy
         </message>
         <message name="IDS_PERFORMANCE_INTERVENTION_CLOSE_BUTTON_ACCNAME" desc="The accessibility text for the performance intervention close button that removes an item from the list of tabs to deactivate when clicked.">
-        Remove <ph name="SITE_NAME">$1<ex>Brave</ex></ph> from list of tabs to make inactive
+        Remove <ph name="SITE_NAME">$1<ex>Kahf</ex></ph> from list of tabs to make inactive
         </message>
         <message name="IDS_PERFORMANCE_INTERVENTION_SINGLE_SUGGESTED_ROW_ACCNAME" desc="The accessibility text for a suggested tab in the performance intervention dialog when the user have removed all but one suggested tab.">
           You can make this tab inactive or refresh to see the full list again
@@ -17580,10 +17580,10 @@ Please help our engineers fix this problem. Tell us what happened right before y
       You security preferences do not allow installations of Isolated Apps. <ph name="CHANGE_PREFERENCE">$1<ex>Change your preferences</ex></ph>
     </message>
     <message name="IDS_IWA_INSTALLER_ALREADY_INSTALLED_TITLE" desc="Title of an error dialog shown when the bundle trying to be installed is already installed.">
-      <ph name="APP_NAME">$1<ex>Brave Maps</ex></ph> is already installed
+      <ph name="APP_NAME">$1<ex>Kahf Maps</ex></ph> is already installed
     </message>
     <message name="IDS_IWA_INSTALLER_ALREADY_INSTALLED_SUBTITLE" desc="Subtitle of an error dialog shown when the bundle trying to be installed is already installed.">
-      <ph name="APP_NAME">$1<ex>Brave Maps</ex></ph> version <ph name="APP_VERSION">$2<ex>1.0</ex></ph> is already installed on this device
+      <ph name="APP_NAME">$1<ex>Kahf Maps</ex></ph> version <ph name="APP_VERSION">$2<ex>1.0</ex></ph> is already installed on this device
     </message>
     <message name="IDS_IWA_INSTALLER_BODY_SCREENREADER_NAME" desc="Name that screen readers should call the body (top) section of the IWA installer UI.">
       Body
@@ -17604,7 +17604,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       This application will be installed on your currently used Kahf profile
     </message>
     <message name="IDS_IWA_INSTALLER_SHOW_METADATA_APP_NAME_LABEL" desc="Label before the Isolated Web App name in the pre-install app info summary screen">
-      Application: <ph name="APP_NAME">$1<ex>Brave Maps</ex></ph>
+      Application: <ph name="APP_NAME">$1<ex>Kahf Maps</ex></ph>
     </message>
     <message name="IDS_IWA_INSTALLER_SHOW_METADATA_APP_VERSION_LABEL" desc="Label before the Isolated Web App version in the pre-install app info summary screen">
       Version: <ph name="APP_VERSION">$1<ex>1.0.0</ex></ph>
@@ -17631,7 +17631,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Retry
     </message>
     <message name="IDS_IWA_INSTALLER_SUCCESS_SUBTITLE" desc="Subtitle of the page shown after an Isolated Web App has successfully been installed.">
-      Congrats! <ph name="APP_NAME">$1<ex>Brave Maps</ex></ph> has been successfully installed on your device
+      Congrats! <ph name="APP_NAME">$1<ex>Kahf Maps</ex></ph> has been successfully installed on your device
     </message>
     <message name="IDS_IWA_INSTALLER_SUCCESS_FINISH" desc="Text of the close button shown on the page after an Isolated Web App has been successfully installed">
       Finish

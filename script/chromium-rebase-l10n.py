@@ -1,6 +1,6 @@
 #!/usr/bin/vpython3
 #
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The Kahf Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -117,7 +117,7 @@ def parse_args():
 def generate_overrides_and_replace_strings(source_string_path):
     # pylint: disable=too-many-locals
     # Read the clean GRD and apply only branding replacements (e.g. Chrome ->
-    # Brave).
+    # Kahf).
     original_xml_tree_with_branding_fixes = etree.parse(source_string_path)
     braveify_grd_tree(original_xml_tree_with_branding_fixes, True)
     # Apply all replacements the the clean GRD.

@@ -1,3 +1,3 @@
 # Promoted Content Ad Unit
 
-Displayed on the Brave News feed.
+Displayed on the Kahf News feed.

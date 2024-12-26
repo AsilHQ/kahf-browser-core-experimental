@@ -18,7 +18,7 @@
 namespace translate {
 namespace google_apis {
 std::string GetAPIKey() {
-  return "qztbjzBqJueQZLFkwTTJrieu8Vw3789u";
+   return BUILDFLAG(BRAVE_SERVICES_KEY);
 }
 }  // namespace google_apis
 }  // namespace translate

@@ -2,7 +2,7 @@
 
 Return to [confirmations](../../confirmations/README.md).
 
-See [non-Brave Rewards user confirmation redemption](../../utility/redeem_confirmation/non_reward/README.md), and [Brave Rewards user confirmation token redemption](../../utility/redeem_confirmation/reward/README.md).
+See [non-Kahf Rewards user confirmation redemption](../../utility/redeem_confirmation/non_reward/README.md), and [Kahf Rewards user confirmation token redemption](../../utility/redeem_confirmation/reward/README.md).
 
 ### Further Reading
 

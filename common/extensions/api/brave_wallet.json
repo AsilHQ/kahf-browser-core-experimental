@@ -34,7 +34,7 @@
       }, {
         "name": "notifyWalletUnlock",
         "type": "function",
-        "description": "Called to notify Brave that the wallet was unlocked",
+        "description": "Called to notify Kahf that the wallet was unlocked",
         "parameters": []
       }, {
         "name": "getWalletSeed",
@@ -72,7 +72,7 @@
       }, {
         "name": "getBraveKey",
         "type": "function",
-        "description": "Called to get the Brave service key",
+        "description": "Called to get the Kahf service key",
         "parameters": [],
         "returns_async": {
           "name": "callback",

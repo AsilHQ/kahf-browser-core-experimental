@@ -1,4 +1,4 @@
-# Brave Performance Predictor
+# Kahf Performance Predictor
 
 This component is based on our [blog post](https://brave.com/accurately-predicting-ad-blocker-savings/).
 

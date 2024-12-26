@@ -492,7 +492,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
           Help improve Barve's product stability by automatically sending diagnostic reports when the Kahf Browser crashes or freezes.
         </message>
         <message name="IDS_CRASH_REPORT_PERMISSION_ASK_DIALOG_HEADER_TEXT" desc="The header text for crash report ask dialog">
-          <ph name="BROWSER_NAME">$1<ex>Brave Browser</ex></ph> quit unexpectedly.
+          <ph name="BROWSER_NAME">$1<ex>Kahf Browser</ex></ph> quit unexpectedly.
         </message>
         <message name="IDS_CRASH_REPORT_PERMISSION_ASK_DIALOG_HEADER_TEXT_BROWSER_NAME_PART" desc="This is used for replacing BROWSER_NAME from above HEADER_TEXT.">
           Kahf Browser
@@ -589,7 +589,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
 
         <!-- web Discovery InfoBar -->
         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE" desc="The text for web discovery infobar message">
-          Help improve <ph name="SEARCH_NAME">$1<ex>Brave Search</ex></ph> by sending anonymous usage data.  <ph name="MORE_INFO">$2<ex>More info</ex></ph>
+          Help improve <ph name="SEARCH_NAME">$1<ex>Kahf Search</ex></ph> by sending anonymous usage data.  <ph name="MORE_INFO">$2<ex>More info</ex></ph>
         </message>
         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE_BRAVE_SEARCH" desc="The text for Kahf search part in message">
           Kahf Search

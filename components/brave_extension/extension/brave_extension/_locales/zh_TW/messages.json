@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Brave 擴充功能",
+    "message": "Kahf 擴充功能",
     "description": "The name of the extension."
   },
   "shields": {
@@ -24,12 +24,12 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "您瀏覽此網站時沒有 Brave 的隱私與安全保護。Shields 開啟時無法正常運作嗎？",
+    "message": "您瀏覽此網站時沒有 Kahf 的隱私與安全保護。Shields 開啟時無法正常運作嗎？",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
     "message": "回報壞掉的網站",
-    "description": "Message for the button allowing users to report a broken site to Brave developers"
+    "description": "Message for the button allowing users to report a broken site to Kahf developers"
   },
   "itemsBlocked": {
     "message": "個已阻擋的項目",
@@ -188,8 +188,8 @@
     "description": "Message for the simple view option"
   },
   "shieldsExplanation": {
-    "message": "網站經常包含試圖辨識您與您的裝置的 cookies 與指令碼（通常會嵌入到廣告中）。他們希望了解您的身份，並在網路上追蹤您，每個網站上都是。Brave 會阻擋這些事情，這樣您就可以不被追蹤地瀏覽網頁。",
-    "description": "Message in read-only view explaining what Brave Shields do"
+    "message": "網站經常包含試圖辨識您與您的裝置的 cookies 與指令碼（通常會嵌入到廣告中）。他們希望了解您的身份，並在網路上追蹤您，每個網站上都是。Kahf 會阻擋這些事情，這樣您就可以不被追蹤地瀏覽網頁。",
+    "description": "Message in read-only view explaining what Kahf Shields do"
   },
   "blockedResoucesExplanation": {
     "message": "已封鎖跨頁面追蹤器與其他令人毛骨悚然的事物",
@@ -207,13 +207,13 @@
     "message": "更多資訊",
     "description": "Message inviting the user to learn more about Shields"
   },
-  "addToBrave": {
-    "message": "新增至 Brave",
-    "description": "Message for adding an extension to Brave"
+  "addToKahf": {
+    "message": "新增至 Kahf",
+    "description": "Message for adding an extension to Kahf"
   },
-  "removeFromBrave": {
-    "message": "從 Brave 中移除",
-    "description": "Message for removing an extension from Brave"
+  "removeFromKahf": {
+    "message": "從 Kahf 中移除",
+    "description": "Message for removing an extension from Kahf"
   },
   "addToChrome": {
     "message": "加到 Chrome",
