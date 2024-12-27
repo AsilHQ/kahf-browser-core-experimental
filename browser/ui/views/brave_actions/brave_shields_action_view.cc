@@ -44,6 +44,8 @@
 #include "ui/views/view_class_properties.h"
 #include "url/gurl.h"
 
+#include "base/logging.h" 
+
 namespace {
 constexpr SkColor kBadgeBg = SkColorSetRGB(0x63, 0x64, 0x72);
 class BraveShieldsActionViewHighlightPathGenerator
@@ -198,24 +200,46 @@ void BraveShieldsActionView::UpdateIconState() {
                 ui::ImageModel::FromImageSkia(icon));
 }
 
+
 void BraveShieldsActionView::ButtonPressed() {
+  LOG(ERROR) << "ButtonPressed() called.";
+
   auto* web_content = tab_strip_model_->GetActiveWebContents();
+  LOG(ERROR) << "Retrieved active web contents: " 
+             << (web_content != nullptr ? "Valid" : "Null");
+
   if (web_content && SchemeIsLocal(web_content->GetLastCommittedURL())) {
+    LOG(ERROR) << "Local scheme detected (" 
+               << web_content->GetLastCommittedURL().spec() 
+               << "). Bubble will not be shown.";
     return;  // Do not show bubble if it's a local scheme
   }
 
   if (!webui_bubble_manager_) {
+    LOG(ERROR) << "webui_bubble_manager_ is null. Creating a new instance.";
     webui_bubble_manager_ = WebUIBubbleManager::Create<ShieldsPanelUI>(
         this, &*profile_, GURL(kShieldsPanelURL), IDS_BRAVE_SHIELDS);
+    
+    if (!webui_bubble_manager_) {
+      LOG(ERROR) << "Failed to create webui_bubble_manager_.";
+      return;  // Early return if creation failed
+    }
+  } else {
+    LOG(ERROR) << "webui_bubble_manager_ already exists.";
   }
 
   if (webui_bubble_manager_->GetBubbleWidget()) {
+    LOG(ERROR) << "Bubble widget already open. Closing the bubble.";
     webui_bubble_manager_->CloseBubble();
     return;
+  } else {
+    LOG(ERROR) << "No bubble widget open. Showing the bubble.";
   }
 
   webui_bubble_manager_->ShowBubble();
+  LOG(ERROR) << "Bubble has been shown.";
 }
+
 
 bool BraveShieldsActionView::SchemeIsLocal(GURL url) {
   return url.SchemeIs(url::kAboutScheme) || url.SchemeIs(url::kBlobScheme) ||

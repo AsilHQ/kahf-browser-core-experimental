@@ -212,7 +212,7 @@ const PrepopulatedEngine brave_yandex =
                        PREPOPULATED_ENGINE_ID_YANDEX);
 
 const PrepopulatedEngine brave_search = MakeBravePrepopulatedEngine(
-    u"Brave",
+    u"Kahf",
     u":br",
     "https://cdn.search.brave.com/serp/favicon.ico",
     "https://www.google.com/search?q={searchTerms}&source="

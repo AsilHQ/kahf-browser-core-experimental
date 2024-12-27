@@ -28,6 +28,7 @@
       "contexts": ["webui"],
       "matches": [
         "chrome://brave-shields.top-chrome/*",
+        "chrome://kahf-shields.top-chrome/*",
         "chrome://rewards-panel.top-chrome/*",
         "chrome://wallet-panel.top-chrome/*",
         "chrome://wallet/*"
