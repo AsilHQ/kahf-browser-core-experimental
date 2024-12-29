@@ -214,7 +214,7 @@ const PrepopulatedEngine brave_yandex =
 const PrepopulatedEngine brave_search = MakeBravePrepopulatedEngine(
     u"Kahf",
     u":br",
-    "https://cdn.search.brave.com/serp/favicon.ico",
+    "https://kahfbrowser.com/wp-content/uploads/2024/02/kahf-logo-combined.svg",
     "https://www.google.com/search?q={searchTerms}&source="
 #if BUILDFLAG(IS_ANDROID)
     "android",

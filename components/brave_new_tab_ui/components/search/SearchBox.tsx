@@ -25,6 +25,7 @@ const SearchInput = styled(Input)`
 
   display: inline-block;
   width: 540px;
+  overflow: hidden;
 
   leo-icon {
     --leo-icon-color: rgba(255, 255, 255, 0.5);
@@ -75,7 +76,7 @@ export default function SearchBox() {
     }
   }, [])
   return <Container className={searchBoxClass}>
-    <SearchInput tabIndex={1} type="text" ref={searchInput} value={query} onInput={e => setQuery(e.value)} placeholder={placeholderText}>
+    <SearchInput tabIndex={1} type="text" ref={searchInput} value={query} onInput={e => setQuery(e.value)} placeholder={placeholderText} >
       <div style={{ height: '24px', width: '24px', marginBottom: '14px', marginLeft: '6px' }}>
       <Flex slot="left-icon" align='center'>
       <SearchBoxSvgComponent />
