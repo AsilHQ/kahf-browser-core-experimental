@@ -33,7 +33,7 @@ function isSupportedLocale (key: PromotionKey, countryCode: string) {
 export function getPromotionURL (key: PromotionKey) {
   switch (key) {
     case 'bitflyer-verification':
-      return 'https://kahf.co/'
+      return 'https://kahfbrowser.com/'
     case 'brave-creators':
       return 'https://creators.brave.com'
     case 'tap-network':

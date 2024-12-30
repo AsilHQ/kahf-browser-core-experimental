@@ -14,7 +14,7 @@ _BRAVE_VALUES = {
   'build': 'brave',
   'app_name': 'Brave',
   'doc_url':
-    'https://kahf.co/',
+    'https://kahfbrowser.com/',
   'frame_name': 'Brave Frame',
   'webview_name': 'Brave WebView',
   'win_config': {

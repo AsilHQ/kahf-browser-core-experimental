@@ -60,8 +60,8 @@ addTrezorCommandHandler(
         connectSrc: 'https://connect.trezor.io/9/',
         lazyLoad: false,
         manifest: {
-          email: 'support@kahf.co',
-          appUrl: 'https://kahf.co'
+          email: 'support@kahfbrowser.com',
+          appUrl: 'https://kahfbrowser.com'
         }
       })
         .then(() => {

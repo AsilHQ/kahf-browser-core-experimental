@@ -31,7 +31,7 @@ import org.chromium.ui.text.NoUnderlineClickableSpan;
 
 public class TippingVerifiedCreatorToolTip {
     private static final String NEW_SIGNUP_DISABLED_URL =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     private PopupWindow mPopupWindow;
     public TippingVerifiedCreatorToolTip(@NonNull Context context) {

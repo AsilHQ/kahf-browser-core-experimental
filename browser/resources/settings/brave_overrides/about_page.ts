@@ -37,7 +37,7 @@ RegisterPolymerTemplateModifications({
       wrapper.setAttribute('id', 'release-notes')
       wrapper.setAttribute('target', '_blank')
       wrapper.setAttribute('rel', 'noopener noreferrer')
-      wrapper.setAttribute('href', 'https://kahf.co/')
+      wrapper.setAttribute('href', 'https://kahfbrowser.com/')
       parent.replaceChild(wrapper, version)
       wrapper.appendChild(version)
     }
@@ -46,11 +46,11 @@ RegisterPolymerTemplateModifications({
     const updateStatusMessageLink = section.querySelector('#updateStatusMessage a')
     if (updateStatusMessageLink) {
       // <if expr="is_win">
-      updateStatusMessageLink.href = 'https://kahf.co/'
+      updateStatusMessageLink.href = 'https://kahfbrowser.com/'
       // </if>
 
       // <if expr="not is_win">
-      updateStatusMessageLink.href = 'https://kahf.co/'
+      updateStatusMessageLink.href = 'https://kahfbrowser.com/'
       // </if>
     }
   }

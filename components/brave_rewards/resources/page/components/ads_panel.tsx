@@ -30,7 +30,7 @@ import { AlertIcon } from './icons/alert_icon'
 import * as urls from '../../shared/lib/rewards_urls'
 import * as style from './ads_panel.style'
 
-const adsFaqURL = 'https://kahf.co/'
+const adsFaqURL = 'https://kahfbrowser.com/'
 
 export function AdsPanel () {
   const { getString } = React.useContext(LocaleContext)

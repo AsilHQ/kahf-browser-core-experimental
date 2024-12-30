@@ -18,7 +18,7 @@ export const defaultTopSitesData = [
   },
   {
     name: 'Halalz',
-    url: 'https://kahf.co',
+    url: 'https://kahfbrowser.com',
     favicon: BraveFavicon,
     background: 'rgba(255,255,255,0.8)'
   },

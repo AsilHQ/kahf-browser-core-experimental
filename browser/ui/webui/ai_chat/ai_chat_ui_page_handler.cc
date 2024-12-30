@@ -34,13 +34,13 @@
 namespace {
 constexpr uint32_t kDesiredFaviconSizePixels = 32;
 constexpr char kURLRefreshPremiumSession[] =
-    "https://kahf.co/";
+    "https://kahfbrowser.com/";
 constexpr char kURLLearnMoreBraveSearchLeo[] =
-    "https://kahf.co/";
+    "https://kahfbrowser.com/";
 #if !BUILDFLAG(IS_ANDROID)
 constexpr char kURLGoPremium[] =
-    "https://kahf.co/";
-constexpr char kURLManagePremium[] = "https://kahf.co/";
+    "https://kahfbrowser.com/";
+constexpr char kURLManagePremium[] = "https://kahfbrowser.com/";
 #endif
 }  // namespace
 

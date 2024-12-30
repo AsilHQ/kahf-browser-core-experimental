@@ -75,7 +75,7 @@ function HelpImprove () {
             isChecked={isMetricsReportingEnabled}
           >
             {diagnosticReportsLabel.beforeTag}
-            <a href="https://kahf.co//articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank">
+            <a href="https://kahfbrowser.com/articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank">
               {diagnosticReportsLabel.duringTag}
             </a>
             {diagnosticReportsLabel.afterTag}
@@ -86,7 +86,7 @@ function HelpImprove () {
             isChecked={isP3AEnabled}
           >
             {braveProductUsageDataLabel.beforeTag}
-            <a href="https://kahf.co//articles/9140465918093-What-is-P3A-in-Brave-" target="_blank">
+            <a href="https://kahfbrowser.com/articles/9140465918093-What-is-P3A-in-Brave-" target="_blank">
               {braveProductUsageDataLabel.duringTag}
             </a>
             {braveProductUsageDataLabel.afterTag}
@@ -110,7 +110,7 @@ function HelpImprove () {
             {changeSettingsNote.afterTag}
             <span>
               {readPrivacyPolicy.beforeTag}
-              <a href="https://kahf.co/" target="_blank">
+              <a href="https://kahfbrowser.com/" target="_blank">
                 {readPrivacyPolicy.duringTag}
               </a>
               {readPrivacyPolicy.afterTag}

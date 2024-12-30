@@ -55,7 +55,7 @@ export interface Props {
 }
 
 const onClickInstructions = () => {
-  const url = 'https://kahf.co/'
+  const url = 'https://kahfbrowser.com/'
 
   chrome.tabs.create({ url }, () => {
     if (chrome.runtime.lastError) {

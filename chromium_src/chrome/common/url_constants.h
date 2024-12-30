@@ -18,24 +18,24 @@ namespace chrome {
 
 // "Learn more" URL linked in the dialog to cast using a code.
 inline constexpr char kAccessCodeCastLearnMoreURL[] =
-    "https://kahf.co/contact";
+    "https://kahfbrowser.com/contact";
 
 // "Learn more" URL for accessibility image labels, linked from the permissions
 // dialog shown when a user enables the feature.
 inline constexpr char kAccessibilityLabelsLearnMoreURL[] =
-    "https://kahf.co/contact";
+    "https://kahfbrowser.com/contact";
 
 // "Learn more" URL for Ad Privacy.
-inline constexpr char kAdPrivacyLearnMoreURL[] = "https://kahf.co/contact";
+inline constexpr char kAdPrivacyLearnMoreURL[] = "https://kahfbrowser.com/contact";
 
 // "Learn more" URL for when profile settings are automatically reset.
 inline constexpr char kAutomaticSettingsResetLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360017903152-How-do-I-reset-Brave-settings-to-default-";
 
 // "Learn more" URL for Advanced Protection download warnings.
 inline constexpr char kAdvancedProtectionDownloadLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // "Chrome Settings" URL for the appearance page.
 inline constexpr char kBrowserSettingsSearchEngineURL[] =
@@ -43,20 +43,20 @@ inline constexpr char kBrowserSettingsSearchEngineURL[] =
 
 // "Learn more" URL for Battery Saver Mode.
 inline constexpr char kBatterySaverModeLearnMoreUrl[] =
-    "https://kahf.co/contact/?13380606172557";
+    "https://kahfbrowser.com/contact/?13380606172557";
 
 // The URL for providing help when the Bluetooth adapter is off.
 inline constexpr char kBluetoothAdapterOffHelpURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // "Learn more" URL shown in the dialog to enable cloud services for Cast.
 inline constexpr char kCastCloudServicesHelpURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the help center article to show when no Cast destination has been
 // found.
 inline constexpr char kCastNoDestinationFoundURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the WebHID API help center article.
 inline constexpr char kChooserHidOverviewUrl[] =
@@ -99,7 +99,7 @@ inline constexpr char16_t kIsolatedAppSchemeUtf16[] = u"isolated-app";
 inline constexpr char kChromeNativeScheme[] = "chrome-native";
 
 // The URL of safe section in Chrome page.
-inline constexpr char16_t kChromeSafePageURL[] = u"https://kahf.co/contact";
+inline constexpr char16_t kChromeSafePageURL[] = u"https://kahfbrowser.com/contact";
 
 // Pages under chrome-search.
 inline constexpr char kChromeSearchLocalNtpHost[] = "local-ntp";
@@ -148,55 +148,55 @@ inline constexpr char16_t kChromiumProjectURL[] =
     u"https://github.com/AsilHQ/asil-core";
 
 inline constexpr char16_t kContentSettingsExceptionsLearnMoreURL[] =
-    u"https://kahf.co/contact/?"
+    u"https://kahfbrowser.com/contact/?"
     u"360018205431-How-do-I-change-site-permissions-";
 
 // "Learn more" URL for cookies.
 inline constexpr char kCookiesSettingsHelpCenterURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018205431-How-do-I-change-site-permissions-";
 
 // "Learn more" URL for "Aw snap" page when showing "Reload" button.
 inline constexpr char kCrashReasonURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018192251-How-do-I-fix-page-crashes-and-other-page-loading-errors-";
 
 // "Learn more" URL for "Aw snap" page when showing "Send feedback" button.
 inline constexpr char kCrashReasonFeedbackDisplayedURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018192251-How-do-I-fix-page-crashes-and-other-page-loading-errors-";
 
 // "Learn more" URL for the inactive tabs appearance setting.
 inline constexpr char16_t kDiscardRingTreatmentLearnMoreUrl[] =
-    u"https://kahf.co/contact/?"
+    u"https://kahfbrowser.com/contact/?"
     u"13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave";
 
 // "Learn more" URL for the "Do not track" setting in the privacy section.
 inline constexpr char16_t kDoNotTrackLearnMoreURL[] =
-    u"https://kahf.co/contact/?"
+    u"https://kahfbrowser.com/contact/?"
     u"360017905612-How-do-I-turn-Do-Not-Track-on-or-off-";
 
 // The URL for the "Learn more" page for interrupted downloads.
 inline constexpr char kDownloadInterruptedLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018192491-How-do-I-fix-file-download-errors-";
 
 // The URL for the "Learn more" page for download scanning.
 inline constexpr char kDownloadScanningLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018192491-How-do-I-fix-file-download-errors-";
 
 // The URL for the "Learn more" page for blocked downloads.
 // Note: This is the same as the above URL. This is done to decouple the URLs,
 // in case the support page is split apart into separate pages in the future.
 inline constexpr char kDownloadBlockedLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018192491-How-do-I-fix-file-download-errors-";
 
 // "Learn more" URL for the Settings API, NTP bubble and other settings bubbles
 // showing which extension is controlling them.
 inline constexpr char kExtensionControlledSettingLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018185651-How-do-I-stop-extensions-from-changing-my-settings-";
 
 // URL used to indicate that an extension resource load request was invalid.
@@ -204,10 +204,10 @@ inline constexpr char kExtensionInvalidRequestURL[] =
     "chrome-extension://invalid/";
 
 // Link for creating family group with Google Families.
-inline constexpr char16_t kFamilyGroupCreateURL[] = u"https://kahf.co/contact";
+inline constexpr char16_t kFamilyGroupCreateURL[] = u"https://kahfbrowser.com/contact";
 
 // Link for viewing family group with Google Families.
-inline constexpr char16_t kFamilyGroupViewURL[] = u"https://kahf.co/contact";
+inline constexpr char16_t kFamilyGroupViewURL[] = u"https://kahfbrowser.com/contact";
 
 // Url to a blogpost about Flash deprecation.
 inline constexpr char kFlashDeprecationLearnMoreURL[] =
@@ -245,12 +245,12 @@ inline constexpr char kGooglePasswordManagerURL[] = "https://support.brave.com";
 
 // The URL for the "Learn more" link for the High Efficiency Mode.
 inline constexpr char kMemorySaverModeLearnMoreUrl[] =
-    "https://kahf.co/contact/?13383683902733";
+    "https://kahfbrowser.com/contact/?13383683902733";
 
 // The URL in the help text for the High Efficiency Mode tab discarding
 // exceptions add dialog.
 inline constexpr char16_t kMemorySaverModeTabDiscardingHelpUrl[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL to the help center article of Incognito mode.
 inline constexpr char16_t kIncognitoHelpCenterURL[] =
@@ -263,47 +263,47 @@ inline constexpr char kIpProtectionHelpCenterURL[] =
 // The URL for the "Learn more" page for the usage/crash reporting option in the
 // first run dialog.
 inline constexpr char kLearnMoreReportingURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360017905872-How-do-I-enable-or-disable-automatic-crash-reporting-";
 
 // The URL for the Help Center page about managing third-party cookies.
-inline constexpr char kManage3pcHelpCenterURL[] = "https://kahf.co/contact/";
+inline constexpr char kManage3pcHelpCenterURL[] = "https://kahfbrowser.com/contact/";
 
 // The URL for the tab group sync help center page.
-inline constexpr char kTabGroupsLearnMoreURL[] = "https://kahf.co/contact/";
+inline constexpr char kTabGroupsLearnMoreURL[] = "https://kahfbrowser.com/contact/";
 
 // The URL for the Learn More page about policies and enterprise enrollment.
 inline constexpr char16_t kManagedUiLearnMoreUrl[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL for the "Learn more" page for insecure download blocking.
 inline constexpr char kInsecureDownloadBlockingLearnMoreUrl[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // "myactivity.google.com" URL for the history checkbox in ClearBrowsingData.
 inline constexpr char16_t kMyActivityUrlInClearBrowsingData[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // Help URL for the Omnibox setting.
 inline constexpr char16_t kOmniboxLearnMoreURL[] =
-    u"https://kahf.co/contact/?"
+    u"https://kahfbrowser.com/contact/?"
     u"360017479752-How-do-I-set-my-default-search-engine-";
 
 // "What do these mean?" URL for the Page Info bubble.
 inline constexpr char kPageInfoHelpCenterURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018185871-How-do-I-check-if-a-site-s-connection-is-secure-";
 
 // Help URL for the bulk password check.
 inline constexpr char kPasswordCheckLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // Help URL for password generation.
 inline constexpr char kPasswordGenerationLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 inline constexpr char16_t kPasswordManagerLearnMoreURL[] =
-    u"https://kahf.co/contact/?"
+    u"https://kahfbrowser.com/contact/?"
     u"360018185951-How-do-I-use-the-built-in-password-manager-";
 
 // Help URL for passwords import.
@@ -312,11 +312,11 @@ inline constexpr char kPasswordManagerImportLearnMoreURL[] =
 
 // Help URL for password sharing.
 inline constexpr char kPasswordSharingLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // Help URL for troubleshooting password sharing.
 inline constexpr char kPasswordSharingTroubleshootURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // Help URL for the Payment methods page of the Google Pay site.
 inline constexpr char16_t kPaymentMethodsURL[] = u"https://support.brave.com";
@@ -342,80 +342,80 @@ inline constexpr char kPreloadingLearnMoreUrl[] = "https://support.brave.com";
 
 // "Learn more" URL for the Privacy section under Options.
 inline constexpr char kPrivacyLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360017989132-How-do-I-change-my-Privacy-Settings-";
 
 // The URL for the Learn More link of the non-CWS bubble.
 inline constexpr char kRemoveNonCWSExtensionURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360017914832-Why-am-I-seeing-the-message-extensions-disabled-by-Brave-";
 
 // "Learn more" URL for resetting profile preferences.
 inline constexpr char kResetProfileSettingsLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360017903152-How-do-I-reset-Brave-settings-to-default-";
 
 // "Learn more" URL for Safebrowsing
 inline constexpr char kSafeBrowsingHelpCenterURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "15222663599629-Safe-Browsing-in-Brave";
 
 // Updated "Info icon" URL for Safebrowsing
 inline constexpr char kSafeBrowsingHelpCenterUpdatedURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // "Learn more" URL for Enhanced Protection
 inline constexpr char16_t kSafeBrowsingInChromeHelpCenterURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL of Safe Browsing p-tour.
 inline constexpr char16_t kSafeBrowsingUseInChromeURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // "Learn more" URL for Safety Check page.
 inline constexpr char16_t kSafetyHubHelpCenterURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // "Learn more" URL for safety tip bubble.
 inline constexpr char kSafetyTipHelpCenterURL[] =
-    "https://kahf.co/contact/?17550072876045-Lookalike-URLs";
+    "https://kahfbrowser.com/contact/?17550072876045-Lookalike-URLs";
 
 // Google search history URL that leads users of the CBD dialog to their search
 // history in their Google account.
 inline constexpr char16_t kSearchHistoryUrlInClearBrowsingData[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL for the "See more security tips" with advices how to create a strong
 // password.
-inline constexpr char kSeeMoreSecurityTipsURL[] = "https://kahf.co/contact/";
+inline constexpr char kSeeMoreSecurityTipsURL[] = "https://kahfbrowser.com/contact/";
 
 // Help URL for the settings page's search feature.
 inline constexpr char16_t kSettingsSearchHelpURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL for the Learn More page about Sync and Google services.
 inline constexpr char kSyncAndGoogleServicesLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the "Learn more" page on sync encryption.
 inline constexpr char16_t kSyncEncryptionHelpURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL for the "Learn more" link when there is a sync error.
-inline constexpr char kSyncErrorsHelpURL[] = "https://kahf.co/contact/";
+inline constexpr char kSyncErrorsHelpURL[] = "https://kahfbrowser.com/contact/";
 
-inline constexpr char kSyncGoogleDashboardURL[] = "https://kahf.co/contact/";
+inline constexpr char kSyncGoogleDashboardURL[] = "https://kahfbrowser.com/contact/";
 
 // The URL for the "Learn more" page for sync setup on the personal stuff page.
-inline constexpr char16_t kSyncLearnMoreURL[] = u"https://kahf.co/contact/";
+inline constexpr char16_t kSyncLearnMoreURL[] = u"https://kahfbrowser.com/contact/";
 
 // The URL for the "Learn more" page for Help me Write.
-inline constexpr char kComposeLearnMorePageURL[] = "https://kahf.co/contact/";
+inline constexpr char kComposeLearnMorePageURL[] = "https://kahfbrowser.com/contact/";
 
 // The URL for the "Learn more" links for pages related to History search.
 // TODO(crbug.com/328300718): Update help article URL.
 inline constexpr char kHistorySearchLearnMorePageURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the Settings page to enable history search.
 inline constexpr char16_t kHistorySearchSettingURL[] =
@@ -437,28 +437,28 @@ inline constexpr char kTabOrganizationLearnMorePageURL[] =
 // The URL for the "Learn more" link in the enterprise disclaimer for managed
 // profile in the Signin Intercept bubble.
 inline constexpr char kSigninInterceptManagedDisclaimerLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 #if !BUILDFLAG(IS_ANDROID)
 // The URL for the trusted vault sync passphrase opt in.
 inline constexpr char kSyncTrustedVaultOptInURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 #endif
 
 // The URL for the "Learn more" link for the trusted vault sync passphrase.
 inline constexpr char kSyncTrustedVaultLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the Help Center page about Tracking Protection settings.
 inline constexpr char16_t kTrackingProtectionHelpCenterURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 // The URL for the Help Center page about User Bypass.
 inline constexpr char16_t kUserBypassHelpCenterURL[] =
-    u"https://kahf.co/contact/";
+    u"https://kahfbrowser.com/contact/";
 
 inline constexpr char kUpgradeHelpCenterBaseURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360025390311-How-do-I-download-and-install-Brave-";
 
 // Help center URL for who the account administrator is.
@@ -487,31 +487,31 @@ inline constexpr char kEnhancedPlaybackNotificationLearnMoreURL[] =
 #if BUILDFLAG(IS_MAC)
 // "Learn more" URL for the enterprise sign-in confirmation dialog.
 inline constexpr char kChromeEnterpriseSignInLearnMoreURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the "learn more" link on the macOS version obsolescence infobar.
 inline constexpr char kMacOsObsoleteURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "18347246446733-Changes-to-macOS-desktop-browser-requirements";
 #endif
 
 #if BUILDFLAG(IS_WIN)
 // The URL for the Windows XP/Vista deprecation help center article.
 inline constexpr char kWindowsXPVistaDeprecationURL[] =
-    "https://kahf.co/contact/";
+    "https://kahfbrowser.com/contact/";
 
 // The URL for the Windows 7/8.1 deprecation help center article.
 inline constexpr char kWindows78DeprecationURL[] =
-    "https://kahf.co/contact/?11197967945613";
+    "https://kahfbrowser.com/contact/?11197967945613";
 #endif  // BUILDFLAG(IS_WIN)
 
 // "Learn more" URL for the one click signin infobar.
-inline constexpr char kChromeSyncLearnMoreURL[] = "https://kahf.co/contact/";
+inline constexpr char kChromeSyncLearnMoreURL[] = "https://kahfbrowser.com/contact/";
 
 #if BUILDFLAG(ENABLE_PLUGINS)
 // The URL for the "Learn more" page for the outdated plugin infobar.
 inline constexpr char kOutdatedPluginLearnMoreURL[] =
-    "https://kahf.co/contact/?"
+    "https://kahfbrowser.com/contact/?"
     "360018163151-How-do-I-manage-Flash-audio-video-";
 #endif
 

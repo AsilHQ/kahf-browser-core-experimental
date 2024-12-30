@@ -24,7 +24,7 @@ public class BraveIntentHandler {
     public static final String CONNECTION_INFO_HELP_URL =
             "https://support.google.com/chrome?p=android_connection_info";
     public static final String BRAVE_CONNECTION_INFO_HELP_URL =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     /**
      * Helper method to extract the raw URL from the intent, without further processing.

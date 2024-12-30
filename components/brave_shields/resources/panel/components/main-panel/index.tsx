@@ -36,7 +36,7 @@ function MainPanel () {
   }
 
   const handleLearnMoreClick = () => {
-    chrome.tabs.create({ url: 'https://kahf.co/', active: true })
+    chrome.tabs.create({ url: 'https://kahfbrowser.com/', active: true })
   }
 
   const onSettingsClick = () => {

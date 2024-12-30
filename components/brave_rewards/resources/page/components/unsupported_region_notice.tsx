@@ -28,7 +28,7 @@ export function UnsupportedRegionNotice () {
             formatMessage(getString('unsupportedRegionNoticeLearnMore'), {
               tags: {
                 $1: (content) => (
-                  <NewTabLink key='learn' href='https://kahf.co/'>
+                  <NewTabLink key='learn' href='https://kahfbrowser.com/'>
                     {content}
                   </NewTabLink>
                 )

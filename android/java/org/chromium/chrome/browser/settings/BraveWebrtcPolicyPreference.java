@@ -45,7 +45,7 @@ public class BraveWebrtcPolicyPreference
     private TextView mLearnMore;
     private ArrayList<RadioButtonWithDescription> mButtons;
     protected static final String FALLBACK_SUPPORT_URL =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     @SuppressLint("WrongConstant")
     public BraveWebrtcPolicyPreference(Context context, AttributeSet attrs) {

@@ -19,7 +19,7 @@ namespace {
 constexpr char kReminderNotificationAdPlacementId[] =
     "e64373ac-2ca5-4f6b-b497-1f1d7ccd40c8";
 constexpr char kReminderNotificationAdTargetUrl[] =
-    "https://kahf.co/";
+    "https://kahfbrowser.com/";
 
 }  // namespace
 

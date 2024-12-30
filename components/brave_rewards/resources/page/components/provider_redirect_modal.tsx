@@ -59,7 +59,7 @@ export function ProviderRedirectModal () {
             getString('redirectModalFlaggedWalletText2'),
             getString('redirectModalFlaggedWalletText3'),
             getString('redirectModalFlaggedWalletText4')]}
-          errorTextLink={'https://kahf.co/'}
+          errorTextLink={'https://kahfbrowser.com/'}
           titleText={getString('redirectModalFlaggedWalletTitle')}
           buttonText={getString('redirectModalClose')}
           walletType={walletType}
@@ -83,7 +83,7 @@ export function ProviderRedirectModal () {
           id={'redirect-modal-mismatched-countries'}
           errorText={[getString('redirectModalMismatchedCountriesText').replace('$1', providerName)]}
           titleText={getString('redirectModalMismatchedCountriesTitle')}
-          learnMore={'https://kahf.co/'}
+          learnMore={'https://kahfbrowser.com/'}
           buttonText={getString('redirectModalClose')}
           walletType={walletType}
           onClick={actions.hideRedirectModal}
@@ -95,7 +95,7 @@ export function ProviderRedirectModal () {
           id={'redirect-modal-mismatched-provider-accounts'}
           errorText={[getString('redirectModalMismatchedProviderAccountsText').replace('$1', providerName)]}
           titleText={getString('redirectModalMismatchedProviderAccountsTitle')}
-          learnMore={'https://kahf.co/360034841711-What-is-a-verified-wallet-'}
+          learnMore={'https://kahfbrowser.com/360034841711-What-is-a-verified-wallet-'}
           buttonText={getString('redirectModalClose')}
           walletType={walletType}
           onClick={actions.hideRedirectModal}
@@ -123,7 +123,7 @@ export function ProviderRedirectModal () {
             getString('redirectModalRegionNotSupportedText1').replaceAll('$1', providerName),
             getString('redirectModalRegionNotSupportedText2')]}
           titleText={getString('redirectModalRegionNotSupportedTitle')}
-          errorTextLink={'https://kahf.co/'}
+          errorTextLink={'https://kahfbrowser.com/'}
           buttonText={getString('redirectModalClose')}
           walletType={walletType}
           onClick={actions.hideRedirectModal}

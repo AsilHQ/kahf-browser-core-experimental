@@ -101,7 +101,7 @@ export const WalletSettingsMenu = (props: Props) => {
   const onClickHelpCenter = React.useCallback(() => {
     chrome.tabs.create(
       {
-        url: 'https://kahf.co/'
+        url: 'https://kahfbrowser.com/'
       },
       () => {
         if (chrome.runtime.lastError) {

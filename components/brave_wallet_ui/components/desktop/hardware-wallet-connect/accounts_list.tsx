@@ -272,7 +272,7 @@ export const HardwareWalletAccountsList = ({
               >
                 <DropdownLabel>{getLocale('braveWalletHDPath')}</DropdownLabel>
                 <HelpLink
-                  href='https://kahf.co/'
+                  href='https://kahfbrowser.com/'
                   target='_blank'
                   rel='noopener noreferrer'
                 >

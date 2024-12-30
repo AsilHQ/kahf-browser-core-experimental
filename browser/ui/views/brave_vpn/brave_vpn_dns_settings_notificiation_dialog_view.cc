@@ -27,7 +27,7 @@ namespace brave_vpn {
 namespace {
 
 constexpr char kBraveVPNLearnMoreURL[] =
-    "https://kahf.co/";
+    "https://kahfbrowser.com/";
 
 constexpr int kChildSpacing = 16;
 constexpr int kPadding = 24;

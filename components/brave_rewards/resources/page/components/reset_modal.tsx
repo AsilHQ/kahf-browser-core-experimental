@@ -14,7 +14,7 @@ import { PageModal } from './page_modal'
 
 import * as style from './reset_modal.style'
 
-const supportURL = 'https://kahf.co/'
+const supportURL = 'https://kahfbrowser.com/'
 
 interface Props {
   onReset: () => void

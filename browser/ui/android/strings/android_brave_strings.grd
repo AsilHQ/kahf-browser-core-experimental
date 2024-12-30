@@ -399,7 +399,7 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
         exchange
       </message>
       <message name="IDS_BRAVE_REWARDS_TIP_SUCCESS_TWEET" desc="Text of a tweet after tipping a verified creator.">
-        I just contributed <ph name="AMOUNT">%1$s<ex>ContributionAmount</ex></ph> BAT using the Kahf Browser. See how you can support your favorite creators and sites too: https://Kahf.com/rewards
+        I just contributed <ph name="AMOUNT">%1$s<ex>ContributionAmount</ex></ph> BAT using the Kahf Browser. See how you can support your favorite creators and sites too: https://kahfbrowser.com/rewards
       </message>
       <message name="IDS_DE_AMP_SWITCH" desc="Switch to activate De-AMP feature">
         Auto-redirect AMP pages
@@ -1361,10 +1361,10 @@ Are you sure you want to do this?
         To sync passwords, please enable biometrics/passcode authentication on your Android device. This extra security measure helps keep your passwords safe.
       </message>
       <message name="IDS_BRAVE_PRIVACY_NOTICE_URL" desc="URL for the Kahf privacy notice" translateable="false">
-        https://Kahf.com/privacy_android
+        https://kahfbrowser.com/privacy_android
       </message>
       <message name="IDS_BRAVE_TERMS_OF_SERVICE_URL" desc="URL for Kahf Terms of Service" translateable="false">
-        https://Kahf.com/terms_of_use
+        https://kahfbrowser.com/terms_of_use
       </message>
       <message name="IDS_BRAVE_LICENSE_TEXT" desc="Title for Kahf License">
         Kahf License
@@ -1400,7 +1400,7 @@ Are you sure you want to do this?
         Pending Contribution
       </message>
       <message name="IDS_BRAVE_UI_VERIFIED_PUBLISHER_NOTIFICATION" desc="Notification text that tells user which publisher just verified">
-        Creator <ph name="PUBLISHER_NAME">%1$s<ex>Kahf.com</ex></ph> recently verified
+        Creator <ph name="PUBLISHER_NAME">%1$s<ex>kahfbrowser.com</ex></ph> recently verified
       </message>
       <message name="IDS_TOKEN" desc="Text for token">
         token

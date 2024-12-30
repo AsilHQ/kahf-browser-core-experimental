@@ -65,7 +65,7 @@ public class WelcomeOnboardingActivity extends FirstRunActivityBase {
     // mInitializeViewsDone and mInvokePostWorkAtInitializeViews are accessed
     // from the same thread, so no need to use extra locks
     private static final String P3A_URL =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     private static final String TAG = "WelcomeOnboarding";
 

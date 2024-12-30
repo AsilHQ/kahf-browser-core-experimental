@@ -81,7 +81,7 @@ interface Props {
 // https://github.com/brave/brave-browser/issues/39708
 const onClickLearnMore = () => {
   window.open(
-    'https://kahf.co/',
+    'https://kahfbrowser.com/',
     '_blank',
     'noreferrer'
   )

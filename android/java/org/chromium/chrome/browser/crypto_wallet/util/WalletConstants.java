@@ -28,14 +28,14 @@ public final class WalletConstants {
 
     // Brave
     public static final String URL_SIGN_TRANSACTION_REQUEST =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     // NFT Auto Discovery
     public static final String NFT_DISCOVERY_LEARN_MORE_LINK =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     public static final String WALLET_HELP_CENTER =
-            "https://kahf.co/";
+            "https://kahfbrowser.com/";
 
     // Regex
     public static final String REGX_ANY_ETH_ADDRESS = ".*(0x[a-fA-F0-9]{40}).*";

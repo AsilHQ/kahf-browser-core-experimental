@@ -5,5 +5,5 @@
 
 export const SUPPORT_LINKS = {
   WhatIsTheAssociatedTokenAccountProgram:
-    'https://kahf.co/'
+    'https://kahfbrowser.com/'
 } as const
