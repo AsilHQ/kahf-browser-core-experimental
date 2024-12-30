@@ -212,10 +212,10 @@ const PrepopulatedEngine brave_yandex =
                        PREPOPULATED_ENGINE_ID_YANDEX);
 
 const PrepopulatedEngine brave_search = MakeBravePrepopulatedEngine(
-    u"Kahf",
+    u"Brave",
     u":br",
-    "https://kahfbrowser.com/?wp-content/uploads/2024/02/kahf-logo-combined.svg",
-    "https://www.google.com/search?q={searchTerms}&source="
+    "https://cdn.search.brave.com/serp/favicon.ico",
+    "https://search.brave.com/search?q={searchTerms}&source="
 #if BUILDFLAG(IS_ANDROID)
     "android",
 #else

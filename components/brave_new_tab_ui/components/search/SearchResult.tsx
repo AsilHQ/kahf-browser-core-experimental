@@ -77,11 +77,11 @@ const Content = styled.span`
   color: ${color.white};
 `
 
-const Description = styled.span`
-  font: ${font.small.regular};
-  line-height: 18px;
-  color: rgba(255,255,255,0.7);
-`
+// const Description = styled.span`
+//   font: ${font.small.regular};
+//   line-height: 18px;
+//   color: rgba(255,255,255,0.7);
+// `
 
 // const LeoIcon = styled(Icon)`
 //   --leo-icon-size: ${icon.l};
@@ -124,8 +124,8 @@ const Description = styled.span`
 // }
 
 export default function SearchResult({ match, selected, onClick }: Props) {
-  const contents = mojoString16ToString(match.swapContentsAndDescription ? match.description : match.contents)
-  const description = mojoString16ToString(match.swapContentsAndDescription ? match.contents : match.description)
+  const contents = mojoString16ToString( match.contents)
+  // const description = mojoString16ToString(match.swapContentsAndDescription ? match.contents : match.description)
   // const isAskLeo = description === getLocale('searchAskLeo')
 
   // Return null for AskLeo results to hide them
@@ -143,7 +143,7 @@ export default function SearchResult({ match, selected, onClick }: Props) {
     </IconContainer> */}
     <Flex direction='column'>
       <Content>{contents}</Content>
-      {description && <Description>{description}</Description>}
+      {/* description && <Description>{description}</Description> */ }
     </Flex>
   </Container>
 }

@@ -8,56 +8,56 @@ import * as React from 'react'
 // Components
 import Flex from '$web-common/Flex'
 import Button from '@brave/leo/react/button'
-import Checkbox from '@brave/leo/react/checkbox'
+// import Checkbox from '@brave/leo/react/checkbox'
 import Icon from '@brave/leo/react/icon'
 import Toggle from '@brave/leo/react/toggle'
-import { color, font, radius, spacing } from '@brave/leo/tokens/css/variables'
+import { color, spacing } from '@brave/leo/tokens/css/variables'
 import styled from 'styled-components'
-import usePromise from '../../../../common/usePromise'
+// import usePromise from '../../../../common/usePromise'
 import {
   SettingsRow,
   SettingsText
 } from '../../../components/default'
-import { searchEnginesPromise } from '../../../components/search/SearchContext'
-import { MediumSearchEngineIcon } from '../../../components/search/SearchEngineIcon'
-import { hasEnabledEngine, isSearchEngineEnabled, maybeEnableDefaultEngine, setEngineEnabled } from '../../../components/search/config'
+// import { searchEnginesPromise } from '../../../components/search/SearchContext'
+// import { MediumSearchEngineIcon } from '../../../components/search/SearchEngineIcon'
+// import { hasEnabledEngine, isSearchEngineEnabled, maybeEnableDefaultEngine, setEngineEnabled } from '../../../components/search/config'
 import { useNewTabPref } from '../../../hooks/usePref'
 import { getLocale } from '../../../../common/locale'
 
-const EnginesContainer = styled(Flex)`
-  font: ${font.default.regular};
-`
+// const EnginesContainer = styled(Flex)`
+//   font: ${font.default.regular};
+// `
 
-const EnginesGrid = styled.div`
-  /* Three rows */
-  max-height: 136px;
-  overflow-y: auto;
+// const EnginesGrid = styled.div`
+//   /* Three rows */
+//   max-height: 136px;
+//   overflow-y: auto;
 
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: ${spacing.m};
-`
+//   display: grid;
+//   grid-template-columns: repeat(2, 1fr);
+//   gap: ${spacing.m};
+// `
 
-const EngineCard = styled.div`
-  border: 1px solid ${color.divider.subtle};
-  border-radius: ${radius.s};
+// const EngineCard = styled.div`
+//   border: 1px solid ${color.divider.subtle};
+//   border-radius: ${radius.s};
 
-  padding: ${spacing.m};
+//   padding: ${spacing.m};
 
-  display: flex;
-  gap: ${spacing.m};
-`
+//   display: flex;
+//   gap: ${spacing.m};
+// `
 
 const LinkButton = styled(Button)`
   --leo-button-color: ${color.text.secondary};
 `
 
-const EngineCheckbox = styled(Checkbox)`
-  --leo-checkbox-flex-direction: row-reverse;
+// const EngineCheckbox = styled(Checkbox)`
+//   --leo-checkbox-flex-direction: row-reverse;
 
-  width: 100%;
-  font: ${font.default.regular};
-`
+//   width: 100%;
+//   font: ${font.default.regular};
+// `
 
 const Hr = styled.hr`
   border-color: ${color.divider.subtle};
@@ -65,10 +65,10 @@ const Hr = styled.hr`
   margin: 0;
 `
 
-const CheckboxText = styled.span`flex: 1`;
+// const CheckboxText = styled.span`flex: 1`;
 
 export default function SearchSettings() {
-  const { result: engines = [] } = usePromise(() => searchEnginesPromise, [])
+  // const { result: engines = [] } = usePromise(() => searchEnginesPromise, [])
   const [showSearchBox, setShowSearchBox] = useNewTabPref('showSearchBox')
 
   return <Flex direction='column' gap={spacing.xl}>
@@ -80,13 +80,13 @@ export default function SearchSettings() {
         // If we've just enabled the searchbox, make sure at least one engine
         // is enabled.
         if (e.checked) {
-          maybeEnableDefaultEngine()
+          // maybeEnableDefaultEngine()
         }
       }} />
     </SettingsRow>
     {showSearchBox && <>
       <Hr />
-      <EnginesContainer direction='column' gap={spacing.xl}>
+      {/* <EnginesContainer direction='column' gap={spacing.xl}>
         <div>{getLocale('searchEnableSearchEnginesTitle')}</div>
         <EnginesGrid>
           {engines.map(engine => <EngineCard key={engine.keyword}>
@@ -102,7 +102,7 @@ export default function SearchSettings() {
           </EngineCard>)}
         </EnginesGrid>
       </EnginesContainer>
-      <Hr />
+      <Hr /> */}
       <div>
         <LinkButton href='chrome://settings/searchEngines' kind='plain'>
           {getLocale('searchCustomizeSearchEngines')}

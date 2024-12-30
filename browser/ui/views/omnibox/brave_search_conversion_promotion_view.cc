@@ -543,10 +543,11 @@ void BraveSearchConversionPromotionView::OnSecondaryButtonPressed() {
 }
 
 void BraveSearchConversionPromotionView::SetBraveAsDefault() {
-  auto provider_data = TemplateURLDataFromPrepopulatedEngine(
-      TemplateURLPrepopulateData::brave_search);
-  TemplateURL template_url(*provider_data);
-  template_url_service_->SetUserSelectedDefaultSearchProvider(&template_url);
+  return;
+  // auto provider_data = TemplateURLDataFromPrepopulatedEngine(
+  //     TemplateURLPrepopulateData::brave_search);
+  // TemplateURL template_url(*provider_data);
+  // template_url_service_->SetUserSelectedDefaultSearchProvider(&template_url);
 }
 
 SkColor BraveSearchConversionPromotionView::GetCloseButtonColor() const {

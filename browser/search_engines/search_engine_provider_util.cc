@@ -42,6 +42,12 @@ void SetBraveAsDefaultPrivateSearchProvider(Profile* profile) {
                    data->sync_guid);
   prefs->SetDict(prefs::kSyncedDefaultPrivateSearchProviderData,
                  TemplateURLDataToDictionary(*data));
+
+                   // Set default search provider for normal windows
+  prefs->SetString(prefs::kDefaultSearchProviderGUID, 
+                  data->sync_guid);
+  prefs->SetDict(DefaultSearchManager::kDefaultSearchProviderDataPrefName,
+                TemplateURLDataToDictionary(*data));
 }
 
 

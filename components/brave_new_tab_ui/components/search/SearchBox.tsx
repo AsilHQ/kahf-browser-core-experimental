@@ -11,7 +11,7 @@ import * as React from 'react';
 import styled from 'styled-components';
 // import EnginePicker from './EnginePicker';
 import { useSearchContext } from './SearchContext';
-import { braveSearchHost, searchBoxRadius } from './config';
+import { googleSearchHost, searchBoxRadius } from './config';
 import SearchBoxSvgComponent from './SearchBoxSvgComponent';
 
 const searchBoxClass = 'ntp-search-box'
@@ -59,8 +59,8 @@ export const Backdrop = styled.div`
 
 export default function SearchBox() {
   const { searchEngine, query, setQuery } = useSearchContext()
-  const placeholderText = searchEngine?.host === braveSearchHost
-    ? getLocale('searchBravePlaceholder')
+  const placeholderText = searchEngine?.host === googleSearchHost
+    ?  getLocale('searchNonBravePlaceholder')
     : getLocale('searchNonBravePlaceholder')
   const searchInput = React.useRef<HTMLElement>()
   React.useEffect(() => {
