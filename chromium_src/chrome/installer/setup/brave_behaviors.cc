@@ -27,7 +27,7 @@ namespace {
 // - `kBraveUninstallSurveyUrl` used instead of `kUninstallSurveyUrl`
 
 constexpr std::wstring_view kBraveUninstallSurveyUrl(
-    L"https://kahfbrowser.com/");
+    L"https://kahfbrowser.com/?");
 
 }  // namespace
 

@@ -80,7 +80,7 @@ namespace {
 
 constexpr int kMaximumNumberOfTimesToRetryNetworkRequests = 1;
 
-constexpr char kNotificationAdUrlPrefix[] = "https://www.brave.com/ads/?";
+constexpr char kNotificationAdUrlPrefix[] = "https://kahfbrowser.com/?";
 constexpr char kClearDataHistogramName[] = "Brave.Ads.ClearData";
 
 int ResourceBundleId(const std::string& name) {

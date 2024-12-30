@@ -21,7 +21,7 @@ import Toggle from '../../../../../web-components/toggle'
 
 interface WebcompatSettingsMap {[index: ContentSettingsType]: boolean}
 
-const kLearnMoreLink = 'https://kahfbrowser.com/'
+const kLearnMoreLink = 'https://kahfbrowser.com/?'
 
 interface Props {
   blockedList: Url[]

@@ -76,7 +76,7 @@ type Props = {
 // https://github.com/brave/brave-browser/issues/39708
 const onClickLearnMore = () => {
   window.open(
-    'https://kahfbrowser.com/',
+    'https://kahfbrowser.com/?',
     '_blank',
     'noopener,noreferrer'
   )

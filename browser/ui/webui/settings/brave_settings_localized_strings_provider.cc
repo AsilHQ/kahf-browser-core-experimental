@@ -68,7 +68,7 @@ constexpr char16_t kBraveSyncGuideUrl[] =
 constexpr char16_t kDeAmpLearnMoreUrl[] =
     u"https://kahfbrowser.com/?8611298579981";
 constexpr char16_t kDebounceLearnMoreUrl[] =
-    u"https://brave.com/privacy-updates/11-debouncing/";
+    u"https://kahfbrowser.com/?";
 constexpr char16_t kEnableNftDiscoveryLearnMoreUrl[] =
     u"https://github.com/brave/brave-browser/wiki/"
     u"NFT-Discovery";

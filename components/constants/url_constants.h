@@ -11,32 +11,32 @@ inline constexpr char kBraveUIScheme[] = "kahf";
 inline constexpr char kMagnetScheme[] = "magnet";
 inline constexpr char kWidevineTOS[] = "https://policies.google.com/terms";
 inline constexpr char kRewardsUpholdSupport[] =
-    "https://kahf.co/";
-inline constexpr char kP3ALearnMoreURL[] = "https://kahf.co/";
+    "https://kahfbrowser.com/?";
+inline constexpr char kP3ALearnMoreURL[] = "https://kahfbrowser.com/?";
 inline constexpr char kP3ASettingsLink[] = "chrome://settings/privacy";
 inline constexpr char kImportDataHelpURL[] =
-    "https://kahf.co/";
+    "https://kahfbrowser.com/?";
 inline constexpr char kCryptoWalletsLearnMoreURL[] =
-    "https://kahf.co/";
+    "https://kahfbrowser.com/?";
 inline constexpr char kPermissionPromptLearnMoreUrl[] =
     "https://github.com/brave/brave-browser/wiki/Web-API-Permissions";
 inline constexpr char kPermissionPromptHardwareAccessPrivacyRisksURL[] =
     "https://github.com/brave/brave-browser/wiki/"
     "Privacy-risks-from-allowing-sites-to-access-hardware";
 inline constexpr char kSpeedreaderLearnMoreUrl[] =
-    "https://kahf.co/"
+    "https://kahfbrowser.com/?"
     "360045031392-What-is-SpeedReader";
 inline constexpr char kWebDiscoveryLearnMoreUrl[] =
-    "https://kahf.co/";
-inline constexpr char kBraveSearchHost[] = "https://kahf.co/";
+    "https://kahfbrowser.com/?";
+inline constexpr char kBraveSearchHost[] = "https://kahfbrowser.com/?";
 inline constexpr char kWidevineLearnMoreUrl[] =
-    "https://kahf.co/"
+    "https://kahfbrowser.com/?"
     "360023851591-How-do-I-view-DRM-protected-content-";
 inline constexpr char kDevChannelDeprecationLearnMoreUrl[] =
-    "https://kahf.co/"
+    "https://kahfbrowser.com/?"
     "17924707453581-How-do-I-migrate-my-Brave-Dev-data-to-another-channel-"
     "Nightly-Beta-Release-";
 
-inline constexpr char kDownloadBraveUrl[] = "https://kahf.co/";
+inline constexpr char kDownloadBraveUrl[] = "https://kahfbrowser.com/?";
 
 #endif  // BRAVE_COMPONENTS_CONSTANTS_URL_CONSTANTS_H_
