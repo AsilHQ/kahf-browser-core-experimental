@@ -13,12 +13,15 @@
 #include "base/values.h"
 #include "chrome/browser/shell_integration.h"
 #include "content/public/browser/web_ui_message_handler.h"
+#include "components/ntp_tiles/most_visited_sites.h"
+#include "components/ntp_tiles/ntp_tile.h"
 
 class Profile;
 class Browser;
 
 // The handler for Javascript messages for the chrome://welcome page
-class WelcomeDOMHandler : public content::WebUIMessageHandler {
+class WelcomeDOMHandler : public content::WebUIMessageHandler,
+                          public ntp_tiles::MostVisitedSites::Observer {
  public:
   explicit WelcomeDOMHandler(Profile* profile);
   WelcomeDOMHandler(const WelcomeDOMHandler&) = delete;
@@ -27,6 +30,12 @@ class WelcomeDOMHandler : public content::WebUIMessageHandler {
 
   // WebUIMessageHandler implementation.
   void RegisterMessages() override;
+
+  // ntp_tiles::MostVisitedSites::Observer implementation.
+  void OnURLsAvailable(
+      const std::map<ntp_tiles::SectionType, ntp_tiles::NTPTilesVector>&
+          sections) override;
+  void OnIconMadeAvailable(const GURL& site_url) override;
 
  private:
   void HandleImportNowRequested(const base::Value::List& args);
@@ -40,12 +49,18 @@ class WelcomeDOMHandler : public content::WebUIMessageHandler {
   void HandleOpenSettingsPage(const base::Value::List& args);
   void HandleSetMetricsReportingEnabled(const base::Value::List& args);
   void HandleEnableWebDiscovery(const base::Value::List& args);
-
+  void HandleAddNewTopSite(const base::Value::List& args);
+  void HandleEditTopSite(const base::Value::List& args);
+  int GetCustomLinksNum() const;
+  bool IsCustomLinksEnabled() const;
+  bool IsShortcutsVisible() const;
+  
   Browser* GetBrowser();
 
   size_t last_onboarding_phase_ = 0;
   std::u16string default_browser_name_;
   raw_ptr<Profile> profile_ = nullptr;
+  std::unique_ptr<ntp_tiles::MostVisitedSites> most_visited_sites_;
   base::WeakPtrFactory<WelcomeDOMHandler> weak_ptr_factory_{this};
 };
 
