@@ -17,7 +17,7 @@ import BrandedWallpaperLogo from '../../components/default/brandedWallpaper/logo
 import FooterInfo from '../../components/default/footer/footer'
 import * as Page from '../../components/default/page'
 import TopSitesGrid from './gridSites'
-import SiteRemovalNotification from './notification'
+// import SiteRemovalNotification from './notification'
 import Stats from './stats'
 
 // Helpers
@@ -38,7 +38,7 @@ import Settings, { TabType as SettingsTabType } from './settings'
 // import { BraveNewsContextProvider } from '../../../brave_news/browser/resources/shared/Context'
 import BraveNewsModal from '../../components/default/braveNews/customize/Modal'
 import BraveNewsHint from '../../components/default/braveNews/hint'
-import SponsoredImageClickArea from '../../components/default/sponsoredImage/sponsoredImageClickArea'
+// import SponsoredImageClickArea from '../../components/default/sponsoredImage/sponsoredImageClickArea'
 import GridWidget from './gridWidget'
 
 import Icon from '@brave/leo/react/icon'
@@ -79,54 +79,25 @@ interface State {
   forceToHideWidget: boolean
 }
 
-function GetBackgroundImageSrc(props: Props) {
-  console.log('GetBackgroundImageSrc called with props:', props);
-
-  // Check if background images should be shown
-  if (
-    !props.newTabData.showBackgroundImage &&
-    (!props.newTabData.brandedWallpaper || props.newTabData.brandedWallpaper.isSponsored)
-  ) {
-    console.log(
-      'Condition met: showBackgroundImage is false and (no brandedWallpaper or isSponsored). Returning undefined.'
-    );
-    return undefined;
+function GetBackgroundImageSrc (props: Props) {
+  if (!props.newTabData.showBackgroundImage &&
+    (!props.newTabData.brandedWallpaper || props.newTabData.brandedWallpaper.isSponsored)) {
+    return undefined
   }
-
-  // Check for brandedWallpaper
   if (props.newTabData.brandedWallpaper) {
-    const wallpaperData = props.newTabData.brandedWallpaper;
-    console.log('brandedWallpaper found:', wallpaperData);
-
+    const wallpaperData = props.newTabData.brandedWallpaper
     if (wallpaperData.wallpaperImageUrl) {
-      console.log('brandedWallpaper has wallpaperImageUrl:', wallpaperData.wallpaperImageUrl);
-      return wallpaperData.wallpaperImageUrl;
-    } else {
-      console.log('brandedWallpaper does not have a wallpaperImageUrl.');
+      return wallpaperData.wallpaperImageUrl
     }
-  } else {
-    console.log('No brandedWallpaper found.');
   }
 
-  // Check for backgroundWallpaper of type 'image' or 'brave'
-  const backgroundWallpaper = props.newTabData.backgroundWallpaper;
-  if (backgroundWallpaper?.type === 'image' || backgroundWallpaper?.type === 'brave') {
-    console.log(
-      `backgroundWallpaper type is '${backgroundWallpaper.type}':`,
-      backgroundWallpaper
-    );
-    return backgroundWallpaper.wallpaperImageUrl;
-  } else {
-    console.log(
-      `backgroundWallpaper type is not 'image' or 'brave' (found type: '${backgroundWallpaper?.type}').`
-    );
+  if (props.newTabData.backgroundWallpaper?.type === 'image' ||
+      props.newTabData.backgroundWallpaper?.type === 'brave') {
+    return props.newTabData.backgroundWallpaper.wallpaperImageUrl
   }
 
-  // Default return if no conditions are met
-  console.log('No suitable wallpaper found. Returning undefined.');
-  return undefined;
+  return undefined
 }
-
 
 function GetShouldShowSearchPromotion (props: Props, showSearchPromotion: boolean) {
   if (GetIsShowingBrandedWallpaper(props)) { return false }
@@ -438,7 +409,7 @@ class NewTabPage extends React.Component<Props, State> {
       showBraveTalk,
       showBraveVPN,
     } = this.props.newTabData
-    const lookup = {
+    const lookup:any = {
       'rewards': {
         display: false && braveRewardsSupported && showRewards,
         render: this.renderRewardsWidget.bind(this)
@@ -668,8 +639,8 @@ class NewTabPage extends React.Component<Props, State> {
       cryptoContent = null
     }
   showTopSites = true
-    showStats = false
-    showClock = true
+    showStats = true
+    showClock = false
     newTabData.showToday = false;
     newTabData.braveTalkSupported = false;
     cryptoContent = null
@@ -688,7 +659,7 @@ class NewTabPage extends React.Component<Props, State> {
             imageSrc={this.imageSource}
             imageHasLoaded={this.state.backgroundHasLoaded}
             showClock={showClock}
-            showStats={!!showStats}
+            showStats={showStats}
             colorForBackground={colorForBackground}
             showCryptoContent={!!cryptoContent}
             showTopSites={showTopSites}
@@ -731,7 +702,7 @@ class NewTabPage extends React.Component<Props, State> {
                 />
               </Page.GridItemTopSites>
             }
-            {newTabData.brandedWallpaper?.isSponsored && <Page.GridItemSponsoredImageClickArea otherWidgetsHidden={this.allWidgetsHidden()}>
+            {/* {newTabData.brandedWallpaper?.isSponsored && <Page.GridItemSponsoredImageClickArea otherWidgetsHidden={this.allWidgetsHidden()}>
               <SponsoredImageClickArea onClick={this.onClickLogo}
                 sponsoredImageUrl={newTabData.brandedWallpaper.logo.destinationUrl}/>
               </Page.GridItemSponsoredImageClickArea>}
@@ -742,7 +713,7 @@ class NewTabPage extends React.Component<Props, State> {
                     <SiteRemovalNotification actions={actions} showRestoreAll={!newTabData.customLinksEnabled} />
                   </Page.GridItemNotification>
                 ) : null
-            }
+            } */}
             {cryptoContent}
             <Page.Footer>
               <Page.FooterContent>

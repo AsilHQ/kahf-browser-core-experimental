@@ -126,7 +126,7 @@ function TopSitesList (props: Props) {
       gridPagesContainerRef.current?.removeEventListener('scroll', handler)
     }
   }, [])
-
+  console.log('Rendering top sites render context');
   return <PagesContainer>
     <GridPagesContainer customLinksEnabled={customLinksEnabled} ref={gridPagesContainerRef as any}>
       <DndContext onDragEnd={handleDragEnd} autoScroll={autoScrollOptions} sensors={sensors}>

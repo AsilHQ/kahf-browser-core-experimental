@@ -24,6 +24,7 @@ import styled from 'styled-components'
 
 // Tabs
 const BackgroundImageSettings = React.lazy(() => import('./settings/backgroundImage'))
+const BraveStatsSettings = React.lazy(() => import('./settings/braveStats'))
 const TopSitesSettings = React.lazy(() => import('./settings/topSites'))
 const SearchSettings = React.lazy(() => import('./settings/search'))
 
@@ -75,6 +76,7 @@ export interface Props {
 
 export enum TabType {
   BackgroundImage = 'backgroundImage',
+  BraveStats = 'braveStats',
   TopSites = 'topSites',
   Search = 'search'
 }
@@ -84,12 +86,14 @@ const tabTypes = Object.values(TabType)
 type TabMap<T> = { [P in TabType]: T }
 const tabIcons: TabMap<string> = {
   [TabType.BackgroundImage]: 'image',
+  [TabType.BraveStats]: 'bar-chart',
   [TabType.TopSites]: 'window-content',
   [TabType.Search]: 'search'
 }
 
 const tabTranslationKeys: TabMap<string> = {
   [TabType.BackgroundImage]: 'backgroundImageTitle',
+  [TabType.BraveStats]: 'statsTitle',
   [TabType.TopSites]: 'topSitesTitle',
   [TabType.Search]: 'searchTitle'
 }
@@ -98,13 +102,10 @@ const featureFlagSearchWidget = loadTimeData.getBoolean('featureFlagSearchWidget
 export default function Settings(props: Props) {
   const allowedTabTypes = React.useMemo(() => tabTypes.filter(t =>
     (props.allowBackgroundCustomization || t !== TabType.BackgroundImage) &&
-    (featureFlagSearchWidget || t !== TabType.Search) &&
-    t !== TabType.TopSites
-  ), [props.allowBackgroundCustomization])
+    (featureFlagSearchWidget || t !== TabType.Search)), [props.allowBackgroundCustomization])
   const [activeTab, setActiveTab] = React.useState(props.allowBackgroundCustomization
     ? TabType.BackgroundImage
-    : TabType.TopSites
-  )
+    : TabType.BraveStats)
   const { customizePage } = useBraveNews()
 
   const changeTab = React.useCallback((tab: TabType) => {
@@ -153,6 +154,7 @@ export default function Settings(props: Props) {
             onEnableRewards={props.onEnableRewards}
             braveRewardsSupported={props.braveRewardsSupported}
           />}
+          {activeTab === TabType.BraveStats && <BraveStatsSettings />}
           {activeTab === TabType.TopSites && <TopSitesSettings
             toggleShowTopSites={props.toggleShowTopSites}
             showTopSites={props.showTopSites}

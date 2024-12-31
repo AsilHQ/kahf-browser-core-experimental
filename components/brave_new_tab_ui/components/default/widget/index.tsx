@@ -3,7 +3,7 @@
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
 import * as React from 'react'
-import {  StyledWidgetContainer } from './styles'
+import { StyledWidget, StyledWidgetContainer } from './styles'
 import WidgetMenu, { WidgetMenuCustomItem } from './widgetMenu'
 
 type HideWidgetFunction = () => void
@@ -54,14 +54,14 @@ export function Widget ({
       isCardWidget={isCardWidget}
       isForeground={isForeground}
     >
-      {/* <StyledWidget
+      <StyledWidget
         isCardWidget={isCardWidget}
         isForeground={isForeground}
         widgetMenuPersist={widgetMenuPersist}
         preventFocus={preventFocus}
         paddingType={paddingType}>
         {children}
-      </StyledWidget> */}
+      </StyledWidget>
       {hideWidget && !hideMenu && !preventFocus &&
         <WidgetMenu
           widgetTitle={widgetTitle}
@@ -85,6 +85,6 @@ export function Widget ({
 const createWidget = <P extends object>(WrappedComponent: React.ComponentType<P>) =>
   (props: P & WidgetProps) => <Widget {...props as WidgetProps}>
      <WrappedComponent {...props as P}/>
-  \ </Widget>
+  </Widget>
 
 export default createWidget

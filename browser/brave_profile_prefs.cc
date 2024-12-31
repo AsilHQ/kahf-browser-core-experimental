@@ -368,7 +368,7 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   // New Tab Page
   registry->RegisterBooleanPref(kNewTabPageShowClock, false);
   registry->RegisterStringPref(kNewTabPageClockFormat, "");
-  registry->RegisterBooleanPref(kNewTabPageShowStats, false);
+  registry->RegisterBooleanPref(kNewTabPageShowStats, true);
   registry->RegisterBooleanPref(kNewTabPageShowRewards, false);
   registry->RegisterBooleanPref(kNewTabPageShowBraveTalk, false);
   registry->RegisterBooleanPref(kNewTabPageHideAllWidgets, false);
@@ -458,7 +458,7 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   // Turn on most visited mode on NTP by default.
   // We can turn customization mode on when we have add-shortcut feature.
   registry->SetDefaultPrefValue(ntp_prefs::kNtpUseMostVisitedTiles,
-                                base::Value(true));
+                                base::Value(false));
   registry->RegisterBooleanPref(kEnableWindowClosingConfirm, true);
   registry->RegisterBooleanPref(kEnableClosingLastTab, true);
   registry->RegisterBooleanPref(kShowFullscreenReminder, true);
