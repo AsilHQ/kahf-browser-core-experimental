@@ -48,7 +48,7 @@ const browserIcons:any = {
   'Vivaldi': <VivaldiSVG />,
   'NAVER Whale': <WhaleSVG />,
   'Yandex': <YandexSVG />,
-  'Microsoft Internet Explorer': <MicrosoftIE />
+  'Internet Explorer': <MicrosoftIE />
 }
 
 function BrowserItemButton (props: BrowserItemButtonProps) {

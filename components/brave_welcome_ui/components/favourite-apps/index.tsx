@@ -32,7 +32,7 @@ interface AppItemButtonProps {
 }
 
 const browserIcons :any = {
-  'Fb': <FbSVG />,
+  'Facebook': <FbSVG />,
   'Figma': < FigmaSVG/>,
   'Gmail': <GmailSVG />,
   'Calendar': <CalendarSVG />,
@@ -83,7 +83,7 @@ function FavouriteApp() {
   } = React.useContext(DataContext)
    const [selectedProfiles, setSelectedProfiles] = React.useState<Set<number>>(new Set())
   const browserTypes = [
-  'Fb',
+  'Facebook',
   'Figma',
   'Gmail',
   'Calendar',

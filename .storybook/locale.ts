@@ -247,7 +247,7 @@ let locale: Record<string, string> = {
   whyHow: 'Why & How',
   yourWallet: 'Your wallet',
   // New Tab Page
-  adsTrackersBlocked: 'Ads and Trackers Blocked',
+  adsTrackersBlocked: 'Haram Ads Blocked',
   estimatedBandwidthSaved: 'Bandwidth saved',
   estimatedTimeSaved: 'Estimated Time Saved',
   minutes: 'minutes',

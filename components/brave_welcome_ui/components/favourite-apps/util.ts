@@ -6,7 +6,7 @@ interface FavouriteAppsProp {
     url: string
 }
 const AppUrls : any = {
-    'Fb' : 'www.fb.com',
+    'Facebook' : 'www.facebook.com',
     'Figma' : 'www.figma.com',
     'Gmail' : 'www.gmail.com',
     'Calendar' : 'www.calendar.google.com',

@@ -12,6 +12,7 @@ interface WidgetContainerProps extends WidgetPositionProps {
   textDirection: string
   isCardWidget?: boolean
   isForeground?: boolean
+  isStats?:boolean
 }
 
 const getWidgetPadding = (type: string) => {
@@ -35,6 +36,10 @@ export const StyledWidgetContainer = styled('div')<WidgetContainerProps>`
   height: fit-content;
   min-width: 0;
   position: relative;
+  ${(p)=>p.isStats && `
+    background:black;
+    opacity:50%;
+    border-radius:16px;`}
 
   ${(p) => p.isCardWidget && `
     --ntp-widget-menu-container-top: 18px;
@@ -70,6 +75,7 @@ export const StyledWidget = styled('div')<WidgetVisibilityProps & WidgetPaddingP
   position: relative;
   transition: background 0.5s ease;
   border-radius: ${p => p.isCardWidget ? '0' : '16px'};
+
 
   ${StyledWidgetMenuContainer}:hover & {
     background: rgba(33, 37, 41, 0.48);

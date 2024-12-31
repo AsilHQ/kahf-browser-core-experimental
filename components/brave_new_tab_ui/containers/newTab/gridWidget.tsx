@@ -15,9 +15,9 @@ interface Props extends Omit<WidgetProps, 'hideWidget'> {
 
 export default function GridWidget ({ pref: showPref, container: Container, children, ...rest }: Props) {
     const [showing, setShowing] = useNewTabPref(showPref)
-
+    const isStats = showPref === 'showStats'
     return showing ? <Container>
-        <Widget hideWidget={() => setShowing(false)} {...rest}>
+        <Widget hideWidget={() => setShowing(false)} isStats={isStats} {...rest}>
         {children}
         </Widget>
     </Container> : null

@@ -83,7 +83,7 @@ function EnableShields () {
       </div>
       <div className="right-box">
       <S.BrowserListBox>
-        <div className="browser-list">
+        <div className="browser-list" style={{"display":"none"}}>
           {browserTypes.map((entry, id) => {
             return (
               <BrowserItemButton

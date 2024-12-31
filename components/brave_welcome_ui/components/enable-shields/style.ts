@@ -103,7 +103,7 @@ export const ActionBox = styled.div`
   display: flex;
   grid-gap: 10px;
   flex-direction: column;
-  margin-top:35px;
+  margin-top:-35px;
   button {
     color: white;
   }

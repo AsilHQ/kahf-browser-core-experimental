@@ -23,6 +23,7 @@ export interface WidgetProps {
   customLinksEnabled?: boolean
   onToggleCustomLinksEnabled?: () => void
   customMenuItems?: WidgetMenuCustomItem[]
+  isStats?:boolean
 }
 
 export interface WidgetState {
@@ -44,6 +45,7 @@ export function Widget ({
   customLinksEnabled,
   onToggleCustomLinksEnabled,
   customMenuItems,
+  isStats,
   children
 }: WidgetProps & { children: React.ReactNode }) {
   const [widgetMenuPersist, setWidgetMenuPersist] = React.useState(!!isForeground)
@@ -53,6 +55,7 @@ export function Widget ({
       textDirection={textDirection}
       isCardWidget={isCardWidget}
       isForeground={isForeground}
+      isStats={isStats}
     >
       <StyledWidget
         isCardWidget={isCardWidget}
