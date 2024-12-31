@@ -44,6 +44,7 @@ RegisterPolymerTemplateModifications({
 
     // Help link shown if update fails
     const updateStatusMessageLink = section.querySelector('#updateStatusMessage a')
+    updateStatusMessageLink.style.display = 'none'; // This makes the section disappear
     if (updateStatusMessageLink) {
       // <if expr="is_win">
       updateStatusMessageLink.href = 'https://kahfbrowser.com/'

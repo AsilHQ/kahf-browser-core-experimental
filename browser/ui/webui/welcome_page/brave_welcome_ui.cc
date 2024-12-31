@@ -197,7 +197,7 @@ BraveWelcomeUI::BraveWelcomeUI(content::WebUI* web_ui, const std::string& name)
   AddBackgroundColorToSource(source, web_ui->GetWebContents());
 
   // INSTALL_EXTENSION(KahfTube_extension_id, profile);
-  INSTALL_EXTENSION(SafeGaze_extension_id, profile);
+  // INSTALL_EXTENSION(SafeGaze_extension_id, profile);
 }
 
 BraveWelcomeUI::~BraveWelcomeUI() = default;

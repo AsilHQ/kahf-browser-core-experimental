@@ -6,15 +6,15 @@ interface FavouriteAppsProp {
     url: string
 }
 const AppUrls : any = {
-    'Facebook' : 'www.facebook.com',
-    'Figma' : 'www.figma.com',
-    'Gmail' : 'www.gmail.com',
-    'Calendar' : 'www.calendar.google.com',
-    'Insta' : 'www.instagram.com',
-    'Slack' : 'www.slack.com',
-    'Spotify' : 'www.spotify.com',
-    'X' : 'www.twitter.com',
-    'Youtube':'www.youtube.com'
+    'Facebook' : 'facebook.com',
+    'Figma' : 'figma.com',
+    'Gmail' : 'gmail.com',
+    'Calendar' : 'calendar.google.com',
+    'Instagram' : 'instagram.com',
+    'Slack' : 'slack.com',
+    'Spotify' : 'spotify.com',
+    'X' : 'x.com',
+    'Youtube':'youtube.com'
 }
 
 function addNewSites(FavouriteApp: FavouriteAppsProp[]): void {

@@ -292,10 +292,7 @@ bool AdsServiceImpl::UserHasOptedInToBraveNewsAds() const {
 }
 
 bool AdsServiceImpl::UserHasOptedInToNewTabPageAds() const {
-  return prefs_->GetBoolean(
-             ntp_background_images::prefs::kNewTabPageShowBackgroundImage) &&
-         prefs_->GetBoolean(ntp_background_images::prefs::
-                                kNewTabPageShowSponsoredImagesBackgroundImage);
+  return false;
 }
 
 bool AdsServiceImpl::UserHasOptedInToNotificationAds() const {
