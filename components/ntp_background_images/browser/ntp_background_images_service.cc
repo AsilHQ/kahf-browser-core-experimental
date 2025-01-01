@@ -46,11 +46,11 @@ namespace {
 constexpr char kNTPManifestFile[] = "photo.json";
 constexpr char kNTPSRMappingTableFile[] = "mapping-table.json";
 
-constexpr char kNTPSRMappingTableComponentPublicKey[] = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp7IWv7wzH/KLrxx7BKWOIIUMDylQNzxwM5Fig2WHc16BoMW9Kaya/g17Bpfp0YIvxdcmDBcB9kFALqQLxi1WQfa9d7YxqcmAGUKo407RMwEa6dQVkIPMFz2ZPGSfFgr526gYOqWh3Q4h8oN94qxBLgFyT25SMK5zQDGyq96ntME4MQRNwpDBUv7DDK7Npwe9iE8cBgzYTvf0taAFn2ZZi1RhS0RzpdynucpKosnc0sVBLTXy+HDvnMr+77T48zM0YmpjIh8Qmrp9CNbKzZUsZzNfnHpL9IZnjwQ51EOYdPGX2r1obChVZN19HzpK5scZEMRKoCMfCepWpEkMSIoPzQIDAQAB";  // NOLINT
-constexpr char kNTPSRMappingTableComponentID[] =
-    "heplpbhjcbmiibdlchlanmdenffpiibo";
-constexpr char kNTPSRMappingTableComponentName[] =
-    "NTP Super Referral mapping table";
+// constexpr char kNTPSRMappingTableComponentPublicKey[] = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp7IWv7wzH/KLrxx7BKWOIIUMDylQNzxwM5Fig2WHc16BoMW9Kaya/g17Bpfp0YIvxdcmDBcB9kFALqQLxi1WQfa9d7YxqcmAGUKo407RMwEa6dQVkIPMFz2ZPGSfFgr526gYOqWh3Q4h8oN94qxBLgFyT25SMK5zQDGyq96ntME4MQRNwpDBUv7DDK7Npwe9iE8cBgzYTvf0taAFn2ZZi1RhS0RzpdynucpKosnc0sVBLTXy+HDvnMr+77T48zM0YmpjIh8Qmrp9CNbKzZUsZzNfnHpL9IZnjwQ51EOYdPGX2r1obChVZN19HzpK5scZEMRKoCMfCepWpEkMSIoPzQIDAQAB";  // NOLINT
+// constexpr char kNTPSRMappingTableComponentID[] =
+    // "heplpbhjcbmiibdlchlanmdenffpiibo";
+// constexpr char kNTPSRMappingTableComponentName[] =
+    // "NTP Super Referral mapping table";
 
 std::string GetMappingTableData(const base::FilePath& installed_dir) {
   std::string contents;
@@ -112,44 +112,44 @@ NTPBackgroundImagesService::NTPBackgroundImagesService(
 NTPBackgroundImagesService::~NTPBackgroundImagesService() = default;
 
 void NTPBackgroundImagesService::Init() {
-  pref_change_registrar_.Init(local_pref_);
+  // pref_change_registrar_.Init(local_pref_);
 
-  // Flag override for testing or demo purposes
-  base::FilePath forced_local_path(
-      base::CommandLine::ForCurrentProcess()->GetSwitchValueNative(
-          switches::kNTPSponsoredImagesDataPathForTesting));
-  if (!forced_local_path.empty()) {
-    test_data_used_ = true;
-    DVLOG(6)
-        << "NTP Sponsored Images test data will be loaded from local path at: "
-        << forced_local_path.LossyDisplayName();
-    OnSponsoredComponentReady(false, forced_local_path);
-  } else {
-    RegisterBackgroundImagesComponent();
-    RegisterSponsoredImagesComponent();
+  // // Flag override for testing or demo purposes
+  // base::FilePath forced_local_path(
+  //     base::CommandLine::ForCurrentProcess()->GetSwitchValueNative(
+  //         switches::kNTPSponsoredImagesDataPathForTesting));
+  // if (!forced_local_path.empty()) {
+  //   test_data_used_ = true;
+  //   DVLOG(6)
+  //       << "NTP Sponsored Images test data will be loaded from local path at: "
+  //       << forced_local_path.LossyDisplayName();
+  //   OnSponsoredComponentReady(false, forced_local_path);
+  // } else {
+  //   RegisterBackgroundImagesComponent();
+  //   RegisterSponsoredImagesComponent();
 
-    pref_change_registrar_.Add(
-        brave_l10n::prefs::kCountryCode,
-        base::BindRepeating(
-            &NTPBackgroundImagesService::OnCountryCodePrefChanged,
-            base::Unretained(this)));
-  }
+  //   pref_change_registrar_.Add(
+  //       brave_l10n::prefs::kCountryCode,
+  //       base::BindRepeating(
+  //           &NTPBackgroundImagesService::OnCountryCodePrefChanged,
+  //           base::Unretained(this)));
+  // }
 
-  if (base::FeatureList::IsEnabled(features::kBraveNTPSuperReferralWallpaper)) {
-    // Flag override for testing or demo purposes
-    base::FilePath forced_local_path_super_referral(
-        base::CommandLine::ForCurrentProcess()->GetSwitchValueNative(
-            switches::kNTPSuperReferralDataPathForTesting));
-    if (!forced_local_path_super_referral.empty()) {
-      test_data_used_ = true;
-      DVLOG(6)
-          << "NTP Super Referral test data will be loaded from local path at: "
-          << forced_local_path_super_referral.LossyDisplayName();
-      OnSponsoredComponentReady(false, forced_local_path_super_referral);
-    } else {
-      CheckSuperReferralComponent();
-    }
-  }
+  // if (base::FeatureList::IsEnabled(features::kBraveNTPSuperReferralWallpaper)) {
+  //   // Flag override for testing or demo purposes
+  //   base::FilePath forced_local_path_super_referral(
+  //       base::CommandLine::ForCurrentProcess()->GetSwitchValueNative(
+  //           switches::kNTPSuperReferralDataPathForTesting));
+  //   if (!forced_local_path_super_referral.empty()) {
+  //     test_data_used_ = true;
+  //     DVLOG(6)
+  //         << "NTP Super Referral test data will be loaded from local path at: "
+  //         << forced_local_path_super_referral.LossyDisplayName();
+  //     OnSponsoredComponentReady(false, forced_local_path_super_referral);
+  //   } else {
+  //     CheckSuperReferralComponent();
+  //   }
+  // }
 }
 
 void NTPBackgroundImagesService::CheckNTPSIComponentUpdateIfNeeded() {
@@ -384,12 +384,12 @@ void NTPBackgroundImagesService::DownloadSuperReferralMappingTable() {
   if (!component_update_service_)
     return;
 
-  RegisterNTPSponsoredImagesComponent(
-      component_update_service_, kNTPSRMappingTableComponentPublicKey,
-      kNTPSRMappingTableComponentID, kNTPSRMappingTableComponentName,
-      base::BindRepeating(
-          &NTPBackgroundImagesService::OnMappingTableComponentReady,
-          weak_factory_.GetWeakPtr()));
+  // RegisterNTPSponsoredImagesComponent(
+  //     component_update_service_, kNTPSRMappingTableComponentPublicKey,
+  //     kNTPSRMappingTableComponentID, kNTPSRMappingTableComponentName,
+  //     base::BindRepeating(
+  //         &NTPBackgroundImagesService::OnMappingTableComponentReady,
+  //         weak_factory_.GetWeakPtr()));
 }
 
 void NTPBackgroundImagesService::OnMappingTableComponentReady(
