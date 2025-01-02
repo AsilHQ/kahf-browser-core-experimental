@@ -10,7 +10,7 @@ const AppUrls : any = {
     'Figma' : 'figma.com',
     'Gmail' : 'gmail.com',
     'Calendar' : 'calendar.google.com',
-    'Instagram' : 'instagram.com',
+    'Insta' : 'instagram.com',
     'Slack' : 'slack.com',
     'Spotify' : 'spotify.com',
     'X' : 'x.com',
@@ -18,14 +18,14 @@ const AppUrls : any = {
 }
 
 function addNewSites(FavouriteApp: FavouriteAppsProp[]): void {
-    console.log(FavouriteApp)
+    console.log("addNewSites ->",FavouriteApp)
     FavouriteApp.map(app => {
         addNewTopSite(app.title,app.url)
     })
 }
 
 export function setFavouriteApps(FavouriteAppsNameArray: string[]) {
-    console.log("FavouriteAppsNameArray", FavouriteAppsNameArray)
+    console.log("FavouriteAppsNameArray ->", FavouriteAppsNameArray)
     const FavouriteAppArray: FavouriteAppsProp[] = FavouriteAppsNameArray.map((app, index) => {
         return {
             title: app,
@@ -33,5 +33,6 @@ export function setFavouriteApps(FavouriteAppsNameArray: string[]) {
             id: index
         }
     })
+    console.log("FavouriteAppArray ->",FavouriteAppArray)
     addNewSites(FavouriteAppArray)
 }

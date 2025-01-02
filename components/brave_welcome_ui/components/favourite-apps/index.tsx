@@ -121,14 +121,14 @@ function FavouriteApp() {
   // const hasSelectedBrowser =
     // currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0
   const handleImportProfiles = () => {
-    if (selectedProfiles.size <= 0) return
+    if (selectedProfiles.size < 0) return
     let entries: string[] = []
     selectedProfiles.forEach((entry) => {
       entries.push(browserTypes[entry])
       // incrementCount()
     })
 
-    if (entries.length === 1) {
+    if (entries.length === 0) {
       // ImportDataBrowserProxyImpl.getInstance().importData(entries[0], defaultImportTypes)
       console.log(entries)
     } else {
