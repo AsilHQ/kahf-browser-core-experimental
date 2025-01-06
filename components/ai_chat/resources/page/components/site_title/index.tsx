@@ -9,6 +9,7 @@ import { useConversation } from '../../state/conversation_context'
 import styles from './style.module.scss'
 interface SiteTitleProps {
   size: 'default' | 'small'
+  title: string
 }
 
 function SiteTitle(props: SiteTitleProps) {
@@ -27,7 +28,7 @@ function SiteTitle(props: SiteTitleProps) {
           [styles.favIconContainerSm]: props.size === 'small'
         })}
       >
-        { context.faviconUrl && <img src={context.faviconUrl} /> }
+        {context.faviconUrl && <img src={context.faviconUrl} />}
       </div>
       <div
         className={classnames({
@@ -37,9 +38,9 @@ function SiteTitle(props: SiteTitleProps) {
       >
         <p
           className={styles.title}
-          title={context.associatedContentInfo?.title}
+          title={props.title}
         >
-          {context.associatedContentInfo?.title}
+          {props.title}
         </p>
       </div>
     </div>

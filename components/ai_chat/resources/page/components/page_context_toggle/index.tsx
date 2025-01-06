@@ -58,7 +58,8 @@ function PageContextToggle() {
                 {getLocale('contextToggleTooltipInfo')}
               </div>
               <div className={styles.tooltipSiteTitle}>
-                <SiteTitle size='small' />
+                {conversationContext.associatedContentInfo?.details.map((d, i) =>
+                  <SiteTitle key={i} size='small' title={d.title} />)}
               </div>
             </div>
             <Button

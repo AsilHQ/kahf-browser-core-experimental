@@ -276,8 +276,10 @@ void AIChatUIPageHandler::GetFaviconImageDataForAssociatedContent(
     GetFaviconImageDataCallback callback,
     mojom::SiteInfoPtr content_info,
     bool should_send_page_contents) {
+  // TODO(fallaciousreasoning): We should look this up from the hostname
   if (!content_info->is_content_association_possible ||
-      !content_info->url.has_value() || !content_info->url->is_valid()) {
+      content_info->details.empty() ||
+      !content_info->details[0]->url.is_valid()) {
     std::move(callback).Run(std::nullopt);
     return;
   }
@@ -297,8 +299,9 @@ void AIChatUIPageHandler::GetFaviconImageDataForAssociatedContent(
         std::move(callback).Run(std::move(bytes));
       };
 
+  auto url = content_info->details[0]->url;
   favicon_service_->GetRawFaviconForPageURL(
-      content_info->url.value(), icon_types, kDesiredFaviconSizePixels, true,
+      url, icon_types, kDesiredFaviconSizePixels, true,
       base::BindOnce(on_favicon_available, std::move(callback)),
       &favicon_task_tracker_);
 }
