@@ -5,32 +5,32 @@
 export const images: NewTab.BraveBackground[] = [{
   'type': 'brave',
   'wallpaperImageUrl': 'ekrem-osmanoglu-2R0gbZXaUqM-unsplash.webp',
-  'author': 'ekrem osmanoglu',
-  'link': 'https://unsplash.com/photos/2R0gbZXaUqM',
+  'author': 'Resulmuslu',
+  'link': '#',
   'originalUrl': 'Contributor sent the hi-res version through email',
   'license': 'used with permission'
-},
+  },
   {
     'type': 'brave',
     'wallpaperImageUrl': 'ayse-bek-YLdYVzHopto-unsplash.webp',
-    'author': 'Ayse Bek',
-    'link': 'https://unsplash.com/photos/YLdYVzHopto',
+    'author': 'kanuman',
+    'link': '#',
     'originalUrl': 'Contributor sent the hi-res version through email',
     'license': 'used with permission'
   },
   {
     'type': 'brave',
     'wallpaperImageUrl': 'fahrul-azmi-gyKmF0vnfBs-unsplash.webp',
-    'author': 'Fahrul Azmi',
-    'link': 'https://unsplash.com/photos/gyKmF0vnfBs',
+    'author': 'EyeEm',
+    'link': '#',
     'originalUrl': 'Contributor sent the hi-res version through email',
     'license': 'used with permission'
   },
   {
     'type': 'brave',
     'wallpaperImageUrl': 'fatih-yurur-kNSREmtaGOE-unsplash.webp',
-    'author': 'Fatih Yürür',
-    'link': 'https://unsplash.com/photos/kNSREmtaGOE',
+    'author': 'Alenthien',
+    'link': '#',
     'originalUrl': 'Contributor sent the hi-res version through email',
     'license': 'used with permission'
   },
@@ -38,8 +38,35 @@ export const images: NewTab.BraveBackground[] = [{
   {
     'type': 'brave',
     'wallpaperImageUrl': 'abdurahman-iseini-DNwQ35LdxXQ-unsplash.webp',
-    'author': 'abdurahman iseini',
-    'link': 'https://unsplash.com/photos/DNwQ35LdxXQ',
+    'author': 'anujakjaimook',
+    'link': '#',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'Sultan-Qaboos.webp',
+    'author': 'emilymwilson@comcast.net',
+    'link': '#',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'Mosque-interior.webp',
+    'author': 'Garry Killian',
+    'link': '#',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'Melaka-Malacca.webp',
+    'author': 'fiz_zero',
+    'link': '#',
     'originalUrl': 'Contributor sent the hi-res version through email',
     'license': 'used with permission'
   }

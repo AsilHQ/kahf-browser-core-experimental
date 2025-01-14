@@ -53,6 +53,12 @@ base::span<const webui::ResourcePath> GetWebUIResources(
               IDR_BRAVE_NEW_TAB_BACKGROUND5},
             {"abdurahman-iseini-DNwQ35LdxXQ-unsplash.webp",
               IDR_BRAVE_NEW_TAB_BACKGROUND6},
+            {"Sultan-Qaboos.webp",
+              IDR_BRAVE_NEW_TAB_BACKGROUND7},
+            {"Mosque-interior.webp",
+              IDR_BRAVE_NEW_TAB_BACKGROUND8},
+            {"Melaka-Malacca.webp",
+              IDR_BRAVE_NEW_TAB_BACKGROUND9},
             // private tab
             {"c168145d6bf1abf2c0322636366f7dbe.svg",
              IDR_BRAVE_PRIVATE_TAB_TOR_IMG},
