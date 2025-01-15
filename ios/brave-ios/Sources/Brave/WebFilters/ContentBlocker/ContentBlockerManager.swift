@@ -405,6 +405,15 @@ import os.log
           ] as [String: Any?],
         ])
 
+        // adds exception for `p.typekit.net/p.css` on `petsafe.com` to all rule lists
+        if let results = try? AdblockEngine.contentBlockerRules(
+          fromFilterSet: "@@||p.typekit.net/p.css$stylesheet,domain=petsafe.com"
+        ),
+          let decoded = try? await self.decode(encodedContentRuleList: results.rulesJSON)
+        {
+          ruleList.append(contentsOf: decoded)
+        }
+
         let modifiedData = try JSONSerialization.data(withJSONObject: ruleList)
         return String(bytes: modifiedData, encoding: .utf8)
       }
