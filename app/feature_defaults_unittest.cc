@@ -142,7 +142,7 @@ TEST(FeatureDefaultsTest, DisabledFeatures) {
       &features::kDevToolsConsoleInsights,
 #endif  // !BUILDFLAG(IS_ANDROID)
       &features::kDigitalGoodsApi,
-      &features::kDIPS,
+      &features::kBtm,
       &features::kFedCm,
 #if BUILDFLAG(IS_WIN) || BUILDFLAG(IS_MAC) || BUILDFLAG(IS_LINUX)
       &features::kFewerUpdateConfirmations,
