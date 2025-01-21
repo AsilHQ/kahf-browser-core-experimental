@@ -24,7 +24,7 @@ export const TileImageContainer = styled('div')<{}>`
   width: 56px;
   height: 56px;
   border-radius: 100px;
-  background: #ffffff;
+  background: #FFFFFF40;
   backdrop-filter: blur(8px);
   display: flex;
   align-items: center;

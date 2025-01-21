@@ -19,7 +19,7 @@ const searchBoxClass = 'ntp-search-box'
 const SearchInput = styled(Input)`
   --leo-control-focus-effect: none;
   --leo-control-padding: 16px 35px;
-  --leo-control-color: rgba(255, 255, 255, 0.3);
+  --leo-control-color: rgba(0, 0, 0);
   --leo-control-text-color: ${color.white};
   --leo-control-font: ${font.large.regular};
 
@@ -46,7 +46,7 @@ const Container = styled.div`
   &:has(+ .search-results) {
     --leo-control-radius: ${searchBoxRadius} ${searchBoxRadius} 0 0;
   }
-  background:black;
+  // background:black;
   // opacity:0.2;
   border-radius: var(--leo-control-radius);
   // margin-top: -50px;
@@ -81,7 +81,7 @@ export default function SearchBox() {
   }, [])
   return <Container className={searchBoxClass}>
     <SearchInput tabIndex={1} type="text" ref={searchInput} value={query} onInput={e => setQuery(e.value)} placeholder={placeholderText} >
-      <div style={{ height: '24px', width: '24px', marginTop:'0px', marginBottom: '14px', marginLeft: '6px',marginRight: '4px' }}>
+      <div style={{ height: '24px', width: '24px', marginTop:'0px', marginBottom: '10px', marginLeft: '8px',marginRight: '4px', zIndex: '0' }}>
       <Flex slot="left-icon" align='center'>
       <SearchBoxSvgComponent />
       </Flex>
