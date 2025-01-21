@@ -56,7 +56,7 @@ const StyledPage = styled('div') <PageProps>`
   --ntp-extra-footer-rows: ${p => p.showBrandedWallpaper ? 1 : 0};
   --ntp-space-rows: 0;
   --ntp-page-rows: calc(var(--ntp-item-row-count) + var(--ntp-space-rows));
-  --ntp-page-padding: 12px;
+  --ntp-page-padding: 2rem;
   --ntp-item-justify: start;
   --blur-amount: calc(var(--ntp-extra-content-effect-multiplier, 0) * 38px);
   @media screen and (max-width: ${breakpointLargeBlocks}) {
@@ -226,7 +226,7 @@ export const GridItemCredits = styled('section')`
   grid-row: calc(-2 - var(--ntp-extra-footer-rows)) / span calc(1 + var(--ntp-extra-footer-rows));
   align-self: end;
 
-  margin: 0 0 var(--ntp-grid-item-credits-bottom-margin-wide) var(--ntp-grid-item-credits-left-margin-wide);
+  /* margin: 0 0 var(--ntp-grid-item-credits-bottom-margin-wide) var(--ntp-grid-item-credits-left-margin-wide); */
   @media screen and (max-width: ${breakpointEveryBlock}) {
     /* Display on left, keeping Navigation on right even on wrapped row. */
     margin: 0 auto 0 var(--ntp-grid-item-credits-left-margin-narrow);
@@ -262,7 +262,7 @@ export const GridItemNavigation = styled('section')`
   grid-column: 2 / span 2;
   grid-row: -2 / span 1;
   align-self: end;
-  margin: 0 24px 24px 0;
+  /* margin: 0 24px 24px 0; */
   @media screen and (max-width: ${breakpointEveryBlock}) {
     margin: 0;
     align-self: flex-end;
@@ -271,7 +271,7 @@ export const GridItemNavigation = styled('section')`
 
 export const GridItemPageFooter = styled('div') <{}>`
   position: absolute;
-  bottom: 20px;
+  top: 63%;
   left: 50%;
   transform: translate(-50%, 0);
   margin: 0 auto;
@@ -468,6 +468,9 @@ export const IconButtonSideText = styled('label') <IconButtonSideTextProps>`
   cursor: pointer;
   user-select: none;
   width: max-content;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: inherit;
 
   &:focus-within {
     /* get the browser defaults */

@@ -20,7 +20,7 @@ const getWidgetPadding = (type: string) => {
     case 'none':
       return '0px'
     case 'right':
-      return '24px 56px 24px 24px'
+      return '12px 28px 12px 12px'
     case 'default':
     default:
       return '24px'
@@ -39,7 +39,8 @@ export const StyledWidgetContainer = styled('div')<WidgetContainerProps>`
   ${(p)=>p.isStats && `
     background:black;
     opacity:50%;
-    border-radius:16px;`}
+    border-radius:16px;
+    `}
 
   ${(p) => p.isCardWidget && `
     --ntp-widget-menu-container-top: 18px;

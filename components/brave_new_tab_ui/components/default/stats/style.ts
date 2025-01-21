@@ -34,8 +34,8 @@ export const StyledStatsItem = styled('li')<{}>`
 export const StyledStatsItemCounter = styled('span')<{}>`
   color: inherit;
   font-family: ${p => p.theme.fontFamily.heading};
-  font-size: 40px;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 600;
   width: 7ch;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -55,6 +55,5 @@ export const StyledStatsItemDescription = styled('div')<{}>`
   font-size: 16px;
   font-weight: 500;
   color: var(--override-readability-color-rgb, #FFFFFF);
-  margin-top: 8px;
   font-family: ${p => p.theme.fontFamily.heading};
 `

@@ -16,7 +16,7 @@ interface Props {
 export default function AddSite ({ showEditTopSite, isDragging }: Props) {
   return <AddSiteTile onClick={showEditTopSite} isDragging={isDragging}>
       <TileImageContainer>
-        <Icon name='plus-add' />
+        <Icon name='plus-add'  />
       </TileImageContainer>
       <TileTitle>
         {getLocale('addTopSiteDialogTitle')}

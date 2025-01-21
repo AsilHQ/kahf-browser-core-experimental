@@ -23,8 +23,8 @@ export const TileImageContainer = styled('div')<{}>`
   position: relative;
   width: 56px;
   height: 56px;
-  border-radius: 16px;
-  background: #FFFFFF40;
+  border-radius: 100px;
+  background: #ffffff;
   backdrop-filter: blur(8px);
   display: flex;
   align-items: center;
@@ -34,7 +34,8 @@ export const TileImageContainer = styled('div')<{}>`
     content: "";
     position: absolute;
     inset: 0;
-    border-radius: 16px;
+    background-color: white;
+    border-radius: 100px;
     padding: 1px;
     background: linear-gradient(
       156.52deg,
@@ -125,7 +126,6 @@ export const GridPagesContainer = styled('div')<{ customLinksEnabled: boolean }>
   display: flex;
   flex-direction: row;
 
-  margin-left: 24px;
   padding: 24px 24px 0 24px;
   max-width: calc((var(--grid-columns) + 1) * var(--grid-column-width));
   overflow-x: ${p => p.customLinksEnabled ? 'auto' : 'hidden'};

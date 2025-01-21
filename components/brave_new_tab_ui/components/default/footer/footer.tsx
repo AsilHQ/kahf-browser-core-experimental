@@ -52,7 +52,7 @@ export default class FooterInfo extends React.PureComponent<Props, {}> {
             <IconButtonContainer textDirection={textDirection}>
               <IconButtonSideText textDirection={textDirection}>
                 <IconButton onClick={onClickSettings}>
-                  <Icon name='tune' />
+                  <Icon name='settings' style={{ height: 18, width: 18 }} />
                 </IconButton>
                 {getLocale('customize')}
               </IconButtonSideText>

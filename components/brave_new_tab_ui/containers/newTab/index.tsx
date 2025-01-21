@@ -715,6 +715,17 @@ class NewTabPage extends React.Component<Props, State> {
                 ) : null
             } */}
             {cryptoContent}
+            <Page.GridItemPageFooter>
+                {loadTimeData.getBoolean('featureFlagSearchWidget')
+                  && <React.Suspense fallback={null}>
+                    <SearchPlaceholder />
+                  </React.Suspense>}
+                {false && newTabData.showToday && (defaultState.featureFlagBraveNewsFeedV2Enabled
+                  ? <React.Suspense fallback={null}>
+                    <BraveNewsPeek/>
+                  </React.Suspense>
+                  : <BraveNewsHint />)}
+              </Page.GridItemPageFooter>
             <Page.Footer>
               <Page.FooterContent>
                 {isShowingBrandedWallpaper && newTabData.brandedWallpaper &&
@@ -737,17 +748,7 @@ class NewTabPage extends React.Component<Props, State> {
                 />
               </Page.FooterContent>
             </Page.Footer>
-              <Page.GridItemPageFooter>
-                {loadTimeData.getBoolean('featureFlagSearchWidget')
-                  && <React.Suspense fallback={null}>
-                    <SearchPlaceholder />
-                  </React.Suspense>}
-                {false && newTabData.showToday && (defaultState.featureFlagBraveNewsFeedV2Enabled
-                  ? <React.Suspense fallback={null}>
-                    <BraveNewsPeek/>
-                  </React.Suspense>
-                  : <BraveNewsHint />)}
-              </Page.GridItemPageFooter>
+              
           </Page.Page>
         {/* {false && newTabData.showToday &&
        { false && <BraveNews
