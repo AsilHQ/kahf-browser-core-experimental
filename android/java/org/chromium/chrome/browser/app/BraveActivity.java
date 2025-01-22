@@ -1084,6 +1084,7 @@ public abstract class BraveActivity extends ChromeActivity
         if (isFirstInstall && appOpenCount == 0) {
             checkForYandexSE();
             enableSearchSuggestions();
+            QuickSearchEnginesUtil.addSearchEngine(getCurrentProfile());
         }
 
         migrateBgPlaybackToFeature();
