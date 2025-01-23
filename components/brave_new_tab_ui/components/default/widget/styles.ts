@@ -37,8 +37,8 @@ export const StyledWidgetContainer = styled('div')<WidgetContainerProps>`
   min-width: 0;
   position: relative;
   ${(p)=>p.isStats && `
-    background:black;
-    opacity:50%;
+    background:#0000004d;
+    opacity:1.5;
     border-radius:16px;
     `}
 

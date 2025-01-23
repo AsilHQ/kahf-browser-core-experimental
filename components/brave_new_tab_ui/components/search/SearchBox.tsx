@@ -18,7 +18,7 @@ const searchBoxClass = 'ntp-search-box'
 
 const SearchInput = styled(Input)`
   --leo-control-focus-effect: none;
-  --leo-control-padding: 16px 35px;
+  --leo-control-padding: 16px 35px 16px 65px;
   --leo-control-color: rgba(0, 0, 0);
   --leo-control-text-color: ${color.white};
   --leo-control-font: ${font.large.regular};
@@ -26,10 +26,15 @@ const SearchInput = styled(Input)`
   display: inline-block;
   width: 540px;
   overflow: hidden;
-  margin-top: -46px;
+  margin-top: -4px;
+  // padding-left: 30px;
 
   leo-icon {
-    --leo-icon-color: rgba(255, 255, 255, 0.5);
+    --leo-icon-color: rgba(255, 255, 255);
+  }
+
+  &::placeholder {
+    color: white;
   }
 `
 
@@ -81,7 +86,7 @@ export default function SearchBox() {
   }, [])
   return <Container className={searchBoxClass}>
     <SearchInput tabIndex={1} type="text" ref={searchInput} value={query} onInput={e => setQuery(e.value)} placeholder={placeholderText} >
-      <div style={{ height: '24px', width: '24px', marginTop:'0px', marginBottom: '10px', marginLeft: '8px',marginRight: '4px', zIndex: '0' }}>
+      <div style={{ height: '24px', width: '24px', marginTop:'19px', marginBottom: '-43px', marginLeft: '37px',marginRight: '4px', zIndex: '0' }}>
       <Flex slot="left-icon" align='center'>
       <SearchBoxSvgComponent />
       </Flex>
@@ -93,4 +98,5 @@ export default function SearchBox() {
       </SearchIconContainer>
     </SearchInput>
   </Container>
+
 }

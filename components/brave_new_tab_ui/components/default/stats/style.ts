@@ -13,7 +13,7 @@ export const StyledStatsItemContainer = styled('ul')<{}>`
   font-weight: 400;
   margin: 0;
   padding: 0;
-  color: inherit;
+  color: white;
   font-size: inherit;
   font-family: inherit;
 `
@@ -23,16 +23,17 @@ export const StyledStatsItem = styled('li')<{}>`
   font-size: inherit;
   font-family: inherit;
   margin: 10px 16px;
-  &:first-child { color: var(--override-readability-color, var(--interactive2)); }
-  &:nth-child(2) { color: var(--override-readability-color, var(--interactive9)); }
+  &:first-child { color: white; }
+  &:nth-child(2) { color: white; }
   &:last-child { 
-    color: var(--override-readability-color, #FFFFFF); 
+    // color: var(--override-readability-color, #FFFFFF); 
+    color: white;
     margin-right: 0;
   }
 `
 
 export const StyledStatsItemCounter = styled('span')<{}>`
-  color: inherit;
+  color: white;
   font-family: ${p => p.theme.fontFamily.heading};
   font-size: 2rem;
   font-weight: 600;
@@ -49,11 +50,13 @@ export const StyledStatsItemText = styled('span')<{}>`
   margin-left: 4px;
   display: inline;
   letter-spacing: 0;
+  color: white;
 `
 
 export const StyledStatsItemDescription = styled('div')<{}>`
   font-size: 16px;
-  font-weight: 500;
-  color: var(--override-readability-color-rgb, #FFFFFF);
+  font-weight: 400;
+  color: #FFFFFF;
+  opacity:0.9;
   font-family: ${p => p.theme.fontFamily.heading};
 `

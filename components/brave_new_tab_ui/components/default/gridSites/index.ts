@@ -24,7 +24,7 @@ export const TileImageContainer = styled('div')<{}>`
   width: 56px;
   height: 56px;
   border-radius: 100px;
-  background: #FFFFFF40;
+  background: white;
   backdrop-filter: blur(8px);
   display: flex;
   align-items: center;
@@ -74,7 +74,7 @@ export const AddSiteTile = styled('button')<AddSiteTileProps>`
   gap: 8px;
 
   --leo-icon-size: 32px;
-  --leo-icon-color: rgba(255, 255, 255, .7);
+  --leo-icon-color: rgba(0, 0, 0, .7);
 
   ${p => p.isDragging && css`
     visibility: hidden;

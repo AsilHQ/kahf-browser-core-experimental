@@ -46,27 +46,28 @@ int GetViewPadding() {
 BookmarkBarInstructionsView::BookmarkBarInstructionsView(Browser* browser)
     : browser_(browser) {
   SetID(BRAVE_VIEW_ID_BOOKMARK_IMPORT_INSTRUCTION_VIEW);
-  instructions_ = new views::Label(
-      brave_l10n::GetLocalizedResourceUTF16String(IDS_BOOKMARKS_NO_ITEMS),
-      kBookmarkBarTextContext);
+  // instructions_ = new views::Label(
+  //     brave_l10n::GetLocalizedResourceUTF16String(IDS_BOOKMARKS_NO_ITEMS),
+  //     kBookmarkBarTextContext);
+  instructions_ = new views::Label(u"", kBookmarkBarTextContext);
   instructions_->SetAutoColorReadabilityEnabled(false);
   instructions_->SetHorizontalAlignment(gfx::ALIGN_LEFT);
   AddChildView(instructions_.get());
 
-  if (browser_defaults::kShowImportOnBookmarkBar) {
-    import_link_ = new views::Link(brave_l10n::GetLocalizedResourceUTF16String(
-                                       IDS_BOOKMARK_BAR_IMPORT_LINK),
-                                   kBookmarkBarTextContext);
-    // We don't want the link to alter tab navigation.
-    import_link_->SetCallback(
-        base::BindRepeating(&BookmarkBarInstructionsView::LinkClicked,
-                            base::Unretained(this)));
-    import_link_->SetFocusBehavior(FocusBehavior::NEVER);
-    import_link_->set_context_menu_controller(this);
-    import_link_->SetAutoColorReadabilityEnabled(false);
-    import_link_->SetHorizontalAlignment(gfx::ALIGN_LEFT);
-    AddChildView(import_link_.get());
-  }
+  // if (browser_defaults::kShowImportOnBookmarkBar) {
+  //   import_link_ = new views::Link(brave_l10n::GetLocalizedResourceUTF16String(
+  //                                      IDS_BOOKMARK_BAR_IMPORT_LINK),
+  //                                  kBookmarkBarTextContext);
+  //   // We don't want the link to alter tab navigation.
+  //   import_link_->SetCallback(
+  //       base::BindRepeating(&BookmarkBarInstructionsView::LinkClicked,
+  //                           base::Unretained(this)));
+  //   import_link_->SetFocusBehavior(FocusBehavior::NEVER);
+  //   import_link_->set_context_menu_controller(this);
+  //   import_link_->SetAutoColorReadabilityEnabled(false);
+  //   import_link_->SetHorizontalAlignment(gfx::ALIGN_LEFT);
+  //   AddChildView(import_link_.get());
+  // }
 }
 
 gfx::Size BookmarkBarInstructionsView::CalculatePreferredSize(
