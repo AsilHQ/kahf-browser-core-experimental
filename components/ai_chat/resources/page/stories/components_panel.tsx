@@ -615,7 +615,9 @@ function StoryContext(props: React.PropsWithChildren<{ args: CustomArgs, setArgs
     handleActionTypeClick: () => {},
     setIsToolsMenuOpen: () => {},
     handleFeedbackFormCancel: () => {},
-    handleFeedbackFormSubmit: () => {}
+    handleFeedbackFormSubmit: () => {},
+    removeImage: () => {},
+    uploadImage: () => {}
   }
 
   const conversationEntriesContext: UntrustedConversationContext = {
