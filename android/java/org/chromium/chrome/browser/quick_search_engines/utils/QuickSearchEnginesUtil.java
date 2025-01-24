@@ -20,6 +20,7 @@ import org.chromium.chrome.browser.settings.BraveSearchEngineUtils;
 import org.chromium.chrome.browser.util.SharedPreferencesHelper;
 import org.chromium.components.search_engines.TemplateUrl;
 import org.chromium.components.search_engines.TemplateUrlService;
+// import org.chromium.components.search_engines.BraveTemplateUrlService;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -369,6 +370,6 @@ public class QuickSearchEnginesUtil {
     }
 
     public static void addSearchEngine(Profile profile) {
-        TemplateUrlServiceFactory.getForProfile(profile).addSearchEngine();
+        // ((BraveTemplateUrlService)TemplateUrlServiceFactory.getForProfile(profile)).addSearchEngine();
     }
 }
