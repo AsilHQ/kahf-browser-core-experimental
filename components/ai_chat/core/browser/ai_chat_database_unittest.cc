@@ -419,7 +419,8 @@ TEST_P(AIChatDatabaseTest, DeleteAssociatedWebContent) {
   conversations = db_->GetAllConversations();
   EXPECT_EQ(conversations.size(), 2u);
   ExpectConversationEquals(FROM_HERE, conversations[0], metadata_first);
-  metadata_second->associated_content = nullptr;
+  metadata_second->associated_content->url = GURL();
+  metadata_second->associated_content->title = "";
   ExpectConversationEquals(FROM_HERE, conversations[1], metadata_second);
 
   archive_result = db_->GetConversationData("second");
@@ -531,12 +532,8 @@ TEST_P(AIChatDatabaseMigrationTest, MigrationToVCurrent) {
     // ConversationEntry table changed, check it persists correctly
     auto now = base::Time::Now();
     const std::string uuid = "migrationtest";
-    mojom::SiteInfoPtr associated_content = mojom::SiteInfo::New(
-        std::nullopt, mojom::ContentType::PageContent, std::nullopt,
-        std::nullopt, std::nullopt, 0, false, false);
-    const mojom::ConversationPtr metadata =
-        mojom::Conversation::New(uuid, "title", now - base::Hours(2), true,
-                                 std::nullopt, std::move(associated_content));
+    const mojom::ConversationPtr metadata = mojom::Conversation::New(
+        uuid, "title", now - base::Hours(2), true, std::nullopt, nullptr);
 
     // Persist the first entry (and get the response ready)
     auto history = CreateSampleChatHistory(1u);
