@@ -77,13 +77,16 @@ SplitView::SplitView(Browser& browser,
       std::make_unique<views::WebView>(browser_->profile()));
   secondary_contents_web_view_ = secondary_contents_container_->AddChildView(
       std::make_unique<ActivatableContentsWebView>(browser_->profile()));
+  secondary_contents_scrim_view_ = secondary_contents_container_->AddChildView(
+      std::make_unique<ScrimView>());
 
   split_view_separator_ = AddChildView(
       std::make_unique<SplitViewSeparator>(base::to_address(browser_)));
 
   secondary_contents_container_->SetLayoutManager(
       std::make_unique<ContentsLayoutManager>(secondary_devtools_web_view_,
-                                              secondary_contents_web_view_));
+                                              secondary_contents_web_view_,
+                                              secondary_contents_scrim_view_));
 
   SetLayoutManager(std::make_unique<SplitViewLayoutManager>(
       contents_container_, secondary_contents_container_,

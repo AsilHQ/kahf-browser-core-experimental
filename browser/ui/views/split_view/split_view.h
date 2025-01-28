@@ -17,6 +17,7 @@
 #include "brave/browser/ui/tabs/split_view_browser_data_observer.h"
 #include "brave/browser/ui/views/split_view/split_view_layout_manager.h"
 #include "chrome/browser/ui/tabs/tab_model.h"
+#include "chrome/browser/ui/views/frame/scrim_view.h"
 #include "ui/base/metadata/metadata_header_macros.h"
 #include "ui/gfx/geometry/rounded_corners_f.h"
 #include "ui/views/view.h"
@@ -124,6 +125,7 @@ class SplitView : public views::View, public SplitViewBrowserDataObserver {
   raw_ptr<views::View> secondary_contents_container_ = nullptr;
   raw_ptr<views::WebView> secondary_devtools_web_view_ = nullptr;
   raw_ptr<ContentsWebView> secondary_contents_web_view_ = nullptr;
+  raw_ptr<ScrimView> secondary_contents_scrim_view_ = nullptr;
 
   raw_ptr<SplitViewSeparator> split_view_separator_ = nullptr;
 
