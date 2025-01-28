@@ -110,7 +110,7 @@ export const PagesContainer = styled('div')`
 
   margin-bottom: 24px;
 
-  --grid-columns: 6;
+  --grid-columns: 4;
   --grid-column-width: 72px;
 
   @media screen and (max-width: 700px) {

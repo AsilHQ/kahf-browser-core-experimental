@@ -974,7 +974,7 @@
     <message name="IDS_BATCH_UPLOAD_SAVE_TO_ACCOUNT_OK_BUTTON_LABEL" desc="Text of the button that triggers the saving of the selected items in the Batch Upload dialog. When pressing the button, selected items are moved to the account storage (Saved in account) and the dialog is then closed.">
       Save in account
     </message>
-    <message name="IDS_BATCH_UPLOAD_AVATAR_BUTTON_SAVING_TO_ACCOUNT" desc="Text shown on the avatar button pill after the user has requested to save items in their account through the Batch Upload dialog. The text is shown for few seconds then disappears.">
+    <message name="IDS_BATCH_UPLOAD_AVATAR_BUTTON_SAVING_TO_ACCOUNT" desc="Text shown on the avatar button pill after the user has requested to save items in their account through the Batch Upload dialog. The text is shown for few sec then disappears.">
       Saving in your account...
     </message>
   </if>

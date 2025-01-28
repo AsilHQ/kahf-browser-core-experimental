@@ -50,7 +50,7 @@ A user is reading this web page.</message>
 The user selects this excerpt from the page content.
 </message>
 
-<message name="IDS_AI_CHAT_CLAUDE_VIDEO_PROMPT_SEGMENT" translateable="false" desc="Default prompt for summarization of a video">The following is XML describing a video's transcript. The text elements are delimited within text tags with the following format &lt;text start="1.23" dur="1.23"&gt;&lt;/text&gt; where the "start" attribute indicates the start time in seconds of the contained line, and the "dur" attribute indicates its duration in seconds.
+<message name="IDS_AI_CHAT_CLAUDE_VIDEO_PROMPT_SEGMENT" translateable="false" desc="Default prompt for summarization of a video">The following is XML describing a video's transcript. The text elements are delimited within text tags with the following format &lt;text start="1.23" dur="1.23"&gt;&lt;/text&gt; where the "start" attribute indicates the start time in sec of the contained line, and the "dur" attribute indicates its duration in sec.
   &lt;transcript&gt;
   <ph name="TRANSCRIPT">$1</ph>
   &lt;/transcript&gt;

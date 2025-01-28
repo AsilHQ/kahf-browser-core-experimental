@@ -1058,8 +1058,8 @@
   <message name="IDS_SETTINGS_CLEAR_PERIOD_EVERYTHING" desc="The option to delete browsing data from the beginning of time.">
     All time
   </message>
-  <message name="IDS_SETTINGS_CLEAR_PERIOD_15_MINUTES" desc="The option to delete browsing data from the last 15 minutes.">
-    Last 15 minutes
+  <message name="IDS_SETTINGS_CLEAR_PERIOD_15_MINUTES" desc="The option to delete browsing data from the last 15 min.">
+    Last 15 min
   </message>
   <message name="IDS_SETTINGS_CLEAR_PERIOD_NOT_SELECTED" desc="This is the text that is shown in the clear browsing data time range dropdown until the user selected a time range from this dropdown.">
     Select a time range
@@ -1833,10 +1833,10 @@
   <message name="IDS_SETTINGS_SAFETY_CHECK_PARENT_PRIMARY_LABEL_AFTER" desc="A message shown on the top of the safety check feature, explaining to the user that it ran a moment ago.">
     Safety check ran a moment ago
   </message>
-  <message name="IDS_SETTINGS_SAFETY_CHECK_PARENT_PRIMARY_LABEL_AFTER_MINS" desc="A message shown on the top of the safety check feature, explaining to the user that it ran minutes ago.">
+  <message name="IDS_SETTINGS_SAFETY_CHECK_PARENT_PRIMARY_LABEL_AFTER_MINS" desc="A message shown on the top of the safety check feature, explaining to the user that it ran min ago.">
     {NUM_MINS, plural,
      =1 {Safety check ran 1 minute ago}
-     other {Safety check ran {NUM_MINS} minutes ago}}
+     other {Safety check ran {NUM_MINS} min ago}}
   </message>
   <message name="IDS_SETTINGS_SAFETY_CHECK_PARENT_PRIMARY_LABEL_AFTER_HOURS" desc="A message shown on the top of the safety check feature, explaining to the user that it ran hours ago.">
     {NUM_HOURS, plural,
@@ -4313,7 +4313,7 @@
   <message name="IDS_SETTINGS_SECURITY_KEYS_RESET_SUCCESS" desc="A message to the user that they have successfully reset (i.e. erased) their security key (which is an external device for user authentication).">
     Your security key has been reset
   </message>
-  <message name="IDS_SETTINGS_SECURITY_KEYS_RESET_NOTALLOWED" desc="A message to the user that an attempt to reset (i.e. erase) their security key (an external device for user authentication) failed because the security key refused to be reset. This is usually caused because a reset is only allowed within the first few seconds after being plugged in, so the user has to perform the operation quickly.">
+  <message name="IDS_SETTINGS_SECURITY_KEYS_RESET_NOTALLOWED" desc="A message to the user that an attempt to reset (i.e. erase) their security key (an external device for user authentication) failed because the security key refused to be reset. This is usually caused because a reset is only allowed within the first few sec after being plugged in, so the user has to perform the operation quickly.">
     Can’t reset this security key. Try resetting the key immediately after inserting it.
   </message>
   <message name="IDS_SETTINGS_SECURITY_KEYS_NO_PIN" desc="A failure message shown to a user when they attempt to set a PIN on a security key that does not support PINs. PINs, in this context, are short, often numeric codes that are often used with, for example, ATM cards. Security keys are external devices used to authenticate people.">

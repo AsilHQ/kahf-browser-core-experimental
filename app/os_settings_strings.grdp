@@ -1137,7 +1137,7 @@
     Scanning is taking longer than expected
   </message>
   <message name="IDS_SETTINGS_GOOGLE_DRIVE_FILE_SYNC_LISTING_FILES_ITEMS_FOUND_BODY_TEXT" desc="Body text for the dialog that spawns when a user tries to turn on bulk pinning whilst we're still listing files and we have a known count of listed files in Settings: Files: Google Drive.">
-    File sync has found <ph name="ITEMS_FOUND">$1<ex>1,072</ex></ph> files so far and is still checking storage space. Try turning on File sync again in a few minutes.
+    File sync has found <ph name="ITEMS_FOUND">$1<ex>1,072</ex></ph> files so far and is still checking storage space. Try turning on File sync again in a few min.
   </message>
   <message name="IDS_SETTINGS_GOOGLE_DRIVE_REMOVE_ACCESS_BUTTON_LABEL" desc="Button label indicates that, when pressed, will disconnect the users Google Drive access in Settings: Files: Google Drive">
     Remove Drive access
@@ -1991,20 +1991,20 @@ Use Ctrl + Alt + Brightness down to zoom out.
   <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_LABEL" desc="Label for dropdown menu which contains various time delays for mouse action.">
     Delay before click
   </message>
-  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_EXTREMELY_SHORT" desc="Description of an extremely short delay before mouse action, at .6 seconds.">
-    0.6 seconds
+  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_EXTREMELY_SHORT" desc="Description of an extremely short delay before mouse action, at .6 sec.">
+    0.6 sec
   </message>
-  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_VERY_SHORT" desc="Description of a very short delay before mouse action, at .8 seconds.">
-    0.8 seconds
+  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_VERY_SHORT" desc="Description of a very short delay before mouse action, at .8 sec.">
+    0.8 sec
   </message>
   <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_SHORT" desc="Description of a short delay before mouse action, at 1 second.">
     1 second
   </message>
-  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_LONG" desc="Description of a long delay before mouse action, at 2 seconds.">
-    2 seconds
+  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_LONG" desc="Description of a long delay before mouse action, at 2 sec.">
+    2 sec
   </message>
-  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_VERY_LONG" desc="Description of a very long delay before mouse action, at 4 seconds.">
-    4 seconds
+  <message name="IDS_SETTINGS_DELAY_BEFORE_CLICK_VERY_LONG" desc="Description of a very long delay before mouse action, at 4 sec.">
+    4 sec
   </message>
   <message name="IDS_SETTINGS_AUTOCLICK_REVERT_TO_LEFT_CLICK" desc="Description of a checkbox that gives the option to return to the default left click action after taking another action.">
     Revert to left click after action
@@ -2340,7 +2340,7 @@ Use Ctrl + Alt + Brightness down to zoom out.
   <message name="IDS_SETTINGS_SWITCH_ACCESS_POINT_SCAN_SPEED_LABEL" desc="Label for slider which sets the speed of point scanning cursors for Switch Access, which move across the screen, allowing the user to choose a precise point to click. Switch Access is an alternative input method designed for users with limited mobility, where the user has as little as one switch (for example, a button) to control the computer.">
     Point scanning speed
   </message>
-  <message name="IDS_SETTINGS_DURATION_IN_SECONDS" desc="A duration in seconds. Should be short.">
+  <message name="IDS_SETTINGS_DURATION_IN_SECONDS" desc="A duration in sec. Should be short.">
     <ph name="DURATION">$1<ex>1.5</ex></ph>s
   </message>
   <message name="IDS_SETTINGS_SWITCH_ACCESS_ACTION_ASSIGNMENT_DIALOG_TITLE" desc="A title for a dialog to assign a switch key to an action. Switch Access is an alternative input method designed for users with limited mobility, where the user has as little as one switch (for example, a button) to control the computer.">
@@ -3060,7 +3060,7 @@ Press an assigned switch or key to remove assignment.
     At least <ph name="INSTALL_SIZE">$1<ex>5.0 GB</ex></ph> of space is recommended for Linux. To increase free space, delete files from your device.
   </message>
   <message name="IDS_SETTINGS_CROSTINI_DISK_RESIZE_LOADING" desc="The message shown to the user while fetching the data needed to resize their disk.">
-    Loading data, this may take up to a few seconds.
+    Loading data, this may take up to a few sec.
   </message>
   <message name="IDS_SETTINGS_CROSTINI_DISK_RESIZE_ERROR" desc="The message shown to the user when loading data to offer the resize failed. This error is retryable.">
     Error loading data
@@ -4783,25 +4783,25 @@ Press an assigned switch or key to remove assignment.
     This may cause your mobile network to briefly disconnect
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_INSTALLING_PROFILE" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that an eSIM profile is being installed and notifying the user why mobile settings are temporarily disabled.">
-    Adding profile. This may take a few minutes.
+    Adding profile. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_RENAMING_PROFILE" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that an eSIM profile is being renamed and notifying the user why mobile settings are temporarily disabled.">
-    Renaming profile. This may take a few minutes.
+    Renaming profile. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_REMOVING_PROFILE" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that an eSIM profile is being uninstalled and notifying the user why mobile settings are temporarily disabled.">
-    Removing profile. This may take a few minutes.
+    Removing profile. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_CONNECTING_TO_PROFILE" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that an eSIM profile connection is currently in progress and notifying the user why mobile settings are temporarily disabled.">
-    Connecting to profile. This may take a few minutes.
+    Connecting to profile. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_REFRESHING_PROFILE_LIST" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that the list of eSIM profiles is being refreshed and notifying the user why mobile settings are temporarily disabled.">
-    Refreshing profile list. This may take a few minutes.
+    Refreshing profile list. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_RESETTING_ESIM" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that the eSIM is being reset and notifying the user why mobile settings are temporarily disabled.">
-    Your administrator is resetting your eSIM. This may take a few minutes.
+    Your administrator is resetting your eSIM. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_CELLULAR_REQUESTING_AVAILABLE_PROFILES" desc="Settings &gt; Internet &gt; Mobile data: Message indicating that we are looking for eSIM profiles that are available for installation and notifying the user why mobile settings are temporarily disabled.">
-    Looking for available profiles. This may take a few minutes.
+    Looking for available profiles. This may take a few min.
   </message>
   <message name="IDS_SETTINGS_INTERNET_NETWORK_REMOVE_PROFILE_DIALOG_ERROR_MESSAGE" desc="Settings &gt; Internet &gt; Network details &gt; Remove eSIM cellular profile dialog: Error message shown when remove fails">
     Profile could not be removed. Please try again or contact your carrier for technical support.
@@ -5736,7 +5736,7 @@ Press an assigned switch or key to remove assignment.
     Ticket refreshed
   </message>
   <message name="IDS_SETTINGS_KERBEROS_ACCOUNTS_SIGNED_IN" desc="Text displayed if a Kerberos ticket is in signed-in state on 'Kerberos tickets' Settings page.">
-    Valid for <ph name="TICKET_TIME_LEFT">$1<ex>7 hours 12 minutes</ex></ph>
+    Valid for <ph name="TICKET_TIME_LEFT">$1<ex>7 hours 12 min</ex></ph>
   </message>
   <message name="IDS_SETTINGS_KERBEROS_ACCOUNTS_DESCRIPTION" desc="Description of the 'Kerberos tickets' Settings page. Shown just below the title of the page.">
     Choose a ticket to use for authentication. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$1<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph>
@@ -5833,10 +5833,10 @@ Press an assigned switch or key to remove assignment.
     Shut down when lid is closed
   </message>
   <message name="IDS_SETTINGS_BATTERY_STATUS" desc="In Device Settings &gt; Power, the battery status while the battery is discharging, showing the battery power as a percentage and the time left until the battery is empty.">
-    <ph name="percentage">$1<ex>56</ex></ph>% - <ph name="time">$2<ex>2 hours and 20 minutes</ex></ph> left
+    <ph name="percentage">$1<ex>56</ex></ph>% - <ph name="time">$2<ex>2 hours and 20 min</ex></ph> left
   </message>
   <message name="IDS_SETTINGS_BATTERY_STATUS_CHARGING" desc="In Device Settings &gt; Power, the battery status while the battery is charging, showing the battery power as a percentage and the time left until the battery is full.">
-    <ph name="percentage">$1<ex>56</ex></ph>% - <ph name="time">$2<ex>2 hours and 20 minutes</ex></ph> until full
+    <ph name="percentage">$1<ex>56</ex></ph>% - <ph name="time">$2<ex>2 hours and 20 min</ex></ph> until full
   </message>
   <message name="IDS_SETTINGS_BATTERY_STATUS_SHORT" desc="In Device Settings &gt; Power, the battery status when the time left cannot be shown.">
     <ph name="percentage">$1<ex>56</ex></ph>%
@@ -6946,10 +6946,10 @@ Press &amp; hold keyboard keys to see accent marks and special characters. This 
   <message name="IDS_OS_SETTINGS_REVAMP_DISABLE_DATA_ACCESS_PROTECTION_CONFIRM_DIALOG_DESCRIPTION" desc="The description of the dialog that asks users for confirmation that they indeed do want to disable Data Access Protection.">
     External accessories may be able to access or share personal data.
   </message>
-  <message name="IDS_OS_SETTINGS_DISABLE_DATA_ACCESS_PROTECTION_CONFIRM_DIALOG_SUB_DESCRIPTION" desc="The description of the dialog that states that disabling peripheral data access protection may reset the user's peripherals and may take a few seconds.">
+  <message name="IDS_OS_SETTINGS_DISABLE_DATA_ACCESS_PROTECTION_CONFIRM_DIALOG_SUB_DESCRIPTION" desc="The description of the dialog that states that disabling peripheral data access protection may reset the user's peripherals and may take a few sec.">
     Your displays and peripherals may reset briefly. For this change to take effect, unplug and replug your peripherals.
   </message>
-  <message name="IDS_OS_SETTINGS_REVAMP_DISABLE_DATA_ACCESS_PROTECTION_CONFIRM_DIALOG_SUB_DESCRIPTION" desc="The description of the dialog that states that disabling peripheral data access protection may reset the user's peripherals and may take a few seconds.">
+  <message name="IDS_OS_SETTINGS_REVAMP_DISABLE_DATA_ACCESS_PROTECTION_CONFIRM_DIALOG_SUB_DESCRIPTION" desc="The description of the dialog that states that disabling peripheral data access protection may reset the user's peripherals and may take a few sec.">
     For this change to take effect, reconnect your external accessories.
   </message>
   <message name="IDS_OS_SETTINGS_DATA_ACCESS_PROTECTION_CONFIRM_DIALOG_CANCEL_BUTTON_LABEL" desc="The label of the cancel button for the data access protection confirmation dialog">

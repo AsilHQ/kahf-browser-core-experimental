@@ -559,7 +559,7 @@
       Recently used
     </message>
     <message name="IDS_PAGE_INFO_PERMISSION_USED_TIME_AGO" desc="The label used underneath a permission listed in the Page Info bubble if a feature gated behind the permission was used less than 24 hours ago.">
-      Last used <ph name="NUM_HOURS_MINUTES_SECONDS">$1<ex>2 minutes</ex></ph> ago
+      Last used <ph name="NUM_HOURS_MINUTES_SECONDS">$1<ex>2 min</ex></ph> ago
     </message>
     <!-- Password Protection -->
     <if expr="_google_chrome">

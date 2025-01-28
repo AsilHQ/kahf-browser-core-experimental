@@ -1263,16 +1263,16 @@ Additional details:
   <message name="IDS_POLICY_DEVICE_SCHEDULED_REBOOT_DIALOG_MESSAGE" desc="The message of the dialog informing the user that the device will restart soon.">
     Your administrator will restart your device automatically at <ph name="TIME">$1<ex>3:20 PM</ex></ph> on <ph name="DATE">$2<ex>Nov 29, 2021</ex></ph>. Save any open items before your device restarts.
   </message>
-  <message name="IDS_REBOOT_SCHEDULED_TITLE_MINUTES" desc="The title of a dialog that tells users the device will be restarted within one or more minutes.">
+  <message name="IDS_REBOOT_SCHEDULED_TITLE_MINUTES" desc="The title of a dialog that tells users the device will be restarted within one or more min.">
         {0, plural,
           =1 {Your device will restart in 1 minute}
-          other {Your device will restart in # minutes}}
+          other {Your device will restart in # min}}
   </message>
-  <message name="IDS_REBOOT_SCHEDULED_TITLE_SECONDS" desc="The title of a dialog that tells users the device will be restarted within some number of seconds.">
+  <message name="IDS_REBOOT_SCHEDULED_TITLE_SECONDS" desc="The title of a dialog that tells users the device will be restarted within some number of sec.">
         {0, plural,
           =0 {Your device will restart now}
           =1 {Your device will restart in 1 second}
-          other {Your device will restart in # seconds}}
+          other {Your device will restart in # sec}}
   </message>
   <message name="IDS_POLICY_DEVICE_POST_REBOOT_TITLE" desc="The title for notification informing the user that the device was restarted by the administrator.">
     Your administrator restarted your device
@@ -1370,8 +1370,8 @@ Additional details:
   <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_TITLE_HOUR" desc="The title for the dialog informing the user that migration will start in 1 hour.">
     Your file upload to <ph name="CLOUD_PROVIDER">$1<ex>Microsoft OneDrive</ex></ph> will begin in 1 hour
   </message>  
-  <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_TITLE_MINUTES" desc="The title for the dialog informing the user that migration will start in 2 or more minutes.">
-    Your file upload to <ph name="CLOUD_PROVIDER">$1<ex>Microsoft OneDrive</ex></ph> will begin in <ph name="MINUTES">$2<ex>36</ex></ph> minutes
+  <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_TITLE_MINUTES" desc="The title for the dialog informing the user that migration will start in 2 or more min.">
+    Your file upload to <ph name="CLOUD_PROVIDER">$1<ex>Microsoft OneDrive</ex></ph> will begin in <ph name="MINUTES">$2<ex>36</ex></ph> min
   </message>
   <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_TITLE_MINUTE" desc="The title for the dialog informing the user that migration will start in 1 minute.">
     Your file upload to <ph name="CLOUD_PROVIDER">$1<ex>Microsoft OneDrive</ex></ph> will begin in 1 minute
@@ -1388,7 +1388,7 @@ Additional details:
   <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_UPLOAD_IN_HOURS_BUTTON" desc="Label for the dialog button to ackowledge that the file upload to cloud storage will start at the scheduled time, in some number of hours.">
     Upload in <ph name="HOURS">$1<ex>24</ex></ph> hr
   </message>
-  <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_UPLOAD_IN_MINUTES_BUTTON" desc="Label for the dialog button to ackowledge that the file upload to cloud storage will start at the scheduled time, in some number of minutes.">
+  <message name="IDS_POLICY_SKYVAULT_MIGRATION_DIALOG_UPLOAD_IN_MINUTES_BUTTON" desc="Label for the dialog button to ackowledge that the file upload to cloud storage will start at the scheduled time, in some number of min.">
     Upload in <ph name="MINUTES">$1<ex>36</ex></ph> min
   </message>
 </grit-part>

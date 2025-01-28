@@ -181,7 +181,7 @@
   <message name="IDS_BRAVE_WALLET_WELCOME_TITLE" desc="Onboarding welcome screen title">Browser-native. Self-custody. And multi-chain.</message>
   <message name="IDS_BRAVE_WALLET_WELCOME_DESCRIPTION" desc="Onboarding welcome screen description">Take control of your crypto and NFTs. Kahf Wallet supports Ethereum, EVM chains, Solana, Filecoin, Bitcoin, and more.</message>
   <message name="IDS_BRAVE_WALLET_WELCOME_NEW_WALLET_TITLE" desc="Onboarding welcome screen, new wallet action">Need a new wallet?</message>
-  <message name="IDS_BRAVE_WALLET_WELCOME_NEW_WALLET_DESCRIPTION" desc="Onboarding welcome screen, new wallet action description">Get started with Kahf Wallet in minutes.</message>
+  <message name="IDS_BRAVE_WALLET_WELCOME_NEW_WALLET_DESCRIPTION" desc="Onboarding welcome screen, new wallet action description">Get started with Kahf Wallet in min.</message>
   <message name="IDS_BRAVE_WALLET_WELCOME_IMPORT_WALLET_TITLE" desc="Onboarding welcome screen, import wallet action title">Already have a wallet?</message>
   <message name="IDS_BRAVE_WALLET_WELCOME_WATCH_ONLY_TITLE" desc="Onboarding welcome screen, create watch only wallet">I need a watch-only wallet</message>
   <message name="IDS_BRAVE_WALLET_WELCOME_COPYRIGHT" desc="Onboarding welcome screen copyright">©2024 Kahf Software Inc. Kahf and the Kahf logo are registered trademarks of Kahf Software, Inc. Other product names and logos may be trademarks of their respective companies. All rights reserved.</message>
@@ -831,7 +831,7 @@
   <message name="IDS_BRAVE_WALLET_PASSWORD_IS_MEDIUM_STRENGTH" desc="Password is of medium strength">Medium</message>
   <message name="IDS_BRAVE_WALLET_PASSWORD_IS_WEAK" desc="Password is weak">Weak</message>
   <message name="IDS_BRAVE_WALLET_AUTO_LOCK_TITLE" desc="Auto lock title">Kahf Wallet will auto-lock after</message>
-  <message name="IDS_BRAVE_WALLET_AUTO_LOCK_DURATION_MINUTES" desc="Auto lock duration - in minutes"><ph name="VALUE">$1<ex>10</ex></ph> Minutes</message>
+  <message name="IDS_BRAVE_WALLET_AUTO_LOCK_DURATION_MINUTES" desc="Auto lock duration - in min"><ph name="VALUE">$1<ex>10</ex></ph> Minutes</message>
   <message name="IDS_BRAVE_WALLET_AUTO_LOCK_DURATION_HOURS" desc="Auto lock duration -  one hour"><ph name="VALUE">$1<ex>1</ex></ph> Hour(s)</message>
   <message name="IDS_BRAVE_WALLET_CREATING_WALLET" desc="Is displayed while the wallet is being created.">Creating Wallet...</message>
   <message name="IDS_BRAVE_WALLET_ONBOARDING_RECOVERY_PHRASE_BACKUP_INTRO_TITLE" desc="Title before backing up wallet">Save your recovery phrase</message>

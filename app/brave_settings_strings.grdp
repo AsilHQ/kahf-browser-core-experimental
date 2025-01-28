@@ -1145,11 +1145,11 @@
   <message name="IDS_SETTINGS_ENABLE_BRAVE_WALLET_IN_PRIVATE_WINDOWS_DESC" desc="The description for enabling private window support">
     Warning: Reusing a wallet address in a private window session can enable a site to link a private window session to a non-private window session.
   </message>
-  <message name="IDS_SETTINGS_AUTO_LOCK_MINUTES" desc="The title for the amount of minutes it takes for the Kahf Wallet to automatically lock">
+  <message name="IDS_SETTINGS_AUTO_LOCK_MINUTES" desc="The title for the amount of min it takes for the Kahf Wallet to automatically lock">
     Automatically lock Kahf Wallet
   </message>
-  <message name="IDS_SETTINGS_AUTO_LOCK_MINUTES_DESC" desc="The description for the amount of minutes it takes for the Kahf Wallet to automatically lock">
-    The number of minutes to wait until the Kahf Wallet is automatically locked
+  <message name="IDS_SETTINGS_AUTO_LOCK_MINUTES_DESC" desc="The description for the amount of min it takes for the Kahf Wallet to automatically lock">
+    The number of min to wait until the Kahf Wallet is automatically locked
   </message>
   <message name="IDS_SETTINGS_WALLET_NETWORKS_ITEM" desc="The label for opening wallet networks list">
     Wallet Networks

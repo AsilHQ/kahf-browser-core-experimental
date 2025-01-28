@@ -252,10 +252,10 @@
   <message name="IDS_SETTINGS_MANAGE_TOPICS_PAGE_DESCRIPTION_LEARN_MORE_ARIA_LABEL" desc="Screenreader text for the 'Learn more' link in the manage topics page description." translateable="false">
     Learn more about managing your ad privacy in Kahf.
   </message>
-  <message name="IDS_SETTINGS_UNBLOCK_TOPIC_TOAST_BODY" desc="When a user unblocks a topic, a toast appears explaining what they did and and how that can make the topic active. The toast appears for at most 10 seconds." formatter_data="android_java">
+  <message name="IDS_SETTINGS_UNBLOCK_TOPIC_TOAST_BODY" desc="When a user unblocks a topic, a toast appears explaining what they did and and how that can make the topic active. The toast appears for at most 10 sec." formatter_data="android_java">
     This topic is unblocked and may become active based on your browsing history
   </message>
-  <message name="IDS_SETTINGS_UNBLOCK_TOPIC_TOAST_BUTTON_TEXT" desc="When a user unblocks a topic, a toast appears explaining what they did and and how that can make the topic active. The toast appears for at most 10 seconds. This string is the text on the toast button that would hide it before the duration is up." formatter_data="android_java">
+  <message name="IDS_SETTINGS_UNBLOCK_TOPIC_TOAST_BUTTON_TEXT" desc="When a user unblocks a topic, a toast appears explaining what they did and and how that can make the topic active. The toast appears for at most 10 sec. This string is the text on the toast button that would hide it before the duration is up." formatter_data="android_java">
     Got it
   </message>
   <message name="IDS_SETTINGS_FLEDGE_PAGE_FOOTER_V2" desc="This footer helps the user understand that this setting is just one signal among others that affect whether this user sees personalized ads on a site. We define 'personalize' as 'when Kahf provides recommendations and other content for users based on their data'. At a high level, there are 4 things that affect whether an ad is personalized in this context: * 'this setting' refers to the 'Site-suggested ads' setting.">
