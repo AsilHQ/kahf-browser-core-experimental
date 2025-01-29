@@ -152,6 +152,7 @@ class HSTSPartitioningBrowserTestBase : public InProcessBrowserTest {
     bool result = false;
     partition->GetNetworkContext()->IsHSTSActiveForHost(
         host,
+        /*is_top_level_nav=*/true,
         base::BindLambdaForTesting([&run_loop, &result](bool is_hsts_active) {
           result = is_hsts_active;
           run_loop.Quit();
