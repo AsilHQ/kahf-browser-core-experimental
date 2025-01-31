@@ -3,7 +3,7 @@ diff a/browser/ui/webui/settings/brave_settings_localized_strings_provider.cc b/
  namespace {
  
  const char16_t kWebRTCLearnMoreURL[] =
--    u"https://support.brave.com/hc/en-us/articles/"
+-    u"https://kahfbrowser.com/contact/?hc/en-us/articles/"
 +    u"https://kahf.co/"
      u"360017989132-How-do-I-change-my-Privacy-Settings-#webrtc";
  const char16_t kBraveBuildInstructionsUrl[] =
@@ -25,10 +25,10 @@ diff a/browser/ui/webui/settings/brave_settings_localized_strings_provider.cc b/
 -    u"https://github.com/brave/brave-browser/wiki/ENS-offchain-lookup";
 +    u"https://kahf.co/";
  const char16_t kBraveSyncGuideUrl[] =
--    u"https://support.brave.com/hc/en-us/articles/360047642371-Sync-FAQ";
+-    u"https://kahfbrowser.com/contact/?hc/en-us/articles/360047642371-Sync-FAQ";
 +    u"https://kahf.co/";
  const char16_t kDeAmpLearnMoreUrl[] =
--    u"https://support.brave.com/hc/en-us/articles/8611298579981";
+-    u"https://kahfbrowser.com/contact/?hc/en-us/articles/8611298579981";
 +    u"https://kahf.co/";
  const char16_t kDebounceLearnMoreUrl[] =
 -    u"https://brave.com/privacy-updates/11-debouncing/";

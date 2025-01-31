@@ -11,7 +11,7 @@ import classnames from '$web-common/classnames'
 import DataContext from '../../state/context'
 // import { ViewType } from '../../state/component_types'
 import { getUniqueBrowserTypes } from '../../state/utils'
-// import { useViewTypeTransition } from '../../state/hooks'
+import { useViewTypeTransition } from '../../state/hooks'
 import { WelcomeBrowserProxyImpl, ImportDataBrowserProxyImpl, defaultImportTypes, P3APhase } from '../../api/welcome_browser_proxy'
 import { getLocale } from '$web-common/locale'
 
@@ -28,6 +28,7 @@ import VivaldiSVG from '../svg/browser-icons/vivaldi'
 import WhaleSVG from '../svg/browser-icons/whale'
 import YandexSVG from '../svg/browser-icons/yandex'
 import MicrosoftIE from '../svg/browser-icons/ie'
+// import { useViewTypeTransition } from 'components/brave_welcome_ui/state/hooks'
 // import AvatarIconSVG from '../svg/avatar-icon'
 
 interface BrowserItemButtonProps {
@@ -133,140 +134,144 @@ function ProfileItem(props: ProfileItemProps) {
   )
 }
 
-function SelectProfile () {
+function SelectProfile() {
   const {
     browserProfiles,
     currentSelectedBrowserProfiles,
-    // viewType,
+    viewType,
     currentSelectedBrowser,
     setCurrentSelectedBrowser,
-    // setViewType,
+    setViewType,
     incrementCount,
-    // scenes
-  } = React.useContext(DataContext)
-  const browserTypes = getUniqueBrowserTypes(browserProfiles ?? [])
+  } = React.useContext(DataContext);
+
+  const browserTypes = getUniqueBrowserTypes(browserProfiles ?? []);
+  const [selectedProfiles, setSelectedProfiles] = React.useState<Set<number>>(new Set());
+
   const handleSelectionChange = (browserName: string) => {
-    setCurrentSelectedBrowser?.(browserName)
-  }
-  const [selectedProfiles, setSelectedProfiles] = React.useState<Set<number>>(new Set())
-//   const { forward, skip } = useViewTypeTransition(viewType)
+    setCurrentSelectedBrowser?.(browserName);
+  };
 
-//   const handleImport = () => {
-//     if (!currentSelectedBrowser || !currentSelectedBrowserProfiles) return
+  const { back } = useViewTypeTransition(viewType); // Add `back` here
 
-//     if (forward === ViewType.ImportSelectProfile) {
-//       setViewType(ViewType.ImportSelectProfile)
-//       WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Import)
-//       return
-//     }
-
-//     if (forward === ViewType.ImportInProgress) {
-//       ImportDataBrowserProxyImpl.getInstance().importData(
-//         currentSelectedBrowserProfiles[0].index,
-//         defaultImportTypes
-//       )
-//       incrementCount()
-//       WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent)
-//       return
-//     }
-
-//     console.error(`Invalid forward view: ${forward}`)
-//   }
   const handleImportProfiles = () => {
-    if (selectedProfiles.size <= 0) return
-    let entries: number[] = []
+    if (selectedProfiles.size <= 0) return;
+    let entries: number[] = [];
     selectedProfiles.forEach((entry) => {
-      entries.push(entry)
-      incrementCount()
-    })
+      entries.push(entry);
+      incrementCount();
+    });
 
     if (entries.length === 1) {
-      ImportDataBrowserProxyImpl.getInstance().importData(entries[0], defaultImportTypes)
+      ImportDataBrowserProxyImpl.getInstance().importData(entries[0], defaultImportTypes);
     } else {
-      ImportDataBrowserProxyImpl.getInstance().importDataBulk(entries, defaultImportTypes)
+      ImportDataBrowserProxyImpl.getInstance().importDataBulk(entries, defaultImportTypes);
     }
-    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent)
-  }
+    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent);
+  };
+
+  const handleGoBack = () => {
+    if (back) {
+      setViewType(back); // Navigate to the previous view
+    }
+  };
 
   React.useEffect(() => {
     WelcomeBrowserProxyImpl.getInstance().getDefaultBrowser().then(
       (name: string) => {
-      setCurrentSelectedBrowser?.(name)
-    })
-  }, [])
+        setCurrentSelectedBrowser?.(name);
+      }
+    );
+  }, []);
 
-//   const hasSelectedBrowser =
-//     currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0
   const getImportEntryName = (entry: any) => {
-    let name = entry.name
+    let name = entry.name;
     if (entry.profileName) {
-      name += ' - ' + entry.profileName
+      name += ' - ' + entry.profileName;
     }
-    return name
-    }
-    
+    return name;
+  };
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const { id, checked } = e.target
-    const parsedId = parseInt(id.split('-')[1])
+    const { id, checked } = e.target;
+    const parsedId = parseInt(id.split('-')[1]);
 
     if (!checked && selectedProfiles?.has(parsedId)) {
-      selectedProfiles.delete(parsedId)
-      setSelectedProfiles(new Set([...selectedProfiles]))
-      return
+      selectedProfiles.delete(parsedId);
+      setSelectedProfiles(new Set([...selectedProfiles]));
+      return;
     }
 
-    setSelectedProfiles(new Set(selectedProfiles.add(parsedId)))
-  }
+    setSelectedProfiles(new Set(selectedProfiles.add(parsedId)));
+  };
+
   return (
     <S.MainBox>
       <div className="view-header-box">
+      <div style={{ marginTop: '-51vh', color: 'black', marginLeft: '0px', display: 'flex', alignItems: 'center', fontSize: '1.5rem' }}>
+          {back && (
+            <div style={{display:'flex', alignItems:'center'}}>
+            <div style={{marginRight: '-25px',fontSize: '18px'}}>{'<'}</div>
+            <Button
+              isTertiary={true}
+              onClick={handleGoBack}
+              scale="large"
+            >
+              {getLocale('braveWelcomePreviousButtonLabel')}
+            </Button></div>
+          )}</div>
         <div className="view-details">
           <h1 className="view-title">{getLocale('braveWelcomeImportSettingsTitle')}</h1>
           <p className="view-desc">{getLocale('braveWelcomeImportSettingsDesc')}</p>
         </div>
       </div>
       <div className="right-box">
-      <S.BrowserListBox>
-        <div className="browser-list">
-          {browserTypes.map((entry, id) => {
-            return (<>
-              <BrowserItemButton
-                key={id}
-                browserName={entry ?? 'Chromium-based browser'}
-                onChange={handleSelectionChange}
-                isActive={entry === currentSelectedBrowser}
-                />
-                {entry === currentSelectedBrowser && (
+        <S.BrowserListBox>
+          <div className="browser-list">
+            {browserTypes.map((entry, id) => {
+              return (
+                <>
+                  <BrowserItemButton
+                    key={id}
+                    browserName={entry ?? 'Chromium-based browser'}
+                    onChange={handleSelectionChange}
+                    isActive={entry === currentSelectedBrowser}
+                  />
+                  {entry === currentSelectedBrowser && (
                     <S.ProfileListBox>
-        <div className="profile-list">
-          {currentSelectedBrowserProfiles?.map((entry) => {
-            return (<ProfileItem
-              key={entry.index}
-              id={entry.index}
-              profileName={getImportEntryName(entry)}
-              onChange={handleChange}
-              isChecked={selectedProfiles.has(entry.index)}
-            />)
-          })}
-        </div>
-                    </S.ProfileListBox>)}
+                      <div className="profile-list">
+                        {currentSelectedBrowserProfiles?.map((entry) => {
+                          return (
+                            <ProfileItem
+                              key={entry.index}
+                              id={entry.index}
+                              profileName={getImportEntryName(entry)}
+                              onChange={handleChange}
+                              isChecked={selectedProfiles.has(entry.index)}
+                            />
+                          );
+                        })}
+                      </div>
+                    </S.ProfileListBox>
+                  )}
                 </>
-            )
-          })}
-        </div>
-      </S.BrowserListBox>
-           <S.ActionBox>
-        <Button
-          isPrimary={true}
-          onClick={handleImportProfiles}
-          scale="jumbo"
-        >
-          {getLocale('braveWelcomeImportProfilesButtonLabel')}
-        </Button>
-      </S.ActionBox>
+              );
+            })}
+          </div>
+        </S.BrowserListBox>
+        <S.ActionBox>
+          
+          <Button
+            isPrimary={true}
+            onClick={handleImportProfiles}
+            scale="jumbo"
+          >
+            {getLocale('braveWelcomeImportProfilesButtonLabel')}
+          </Button>
+        </S.ActionBox>
       </div>
     </S.MainBox>
-  )
+  );
 }
 
-export default SelectProfile
+export default SelectProfile;

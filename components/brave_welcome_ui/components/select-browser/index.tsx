@@ -80,7 +80,7 @@ function BrowserItemButton (props: BrowserItemButtonProps) {
   )
 }
 
-function SelectBrowser () {
+function SelectBrowser() {
   const {
     browserProfiles,
     currentSelectedBrowserProfiles,
@@ -90,75 +90,97 @@ function SelectBrowser () {
     setViewType,
     incrementCount,
     scenes
-  } = React.useContext(DataContext)
-  const browserTypes = getUniqueBrowserTypes(browserProfiles ?? [])
-  const handleSelectionChange = (browserName: string) => {
-    setCurrentSelectedBrowser?.(browserName)
-  }
+  } = React.useContext(DataContext);
 
-  const { forward, skip } = useViewTypeTransition(viewType)
+  const browserTypes = getUniqueBrowserTypes(browserProfiles ?? []);
+
+  const handleSelectionChange = (browserName: string) => {
+    setCurrentSelectedBrowser?.(browserName);
+  };
+
+  const { forward, skip, back } = useViewTypeTransition(viewType); // Add `back` here
 
   const handleImport = () => {
-    if (!currentSelectedBrowser || !currentSelectedBrowserProfiles) return
+    if (!currentSelectedBrowser || !currentSelectedBrowserProfiles) return;
 
     if (forward === ViewType.ImportSelectProfile) {
-      setViewType(ViewType.ImportSelectProfile)
-      WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Import)
-      return
+      setViewType(ViewType.ImportSelectProfile);
+      WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Import);
+      return;
     }
 
     if (forward === ViewType.ImportInProgress) {
       ImportDataBrowserProxyImpl.getInstance().importData(
         currentSelectedBrowserProfiles[0].index,
         defaultImportTypes
-      )
-      incrementCount()
-      WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent)
-      return
+      );
+      incrementCount();
+      WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent);
+      return;
     }
 
-    console.error(`Invalid forward view: ${forward}`)
-  }
+    console.error(`Invalid forward view: ${forward}`);
+  };
 
   const handleSkip = () => {
-    scenes?.s2.play() // play the final animation on skip
-    setViewType(skip!)
-    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent)
-  }
+    scenes?.s2.play(); // Play the final animation on skip
+    setViewType(skip!);
+    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Consent);
+  };
+
+  const handleGoBack = () => {
+    if (back) {
+      setViewType(back); // Navigate to the previous view
+    }
+  };
 
   React.useEffect(() => {
     WelcomeBrowserProxyImpl.getInstance().getDefaultBrowser().then(
       (name: string) => {
-      setCurrentSelectedBrowser?.(name)
-    })
-  }, [])
+        setCurrentSelectedBrowser?.(name);
+      }
+    );
+  }, []);
 
   const hasSelectedBrowser =
-    currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0
+    currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0;
 
   return (
     <S.MainBox>
       <div className="view-header-box">
+
+      <div style={{ marginTop: '-51vh', color: 'black', marginLeft: '0px', display: 'flex', alignItems: 'center', fontSize: '1.5rem' }}>
+          {back && (
+            <div style={{display:'flex', alignItems:'center'}}>
+            <div style={{marginRight: '-25px',fontSize: '18px'}}>{'<'}</div>
+            <Button
+              isTertiary={true}
+              onClick={handleGoBack}
+              scale="large"
+            >
+              {getLocale('braveWelcomePreviousButtonLabel')}
+            </Button></div>
+          )}</div>
         <div className="view-details">
           <h1 className="view-title">{getLocale('braveWelcomeImportSettingsTitle')}</h1>
           <p className="view-desc">{getLocale('braveWelcomeImportSettingsDesc')}</p>
         </div>
       </div>
       <div className="right-box">
-      <S.BrowserListBox>
-        <div className="browser-list">
-          {browserTypes.map((entry, id) => {
-            return (
-              <BrowserItemButton
-                key={id}
-                browserName={entry ?? 'Chromium-based browser'}
-                onChange={handleSelectionChange}
-                isActive={entry === currentSelectedBrowser}
-              />
-            )
-          })}
-        </div>
-      </S.BrowserListBox>
+        <S.BrowserListBox>
+          <div className="browser-list">
+            {browserTypes.map((entry, id) => {
+              return (
+                <BrowserItemButton
+                  key={id}
+                  browserName={entry ?? 'Chromium-based browser'}
+                  onChange={handleSelectionChange}
+                  isActive={entry === currentSelectedBrowser}
+                />
+              );
+            })}
+          </div>
+        </S.BrowserListBox>
         <S.ActionBox>
           <Button
             isPrimary={true}
@@ -168,18 +190,18 @@ function SelectBrowser () {
           >
             {getLocale('braveWelcomeImportButtonLabel')}
           </Button>
-        <Button
-          isTertiary={true}
-          onClick={handleSkip}
-          scale="large"
-        >
-          {getLocale('braveWelcomeSkipButtonLabel')}
-        </Button>
-
-      </S.ActionBox>
+          <Button
+            isTertiary={true}
+            onClick={handleSkip}
+            scale="large"
+          >
+            {getLocale('braveWelcomeSkipButtonLabel')}
+          </Button>
+          
+        </S.ActionBox>
       </div>
     </S.MainBox>
-  )
+  );
 }
 
-export default SelectBrowser
+export default SelectBrowser;

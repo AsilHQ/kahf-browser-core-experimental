@@ -72,22 +72,22 @@ inline constexpr char kChooserUsbOverviewURL[] =
 
 // Link to the forum for Chrome Beta.
 inline constexpr char kChromeBetaForumURL[] =
-    "https://community.brave.com/c/beta-builds";
+    "https://kahfbrowser.com/contact/c/beta-builds";
 
 // The URL for the help center article to fix Chrome update problems.
 inline constexpr char16_t kChromeFixUpdateProblems[] =
-    u"https://support.brave.com/";
+    u"https://kahfbrowser.com/contact/?";
 
 // General help links for Chrome, opened using various actions.
 inline constexpr char kChromeHelpViaKeyboardURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
-inline constexpr char kChromeHelpViaMenuURL[] = "https://support.brave.com/";
+inline constexpr char kChromeHelpViaMenuURL[] = "https://kahfbrowser.com/contact/?";
 
-inline constexpr char kChromeHelpViaWebUIURL[] = "https://support.brave.com/";
+inline constexpr char kChromeHelpViaWebUIURL[] = "https://kahfbrowser.com/contact/?";
 
 inline constexpr char kRelatedWebsiteSetsLearnMoreURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // The isolated-app: scheme is used for Isolated Web Apps. A public explainer
 // can be found here: https://github.com/reillyeon/isolated-web-apps
@@ -215,30 +215,30 @@ inline constexpr char kFlashDeprecationLearnMoreURL[] =
 
 // URL of the 'Activity controls' section of the privacy settings page.
 inline constexpr char kGoogleAccountActivityControlsURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // URL of the 'Activity controls' section of the privacy settings page, with
 // privacy guide parameters and a link for users to manage data.
 inline constexpr char kGoogleAccountActivityControlsURLInPrivacyGuide[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // URL of the 'Linked services' section of the privacy settings page.
 inline constexpr char kGoogleAccountLinkedServicesURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // URL of the Google Account.
-inline constexpr char kGoogleAccountURL[] = "https://support.brave.com/";
+inline constexpr char kGoogleAccountURL[] = "https://kahfbrowser.com/contact/?";
 
 // URL of the Google Account chooser.
-inline constexpr char kGoogleAccountChooserURL[] = "https://support.brave.com/";
+inline constexpr char kGoogleAccountChooserURL[] = "https://kahfbrowser.com/contact/?";
 
 // URL of the Google Account page showing the known user devices.
 inline constexpr char kGoogleAccountDeviceActivityURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // URL of the two factor authentication setup required intersitial.
 inline constexpr char kGoogleTwoFactorIntersitialURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // URL of the Google Password Manager.
 inline constexpr char kGooglePasswordManagerURL[] = "https://support.brave.com";
@@ -428,11 +428,11 @@ inline constexpr char16_t kHistorySearchV2SettingURL[] =
 
 // The URL for the "Learn more" page for Wallpaper Search.
 inline constexpr char kWallpaperSearchLearnMorePageURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // The URL for the "Learn more" page for Tab Organization.
 inline constexpr char kTabOrganizationLearnMorePageURL[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // The URL for the "Learn more" link in the enterprise disclaimer for managed
 // profile in the Signin Intercept bubble.
@@ -463,25 +463,25 @@ inline constexpr char kUpgradeHelpCenterBaseURL[] =
 
 // Help center URL for who the account administrator is.
 inline constexpr char16_t kWhoIsMyAdministratorHelpURL[] =
-    u"https://support.brave.com/";
+    u"https://kahfbrowser.com/contact/?";
 
 // The URL for the "Learn more" link about CWS Enhanced Safe Browsing.
 inline constexpr char16_t kCwsEnhancedSafeBrowsingLearnMoreURL[] =
-    u"https://support.brave.com/";
+    u"https://kahfbrowser.com/contact/?";
 
 // The URL path to online privacy policy.
 inline constexpr char kPrivacyPolicyOnlineURLPath[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 // The URL path to online privacy policy dark mode.
 inline constexpr char kPrivacyPolicyOnlineDarkModeURLPath[] =
-    "https://support.brave.com/";
+    "https://kahfbrowser.com/contact/?";
 
 #if BUILDFLAG(IS_ANDROID)
 // "Learn more" URL for the enhanced playback notification dialog.
 inline constexpr char kEnhancedPlaybackNotificationLearnMoreURL[] =
     // Keep in sync with chrome/android/java/strings/android_chrome_strings.grd
-    "https://community.brave.com";
+    "https://kahfbrowser.com/contact/?";
 #endif
 
 #if BUILDFLAG(IS_MAC)

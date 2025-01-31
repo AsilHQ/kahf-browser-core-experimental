@@ -45,6 +45,9 @@ export const MainBox1 = styled.div`
     grid-column: 1;
     padding-top: 10px;
   }
+    button {
+    color: black;
+  }
 
   .back-button {
     background: transparent;

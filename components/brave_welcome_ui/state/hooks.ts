@@ -78,47 +78,74 @@ interface ViewTypeState {
   fail?: ViewType;
 }
 
-export function useViewTypeTransition(currentViewType: ViewType | undefined) : ViewTypeState {
-  const { browserProfiles, currentSelectedBrowserProfiles} = React.useContext(DataContext)
+export function useViewTypeTransition(currentViewType: ViewType | undefined): ViewTypeState {
+  const { browserProfiles, currentSelectedBrowserProfiles } = React.useContext(DataContext);
 
   const states = React.useMemo(() => {
     return {
       [ViewType.Initial]: {  // The initial state view
-        forward: ViewType.DefaultBrowser
+        forward: ViewType.DefaultBrowser,
+        back: undefined, // No backward navigation from the initial state
       },
       [ViewType.DefaultBrowser]: {  // The initial state view
         forward: !browserProfiles || browserProfiles.length === 0 ?
-          ViewType.ImportSelectTheme : ViewType.ImportSelectBrowser
+          ViewType.ImportSelectTheme : ViewType.ImportSelectBrowser,
+        back: ViewType.Initial, // Allow going back to the initial state
       },
       [ViewType.ImportSelectTheme]: {
-        forward: ViewType.HelpWDP
+        forward: ViewType.HelpWDP,
+        back: ViewType.DefaultBrowser, // Allow going back to the default browser view
       },
       [ViewType.ImportSelectBrowser]: {
-        forward: currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 1 ? ViewType.ImportSelectProfile : ViewType.ImportInProgress,
+        forward: currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 1 ?
+          ViewType.ImportSelectProfile : ViewType.ImportInProgress,
         skip: ViewType.HelpWDP,
+        back: ViewType.DefaultBrowser, // Allow going back to the default browser view
       },
       [ViewType.ImportSelectProfile]: {
         forward: ViewType.ImportInProgress,
-        back: ViewType.ImportSelectBrowser
+        back: ViewType.ImportSelectBrowser, // Allow going back to the browser selection view
       },
       [ViewType.ImportInProgress]: {
         forward: ViewType.ImportSucceeded,
         fail: ViewType.ImportFailed,
+        back: ViewType.ImportSelectProfile, // Allow going back to the profile selection view
       },
       [ViewType.ImportSucceeded]: {
-        forward: ViewType.HelpWDP
+        forward: ViewType.HelpWDP,
+        back: ViewType.ImportInProgress, // Allow going back to the import progress view
       },
       [ViewType.ImportFailed]: {
-        forward: ViewType.HelpWDP
+        forward: ViewType.HelpWDP,
+        back: ViewType.ImportInProgress, // Allow going back to the import progress view
       },
       [ViewType.HelpWDP]: {
-        forward: ViewType.HelpImprove
+        forward: ViewType.HelpImprove,
+        back: ViewType.ImportSelectBrowser, // Allow going back to the import succeeded view
       },
+      // [ViewType.HelpWDP]: {
+      //   forward: ViewType.ImportFavouriteApp, // Transition to the FavouriteApp view
+      //   back: ViewType.ImportSelectBrowser, // Allow going back to the import succeeded view
+      // },
+      [ViewType.ImportFavouriteApp]: {
+        // forward: ViewType.ImportEnableShields,
+        // skip: ViewType.ImportEnableShields, // Transition to the HelpImprove view
+        back: ViewType.ImportSelectBrowser, // Allow going back to the HelpWDP view
+      },
+      // [ViewType.ImportEnableShields]: {
+      //   // forward: ViewType.HelpImprove, // Transition to the HelpImprove view
+      //   back: ViewType.ImportFavouriteApp, // Allow going back to the FavouriteApp view
+      // },
+      // [ViewType.HelpImprove]: {
+      //   // forward: ViewType.HelpImprove, // The end state view
+      //   back: ViewType.ImportEnableShields, // Allow going back to the FavouriteApp view
+      // },      
       [ViewType.HelpImprove]: {
-        forward: ViewType.HelpImprove   // The end state view
+        forward: ViewType.HelpImprove, // The end state view
+        back: ViewType.HelpWDP, // Allow going back to the HelpWDP view
       },
-    }
-  }, [browserProfiles, currentSelectedBrowserProfiles])
+    };
+  }, [browserProfiles, currentSelectedBrowserProfiles]);
 
-  return states[currentViewType?? ViewType.Initial]
+  return states[currentViewType ?? ViewType.Initial];
 }

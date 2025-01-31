@@ -3,7 +3,7 @@ diff a/components/brave_rewards/resources/page/components/provider_redirect_moda
            id={'redirect-modal-device-limit-reached'}
            errorText={[getString('redirectModalDeviceLimitReachedText')]}
            titleText={getString('redirectModalDeviceLimitReachedTitle')}
--          learnMore={'https://support.brave.com/hc/en-us/articles/360056508071'}
+-          learnMore={'https://kahfbrowser.com/contact/?hc/en-us/articles/360056508071'}
 +          learnMore={'https://kahf.co/'}
            buttonText={getString('redirectModalClose')}
            walletType={walletType}

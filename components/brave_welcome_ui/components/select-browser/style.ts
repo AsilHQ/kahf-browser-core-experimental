@@ -41,6 +41,10 @@ export const MainBox = styled.div`
     margin: 0;
     color:black;
   }
+    button {
+    display: flex;
+    color: black;
+  }
 
   .right-box{
   display: flex;

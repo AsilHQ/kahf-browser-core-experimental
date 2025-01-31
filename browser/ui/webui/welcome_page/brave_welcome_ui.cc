@@ -69,6 +69,7 @@ constexpr webui::LocalizedString kLocalizedStrings[] = {
     {"braveWelcomeFinishButtonLabel", IDS_BRAVE_WELCOME_FINISH_BUTTON_LABEL},
     {"braveWelcomeSetDefaultButtonLabel",
      IDS_BRAVE_WELCOME_SET_DEFAULT_BUTTON_LABEL},
+     {"braveWelcomePreviousButtonLabel", IDS_BRAVE_WELCOME_SET_DEFAULT_BUTTON_Previous},
     {"braveWelcomeSelectAllButtonLabel",
      IDS_BRAVE_WELCOME_SELECT_ALL_BUTTON_LABEL},
     {"braveWelcomeHelpImproveBraveTitle",

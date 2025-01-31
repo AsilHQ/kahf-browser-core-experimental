@@ -43,6 +43,10 @@ export const MainBox = styled.div`
     color:black;
   }
 
+  button {
+    color: black;
+  }
+
   .right-box{
   display: flex;
   flex-direction: column;

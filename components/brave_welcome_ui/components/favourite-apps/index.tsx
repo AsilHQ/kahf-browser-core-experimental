@@ -72,120 +72,124 @@ function AppItemButton (props: AppItemButtonProps) {
 }
 
 function FavouriteApp() {
-  console.log("FavouriteApp called")
   const {
-    // currentSelectedBrowserProfiles,
     viewType,
-    // currentSelectedBrowser,
     setViewType,
-    // incrementCount,
-    // scenes
-  } = React.useContext(DataContext)
-   const [selectedProfiles, setSelectedProfiles] = React.useState<Set<number>>(new Set())
+  } = React.useContext(DataContext);
+
+  const [selectedProfiles, setSelectedProfiles] = React.useState<Set<number>>(new Set());
+
   const browserTypes = [
-  'Facebook',
-  'Figma',
-  'Gmail',
-  'Calendar',
-  'Insta',
-  'Slack',
-  'Spotify',
-  'X',
-  'Youtube']
+    'Facebook',
+    'Figma',
+    'Gmail',
+    'Calendar',
+    'Insta',
+    'Slack',
+    'Spotify',
+    'X',
+    'Youtube',
+  ];
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    console.log("Handle Change is Being Called")
-    const { id, checked } = e.target
-    const parsedId = parseInt(id.split('-')[1])
-    console.log("id,checked,parseId", id, checked, parsedId)
-    console.log(selectedProfiles)
+    const { id, checked } = e.target;
+    const parsedId = parseInt(id.split('-')[1]);
+
     if (!checked && selectedProfiles?.has(parsedId)) {
-      selectedProfiles.delete(parsedId)
-      setSelectedProfiles(new Set([...selectedProfiles]))
-      return
+      selectedProfiles.delete(parsedId);
+      setSelectedProfiles(new Set([...selectedProfiles]));
+      return;
     }
 
-    setSelectedProfiles(new Set(selectedProfiles.add(parsedId)))
-  }
+    setSelectedProfiles(new Set(selectedProfiles.add(parsedId)));
+  };
 
-  const { forward } = useViewTypeTransition(viewType)
-  const goForward = () => setViewType(forward)    
+  const { forward, back } = useViewTypeTransition(viewType); // Add `back` here
+
+  const goForward = () => setViewType(forward);
 
   const handleSkip = () => {
-    goForward()
-  }
+    goForward();
+  };
 
-  React.useEffect(() => {
-    console.log(typeof(handleSkip))
-  }, [])
-
-  // const hasSelectedBrowser =
-    // currentSelectedBrowserProfiles && currentSelectedBrowserProfiles.length > 0
-  const handleImportProfiles = () => {
-    if (selectedProfiles.size < 0) return
-    let entries: string[] = []
-    selectedProfiles.forEach((entry) => {
-      entries.push(browserTypes[entry])
-      // incrementCount()
-    })
-
-    if (entries.length === 0) {
-      // ImportDataBrowserProxyImpl.getInstance().importData(entries[0], defaultImportTypes)
-      console.log(entries)
-    } else {
-      // ImportDataBrowserProxyImpl.getInstance().importDataBulk(entries, defaultImportTypes)
-      console.log(entries)
-      setFavouriteApps(entries)
+  const handleGoBack = () => {
+    if (back) {
+      setViewType(back); // Navigate to the previous view
     }
-    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Finished)
-    goForward()
-  }
+  };
+
+  const handleImportProfiles = () => {
+    if (selectedProfiles.size < 0) return;
+    let entries: string[] = [];
+    selectedProfiles.forEach((entry) => {
+      entries.push(browserTypes[entry]);
+    });
+
+    if (entries.length > 0) {
+      setFavouriteApps(entries);
+    }
+    WelcomeBrowserProxyImpl.getInstance().recordP3A(P3APhase.Finished);
+    goForward();
+  };
+
   return (
     <S.MainBox>
       <div className="view-header-box">
+      <div style={{ marginTop: '-51vh', color: 'black', marginLeft: '0px', display: 'flex', alignItems: 'center', fontSize: '1.5rem' }}>
+          {back && (
+            <div style={{display:'flex', alignItems:'center'}}>
+            <div style={{marginRight: '-25px',fontSize: '18px'}}>{'<'}</div>
+            <Button
+              isTertiary={true}
+              onClick={handleGoBack}
+              scale="large"
+            >
+              {getLocale('braveWelcomePreviousButtonLabel')}
+            </Button></div>
+          )}</div>
         <div className="view-details">
+          
           <h1 className="view-title">{getLocale('braveWelcomeFavouriteAppTitle')}</h1>
           <p className="view-desc">{getLocale('braveWelcomeFavouriteAppDesc')}</p>
         </div>
       </div>
       <div className="right-box">
-      <S.BrowserListBox>
-        <div className="browser-list">
-          {browserTypes.map((entry, id) => {
-            return (
-              <AppItemButton
-                key={id}
-                id={id}
-                appName={entry ?? 'Chromium-based browser'}
-                onChange={handleChange}
-                isChecked={selectedProfiles.has(id)}
-              />
-            )
-          })}
-        </div>
-      </S.BrowserListBox>
+        <S.BrowserListBox>
+          <div className="browser-list">
+            {browserTypes.map((entry, id) => {
+              return (
+                <AppItemButton
+                  key={id}
+                  id={id}
+                  appName={entry ?? 'Chromium-based browser'}
+                  onChange={handleChange}
+                  isChecked={selectedProfiles.has(id)}
+                />
+              );
+            })}
+          </div>
+        </S.BrowserListBox>
         <S.ActionBox>
+          {/* Add the Previous Button */}
+          
           <Button
             isPrimary={true}
-            // isDisabled={!hasSelectedBrowser}
             onClick={handleImportProfiles}
             scale="large"
           >
             Next
-            {/* {getLocale('braveWelcomeImportButtonLabel')} */}
           </Button>
-        <Button
-          isTertiary={true}
-          onClick={handleSkip}
-          scale="large"
-          
-        >
-          {getLocale('braveWelcomeSkipButtonLabel')}
-        </Button>
-
-      </S.ActionBox>
+          <Button
+            isTertiary={true}
+            onClick={handleSkip}
+            scale="large"
+          >
+            {getLocale('braveWelcomeSkipButtonLabel')}
+          </Button>
+        </S.ActionBox>
       </div>
     </S.MainBox>
-  )
+  );
 }
 
-export default FavouriteApp
+export default FavouriteApp;
