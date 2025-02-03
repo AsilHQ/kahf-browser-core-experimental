@@ -78,6 +78,7 @@ export const BrowserListBox = styled.div`
     border: 0;
     box-shadow: 0 0 0 4px var(--border-color);
     position: relative;
+    margin-top: 3px;
 
     &.is-selected {
       --border-color: #737ADE;

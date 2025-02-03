@@ -28,6 +28,7 @@ import VivaldiSVG from '../svg/browser-icons/vivaldi'
 import WhaleSVG from '../svg/browser-icons/whale'
 import YandexSVG from '../svg/browser-icons/yandex'
 import MicrosoftIE from '../svg/browser-icons/ie'
+import SVGComponent from '../back-button'
 
 interface BrowserItemButtonProps {
   browserName: string
@@ -152,7 +153,10 @@ function SelectBrowser() {
       <div style={{ marginTop: '-51vh', color: 'black', marginLeft: '0px', display: 'flex', alignItems: 'center', fontSize: '1.5rem' }}>
           {back && (
             <div style={{display:'flex', alignItems:'center'}}>
-            <div style={{marginRight: '-25px',fontSize: '18px'}}>{'<'}</div>
+            <div style={{marginRight: '-23px',fontSize: '18px', marginTop:'3.6px'}}>
+              
+              <SVGComponent/>
+             </div>
             <Button
               isTertiary={true}
               onClick={handleGoBack}

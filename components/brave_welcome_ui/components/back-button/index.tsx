@@ -1,28 +1,20 @@
 import * as React from "react";
-import Button from '../button/index'
-
-export function BackButton({back}) {
-  return (
-    <div
+const SVGComponent = () => (
+  <svg
+    width="15px"
+    height="30px"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+    id="left"
+    className="icon glyph"
+    // {...props}
+  >
+    <path
+      d="M21,11H5.41l5.3-5.29A1,1,0,1,0,9.29,4.29l-7,7h0a1.15,1.15,0,0,0-.21.33.94.94,0,0,0,0,.76,1.15,1.15,0,0,0,.21.33h0l7,7a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42L5.41,13H21a1,1,0,0,0,0-2Z"
       style={{
-        marginTop: '-40rem',
-        color: 'black',
-        marginLeft: '-21px',
-        display: 'flex',
-        alignItems: 'center',
-        fontSize: '1.5rem'
+        fill: "#231f20",
       }}
-    >
-      {back && (
-        <Button
-          isTertiary={true}
-          onClick={handleGoBack}
-          scale='large'
-        >
-          {'<'}
-          {getLocale('braveWelcomePreviousButtonLabel')}
-        </Button>
-      )}
-    </div>
-  )
-}
+    />
+  </svg>
+);
+export default SVGComponent;

@@ -18,7 +18,7 @@ provideStrings({
   braveWelcomeBackButtonLabel: 'Back',
   braveWelcomeNextButtonLabel: 'Next',
   braveWelcomeFinishButtonLabel: 'Finish',
-  braveWelcomeSetDefaultButtonLabel: 'Set Kahf as default browser',
+  braveWelcomeSetDefaultButtonLabel: 'Set as Default Browser',
   braveWelcomePreviousButtonLabel: "Previous",
   braveWelcomeSelectAllButtonLabel: 'Select All',
   braveWelcomeHelpImproveBraveTitle: 'Help make Brave better.',

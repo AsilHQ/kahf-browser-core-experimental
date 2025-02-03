@@ -23,6 +23,7 @@ import SlackSVG from '../svg/app-icons/slack'
 import SpotifySVG from '../svg/app-icons/spotify'
 import XSVG from '../svg/app-icons/x'
 import YoutubeSVG from '../svg/app-icons/youtube'
+import SVGComponent from '../back-button'
 
 interface AppItemButtonProps {
   appName: string
@@ -138,7 +139,10 @@ function FavouriteApp() {
       <div style={{ marginTop: '-51vh', color: 'black', marginLeft: '0px', display: 'flex', alignItems: 'center', fontSize: '1.5rem' }}>
           {back && (
             <div style={{display:'flex', alignItems:'center'}}>
-            <div style={{marginRight: '-25px',fontSize: '18px'}}>{'<'}</div>
+            <div style={{marginRight: '-23px',fontSize: '18px', marginTop:'3.6px'}}>
+              
+              <SVGComponent/>
+             </div>
             <Button
               isTertiary={true}
               onClick={handleGoBack}

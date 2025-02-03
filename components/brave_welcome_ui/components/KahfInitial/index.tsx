@@ -55,7 +55,7 @@ function KahfInitial () {
             onClick={handleSkip}
             scale="jumbo"
           >
-            {'Lets Go'}
+            {"Let's Go"}
           </Button>
         </S.ActionBox>
       </div>
