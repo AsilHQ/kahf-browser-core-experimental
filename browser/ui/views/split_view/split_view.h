@@ -41,11 +41,14 @@ class SplitViewLocationBar;
 class SplitViewSeparator;
 
 // Contains a pair of contents container view.
-class SplitView : public views::View, public SplitViewBrowserDataObserver {
+class SplitView : public views::View,
+#if BUILDFLAG(ENABLE_SPEEDREADER)
+                  public ReaderModeToolbarView::Delegate,
+#endif
+                  public SplitViewBrowserDataObserver {
   METADATA_HEADER(SplitView, views::View)
  public:
   using BrowserViewKey = base::PassKey<BraveBrowserView>;
-
   SplitView(Browser& browser,
             views::View* contents_container,
             ContentsWebView* contents_web_view);
@@ -73,7 +76,6 @@ class SplitView : public views::View, public SplitViewBrowserDataObserver {
   // Update dev tools
   void UpdateSecondaryDevtoolsLayoutAndVisibility();
 
-  void UpdateSecondaryReaderModeToolbar();
   gfx::Point GetSplitViewLocationBarOffset() const;
 
   const ContentsWebView* secondary_contents_web_view() const {
@@ -91,9 +93,9 @@ class SplitView : public views::View, public SplitViewBrowserDataObserver {
   }
 
 #if BUILDFLAG(ENABLE_SPEEDREADER)
-  ReaderModeToolbarView* secondary_reader_mode_toolbar() {
-    return secondary_reader_mode_toolbar_;
-  }
+  void OnReaderModeToolbarActivate(ReaderModeToolbarView* toolbar) override;
+
+  void UpdateSecondaryReaderModeToolbar(ReaderModeToolbarView* primary_toolbar);
 #endif
 
   void UpdateCornerRadius(const gfx::RoundedCornersF& corners);
