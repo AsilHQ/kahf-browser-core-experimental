@@ -207,7 +207,7 @@ void SplitView::Layout(PassKey key) {
 
 void SplitView::AddedToWidget() {
   secondary_location_bar_ = std::make_unique<SplitViewLocationBar>(
-      browser_->profile()->GetPrefs(), secondary_contents_container_);
+      browser_->profile()->GetPrefs(), this, secondary_contents_container_);
   secondary_location_bar_widget_ = std::make_unique<views::Widget>();
 
   secondary_location_bar_widget_->Init(
@@ -460,6 +460,16 @@ void SplitView::UpdateSecondaryReaderModeToolbar() {
       secondary_reader_mode_toolbar_->SetVisible(false);
     }
   }
+}
+
+gfx::Point SplitView::GetSplitViewLocationBarOffset() const {
+#if BUILDFLAG(ENABLE_SPEEDREADER)
+  if (secondary_reader_mode_toolbar_ &&
+      secondary_reader_mode_toolbar_->GetVisible()) {
+    return {0, secondary_reader_mode_toolbar_->height()};
+  }
+#endif
+  return {};
 }
 
 void SplitView::UpdateSecondaryDevtoolsLayoutAndVisibility() {
