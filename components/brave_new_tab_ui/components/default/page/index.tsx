@@ -409,7 +409,8 @@ export const PhotoName = styled('div') <{}>`
   align-self: flex-end;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  font: ${font.small.regular};
+  font-size: 14px;
+  font-weight: 400;
   color: white;
   white-space: nowrap;
 `

@@ -489,7 +489,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>Kahf://settings/exte
           Don't ask again
         </message>
         <message name="IDS_CRASH_REPORT_PERMISSION_ASK_DIALOG_CONTENT_TEXT" desc="The contents for crash report ask dialog">
-          Help improve Barve's product stability by automatically sending diagnostic reports when the Kahf Browser crashes or freezes.
+          Help improve Kahf product stability by automatically sending diagnostic reports when the Kahf Browser crashes or freezes.
         </message>
         <message name="IDS_CRASH_REPORT_PERMISSION_ASK_DIALOG_HEADER_TEXT" desc="The header text for crash report ask dialog">
           <ph name="BROWSER_NAME">$1<ex>Kahf Browser</ex></ph> quit unexpectedly.
@@ -882,13 +882,13 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>Kahf://settings/exte
         Dismiss
       </message>
 
-      <!-- Barve's copyright statement -->
+      <!-- Kahf copyright statement -->
       <message name="IDS_BRAVE_VERSION_UI_LICENSE" desc="The label below the copyright message, containing the URLs.">
         Kahf is made available to you under the <ph name="BEGIN_LINK_MPL">&lt;a target="_blank" href="$1"&gt;</ph>Mozilla Public License 2.0<ph name="END_LINK_MPL">&lt;/a&gt;</ph> (MPL) and includes <ph name="BEGIN_LINK_OSS">&lt;a target="_blank" href="$2"&gt;</ph>open source software<ph name="END_LINK_OSS">&lt;/a&gt;</ph> under a variety of other licenses.
         You can read <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS">&lt;a target="_blank" href="$3"&gt;</ph>instructions on how to download and build for yourself<ph name="END_LINK_BUILD_INSTRUCTIONS">&lt;/a&gt;</ph> the specific <ph name="BEGIN_LINK_SOURCE_CODE">&lt;a target="_blank" href="$4"&gt;</ph>source code used to create this copy<ph name="END_LINK_SOURCE_CODE">&lt;/a&gt;</ph>.
       </message>
 
-      <!-- Barve's tab context menu -->
+      <!-- Kahf tab context menu -->
       <if expr="not use_titlecase">
         <message name="IDS_TAB_CXMENU_BOOKMARK_ALL_TABS" desc="The label of the tab context menu item for creating a bookmark folder containing an entry for each open tab.">
           Bookmark all tabs...
@@ -1076,7 +1076,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>Kahf://settings/exte
         Ready for the best privacy online?
       </message>
       <message name="IDS_FIRSTRUN_DLG_CONTENTS_TEXT" desc="Text for FirstRun dialog contents">
-        Set Kahf as your default browser to get Barve's privacy protections on every web page you open.
+        Set Kahf as your default browser to get Kahf privacy protections on every web page you open.
       </message>
       <message name="IDS_FIRSTRUN_DLG_OK_BUTTON_LABEL" desc="Text for FirstRun dialog ok button">
         Set Kahf as default

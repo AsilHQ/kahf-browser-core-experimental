@@ -62,7 +62,7 @@ export const BrowserListBox = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    grid-gap: 8px;
+    grid-gap: 11px;
     flex-wrap: wrap;
   }
 

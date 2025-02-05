@@ -1278,7 +1278,7 @@ are declared in tools/grit/grit_rule.gni.
         <message name="IDS_CONTENT_CONTEXT_SPELLCHECK_MULTI_LINGUAL" desc="The name of the menu item that enables spellcheck in all of the languages that the user has selected in settings">
           &amp;All your languages
         </message>
-        <message name="IDS_CONTENT_CONTEXT_CHECK_SPELLING_WHILE_TYPING" desc="The name of the menu item that toggles the local built-in spellcheck on or off and specifically disables using Barve's spelling service.">
+        <message name="IDS_CONTENT_CONTEXT_CHECK_SPELLING_WHILE_TYPING" desc="The name of the menu item that toggles the local built-in spellcheck on or off and specifically disables using Kahf spelling service.">
           &amp;Use basic spell check
         </message>
       </if>
@@ -1725,7 +1725,7 @@ are declared in tools/grit/grit_rule.gni.
       </if>
 
       <message name="IDS_TOS_NOTIFICATION_TITLE" desc="The title of the notification that informs the user that a term of service change is coming." formatter_data="android_java">
-        Barve's Terms of Service are changing March 31
+        Kahf Terms of Service are changing March 31
       </message>
       <message name="IDS_TOS_NOTIFICATION_BODY_TEXT" desc="The body text of the notification that informs the user that a term of service change is coming." formatter_data="android_java">
         Please review the new terms
@@ -3114,7 +3114,7 @@ are declared in tools/grit/grit_rule.gni.
       </message>
       <if expr="_google_chrome">
         <message name="IDS_DOWNLOAD_ROW_ESB_PROMOTION" desc="Link button text that teaches the user about Enhanced Protection.">
-          Discover enhanced protection to get Barve's highest level of security for downloads
+          Discover enhanced protection to get Kahf highest level of security for downloads
         </message>
         <message name="IDS_DOWNLOAD_ROW_ESB_PROMO_A11Y" desc="ARIA (accessibility) label describing a link which opens in a new tab.">
           Opens security settings page in a new tab
@@ -10622,10 +10622,10 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Pa
       <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE" desc="A dialog informing the user that their Kahf browsing history was deleted, but other forms of history can still be found on Kahf My Activity.">
         The selected data has been removed from Kahf and synced devices. Your Kahf sync chain may have other forms of browsing history like searches and activity from other Kahf services at <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>myactivity.google.com<ph name="END_LINK">&lt;/a&gt;</ph>.
       </message>
-      <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_TITLE" desc="Title of a dialog that informs the user that the deletion of Barve's browsing data has been completed.">
+      <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_TITLE" desc="Title of a dialog that informs the user that the deletion of Kahf browsing data has been completed.">
         Deleted Kahf data
       </message>
-      <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_OK" desc="Button in a dialog that informs the user that the deletion of Barve's browsing data has been completed.">
+      <message name="IDS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_OK" desc="Button in a dialog that informs the user that the deletion of Kahf browsing data has been completed.">
         Ok, got it
       </message>
       <!-- TODO(crbug.com/40137391): Add proper strings and make them translateable. -->
@@ -11889,7 +11889,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Kahf Pa
       </if>
 
       <if expr="is_android">
-        <message name="IDS_OPTIONS_HOMEPAGE_TITLE" desc="The title of Barve's homepage setting screen on Android. " formatter_data="android_java">
+        <message name="IDS_OPTIONS_HOMEPAGE_TITLE" desc="The title of Kahf homepage setting screen on Android. " formatter_data="android_java">
           Homepage
         </message>
       </if>
@@ -16734,7 +16734,7 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </message>
 
     <message name="IDS_TAILORED_SECURITY_ENABLED_DIALOG_MAIN_TEXT" desc="Title shown in the tab dialog when the account tailored security setting changes for a consented primary account">
-      You have Barve's strongest security against dangerous websites, downloads and extensions
+      You have Kahf strongest security against dangerous websites, downloads and extensions
     </message>
     <message name="IDS_TAILORED_SECURITY_DISABLED_DIALOG_MAIN_TEXT" desc="Title shown in the tab dialog when the account tailored security setting changes for a consented primary account">
       You're getting standard security protection. To get more protection against dangerous websites, downloads, and extensions, turn on Enhanced Safe Browsing in Kahf settings.
