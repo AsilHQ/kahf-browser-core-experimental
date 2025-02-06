@@ -77,7 +77,6 @@ public class OnboardingPrefManager {
     public static final String ECOSIA = "Ecosia";
     public static final String DAUM = "Daum";
     public static final String NAVER = "\ub124\uc774\ubc84";
-    public static final String YAHOO_JAPAN = "Yahoo! JAPAN";
 
     private OnboardingPrefManager() {
         mSharedPreferences = ContextUtils.getAppSharedPreferences();
@@ -247,8 +246,7 @@ public class OnboardingPrefManager {
                     Map.entry(YANDEX, SearchEngineEnum.YANDEX),
                     Map.entry(ECOSIA, SearchEngineEnum.ECOSIA),
                     Map.entry(DAUM, SearchEngineEnum.DAUM),
-                    Map.entry(NAVER, SearchEngineEnum.NAVER),
-                    Map.entry(YAHOO_JAPAN, SearchEngineEnum.YAHOO_JAPAN));
+                    Map.entry(NAVER, SearchEngineEnum.NAVER));
 
     public boolean isFromNotification() {
         return mSharedPreferences.getBoolean(FROM_NOTIFICATION, false);
