@@ -301,4 +301,8 @@ program
   .action(genGradle.bind(null, parsedArgs.unknown))
 
 program
+  .command('build_rust_toolchain_aux')
+  .action(util.buildRustToolchainAux)
+
+program
   .parse(process.argv)
