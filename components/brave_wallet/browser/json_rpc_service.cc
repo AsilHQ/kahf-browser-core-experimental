@@ -1304,6 +1304,9 @@ void JsonRpcService::GetERC20TokenBalances(
     const std::string& user_address,
     const std::string& chain_id,
     GetERC20TokenBalancesCallback callback) {
+  const size_t kBatchSize = 4000;
+
+  // Validate inputs
   const auto& balance_scanner_contract_addresses =
       GetEthBalanceScannerContractAddresses();
   if (!base::Contains(balance_scanner_contract_addresses, chain_id)) {
@@ -1322,15 +1325,6 @@ void JsonRpcService::GetERC20TokenBalances(
     return;
   }
 
-  std::optional<std::string> calldata =
-      balance_scanner::TokensBalance(user_address, token_contract_addresses);
-  if (!calldata) {
-    std::move(callback).Run(
-        {}, mojom::ProviderError::kInvalidParams,
-        l10n_util::GetStringUTF8(IDS_WALLET_INVALID_PARAMETERS));
-    return;
-  }
-
   auto network_url = GetNetworkURL(chain_id, mojom::CoinType::ETH);
   if (!network_url.is_valid()) {
     std::move(callback).Run(
@@ -1339,17 +1333,91 @@ void JsonRpcService::GetERC20TokenBalances(
     return;
   }
 
-  // Makes the eth_call request to the balance scanner contract.
+  // Split into batches
+  const size_t total_batches =
+      (token_contract_addresses.size() + kBatchSize - 1) / kBatchSize;
+  if (total_batches == 1) {
+    // Single batch case - use existing logic
+    ProcessERC20TokenBalancesBatch(token_contract_addresses, user_address,
+                                   balance_scanner_contract_address,
+                                   network_url, std::move(callback));
+    return;
+  }
+
+  // Multiple batches case
+  auto merged_results =
+      std::make_shared<std::vector<mojom::ERC20BalanceResultPtr>>();
+  auto remaining_batches = std::make_shared<size_t>(total_batches);
+
+  for (size_t i = 0; i < total_batches; i++) {
+    const size_t start_idx = i * kBatchSize;
+    const size_t end_idx =
+        std::min(start_idx + kBatchSize, token_contract_addresses.size());
+    std::vector<std::string> batch_addresses(
+        token_contract_addresses.begin() + start_idx,
+        token_contract_addresses.begin() + end_idx);
+
+    auto batch_callback =
+        base::BindOnce(&JsonRpcService::OnBatchERC20TokenBalances,
+                       weak_ptr_factory_.GetWeakPtr(), merged_results,
+                       remaining_batches, std::move(callback));
+
+    ProcessERC20TokenBalancesBatch(batch_addresses, user_address,
+                                   balance_scanner_contract_address,
+                                   network_url, std::move(batch_callback));
+  }
+}
+
+void JsonRpcService::ProcessERC20TokenBalancesBatch(
+    const std::vector<std::string>& token_addresses,
+    const std::string& user_address,
+    const std::string& scanner_address,
+    const GURL& network_url,
+    GetERC20TokenBalancesCallback callback) {
+  std::optional<std::string> calldata =
+      balance_scanner::TokensBalance(user_address, token_addresses);
+  if (!calldata) {
+    std::move(callback).Run(
+        {}, mojom::ProviderError::kInvalidParams,
+        l10n_util::GetStringUTF8(IDS_WALLET_INVALID_PARAMETERS));
+    return;
+  }
+
   auto internal_callback = base::BindOnce(
       &JsonRpcService::OnGetERC20TokenBalances, weak_ptr_factory_.GetWeakPtr(),
-      token_contract_addresses, std::move(callback));
-  RequestInternal(
-      eth::eth_call(balance_scanner_contract_address, calldata.value()), true,
-      network_url, std::move(internal_callback));
+      token_addresses, std::move(callback));
+
+  RequestInternal(eth::eth_call(scanner_address, calldata.value()), true,
+                  network_url, std::move(internal_callback));
+}
+
+void JsonRpcService::OnBatchERC20TokenBalances(
+    std::shared_ptr<std::vector<mojom::ERC20BalanceResultPtr>> merged_results,
+    std::shared_ptr<size_t> remaining_batches,
+    GetERC20TokenBalancesCallback callback,
+    std::vector<mojom::ERC20BalanceResultPtr> batch_results,
+    mojom::ProviderError error,
+    const std::string& error_message) {
+  if (error != mojom::ProviderError::kSuccess) {
+    std::move(callback).Run({}, error, error_message);
+    return;
+  }
+
+  // Merge batch results
+  for (auto& result : batch_results) {
+    merged_results->push_back(std::move(result));
+  }
+
+  // Check if all batches are complete
+  (*remaining_batches)--;
+  if (*remaining_batches == 0) {
+    std::move(callback).Run(std::move(*merged_results),
+                            mojom::ProviderError::kSuccess, "");
+  }
 }
 
 void JsonRpcService::OnGetERC20TokenBalances(
-    const std::vector<std::string>& token_contract_addresses,
+    const std::vector<std::string>& token_addresses,
     GetERC20TokenBalancesCallback callback,
     APIRequestResult api_request_result) {
   if (!api_request_result.Is2XXResponseCode()) {
@@ -1376,20 +1444,20 @@ void JsonRpcService::OnGetERC20TokenBalances(
     return;
   }
 
-  // The number of contract addresses supplied to the BalanceScanner
+  // The number of addresses supplied to the BalanceScanner
   // should match the number of balances it returns
-  if (token_contract_addresses.size() != results->size()) {
+  if (token_addresses.size() != results->size()) {
     std::move(callback).Run(
         {}, mojom::ProviderError::kInternalError,
         l10n_util::GetStringUTF8(IDS_WALLET_INTERNAL_ERROR));
     return;
   }
 
-  // Match up the balances with the contract addresses
+  // Match up the balances with the addresses
   std::vector<mojom::ERC20BalanceResultPtr> erc20_balance_results;
-  for (size_t i = 0; i < token_contract_addresses.size(); i++) {
+  for (size_t i = 0; i < token_addresses.size(); i++) {
     auto erc20_balance_result = mojom::ERC20BalanceResult::New();
-    erc20_balance_result->contract_address = token_contract_addresses[i];
+    erc20_balance_result->contract_address = token_addresses[i];
     erc20_balance_result->balance = results->at(i);
     erc20_balance_results.push_back(std::move(erc20_balance_result));
   }
@@ -3461,7 +3529,6 @@ void JsonRpcService::OnAnkrGetAccountBalances(
         l10n_util::GetStringUTF8(IDS_WALLET_INTERNAL_ERROR));
     return;
   }
-
   auto result =
       ankr::ParseGetAccountBalanceResponse(api_request_result.value_body());
   if (!result) {

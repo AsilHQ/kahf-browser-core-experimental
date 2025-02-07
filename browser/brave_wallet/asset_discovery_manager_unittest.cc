@@ -206,7 +206,7 @@ TEST_F(AssetDiscoveryManagerUnitTest, GetNonFungibleSupportedChains) {
   // Gnosis chain ID should not be included if it's not a custom network
   std::map<mojom::CoinType, std::vector<std::string>> chains =
       asset_discovery_manager_->GetNonFungibleSupportedChains();
-  EXPECT_EQ(chains.at(mojom::CoinType::ETH).size(), 6UL);
+  EXPECT_EQ(chains.at(mojom::CoinType::ETH).size(), 7UL);
   EXPECT_EQ(chains.at(mojom::CoinType::SOL).size(), 1UL);
 
   // Verify none of the chain IDs == mojom::kGnosisChainId
@@ -220,7 +220,7 @@ TEST_F(AssetDiscoveryManagerUnitTest, GetNonFungibleSupportedChains) {
   network_manager_->AddCustomNetwork(gnosis_network);
 
   chains = asset_discovery_manager_->GetNonFungibleSupportedChains();
-  EXPECT_EQ(chains.at(mojom::CoinType::ETH).size(), 7UL);
+  EXPECT_EQ(chains.at(mojom::CoinType::ETH).size(), 8UL);
   EXPECT_EQ(chains.at(mojom::CoinType::SOL).size(), 1UL);
 
   // Verify one of the chain IDs is mojom::kGnosisChainId

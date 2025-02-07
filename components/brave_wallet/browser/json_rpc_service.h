@@ -618,6 +618,21 @@ class JsonRpcService : public mojom::JsonRpcService {
       const std::vector<std::string>& token_contract_addresses,
       GetERC20TokenBalancesCallback callback,
       APIRequestResult api_request_result);
+  void ProcessERC20TokenBalancesBatch(
+      const std::vector<std::string>& token_addresses,
+      const std::string& user_address,
+      const std::string& scanner_address,
+      const GURL& network_url,
+      GetERC20TokenBalancesCallback callback);
+
+  void OnBatchERC20TokenBalances(
+      std::shared_ptr<std::vector<mojom::ERC20BalanceResultPtr>> merged_results,
+      std::shared_ptr<size_t> remaining_batches,
+      GetERC20TokenBalancesCallback callback,
+      std::vector<mojom::ERC20BalanceResultPtr> batch_results,
+      mojom::ProviderError error,
+      const std::string& error_message);
+
   void OnUnstoppableDomainsResolveDns(const std::string& domain,
                                       const std::string& chain_id,
                                       APIRequestResult api_request_result);
