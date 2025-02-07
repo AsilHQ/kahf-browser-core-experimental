@@ -85,7 +85,7 @@ class SiteStateListenerScriptHandler: TabContentScript {
             cachedStandardSelectors = standard
             cachedAggressiveSelectors = aggressive
           }
-          let setup = try self.makeSetup(
+          let setup = UserScriptType.SelectorsPollerSetup.makeSetup(
             from: models,
             isAggressive: domain.globalBlockAdsAndTrackingLevel.isAggressive,
             cachedStandardSelectors: cachedStandardSelectors,
@@ -116,13 +116,15 @@ class SiteStateListenerScriptHandler: TabContentScript {
       Logger.module.error("\(error.localizedDescription)")
     }
   }
+}
 
-  @MainActor private func makeSetup(
+extension UserScriptType.SelectorsPollerSetup {
+  public static func makeSetup(
     from modelTuples: [AdBlockGroupsManager.CosmeticFilterModelTuple],
     isAggressive: Bool,
     cachedStandardSelectors: Set<String>,
     cachedAggressiveSelectors: Set<String>
-  ) throws -> UserScriptType.SelectorsPollerSetup {
+  ) -> UserScriptType.SelectorsPollerSetup {
     var standardSelectors = cachedStandardSelectors
     var aggressiveSelectors = cachedAggressiveSelectors
 
