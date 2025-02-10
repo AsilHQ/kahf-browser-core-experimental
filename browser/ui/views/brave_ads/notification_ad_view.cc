@@ -78,8 +78,6 @@ void NotificationAdView::MaybeNotifyAccessibilityEvent() {
   }
 
   accessible_name_ = accessible_name;
-
-  NotifyAccessibilityEvent(ax::mojom::Event::kTextChanged, true);
   UpdateAccessibleName();
 }
 
