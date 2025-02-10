@@ -914,3 +914,13 @@
 -keep class org.chromium.chrome.browser.media.ui.MediaSessionTabHelper {
    *** mTab;
 }
+
+-keep class org.chromium.chrome.browser.customtabs.BaseCustomTabActivity {
+    *** mBaseCustomTabRootUiCoordinator;
+    *** mIntentDataProvider;
+    *** mToolbarCoordinator;
+    *** mTabController;
+    *** mMinimizationManagerHolder;
+    *** mCustomTabFeatureOverridesManager;
+    public <init>(...);
+}
