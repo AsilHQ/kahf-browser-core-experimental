@@ -7,6 +7,7 @@
 
 #include <memory>
 
+#include "brave/browser/ai_chat/ai_chat_service_factory.h"
 #include "brave/components/ai_chat/core/browser/tab_tracker_service.h"
 #include "components/keyed_service/content/browser_context_dependency_manager.h"
 
@@ -22,6 +23,12 @@ TabTrackerServiceFactory* TabTrackerServiceFactory::GetInstance() {
 TabTrackerService* TabTrackerServiceFactory::GetForBrowserContext(
     content::BrowserContext* context) {
   CHECK(context);
+
+  // If we aren't creating an AIChatService, we don't need a TabTrackerService.
+  auto* ai_chat = AIChatServiceFactory::GetForBrowserContext(context);
+  if (!ai_chat) {
+    return nullptr;
+  }
 
   return static_cast<TabTrackerService*>(
       GetInstance()->GetServiceForBrowserContext(context, true));
