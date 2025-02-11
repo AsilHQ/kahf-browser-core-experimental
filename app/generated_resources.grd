@@ -9825,12 +9825,6 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <message name="IDS_TAB_GROUPS_NAMED_GROUP_TOOLTIP" desc="Dynamic tooltip to display on hover over named tab group.">
         <ph name="GROUP_NAME">$1<ex>New Group</ex></ph> - <ph name="GROUP_CONTENT_STRING">$2<ex>"New Tab" and one other</ex></ph>
       </message>
-      <message name="IDS_GLIC_PROMO_TITLE" desc="Glic promo title.">
-        [placeholder text]
-      </message>
-      <message name="IDS_GLIC_PROMO_BODY" desc="Glic promo body text.">
-        [placeholder text]
-      </message>
       <message name="IDS_SHARED_HIGHLIGHTING_PROMO" desc="The title of in-product-help message encouraging users to interact with the highlight">
         To create a highlight like this one, select any text and right-click.
       </message>
@@ -10848,7 +10842,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
           other {Add tabs to new group}}
         </message>
         <message name="IDS_TAB_CXMENU_ADD_TAB_TO_NEW_SPLIT" desc="The label of the tab context menu submenu for creating a split view between the selected tab and the active tab.">
-          Split tab with active tab
+          Show side-by-side
         </message>
         <message name="IDS_TAB_CXMENU_SUBMENU_NEW_GROUP" desc="The label of the tab context menu sub-menu item for adding one more tabs to a new group.">
           New group
@@ -10952,7 +10946,7 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
           other {Add Tabs to New Group}}
         </message>
         <message name="IDS_TAB_CXMENU_ADD_TAB_TO_NEW_SPLIT" desc="The label of the tab context menu submenu for creating a split view between the selected tab and the active tab.">
-          Split Tab With Active Tab
+          Show Side-By-Side
         </message>
         <message name="IDS_TAB_CXMENU_SUBMENU_NEW_GROUP" desc="In Title Case: The label of the tab context menu sub-menu item for adding one more tabs to a new group.">
           New Group
@@ -11889,11 +11883,14 @@ Check your passwords anytime in <ph name="GOOGLE_PASSWORD_MANAGER">$1<ex>Brave P
         <message name="IDS_DATA_SHARING_BLOCK_DIALOG_TITLE" desc="The title of the block dialog.">
           Block <ph name="MEMBER_FULL_NAME">$1<ex>John Doe</ex></ph>?
         </message>
+        <message name="IDS_DATA_SHARING_BLOCK_DIALOG_BODY" desc="The body for the block and leave group dialog.">
+          <ph name="MEMBER_FULL_NAME">$1<ex>John Doe</ex></ph> (<ph name="EMAIL">$2<ex>johndoe@gmail.com</ex></ph>) will immediately lose access to the “<ph name="GROUP_NAME">$3<ex>Vacation</ex></ph>” tab group, and will no longer be able to interact with you across Brave services.
+        </message>
       <!-- /Data Sharing Block Dialog -->
 
       <!-- Data Sharing Block and Leave Dialog -->
         <message name="IDS_DATA_SHARING_BLOCK_LEAVE_DIALOG_BODY" desc="The body for the block and leave group dialog.">
-          You’ll immediately lose access to the “<ph name="GROUP_NAME">$1<ex>Vacation</ex></ph>” tab group, and <ph name="BLOCKED_MEMBER_FULL_NAME">$1<ex>Ali Connors</ex></ph> (<ph name="BLOCKED_MEMBER_EMAIL">$2<ex>ali.connors@gmail.com</ex></ph>) will no longer be able to interact with you across Brave services.
+          You’ll immediately lose access to the “<ph name="GROUP_NAME">$1<ex>Vacation</ex></ph>” tab group, and <ph name="BLOCKED_MEMBER_FULL_NAME">$2<ex>Ali Connors</ex></ph> (<ph name="BLOCKED_MEMBER_EMAIL">$3<ex>ali.connors@gmail.com</ex></ph>) will no longer be able to interact with you across Brave services.
         </message>
         <message name="IDS_DATA_SHARING_BLOCK_LEAVE_LEARN_MORE" desc="The text for the learn more link for the block and leave group dialog.">
           Learn about blocked accounts
@@ -13489,9 +13486,6 @@ This can include information about installed software, files, your browser, and 
         <message name="IDS_SIGNIN_DICE_WEB_INTERCEPT_BUBBLE_CANCEL_SWITCH_BUTTON_LABEL" desc="Label of the cancel button in the web signin interception bubble (profile switch variant)">
           Cancel
         </message>
-        <message name="IDS_SIGNIN_DICE_WEB_INTERCEPT_BUBBLE_CONFIRM_SWITCH_BUTTON_LABEL" desc="Label of the profile switch button in the web signin interception bubble">
-          Ok
-        </message>
         <message name="IDS_SIGNIN_DICE_WEB_INTERCEPT_CREATE_BUBBLE_DESC_SUPERVISED" desc="This string is the body of a dialog about signing in to Brave with the user's Brave sync chain. It appears when a kid tries to sign in to a Brave service (like Gmail) with their account while using someone else’s Brave profile. The message explains the overarching user benefit of signing in: Kids of a certain age are motivated to get their parents’ help staying safer online, so the tone should be motivating. The body text is after the 'Sign in to Brave in a new profile?' string. We want users to understand why signing in to their own profile is beneficial, and click 'Continue as name' to sign in to their Brave sync chain.">
           To stay safer online with your parent’s choices, sign in to your own profile as <ph name="USER_EMAIL">$1<ex>john@gmail.com</ex></ph>
         </message>
@@ -13500,9 +13494,6 @@ This can include information about installed software, files, your browser, and 
         </message>
         <message name="IDS_SIGNIN_DICE_WEB_INTERCEPT_BUBBLE_CHROME_SIGNIN_ACCEPT_TEXT" desc="Label of the Accept button of the Brave Signin Bubble intercept that is shown when a signed out user signs in on the web with it's first account. It also uses the given name of the user.">
           Continue as <ph name="NAME">$1<ex>Bob</ex></ph>
-        </message>
-        <message name="IDS_SIGNIN_DICE_WEB_INTERCEPT_ENTERPRISE_BUBBLE_DESC" desc="Body of the web signin interception bubble when the new account is personal and the existing account is managed">
-          This will separate your browsing from <ph name="EXISTING_USER">$1<ex>bob@example.com</ex></ph>
         </message>
         <message name="IDS_SIGNIN_DICE_WEB_INTERCEPT_ENTERPRISE_BUBBLE_DESC_MANAGED_BY_TOKEN" desc="Body of the web signin interception bubble when the new account is managed via a token">
           You just signed in a managed account, creating a new managed profile will allow you to access some resources linked to that account.
@@ -15430,9 +15421,6 @@ Please help our engineers fix this problem. Tell us what happened right before y
       <message name="IDS_TOOLTIP_TAB_ALERT_STATE_VR_PRESENTING" desc="Extra tool tip text, when the tab is presenting VR content to a headset.">
         This tab is presenting VR content to a headset
       </message>
-      <message name="IDS_TOOLTIP_TAB_ALERT_STATE_GLIC_ACCESSING" desc="[Placeholder Description]">
-        [Placeholder String]
-      </message>
 
       <!-- Tab accessibility labels -->
       <message name="IDS_TAB_AX_LABEL_MEDIA_RECORDING_FORMAT" is_accessibility_with_no_ui="true" desc="Accessibility label text, when the tab is recording media. Example: 'Brave Hangouts - Camera and microphone recording'">
@@ -15484,11 +15472,6 @@ Please help our engineers fix this problem. Tell us what happened right before y
         <ph name="WINDOW_TITLE">
           $1<ex>A VR-enabled website</ex>
         </ph> - VR presenting to headset
-      </message>
-      <message name="IDS_TAB_AX_LABEL_GLIC_ACCESSING" is_accessibility_with_no_ui="true" desc="[Placeholder Description]">
-        <ph name="WINDOW_TITLE">
-          $1<ex>Google Photos</ex>
-        </ph> - [Placeholder String]
       </message>
       <message name="IDS_TAB_AX_LABEL_UNNAMED_GROUP_FORMAT" desc="Accessibility label text for a tab, when it is in a group that has not been named by the user. Example: 'Brave Search - Part of unnamed group'">
         <ph name="WINDOW_TITLE">$1<ex>Brave Search</ex></ph> - Part of unnamed group
@@ -16938,11 +16921,11 @@ Please help our engineers fix this problem. Tell us what happened right before y
       </message>
 
       <message name="IDS_WEB_DIGITAL_CREDENTIALS_QR_TITLE" translateable="false">
-        Retrieve credentials from phone or tablet.
+        Scan this QR code to use an ID from an Android device
       </message>
 
       <message name="IDS_WEB_DIGITAL_CREDENTIALS_QR_BODY" translateable="false">
-        Scan this QR code with a camera on the device from which you want to retrieve credentials for <ph name="APP_NAME">$1<ex>example.com</ex></ph>
+        Scan this QR code with a camera on the device from which you want to retrieve an ID for <ph name="APP_NAME">$1<ex>example.com</ex></ph>
       </message>
 
       <message name="IDS_WEB_DIGITAL_CREDENTIALS_QR_CODE_ALT_TEXT" translateable="false">
@@ -17517,6 +17500,12 @@ Please help our engineers fix this problem. Tell us what happened right before y
     </message>
     <message name="IDS_ACCOUNT_SELECTION_DATA_SHARING_PICTURE" desc="A user's profile picture, to be used in a list of items shared with a website">
       profile picture
+    </message>
+    <message name="IDS_ACCOUNT_SELECTION_DATA_SHARING_PHONE" desc="A user's phone number, to be used in a list of items shared with a website" translateable="false">
+      phone number
+    </message>
+    <message name="IDS_ACCOUNT_SELECTION_DATA_SHARING_USERNAME" desc="A user's username, to be used in a list of items shared with a website" translateable="false">
+      username
     </message>
     <message name="IDS_ACCOUNT_SELECTION_DATA_SHARING_CONSENT_NO_PP_OR_TOS" desc="The consent text shown to the user before sign up when there is no privacy policy or terms of service.">
       To continue, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE">$1<ex>idp.com</ex></ph> will share your <ph name="FIELDS_STRING">$2<ex>name and email address</ex></ph> with this site.
@@ -18182,65 +18171,6 @@ Please help our engineers fix this problem. Tell us what happened right before y
       Choose an audio output device
     </message>
 
-    <!-- Glic status tray icon strings -->
-    <if expr="enable_glic">
-      <!-- TODO(https://crbug.com/382287104): Replace with finalized strings -->
-      <message name="IDS_GLIC_STATUS_ICON_TOOLTIP" translateable="false" desc="This is the tooltip that is shown when the glic status icon is hovered.">
-        Open
-      </message>
-      <message name="IDS_GLIC_STATUS_ICON_MENU_SHOW" translateable="false" desc="This is the menu item for showing the glic UI.">
-        Open glic
-      </message>
-      <message name="IDS_GLIC_STATUS_ICON_MENU_CUSTOMIZE_KEYBOARD_SHORTCUT" translateable="false" desc="This is the menu item for customizing the keyboard shortcut.">
-        Customize keyboard shortcut
-      </message>
-      <if expr="is_macosx">
-        <message name="IDS_GLIC_STATUS_ICON_MENU_REMOVE_ICON" translateable="false" desc="This is the menu item for removing the glic icon from the menu bar.">
-          Disable glic in menu bar
-        </message>
-      </if>
-      <if expr="is_win or is_linux">
-        <message name="IDS_GLIC_STATUS_ICON_MENU_REMOVE_ICON" translateable="false" desc="This is the menu item for removing the glic icon from the notifications area.">
-          Disable glic in notifications area
-        </message>
-      </if>
-      <if expr="is_win or is_linux">
-        <message name="IDS_GLIC_STATUS_ICON_MENU_EXIT" translateable="false" desc="This is the menu item for exiting Brave.">
-          Exit
-        </message>
-      </if>
-      <message name="IDS_GLIC_STATUS_ICON_MENU_SETTINGS" translateable="false" desc="This is the menu item for opening the glic settings.">
-        Settings...
-      </message>
-      <message name="IDS_GLIC_OS_WIDGET_TOGGLE_HELP_BUBBLE" translateable="false" desc="Help bubble above the toggle for turning off the glic os widget.">
-        Disable glic here
-      </message>
-      <message name="IDS_GLIC_OS_WIDGET_KEYBOARD_SHORTCUT_HELP_BUBBLE" translateable="false" desc="Help bubble message above the keyboard shortcut editor that allows customizing it.">
-        Customize the keyboard shortcut here
-      </message>
-      <message name="IDS_GLIC_OFFLINE_NOTICE_HEADER" translateable="false" desc="This is the headline on the glic offline notice informing the user that there is no network connection.">
-        Your connection is interrupted
-      </message>
-      <message name="IDS_GLIC_OFFLINE_NOTICE" translateable="false" desc="This is the description of the issue on the glic offline notice.">
-        Glic isn't available right now.
-      </message>
-      <message name="IDS_GLIC_OFFLINE_NOTICE_ACTION" translateable="false" desc="This is the suggested user action for the glic offline notice.">
-        Check your internet connection and try again.
-      </message>
-      <message name="IDS_GLIC_OFFLINE_NOTICE_ACTION_BUTTON" translateable="false" desc="This is the button label text for the glic offline notice.">
-        Retry connection
-      </message>
-      <message name="IDS_GLIC_ERROR_NOTICE_HEADER" translateable="false" desc="This is the headline on the glic error notice.">
-        Something went wrong
-      </message>
-      <message name="IDS_GLIC_ERROR_NOTICE" translateable="false" desc="This is the text of the glic error notice.">
-        Glic isn't available right now. Try again later
-      </message>
-      <message name="IDS_GLIC_ERROR_NOTICE_ACTION_BUTTON" translateable="false" desc="This is the button label text for the glic error notice.">
-        Try again
-      </message>
-    </if>
-
     <!-- Smart Card Readers -->
     <if expr="is_chromeos">
       <message name="IDS_SMART_CARD_POLICY_DESCRIPTION_FOR_ANY_DEVICE" desc="String describing a smart card reader permission granted by permission policy to a site for all devices.">
@@ -18266,6 +18196,14 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_MERCHANT_TRUST_IPH_BODY_SCREEN_READER" desc="Announcement to screen reader users when the merchant trust IPH is shown." is_accessibility_with_no_ui="true">
       You can get a summary of what people are saying in their reviews
     </message>
+
+    <!-- Brave Apps Deprecation -->
+    <if expr="is_chromeos">
+      <message name="IDS_USER_INSTALLED_CHROME_APP_DEPRECATION_NOTIFICATION_MESSAGE" desc="Message of the notification displayed while launching a user-installed app.">
+        Brave Apps will soon be deprecated. For alternatives contact the developer or your IT service contact.
+      </message>
+    </if>
+
   </messages>
 </release>
 </grit>

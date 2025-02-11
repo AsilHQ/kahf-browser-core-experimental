@@ -1507,6 +1507,12 @@
   <message name="IDS_SETTINGS_PRIVACY_SANDBOX_TITLE" desc="The title of the Privacy Sandbox page. 'Privacy Sandbox' is a noun phrase (title case).">
     Privacy Sandbox
   </message>
+  <message name="IDS_SETTINGS_PRIVACY_SANDBOX_COOKIES_DIALOG" desc="Text of a dialog shown to users when they interacted with cookies to make them aware of the Privacy Sandbox.">
+    Learn about and control new technologies that aim to replace third-party cookies
+  </message>
+  <message name="IDS_SETTINGS_PRIVACY_SANDBOX_COOKIES_DIALOG_MORE" desc="Label on the button in the dialog shown to users when they interacted with cookies to make them aware of the Privacy Sandbox.">
+    More
+  </message>
 
   <!-- Privacy Sandbox Settings 4 - Privacy & Security Page -->
   <message name="IDS_SETTINGS_AD_PRIVACY_LINK_ROW_LABEL" desc="A new label that appears on the Privacy and security page (chrome://settings/privacy) between 'Third-party cookies' and 'Security'. This same text is used as a page title for the new Ad privacy section. This same pair of words is used in the Consent and Notice flow and must be consistently translated in both contexts. We mean privacy associated with ads, and not privacy from ads. **** CONTEXT PRIVACY SANDBOX **** Brave’s Privacy Sandbox initiative 1) deprecates third-party cookies in Brave, 2) supports free and open content on the web (by finding better ways to support ads online), 3) while providing stronger privacy protections for users. You can see a high-level description of this public project at www.privacysanbox.com. **** NEW SETTINGS SECTION IN CHROME **** 3 new ad-specific settings appear on an 'Ad privacy' page in Brave settings. For an equivalent structure, see 'Security' on chrome://settings/privacy that opens chrome://settings/security. Likewise, 'Ad privacy' on chrome://settings/privacy will open chrome://settings/AdPrivacy.">
@@ -4561,14 +4567,6 @@
     When you use organize tabs, the titles and URLs of your open tabs are sent to Brave to generate suggested tab groups
   </message>
 
-  <!-- Experimental settings - Wallpaper Search -->
-  <message name="IDS_SETTINGS_EXPERIMENTAL_ADVANCED_FEATURE3_LABEL" desc="The primary description for the create themes with AI feature.">
-    Create themes with AI
-  </message>
-  <message name="IDS_SETTINGS_AI_THEMES_SUB_LABEL" desc="This string is the subheading of a setting for ‘Create themes with AI’. This subheading summarizes the user benefit of the Create Themes feature. This is an AI (artificial intelligence) feature that helps users create their own custom Brave themes/wallpapers by letting users select from a list of options. The tone should be motivating.">
-    Helps you design custom themes for Brave
-  </message>
-
   <!-- Experimental settings - Compare -->
   <message name="IDS_SETTINGS_COMPARE_SETTING_SUBLABEL" desc="This string is the subheading of a setting for ‘Compare products’. This subheading summarizes the user benefit of the Compare Products feature. This is an AI (artificial intelligence) feature that helps users compare products in open tabs by generating an information table and summarizing key differences. The tone should be motivating.">
     Easily compare similar products
@@ -4617,73 +4615,6 @@
   <message name="IDS_SETTINGS_PASSWORD_CHANGE_ENCRYPTION" desc="One of the things to consider when using the feature.">
     Your password is encrypted and never seen by anyone
   </message>
-
-  <!-- Experimental Glic settings -->
-  <message name="IDS_SETTINGS_GLIC_PAGE_TITLE" translateable="false" desc="Name of the Glic settings page.">
-    Glic
-  </message>
-  <message name="IDS_SETTINGS_GLIC_POLICY_DISABLED_MESSAGE" translateable="false" desc="Message shown when Glic is disabled by enterprise policy.">
-    This feature is disabled by your organization
-  </message>
-  <message name="IDS_SETTINGS_GLIC_PREFERENCES_SECTION" translateable="false" desc="Name of the Glic settings section for general preferences.">
-    Preferences
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_SECTION" translateable="false" desc="Name of the Glic settings section related to user data.">
-    Data
-  </message>
-  <if expr="is_macosx">
-    <message name="IDS_SETTINGS_GLIC_OS_WIDGET_TOGGLE" translateable="false" desc="Name of the Glic setting for the toggle enabling feature in the menu (on Mac only).">
-      Feature in your toolbar
-    </message>
-  </if>
-  <if expr="not is_macosx">
-    <message name="IDS_SETTINGS_GLIC_OS_WIDGET_TOGGLE" translateable="false" desc="Name of the Glic setting for the toggle enabling feature in the menu (on Windows and Linux).">
-      Feature in your Toolbar
-    </message>
-  </if>
-  <message name="IDS_SETTINGS_GLIC_KEYBOARD_SHORTCUT" translateable="false" desc="Name of the Glic setting for the keyboard shortcut.">
-    Keyboard shortcut
-  </message>
-  <message name="IDS_SETTINGS_GLIC_KEYBOARD_SHORTCUT_SUBLABEL" translateable="false" desc="Subheading for the 'keyboard shortcut' toggle.">
-    Open with shortcut
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_LOCATION_TOGGLE" translateable="false" desc="Name of the 'enable location sharing' setting.">
-    Location
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_LOCATION_TOGGLE_SUBLABEL" translateable="false" desc="Sublabel describing the 'enable location sharing' setting.">
-    Use your location to allow enhanced accuracy
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_MICROPHONE_TOGGLE" translateable="false" desc="Name of the 'enable microphone' setting.">
-    Microphone
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_MICROPHONE_TOGGLE_SUBLABEL" translateable="false" desc="Sublabel describing the 'enable microphone' setting.">
-    Enable use of your microphone
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_TAB_ACCESS_TOGGLE" translateable="false" desc="Name of the 'enable tab access' setting.">
-    Current tab access
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_TAB_ACCESS_TOGGLE_SUBLABEL" translateable="false" desc="Sublabel describing the 'tab access' setting.">
-    Allow feature
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_ACTIVITY_BUTTON" translateable="false" desc="Name of the 'activity' button.">
-    Activity
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_ACTIVITY_BUTTON_SUBLABEL" translateable="false" desc="Sublabel describing the 'activity' button.">
-    View and manage your activity
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_TAB_ACCESS_WHEN_ON_1" translateable="false" desc="First point in the 'when on' column of the 'tab access' collapsible section.">
-    [Placeholder String 1]
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_TAB_ACCESS_WHEN_ON_2" translateable="false" desc="Second point in the 'when on' column of the 'tab access' collapsible section.">
-    [Placeholder String 2]
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_TAB_ACCESS_CONSIDER_1" translateable="false" desc="First point in the 'things to consider' column of the 'tab access' collapsible section.">
-    [Placeholder String 3]
-  </message>
-  <message name="IDS_SETTINGS_GLIC_DATA_TAB_ACCESS_CONSIDER_2" translateable="false" desc="Second point in the 'things to consider' column of the 'tab access' collapsible section.">
-    [Placeholder String 4]
-  </message>
-
 
   <!-- Security settings toast confirmation -->
   <message name="IDS_SETTINGS_SAFEBROWSING_TURN_ON_ENHANCED_TOAST_BUTTON" desc="When Brave shows a toast notification after the user turned off the Enhanced Protection setting, there's a button the user can click to turn on the Enhanced Protection setting.">
