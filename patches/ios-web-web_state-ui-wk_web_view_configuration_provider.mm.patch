@@ -1,0 +1,13 @@
+diff --git a/ios/web/web_state/ui/wk_web_view_configuration_provider.mm b/ios/web/web_state/ui/wk_web_view_configuration_provider.mm
+index 9842bd89e79bed9c2ac51b5763e6d5946cdde0f1..eed4459abf5f64dbc678c9fa58d91e381c30b927 100644
+--- a/ios/web/web_state/ui/wk_web_view_configuration_provider.mm
++++ b/ios/web/web_state/ui/wk_web_view_configuration_provider.mm
+@@ -54,7 +54,7 @@ WKWebViewConfigurationProvider::FromBrowserState(BrowserState* browser_state) {
+   if (!browser_state->GetUserData(kWKWebViewConfigProviderKeyName)) {
+     browser_state->SetUserData(
+         kWKWebViewConfigProviderKeyName,
+-        base::WrapUnique(new WKWebViewConfigurationProvider(browser_state)));
++        base::WrapUnique(new BraveWKWebViewConfigurationProvider(browser_state)));
+   }
+   return *(static_cast<WKWebViewConfigurationProvider*>(
+       browser_state->GetUserData(kWKWebViewConfigProviderKeyName)));
