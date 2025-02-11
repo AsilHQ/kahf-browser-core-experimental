@@ -7,9 +7,15 @@
 
 #include "chrome/browser/profiles/profile.h"
 #include "content/public/browser/web_contents.h"
+#include "brave/components/youtube_script_injector/browser/content/youtube_tab_feature.h"
+#include "chrome/common/chrome_isolated_world_ids.h"
 
 TabFeaturesAndroid::TabFeaturesAndroid(content::WebContents* web_contents,
                                        Profile* profile)
-    : TabFeaturesAndroid_Chromium(web_contents, profile) {}
+    : TabFeaturesAndroid_Chromium(web_contents, profile) {
+
+    youtube_script_injector::YouTubeTabFeature::MaybeCreateForWebContents(
+      web_contents, ISOLATED_WORLD_ID_BRAVE_INTERNAL);
+    }
 
 TabFeaturesAndroid::~TabFeaturesAndroid() = default;
