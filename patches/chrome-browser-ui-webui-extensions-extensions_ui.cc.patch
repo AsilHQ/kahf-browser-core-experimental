@@ -1,8 +1,8 @@
 diff --git a/chrome/browser/ui/webui/extensions/extensions_ui.cc b/chrome/browser/ui/webui/extensions/extensions_ui.cc
-index f3387c7df303d4ac853bbaa3b42d0788876b9e5e..12b812c21522efcd4cd3cc4aa67951be24d63304 100644
+index be679b3017a3eed007fad009dfa4d747e129845c..e88786a8797eb57afb5eefbd8af4c868f57f6914 100644
 --- a/chrome/browser/ui/webui/extensions/extensions_ui.cc
 +++ b/chrome/browser/ui/webui/extensions/extensions_ui.cc
-@@ -486,6 +486,7 @@ content::WebUIDataSource* CreateAndAddExtensionsSource(Profile* profile,
+@@ -488,6 +488,7 @@ content::WebUIDataSource* CreateAndAddExtensionsSource(Profile* profile,
            l10n_util::GetStringUTF16(IDS_SHORT_PRODUCT_OS_NAME)));
  #endif
  

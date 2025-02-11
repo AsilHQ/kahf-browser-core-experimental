@@ -1,8 +1,8 @@
 diff --git a/chrome/android/javatests/BUILD.gn b/chrome/android/javatests/BUILD.gn
-index 09485ce2bb525b1d9276e8facd81878c547e77ac..096e640ba23c082997b89f71216a0430c968f030 100644
+index abf859a09bba80e065e47d6bdf79e89630ccfff3..8943e595ff11589d23299efba21d69909da0ad89 100644
 --- a/chrome/android/javatests/BUILD.gn
 +++ b/chrome/android/javatests/BUILD.gn
-@@ -1712,6 +1712,7 @@ android_library("chrome_unit_test_java_various") {
+@@ -1714,6 +1714,7 @@ android_library("chrome_unit_test_java_various") {
      "src/org/chromium/chrome/browser/toolbar/ToolbarSecurityIconTest.java",
      "src/org/chromium/chrome/browser/webapps/WebappLaunchCauseMetricsTest.java",
    ]

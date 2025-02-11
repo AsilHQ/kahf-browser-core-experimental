@@ -1,8 +1,8 @@
 diff --git a/third_party/blink/public/mojom/BUILD.gn b/third_party/blink/public/mojom/BUILD.gn
-index f86e3bccfacc311bce0553f51b3fec66fb71c8de..ccaa975876344b147c904c177b9a90ac5c7de285 100644
+index 401338b438a69c63b47fbef33ddd2551a8f3c71c..2e961171651d4c42934970af301a8746ac2e6a37 100644
 --- a/third_party/blink/public/mojom/BUILD.gn
 +++ b/third_party/blink/public/mojom/BUILD.gn
-@@ -1169,6 +1169,7 @@ mojom("mojom_platform") {
+@@ -1170,6 +1170,7 @@ mojom("mojom_platform") {
    ]
    cpp_typemaps += shared_cpp_typemaps
    blink_cpp_typemaps += shared_cpp_typemaps
