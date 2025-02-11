@@ -10,6 +10,7 @@ import useLongPress from '$web-common/useLongPress'
 import * as Mojom from '../../../common/mojom'
 import ActionTypeLabel from '../../../common/components/action_type_label'
 import { useUntrustedConversationContext } from '../../untrusted_conversation_context'
+import AssistantReasoning from '../assistant_reasoning'
 import ContextActionsAssistant from '../context_actions_assistant'
 import ContextMenuHuman from '../context_menu_human'
 import Quote from '../quote'
@@ -54,6 +55,14 @@ function ConversationEntries() {
     return event?.completionEvent?.completion ?? ''
   }
 
+  function getTextBetweenTags(text: string, tag: string): string {
+    const startTag = `<${tag}>`
+    const endTag = `</${tag}>`
+    const startTagIndex = text.indexOf(startTag) + startTag.length
+    const endTagIndex = text.indexOf(endTag, startTagIndex)
+    return text.slice(startTagIndex, endTagIndex).trim()
+  }
+
   return (
     <>
       <div>
@@ -77,6 +86,7 @@ function ConversationEntries() {
             ? getCompletion(latestTurn)
             : latestTurn.text
           const lastEditedTime = latestTurn.createdTime
+          const hasReasoning = latestTurnText.includes('<think>')
 
           const turnContainer = classnames({
             [styles.turnContainerMobile]: conversationContext.isMobile
@@ -122,6 +132,15 @@ function ConversationEntries() {
                     isAIAssistant ? styles.message : styles.humanMessage
                   }
                 >
+                  {isAIAssistant && hasReasoning && (
+                    <AssistantReasoning
+                      text={getTextBetweenTags(latestTurnText, 'think')}
+                      isReasoning={
+                        isEntryInProgress &&
+                        !latestTurnText.includes('</think>')
+                      }
+                    />
+                  )}
                   {isAIAssistant && !showEditInput && (
                     <AssistantResponse
                       entry={latestTurn}

@@ -98,6 +98,10 @@ export default function MarkdownRenderer(mainProps: MarkdownRendererProps) {
     return transformer
   }, [])
 
+  const removeReasoning = (text: string) => {
+    return text.includes('<think>') ? text.split('</think>')[1] : text
+  }
+
   return (
     <div className={styles.markdownContainer}>
       <Markdown
@@ -106,7 +110,7 @@ export default function MarkdownRenderer(mainProps: MarkdownRendererProps) {
         // if the component is allowed to show the text cursor.
         rehypePlugins={mainProps.shouldShowTextCursor ? [plugin] : undefined}
         unwrapDisallowed={true}
-        children={mainProps.text}
+        children={removeReasoning(mainProps.text)}
         components={{
           p: (props) => (
             <CursorDecorator
