@@ -61,10 +61,8 @@ window.__firefox__.execute(function($) {
     };
   })
 
-  // Start looking for things to unhide before at most this long after
-  // the backend script is up and connected (eg backgroundReady = true),
-  // or sooner if the thread is idle.
-  const maxTimeMSBeforeStart = 1000
+  // Delay before we start looking for things to unhide
+  const timeInMSBeforeStart = 0
   // The cutoff for text ads.  If something has only text in it, it needs to have
   // this many, or more, characters.  Similarly, require it to have a non-trivial
   // number of words in it, to look like an actual text ad.
@@ -1241,5 +1239,5 @@ window.__firefox__.execute(function($) {
     CC.hasProceduralActions = true
   }
 
-  window.setTimeout(waitForBody, maxTimeMSBeforeStart)
+  window.setTimeout(waitForBody, timeInMSBeforeStart)
 });
