@@ -24,6 +24,7 @@
 #include "brave/components/brave_ads/core/internal/common/logging_util.h"
 #include "brave/components/brave_ads/core/internal/common/time/time_util.h"
 #include "brave/components/brave_ads/core/internal/creatives/creative_ad_info.h"
+#include "brave/components/brave_ads/core/internal/creatives/creative_ad_util.h"
 #include "brave/components/brave_ads/core/internal/segments/segment_util.h"
 #include "brave/components/brave_ads/core/mojom/brave_ads.mojom.h"
 #include "url/gurl.h"
@@ -265,7 +266,7 @@ void CreativeInlineContentAds::Save(
       mojom::DBTransactionInfo::New();
 
   const std::vector<CreativeInlineContentAdList> batches =
-      SplitVector(creative_ads, batch_size_);
+      SplitVector(DeduplicateCreativeAds(creative_ads), batch_size_);
 
   for (const auto& batch : batches) {
     Insert(mojom_db_transaction, batch);

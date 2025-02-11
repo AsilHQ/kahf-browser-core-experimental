@@ -8,7 +8,10 @@
 
 #include <algorithm>
 #include <cstddef>
+#include <string>
 
+#include "base/containers/flat_set.h"
+#include "base/strings/strcat.h"
 #include "brave/components/brave_ads/core/internal/creatives/creative_ad_info.h"
 #include "brave/components/brave_ads/core/internal/segments/segment_constants.h"
 
@@ -28,6 +31,27 @@ size_t TargetedCreativeAdCount(const T& creative_ads) {
       creative_ads, [](const CreativeAdInfo& creative_ad) {
         return creative_ad.segment != kUntargetedSegment;
       });
+}
+
+template <typename T>
+T DeduplicateCreativeAds(const T& creative_ads) {
+  base::flat_set<std::string> uuids;
+
+  T deduplicated_creative_ads;
+  for (const auto& creative_ad : creative_ads) {
+    const std::string uuid =
+        base::StrCat({creative_ad.campaign_id, creative_ad.creative_set_id,
+                      creative_ad.creative_instance_id, creative_ad.segment});
+    if (uuids.contains(uuid)) {
+      // Skip duplicates.
+      continue;
+    }
+    uuids.insert(uuid);
+
+    deduplicated_creative_ads.push_back(creative_ad);
+  }
+
+  return deduplicated_creative_ads;
 }
 
 }  // namespace brave_ads
