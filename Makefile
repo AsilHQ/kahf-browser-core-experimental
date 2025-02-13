@@ -4,4 +4,7 @@ init:
 build:
 	npm run build -- Debug
 
-.PHONY: init build
+launch:
+	../out/Debug/brave.exe
+
+.PHONY: init build launch
