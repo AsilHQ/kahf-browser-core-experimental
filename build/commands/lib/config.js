@@ -335,6 +335,7 @@ Config.prototype.buildArgs = function () {
     v8_enable_verify_heap: this.isAsan(),
     disable_fieldtrial_testing_config: true,
     safe_browsing_mode: 1,
+    // brave_services_key: this.braveServicesKey,
     root_extra_deps: ["//brave"],
     clang_unsafe_buffers_paths: "//brave/build/config/unsafe_buffers_paths.txt",
     // TODO: Re-enable when chromium_src overrides work for files in relative
@@ -348,6 +349,7 @@ Config.prototype.buildArgs = function () {
     branding_path_product: "brave",
     enable_nacl: false,
     enable_widevine: true,
+    enable_brave_vpn: false,
     // Our copy of signature_generator.py doesn't support --ignore_missing_cert:
     ignore_missing_widevine_signing_cert: false,
     target_cpu: this.targetArch,
@@ -420,8 +422,8 @@ Config.prototype.buildArgs = function () {
     sparkle_eddsa_public_key: this.sparkleEdDSAPublicKey,
     use_remoteexec: this.useRemoteExec,
     use_libfuzzer: this.use_libfuzzer,
-    enable_updater: this.isOfficialBuild(),
-    enable_update_notifications: this.isOfficialBuild(),
+    enable_updater: false,
+    enable_update_notifications: false,
     brave_services_production_domain: this.braveServicesProductionDomain,
     brave_services_staging_domain: this.braveServicesStagingDomain,
     brave_services_dev_domain: this.braveServicesDevDomain,
@@ -525,7 +527,7 @@ Config.prototype.buildArgs = function () {
     (this.targetArch === 'x86' ||
       (!this.isDebug() && !this.isComponentBuild() && !this.isReleaseBuild()))
   ) {
-    args.symbol_level = 1
+    args.symbol_level = 0
   }
 
   // For Linux Release builds, upstream doesn't want to use symbol_level = 2
@@ -589,17 +591,17 @@ Config.prototype.buildArgs = function () {
     args.android_channel = this.channel
     if (!this.isReleaseBuild()) {
       args.android_channel = 'default'
-      args.chrome_public_manifest_package = 'com.brave.browser_default'
+      args.chrome_public_manifest_package = 'co.asil.browser_default'
     } else if (this.channel === '') {
       args.android_channel = 'stable'
-      args.chrome_public_manifest_package = 'com.brave.browser'
+      args.chrome_public_manifest_package = 'co.asil.browser'
     } else if (this.channel === 'beta') {
-      args.chrome_public_manifest_package = 'com.brave.browser_beta'
+      args.chrome_public_manifest_package = 'co.asil.browser_beta'
     } else if (this.channel === 'dev') {
-      args.chrome_public_manifest_package = 'com.brave.browser_dev'
+      args.chrome_public_manifest_package = 'co.asil.browser_dev'
     } else if (this.channel === 'nightly') {
       args.android_channel = 'canary'
-      args.chrome_public_manifest_package = 'com.brave.browser_nightly'
+      args.chrome_public_manifest_package = 'co.asil.browser_nightly'
     }
     // exclude_unwind_tables is inherited form upstream and is false for any
     // Android build

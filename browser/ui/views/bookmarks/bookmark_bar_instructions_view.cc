@@ -49,6 +49,7 @@ BookmarkBarInstructionsView::BookmarkBarInstructionsView(Browser* browser)
   instructions_ = new views::Label(
       brave_l10n::GetLocalizedResourceUTF16String(IDS_BOOKMARKS_NO_ITEMS),
       kBookmarkBarTextContext);
+  instructions_ = new views::Label(u"", kBookmarkBarTextContext);
   instructions_->SetAutoColorReadabilityEnabled(false);
   instructions_->SetHorizontalAlignment(gfx::ALIGN_LEFT);
   AddChildView(instructions_.get());

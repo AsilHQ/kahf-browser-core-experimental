@@ -1,0 +1,327 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_da.xtb b/browser/ui/android/strings/translations/android_brave_strings_da.xtb	(rejected hunks)
+@@ -3,24 +3,24 @@
+ <translationbundle lang="da">
+ <translation id="8631427463833030968">Administrér annoncer</translation>
+ <translation id="7630214457764713113">Kopiér rent link</translation>
+-<translation id="885805571521218129">Dette viser din omtrentlige indtjening for Brave Ads denne måned.</translation>
++<translation id="885805571521218129">Dette viser din omtrentlige indtjening for Kahf Ads denne måned.</translation>
+ <translation id="3478449063771497234">Notifikationer er slået fra</translation>
+ <translation id="2862978891748913252">Vælg land</translation>
+ <translation id="3970520675790340955">Vælg dit land, så vi kan vise dig de rette valgmuligheder og reklamer i dit område.</translation>
+ <translation id="7301741773883122509">Nu kan du få belønninger for at se reklamer. Du hjælper med at gøre nettet til et bedre sted for alle. Og det er fantastisk!</translation>
+ <translation id="6439128034594289376">Woohoo! Du er klar!</translation>
+ <translation id="370665806235115550">Indlæser...</translation>
+-<translation id="7931127789630755251">Optjen tokens for private reklamer, du ser i Brave</translation>
++<translation id="7931127789630755251">Optjen tokens for private reklamer, du ser i Kahf</translation>
+ <translation id="7859066142771796818">Brug tokens til at købe gavekort, bytte til andre møntenheder, støtte indholdsskabere og mere.</translation>
+ <translation id="3863981251715594911">Hvordan virker det?</translation>
+-<translation id="5547108999862247665">Hvordan fungerer Brave Rewards?</translation>
++<translation id="5547108999862247665">Hvordan fungerer Kahf Rewards?</translation>
+ <translation id="2965798296974325760">Begynd at bruge Rewards</translation>
+ <translation id="8220484609979012449">\n\nDu kan stadig sende crypto-bidrag til denne skaber via din Web3-tegnebog.</translation>
+ <translation id="6385969012847057348">Denne skaber kan ikke modtage bidrag fra <ph name="CUSTODIAN"/>.</translation>
+ <translation id="735733310778086206">Denne skaber har ikke gjort klar til at modtage Web3 eller crypto-bidrag endnu.</translation>
+ <translation id="6268134562674951939">Du har ikke nok tokens</translation>
+ <translation id="4529874892536380156">Gør dette til et månedligt tilbagevendende bidrag. Du kan annullere det når som helst.</translation>
+-<translation id="5562948772940025260">Du kan kun sende op til <ph name="AMOUNT"/>BAT med din Brave Rewards-saldo.</translation>
++<translation id="5562948772940025260">Du kan kun sende op til <ph name="AMOUNT"/>BAT med din Kahf Rewards-saldo.</translation>
+ <translation id="5012991400231464322">Månedlige bidrag</translation>
+ <translation id="5907051927340164207">Du sender allerede månedlige bidrag til denne skaber.</translation>
+ <translation id="4848906651275579475">Du kan stadig sende et bidrag nu, og du kan annullere dine månedlige bidrag til denne skaber ved at fjerne dem fra <ph name="MONTHLY_CONTRIBUTION"/>.</translation>
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Få mere at vide om Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Tillad (genstart nu)</translation>
+ <translation id="2433507940547922241">Udseende</translation>
+-<translation id="9040069796107003510">Brave Rewards-ikon</translation>
+-<translation id="6333347122924254968">Vis ikonet for Brave Belønninger i adresselinjen</translation>
++<translation id="9040069796107003510">Kahf Rewards-ikon</translation>
++<translation id="6333347122924254968">Vis ikonet for Kahf Belønninger i adresselinjen</translation>
+ <translation id="8495235435594442882">Aktivér værktøjslinje i bunden</translation>
+-<translation id="6587448235155023666">Dine ændringer træder i kraft næste gang du genstarter Brave</translation>
++<translation id="6587448235155023666">Dine ændringer træder i kraft næste gang du genstarter Kahf</translation>
+ <translation id="8701563696941209024">GENÅBN NU</translation>
+ <translation id="834487290629916192">SENERE</translation>
+-<translation id="7207456302801184289">Velkommen til Brave</translation>
++<translation id="7207456302801184289">Velkommen til Kahf</translation>
+ <translation id="4117451092682672487">Privatliv. Gjort enkelt.</translation>
+-<translation id="7909375417585209817">Med Brave som din standardbrowser bliver alle links, du åbner, åbnet med  Braves privatlivsbeskyttelse.</translation>
++<translation id="7909375417585209817">Med Kahf som din standardbrowser bliver alle links, du åbner, åbnet med  Kahfs privatlivsbeskyttelse.</translation>
+ <translation id="7370959926683925817">Bloker annoncer. Gem data. Hver eneste dag.</translation>
+-<translation id="7281027579943912834">Med Brave som standard får hvert link, du trykker på, Braves ad-block-beskyttelse. Hver side, video og stream.</translation>
+-<translation id="5148943178722443958">Hjælp med at gøre Brave bedre.</translation>
++<translation id="7281027579943912834">Med Kahf som standard får hvert link, du trykker på, Kahfs ad-block-beskyttelse. Hver side, video og stream.</translation>
++<translation id="5148943178722443958">Hjælp med at gøre Kahf bedre.</translation>
+ <translation id="6718362830686703942">Send fejlrapporter, hvis browseren bryder sammen eller går i stå.</translation>
+-<translation id="8616157231067364693">Del privat og anonym produktindsigt om, hvilke funktioner der bruges af Braves brugere.</translation>
++<translation id="8616157231067364693">Del privat og anonym produktindsigt om, hvilke funktioner der bruges af Kahfs brugere.</translation>
+ <translation id="2877653791257935258">Indtast en websides navn eller URL</translation>
+-<translation id="5329830149661250028">Brave gør en forskel: Ingen annoncer. Ingen sporingsenheder. Meget hurtigere indlæsningshastighed.</translation>
+-<translation id="3941792073703079607">Se Brave-forskellen: Bloker annoncer. Gem data. Stream hurtigere.</translation>
+-<translation id="3545804467215833536">Klik for at se Brave Shields</translation>
+-<translation id="1724327820822194498">Med Shields kan du se alt det skadelige fra hver eneste side, som Brave har blokeret.</translation>
++<translation id="5329830149661250028">Kahf gør en forskel: Ingen annoncer. Ingen sporingsenheder. Meget hurtigere indlæsningshastighed.</translation>
++<translation id="3941792073703079607">Se Kahf-forskellen: Bloker annoncer. Gem data. Stream hurtigere.</translation>
++<translation id="3545804467215833536">Klik for at se Kahf Shields</translation>
++<translation id="1724327820822194498">Med Shields kan du se alt det skadelige fra hver eneste side, som Kahf har blokeret.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> og <ph name="TRACKER"/> andre annoncer &amp; trackere blokeret</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> og andre annoncer og trackere er blokeret</translation>
+ <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> annoncer &amp; trackere blokeret</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Onboarding for fejlfinding</translation>
+ <translation id="5808759341041733958">Vælg standard-søgemaskine</translation>
+ <translation id="1331593888918588693">Du kan altid ændre dine indstillinger senere under app-indstillingerne.</translation>
+-<translation id="5806601733251372221">Brave-Skjolde</translation>
++<translation id="5806601733251372221">Kahf-Skjolde</translation>
+ <translation id="8537217141725709400">Tjen <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Brave Belønninger</translation>
++<translation id="3333887201479867589">Kahf Belønninger</translation>
+ <translation id="5870330605209713397">ved at se reklamer som respekterer dit privatliv og som standard støtte dine yndlingssider og -skabere.</translation>
+-<translation id="5302488867897327287">Ved at trykke på Begynd at bruge Brave Rewards, accepterer du</translation>
++<translation id="5302488867897327287">Ved at trykke på Begynd at bruge Kahf Rewards, accepterer du</translation>
+ <translation id="4281844954008187215">Servicevilkår</translation>
+ <translation id="6871397658902960384">Begynd at browse</translation>
+ <translation id="454386012157232640">Jeg så ikke en annonce</translation>
+-<translation id="1448877943847791441">Brave viser din første annonce i</translation>
+-<translation id="4410793187232041318">Nu vil du tjene mønter fra Brave Ads</translation>
+-<translation id="6511854390690723657">Dette er din første Brave-annonce. Tryk for at lære mere.</translation>
+-<translation id="2070991379950719711">Begynd at bruge Brave Rewards</translation>
++<translation id="1448877943847791441">Kahf viser din første annonce i</translation>
++<translation id="4410793187232041318">Nu vil du tjene mønter fra Kahf Ads</translation>
++<translation id="6511854390690723657">Dette er din første Kahf-annonce. Tryk for at lære mere.</translation>
++<translation id="2070991379950719711">Begynd at bruge Kahf Rewards</translation>
+ <translation id="48520986898237073">Fortsæt til tegnebog</translation>
+ <translation id="3570367516044491911">Indstil som standardbrowser</translation>
+ <translation id="6800338374677644736">Indstil som standardbrowser</translation>
+-<translation id="19715420010996093">Vælg Brave Browser, og tryk på "Altid"</translation>
+-<translation id="3546439402724649282">Brave er allerede indstillet som din standardbrowser.</translation>
++<translation id="19715420010996093">Vælg Kahf Browser, og tryk på "Altid"</translation>
++<translation id="3546439402724649282">Kahf er allerede indstillet som din standardbrowser.</translation>
+ <translation id="8389661903259423907">Du har allerede indstillet en standardbrowser. Du kan ændre standardbrowser i dine appindstillinger.</translation>
+ <translation id="1545749641540134597">Scan QR-kode</translation>
+ <translation id="5317781812114905957">Instruktioner</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Kode udløbet. Generer en ny kode ved at klikke på knappen nedenfor.</translation>
+ <translation id="318164877797885563">Denne midlertidige kode er gyldig i de/den næste <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Indstillingsudgang</translation>
+-<translation id="8050847734948770789">Aktiver Brave Rewards</translation>
++<translation id="8050847734948770789">Aktiver Kahf Rewards</translation>
+ <translation id="9187185473011056079">Jeg er på!</translation>
+-<translation id="8185825081026121627">Optjen et Basic Attention Token for at se privatlivsbevarende Brave Rewards-annoncer.</translation>
++<translation id="8185825081026121627">Optjen et Basic Attention Token for at se privatlivsbevarende Kahf Rewards-annoncer.</translation>
+ <translation id="5321518976657560663">Nulstillingsfejl</translation>
+-<translation id="4114170343590425996">Der opstod en fejl ved nulstilling af Brave Rewards. Genstart venligst Brave og prøv igen.</translation>
+-<translation id="6417420737057016607">Brave Reklamer</translation>
+-<translation id="5611966874859284786">Vis notifikationsannoncer, når Brave ikke er i brug</translation>
+-<translation id="6606319453795180219">Dette vil slette dine Brave Rewards og nulstille alle dine Brave Rewards-data</translation>
++<translation id="4114170343590425996">Der opstod en fejl ved nulstilling af Kahf Rewards. Genstart venligst Kahf og prøv igen.</translation>
++<translation id="6417420737057016607">Kahf Reklamer</translation>
++<translation id="5611966874859284786">Vis notifikationsannoncer, når Kahf ikke er i brug</translation>
++<translation id="6606319453795180219">Dette vil slette dine Kahf Rewards og nulstille alle dine Kahf Rewards-data</translation>
+ <translation id="8293206222192510085">Tilføj bogmærke</translation>
+ <translation id="340492034650766959">Slet bogmærke</translation>
+ <translation id="2149973817440762519">Rediger bogmærke</translation>
+@@ -464,35 +464,35 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="5582686930349810484">Fingeraftryk er blokeret (standard)</translation>
+ <translation id="769702552748212954">Tillad al fingeraftrykning</translation>
+ <translation id="876424292214881779">Reklamer og andet utøj blev blokeret</translation>
+-<translation id="6930134873084561197">Sider indeholder ofte cookies og scripts som forsøger at identificere dig og din enhed. De vil vide hvem du er og følge dig via web-tracking, for at se hvad du laver på hver side.\n\nBrave blokerer disse, så du kan browse uden at blive forfulgt.</translation>
+-<translation id="8553998445606452168">Om Brave Shields</translation>
++<translation id="6930134873084561197">Sider indeholder ofte cookies og scripts som forsøger at identificere dig og din enhed. De vil vide hvem du er og følge dig via web-tracking, for at se hvad du laver på hver side.\n\nKahf blokerer disse, så du kan browse uden at blive forfulgt.</translation>
++<translation id="8553998445606452168">Om Kahf Shields</translation>
+ <translation id="8912304686498704084">Op</translation>
+ <translation id="4963218453264888510">NED</translation>
+-<translation id="7474113515179313724">Du ser denne side uden Braves privatlivsbeskyttelse. Fungerer den ikke korrekt med Shields slået til?</translation>
++<translation id="7474113515179313724">Du ser denne side uden Kahfs privatlivsbeskyttelse. Fungerer den ikke korrekt med Shields slået til?</translation>
+ <translation id="4226543734057230801">Ethereum-netværker</translation>
+ <translation id="3504157706952484145">Filecoin-netværker</translation>
+ <translation id="1561541094377237745">Solana-netværker</translation>
+ <translation id="7141438739990875547">Bitcoin-netværker</translation>
+ <translation id="9055546041146396417">Hvis denne side ser forkert ud så prøv uden Shields.</translation>
+ <translation id="1209739344687072997">Rapporter en side der ikke virker</translation>
+-<translation id="8510478288840333677">Fortæl Braves udviklere at denne side ikke fungerer ordentligt med Shields</translation>
+-<translation id="5429200298326665264">OBS: Denne sides adresse vil blive sendt sammen med dit version-nummer for Brave og din IP-adresse (som ikke vil blive gemt).</translation>
++<translation id="8510478288840333677">Fortæl Kahfs udviklere at denne side ikke fungerer ordentligt med Shields</translation>
++<translation id="5429200298326665264">OBS: Denne sides adresse vil blive sendt sammen med dit version-nummer for Kahf og din IP-adresse (som ikke vil blive gemt).</translation>
+ <translation id="5299848999918506028">Tak!</translation>
+-<translation id="76550953340008122">Tak for at du har fortalt Braves udviklere om at der er fejl på siden. Vi vil gøre vores bedste for at ordne fejlen!</translation>
++<translation id="76550953340008122">Tak for at du har fortalt Kahfs udviklere om at der er fejl på siden. Vi vil gøre vores bedste for at ordne fejlen!</translation>
+ <translation id="650318023204990401">Avancerede kontroller</translation>
+ <translation id="5370478469168390143">Gem data online</translation>
+-<translation id="1118508688433541158">Browse hurtigere og blokér reklamer med Brave</translation>
+-<translation id="7427391215172269363">Hver dag sparer jeg data ved at bruge Brave som browser.</translation>
+-<translation id="4776948189086901857">Brave fungerer overalt</translation>
+-<translation id="1606322780901645965">Download Brave på brave.com på din bærbare computer eller tablet for et hurtigere og mere privat internet</translation>
++<translation id="1118508688433541158">Browse hurtigere og blokér reklamer med Kahf</translation>
++<translation id="7427391215172269363">Hver dag sparer jeg data ved at bruge Kahf som browser.</translation>
++<translation id="4776948189086901857">Kahf fungerer overalt</translation>
++<translation id="1606322780901645965">Download Kahf på brave.com på din bærbare computer eller tablet for et hurtigere og mere privat internet</translation>
+ <translation id="8374242949413616101">Databeskyttelse</translation>
+-<translation id="4955406228638026265">Brave stopper reklamer og trackere fra at samle oplysninger om dig, uden dit samtykke.</translation>
++<translation id="4955406228638026265">Kahf stopper reklamer og trackere fra at samle oplysninger om dig, uden dit samtykke.</translation>
+ <translation id="752842701893882688">Spar data og batteri</translation>
+ <translation id="1685837926613452362">Uden reklame &amp;-trackere, bruger websteder mindre data og batteri. Du kan endda spare penge på operatørgebyrer.</translation>
+ <translation id="5440744330377972191">Hjemmesider indlæses hurtigere</translation>
+-<translation id="3000738865641747653">Indlæsning af mindre data betyder, at hjemmesider i Brave indlæses hurtigere – op til 8x hurtigere end andre browsere.</translation>
++<translation id="3000738865641747653">Indlæsning af mindre data betyder, at hjemmesider i Kahf indlæses hurtigere – op til 8x hurtigere end andre browsere.</translation>
+ <translation id="8903462729414407077">Få ugentlige opdateringer</translation>
+-<translation id="7450323860390658083">Få besked om, hvilke af dine besøgte websider der er mest invasive, hvad angår persondata.\n\nDet er kun dig, der kan se privatlivsstatistikkerne. Ingen persondata eller browserhistorik forlader på noget tidspunkt Brave på din enhed.</translation>
++<translation id="7450323860390658083">Få besked om, hvilke af dine besøgte websider der er mest invasive, hvad angår persondata.\n\nDet er kun dig, der kan se privatlivsstatistikkerne. Ingen persondata eller browserhistorik forlader på noget tidspunkt Kahf på din enhed.</translation>
+ <translation id="6170159749517116894">Aktivér databeskyttelsesrapporter</translation>
+ <translation id="1669047024429367828">Synlighed</translation>
+ <translation id="5966707198760109579">Uge</translation>
+@@ -585,9 +585,9 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="1483493594462132177">Send</translation>
+ <translation id="538450413584738399">Swap</translation>
+ <translation id="4556086616242530072">Browserindbyggede.\nSelv-varetægt.\nOg multi-chain.</translation>
+-<translation id="7909462264772842773">Tag kontrollen med din crypto og NFT. Brave Wallet understøtter Ethereum, EVM chains, Solana, Filecoin og meget mere.</translation>
++<translation id="7909462264772842773">Tag kontrollen med din crypto og NFT. Kahf Wallet understøtter Ethereum, EVM chains, Solana, Filecoin og meget mere.</translation>
+ <translation id="165255193061631296">Har du brug for en ny wallet?</translation>
+-<translation id="3485737865439729577">Kom i gang med Brave Wallet på få minutter.</translation>
++<translation id="3485737865439729577">Kom i gang med Kahf Wallet på få minutter.</translation>
+ <translation id="2759836790106646094">Lav en sikkerhedskopi af din tegnebog nu!</translation>
+ <translation id="1078873179929044999">På det næste trin vil du se en gendannelsessætning på 12 ord, som du kan bruge til at gendanne dine primære crypto-konti. Opbevar den et sikkert sted. Din gendannelsessætning er den eneste måde at få adgang på, hvis du har glemt din adgangskode, du mister din enhed, eller hvis du vil skifte wallet.</translation>
+ <translation id="2359808026110333948">Fortsæt</translation>
+@@ -595,7 +595,7 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="1904000155026201268">Jeg er indforstået med, at hvis jeg mister mine gendannelsessætning, vil jeg ikke kunne tilgå min kryptotegnebog.</translation>
+ <translation id="5333225216561354793">Vi kræver, at du bekræfter nedenstående</translation>
+ <translation id="6937275455070754004">Vælg, hvilke blockchains du vil bruge i din tegnebog.</translation>
+-<translation id="1645800479814134195">Jeg forstår, at dette er en wallet til selv-varetægt, og at jeg alene er ansvarlig for eventuelle tilknyttede midler, aktiver eller konti og for at træffe passende foranstaltninger for at sikre, beskytte og sikkerhedskopiere min pung. Jeg forstår, at Brave ikke kan få adgang til min pung eller tilbageføre transaktioner på mine vegne, og at min gendannelsessætning i tilfælde af en mistet adgangskode, stjålet enhed eller lignende omstændigheder er den ENESTE måde at få adgang.</translation>
++<translation id="1645800479814134195">Jeg forstår, at dette er en wallet til selv-varetægt, og at jeg alene er ansvarlig for eventuelle tilknyttede midler, aktiver eller konti og for at træffe passende foranstaltninger for at sikre, beskytte og sikkerhedskopiere min pung. Jeg forstår, at Kahf ikke kan få adgang til min pung eller tilbageføre transaktioner på mine vegne, og at min gendannelsessætning i tilfælde af en mistet adgangskode, stjålet enhed eller lignende omstændigheder er den ENESTE måde at få adgang.</translation>
+ <translation id="4565891212173086999">Jeg har læst og accepterer <ph name="CLICK_START"/>Brugervilkårene<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Din gendannelsessætning</translation>
+ <translation id="5077747669435508720">Nedskriv eller kopiér disse ord i denne præcise rækkefølge, og gem dem et sikkert sted. Din gendannelsessætning er den eneste måde at få adgang til din konto på, hvis du glemmer din adgangskode, mister din enhed, eller hvis du vil skifte wallets.</translation>
+@@ -616,13 +616,13 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="8030647312184163932">Fingeraftrykoplåsning</translation>
+ <translation id="4090490645603511157">Brug biometriske data, så du hurtigt kan låse din tegnebog op uden at indtaste adgangskode.</translation>
+ <translation id="1544192797660353713">Wallet</translation>
+-<translation id="6901810042765869341">Indtast din gendannelsessætning for at gendanne din Brave Wallet med kryptovaluta.</translation>
++<translation id="6901810042765869341">Indtast din gendannelsessætning for at gendanne din Kahf Wallet med kryptovaluta.</translation>
+ <translation id="9120654436199628567">Gendan kryptokonto</translation>
+ <translation id="4811736040444856406">Vis gendannelsessætning</translation>
+ <translation id="283071225285270357">Indtast din gendannelsessætning</translation>
+ <translation id="3943857333388298514">Indsæt</translation>
+ <translation id="3331452756822160641">Ny adgangskode</translation>
+-<translation id="4359319875297001084">Importér fra legacy Brave crypto-wallets?</translation>
++<translation id="4359319875297001084">Importér fra legacy Kahf crypto-wallets?</translation>
+ <translation id="2339124864228588937">Bekræft gendannelsessætning</translation>
+ <translation id="3747079125031086337">Vælg ordene i din gendannelsessætning i den rigtige rækkefølge.</translation>
+ <translation id="6518133107902771759">Bekræft</translation>
+@@ -656,8 +656,8 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="5760476995887363522">Sætningerne stemte ikke overens. Prøv igen.</translation>
+ <translation id="2360588547830602174">Kontogendannelsen mislykkedes. Prøv igen.</translation>
+ <translation id="1987317783729300807">Konti</translation>
+-<translation id="6284218950354553099">Send automatisk dagligt ping om brug til Brave</translation>
+-<translation id="2181060149810222381">Det private ping giver Brave mulighed for at estimere antallet af aktive brugere.</translation>
++<translation id="6284218950354553099">Send automatisk dagligt ping om brug til Kahf</translation>
++<translation id="2181060149810222381">Det private ping giver Kahf mulighed for at estimere antallet af aktive brugere.</translation>
+ <translation id="6725413948756358325">Kontonavn</translation>
+ <translation id="6062431965141524986">Du kan oprette en sekundær konto ved at importere din private nøgle.</translation>
+ <translation id="3952797765659730604">Indtast, indsæt eller importér din private nøgles filstreng eller JSON.</translation>
+@@ -679,14 +679,14 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="1721710839767183848">Ingen annoncer på siden</translation>
+ <translation id="4647035642622555398">Ingen afbrydelser</translation>
+ <translation id="4122515759479497554">Søg efter videoer</translation>
+-<translation id="4449475351935531438">Brave Firewall + VPN</translation>
++<translation id="4449475351935531438">Kahf Firewall + VPN</translation>
+ <translation id="719977489961414786">Opgradér til en VPN, der beskytter din forbindelse og blokerer invasive trackere over alt.</translation>
+ <translation id="8814357473522731680">Køres af</translation>
+ <translation id="5892534145504632332">Beskyt alle dine apps og hele din enhed</translation>
+ <translation id="7195416926059527505">Mere sikkerhed til privat eller offentligt Wi-Fi</translation>
+ <translation id="1354700000739359839">Lynhurtigt, op til 100 Mbps</translation>
+ <translation id="3510283489391432976">Vælg din placering/dit land</translation>
+-<translation id="7695158478627528928">Brave sporer aldrig din aktivitet</translation>
++<translation id="7695158478627528928">Kahf sporer aldrig din aktivitet</translation>
+ <translation id="4575683170451975058">Beskyt 5 enheder på 1 abonnement</translation>
+ <translation id="4882693590083943563">Alle planer inkluderer <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">7 dages gratis prøve!</translation>
+@@ -697,14 +697,14 @@ Er du sikker på, du vil gennemføre?</translation>
+ <translation id="1163809943099641131">Et år</translation>
+ <translation id="172859718096975160">Forny årligt <ph name="DISCOUNT_TEXT_START"/>spar<ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / år.</translation>
+-<translation id="5125233570742276182">Abonnementer vil blive opkrævet via din Google-konto. Enhver ubrugt del af den gratis prøveperiode, hvis den tilbydes, fortabes, når du køber et abonnement.\n\nDit abonnement fornyes automatisk, medmindre det annulleres mindst 24 timer før udgangen af ​​den aktuelle periode.\n\nDu kan administrere dine abonnementer i Indstillinger.\nVed at bruge Brave accepterer du vilkårene for brug og privatlivspolitikken.</translation>
++<translation id="5125233570742276182">Abonnementer vil blive opkrævet via din Google-konto. Enhver ubrugt del af den gratis prøveperiode, hvis den tilbydes, fortabes, når du køber et abonnement.\n\nDit abonnement fornyes automatisk, medmindre det annulleres mindst 24 timer før udgangen af ​​den aktuelle periode.\n\nDu kan administrere dine abonnementer i Indstillinger.\nVed at bruge Kahf accepterer du vilkårene for brug og privatlivspolitikken.</translation>
+ <translation id="5035172357624830412">Har du allerede købt hos brave.com?</translation>
+ <translation id="713136183174551885">Opdater dine legitimationsoplysninger</translation>
+ <translation id="6053992191006521518">Prøv GRATIS</translation>
+ <translation id="5903391101107992067">Prøv gratis i 7 dage</translation>
+ <translation id="721747358270435486">Installér VPN</translation>
+ <translation id="836074276610740314">Installér VPN-profil</translation>
+-<translation id="8021842065465097929">Brave installerer nu en VPN-profil.</translation>
++<translation id="8021842065465097929">Kahf installerer nu en VPN-profil.</translation>
+ <translation id="229286271464650057">Denne profil tillader, at VPN altid automatisk opretter forbindelse og sikrer traffik på tværs af din enhed — i alle apps. Denne VPN-forbindelse bliver krypteret og føres gennem Guardians intelligente firewall for at blokere reklamer og trackere.</translation>
+ <translation id="9073255657908892407">Kontakt teknisk support</translation>
+ <translation id="1139934321138152517">VPN er nu aktiveret</translation>
+@@ -932,19 +932,19 @@ Hvis du ikke godkender denne anmodning, vil VPN-forbindelsen ikke blive genopret
+ <translation id="7002577172732106572">Split-tunneling</translation>
+ <translation id="8181161042860463420">Den tilknyttede token-konto eksisterer ikke endnu. En lille mængde SOL vil blive brugt til at oprette og finansiere den. <ph name="CLICK_START"/>Find ud af mere<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Opdaterer VPN-profil ...</translation>
+-<translation id="7457027586454688423">Indtast din Brave Wallet-adgangskode</translation>
+-<translation id="4784306439879850873">Vær opmærksom på, at Brave ikke kan garantere, hvad der vil ske, hvis du skriver under. En signatur kan godkende næsten enhver form for handling i din konto eller på dine vegne, blandt andet at give fuld kontrol over din konto og crypto-aktiver til siden, der anmoder dig. Skriv kun under, hvis du er sikker på, du vil udføre denne handling og stoler på siden.</translation>
++<translation id="7457027586454688423">Indtast din Kahf Wallet-adgangskode</translation>
++<translation id="4784306439879850873">Vær opmærksom på, at Kahf ikke kan garantere, hvad der vil ske, hvis du skriver under. En signatur kan godkende næsten enhver form for handling i din konto eller på dine vegne, blandt andet at give fuld kontrol over din konto og crypto-aktiver til siden, der anmoder dig. Skriv kun under, hvis du er sikker på, du vil udføre denne handling og stoler på siden.</translation>
+ <translation id="3474375934783434676">Skriv under på eget ansvar</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/>af<ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Godkend transaktion</translation>
+ <translation id="6450792191436242818">Systemprogram</translation>
+-<translation id="5318067544026930166">Lås Brave Wallet op med biometrisk godkendelse</translation>
+-<translation id="2629767022373384291">Vil du bruge biometrisk godkendelse til at låse din Brave Wallet op?</translation>
++<translation id="5318067544026930166">Lås Kahf Wallet op med biometrisk godkendelse</translation>
++<translation id="2629767022373384291">Vil du bruge biometrisk godkendelse til at låse din Kahf Wallet op?</translation>
+ <translation id="4782919977106118997">Brug oplåsning med fingeraftryk</translation>
+ <translation id="2054995875643283428">Spring dette over indtil videre</translation>
+ <translation id="2522605225061484799">Gå til min portefølje</translation>
+ <translation id="1148624853678088576">Du er klar!</translation>
+-<translation id="4131445988101719379">Din Brave Wallet er klar til brug</translation>
++<translation id="4131445988101719379">Din Kahf Wallet er klar til brug</translation>
+ <translation id="6252742184395380448">Konfigurér program</translation>
+ <translation id="5358970666412490132">Belønningsprogram</translation>
+ <translation id="346636227344244984">Afstemningsprogram</translation>
+@@ -1016,22 +1016,22 @@ Hvis du ikke godkender denne anmodning, vil VPN-forbindelsen ikke blive genopret
+ <translation id="1313065465616456728">Udstedt kl.</translation>
+ <translation id="7902225556763260253">Udløbstid</translation>
+ <translation id="1908159733454294871">Der er konstateret en sikkerhedsrisiko</translation>
+-<translation id="5658257029899993935">Forbind købet med din Brave-konto</translation>
+-<translation id="1187061015547219282">Du kan forbinde køb på Play Store til med din Brave-konto, så du kan bruge Brave-VPN på andre enheder.</translation>
++<translation id="5658257029899993935">Forbind købet med din Kahf-konto</translation>
++<translation id="1187061015547219282">Du kan forbinde køb på Play Store til med din Kahf-konto, så du kan bruge Kahf-VPN på andre enheder.</translation>
+ <translation id="6662142137695589205">Forbind dit VPN-abonnement</translation>
+-<translation id="2674077112509133024">Udvid din Brave Firewall + VPN-beskyttelse</translation>
+-<translation id="6365389672683343144">Dit VPN-abonnement hos Brave kan beskytte op til 5 enheder – både Android, iOS eller PC. Du skal bare forbinde din Google Play-konto med din Brave-konto.</translation>
++<translation id="2674077112509133024">Udvid din Kahf Firewall + VPN-beskyttelse</translation>
++<translation id="6365389672683343144">Dit VPN-abonnement hos Kahf kan beskytte op til 5 enheder – både Android, iOS eller PC. Du skal bare forbinde din Google Play-konto med din Kahf-konto.</translation>
+ <translation id="6610899852831463073">Kan ikke aktivere Sikker browsing</translation>
+ <translation id="7954263306665462056">Sikker browsing er blevet deaktiveret på din enhed. Hvis du vil aktivere denne funktion, skal du sikre dig, at Google Play Services er installeret og er opdateret.</translation>
+ <translation id="6605147707233193230">Aktivér for at hjælpe med at støtte indholdsskabere</translation>
+ <translation id="1609556006143307897">Du hjælper med at understøtte indholdsskabere</translation>
+-<translation id="6067959437127691361">Ved at bruge Brave Rewards understøtter du indholdsskabere, samtidig med at du optjener BAT.</translation>
++<translation id="6067959437127691361">Ved at bruge Kahf Rewards understøtter du indholdsskabere, samtidig med at du optjener BAT.</translation>
+ <translation id="3264975266761862670">Er du klar til at optjene?</translation>
+ <translation id="265337947574975838">Forbind eller opret en konto hos en af vores partnere.</translation>
+ <translation id="654447476965480878">Lær mere om at optjene BAT</translation>
+ <translation id="6278643716658443228">Rewards-indstillinger</translation>
+ <translation id="6516984207843289176">Tilslut konto</translation>
+-<translation id="4272136334824111854">I denne måned har du besøgt <ph name="CREATOR_COUNT"/>skabere støttet af Brave Rewards</translation>
++<translation id="4272136334824111854">I denne måned har du besøgt <ph name="CREATOR_COUNT"/>skabere støttet af Kahf Rewards</translation>
+ <translation id="6845311459433734326">Forbind en varetagerkonto, så du kan optjene BAT og udbetale dine belønninger</translation>
+ <translation id="928980476243133540">Jeg gør det senere</translation>
+ <translation id="579702532610384533">Genopret forbindelsen</translation>
+@@ -1064,8 +1064,8 @@ Hvis du ikke godkender denne anmodning, vil VPN-forbindelsen ikke blive genopret
+ <translation id="346505172740911461">Markedspris</translation>
+ <translation id="5494920125229734069">Vælg alle</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Log ind med Brave Wallet</translation>
+-<translation id="3696514931437952995">Du er ved at logge ind på <ph name="ORIGIN"/>. Brave Wallet deler din wallet-adresse med <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Log ind med Kahf Wallet</translation>
++<translation id="3696514931437952995">Du er ved at logge ind på <ph name="ORIGIN"/>. Kahf Wallet deler din wallet-adresse med <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Se detaljer</translation>
+ <translation id="6759710362319508545">Ressourcer</translation>
+ <translation id="2471230424465522689">Ikke før</translation>
+@@ -1074,7 +1074,7 @@ Hvis du ikke godkender denne anmodning, vil VPN-forbindelsen ikke blive genopret
+ <translation id="4109670531935487117">Vis autofuldførelsesforslag i adressefeltet</translation>
+ <translation id="1250335737108905610">Nulstil og ryd Leo-data</translation>
+ <translation id="6165101586663336913">Nulstilling af Leo-assistenten kræver, at du aktivt vælger at bruge Leo fremover, og denne handling sletter også din chathistorik. Hvis du sletter din chathistorik, slettes alle dine tidligere samtaler med Leo. Denne handling kan ikke fortrydes.</translation>
+-<translation id="3692772534525889713">Forbind køb på Play Store med din Brave-konto for at bruge Brave Leo på andre enheder.</translation>
++<translation id="3692772534525889713">Forbind køb på Play Store med din Kahf-konto for at bruge Kahf Leo på andre enheder.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Månedlig</translation>
+ <translation id="451189393813405346">Spørg Leo</translation>

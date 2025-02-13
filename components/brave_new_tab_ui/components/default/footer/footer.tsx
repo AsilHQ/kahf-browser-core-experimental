@@ -1,7 +1,3 @@
-/* This Source Code Form is subject to the terms of the Mozilla Public
- * License, v. 2.0. If a copy of the MPL was not distributed with this file,
- * You can obtain one at https://mozilla.org/MPL/2.0/. */
-
 import * as React from 'react'
 import Icon from '@brave/leo/react/icon'
 
@@ -56,7 +52,7 @@ export default class FooterInfo extends React.PureComponent<Props, {}> {
             <IconButtonContainer textDirection={textDirection}>
               <IconButtonSideText textDirection={textDirection}>
                 <IconButton onClick={onClickSettings}>
-                  <Icon name='tune' />
+                  <Icon name='settings' style={{ height: 18, width: 18 }} />
                 </IconButton>
                 {getLocale('customize')}
               </IconButtonSideText>

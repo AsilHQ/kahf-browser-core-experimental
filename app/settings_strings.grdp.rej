@@ -1,0 +1,128 @@
+diff a/app/settings_strings.grdp b/app/settings_strings.grdp	(rejected hunks)
+@@ -51,20 +51,20 @@
+     </message>
+   </if>
+   <if expr="_google_chrome">
+-    <message name="IDS_SETTINGS_ABOUT_PAGE_REPORT_AN_ISSUE" desc="Text of the button which allows the user to report an issue with Brave.">
++    <message name="IDS_SETTINGS_ABOUT_PAGE_REPORT_AN_ISSUE" desc="Text of the button which allows the user to report an issue with Kahf.">
+       Report an issue
+     </message>
+     <message name="IDS_SETTINGS_ABOUT_PAGE_PRIVACY_POLICY" desc="Text of the button which allows the user to open the privacy policy.">
+       Privacy policy
+     </message>
+ 
+-    <message name="IDS_SETTINGS_ABOUT_PAGE_SEND_FEEDBACK" desc="Text of the button which allows the user to send feedback with Brave.">
++    <message name="IDS_SETTINGS_ABOUT_PAGE_SEND_FEEDBACK" desc="Text of the button which allows the user to send feedback with Kahf.">
+       Send feedback
+     </message>
+   </if>
+   <if expr="is_macosx">
+-    <message name="IDS_ABOUT_CHROME_AUTOUPDATE_ALL" desc="The 'Automatically update Brave for all users.' button in the About window.  Mac-only.">
+-      Automatically update Brave for all users
++    <message name="IDS_ABOUT_CHROME_AUTOUPDATE_ALL" desc="The 'Automatically update Kahf for all users.' button in the About window.  Mac-only.">
++      Automatically update Kahf for all users
+     </message>
+     <message name="IDS_ABOUT_CHROME_AUTOUPDATE_ALL_IS_ON" desc="The text in About Page to indicate automatic update is turned on.  Mac-only.">
+       Automatic updates are turned on.
+@@ -118,14 +118,14 @@
+     Live Translate
+   </message>
+   <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_TRANSLATE_SUBTITLE" desc="Description text for Live Translate feature.">
+-    Automatically translates live captions. Captions are sent to Brave for translation.
++    Automatically translates live captions. Captions are sent to Kahf for translation.
+   </message>
+   <if expr="chromeos_ash">
+-    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_BROWSER_ONLY_ENGLISH_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Brave browser initially. Currently only works for English media.">
+-      Automatically creates captions for media in Brave browser (currently available in English). Audio and captions are processed locally and never leave the device.
++    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_BROWSER_ONLY_ENGLISH_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Kahf browser initially. Currently only works for English media.">
++      Automatically creates captions for media in Kahf browser (currently available in English). Audio and captions are processed locally and never leave the device.
+     </message>
+-    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_BROWSER_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Brave browser initially.">
+-      Automatically creates captions for media in Brave browser. Audio and captions are processed locally and never leave the device.
++    <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_BROWSER_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Only works in Kahf browser initially.">
++      Automatically creates captions for media in Kahf browser. Audio and captions are processed locally and never leave the device.
+     </message>
+   </if>
+   <message name="IDS_SETTINGS_CAPTIONS_ENABLE_LIVE_CAPTION_SUBTITLE_ENGLISH_ONLY" desc="Description text for Live Caption feature. When audio or video is playing, the user will see captions on the screen. Currently only works for English media.">
+@@ -596,7 +596,7 @@
+     Warn you if a password was compromised in a data breach
+   </message>
+   <message name="IDS_SETTINGS_PASSWORDS_LEAK_DETECTION_SIGNED_OUT_ENABLED_DESC" desc="Text that describes the 'Password Leak Detection' functionality to signed-out users who have not disabled the feature. This text always follows a sentence describing the feature.">
+-    When you sign in to your Brave sync chain, this feature is turned on.
++    When you sign in to your Kahf sync chain, this feature is turned on.
+   </message>
+   <message name="IDS_SETTINGS_CHECK_PASSWORDS_PROGRESS" desc="Text for a label showing how many passwords were checked so far and how many passwords need to be checked in total.">
+     Checking passwords (<ph name="CHECKED_PASSWORDS">$1<ex>6</ex></ph> of <ph name="TOTAL_PASSWORDS">$2<ex>31</ex></ph>)…
+@@ -629,10 +629,10 @@
+     Autofill prediction improvements
+   </message>
+   <message name="IDS_SETTINGS_AUTOFILL_PREDICTION_IMPROVEMENTS_TOGGLE_SUB_LABEL" desc="The description of the main toggle that enables/disables improved autofill predictions." translateable="false">
+-    Brave can adapt to a form's format — for example, automatically filling your birthday as MM/DD/YYYY or DD/MM/YY. Learn more about <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>Brave Autofill<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
++    Kahf can adapt to a form's format — for example, automatically filling your birthday as MM/DD/YYYY or DD/MM/YY. Learn more about <ph name="BEGIN_LINK">&lt;a target="_blank" href="$1"&gt;</ph>Kahf Autofill<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>
+   </message>
+   <message name="IDS_SETTINGS_AUTOFILL_PREDICTION_IMPROVEMENTS_WHEN_ON_SAVED_INFO" desc="One of the items describing what happens when improved autofill predictions are enabled." translateable="false">
+-    Brave asks if you want to use saved info to fill forms
++    Kahf asks if you want to use saved info to fill forms
+   </message>
+   <message name="IDS_SETTINGS_AUTOFILL_PREDICTION_IMPROVEMENTS_WHEN_ON_ADAPTS" desc="One of the items describing what happens when improved autofill predictions are enabled." translateable="false">
+     TODO: Describe how autofill adapts to user preferences
+@@ -2093,7 +2093,7 @@
+     Enhanced protection
+   </message>
+   <message name="IDS_SETTINGS_SAFEBROWSING_ENHANCED_DESC" desc="Description of safe browsing enhanced protection mode">
+-    Real-time, proactive protection against dangerous sites, downloads, and extensions that's based on your browsing data getting sent to Brave
++    Real-time, proactive protection against dangerous sites, downloads, and extensions that's based on your browsing data getting sent to Kahf
+   </message>
+   <message name="IDS_SETTINGS_SAFEBROWSING_ENHANCED_EXPAND_ACCESSIBILITY_LABEL" desc="Label for the button that toggles showing the detailed description of safe browsing enhanced protection. Only visible by screen reader software.">
+     Show enhanced protection details
+@@ -2139,10 +2139,10 @@
+   </message>
+   <if expr="_google_chrome">
+     <message name="IDS_SETTINGS_SAFEBROWSING_STANDARD_DESC_PROXY" desc="Description for safe browsing standard protection mode">
+-      Protects against sites, downloads, and extensions that are known to be dangerous. When you visit a site, Brave sends an obfuscated portion of the URL to Brave through a privacy server that hides your IP address. If a site does something suspicious, full URLs and bits of page content are also sent.
++      Protects against sites, downloads, and extensions that are known to be dangerous. When you visit a site, Kahf sends an obfuscated portion of the URL to Kahf through a privacy server that hides your IP address. If a site does something suspicious, full URLs and bits of page content are also sent.
+     </message>
+     <message name="IDS_SETTINGS_SAFEBROWSING_STANDARD_BULLET_TWO_PROXY" desc="Bullet point under the safe browsing standard protection mode">
+-      Sends an obfuscated portion of the URL to Brave through a privacy server that hides your IP address. If a site tries to steal your password, or when you download a harmful file, Brave may also send URLs, including bits of page content, to Brave.
++      Sends an obfuscated portion of the URL to Kahf through a privacy server that hides your IP address. If a site tries to steal your password, or when you download a harmful file, Kahf may also send URLs, including bits of page content, to Kahf.
+     </message>
+   </if>
+   <message name="IDS_SETTINGS_SAFEBROWSING_STANDARD_EXPAND_ACCESSIBILITY_LABEL" desc="Label for the button that toggles showing the detailed description of safe browsing standard protection. Only visible by screen reader software.">
+@@ -2158,7 +2158,7 @@
+     No protection (not recommended)
+   </message>
+   <message name="IDS_SETTINGS_SAFEBROWSING_NONE_DESC" desc="Description for safe browsing no protection mode">
+-    Does not protect you against dangerous websites, downloads, and extensions. Your Safe Browsing settings in other Brave products won't be affected.
++    Does not protect you against dangerous websites, downloads, and extensions. Your Safe Browsing settings in other Kahf products won't be affected.
+   </message>
+   <message name="IDS_SETTINGS_SAFEBROWSING_DISABLE_DIALOG_TITLE" desc="Title for the confirmation dialog to turn off SafeBrowsing">
+     Turn off Safe Browsing?
+@@ -2193,11 +2193,11 @@
+   <message name="IDS_SETTINGS_SECURITY_DESCRIPTION" desc="Description of the controls available on the security settings page">
+     Safe Browsing (protection from dangerous sites) and other security settings
+   </message>
+-  <message name="IDS_SETTINGS_ADVANCED_PROTECTION_PROGRAM" desc="Name of the link which takes users     to the Brave Advanced Protection Program external webpage">
+-    Brave Advanced Protection Program
++  <message name="IDS_SETTINGS_ADVANCED_PROTECTION_PROGRAM" desc="Name of the link which takes users     to the Kahf Advanced Protection Program external webpage">
++    Kahf Advanced Protection Program
+   </message>
+-  <message name="IDS_SETTINGS_ADVANCED_PROTECTION_PROGRAM_DESC" desc="Description of the Brave     Advanced Protection Program">
+-    Provides Brave’s strongest account security for profiles at risk of targeted attacks
++  <message name="IDS_SETTINGS_ADVANCED_PROTECTION_PROGRAM_DESC" desc="Description of the Kahf     Advanced Protection Program">
++    Provides Kahf’s strongest account security for profiles at risk of targeted attacks
+   </message>
+ 
+   <!-- Secure Connections -->
+@@ -4057,10 +4057,10 @@
+     You can search your browsing history based on general page content, not only page title and URL. This gives you improved results, whether you're searching browsing history in the address bar using @history or from the History page.
+   </message>
+   <message name="IDS_SETTINGS_HISTORY_SEARCH_CONSIDER_BULLET_ONE" desc="Bullet point in the 'Things to consider' column of the description of the setting that enables history search.">
+-    When you search browsing history, your history search terms, page content of best matches, and generated model outputs are sent to Brave and may be seen by human reviewers to improve this feature.
++    When you search browsing history, your history search terms, page content of best matches, and generated model outputs are sent to Kahf and may be seen by human reviewers to improve this feature.
+   </message>
+   <message name="IDS_SETTINGS_HISTORY_SEARCH_CONSIDER_BULLET_TWO" desc="Bullet point in the 'Things to consider' column of the description of the setting that enables history search." translateable="false">
+-    As you browse sites, their page contents are saved in an encrypted form on your device. This may affect Brave's performance.
++    As you browse sites, their page contents are saved in an encrypted form on your device. This may affect Kahf's performance.
+   </message>
+   <message name="IDS_SETTINGS_HISTORY_SEARCH_LEARN_MORE_A11Y_LABEL" desc="Label for the 'Learn more' link in the toggle for the setting that enables history search.">
+     Learn more about history searches

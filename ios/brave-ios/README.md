@@ -1,6 +1,6 @@
 This folder contains the contents of what used to be in the brave-ios repo.
 
-## Building the Brave iOS app:
+## Building the Kahf iOS app:
 
 Unlike brave-core, the code inside this folder does not build using GN and `npm run build` commands.
 

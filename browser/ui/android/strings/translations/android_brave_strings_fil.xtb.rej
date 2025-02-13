@@ -1,0 +1,291 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_fil.xtb b/browser/ui/android/strings/translations/android_brave_strings_fil.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Matuto pa tungkol sa Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Pahintulutan (I-relaunch Ngayon)</translation>
+ <translation id="2433507940547922241">Hitsura</translation>
+-<translation id="9040069796107003510">Icon ng Brave Rewards</translation>
+-<translation id="6333347122924254968">Ipakita ang icon ng Mga Reward ng Brave sa address bar</translation>
++<translation id="9040069796107003510">Icon ng Kahf Rewards</translation>
++<translation id="6333347122924254968">Ipakita ang icon ng Mga Reward ng Kahf sa address bar</translation>
+ <translation id="8495235435594442882">I-enable ang toolbar sa ibaba</translation>
+-<translation id="6587448235155023666">Magkakabisa ang iyong mga pagbabago sa susunod na ilunsad mong muli ang Brave</translation>
++<translation id="6587448235155023666">Magkakabisa ang iyong mga pagbabago sa susunod na ilunsad mong muli ang Kahf</translation>
+ <translation id="8701563696941209024">ILUNSAD MULI NGAYON</translation>
+ <translation id="834487290629916192">MAMAYA</translation>
+-<translation id="7207456302801184289">Welcome sa Brave</translation>
++<translation id="7207456302801184289">Welcome sa Kahf</translation>
+ <translation id="4117451092682672487">Privacy. Pinasimple.</translation>
+-<translation id="7909375417585209817">Kapag default ang Brave, bubukas ang bawat link na ita-tap mo nang may mga proteksyon sa privacy ng Brave.</translation>
++<translation id="7909375417585209817">Kapag default ang Kahf, bubukas ang bawat link na ita-tap mo nang may mga proteksyon sa privacy ng Kahf.</translation>
+ <translation id="7370959926683925817">Mag-block ng mga ad. Makatipid sa data. Araw araw.</translation>
+-<translation id="7281027579943912834">Kapag default ang Brave, ang bawat link na ita-tap mo ay magkakaroon ng proteksyon sa pag-block ng ad ng Brave. Bawat page, video, at stream.</translation>
+-<translation id="5148943178722443958">Tumulong na pagandahin ang Brave.</translation>
++<translation id="7281027579943912834">Kapag default ang Kahf, ang bawat link na ita-tap mo ay magkakaroon ng proteksyon sa pag-block ng ad ng Kahf. Bawat page, video, at stream.</translation>
++<translation id="5148943178722443958">Tumulong na pagandahin ang Kahf.</translation>
+ <translation id="6718362830686703942">Magpadala ng mga diagnostic report kung nakakaranas ka ng pag-crash o pag-freeze.</translation>
+-<translation id="8616157231067364693">Magbahagi ng prvate at walang pagkakakilanlang kaisipan sa produkto tungkol sa kung anong mga feature ang ginagamit ng mga user ng Brave.</translation>
++<translation id="8616157231067364693">Magbahagi ng prvate at walang pagkakakilanlang kaisipan sa produkto tungkol sa kung anong mga feature ang ginagamit ng mga user ng Kahf.</translation>
+ <translation id="2877653791257935258">Mag-type ng pangalan ng website o URL</translation>
+-<translation id="5329830149661250028">Makita ang pagkakaiba ng Brave: Walag mga ad. Walang mga tracker. Mas mabilis na pag-load ng page.</translation>
+-<translation id="3941792073703079607">Tingnan ang pagkakaiba ng Brave: Mag-block ng mga ad. Makatipid sa data. Mag-stream nang mas mabilis.</translation>
+-<translation id="3545804467215833536">I-tap para tingnan ang Brave Shields</translation>
+-<translation id="1724327820822194498">Tingnan ang lahat ng masasamang bagay na na-block Brave, sa bawat page, gamit ang Shields.</translation>
++<translation id="5329830149661250028">Makita ang pagkakaiba ng Kahf: Walag mga ad. Walang mga tracker. Mas mabilis na pag-load ng page.</translation>
++<translation id="3941792073703079607">Tingnan ang pagkakaiba ng Kahf: Mag-block ng mga ad. Makatipid sa data. Mag-stream nang mas mabilis.</translation>
++<translation id="3545804467215833536">I-tap para tingnan ang Kahf Shields</translation>
++<translation id="1724327820822194498">Tingnan ang lahat ng masasamang bagay na na-block Kahf, sa bawat page, gamit ang Shields.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> at <ph name="TRACKER"/> iba pang ad &amp; tracker ang na-block</translation>
+ <translation id="7256200875155794202">Na-block ang <ph name="BIG_TECH"/> at iba pang ads at trackers</translation>
+ <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> (na) ad &amp; tracker ang na-block</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Pag-troubleshoot sa onboarding</translation>
+ <translation id="5808759341041733958">Pumili ng default na search engine</translation>
+ <translation id="1331593888918588693">Puwede mong baguhin kailanman ang iyong kagustuhan sa mga setting ng app.</translation>
+-<translation id="5806601733251372221">Brave Shields</translation>
++<translation id="5806601733251372221">Kahf Shields</translation>
+ <translation id="8537217141725709400">Magkaroon ng <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Mga Reward ng Brave</translation>
++<translation id="3333887201479867589">Mga Reward ng Kahf</translation>
+ <translation id="5870330605209713397">sa pamamagitan ng pagtingin sa mga ad na nagpapahalaga sa privacy at suportahan ang iyong mga paboritong site at creator bilang default.</translation>
+-<translation id="5302488867897327287">Sa pamamagitan ng pag-tap sa Simulang gamitin ang Brave Rewards, sumasang-ayon ka sa</translation>
++<translation id="5302488867897327287">Sa pamamagitan ng pag-tap sa Simulang gamitin ang Kahf Rewards, sumasang-ayon ka sa</translation>
+ <translation id="4281844954008187215">Mga Tuntunin ng Serbisyo</translation>
+ <translation id="6871397658902960384">Simulan ang pag-browse</translation>
+ <translation id="454386012157232640">Hindi ako nakakita ng ad</translation>
+-<translation id="1448877943847791441">Ipapakita ng Brave ang iyong unang ad sa</translation>
+-<translation id="4410793187232041318">Makakakuha ka na ngayon ng token mula sa Brave Ads.</translation>
+-<translation id="6511854390690723657">Ito ang iyong unang ad sa Brave. I-tap para matuto pa.</translation>
+-<translation id="2070991379950719711">Simulang gamitin ang Brave Rewards</translation>
++<translation id="1448877943847791441">Ipapakita ng Kahf ang iyong unang ad sa</translation>
++<translation id="4410793187232041318">Makakakuha ka na ngayon ng token mula sa Kahf Ads.</translation>
++<translation id="6511854390690723657">Ito ang iyong unang ad sa Kahf. I-tap para matuto pa.</translation>
++<translation id="2070991379950719711">Simulang gamitin ang Kahf Rewards</translation>
+ <translation id="48520986898237073">Tumuloy sa wallet</translation>
+ <translation id="3570367516044491911">Itakda bilang default na browser</translation>
+ <translation id="6800338374677644736">Itakda bilang Default na Browser</translation>
+-<translation id="19715420010996093">Piliin ang Brave Browser at i-tap ang 'Palagi'</translation>
+-<translation id="3546439402724649282">Nakatakda na ang Brave bilang iyong default na browser.</translation>
++<translation id="19715420010996093">Piliin ang Kahf Browser at i-tap ang 'Palagi'</translation>
++<translation id="3546439402724649282">Nakatakda na ang Kahf bilang iyong default na browser.</translation>
+ <translation id="8389661903259423907">Nagtakda ka na ng default na browser. Maaari mong palitan ang default na browser sa mga setting ng app mo.</translation>
+ <translation id="1545749641540134597">I-scan ang QR Code</translation>
+ <translation id="5317781812114905957">Mga Tagubilin</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Nag-expire na ang code. Mag-generate ng bago sa pamamagitan ng pag-click sa button sa ibaba.</translation>
+ <translation id="318164877797885563">Valid ang pansamantalang code na ito para sa susunod na <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Lumabas sa Mga Setting</translation>
+-<translation id="8050847734948770789">I-enable ang Mga Reward ng Brave</translation>
++<translation id="8050847734948770789">I-enable ang Mga Reward ng Kahf</translation>
+ <translation id="9187185473011056079">OK!</translation>
+-<translation id="8185825081026121627">Magkaroon ng Basic Attention Token sa pamamagitan ng pagtingin sa mga ad na nagpapanatili sa privacy sa Brave Rewards.</translation>
++<translation id="8185825081026121627">Magkaroon ng Basic Attention Token sa pamamagitan ng pagtingin sa mga ad na nagpapanatili sa privacy sa Kahf Rewards.</translation>
+ <translation id="5321518976657560663">Error sa Pag-reset</translation>
+-<translation id="4114170343590425996">Nagka-error sa pag-reset sa Brave Rewards. Pakilunsad muli ang Brave at subukang muli.</translation>
+-<translation id="6417420737057016607">Mga Patalastas sa Brave</translation>
+-<translation id="5611966874859284786">Nagpapakita ng mga ad ng notification kapag hindi ginagamit ang Brave</translation>
+-<translation id="6606319453795180219">Made-delete nito ang iyong Brave Rewards at mare-reset nito ang lahat ng data ng iyong Brave Rewards</translation>
++<translation id="4114170343590425996">Nagka-error sa pag-reset sa Kahf Rewards. Pakilunsad muli ang Kahf at subukang muli.</translation>
++<translation id="6417420737057016607">Mga Patalastas sa Kahf</translation>
++<translation id="5611966874859284786">Nagpapakita ng mga ad ng notification kapag hindi ginagamit ang Kahf</translation>
++<translation id="6606319453795180219">Made-delete nito ang iyong Kahf Rewards at mare-reset nito ang lahat ng data ng iyong Kahf Rewards</translation>
+ <translation id="8293206222192510085">Idagdag ng Bookmark</translation>
+ <translation id="340492034650766959">I-delete ang Bookmark</translation>
+ <translation id="2149973817440762519">I-edit ang Bookmark</translation>
+@@ -464,35 +464,35 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="5582686930349810484">Naka-block ang fingerprinting (standard)</translation>
+ <translation id="769702552748212954">Payagan ang lahat ng fingerprinting</translation>
+ <translation id="876424292214881779">Mga ad at iba pang hindi kanais-nais na bagay na na-block</translation>
+-<translation id="6930134873084561197">Madalas na nagsasama ang mga site ng cookies at mga script na sumusubok na kumilala sa iyo at sa iyong device. Gusto nilang malaman kung sino ka at susundan ka sa buong web-susubaybayan kung ano ang ginagawa mo sa bawat site.\n\nBina-block ng Brave ang mga bagay na ito para makapag-browse ka nang hindi nasusundan.</translation>
+-<translation id="8553998445606452168">Tungkol sa Brave Shields</translation>
++<translation id="6930134873084561197">Madalas na nagsasama ang mga site ng cookies at mga script na sumusubok na kumilala sa iyo at sa iyong device. Gusto nilang malaman kung sino ka at susundan ka sa buong web-susubaybayan kung ano ang ginagawa mo sa bawat site.\n\nBina-block ng Kahf ang mga bagay na ito para makapag-browse ka nang hindi nasusundan.</translation>
++<translation id="8553998445606452168">Tungkol sa Kahf Shields</translation>
+ <translation id="8912304686498704084">PATAAS</translation>
+ <translation id="4963218453264888510">PABABA</translation>
+-<translation id="7474113515179313724">Bina-browse mo ang site na ito nang wala ng mga proteksyon sa privacy ng Brave. Hindi ba ito gumagana nang maayos nang naka-on ang Shields?</translation>
++<translation id="7474113515179313724">Bina-browse mo ang site na ito nang wala ng mga proteksyon sa privacy ng Kahf. Hindi ba ito gumagana nang maayos nang naka-on ang Shields?</translation>
+ <translation id="4226543734057230801">Mga Ethereum network</translation>
+ <translation id="3504157706952484145">Mga Filecoin network</translation>
+ <translation id="1561541094377237745">Mga Solana network</translation>
+ <translation id="7141438739990875547">Mga network ng Bitcoin</translation>
+ <translation id="9055546041146396417">Kung mukhang sira ang site na ito, subukan nang hindi naka-on ang Shields.</translation>
+ <translation id="1209739344687072997">Mag-ulat ng sirang site</translation>
+-<translation id="8510478288840333677">Ipaalam sa mga developer ng Brave na hindi gumagana nang maayos sa Shields ang site na ito:</translation>
+-<translation id="5429200298326665264">Paalala: Isusumite ang address ng site na ito kasama ng numero ng bersyon ng iyong Brave at ng IP address (na hindi iso-store).</translation>
++<translation id="8510478288840333677">Ipaalam sa mga developer ng Kahf na hindi gumagana nang maayos sa Shields ang site na ito:</translation>
++<translation id="5429200298326665264">Paalala: Isusumite ang address ng site na ito kasama ng numero ng bersyon ng iyong Kahf at ng IP address (na hindi iso-store).</translation>
+ <translation id="5299848999918506028">Salamat!</translation>
+-<translation id="76550953340008122">Salamat sa pagbibigay-alam sa mga developer ng Brave na may problema sa site na ito. Gagawin namin ang buong makakaya namin para ayusin ito!</translation>
++<translation id="76550953340008122">Salamat sa pagbibigay-alam sa mga developer ng Kahf na may problema sa site na ito. Gagawin namin ang buong makakaya namin para ayusin ito!</translation>
+ <translation id="650318023204990401">Mga advanced na kontrol</translation>
+ <translation id="5370478469168390143">Mag-save ng Data Online</translation>
+-<translation id="1118508688433541158">Mag-browse nang mas mabilis at mag-block ng ads gamit ang Brave</translation>
+-<translation id="7427391215172269363">Araw-araw, nakakatipid ako ng data sa pamamagitan ng pag-browse sa Web gamit ang Brave.</translation>
+-<translation id="4776948189086901857">Gumagana kahit saan ang Brave</translation>
+-<translation id="1606322780901645965">I-download ang Brave sa brave.com sa iyong laptop o tablet para sa mas mabilis at mas pribadong web</translation>
++<translation id="1118508688433541158">Mag-browse nang mas mabilis at mag-block ng ads gamit ang Kahf</translation>
++<translation id="7427391215172269363">Araw-araw, nakakatipid ako ng data sa pamamagitan ng pag-browse sa Web gamit ang Kahf.</translation>
++<translation id="4776948189086901857">Gumagana kahit saan ang Kahf</translation>
++<translation id="1606322780901645965">I-download ang Kahf sa brave.com sa iyong laptop o tablet para sa mas mabilis at mas pribadong web</translation>
+ <translation id="8374242949413616101">Proteksyon sa privacy</translation>
+-<translation id="4955406228638026265">Pinipigilan ng Brave ang mga ad at tracker mula sa pagkolekta ng impormasyon tungko sa iyo nang walang pahintulot mo.</translation>
++<translation id="4955406228638026265">Pinipigilan ng Kahf ang mga ad at tracker mula sa pagkolekta ng impormasyon tungko sa iyo nang walang pahintulot mo.</translation>
+ <translation id="752842701893882688">Makatipid ng data at baterya</translation>
+ <translation id="1685837926613452362">Kung walang ad at tracker, gumagamit ang mga website ng mas kaunting data at baterya. Posibleng makatipid ka rin ng pera sa mga bayarin sa carrier.</translation>
+ <translation id="5440744330377972191">Mas mablis na naglo-load ang mga website</translation>
+-<translation id="3000738865641747653">Ang pag-load ng mas kaunting data ay nangangahulugang mas mabilis na naglo-load ang mga website sa Brave - hanggang 8x mas mabilis kaysa sa ibang browser.</translation>
++<translation id="3000738865641747653">Ang pag-load ng mas kaunting data ay nangangahulugang mas mabilis na naglo-load ang mga website sa Kahf - hanggang 8x mas mabilis kaysa sa ibang browser.</translation>
+ <translation id="8903462729414407077">Makakuha ng mga lingguhang update</translation>
+-<translation id="7450323860390658083">Malaman kung aling mga website na binibisita mo ang pinakamapanghimasok sa privacy.\n\nIkaw lang ang makakakita sa mga istatistikang ito tungkol sa privacy. Walang personal na data o history ng pag-browse na lumalabas sa Brave browser sa iyong device.</translation>
++<translation id="7450323860390658083">Malaman kung aling mga website na binibisita mo ang pinakamapanghimasok sa privacy.\n\nIkaw lang ang makakakita sa mga istatistikang ito tungkol sa privacy. Walang personal na data o history ng pag-browse na lumalabas sa Kahf browser sa iyong device.</translation>
+ <translation id="6170159749517116894">I-on ang mga ulat ng privacy</translation>
+ <translation id="1669047024429367828">Visibility</translation>
+ <translation id="5966707198760109579">Linggo</translation>
+@@ -585,9 +585,9 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="1483493594462132177">Ipadala</translation>
+ <translation id="538450413584738399">Pagpalitin</translation>
+ <translation id="4556086616242530072">Browser native.\nSelf-custody.\nAnd multi-chain.</translation>
+-<translation id="7909462264772842773">Kontrolin ang crypto at mga NFT mo. Sinusuportahan ng Brave Wallet ang Ethereum, mga EVM chain, Solana, Filecoin, at marami pa.</translation>
++<translation id="7909462264772842773">Kontrolin ang crypto at mga NFT mo. Sinusuportahan ng Kahf Wallet ang Ethereum, mga EVM chain, Solana, Filecoin, at marami pa.</translation>
+ <translation id="165255193061631296">Kailangan ba ng bagong wallet?</translation>
+-<translation id="3485737865439729577">Magsimula gamit ang Brave Wallet sa loob ng ilang minuto</translation>
++<translation id="3485737865439729577">Magsimula gamit ang Kahf Wallet sa loob ng ilang minuto</translation>
+ <translation id="2759836790106646094">I-back up ang iyong wallet ngayon!</translation>
+ <translation id="1078873179929044999">Sa susunod na hakbang makakakita ka ng 12 salitang parirala sa pag-recover, na pwede mong gamitin para i-recover ang iyong mga pangunahing account sa cryptocurrency. Itago ito sa ligtas na lugar. Ang iyong parirala sa pag-recover ang nag-iisang paraan para maibalik ang access sa account kung sakaling may nakalimutang password, nawala o nanakaw na device, o gusto mong magpalit ng wallet.</translation>
+ <translation id="2359808026110333948">Magpatuloy</translation>
+@@ -595,7 +595,7 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="1904000155026201268">Nauunawaan ko na kung mawala ko ang aking mga salita para sa pag-recover, hindi ko maa-access ang aking crypto wallet.</translation>
+ <translation id="5333225216561354793">Kinakailangan naming kilalanin mo ang mga item sa ibaba</translation>
+ <translation id="6937275455070754004">Piliin kung aling mga blockchain ang gagamitin sa iyong wallet.</translation>
+-<translation id="1645800479814134195">Nauunawaan kong isa itong sarling pag-iingat na wallet, at na ako lang ang responsable para sa anumang nauugnay na pondo, asset, o account, at para sa pagsagawa ng naaangkop na pagkilos para i-secure, protektahan at i-back up ang aking wallet. Nauunawaan kong hindi magagawa ng Brave na i-access ng Brave ang aking wallet o i-reverse ang mga transaksyon sa ngalan ko, at na ang aking parirala sa pag-recover ang TANGING paraan para makakuha ulit ng access kapag nawalan ng password, nanakawan ng device, o nangyari ang katulad na sitwasyon.</translation>
++<translation id="1645800479814134195">Nauunawaan kong isa itong sarling pag-iingat na wallet, at na ako lang ang responsable para sa anumang nauugnay na pondo, asset, o account, at para sa pagsagawa ng naaangkop na pagkilos para i-secure, protektahan at i-back up ang aking wallet. Nauunawaan kong hindi magagawa ng Kahf na i-access ng Kahf ang aking wallet o i-reverse ang mga transaksyon sa ngalan ko, at na ang aking parirala sa pag-recover ang TANGING paraan para makakuha ulit ng access kapag nawalan ng password, nanakawan ng device, o nangyari ang katulad na sitwasyon.</translation>
+ <translation id="4565891212173086999">Nabasa at sumasang-ayon ako sa <ph name="CLICK_START"/>Mga Tuntunin ng Paggamit<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Ang iyong parirala sa pag-recover</translation>
+ <translation id="5077747669435508720">Isulat o kopyahin ang mga salitang ito sa mismong pagkakaayos na ipinapakita sa ibaba, at itago ang mga ito sa ligtas na lugar. Ang iyong parirala sa pag-recover ang nag-iisang paraan para maibalik ang access sa account sakaling may nakalimutang password, nawala o nanakaw na device, o gusto mong magpalit ng wallet.</translation>
+@@ -616,13 +616,13 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="8030647312184163932">Pag-unlock gamit ang fingerprint</translation>
+ <translation id="4090490645603511157">Gamitin ang biometrics para mabilis na ma-unlock ang iyong wallet nang hindi inilalagay ang iyong password.</translation>
+ <translation id="1544192797660353713">Wallet</translation>
+-<translation id="6901810042765869341">I-enable ang iyong parirala sa pag-recover para ma-restore ang iyong Brave Wallet crypto account.</translation>
++<translation id="6901810042765869341">I-enable ang iyong parirala sa pag-recover para ma-restore ang iyong Kahf Wallet crypto account.</translation>
+ <translation id="9120654436199628567">I-restore ang crypto account</translation>
+ <translation id="4811736040444856406">Ipakita ang parirala sa pag-recover</translation>
+ <translation id="283071225285270357">Ilagay ang iyong parirala sa pag-recover</translation>
+ <translation id="3943857333388298514">Paste</translation>
+ <translation id="3331452756822160641">Bagong Password</translation>
+-<translation id="4359319875297001084">Mag-import mula sa mga legacy na wallet ng cryptocurrency ng Brave?</translation>
++<translation id="4359319875297001084">Mag-import mula sa mga legacy na wallet ng cryptocurrency ng Kahf?</translation>
+ <translation id="2339124864228588937">I-verify ang parirala sa pag-recover</translation>
+ <translation id="3747079125031086337">Piliin ang mga salita sa iyong parirala sa pag-recover sa tamang pagkakaayos ng mga ito.</translation>
+ <translation id="6518133107902771759">I-verify</translation>
+@@ -656,8 +656,8 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="5760476995887363522">Hindi tugma ang mga parirala. Pakisubukan ulit.</translation>
+ <translation id="2360588547830602174">Hindi na-recover ang account. Pakisubukan ulit.</translation>
+ <translation id="1987317783729300807">Mga Account</translation>
+-<translation id="6284218950354553099">Awtomatikong ipadala sa Brave ang ping ng araw-araw na paggamit</translation>
+-<translation id="2181060149810222381">Ang pribadong ping na ito ang nagbibigay ng kakayahan sa Brave na tantiyahin ang mga aktibong user.</translation>
++<translation id="6284218950354553099">Awtomatikong ipadala sa Kahf ang ping ng araw-araw na paggamit</translation>
++<translation id="2181060149810222381">Ang pribadong ping na ito ang nagbibigay ng kakayahan sa Kahf na tantiyahin ang mga aktibong user.</translation>
+ <translation id="6725413948756358325">Pangalan ng Account</translation>
+ <translation id="6062431965141524986">Makakagawa ka ng pangalawang account sa pamamagitan ng pag-import ng iyong pribadong key.</translation>
+ <translation id="3952797765659730604">Ilagay, i-paste, o i-import ang iyong pribadong key string file o JSON.</translation>
+@@ -679,14 +679,14 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="1721710839767183848">Walang ads sa page</translation>
+ <translation id="4647035642622555398">Walang mga interruption</translation>
+ <translation id="4122515759479497554">Mag-search ng mga video</translation>
+-<translation id="4449475351935531438">Brave Firewall + VPN</translation>
++<translation id="4449475351935531438">Kahf Firewall + VPN</translation>
+ <translation id="719977489961414786">Mag-upgrade sa VPN para protektahan ang iyong koneksyon at i-block ang mga mapanghimasok na tracker na galing kung saan-saan.</translation>
+ <translation id="8814357473522731680">Pinapagana ng</translation>
+ <translation id="5892534145504632332">Protektahan ang lahat ng app at ang buong device mo</translation>
+ <translation id="7195416926059527505">Mas ligtas para sa pambahay o pampublikong Wi-Fi</translation>
+ <translation id="1354700000739359839">Napakabilis, hanggang 100 Mbps</translation>
+ <translation id="3510283489391432976">Piliin ang iyong heograpikal na lokasyon/lokasyon ng bansa</translation>
+-<translation id="7695158478627528928">Hindi kailanman nila-log ng Brave ang aktibidad mo</translation>
++<translation id="7695158478627528928">Hindi kailanman nila-log ng Kahf ang aktibidad mo</translation>
+ <translation id="4575683170451975058">Protektahan ang 5 device sa 1 subscription</translation>
+ <translation id="4882693590083943563">Kasama sa lahat ng plan ang <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">libreng 7 araw na trial!</translation>
+@@ -697,14 +697,14 @@ Sigurado ka bang gusto mo itong gawin?</translation>
+ <translation id="1163809943099641131">Isang Taon</translation>
+ <translation id="172859718096975160">I-renew taon-taon at <ph name="DISCOUNT_TEXT_START"/>makatipid ng <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / taon</translation>
+-<translation id="5125233570742276182">Sisingilin ang mga subscription sa pamamagitan ng inyong Google account. Mawawala ang anumang hindi nagamit na bahagi ng libreng trial, kung inialok, kapag bumili kayo ng subscription.\n\nAwtomatikong mare-renew ang inyong subscription maliban kung kakanselahin ito nang kahit man lang 24 na oras bago ang pagtatapos ng kasalukuyang panahon.\n\nMaaari ninyong i-manage ang inyong mga subscription sa Mga Setting.\nSa pamamagitan ng paggamit sa Brave, sumasang-ayon kayo sa Mga Tuntunin ng Paggamit at Privacy Policy.</translation>
++<translation id="5125233570742276182">Sisingilin ang mga subscription sa pamamagitan ng inyong Google account. Mawawala ang anumang hindi nagamit na bahagi ng libreng trial, kung inialok, kapag bumili kayo ng subscription.\n\nAwtomatikong mare-renew ang inyong subscription maliban kung kakanselahin ito nang kahit man lang 24 na oras bago ang pagtatapos ng kasalukuyang panahon.\n\nMaaari ninyong i-manage ang inyong mga subscription sa Mga Setting.\nSa pamamagitan ng paggamit sa Kahf, sumasang-ayon kayo sa Mga Tuntunin ng Paggamit at Privacy Policy.</translation>
+ <translation id="5035172357624830412">Nabili na sa brave.com?</translation>
+ <translation id="713136183174551885">I-refresh ang inyong mga kredensyal</translation>
+ <translation id="6053992191006521518">Subukan nang LIBRE</translation>
+ <translation id="5903391101107992067">Subukan nang 7 Araw - Libre</translation>
+ <translation id="721747358270435486">Mag-install ng VPN</translation>
+ <translation id="836074276610740314">Mag-install ng VPN Profile</translation>
+-<translation id="8021842065465097929">Mag-i-install na ang Brave ng VPN profile.</translation>
++<translation id="8021842065465097929">Mag-i-install na ang Kahf ng VPN profile.</translation>
+ <translation id="229286271464650057">Binibigyang-daan ng profile na ito ang VPN na awtomatikong kumonekta at mag-secure ng trapiko sa iyong device— sa bawat app, sa lahat ng pagkakataon. Ie-encrypt at iruruta ang koneksyon sa VPN na ito sa pamamagitan ng intelligent firewall ng Guardian para mag-block ng mga ad at tracker.</translation>
+ <translation id="9073255657908892407">Makipag-ugnayan sa Teknikal na Suporta</translation>
+ <translation id="1139934321138152517">Naka-enable na ang VPN</translation>
+@@ -932,19 +932,19 @@ Kung hindi mo tatanggapin ang kahilingang ito, hindi kokonekta ulit ang VPN at h
+ <translation id="7002577172732106572">Split Tunneling</translation>
+ <translation id="8181161042860463420">Wala pang ganitong nauugnay na token account. May kaunting SOL na gagastusin para gawin at pondohan ito. <ph name="CLICK_START"/>Matuto pa<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Nag-a-update ng VPN Profile ...</translation>
+-<translation id="7457027586454688423">Ilagay ang iyong password sa Brave Wallet</translation>
+-<translation id="4784306439879850873">Tandaang hindi mave-verify ng Brave ang mangyayari kapag lumagda ka. Posibleng pahintulutan ng lagda ang halos anumang operasyon sa iyong account o sa ngalan mo, kabilang ang (pero hindi  ito limitado sa) pagbibigay ng ganap na kontrol sa iyong account at mga asset ng cryptocurrency sa humihiling na site. Lumagda lang kung sigurado kang gusto mong gawin ang pagkilos na ito, at pinagkakatiwalaan mo ang humihiling na site.</translation>
++<translation id="7457027586454688423">Ilagay ang iyong password sa Kahf Wallet</translation>
++<translation id="4784306439879850873">Tandaang hindi mave-verify ng Kahf ang mangyayari kapag lumagda ka. Posibleng pahintulutan ng lagda ang halos anumang operasyon sa iyong account o sa ngalan mo, kabilang ang (pero hindi  ito limitado sa) pagbibigay ng ganap na kontrol sa iyong account at mga asset ng cryptocurrency sa humihiling na site. Lumagda lang kung sigurado kang gusto mong gawin ang pagkilos na ito, at pinagkakatiwalaan mo ang humihiling na site.</translation>
+ <translation id="3474375934783434676">Maglagda sa sarili mong pananagutan</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> sa <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Aprubahan ang transaksyon</translation>
+ <translation id="6450792191436242818">System Program</translation>
+-<translation id="5318067544026930166">I-unlock ang Brave Wallet gamit ang biometric authentication</translation>
+-<translation id="2629767022373384291">Gusto mo bang gamitin ang biometric authentication mo para i-unlock ang Brave Wallet mo?</translation>
++<translation id="5318067544026930166">I-unlock ang Kahf Wallet gamit ang biometric authentication</translation>
++<translation id="2629767022373384291">Gusto mo bang gamitin ang biometric authentication mo para i-unlock ang Kahf Wallet mo?</translation>
+ <translation id="4782919977106118997">Gamitin ang Fingerprint Unlock</translation>
+ <translation id="2054995875643283428">Laktawan ito sa ngayon</translation>
+ <translation id="2522605225061484799">Pumunta sa portfolio ko</translation>
+ <translation id="1148624853678088576">Handa ka na!</translation>
+-<translation id="4131445988101719379">Madaling gamitin ang Brave Wallet mo</translation>
++<translation id="4131445988101719379">Madaling gamitin ang Kahf Wallet mo</translation>
+ <translation id="6252742184395380448">Config Program</translation>
+ <translation id="5358970666412490132">Stake Program</translation>
+ <translation id="346636227344244984">Program ng Pagboto</translation>
+@@ -1016,16 +1016,16 @@ Kung hindi mo tatanggapin ang kahilingang ito, hindi kokonekta ulit ang VPN at h
+ <translation id="1313065465616456728">Na-isyu noong</translation>
+ <translation id="7902225556763260253">Oras ng expiration</translation>
+ <translation id="1908159733454294871">Natukoy na panganib sa seguridad</translation>
+-<translation id="5658257029899993935">Mag-link ng pagbili sa Brave account mo</translation>
+-<translation id="1187061015547219282">I-link ang pagbili mo sa Play Store sa Brave account mo gamit ang Brave VPN sa iba pang device.</translation>
++<translation id="5658257029899993935">Mag-link ng pagbili sa Kahf account mo</translation>
++<translation id="1187061015547219282">I-link ang pagbili mo sa Play Store sa Kahf account mo gamit ang Kahf VPN sa iba pang device.</translation>
+ <translation id="6662142137695589205">I-link ang subscription mo sa VPN</translation>
+-<translation id="2674077112509133024">Palawakin ang proteksyon mo ng Brave Firewall + VPN</translation>
+-<translation id="6365389672683343144">Kayang protektahan ng subscription mo sa Brave VPN ang hanggang 5 device, sa Android, iOS, at desktop. I-link lang ang subscription mo sa Google Play sa Brave account mo.</translation>
++<translation id="2674077112509133024">Palawakin ang proteksyon mo ng Kahf Firewall + VPN</translation>
++<translation id="6365389672683343144">Kayang protektahan ng subscription mo sa Kahf VPN ang hanggang 5 device, sa Android, iOS, at desktop. I-link lang ang subscription mo sa Google Play sa Kahf account mo.</translation>
+ <translation id="6610899852831463073">Hindi ma-enable ang Ligtas na Pagba-browse</translation>
+ <translation id="7954263306665462056">Na-disable ang Ligtas na Pagba-browse sa iyong device. Para ma-enable ito, tiyaking naka-install ang Google Play Services at na-update ito.</translation>
+ <translation id="6605147707233193230">I-on para makatulong sa pagsuporta sa mga creator ng content</translation>
+ <translation id="1609556006143307897">Tumutulong kang suportahan ang mga creator ng content</translation>
+-<translation id="6067959437127691361">Tumutulong ang paggamit ng Brave Rewards na suportahan ang mga creator ng content, at binibigyang-daan kang makaipon ng BAT.</translation>
++<translation id="6067959437127691361">Tumutulong ang paggamit ng Kahf Rewards na suportahan ang mga creator ng content, at binibigyang-daan kang makaipon ng BAT.</translation>
+ <translation id="3264975266761862670">Handa ka na bang kumita?</translation>
+ <translation id="265337947574975838">Kumonekta o gumawa ng account sa isa sa aming mga partner.</translation>
+ <translation id="654447476965480878">Matuto pa tungkol sa pagkita ng BAT</translation>
+@@ -1064,8 +1064,8 @@ Kung hindi mo tatanggapin ang kahilingang ito, hindi kokonekta ulit ang VPN at h
+ <translation id="346505172740911461">Presyo sa Market</translation>
+ <translation id="5494920125229734069">Piliin ang lahat</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Mag-sign in gamit ang Brave Wallet</translation>
+-<translation id="3696514931437952995">Nagsa-sign in ka sa <ph name="ORIGIN"/>. Ibabahagi ng Brave wallet ang wallet address mo sa <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Mag-sign in gamit ang Kahf Wallet</translation>
++<translation id="3696514931437952995">Nagsa-sign in ka sa <ph name="ORIGIN"/>. Ibabahagi ng Kahf wallet ang wallet address mo sa <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Tingnan ang mga detalye</translation>
+ <translation id="6759710362319508545">Mga Resource</translation>
+ <translation id="2471230424465522689">Hindi bago</translation>
+@@ -1074,7 +1074,7 @@ Kung hindi mo tatanggapin ang kahilingang ito, hindi kokonekta ulit ang VPN at h
+ <translation id="4109670531935487117">Ipakita ang mga suhestyon sa autocomplete sa address bar</translation>
+ <translation id="1250335737108905610">I-reset at i-clear ang data ni Leo</translation>
+ <translation id="6165101586663336913">Kakailangan mong mag-opt-in para sa pag-reset ng Leo assistant para magamit si Leo sa hinaharap at iki-clear rin nito ang chat history mo. Ide-delete ng pag-clear ng chat history ang lahat ng nakaraan mong pag-uusap gamit si Leo. Hindi na maaaring bawiin ang pagkilos na ito.</translation>
+-<translation id="3692772534525889713">I-link ang binili mo sa Play Store sa iyong Brave account para magamit ang Brave Leo sa iba pang device.</translation>
++<translation id="3692772534525889713">I-link ang binili mo sa Play Store sa iyong Kahf account para magamit ang Kahf Leo sa iba pang device.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Buwanan</translation>
+ <translation id="451189393813405346">Tanungin si Leo</translation>

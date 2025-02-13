@@ -1,0 +1,12 @@
+diff a/browser/ui/android/strings/android_chrome_strings_override.grd b/browser/ui/android/strings/android_chrome_strings_override.grd	(rejected hunks)
+@@ -201,8 +201,8 @@ CHAR_LIMIT guidelines:
+       <message name="IDS_MENU_CLOSE_ALL_INCOGNITO_TABS" desc="Menu item for closing all open Private tabs. [CHAR_LIMIT=27]">
+         Close Private tabs
+       </message>
+-      <message name="IDS_MENU_OPEN_IN_INCOGNITO_CHROME" desc="Context sensitive menu item for opening a link in Brave in a Private tab. [CHAR_LIMIT=30]" translateable="false">
+-        Open in Private Brave
++      <message name="IDS_MENU_OPEN_IN_INCOGNITO_CHROME" desc="Context sensitive menu item for opening a link in Kahf in a Private tab. [CHAR_LIMIT=30]" translateable="false">
++        Open in Private Kahf
+       </message>
+       <message name="IDS_ACCESSIBILITY_NEW_INCOGNITO_TAB_PAGE" desc="Accessibility text to read aloud when the user focuses the new Private tab view.">
+         New Private tab

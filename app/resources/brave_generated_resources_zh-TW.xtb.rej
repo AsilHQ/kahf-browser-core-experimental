@@ -1,0 +1,144 @@
+diff a/app/resources/brave_generated_resources_zh-TW.xtb b/app/resources/brave_generated_resources_zh-TW.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@
+ <translation id="1970435562892104727">這是 Tor 的私人視窗</translation>
+ <translation id="1037341607922068025">用 Tor 開啟私人視窗</translation>
+ <translation id="607982085107926247">在 Tor 中開啟：<ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">此 Brave Sync 帳戶已從其他裝置刪除。如果您不是要停用 Sync，請<ph name="LINK_TEXT"/>。</translation>
++<translation id="496896260395129787">此 Kahf Sync 帳戶已從其他裝置刪除。如果您不是要停用 Sync，請<ph name="LINK_TEXT"/>。</translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>重新建立帳戶</translation>
+ <translation id="6965382102122355670">確定</translation>
+-<translation id="3975865347033939965">同步服務無法啟動，Brave 同步未執行</translation>
++<translation id="3975865347033939965">同步服務無法啟動，Kahf 同步未執行</translation>
+ <translation id="4450893287417543264">不要再顯示</translation>
+ <translation id="4595286989346610620">查看詳情</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -58,63 +58,63 @@
+ <translation id="3488584642074079080">使用 Tor 在隱私視窗中打開連結</translation>
+ <translation id="6313675821927505581">新的使用 Tor 的視窗</translation>
+ <translation id="2638041073279639246">在使用 Tor 的隱私視窗中開啟連結</translation>
+-<translation id="3425600262621021599">在使用 Tor 的 Brave 隱私視窗中開啟連結</translation>
+-<translation id="2545072023356206691">從 2023 年 12 月 1 日開始，Brave Dev 頻道將不再接收瀏覽器更新。建議使用者改用 Brave Nightly、測試版或正式版。</translation>
++<translation id="3425600262621021599">在使用 Tor 的 Kahf 隱私視窗中開啟連結</translation>
++<translation id="2545072023356206691">從 2023 年 12 月 1 日開始，Kahf Dev 頻道將不再接收瀏覽器更新。建議使用者改用 Kahf Nightly、測試版或正式版。</translation>
+ <translation id="474217410105706308">關閉分頁音訊</translation>
+-<translation id="2804710924397009224">隱藏 Brave 獎賞圖標</translation>
+-<translation id="5029193871181468990">隱藏 Brave 獎勵圖示</translation>
+-<translation id="2808103541110899519">隱藏 Brave 錢包圖示</translation>
+-<translation id="7595540212376041331">隱藏 Brave 錢包圖示</translation>
++<translation id="2804710924397009224">隱藏 Kahf 獎賞圖標</translation>
++<translation id="5029193871181468990">隱藏 Kahf 獎勵圖示</translation>
++<translation id="2808103541110899519">隱藏 Kahf 錢包圖示</translation>
++<translation id="7595540212376041331">隱藏 Kahf 錢包圖示</translation>
+ <translation id="4928988318462976765">網路擴充功能商店</translation>
+ <translation id="9181207987584064303">在「網路擴充功能商店」檢視</translation>
+-<translation id="3161744659507801211">警告：Brave 無法防止擴充功能記錄您的瀏覽歷程記錄。</translation>
++<translation id="3161744659507801211">警告：Kahf 無法防止擴充功能記錄您的瀏覽歷程記錄。</translation>
+ <translation id="2162109630536601963">若此擴充功能提出網路要求，將不會使用 Tor 或私人模式。</translation>
+ <translation id="2725327089319971976">若要在私人模式和 Tor 模式下停用此擴充功能，請取消選取此選項。</translation>
+-<translation id="3371343170427636147">Brave 瀏覽器 Nightly 應用程式</translation>
+-<translation id="4097979995947147464">Brave 瀏覽器 Beta 應用程式</translation>
+-<translation id="8303432794159193481">Brave 瀏覽器 Dev 應用程式</translation>
+-<translation id="8292967014767479012">Brave 瀏覽器應用程式</translation>
+-<translation id="4743468424889072281">Brave 瀏覽器 Development 應用程式</translation>
++<translation id="3371343170427636147">Kahf 瀏覽器 Nightly 應用程式</translation>
++<translation id="4097979995947147464">Kahf 瀏覽器 Beta 應用程式</translation>
++<translation id="8303432794159193481">Kahf 瀏覽器 Dev 應用程式</translation>
++<translation id="8292967014767479012">Kahf 瀏覽器應用程式</translation>
++<translation id="4743468424889072281">Kahf 瀏覽器 Development 應用程式</translation>
+ <translation id="5039804452771397117">允許</translation>
+ <translation id="7053983685419859001">封鎖</translation>
+-<translation id="1679356339067548863">在 Brave 瀏覽器當機或凍結時自動傳送診斷報告，協助改善 Brave 的產品穩定性。</translation>
++<translation id="1679356339067548863">在 Kahf 瀏覽器當機或凍結時自動傳送診斷報告，協助改善 Kahf 的產品穩定性。</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/>無預期結束。</translation>
+-<translation id="1324417023773393937">Brave 瀏覽器</translation>
++<translation id="1324417023773393937">Kahf 瀏覽器</translation>
+ <translation id="7276554663454265692">您隨時可以在瀏覽器設定變更 <ph name="SETTING_TEXT"/>。</translation>
+ <translation id="6873781976650514089">這項設定</translation>
+ <translation id="4684633335323013758">此網站已要求您提供<ph name="PART_ONE"/>概略的所在位置<ph name="PART_ONE_END"/>。<ph name="PART_TWO"/>深入瞭解<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">此網站已要求您提供<ph name="PART_ONE"/>精確的所在位置<ph name="PART_ONE_END"/>。<ph name="PART_TWO"/>深入瞭解<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">此網站已要求您提供<ph name="PART_ONE"/>精確的所在位置<ph name="PART_ONE_END"/>。Brave 將只能提供<ph name="PART_TWO"/>概略的所在位置<ph name="PART_TWO_END"/>資料，因為<ph name="PART_THREE"/>定位服務<ph name="PART_THREE_END"/> 已停用。<ph name="PART_FOUR"/>深入瞭解<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">此網站已要求您提供<ph name="PART_ONE"/>精確的所在位置<ph name="PART_ONE_END"/>。Kahf 將只能提供<ph name="PART_TWO"/>概略的所在位置<ph name="PART_TWO_END"/>資料，因為<ph name="PART_THREE"/>定位服務<ph name="PART_THREE_END"/> 已停用。<ph name="PART_FOUR"/>深入瞭解<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">全部關閉</translation>
+ <translation id="7658239707568436148">取消</translation>
+ <translation id="4870911314065352661">關閉所有分頁？</translation>
+ <translation id="7551864359422178684">這個瀏覽器視窗中還有 <ph name="NUMBER_OF_TABS"/> 個分頁維持於開啟狀態。</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> 個分頁</translation>
+ <translation id="1307431692088049276">不要再問了</translation>
+-<translation id="6919364924256365253">別再 Google。不用 Bing。選 Brave 就對了。</translation>
+-<translation id="2640297688005939449">Brave 搜尋不會建立您的使用者輪廓，完全獨立運作。</translation>
++<translation id="6919364924256365253">別再 Google。不用 Bing。選 Kahf 就對了。</translation>
++<translation id="2640297688005939449">Kahf 搜尋不會建立您的使用者輪廓，完全獨立運作。</translation>
+ <translation id="7295094278358921487">搜了就有，隱密無痕。</translation>
+-<translation id="3462465068145800637">Brave 搜尋不會建立您的使用者輪廓，完全獨立於大型科技公司。</translation>
++<translation id="3462465068145800637">Kahf 搜尋不會建立您的使用者輪廓，完全獨立於大型科技公司。</translation>
+ <translation id="42032117189492785">AI 智慧搜尋，搭配獨一無二的索引方式。</translation>
+ <translation id="8606416238399082160">完全隱私、100% 獨立，還具有強大的 AI 功能。</translation>
+-<translation id="7706528608480893054">DDG 只是 Bing 的偽裝。實現真正隱私、更好的結果和獨立的索引的時候到了。使用 Brave 搜尋的時候到了。</translation>
++<translation id="7706528608480893054">DDG 只是 Bing 的偽裝。實現真正隱私、更好的結果和獨立的索引的時候到了。使用 Kahf 搜尋的時候到了。</translation>
+ <translation id="3818133234428578803">別再使用 DuckDuckGo 了</translation>
+-<translation id="14817360483752259">Brave Search 不會追蹤您、您的查詢或您的點擊。並且（與 DDG 不同之處）這不僅是 Bing 的偽裝。</translation>
++<translation id="14817360483752259">Kahf Search 不會追蹤您、您的查詢或您的點擊。並且（與 DDG 不同之處）這不僅是 Bing 的偽裝。</translation>
+ <translation id="4381193110021038941">獲得更好的結果</translation>
+-<translation id="3846545273704969734">Brave Search 已被獨立驗證，結果優於 Bing（或 DuckDuckGo 等的 Bing 克隆產品）。</translation>
++<translation id="3846545273704969734">Kahf Search 已被獨立驗證，結果優於 Bing（或 DuckDuckGo 等的 Bing 克隆產品）。</translation>
+ <translation id="2841164160723712537">改善搜尋結果</translation>
+-<translation id="4639001639513524869">Brave 搜尋在大多數查詢中比 DuckDuckGo 更好，並且是真正隱私的。</translation>
+-<translation id="5240031343741051161">尝试Brave搜索</translation>
++<translation id="4639001639513524869">Kahf 搜尋在大多數查詢中比 DuckDuckGo 更好，並且是真正隱私的。</translation>
++<translation id="5240031343741051161">尝试Kahf搜索</translation>
+ <translation id="5234764350956374838">關閉</translation>
+-<translation id="8722651357687610395">將 Brave 設為預設值</translation>
++<translation id="8722651357687610395">將 Kahf 設為預設值</translation>
+ <translation id="2370739752330685659">稍後再說</translation>
+-<translation id="5100490448228945668">關閉 Brave 搜尋轉換功能，按 Enter 鍵即可移除此建議</translation>
++<translation id="5100490448228945668">關閉 Kahf 搜尋轉換功能，按 Enter 鍵即可移除此建議</translation>
+ <translation id="9194637241566114638">匿名傳送使用情況的相關資料，協助改善 <ph name="SEARCH_NAME"/>。<ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave 搜尋</translation>
++<translation id="7404610376221341525">Kahf 搜尋</translation>
+ <translation id="8184318863960255706">更多資訊</translation>
+ <translation id="780301667611848630">不用了，謝謝</translation>
+-<translation id="1162706247109707219">按一下「確定」，即表示您瞭解在更新到 Windows 10 以上版本之前，您安裝的 Brave 不會收到重要的安全性修正。此警告不會再次顯示。</translation>
+-<translation id="9164786361657554526">按一下「確定」，即表示您瞭解在更新到 macOS 10.15 以上版本之前，您安裝的 Brave 不會收到重要的安全性修正。此警告不會再次顯示。</translation>
++<translation id="1162706247109707219">按一下「確定」，即表示您瞭解在更新到 Windows 10 以上版本之前，您安裝的 Kahf 不會收到重要的安全性修正。此警告不會再次顯示。</translation>
++<translation id="9164786361657554526">按一下「確定」，即表示您瞭解在更新到 macOS 10.15 以上版本之前，您安裝的 Kahf 不會收到重要的安全性修正。此警告不會再次顯示。</translation>
+ <translation id="2770465223704140727">從清單中移除</translation>
+ <translation id="6020553119523541665">此分頁在另一個視窗中使用中</translation>
+ <translation id="4987392683074136770">點擊此分頁會將其內容帶到此窗口</translation>
+@@ -299,8 +299,8 @@
+ <translation id="6453210454707928697">項目播放失敗</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>] 可能已過期，是否要復原此項目？</translation>
+ <translation id="6155018868740116868">復原</translation>
+-<translation id="1727684853006449697">Brave 播放器</translation>
+-<translation id="9156965752763025780">你的變更將於下次重新啟動 Brave 時生效。</translation>
++<translation id="1727684853006449697">Kahf 播放器</translation>
++<translation id="9156965752763025780">你的變更將於下次重新啟動 Kahf 時生效。</translation>
+ <translation id="7179921470347911571">立刻重新啟動</translation>
+ <translation id="1426410128494586442">是</translation>
+ <translation id="4250680216510889253">否</translation>
+@@ -339,7 +339,7 @@
+ <translation id="8820817407110198400">書籤列</translation>
+ <translation id="4144468798716165316">快速指令</translation>
+ <translation id="7310387888625228830">Leo 人工智慧助理</translation>
+-<translation id="5222974844674487962">顯示 Brave News 按鈕</translation>
++<translation id="5222974844674487962">顯示 Kahf News 按鈕</translation>
+ <translation id="383007806262310953">顯示書籤列</translation>
+ <translation id="4054323497808446566">書籤列在所有頁面上都可見</translation>
+ <translation id="8693858092251192712">書籤列在除索引標籤頁面之外的所有頁面上都為隱藏</translation>
+@@ -440,7 +440,7 @@
+ <translation id="4891600875049212418">造訪敏感網站時停止記錄</translation>
+ <translation id="1968895725257436430">資料集合</translation>
+ <translation id="4846154056248462491">離開</translation>
+-<translation id="2808630562319398131">重設 Brave 獎勵資料…</translation>
++<translation id="2808630562319398131">重設 Kahf 獎勵資料…</translation>
+ <translation id="6438096877646138757">關閉時清除 cookie 的網站</translation>
+ <translation id="2988792685798128092">網站關閉時清除</translation>
+ <translation id="7702907602086592255">網域</translation>
+@@ -694,7 +694,7 @@
+ <translation id="7131172845656551327">模型名稱，這應顯示於傳給服務架構 (如 phi-3) 的要求 (請注意，如果此名稱與服務架構預期的名稱不符，就無法整合)</translation>
+ <translation id="3286410514484292784">您的服務架構會在這個 URL 聆聽要求。如果不確定，請查看服務架構文件，舉例而言 Ollama 的 URL 一律為 http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">部分服務架構可能須要驗證認證，例如 API 金鑰或存取權杖。這些認證會新增至要求標頭。</translation>
+-<translation id="217141195370578385">Brave 不會通過 Proxy 處理這些要求，請詳閱所選提供者的隱私權條款。</translation>
++<translation id="217141195370578385">Kahf 不會通過 Proxy 處理這些要求，請詳閱所選提供者的隱私權條款。</translation>
+ <translation id="2645532768679870478">非本機端點應採用 HTTPS 通訊協定以安全傳輸資料。</translation>
+ <translation id="8177205483022887785">您輸入了無效的 URL，請輸入有效的 URL。</translation>
+ <translation id="5249539665306267943">新增模型</translation>

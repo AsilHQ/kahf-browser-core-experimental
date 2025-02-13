@@ -1,0 +1,1019 @@
+diff a/components/strings/components_strings_sv.xtb b/components/strings/components_strings_sv.xtb	(rejected hunks)
+@@ -28,7 +28,7 @@
+ <translation id="1053959602163383901">Du har valt att verifiera dig med en autentiseringsenhet på webbplatser där<ph name="PROVIDER_ORIGIN"/> används. Den här leverantören kan ha lagrat uppgifter om din betalningsmetod som du kan <ph name="LINK_TEXT"/>.</translation>
+ <translation id="1055184225775184556">&amp;Ångra Lägg till</translation>
+ <translation id="1056898198331236512">Varning</translation>
+-<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill spela Dino Run-spelet i Brave</translation>
++<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill spela Dino Run-spelet i Kahf</translation>
+ <translation id="1058479211578257048">Sparar kort …</translation>
+ <translation id="1060136083665017312">Spelsystem och konsoler</translation>
+ <translation id="1060320201901229167">Kaku 5-kuvert</translation>
+@@ -49,7 +49,7 @@
+ <translation id="1082026381988252344">Scrolla och zooma på innehållet i en delad flik</translation>
+ <translation id="1088664500620117635">Normalt pris för <ph name="PRODUCT_NAME"/> är <ph name="LOW_PRICE"/>–<ph name="HIGH_PRICE"/> men det nuvarande priset är <ph name="CURRENT_PRICE"/> på webben.</translation>
+ <translation id="1089439967362294234">Ändra lösenordet</translation>
+-<translation id="807719392864780545">Du kan ändra detta när som helst i inställningarna för Brave.</translation>
++<translation id="807719392864780545">Du kan ändra detta när som helst i inställningarna för Kahf.</translation>
+ <translation id="1090629319939036170">VR-meny</translation>
+ <translation id="1091463901118115503">Fortsätt läsa</translation>
+ <translation id="1091779689406092804">skärmbilder</translation>
+@@ -57,10 +57,10 @@
+ <translation id="1096545575934602868">Fältet får ha högst <ph name="MAX_ITEMS_LIMIT"/> poster. Alla poster utöver detta antal ignoreras.</translation>
+ <translation id="1097803577928227769">Parker och trädgårdar</translation>
+ <translation id="1099928364755383720">automatisk bild-i-bild</translation>
+-<translation id="7584468665743195331">Knappen Återuppta sökning: tryck på Retur om du vill återuppta sökningen och se relevant aktivitet i Brave-historiken</translation>
++<translation id="7584468665743195331">Knappen Återuppta sökning: tryck på Retur om du vill återuppta sökningen och se relevant aktivitet i Kahf-historiken</translation>
+ <translation id="1101672080107056897">Ett fel uppstod under åtgärden</translation>
+ <translation id="1104409666019087579">Vissa obligatoriska fält är tomma. Fyll i dem innan du sparar.</translation>
+-<translation id="8424280348953443220">Knappen Hantera lösenord: aktivera om du vill visa och hantera lösenord i inställningarna för Brave</translation>
++<translation id="8424280348953443220">Knappen Hantera lösenord: aktivera om du vill visa och hantera lösenord i inställningarna för Kahf</translation>
+ <translation id="1108464073729874771">A3 x 4</translation>
+ <translation id="1110994991967754504">Välj behörighet för <ph name="PERMISSION_NAME"/></translation>
+ <translation id="1113000785583998331">Vill du spara IBAN?</translation>
+@@ -149,22 +149,22 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+     &lt;/ol&gt;</translation>
+ <translation id="1257286744552378071">Du har angett ditt lösenord på en webbplats som inte hanteras av organisationen. Skydda kontot genom att inte återanvända lösenordet för andra appar och webbplatser.</translation>
+ <translation id="1257553931232494454">zoomnivåer</translation>
+-<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera inställningarna för Brave</translation>
++<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera inställningarna för Kahf</translation>
+ <translation id="1264309058268477500">Alternativ</translation>
+ <translation id="1264974993859112054">Sport</translation>
+ <translation id="1268480293435976622">Kinesiskt nr 7-kuvert</translation>
+-<translation id="53564677632020212">Skapa en ny webbplats i Brave Sites snabbt</translation>
++<translation id="53564677632020212">Skapa en ny webbplats i Kahf Sites snabbt</translation>
+ <translation id="1270328905573953738">Flyttjänster</translation>
+ <translation id="1270502636509132238">Alternativ för utlämning</translation>
+ <translation id="1273592791152866347">Prisbevakning har inaktiverats</translation>
+ <translation id="127777513559587977">Pratprogram på tv</translation>
+ <translation id="1281476433249504884">Utmatningsfack 1</translation>
+-<translation id="3587420677315820032">Om du vill fylla i IBAN-numret automatiskt nästa gång sparar du det i Brave-kontot</translation>
++<translation id="3587420677315820032">Om du vill fylla i IBAN-numret automatiskt nästa gång sparar du det i Kahf-kontot</translation>
+ <translation id="1282358575813748144">Båtar och fartyg</translation>
+ <translation id="1283977499362032052">CV och portfolio</translation>
+ <translation id="1285320974508926690">Översätt aldrig den här webbplatsen</translation>
+ <translation id="1292571435393770077">Fack 16</translation>
+-<translation id="1209478311331937175">Mjukvara på datorn förhindrar att Brave ansluter till internet på ett säkert sätt (endast Windows-datorer)</translation>
++<translation id="1209478311331937175">Mjukvara på datorn förhindrar att Kahf ansluter till internet på ett säkert sätt (endast Windows-datorer)</translation>
+ <translation id="1293797321964802402">Kuvert, 9 x 11 tum</translation>
+ <translation id="1294154142200295408">Varianter på kommandoraden</translation>
+ <translation id="129553762522093515">Nyligen stängda</translation>
+@@ -189,7 +189,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="132390688737681464">Spara och fyll i adresser</translation>
+ <translation id="1329916999021038454">Skicka en rapport</translation>
+ <translation id="1330449323196174374">Fönsterfalsning, vänster flik</translation>
+-<translation id="4274264486214599895">Spela Brave Dino-spelet</translation>
++<translation id="4274264486214599895">Spela Kahf Dino-spelet</translation>
+ <translation id="1333989956347591814">Din aktivitet <ph name="BEGIN_EMPHASIS"/>kanske fortfarande är synlig<ph name="END_EMPHASIS"/> för:
+         <ph name="BEGIN_LIST"/>
+           <ph name="LIST_ITEM"/>webbplatser som du besöker
+@@ -231,11 +231,11 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="14070772729708640">Filerna har laddats upp till <ph name="FOLDER_NAME"/> i <ph name="CLOUD_PROVIDER"/></translation>
+ <translation id="1407135791313364759">Öppna alla</translation>
+ <translation id="1408787208417187241">Tre häftklamrar högst upp</translation>
+-<translation id="5488251800208457874">Andra som använder enheten kan inte se din aktivitet, så du kan surfa privat. Detta påverkar inte hur data samlas in av webbplatser du besöker och i de tjänster de använder, inklusive Brave. Nedladdningar, bokmärken och objekt i läslistan sparas.</translation>
++<translation id="5488251800208457874">Andra som använder enheten kan inte se din aktivitet, så du kan surfa privat. Detta påverkar inte hur data samlas in av webbplatser du besöker och i de tjänster de använder, inklusive Kahf. Nedladdningar, bokmärken och objekt i läslistan sparas.</translation>
+ <translation id="1410941016594047814">Invite-kuvert</translation>
+ <translation id="1413809658975081374">Integritetsfel</translation>
+ <translation id="1414134146594747368">Förskola</translation>
+-<translation id="5305237486453576422">Knappen Hantera nedladdningar i Brave: aktivera om du vill hantera filer du har laddat ned i Brave</translation>
++<translation id="5305237486453576422">Knappen Hantera nedladdningar i Kahf: aktivera om du vill hantera filer du har laddat ned i Kahf</translation>
+ <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/> för koppling</translation>
+ <translation id="14222610277930434">Du besöker ofta</translation>
+ <translation id="1422930527989633628">Får begära tillstånd att söka efter Bluetooth-enheter i närheten</translation>
+@@ -265,7 +265,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="1462245070427461050">JIS B9</translation>
+ <translation id="1462951478840426066">Använd teckensnitten på datorn så att du kan skapa innehåll av hög kvalitet</translation>
+ <translation id="1463793142714244641">Andels- och semesterhus</translation>
+-<translation id="4855177403643365941">IBAN har sparats i ditt Brave-konto</translation>
++<translation id="4855177403643365941">IBAN har sparats i ditt Kahf-konto</translation>
+ <translation id="1467432559032391204">Vänster</translation>
+ <translation id="1468653229182955856"><ph name="ONE_TIME_CODE"/> är koden som behövs för <ph name="EMBEDDED_ORIGIN"/> på <ph name="TOP_ORIGIN"/></translation>
+ <translation id="1472675084647422956">Visa fler</translation>
+@@ -362,20 +362,20 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="1640180200866533862">Användarpolicyer</translation>
+ <translation id="1640244768702815859">Testa att <ph name="BEGIN_LINK"/>besöka webbplatsens startsida<ph name="END_LINK"/>.</translation>
+ <translation id="1641976391427233992">Senarelägga utmatning till</translation>
+-<translation id="8088023492467080559">Gå till knappen för säkerhetskontroll i Brave och aktivera den för att besöka sidan Säkerhetskontroll i Brave-inställningarna</translation>
++<translation id="8088023492467080559">Gå till knappen för säkerhetskontroll i Kahf och aktivera den för att besöka sidan Säkerhetskontroll i Kahf-inställningarna</translation>
+ <translation id="1644574205037202324">Historik</translation>
+ <translation id="1645004815457365098">Okänd källa</translation>
+ <translation id="1645368109819982629">Det finns inget stöd för protokollet</translation>
+-<translation id="1995056549836388472">Hantera Brave-inställningarna</translation>
++<translation id="1995056549836388472">Hantera Kahf-inställningarna</translation>
+ <translation id="1652415888492971589">JIS B8</translation>
+-<translation id="3549478477646243075">Om du vill använda Lösenordshantering med en macOS-nyckelring ska du starta om Brave och tillåta åtkomst till nyckelringen. Flikarna öppnas igen när du har startat om enheten.</translation>
++<translation id="3549478477646243075">Om du vill använda Lösenordshantering med en macOS-nyckelring ska du starta om Kahf och tillåta åtkomst till nyckelringen. Flikarna öppnas igen när du har startat om enheten.</translation>
+ <translation id="1652887625750064647">Bästa AI-matchning</translation>
+-<translation id="3848846802033604519">Brave har förenklat sidan så att den ska bli lättare att läsa. Brave hämtade den ursprungliga sidan via en säker anslutning.</translation>
++<translation id="3848846802033604519">Kahf har förenklat sidan så att den ska bli lättare att läsa. Kahf hämtade den ursprungliga sidan via en säker anslutning.</translation>
+ <translation id="1656489000284462475">Upphämtning</translation>
+ <translation id="1658111267661135323">Tv och video</translation>
+ <translation id="1658918301167915956">Bluetooth-enheter</translation>
+ <translation id="1662550410081243962">Spara och fyll i betalningsmetoder</translation>
+-<translation id="1838576226863399477">Kort och adresser har hämtats från Brave. Du hanterar dessa under <ph name="BEGIN_LINK"/>Inställningar<ph name="END_LINK"/>.</translation>
++<translation id="1838576226863399477">Kort och adresser har hämtats från Kahf. Du hanterar dessa under <ph name="BEGIN_LINK"/>Inställningar<ph name="END_LINK"/>.</translation>
+ <translation id="1664389769577564606">Flexografisk fotopolymer</translation>
+ <translation id="166624440456221306">Radera jämförelsetabellen</translation>
+ <translation id="1668071460721346172">Få ett e-postmeddelande</translation>
+@@ -422,7 +422,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="1741613555002899862">Måste anges och vara en giltig sträng när DnsOverHttpsMode är <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
+ <translation id="1743393865165844832">Sängutrustning och sängkläder</translation>
+ <translation id="1743892871127720056">Jämför tabellrubrik, redigera text</translation>
+-<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Så här använder vi denna data:<ph name="END_BOLD"/> Brave registrerar ämnen som du är intresserad av när du surfar. Ämnesetiketter är fördefinierade och inkluderar bl.a. Konst och underhållning, Shopping och Sport. Senare kan en webbplats be Brave om några av dina ämnen (men inte din webbhistorik) för att anpassa vilka annonser som visas.</translation>
++<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Så här använder vi denna data:<ph name="END_BOLD"/> Kahf registrerar ämnen som du är intresserad av när du surfar. Ämnesetiketter är fördefinierade och inkluderar bl.a. Konst och underhållning, Shopping och Sport. Senare kan en webbplats be Kahf om några av dina ämnen (men inte din webbhistorik) för att anpassa vilka annonser som visas.</translation>
+ <translation id="1746113442205726301">Bild Y – byte</translation>
+ <translation id="1746531169546376413">0 grader</translation>
+ <translation id="1748225549612934682">Förkorta texten om du vill få hjälp med att skriva</translation>
+@@ -435,7 +435,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="1756555787993603971">Nu kan du använda ett virtuellt kort för att betala säkrare med autofyll.</translation>
+ <translation id="175656076281618225">Magi</translation>
+ <translation id="1757773103848038814">Jämnbrett teckensnitt</translation>
+-<translation id="3727704638090640904">Knappen Byt lösenord till Brave: aktivera om du vill byta lösenord till Brave-kontot</translation>
++<translation id="3727704638090640904">Knappen Byt lösenord till Kahf: aktivera om du vill byta lösenord till Kahf-kontot</translation>
+ <translation id="1762779605905950734">Gatunamn</translation>
+ <translation id="1763864636252898013">Servern kunde inte bevisa att den är <ph name="DOMAIN"/> eftersom enhetens operativsystem inte litar på dess säkerhetscertifikat. Detta kan orsakas av en felaktig konfigurering eller att någon spärrar anslutningen.</translation>
+ <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Testa att köra nätverksdiagnostik för Windows<ph name="END_LINK"/>.</translation>
+@@ -443,8 +443,8 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="1777422078676229054">Foto (arkiv)</translation>
+ <translation id="1778646502362731194">JIS B0</translation>
+ <translation id="1785118555253503473">Vill du installera webbappar?</translation>
+-<translation id="3480410886581896628">Brave Smart Lock</translation>
+-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera uppgifter, integritet och säkerhet i Brave-kontot</translation>
++<translation id="3480410886581896628">Kahf Smart Lock</translation>
++<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera uppgifter, integritet och säkerhet i Kahf-kontot</translation>
+ <translation id="1793631236004319016">Användes senast för <ph name="NUM_HOURS_MINUTES_SECONDS"/> sedan.</translation>
+ <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, flera åtgärder tillgängliga, byt mellan dem med Tabb</translation>
+ <translation id="1800473098294731951">B9</translation>
+@@ -573,11 +573,11 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2040894699575719559">Platsen är blockerad</translation>
+ <translation id="2041788246978549610">Använda tillgängliga mikrofoner (<ph name="MICS_COUNT"/>)</translation>
+ <translation id="2042213636306070719">Fack 7</translation>
+-<translation id="3163988908275223348">Logga in om du vill använda lösenord som har sparats i Brave-kontot</translation>
++<translation id="3163988908275223348">Logga in om du vill använda lösenord som har sparats i Kahf-kontot</translation>
+ <translation id="2045871135676061132">Personal-kuvert</translation>
+ <translation id="2046951263634619614">Bokhandlare</translation>
+ <translation id="2048261947532620704">Översätter sida</translation>
+-<translation id="5469355573019315764">Webbplatser kan be Brave om information för att anpassa vilka annonser som visas.</translation>
++<translation id="5469355573019315764">Webbplatser kan be Kahf om information för att anpassa vilka annonser som visas.</translation>
+ <translation id="2059166748188874810">Kommun</translation>
+ <translation id="2059202684901022309">22 x 34 tum</translation>
+ <translation id="2064568741209980952">Krediter och lån</translation>
+@@ -653,7 +653,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2174875517416416684">Transaktionen gick inte igenom. Inga pengar har dragits från ditt konto.</translation>
+ <translation id="2175630235841878061">Det går inte att ladda ned filer som är större än 100 MB</translation>
+ <translation id="2176974405772725904">Spara adressen i kontot</translation>
+-<translation id="7453373354666409887">Knappen Uppdatera Brave: aktivera om du vill uppdatera Brave via inställningarna för Brave</translation>
++<translation id="7453373354666409887">Knappen Uppdatera Kahf: aktivera om du vill uppdatera Kahf via inställningarna för Kahf</translation>
+ <translation id="2179003720612888584"><ph name="SITE_TITLE"/> på <ph name="SITE_DOMAIN_NAME"/></translation>
+ <translation id="2181821976797666341">Policyer</translation>
+ <translation id="2182170103603703676">Diskmaskiner</translation>
+@@ -673,7 +673,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2212735316055980242">Policyn hittades inte</translation>
+ <translation id="2213606439339815911">Hämtar poster …</translation>
+ <translation id="2213612003795704869">Sidan skrivs ut</translation>
+-<translation id="4045100732984144870">Autofyll med Brave</translation>
++<translation id="4045100732984144870">Autofyll med Kahf</translation>
+ <translation id="2215539479425228550">Klättring och bergsbestigning</translation>
+ <translation id="2215727959747642672">Filredigering</translation>
+ <translation id="2215963164070968490">Hundar</translation>
+@@ -779,7 +779,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="239429038616798445">Det här fraktalternativet är inte tillgängligt. Testa ett annat alternativ.</translation>
+ <translation id="2395840535409704129">Vattensport</translation>
+ <translation id="2396249848217231973">&amp;Ångra Ta bort</translation>
+-<translation id="4124760202519850347">Detta IBAN sparas i Brave-kontot så att du kan använda det i Braves tjänster.</translation>
++<translation id="4124760202519850347">Detta IBAN sparas i Kahf-kontot så att du kan använda det i Kahfs tjänster.</translation>
+ <translation id="2400600116338235695">Får begära tillstånd att ansluta till en serieport</translation>
+ <translation id="2404884497378469141">Testa att kopiera filerna igen</translation>
+ <translation id="2412310121876768057">Vill du autofylla kortet nästa gång?</translation>
+@@ -800,7 +800,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2461822463642141190">Nuvarande</translation>
+ <translation id="2462932596748424101">Sociala nätverk</translation>
+ <translation id="2465688316154986572">Häftning</translation>
+-<translation id="4058615531773510267">Hantera filer du har laddat ned i Brave</translation>
++<translation id="4058615531773510267">Hantera filer du har laddat ned i Kahf</translation>
+ <translation id="2466004615675155314">Visa information från webben</translation>
+ <translation id="2466682894498377850">Fliken skickades från din <ph name="DEVICE_NAME"/></translation>
+ <translation id="2467272921457885625">Enhetens hårdvaruspecifikation och statistik som historiken över CPU-/RAM-användning</translation>
+@@ -812,7 +812,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2473810985261856484">Juridiska tjänster</translation>
+ <translation id="2479148705183875116">Öppna inställningarna</translation>
+ <translation id="2479410451996844060">Ogiltig sökadress.</translation>
+-<translation id="6944854796979239513">I Brave-kontot <ph name="USER_EMAIL"/></translation>
++<translation id="6944854796979239513">I Kahf-kontot <ph name="USER_EMAIL"/></translation>
+ <translation id="248064299258688299">Tillägget <ph name="EXTENSION_NAME"/> säger</translation>
+ <translation id="2482878487686419369">Aviseringar</translation>
+ <translation id="248348093745724435">Datorprinciper</translation>
+@@ -844,12 +844,12 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="253493526287553278">Visa information om kampanjkoden</translation>
+ <translation id="2535659140340599600">{COUNT,plural, =1{och 1 till}other{och # till}}</translation>
+ <translation id="2536110899380797252">Lägg till adress</translation>
+-<translation id="3140033400151786080">Andra som använder enheten kan inte se din aktivitet, så du kan surfa privat. Detta påverkar inte hur data samlas in av webbplatser du besöker och i de tjänster de använder, inklusive Brave. Nedladdningar och bokmärken sparas.</translation>
++<translation id="3140033400151786080">Andra som använder enheten kan inte se din aktivitet, så du kan surfa privat. Detta påverkar inte hur data samlas in av webbplatser du besöker och i de tjänster de använder, inklusive Kahf. Nedladdningar och bokmärken sparas.</translation>
+ <translation id="2539524384386349900">Identifiera</translation>
+ <translation id="2542106216580219892">Surfning</translation>
+ <translation id="2544546346215446551">Administratören har startat om enheten</translation>
+ <translation id="2544644783021658368">Enkelt dokument</translation>
+-<translation id="5342827302598046226">Ange Brave som standardwebbläsare</translation>
++<translation id="5342827302598046226">Ange Kahf som standardwebbläsare</translation>
+ <translation id="2545721997179863249">Alternativet för att fylla i allt har valts</translation>
+ <translation id="2546283357679194313">Cookies och webbplatsdata</translation>
+ <translation id="254947805923345898">Principens värde är inte giltigt.</translation>
+@@ -895,7 +895,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2651465929321991146">Historik och flikar</translation>
+ <translation id="2653659639078652383">Skicka</translation>
+ <translation id="2655752832536625875">Badrum</translation>
+-<translation id="3889152837537169222">Knapp för att stänga Brave-tips, tryck på Retur för att stänga</translation>
++<translation id="3889152837537169222">Knapp för att stänga Kahf-tips, tryck på Retur för att stänga</translation>
+ <translation id="2657637947725373811">{0,plural, =1{Vill du överföra den konfidentiella filen?}other{Vill du överföra dessa konfidentiella filer?}}</translation>
+ <translation id="2658843814961855121">Arbets- och anställningslagstiftning</translation>
+ <translation id="2660779039299703961">Event</translation>
+@@ -1041,18 +1041,18 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="2961809451460302960">Livförsäkringar</translation>
+ <translation id="2962073860865348475">12 x 18 tum</translation>
+ <translation id="2967082089043584472">Tillagd i <ph name="SET"/></translation>
+-<translation id="2470357430970446202">Spara det i Brave-kontot</translation>
++<translation id="2470357430970446202">Spara det i Kahf-kontot</translation>
+ <translation id="297173220375858963">Desktop Publishing</translation>
+ <translation id="2972581237482394796">&amp;Upprepa</translation>
+-<translation id="4715521049551299401">Detta IBAN gick inte att spara i ditt Brave-konto. Det har sparats i Brave på den här enheten i stället. Brave frågar dig igen nästa gång du använder detta IBAN.</translation>
++<translation id="4715521049551299401">Detta IBAN gick inte att spara i ditt Kahf-konto. Det har sparats i Kahf på den här enheten i stället. Kahf frågar dig igen nästa gång du använder detta IBAN.</translation>
+ <translation id="2977665033722899841"><ph name="ROW_NAME"/> är markerad just nu. <ph name="ROW_CONTENT"/></translation>
+ <translation id="2977847223286097084">Låsa och använda tangentbordet</translation>
+ <translation id="2978824962390592855">Opera</translation>
+ <translation id="2979424420072875974">Resurser för skribenter</translation>
+-<translation id="6172169316494799304">Kortets CVC-kod krypteras och sparas i ditt Brave-konto så det går snabbare i kassan</translation>
++<translation id="6172169316494799304">Kortets CVC-kod krypteras och sparas i ditt Kahf-konto så det går snabbare i kassan</translation>
+ <translation id="2985398929374701810">Ange en giltig adress</translation>
+ <translation id="2987034854559945715">Det finns inga matchande funktioner</translation>
+-<translation id="714850411804317247">Brave begränsar mängden information webbplatser kan använda för att spåra dig när du surfar. Du kan ändra inställningarna och välja din egen skyddsnivå.</translation>
++<translation id="714850411804317247">Kahf begränsar mängden information webbplatser kan använda för att spåra dig när du surfar. Du kan ändra inställningarna och välja din egen skyddsnivå.</translation>
+ <translation id="2989742184762224133">Två häftklamrar högst upp</translation>
+ <translation id="2991174974383378012">Dela med webbplatsen</translation>
+ <translation id="299122504639061328">Hantera standardsökmotor och webbplatssökning</translation>
+@@ -1080,10 +1080,10 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3041176923638368519">Se villkoren för kortförmåner</translation>
+ <translation id="3041612393474885105">Certifikatinformation</translation>
+ <translation id="3045769629416806687">Extremsporter</translation>
+-<translation id="8418829431154568330">Historik för Brave Remote Desktop, bland annat tidsstämplar, värdar och id:n för klientsessioner</translation>
+-<translation id="2396578282884469363">Du ansluter vanligtvis till webbplatser på ett säkert sätt, men den här gången kunde inte Brave använda en säker anslutning. Det kan hända att en angripare försöker avlyssna eller ändra din nätverksanslutning. <ph name="BEGIN_LEARN_MORE_LINK"/>Läs mer om den här varningen<ph name="END_LEARN_MORE_LINK"/></translation>
++<translation id="8418829431154568330">Historik för Kahf Remote Desktop, bland annat tidsstämplar, värdar och id:n för klientsessioner</translation>
++<translation id="2396578282884469363">Du ansluter vanligtvis till webbplatser på ett säkert sätt, men den här gången kunde inte Kahf använda en säker anslutning. Det kan hända att en angripare försöker avlyssna eller ändra din nätverksanslutning. <ph name="BEGIN_LEARN_MORE_LINK"/>Läs mer om den här varningen<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3052964831964880138">Priset på <ph name="PRODUCT_NAME"/> sänkt med <ph name="PRICE_DROP"/></translation>
+-<translation id="4832983047807637948">Brave raderar automatiskt ämnen som är äldre än fyra veckor. Medan du surfar kan ett ämne dyka upp på listan igen. Du kan också blockera ämnen som du inte vill att Brave ska dela med webbplatser. Läs mer om hur du hanterar annonsintegritet i Brave.</translation>
++<translation id="4832983047807637948">Kahf raderar automatiskt ämnen som är äldre än fyra veckor. Medan du surfar kan ett ämne dyka upp på listan igen. Du kan också blockera ämnen som du inte vill att Kahf ska dela med webbplatser. Läs mer om hur du hanterar annonsintegritet i Kahf.</translation>
+ <translation id="3061707000357573562">Tjänst för programkorrigering</translation>
+ <translation id="3062655045399308513">Radera webbinformation …</translation>
+ <translation id="306573536155379004">Spelet har startats.</translation>
+@@ -1091,7 +1091,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3068118691172921711">Filerna börjar laddas upp till <ph name="CLOUD_PROVIDER"/> om 1 minut</translation>
+ <translation id="3076865167425975822">Operativsystem</translation>
+ <translation id="3080254622891793721">Bild</translation>
+-<translation id="254030672859277244">Tillåt att Brave använder dina kundvagnar för att leta efter anpassade rabatter</translation>
++<translation id="254030672859277244">Tillåt att Kahf använder dina kundvagnar för att leta efter anpassade rabatter</translation>
+ <translation id="3086579638707268289">Din aktivitet på webben övervakas</translation>
+ <translation id="3087734570205094154">Nederst</translation>
+ <translation id="3090667236485488075">Glas</translation>
+@@ -1192,7 +1192,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3249102948665905108">Filuppladdningen till <ph name="CLOUD_PROVIDER"/> har slutförts med fel</translation>
+ <translation id="3252772880526154546">Arkitektur</translation>
+ <translation id="3254301855501243548">18 x 22 tum</translation>
+-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du snabbt vill skapa en ny händelse i Brave Kalender</translation>
++<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du snabbt vill skapa en ny händelse i Kahf Kalender</translation>
+ <translation id="3261488570342242926">Läs mer om virtuella kort</translation>
+ <translation id="3262698603497362968">Köpalternativ</translation>
+ <translation id="3266367459139339908">Vi lanserar nya sätt att begränsa vilken information webbplatser kan få om dig när de visar anpassade annonser, till exempel:</translation>
+@@ -1204,7 +1204,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3272091146646336650">Super B</translation>
+ <translation id="3272112314896217187">Ange verifieringskoden på <ph name="NUMBER_OF_DIGITS"/> siffror</translation>
+ <translation id="3272643614306383237">Mindre än 1 MB. Vissa webbplatser kan läsas in långsammare nästa gång du besöker dem.</translation>
+-<translation id="7460223968433527020">Administratören kan göra ändringar i din profil och webbläsare på distans, analysera information om webbläsaren genom rapportering och utföra andra nödvändiga uppgifter. Aktivitet på den här enheten kan även hanteras utanför Brave. <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
++<translation id="7460223968433527020">Administratören kan göra ändringar i din profil och webbläsare på distans, analysera information om webbläsaren genom rapportering och utföra andra nödvändiga uppgifter. Aktivitet på den här enheten kan även hanteras utanför Kahf. <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
+ <translation id="3281350579597955952">{0,plural, =1{Enligt administratörspolicyn är det inte rekommenderat att öppna filen i <ph name="DESTINATION_NAME"/>}other{Enligt administratörspolicyn är det inte rekommenderat att öppna filerna i <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3282085321714087552">Organisationen <ph name="ENROLLMENT_DOMAIN"/> har skickat en del information, t.ex. inställningar eller principer, till följande webbplatser.</translation>
+ <translation id="3286372614333682499">stående</translation>
+@@ -1220,8 +1220,8 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3303872874382375219">Huruvida annonser som visas är anpassade kan bero på många saker, bland annat den här inställningen, <ph name="BEGIN_LINK1"/>annonsämnen<ph name="LINK_END1"/>, dina <ph name="BEGIN_LINK2"/>cookie-inställningar<ph name="LINK_END2"/> och om webbplatsen du besöker anpassar annonser. Läs mer om hur du <ph name="BEGIN_LINK3"/>hanterar annonsintegritet<ph name="LINK_END3"/>.</translation>
+ <translation id="3304073249511302126">Bluetooth-sökning</translation>
+ <translation id="3304777285002411338">A2 x 3</translation>
+-<translation id="33073482541490531">Lösenordet som du precis använde har läckt ut vid ett dataintrång. Du rekommenderas av Brave Lösenordshantering att byta detta lösenord nu.</translation>
+-<translation id="4731386748664539266">Knappen Anpassa Brave: aktivera om du vill anpassa webbläsarens utseende</translation>
++<translation id="33073482541490531">Lösenordet som du precis använde har läckt ut vid ett dataintrång. Du rekommenderas av Kahf Lösenordshantering att byta detta lösenord nu.</translation>
++<translation id="4731386748664539266">Knappen Anpassa Kahf: aktivera om du vill anpassa webbläsarens utseende</translation>
+ <translation id="3308006649705061278">Organisationsenhet (OU)</translation>
+ <translation id="3318016344440038475">Tv-komedier</translation>
+ <translation id="3324687287337751929">4 x 6 tum</translation>
+@@ -1279,7 +1279,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3411091017011773343">Ladda upp om <ph name="HOURS"/> tim</translation>
+ <translation id="3414275587143250384">Distribuerade system och molnteknik</translation>
+ <translation id="3414952576877147120">Storlek:</translation>
+-<translation id="7115177860507615612">Knappen Spela Brave Dino-spelet: aktivera om du vill spela Dino Run i Brave</translation>
++<translation id="7115177860507615612">Knappen Spela Kahf Dino-spelet: aktivera om du vill spela Dino Run i Kahf</translation>
+ <translation id="3422248202833853650">Testa att stänga andra program för att frigöra minne.</translation>
+ <translation id="3422472998109090673"><ph name="HOST_NAME"/> kan inte nås för tillfället.</translation>
+ <translation id="3423742043356668186">System har angetts</translation>
+@@ -1389,28 +1389,28 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3587738293690942763">Mellan</translation>
+ <translation id="3600106876108433070">Läs mer om jämförelsetabeller</translation>
+ <translation id="3600246354004376029"><ph name="TITLE"/>, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
+-<translation id="8476504968862670676">Knappen Hantera Braves integritetsinställningar: aktivera om du vill öppna Brave-kontots integritetsinställningar</translation>
++<translation id="8476504968862670676">Knappen Hantera Kahfs integritetsinställningar: aktivera om du vill öppna Kahf-kontots integritetsinställningar</translation>
+ <translation id="3603507503523709">Appen blockeras av administratören</translation>
+ <translation id="3605899229568538311">5 x 5 tum</translation>
+ <translation id="3606917451836803637">Tv-serier och tv-program</translation>
+ <translation id="3608932978122581043">Ställa in riktning</translation>
+-<translation id="1737525120923015525">Spara kortet, faktureringsadressen och ditt namn i Brave-kontot så går det snabbare att betala nästa gång</translation>
++<translation id="1737525120923015525">Spara kortet, faktureringsadressen och ditt namn i Kahf-kontot så går det snabbare att betala nästa gång</translation>
+ <translation id="3612660594051121194">Långdistansresor med buss och tåg</translation>
+ <translation id="3614001939154393113">Det är möjligt att hackare försöker stjäla dina uppgifter från <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (till exempel lösenord, meddelanden eller kreditkort). <ph name="BEGIN_LEARN_MORE_LINK"/>Läs mer om den här varningen<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3614103345592970299">Storlek 2</translation>
+ <translation id="361438452008624280">Listposten <ph name="LANGUAGE_ID"/>: Språket är okänt eller stöds inte.</translation>
+-<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill köra en säkerhetskontroll i inställningarna för Brave</translation>
++<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill köra en säkerhetskontroll i inställningarna för Kahf</translation>
+ <translation id="3615309852743236517">Manikyr och pedikyr</translation>
+ <translation id="3620239073311576716">Uniformer och arbetskläder</translation>
+ <translation id="3621401353678567613">Aktivera aviseringar i inställningarna om du vill få aviseringar om prissänkningar för produkter du bevakar.</translation>
+ <translation id="362276910939193118">Visa fullständig historik</translation>
+-<translation id="5043591794632164789">Ge Brave åtkomst i <ph name="LINK"/> om du vill använda kameran.</translation>
++<translation id="5043591794632164789">Ge Kahf åtkomst i <ph name="LINK"/> om du vill använda kameran.</translation>
+ <translation id="3623398832322170566">Romantik</translation>
+ <translation id="3624292976554877583">Etiketter (matta)</translation>
+ <translation id="3628905806504633297">{0,plural, =1{Enligt administratörspolicyn är det inte rekommenderat att överföra den här filen till <ph name="DESTINATION_NAME"/>}other{Enligt administratörspolicyn är det inte rekommenderat att överföra dessa filer till <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3630155396527302611">Om den redan finns med på listan över program som har tillgång till nätverket 
+         kan du prova att ta bort den från listan och sedan lägga till den igen.</translation>
+-<translation id="3599570280787620691">Knappen Hitta min enhet: aktivera om du vill hitta din enhet i Brave-kontot</translation>
++<translation id="3599570280787620691">Knappen Hitta min enhet: aktivera om du vill hitta din enhet i Kahf-kontot</translation>
+ <translation id="3630699740441428070">Enhetens administratörer har konfigurerat nätverksanslutningen. Det innebär att de kan se din nätverkstrafik, inklusive vilka webbplatser du besöker.</translation>
+ <translation id="3632503704576938756">Skärmdelningen återupptogs</translation>
+ <translation id="3632892046558972264">Skärmdelningen pausades</translation>
+@@ -1564,7 +1564,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="3906954721959377182">Surfplatta</translation>
+ <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
+ <translation id="3910231615117880630">Läs mer om inbäddat innehåll</translation>
+-<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Så här kan du hantera din data:<ph name="END_BOLD"/> Brave raderar webbplatser som är äldre än 30 dagar automatiskt. Om du besöker en webbplats på nytt kan den dyka upp på listan igen. Du kan även blockera webbplatser från att föreslå annonser för dig och inaktivera föreslagna annonser på webbplatser när som helst i inställningarna för Brave.</translation>
++<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Så här kan du hantera din data:<ph name="END_BOLD"/> Kahf raderar webbplatser som är äldre än 30 dagar automatiskt. Om du besöker en webbplats på nytt kan den dyka upp på listan igen. Du kan även blockera webbplatser från att föreslå annonser för dig och inaktivera föreslagna annonser på webbplatser när som helst i inställningarna för Kahf.</translation>
+ <translation id="3921869355029467742">Ange din säkerhetskod</translation>
+ <translation id="3927538228901078312">Inga jämförelsetabeller</translation>
+ <translation id="3927932062596804919">Neka</translation>
+@@ -1630,14 +1630,14 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="4039506337798853114">Visa markören genom att trycka på |<ph name="ACCELERATOR"/>|</translation>
+ <translation id="4047351652147966654">18 x 24 tum</translation>
+ <translation id="404831776305217138">Uppdateringsadressen för tillägget med id:t <ph name="EXTENSION_ID"/> är ogiltig eller använder ett schema som inte stöds. Följande scheman stöds: <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/> och <ph name="FILE_SCHEME"/>.</translation>
+-<translation id="2635033286761217583">Du kan använda den i Braves produkter.</translation>
+-<translation id="336808635693308470">Brave försöker redigera betalningsmetoder.</translation>
++<translation id="2635033286761217583">Du kan använda den i Kahfs produkter.</translation>
++<translation id="336808635693308470">Kahf försöker redigera betalningsmetoder.</translation>
+ <translation id="405399507749852140">Få aviseringar när priset sjunker på en webbplats</translation>
+ <translation id="4056223980640387499">Sepia</translation>
+ <translation id="4059523390906550209">Läs mer om skydd av känsliga uppgifter</translation>
+ <translation id="4060880210388108757">Indie och alternativ musik</translation>
+ <translation id="4060883793524802469">Ta bort från tabeller</translation>
+-<translation id="4161619938555288542">Låt Brave hjälpa dig att hitta rabatter för dina kundvagnar</translation>
++<translation id="4161619938555288542">Låt Kahf hjälpa dig att hitta rabatter för dina kundvagnar</translation>
+ <translation id="406358100705415968">Skyddsutrustning för arbetsplatsen</translation>
+ <translation id="4065659219963895623">Restauranger</translation>
+ <translation id="4067774859633143413">Avsluta helskärmsläget och se nedladdningen genom att hålla nere |<ph name="ACCELERATOR"/>|</translation>
+@@ -1797,9 +1797,9 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="4333561522337981382">Hantera fönster på alla skärmar</translation>
+ <translation id="4336219115486912529">{COUNT,plural, =1{Löper ut i morgon}other{Löper ut om # dagar}}</translation>
+ <translation id="4336913590841287350">Principen stöds inte för användarpolicyer i iOS ännu.</translation>
+-<translation id="5792122559159836842">Den här annonsen använde för många resurser för enheten, så den togs bort i Brave.</translation>
++<translation id="5792122559159836842">Den här annonsen använde för många resurser för enheten, så den togs bort i Kahf.</translation>
+ <translation id="4340810192899866471">Importera från JSON</translation>
+-<translation id="6116812392674177288">Den här datorn har inte identifierats som företagshanterad, så bara tillägg på Brave Web Store kan installeras automatiskt med principen. Uppdateringsadressen på Brave Web Store är <ph name="CWS_UPDATE_URL"/>.</translation>
++<translation id="6116812392674177288">Den här datorn har inte identifierats som företagshanterad, så bara tillägg på Kahf Web Store kan installeras automatiskt med principen. Uppdateringsadressen på Kahf Web Store är <ph name="CWS_UPDATE_URL"/>.</translation>
+ <translation id="4342742994656318294">Temaparker</translation>
+ <translation id="4344072791302852930">Lägg till en flik</translation>
+ <translation id="4348834659292907206">Anslutningen till <ph name="SITE"/> är inte säker</translation>
+@@ -1828,7 +1828,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="4406896451731180161">sökresultat</translation>
+ <translation id="4408413947728134509">Cookies <ph name="NUM_COOKIES"/></translation>
+ <translation id="4412074349188076601">Denna konfiguration har markerats som installerbar, men ingen avbildning tillhandahålls för denna arkitektur och kan därför inte installeras.</translation>
+-<translation id="6647778944129929873">Använd Brave Lösenordshantering och Braves autofyll för att spara och fylla i lösenord, betalningsmetoder och adresser</translation>
++<translation id="6647778944129929873">Använd Kahf Lösenordshantering och Kahfs autofyll för att spara och fylla i lösenord, betalningsmetoder och adresser</translation>
+ <translation id="4414515549596849729">cookies och webbplatsdata</translation>
+ <translation id="4415156962929755728">Plast (högblank)</translation>
+ <translation id="4415426530740016218">Hämtningsadress</translation>
+@@ -1859,16 +1859,16 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="448363931695049633">Pizzerior</translation>
+ <translation id="4489023393592172404">Kaku 4-kuvert</translation>
+ <translation id="4490717597759821841">A7</translation>
+-<translation id="3966104135245031874">Kryptera synkroniserade lösenord med ditt Brave-konto</translation>
++<translation id="3966104135245031874">Kryptera synkroniserade lösenord med ditt Kahf-konto</translation>
+ <translation id="4493480324863638523">Ogiltig webbadress. Måste vara en webbadress med ett standardprotokoll, t.ex. http://example.com eller https://example.com.</translation>
+-<translation id="7622628059331736328">Du kan se annonsämnen i inställningarna och blockera dem som du inte vill ska delas med webbplatser. Brave raderar även annonsämnen som är äldre än fyra veckor automatiskt.</translation>
++<translation id="7622628059331736328">Du kan se annonsämnen i inställningarna och blockera dem som du inte vill ska delas med webbplatser. Kahf raderar även annonsämnen som är äldre än fyra veckor automatiskt.</translation>
+ <translation id="4500587658229086076">osäkert innehåll</translation>
+ <translation id="450602096898954067">Utbildade granskare kan se data för att förbättra den här funktionen</translation>
+ <translation id="4506176782989081258">Valideringsfel: <ph name="VALIDATION_ERROR"/></translation>
+ <translation id="4506599922270137252">kontakta systemadministratören</translation>
+ <translation id="450710068430902550">Delad med en administratör</translation>
+-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill översätta den här sidan med Brave Översätt</translation>
+-<translation id="4892470328555495647">Kort och adresser har hämtats från Brave och ditt Brave-konto (<ph name="ACCOUNT_EMAIL"/>). Du hanterar dessa under <ph name="BEGIN_LINK"/>Inställningar<ph name="END_LINK"/>.</translation>
++<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill översätta den här sidan med Kahf Översätt</translation>
++<translation id="4892470328555495647">Kort och adresser har hämtats från Kahf och ditt Kahf-konto (<ph name="ACCOUNT_EMAIL"/>). Du hanterar dessa under <ph name="BEGIN_LINK"/>Inställningar<ph name="END_LINK"/>.</translation>
+ <translation id="4515847625438516456">Mikrobilar och mindre småbilar</translation>
+ <translation id="4519245469315452746">Uppdateringsprocessen avbröts på enheten.</translation>
+ <translation id="4520048001084013693">Möjligheten att ladda ned den här filen blockeras av administratörspolicyn</translation>
+@@ -1885,7 +1885,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="4540780316273593836">Något gick fel</translation>
+ <translation id="4541810033354695636">förstärkt verklighet</translation>
+ <translation id="4542971377163063093">Fack 6</translation>
+-<translation id="563788859854213593">Spara kortet och faktureringsadressen i Brave-kontot så går det snabbare att betala nästa gång</translation>
++<translation id="563788859854213593">Spara kortet och faktureringsadressen i Kahf-kontot så går det snabbare att betala nästa gång</translation>
+ <translation id="454441086898495030">Vill du lägga till i <ph name="SET"/>?</translation>
+ <translation id="4546730006268514143">Tidsgränsen för överföringen överskreds</translation>
+ <translation id="455113658016510503">A9</translation>
+@@ -2023,19 +2023,19 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="4819347708020428563">Vill du redigera kommentarer i standardvyn?</translation>
+ <translation id="4822493756793346865">Normalpriset baseras på butiker på webben under de senaste 90 dagarna.</translation>
+ <translation id="4822922322149719535">Granska felloggen</translation>
+-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du snabbt vill skapa ett nytt Brave-kalkylark</translation>
++<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du snabbt vill skapa ett nytt Kahf-kalkylark</translation>
+ <translation id="4826588772550366629">kamera och mikrofon</translation>
+ <translation id="4827283332383516812">Radera kort</translation>
+ <translation id="4831993743164297314">Papper för bildsättning</translation>
+ <translation id="483241715238664915">Aktivera varningar</translation>
+ <translation id="4832961164064927107">Grillning</translation>
+ <translation id="4834250788637067901">Betalningsmetoder, erbjudanden och adresser med Google Pay</translation>
+-<translation id="246176083348620700">Visa Brave-historiken</translation>
++<translation id="246176083348620700">Visa Kahf-historiken</translation>
+ <translation id="484462545196658690">Auto</translation>
+ <translation id="484671803914931257">Få rabatt på <ph name="MERCHANT_NAME"/> med mera</translation>
+ <translation id="484988093836683706">Använd enhetsupplåsning</translation>
+ <translation id="4850886885716139402">Visa</translation>
+-<translation id="3418609161696289726">Skapa en ny anteckning i Brave Keep snabbt</translation>
++<translation id="3418609161696289726">Skapa en ny anteckning i Kahf Keep snabbt</translation>
+ <translation id="4855395119669662878">Administratören börjar ladda upp dina filer till <ph name="CLOUD_PROVIDER"/> kl. <ph name="DATE_TIME"/>. Håll enheten ansluten tills filöverföringen är klar. Under uppladdningen kan du bara läsa lokala filer.</translation>
+ <translation id="485902285759009870">Koden verifieras …</translation>
+ <translation id="4860260582253463350">Vi måste verifiera din identitet för att du ska kunna fortsätta till YouTube. Du får de inställningar som din förälder eller vårdnadshavare har ställt in i Family Link.</translation>
+@@ -2133,11 +2133,11 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="5018422839182700155">Det går inte att öppna den här sidan</translation>
+ <translation id="5018802455907704660">16 x 20 tum</translation>
+ <translation id="5019198164206649151">Säkerhetskopian har dålig status</translation>
+-<translation id="2013297594801702701">Du kan använda sparade adresser i Braves produkter. Den här adressen sparas i ditt Brave-konto, <ph name="USER_EMAIL"/>.</translation>
++<translation id="2013297594801702701">Du kan använda sparade adresser i Kahfs produkter. Den här adressen sparas i ditt Kahf-konto, <ph name="USER_EMAIL"/>.</translation>
+ <translation id="5019952743397118625">Principen <ph name="EXTENSION_DEVELOPER_MODE_SETTINGS_POLICY_NAME"/> har ställts in. <ph name="DEVELOPER_TOOLS_AVAILABILITY_POLICY_NAME"/> styr inte tillgängligheten för utvecklarläget på sidan för tillägg.</translation>
+-<translation id="6516968977334148048">Bevaka priser med Brave</translation>
++<translation id="6516968977334148048">Bevaka priser med Kahf</translation>
+ <translation id="5023310440958281426">Kontrollera administratörsprinciperna</translation>
+-<translation id="7993217516063481081">Betala snabbare med ett sparat kort. Kortuppgifterna krypteras i ditt Brave-konto.</translation>
++<translation id="7993217516063481081">Betala snabbare med ett sparat kort. Kortuppgifterna krypteras i ditt Kahf-konto.</translation>
+ <translation id="5030338702439866405">Utfärdat av</translation>
+ <translation id="503069730517007720">Ett rotcertifikat för <ph name="SOFTWARE_NAME"/> krävs men har inte installerats. IT-administratören bör granska konfigurationsanvisningarna för <ph name="SOFTWARE_NAME"/> och åtgärda problemet. <ph name="FURTHER_EXPLANATION"/></translation>
+ <translation id="5034930251282078640">Vill du lägga till i jämförelsen?</translation>
+@@ -2170,11 +2170,11 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="5088142053160410913">Meddelande till operatören</translation>
+ <translation id="5090647584136241764">Lägg till flikar med liknande produkter för att enkelt jämföra egenskaper som är viktiga för dig</translation>
+ <translation id="5093232627742069661">Z-falsning</translation>
+-<translation id="4906192414477726331">Servern kunde inte bevisa att den är <ph name="DOMAIN"/> eftersom Brave inte litar på dess säkerhetscertifikat. Detta kan orsakas av en felaktig konfigurering eller att någon spärrar anslutningen.</translation>
++<translation id="4906192414477726331">Servern kunde inte bevisa att den är <ph name="DOMAIN"/> eftersom Kahf inte litar på dess säkerhetscertifikat. Detta kan orsakas av en felaktig konfigurering eller att någon spärrar anslutningen.</translation>
+ <translation id="5097099694988056070">Enhetsstatistik, till exempel processor- och RAM-användning</translation>
+ <translation id="5097468150760963273">27 x 39 tum</translation>
+ <translation id="5097501891273180634">A2</translation>
+-<translation id="1643886086471238725">Brave behöver åtkomst till enhetens <ph name="PERMISSION"/></translation>
++<translation id="1643886086471238725">Kahf behöver åtkomst till enhetens <ph name="PERMISSION"/></translation>
+ <translation id="510644072453496781">Kartong (slut)</translation>
+ <translation id="5108881358339761672">Webbplatsen är inte säker</translation>
+ <translation id="5109892411553231226">Hantera betalningsmetoder</translation>
+@@ -2346,7 +2346,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="5425082381151187189">Heminredning</translation>
+ <translation id="5426179911063097041"><ph name="SITE"/> vill skicka aviseringar</translation>
+ <translation id="5430298929874300616">Ta bort bokmärke</translation>
+-<translation id="8517215617486022589">Följande sparas <ph name="BEGIN_EMPHASIS"/>inte<ph name="END_EMPHASIS"/> i Brave:
++<translation id="8517215617486022589">Följande sparas <ph name="BEGIN_EMPHASIS"/>inte<ph name="END_EMPHASIS"/> i Kahf:
+         <ph name="BEGIN_LIST"/>
+           <ph name="LIST_ITEM"/>Din webbhistorik
+           <ph name="LIST_ITEM"/>Cookies och webbplatsdata
+@@ -2422,7 +2422,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="5559311991468302423">Radera adressen</translation>
+ <translation id="5560088892362098740">Sista giltighetsdatum</translation>
+ <translation id="55635442646131152">Dokumentdisposition</translation>
+-<translation id="1702142849385752335">Ge Brave åtkomst i <ph name="LINK"/> om du vill använda platsen</translation>
++<translation id="1702142849385752335">Ge Kahf åtkomst i <ph name="LINK"/> om du vill använda platsen</translation>
+ <translation id="5565735124758917034">Aktiv</translation>
+ <translation id="5569030697349375295">Redovisnings- och ekonomimjukvara</translation>
+ <translation id="5570825185877910964">Skydda kontot</translation>
+@@ -2575,7 +2575,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="5877359070305966420">Personal/bemanning</translation>
+ <translation id="5879272455334365707">Finansiell planering och förvaltning</translation>
+ <translation id="5879989559903563723">Tillåts inte i gästläget</translation>
+-<translation id="8967688963142514142">Öppna Braves säkerhetskontroll</translation>
++<translation id="8967688963142514142">Öppna Kahfs säkerhetskontroll</translation>
+ <translation id="5884465125445718607">Kinesiskt nr 6-kuvert</translation>
+ <translation id="5886961930368713749">Skicka feedback för Jämför</translation>
+ <translation id="5887400589839399685">Kortet har sparats</translation>
+@@ -2631,10 +2631,10 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="5989320800837274978">Varken fasta proxyservrar eller en webbadress med PAC-skript har angetts.</translation>
+ <translation id="5992691462791905444">Förskjuten Z-falsning</translation>
+ <translation id="5992805036496113940">Se vilken information som används för att visa annonser</translation>
+-<translation id="7409510288691071929">Hantera uppgifter, integritet och säkerhet i Brave-kontot</translation>
++<translation id="7409510288691071929">Hantera uppgifter, integritet och säkerhet i Kahf-kontot</translation>
+ <translation id="5996255674476750320">Fordonsmässor</translation>
+-<translation id="3494641719937626561">Lösenordet som du precis använde har läckt ut vid ett dataintrång. Du rekommenderas av Brave Lösenordshantering att byta det nu och se över dina sparade lösenord för att skydda dina konton.</translation>
+-<translation id="4496834749307444910">Brave har inbyggda säkerhetsfunktioner som skyddar dig när du surfar, till exempel Brave Säker webbsökning, som <ph name="BEGIN_LINK"/>nyligen hittade skadlig kod<ph name="END_LINK"/> på webbplatsen du försöker besöka.</translation>
++<translation id="3494641719937626561">Lösenordet som du precis använde har läckt ut vid ett dataintrång. Du rekommenderas av Kahf Lösenordshantering att byta det nu och se över dina sparade lösenord för att skydda dina konton.</translation>
++<translation id="4496834749307444910">Kahf har inbyggda säkerhetsfunktioner som skyddar dig när du surfar, till exempel Kahf Säker webbsökning, som <ph name="BEGIN_LINK"/>nyligen hittade skadlig kod<ph name="END_LINK"/> på webbplatsen du försöker besöka.</translation>
+ <translation id="6000528814684428358">Hårdrock och progressiv musik</translation>
+ <translation id="6000758707621254961"><ph name="RESULT_COUNT"/> resultat för <ph name="SEARCH_TEXT"/></translation>
+ <translation id="6001839398155993679">Då kör vi</translation>
+@@ -2692,7 +2692,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6080696365213338172">Du har visat innehåll med hjälp av ett certifikat från en administratör. Det innebär att data som du har angett på <ph name="DOMAIN"/> även kan visas av administratören.</translation>
+ <translation id="6085149458302186532">Etiketter (färgade)</translation>
+ <translation id="6087312102907839798">Relaterade sökningar</translation>
+-<translation id="7851017866080575588">Flikar som du raderar från Brave-historiken visas fortfarande i jämförelsetabellerna</translation>
++<translation id="7851017866080575588">Flikar som du raderar från Kahf-historiken visas fortfarande i jämförelsetabellerna</translation>
+ <translation id="6093795393556121384">Ditt kort har verifierats</translation>
+ <translation id="6094273045989040137">Annotera</translation>
+ <translation id="6094290315941448991">Skärminspelning inaktiveras av en administratörspolicy när konfidentiellt innehåll är synligt</translation>
+@@ -2704,17 +2704,17 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6107012941649240045">Utfärdat till</translation>
+ <translation id="6107924765192360631">Börja med några ord eller ett första utkast för att få skrivförslag.</translation>
+ <translation id="6108580855199168381">Certifikatinformation</translation>
+-<translation id="5539282829066374332">Din sökmotor i Brave</translation>
++<translation id="5539282829066374332">Din sökmotor i Kahf</translation>
+ <translation id="6108849843016142864">Reptiler och amfibier</translation>
+-<translation id="8233947174119245051">Det kan finnas andra former av webbhistorik i Brave-kontot på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
+-<translation id="1715537866439612181">Dina sökningar, dina bästa matchningar och deras sidinnehåll skickas till Brave. Det kan hända att mänskliga granskare granskar den här funktionen.</translation>
++<translation id="8233947174119245051">Det kan finnas andra former av webbhistorik i Kahf-kontot på <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
++<translation id="1715537866439612181">Dina sökningar, dina bästa matchningar och deras sidinnehåll skickas till Kahf. Det kan hända att mänskliga granskare granskar den här funktionen.</translation>
+ <translation id="6116338172782435947">Tillgång till text och bilder som kopierats till Urklipp</translation>
+ <translation id="6117833587752089929">Foto (satäng)</translation>
+ <translation id="6118782133429281336">Ursprungslistan är tom.</translation>
+ <translation id="612178891608320683">Vegansk matlagning</translation>
+ <translation id="6122181661879998141">framsidan av kortet</translation>
+ <translation id="6124058285696691147">Ladda ned bilagan</translation>
+-<translation id="5972135347314259717">Brave Enterprise Connectors</translation>
++<translation id="5972135347314259717">Kahf Enterprise Connectors</translation>
+ <translation id="6126565365696310362">Kinesiskt nr 2-kuvert</translation>
+ <translation id="6127379762771434464">Objektet har tagits bort</translation>
+ <translation id="6131824478727057281">plats</translation>
+@@ -2736,14 +2736,14 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6160391204859821737">Aktivera en funktion för annonsintegritet</translation>
+ <translation id="6165508094623778733">Läs mer</translation>
+ <translation id="6167577165590485365">Senaste hämtningsförsök:</translation>
+-<translation id="1057223975912338979">Brave försöker verifiera din identitet för att fylla i dina betalningsuppgifter.</translation>
++<translation id="1057223975912338979">Kahf försöker verifiera din identitet för att fylla i dina betalningsuppgifter.</translation>
+ <translation id="6173208311907792313">Slutför köpet med Windows Hello</translation>
+ <translation id="6176387967264100435">Det här priset är högt</translation>
+ <translation id="6177128806592000436">Anslutningen till webbplatsen är inte säker</translation>
+ <translation id="6177531123306197852">C2-kuvert</translation>
+ <translation id="6180316780098470077">Intervall för nytt försök</translation>
+ <translation id="6182972682129119950">A4 x 5</translation>
+-<translation id="1713601041945301465">Brave begränsar automatiskt tredjepartscookies</translation>
++<translation id="1713601041945301465">Kahf begränsar automatiskt tredjepartscookies</translation>
+ <translation id="6194209731893739467">Se alla bevakade produkter här</translation>
+ <translation id="6195163219142236913">Tredjepartscookies är begränsade</translation>
+ <translation id="6195371403461054755">Geologi</translation>
+@@ -2757,15 +2757,15 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6215936431492593050">Metall (satäng)</translation>
+ <translation id="6217950634729714357">Köks- och matsalsmöbler</translation>
+ <translation id="6218305986815100395">Det går inte att aktivera det virtuella kortet</translation>
+-<translation id="8385639954311581596">Vill du ta bort adressen från Brave?</translation>
++<translation id="8385639954311581596">Vill du ta bort adressen från Kahf?</translation>
+ <translation id="622039917539443112">Parallellfalsning</translation>
+ <translation id="6221286101741304627">Avsluta helskärmsläget genom att trycka på |<ph name="ACCELERATOR"/>|</translation>
+-<translation id="5286511760116495417">Vill du spara det här kortet i Brave-kontot?</translation>
++<translation id="5286511760116495417">Vill du spara det här kortet i Kahf-kontot?</translation>
+ <translation id="6221892641068781024">Förenklad visning</translation>
+ <translation id="6222527803348563979">Brevpapper</translation>
+ <translation id="62231116988543150">Kunna installera webbappar</translation>
+ <translation id="6224281071334553713">Ädelstenar och smycken</translation>
+-<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill anpassa tillgänglighetsverktygen i Brave-inställningarna</translation>
++<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill anpassa tillgänglighetsverktygen i Kahf-inställningarna</translation>
+ <translation id="6228346913624365233">Lyxfordon</translation>
+ <translation id="6229196330202833460">Streaming av film och tv</translation>
+ <translation id="6234122620015464377">Beskär efter varje dokument</translation>
+@@ -2773,17 +2773,17 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6236290670123303279">Hantera inställningar</translation>
+ <translation id="623825323736974198">Hantera webbplatser som alltid är aktiva och som inte minne frigörs från</translation>
+ <translation id="6240447795304464094">Google Pay-logotyp</translation>
+-<translation id="4174528239215311406">Om du vill använda Brave Lösenordshantering med operativsystemet ska du starta om Brave och tillåta åtkomst till datorns lösenordshanterare. Flikarna öppnas igen när du har startat om enheten.</translation>
++<translation id="4174528239215311406">Om du vill använda Kahf Lösenordshantering med operativsystemet ska du starta om Kahf och tillåta åtkomst till datorns lösenordshanterare. Flikarna öppnas igen när du har startat om enheten.</translation>
+ <translation id="6241121617266208201">Dölj förslag</translation>
+ <translation id="624499991300733384">Sammanställningstjänst för utskrift</translation>
+ <translation id="6246316216123107851"><ph name="NUM_DAYS"/> dagar sedan</translation>
+ <translation id="6246868321321344665">Organisationen kan se webbinformation, till exempel lösenord och historik, i både jobbprofiler och personliga profiler</translation>
+ <translation id="6250932670816326647">Bad- och kroppsprodukter</translation>
+ <translation id="6251906504834538140">{0,plural, =1{Filen har blockerats från att flyttas}other{<ph name="FILE_COUNT"/> filer har blockerats från att flyttas}}</translation>
+-<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera filer som laddats ned i Brave</translation>
++<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera filer som laddats ned i Kahf</translation>
+ <translation id="6254436959401408446">Det finns inte tillräckligt med minne för att öppna den här sidan</translation>
+ <translation id="625463612687472648">Dra tillbaka behörigheten</translation>
+-<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Visa <ph name="FINANCIAL_ACCOUNT_TYPES"/> som alternativ när du gör köp i Brave}other{Visa <ph name="FINANCIAL_ACCOUNT_TYPES"/> som alternativ när du gör köp i Brave}}</translation>
++<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Visa <ph name="FINANCIAL_ACCOUNT_TYPES"/> som alternativ när du gör köp i Kahf}other{Visa <ph name="FINANCIAL_ACCOUNT_TYPES"/> som alternativ när du gör köp i Kahf}}</translation>
+ <translation id="6259156558325130047">&amp;Gör om Ändra ordning</translation>
+ <translation id="6263376278284652872">Bokmärken för <ph name="DOMAIN"/></translation>
+ <translation id="6264376385120300461">Ladda ned ändå</translation>
+@@ -2819,11 +2819,11 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6311410654831092784">Kartongark</translation>
+ <translation id="6312113039770857350">Webbsidan är inte tillgänglig</translation>
+ <translation id="6316110367871394043">Filuppladdningen till <ph name="CLOUD_PROVIDER"/> har pausats</translation>
+-<translation id="1413891145337537586">Nyhet: Family Link-inställningar för Brave gäller här</translation>
++<translation id="1413891145337537586">Nyhet: Family Link-inställningar för Kahf gäller här</translation>
+ <translation id="63172326633386613">Hantera tillgänglighetsinställningar</translation>
+ <translation id="6321917430147971392">Kontrollera DNS-inställningarna</translation>
+ <translation id="6322182122604171028">Det gick inte att använda Windows Hello</translation>
+-<translation id="7962450223988560278">Ställ in Brave som standardwebbläsare i systeminställningarna för iOS</translation>
++<translation id="7962450223988560278">Ställ in Kahf som standardwebbläsare i systeminställningarna för iOS</translation>
+ <translation id="6328639280570009161">Prova att inaktivera nätverksförslag</translation>
+ <translation id="6328784461820205019">Anslutningen är inte privat eller &lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt; eller &lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt; eller &lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt; eller &lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;eller SSL-certifikatfel</translation>
+ <translation id="6335029926534404762">Sportskor</translation>
+@@ -2874,7 +2874,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="640163077447496506">Löper ut i dag</translation>
+ <translation id="6402537308870515461">Granskning krävs innan du flyttar</translation>
+ <translation id="6403167778944553">Sovrum och badrum</translation>
+-<translation id="1939189437759050709">Fliktitlar och webbadresser för sidor som du lägger till i tabellen skickas till Brave, sparas i ditt konto <ph name="EMAIL"/> och kan ses av mänskliga granskare för att förbättra funktionen.</translation>
++<translation id="1939189437759050709">Fliktitlar och webbadresser för sidor som du lägger till i tabellen skickas till Kahf, sparas i ditt konto <ph name="EMAIL"/> och kan ses av mänskliga granskare för att förbättra funktionen.</translation>
+ <translation id="6404511346730675251">Redigera bokmärke</translation>
+ <translation id="6405181733356710802">Vill du fortsätta till <ph name="APP_NAME"/>?</translation>
+ <translation id="6410264514553301377">Ange utgångsdatum och CVC-kod för <ph name="CREDIT_CARD"/></translation>
+@@ -2943,11 +2943,11 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="65203098586853226">Översätter <ph name="SOURCE"/> till <ph name="TARGET"/></translation>
+ <translation id="6521745193039995384">Inte aktiv</translation>
+ <translation id="6522682797352430154">Klassisk musik</translation>
+-<translation id="7379829935006425840">Knappen Hantera tillgänglighetsinställningar: aktivera om du vill anpassa tillgänglighetsverktygen i Brave-inställningarna</translation>
++<translation id="7379829935006425840">Knappen Hantera tillgänglighetsinställningar: aktivera om du vill anpassa tillgänglighetsverktygen i Kahf-inställningarna</translation>
+ <translation id="6527049834925947126">Livsmedelsproduktion</translation>
+ <translation id="6529173248185917884">Sjunde rullen</translation>
+ <translation id="6529602333819889595">&amp;Gör om Ta bort</translation>
+-<translation id="4126692285908824778">Kortet sparas i Brave-kontot så att du kan använda det i Braves tjänster.</translation>
++<translation id="4126692285908824778">Kortet sparas i Kahf-kontot så att du kan använda det i Kahfs tjänster.</translation>
+ <translation id="6536221421038631327">Om du tar bort en Passpoint-prenumeration från <ph name="DEVICE_TYPE"/> tas kopplade nätverk också bort. Kontakta <ph name="FRIENDLY_NAME"/> om du vill göra ändringar i prenumerationen. <ph name="LEARN_MORE"/></translation>
+ <translation id="653801826293432362">Aktivera synkronisering om du vill se jämförelsetabeller</translation>
+ <translation id="6539092367496845964">Något gick fel. Försök igen senare.</translation>
+@@ -2977,26 +2977,26 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6597665340361269064">90 grader</translation>
+ <translation id="6598976221101665070">Drama</translation>
+ <translation id="6599642189720630047">Bevakade produkter</translation>
+-<translation id="5976895887103591798">Brave blockerar webbplatser från att spåra dig med hjälp av tredjepartscookies när du surfar.
++<translation id="5976895887103591798">Kahf blockerar webbplatser från att spåra dig med hjälp av tredjepartscookies när du surfar.
+             <ph name="NEW_LINE"/>Om webbplatsfunktionerna inte fungerar <ph name="START_LINK"/>kan du testa att tillfälligt tillåta tredjepartscookies<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">handspårning</translation>
+-<translation id="5887670611153282204">Läs mer om din sökmotor i Brave</translation>
++<translation id="5887670611153282204">Läs mer om din sökmotor i Kahf</translation>
+ <translation id="6615297766614333076">Utmatningsfack 2</translation>
+ <translation id="6619496928666593220">IBAN har inte fyllts i</translation>
+ <translation id="6624427990725312378">Kontaktuppgifter</translation>
+ <translation id="6628463337424475685"><ph name="ENGINE"/> Sök</translation>
+ <translation id="6629652037942826935">Lyxresor</translation>
+ <translation id="6630043285902923878">Söker efter USB-enheter …</translation>
+-<translation id="4945711024178085608">Knappen Hantera inställningar för Brave: aktivera om du vill öppna Brave-inställningarna</translation>
++<translation id="4945711024178085608">Knappen Hantera inställningar för Kahf: aktivera om du vill öppna Kahf-inställningarna</translation>
+ <translation id="6631133499533814479">Australisk fotboll</translation>
+ <translation id="663260587451432563">JIS B4</translation>
+ <translation id="6633405994164965230">Datorutbildning</translation>
+ <translation id="6633476656216409494">Företags- och produktivitetsmjukvara</translation>
+-<translation id="2529518595693862042">Brave har inbyggda säkerhetsfunktioner som skyddar dig när du surfar, till exempel Brave Säker webbsökning, som <ph name="BEGIN_LINK"/>nyligen hittade skadlig kod<ph name="END_LINK"/> på webbplatsen du försöker besöka.</translation>
++<translation id="2529518595693862042">Kahf har inbyggda säkerhetsfunktioner som skyddar dig när du surfar, till exempel Kahf Säker webbsökning, som <ph name="BEGIN_LINK"/>nyligen hittade skadlig kod<ph name="END_LINK"/> på webbplatsen du försöker besöka.</translation>
+ <translation id="6643016212128521049">Rensa</translation>
+ <translation id="6645291930348198241">få åtkomst till cookies och webbplatsdata.</translation>
+ <translation id="6645478838938543427">Aviseringar om prissänkning skickas till <ph name="EMAIL_ADDRESS"/></translation>
+-<translation id="6678472970290886941">Administratören kan ändra webbläsarinställningarna på distans. Aktivitet på den här enheten kan hanteras även utanför Brave.</translation>
++<translation id="6678472970290886941">Administratören kan ändra webbläsarinställningarna på distans. Aktivitet på den här enheten kan hanteras även utanför Kahf.</translation>
+ <translation id="6648524591329069940">Serif-teckensnitt</translation>
+ <translation id="6649510485211003056">195 x 270 mm</translation>
+ <translation id="6651270836885078973">Hanteras av:</translation>
+@@ -3019,9 +3019,9 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6688775486821967877">Virtuella kort är inte tillgängliga just nu. Försök igen senare</translation>
+ <translation id="6688851075017682769">Testadress efter land</translation>
+ <translation id="6689249931105087298">Relativ med svartpunktskomprimering</translation>
+-<translation id="5406652219015697259">Brave ger möjlighet att spara dina kort i ditt Brave-konto eftersom du är inloggad. Du kan ändra detta i inställningarna. Kortinnehavarens namn hämtas från ditt konto.</translation>
++<translation id="5406652219015697259">Kahf ger möjlighet att spara dina kort i ditt Kahf-konto eftersom du är inloggad. Du kan ändra detta i inställningarna. Kortinnehavarens namn hämtas från ditt konto.</translation>
+ <translation id="6691397311652656001">Frigör mer än <ph name="REQUIRED_FREE_DISK_SPACE"/> utrymme</translation>
+-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hitta enheten i Brave-kontot</translation>
++<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hitta enheten i Kahf-kontot</translation>
+ <translation id="6695428916538794739">Action- och äventyrsfilmer</translation>
+ <translation id="6696424331653607346">Resehandböcker och reseskildringar</translation>
+ <translation id="6696575039575740785">Att installera webbappar tillåts inte</translation>
+@@ -3033,7 +3033,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6704458454638854812">Egenskapen custom_size har angetts och namnet förväntas vara custom.</translation>
+ <translation id="6706005862292023715">Gardiner och fönstertillbehör</translation>
+ <translation id="6706210727756204531">Omfattning</translation>
+-<translation id="1162411425302454249">Detta IBAN gick inte att spara i ditt Brave-konto. Det har sparats i Brave på den här enheten i stället.</translation>
++<translation id="1162411425302454249">Detta IBAN gick inte att spara i ditt Kahf-konto. Det har sparats i Kahf på den här enheten i stället.</translation>
+ <translation id="6709133671862442373">Nyheter</translation>
+ <translation id="6710213216561001401">Föregående</translation>
+ <translation id="6710594484020273272">&lt;Ange sökterm&gt;</translation>
+@@ -3066,10 +3066,10 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6767985426384634228">Vill du uppdatera adressen?</translation>
+ <translation id="6770747695101757579">Papper (bomull)</translation>
+ <translation id="677257480647123231">Säkerhet för barn på internet</translation>
+-<translation id="3576010969994131987">Fortsätt med ditt Brave-konto om du vill använda YouTube</translation>
++<translation id="3576010969994131987">Fortsätt med ditt Kahf-konto om du vill använda YouTube</translation>
+ <translation id="6775759552199460396">JIS B2</translation>
+ <translation id="6777088782163649345">Använd YouTube med din förälders val</translation>
+-<translation id="4302311572898487420">Brave Lösenordshantering behöver åtkomst till MacOS-nyckelringen</translation>
++<translation id="4302311572898487420">Kahf Lösenordshantering behöver åtkomst till MacOS-nyckelringen</translation>
+ <translation id="6782656837469339439">Utgångsår</translation>
+ <translation id="6786145470008421571">Kuvert, 6 x 9 tum</translation>
+ <translation id="67862343314499040">Violett</translation>
+@@ -3103,7 +3103,7 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6841864657731852591">Djuptryckscylinder</translation>
+ <translation id="6842196666980060516">184 x 260 mm</translation>
+ <translation id="6844998850832008753">Handspårning tillåts den här gången</translation>
+-<translation id="976643339176907534">Knappen Säkerhetsinställningar: aktivera om du vill hantera Säker webbsökning med mera i inställningarna för Brave</translation>
++<translation id="976643339176907534">Knappen Säkerhetsinställningar: aktivera om du vill hantera Säker webbsökning med mera i inställningarna för Kahf</translation>
+ <translation id="6852204201400771460">Vill du läsa in appen igen?</translation>
+ <translation id="6857776781123259569">Hantera lösenord …</translation>
+ <translation id="6858034839887287663">A2 x 4</translation>
+@@ -3116,13 +3116,13 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="6873456682041376666">Övre fack</translation>
+ <translation id="6874604403660855544">&amp;Gör om Lägg till</translation>
+ <translation id="6880941331070119097">Högprisalternativ</translation>
+-<translation id="5856252669085142737">Skapa snabbt ett nytt Brave-dokument</translation>
++<translation id="5856252669085142737">Skapa snabbt ett nytt Kahf-dokument</translation>
+ <translation id="6882210908253838664">Om en webbplats inte fungerar kan du testa att ge den tillfällig behörighet att använda tredjepartscookies. <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
+ <translation id="6882418526420053414"><ph name="SITE"/> har inte stöd för en säker anslutning</translation>
+ <translation id="6883221904761970440">Ett arbetsblad för autentisering av användaruppgifter för säker betalning har stängts</translation>
+ <translation id="6884662655240309489">Storlek 1</translation>
+ <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/>, <ph name="SHORT_URL"/></translation>
+-<translation id="7265969755975834932">Brave har förenklat sidan så att den ska bli lättare att läsa. Brave hämtade den ursprungliga sidan via en osäker anslutning.</translation>
++<translation id="7265969755975834932">Kahf har förenklat sidan så att den ska bli lättare att läsa. Kahf hämtade den ursprungliga sidan via en osäker anslutning.</translation>
+ <translation id="6890443033788248019">Vill du tillåta plats?</translation>
+ <translation id="6890531741535756070">Du har valt att verifiera dig med <ph name="DEVICE_LABEL"/> på webbplatser där <ph name="PROVIDER_ORIGIN"/> används. Den här leverantören kan ha lagrat uppgifter om din betalningsmetod som du kan <ph name="BEGIN_LINK"/>begära borttagning av<ph name="END_LINK"/>.</translation>
+ <translation id="6890956352250146925">Alternativ för cookies och webbplatsdata</translation>
+@@ -3137,21 +3137,21 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="691024665142758461">Hämta flera filer</translation>
+ <translation id="6915804003454593391">Användare:</translation>
+ <translation id="6916193791494646625">Ange anledning till nedladdning (obligatoriskt)</translation>
+-<translation id="6917795328362592458">Lösenordet som du precis använde har läckt ut vid ett dataintrång. Du rekommenderas av Brave Lösenordshantering att se över dina sparade lösenord.</translation>
++<translation id="6917795328362592458">Lösenordet som du precis använde har läckt ut vid ett dataintrång. Du rekommenderas av Kahf Lösenordshantering att se över dina sparade lösenord.</translation>
+ <translation id="6921197121276419421">Att installera webbappar tillåts</translation>
+ <translation id="6924013822850225188">Välj om du vill se dina kortförmåner i kassan (bankvillkor gäller)</translation>
+ <translation id="6925267999184670015">Nordamerikansk B+</translation>
+ <translation id="6926216138694948720">Kroppskonst</translation>
+ <translation id="692638818576287323">Yrkesfordon</translation>
+-<translation id="6090573860187511325"><ph name="BEGIN_BOLD"/>Med standardsökmotorn kan du söka på webben och få tillgång till Brave-funktioner<ph name="END_BOLD"/>, som att söka i adressfältet och från bilder på webbsidor. Vissa funktioner kanske inte är tillgängliga om sökmotorn inte har stöd för dem.</translation>
+-<translation id="6722453239914327220">Det här namnet har hämtats från Brave-kontot</translation>
++<translation id="6090573860187511325"><ph name="BEGIN_BOLD"/>Med standardsökmotorn kan du söka på webben och få tillgång till Kahf-funktioner<ph name="END_BOLD"/>, som att söka i adressfältet och från bilder på webbsidor. Vissa funktioner kanske inte är tillgängliga om sökmotorn inte har stöd för dem.</translation>
++<translation id="6722453239914327220">Det här namnet har hämtats från Kahf-kontot</translation>
+ <translation id="6935082727755903526">Jobb inom redovisning och finans</translation>
+ <translation id="6935179587384421592"><ph name="SIZE"/>. Vissa webbplatser kan läsas in långsammare nästa gång du besöker dem.</translation>
+ <translation id="6936976777388162184">Det här är en paketerad enhet som inte kan registreras för kiosk- och skyltuppgraderingar.</translation>
+ <translation id="6944557544071529399">Strategispel</translation>
+ <translation id="6944692733090228304">Du har angett ditt lösenord på en webbplats som inte hanteras av <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/>. Skydda kontot genom att inte återanvända lösenordet i andra appar och webbplatser.</translation>
+ <translation id="6945221475159498467">Välj</translation>
+-<translation id="9000864348890316168">Söka på webben i Brave</translation>
++<translation id="9000864348890316168">Söka på webben i Kahf</translation>
+ <translation id="6948051842255602737">Spelet är slut, du fick <ph name="SCORE"/> poäng.</translation>
+ <translation id="6948701128805548767">Välj en adress för att visa alternativ för utlämning och krav</translation>
+ <translation id="6948874830249067134">A1 x 3</translation>
+@@ -3173,16 +3173,16 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="696703987787944103">Perceptuell</translation>
+ <translation id="6967851206780867018">1 fil blockerades på grund av innehåll</translation>
+ <translation id="6970885655016700774">Tyg (arkiv)</translation>
+-<translation id="8485851762575764192">Skapa en ny Brave-presentation i Presentationer snabbt</translation>
++<translation id="8485851762575764192">Skapa en ny Kahf-presentation i Presentationer snabbt</translation>
+ <translation id="6972629891077993081">HID-enheter</translation>
+ <translation id="6973656660372572881">Både fasta proxyservrar och en webbadress för PAC-skript anges.</translation>
+ <translation id="6973988895180423160">3,5 x 5 tum</translation>
+ <translation id="6978121630131642226">Sökmotorer</translation>
+ <translation id="6978236010531171013">Dela ändå</translation>
+-<translation id="8974669348014288088">Om du delar den här enheten kan du bli ombedd att verifiera din identitet i Brave varje gång du betalar med autofyll</translation>
++<translation id="8974669348014288088">Om du delar den här enheten kan du bli ombedd att verifiera din identitet i Kahf varje gång du betalar med autofyll</translation>
+ <translation id="6979158407327259162">Google Drive</translation>
+ <translation id="6979440798594660689">Ljud av (standard)</translation>
+-<translation id="6984270784814146224">Bild utan etikett. Extraherar text med Braves AI</translation>
++<translation id="6984270784814146224">Bild utan etikett. Extraherar text med Kahfs AI</translation>
+ <translation id="6987806006823772670">Kuvert (gummerat)</translation>
+ <translation id="6989256887001961296">Det här innehållet har blockerats.</translation>
+ <translation id="6989763994942163495">Visa avancerade inställningar ...</translation>
+@@ -3199,14 +3199,14 @@ Annars blockeras detta av integritetsinställningarna. Om du tillåter detta kan
+ <translation id="7014741021609395734">Zoomnivå</translation>
+ <translation id="7016992613359344582">Debiteringen kan göras en gång eller återkommande och det behöver inte framgå tydligt att detta händer.</translation>
+ <translation id="701757816833614688">Konst- och formgivningsutbildning</translation>
+-<translation id="8683151724374457021">Den här webbplatsen avgör vad du gillar och föreslår sedan annonser till andra webbplatser. Webbplatsen hämtar dessutom dina annonsämnen från Brave för att visa mer relevanta annonser för dig.</translation>
++<translation id="8683151724374457021">Den här webbplatsen avgör vad du gillar och föreslår sedan annonser till andra webbplatser. Webbplatsen hämtar dessutom dina annonsämnen från Kahf för att visa mer relevanta annonser för dig.</translation>
+ <translation id="7023162328967545559">Varning från administratören</translation>
+-<translation id="7613812024276037086">Brave har inbyggda säkerhetsfunktioner som skyddar dig när du surfar, till exempel Brave Säker webbsökning, som <ph name="BEGIN_LINK"/>nyligen hittade nätfiske<ph name="END_LINK"/> på webbplatsen du försöker besöka. Webbplatser för nätfiske imiterar andra webbplatser i syfte att lura dig.<ph name="NEW_LINE"/>Även webbplatser som vanligtvis är säkra utsätts ibland för angripare. <ph name="BEGIN_ERROR_LINK"/>Kontakta oss<ph name="END_ERROR_LINK"/> om du anser att detta är ett misstag och att webbplatsen inte utgör en fara.</translation>
++<translation id="7613812024276037086">Kahf har inbyggda säkerhetsfunktioner som skyddar dig när du surfar, till exempel Kahf Säker webbsökning, som <ph name="BEGIN_LINK"/>nyligen hittade nätfiske<ph name="END_LINK"/> på webbplatsen du försöker besöka. Webbplatser för nätfiske imiterar andra webbplatser i syfte att lura dig.<ph name="NEW_LINE"/>Även webbplatser som vanligtvis är säkra utsätts ibland för angripare. <ph name="BEGIN_ERROR_LINK"/>Kontakta oss<ph name="END_ERROR_LINK"/> om du anser att detta är ett misstag och att webbplatsen inte utgör en fara.</translation>
+ <translation id="7029809446516969842">Lösenord</translation>
+ <translation id="7030164307377592766">ändra inställningarna för att fylla i betalningsmetoder</translation>
+ <translation id="7031646650991750659">Vilka appar från Google Play som du har installerat</translation>
+ <translation id="7035705295266423040">Din bank vill verifiera din identitet</translation>
+-<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera Brave-kontots integritetsinställningar</translation>
++<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill hantera Kahf-kontots integritetsinställningar</translation>
+ <translation id="7042616127917168121">Finjustera resultatet</translation>
+ <translation id="7043552168914147882">Flikpapper</translation>
+ <translation id="7044081119134178347">Kameran tillåts den här gången</translation>
+@@ -3365,8 +3365,8 @@ Mer information.
+ <translation id="7353601530677266744">Kommandorad</translation>
+ <translation id="7356678400607112844">Besöktes senast</translation>
+ <translation id="7359588939039777303">Annonser blockeras.</translation>
+-<translation id="7308957539693927108">Om Brave hittar tillgängliga rabatter visas de i kassan</translation>
+-<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill lägga till och hantera adresser i inställningarna för Brave</translation>
++<translation id="7308957539693927108">Om Kahf hittar tillgängliga rabatter visas de i kassan</translation>
++<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill lägga till och hantera adresser i inställningarna för Kahf</translation>
+ <translation id="7365849542400970216">Vill du låta webbplatsen veta om du använder enheten aktivt?</translation>
+ <translation id="736592699917579616">Mat</translation>
+ <translation id="7366117520888504990">198 x 275 mm</translation>
+@@ -3375,7 +3375,7 @@ Mer information.
+ <translation id="7372526636730851647">Foto (blankt)</translation>
+ <translation id="7372973238305370288">sökresultat</translation>
+ <translation id="7374461526650987610">Protokollhanterare</translation>
+-<translation id="3898257577441589237">Det här problemet uppstår på grund av ett certifikat som du eller någon annan har installerat på enheten. Certifikatet är känt för att användas för att övervaka och fånga upp nätverkstrafik och är inte betrott i Brave. Även om det kan vara berättigat med övervakning i vissa fall, t.ex. i ett skol- eller företagsnätverk, vill vi göra dig medveten om vad som pågår även om du inte kan göra något åt det. Alla webbläsare och appar som använder internet omfattas av övervakningen.</translation>
++<translation id="3898257577441589237">Det här problemet uppstår på grund av ett certifikat som du eller någon annan har installerat på enheten. Certifikatet är känt för att användas för att övervaka och fånga upp nätverkstrafik och är inte betrott i Kahf. Även om det kan vara berättigat med övervakning i vissa fall, t.ex. i ett skol- eller företagsnätverk, vill vi göra dig medveten om vad som pågår även om du inte kan göra något åt det. Alla webbläsare och appar som använder internet omfattas av övervakningen.</translation>
+ <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Inga webbplatser tillåts}=1{1 webbplats tillåts}other{# webbplatser tillåts}}</translation>
+ <translation id="7375818412732305729">Fil bifogas</translation>
+ <translation id="7376031331622621328">Ark för handel på nedre delen av skärmen</translation>
+@@ -3404,7 +3404,7 @@ Mer information.
+       &lt;li&gt;Under &lt;strong&gt;Starttyp&lt;/strong&gt; väljer du &lt;strong&gt;Inaktiverad&lt;/strong&gt;
+       &lt;li&gt;Under &lt;strong&gt;Tjänststatus&lt;/strong&gt; klickar du på &lt;strong&gt;Stoppa&lt;/strong&gt;
+       &lt;li&gt;Klicka på &lt;strong&gt;Verkställ&lt;/strong&gt; och sedan på &lt;strong&gt;OK&lt;/strong&gt;
+-      &lt;li&gt;Besök &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;hjälpcentret för Brave&lt;/a&gt; om du vill veta mer om hur du tar bort mjukvaran från datorn permanent
++      &lt;li&gt;Besök &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;hjälpcentret för Kahf&lt;/a&gt; om du vill veta mer om hur du tar bort mjukvaran från datorn permanent
+       &lt;/ol&gt;</translation>
+ <translation id="7408613996403626141">Leksaker</translation>
+ <translation id="7410852728357935715">Casta till en enhet</translation>
+@@ -3569,14 +3569,14 @@ Mer information.
+ <translation id="767550629621587224">Förskurna flikar</translation>
+ <translation id="7675756033024037212">Scrollning och zoom tillåts inte</translation>
+ <translation id="7676643023259824263">Sök efter texten i Urklipp, <ph name="TEXT"/></translation>
+-<translation id="4628681623692678085">Öppna och hantera webbhistoriken i Brave-inställningarna</translation>
++<translation id="4628681623692678085">Öppna och hantera webbhistoriken i Kahf-inställningarna</translation>
+ <translation id="7679947978757153706">Baseboll</translation>
+ <translation id="7680990533995586733"><ph name="CARD_NETWORK_NAME"/>, <ph name="CARD_LAST_FOUR_DIGITS"/>, löper ut <ph name="CARD_EXPIRATION"/></translation>
+ <translation id="7682287625158474539">Frakt</translation>
+ <translation id="7682451652090915298">Rugby</translation>
+ <translation id="768344142657640519">Du har precis besökt</translation>
+ <translation id="7684683146428206649">Metall</translation>
+-<translation id="5626140961157260107">Knappen Radera webbinformation: aktivera om du vill radera webbhistorik, cookies, cacheminne med mera i inställningarna för Brave</translation>
++<translation id="5626140961157260107">Knappen Radera webbinformation: aktivera om du vill radera webbhistorik, cookies, cacheminne med mera i inställningarna för Kahf</translation>
+ <translation id="7684928361160505327">{0,plural, =1{<ph name="FILE_NAME"/> har blockerats på grund av en princip}other{<ph name="FILE_COUNT"/> filer har blockerats på grund av en princip}}</translation>
+ <translation id="7687186412095877299">Fyller i sparade betalningsmetoder i betalningsformulär</translation>
+ <translation id="7687305263118037187">Tidsgränsen för nytt försök överskreds</translation>
+@@ -3650,7 +3650,7 @@ Mer information.
+ <translation id="7805906048382884326">Stäng tips</translation>
+ <translation id="7810410097247356677">Spara kortet och den krypterade säkerhetskoden på enheten så går det snabbare att betala nästa gång</translation>
+ <translation id="7812922009395017822">Mir</translation>
+-<translation id="4670564340385807132">Vill du ta bort formulärförslaget från Brave?</translation>
++<translation id="4670564340385807132">Vill du ta bort formulärförslaget från Kahf?</translation>
+ <translation id="781440967107097262">Vill du dela urklipp?</translation>
+ <translation id="7814857791038398352">Microsoft OneDrive</translation>
+ <translation id="7815352264092918456">Papper (normalt)</translation>
+@@ -3683,9 +3683,9 @@ Mer information.
+ <translation id="7890748547282909375">Logga in på Microsoft OneDrive för att spara skärmbilden</translation>
+ <translation id="7894280532028510793">Om stavningen är rätt <ph name="BEGIN_LINK"/>testar du att köra nätverksdiagnostik<ph name="END_LINK"/>.</translation>
+ <translation id="7901831439558593470">Kuvert, 7 x 9 tum</translation>
+-<translation id="4362225295386962644">När du använder ett lösenord visas en varning i Brave om det har publicerats online. Under kontrollen krypteras dina lösenord och användarnamn så att varken Brave eller någon annan kan läsa dem.</translation>
++<translation id="4362225295386962644">När du använder ett lösenord visas en varning i Kahf om det har publicerats online. Under kontrollen krypteras dina lösenord och användarnamn så att varken Kahf eller någon annan kan läsa dem.</translation>
+ <translation id="7908648876066812348">Aktiverar virtuella kort</translation>
+-<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur för att öppna sidan Säkerhetskontroll i Brave-inställningarna</translation>
++<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur för att öppna sidan Säkerhetskontroll i Kahf-inställningarna</translation>
+ <translation id="791107458486222637">Gör om resultatet</translation>
+ <translation id="791551905239004656">Rita och måla</translation>
+ <translation id="7916162853251942238">Flexo-base</translation>
+@@ -3693,7 +3693,7 @@ Mer information.
+ <translation id="793209273132572360">Vill du uppdatera adressen?</translation>
+ <translation id="7932579305932748336">Beläggning</translation>
+ <translation id="79338296614623784">Ange ett giltigt telefonnummer</translation>
+-<translation id="8329449853370113380"><ph name="URL"/> vill spela upp skyddat innehåll. Enhetens identitet verifieras av Brave.</translation>
++<translation id="8329449853370113380"><ph name="URL"/> vill spela upp skyddat innehåll. Enhetens identitet verifieras av Kahf.</translation>
+ <translation id="7935318582918952113">DOM Distiller</translation>
+ <translation id="7937163678541954811">Kortets CVC-kod krypteras och sparas på din enhet så det går snabbare i kassan</translation>
+ <translation id="7937554595067888181">Upphör att gälla den <ph name="EXPIRATION_DATE_ABBR"/></translation>
+@@ -3758,7 +3758,7 @@ Mer information.
+ <translation id="8030729864112325446">Yrkes- och vidareutbildning</translation>
+ <translation id="8032546467100845887">Transparens</translation>
+ <translation id="8035152190676905274">Penna</translation>
+-<translation id="3579289742592121339">Fliktitlar och webbadresser för sidor som du lägger till i tabellen skickas till Brave</translation>
++<translation id="3579289742592121339">Fliktitlar och webbadresser för sidor som du lägger till i tabellen skickas till Kahf</translation>
+ <translation id="8037117624646282037">Vem har använt enheten nyligen</translation>
+ <translation id="8037357227543935929">Fråga (standard)</translation>
+ <translation id="803771048473350947">Arkiv</translation>
+@@ -3991,14 +3991,14 @@ Mer information:
+ <translation id="8446884382197647889">Läs mer</translation>
+ <translation id="8449155699563577224">17 x 24 tum</translation>
+ <translation id="8449836157089738489">Öppna alla i en ny flikgrupp</translation>
+-<translation id="1785963607001474601">Administratören kan göra ändringar i din profil och webbläsare på distans, analysera information om webbläsaren genom rapportering och utföra andra nödvändiga uppgifter. Aktivitet på den här enheten kan även hanteras utanför Brave.  <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
++<translation id="1785963607001474601">Administratören kan göra ändringar i din profil och webbläsare på distans, analysera information om webbläsaren genom rapportering och utföra andra nödvändiga uppgifter. Aktivitet på den här enheten kan även hanteras utanför Kahf.  <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
+ <translation id="8457125768502047971">Obestämd</translation>
+ <translation id="8458202188076138974">Letter Extra</translation>
+-<translation id="834016381901477789">Genom att fortsätta godkänner du att din exakta enhetsplats samlas in och delas med kontoinnehavaren i syfte att förhindra bedrägeri. Om du vill inaktivera Pix i Brave öppnar du <ph name="BEGIN_LINK1"/>betalningsinställningarna<ph name="END_LINK1"/></translation>
++<translation id="834016381901477789">Genom att fortsätta godkänner du att din exakta enhetsplats samlas in och delas med kontoinnehavaren i syfte att förhindra bedrägeri. Om du vill inaktivera Pix i Kahf öppnar du <ph name="BEGIN_LINK1"/>betalningsinställningarna<ph name="END_LINK1"/></translation>
+ <translation id="8460854335417802511">Aktivera</translation>
+ <translation id="8461694314515752532">Kryptera synkroniserad data med en egen lösenfras för synkronisering</translation>
+ <translation id="8466379296835108687">{COUNT,plural, =1{1 kreditkort}other{# kreditkort}}</translation>
+-<translation id="1912557825937556898">Öppna sidan Säkerhetskontroll i Brave-inställningarna</translation>
++<translation id="1912557825937556898">Öppna sidan Säkerhetskontroll i Kahf-inställningarna</translation>
+ <translation id="8468358362970107653">C3-kuvert</translation>
+ <translation id="8469428721212363950">Detaljhandel</translation>
+ <translation id="8472700501934242014">Blockerade ämnen</translation>
+@@ -4177,7 +4177,7 @@ Mer information:
+ <translation id="8813277370772331957">Påminn mig senare</translation>
+ <translation id="8814547618907885931">Se alla jämförelsetabeller</translation>
+ <translation id="8814707942599948500">C8-kuvert</translation>
+-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill uppdatera Brave i inställningarna för Brave</translation>
++<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill uppdatera Kahf i inställningarna för Kahf</translation>
+ <translation id="882338992931677877">Manuell plats</translation>
+ <translation id="8830320733681313421">Hagaki-vykort</translation>
+ <translation id="8830565333350631528">Visa filer i <ph name="CLOUD_PROVIDER"/></translation>
+@@ -4216,20 +4216,20 @@ Mer information:
+ <translation id="8891031436559779793">Du får en avisering om priset sänks på en webbplats.</translation>
+ <translation id="8891727572606052622">Ogiltigt proxyläge.</translation>
+ <translation id="8894794286471754040">Långsidan först</translation>
+-<translation id="7850375166078768069">Om du vill använda en annan autofyllningstjänst i Brave aktiverar du den i Android-inställningarna och här</translation>
+-<translation id="7192431032621242241">Fortsätt med ditt Brave-konto om du vill be om att få se det här innehållet</translation>
++<translation id="7850375166078768069">Om du vill använda en annan autofyllningstjänst i Kahf aktiverar du den i Android-inställningarna och här</translation>
++<translation id="7192431032621242241">Fortsätt med ditt Kahf-konto om du vill be om att få se det här innehållet</translation>
+ <translation id="8897428486789851669">Simning</translation>
+ <translation id="8899807382908246773">Påträngande annonser</translation>
+ <translation id="8903921497873541725">Zooma in</translation>
+ <translation id="890493561996401738">Knappen Ta bort förslag, tryck på retur om du vill ta bort förslaget, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
+ <translation id="8910898109640902752">8 × 10 tum</translation>
+-<translation id="4805806622840861220">Starta om Brave</translation>
++<translation id="4805806622840861220">Starta om Kahf</translation>
+ <translation id="8918062451146297192">CVC för virtuellt kort</translation>
+ <translation id="8919740778133505789">Sportbilar</translation>
+ <translation id="8919895429178014996">Dölj alla objekt</translation>
+ <translation id="8922013791253848639">Tillåt alltid annonser på den här webbplatsen</translation>
+ <translation id="8922734931659847428">En begränsad lista över webbadresser till sidor som du besöker där <ph name="BEGIN_LINK"/>äldre teknikhändelser<ph name="END_LINK"/> inträffar</translation>
+-<translation id="3689838371654876064">När säkerhetshändelser flaggas av Brave skickas relevant data om händelserna till administratören. Exempel på sådan data är webbadresser till sidor du besöker i Brave, webbadresser till sidor du har kopierat data från, filnamn eller metadata, webbläsar- eller flikkrascher och användarnamnet du loggar in med i webbaserade appar, på dina enheter och i Brave.</translation>
++<translation id="3689838371654876064">När säkerhetshändelser flaggas av Kahf skickas relevant data om händelserna till administratören. Exempel på sådan data är webbadresser till sidor du besöker i Kahf, webbadresser till sidor du har kopierat data från, filnamn eller metadata, webbläsar- eller flikkrascher och användarnamnet du loggar in med i webbaserade appar, på dina enheter och i Kahf.</translation>
+ <translation id="892588693504540538">Hål uppe till höger</translation>
+ <translation id="8926389886865778422">Fråga inte igen.</translation>
+ <translation id="8932102934695377596">Klockan går efter</translation>
+@@ -4293,7 +4293,7 @@ Mer information:
+ <translation id="9049981332609050619">Du försökte nå <ph name="DOMAIN"/> men servern angav ett ogiltigt certifikat.</translation>
+ <translation id="9050666287014529139">Lösenfras</translation>
+ <translation id="9051072642122229460">Kaffe- och espressobryggare</translation>
+-<translation id="104719866786855422">Vi lanserar en ny funktion för annonsintegritet som kallas annonsmätning. Brave delar bara mycket begränsad information mellan webbplatser, till exempel när en annons visades för dig, för att hjälpa webbplatser att mäta annonsernas resultat.</translation>
++<translation id="104719866786855422">Vi lanserar en ny funktion för annonsintegritet som kallas annonsmätning. Kahf delar bara mycket begränsad information mellan webbplatser, till exempel när en annons visades för dig, för att hjälpa webbplatser att mäta annonsernas resultat.</translation>
+ <translation id="9053955920216300738">Vilka webbadresser du besöker</translation>
+ <translation id="9054288282721240609">Handspårning är tillåten</translation>
+ <translation id="9056953843249698117">Butik</translation>
+@@ -4317,17 +4317,17 @@ Mer information:
+ <translation id="9090993752571911635">Internetleverantörer (ISP)</translation>
+ <translation id="9093723786115107672">Sovplagg</translation>
+ <translation id="9094544726794842788">En Gillar inte-markering öppnar ett formulär där du kan ange detaljerad feedback om varför du inte gillar dessa resultat</translation>
+-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill ställa in Brave som standardwebbläsare i systeminställningarna för iOS</translation>
++<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du vill ställa in Kahf som standardwebbläsare i systeminställningarna för iOS</translation>
+ <translation id="9101450247048146228">Använda och röra kameran (<ph name="CAMERAS_COUNT"/>)</translation>
+ <translation id="9101630580131696064">Fack 1</translation>
+-<translation id="6373940988468425649">På <ph name="SITE"/> används normalt kryptering (SSL) för att skydda din information. När Brave försökte ansluta till <ph name="SITE"/> den här gången skickade webbplatsen tillbaka ovanliga och felaktiga uppgifter. Sådant kan hända när en angripare utger sig för att vara <ph name="SITE"/> eller när anslutningen har avbrutits av en wifi-inloggningsskärm. Din information är fortfarande säker eftersom Brave avbröt anslutningen innan någon data utbyttes.</translation>
++<translation id="6373940988468425649">På <ph name="SITE"/> används normalt kryptering (SSL) för att skydda din information. När Kahf försökte ansluta till <ph name="SITE"/> den här gången skickade webbplatsen tillbaka ovanliga och felaktiga uppgifter. Sådant kan hända när en angripare utger sig för att vara <ph name="SITE"/> eller när anslutningen har avbrutits av en wifi-inloggningsskärm. Din information är fortfarande säker eftersom Kahf avbröt anslutningen innan någon data utbyttes.</translation>
+ <translation id="9107199998619088551"><ph name="MANAGER"/> hanterar din profil</translation>
+ <translation id="9107467864910557787">Din webbläsare hanteras av <ph name="MANAGER"/></translation>
+ <translation id="91108059142052966">Administratören har angett en princip som inaktiverar skärmdelning med <ph name="APPLICATION_TITLE"/> när konfidentiellt innehåll visas på skärmen</translation>
+ <translation id="9114524666733003316">Kortet kontrolleras …</translation>
+-<translation id="3582535072753734287">Den här webbläsaren hanteras inte av ett företag eller en organisation. Aktiviteter på den här enheten kan hanteras utanför Brave. <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
+-<translation id="7839260860373627374">Mer om annonser i Brave</translation>
+-<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill återuppta sökningen och se relevant aktivitet i Brave-historiken</translation>
++<translation id="3582535072753734287">Den här webbläsaren hanteras inte av ett företag eller en organisation. Aktiviteter på den här enheten kan hanteras utanför Kahf. <ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/></translation>
++<translation id="7839260860373627374">Mer om annonser i Kahf</translation>
++<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, tryck på Tabb och sedan på Retur om du vill återuppta sökningen och se relevant aktivitet i Kahf-historiken</translation>
+ <translation id="9119042192571987207">Uppladdad</translation>
+ <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> vill verifiera din identitet</translation>
+ <translation id="912327514020027767">Kjolar</translation>
+@@ -4386,33 +4386,33 @@ Mer information:
+ <translation id="9210825002219699214">Flygresor</translation>
+ <translation id="9211461151375991073">Skriv @ för att söka i <ph name="FEATURED_SEARCH_LIST"/></translation>
+ <translation id="9213433120051936369">Anpassa utseendet</translation>
+-<translation id="2206050430829841793">Ett program förhindrar att Brave ansluter till den här webbplatsen på ett säkert sätt</translation>
++<translation id="2206050430829841793">Ett program förhindrar att Kahf ansluter till den här webbplatsen på ett säkert sätt</translation>
+ <translation id="92178312226016010">Du bevakar den här produkten.</translation>
+ <translation id="9218430445555521422">Ange som standard</translation>
+ <translation id="9219103736887031265">Bilder</translation>
+-<translation id="142389341645668510">Anpassa Brave</translation>
++<translation id="142389341645668510">Anpassa Kahf</translation>
+ <translation id="9222403027701923763">Grundskola och gymnasium</translation>
+ <translation id="93020190163435405">Arbetspraktik</translation>
+ <translation id="933712198907837967">Diners Club</translation>
+ <translation id="934634059306213385">Vill du ge <ph name="APP_NAME"/>-appen behörighet att konfigurera wifi-nätverk?</translation>
+-<translation id="7486559383537872796">Du kan förlora tillgången till Brave-kontot. Du rekommenderas att ändra lösenordet nu. Du blir uppmanad att logga in.</translation>
+-<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Vilken data som används:<ph name="END_BOLD"/> Dina annonsämnen baseras på din senaste webbhistorik, en lista över webbplatser du har besökt i Brave på den här enheten.</translation>
++<translation id="7486559383537872796">Du kan förlora tillgången till Kahf-kontot. Du rekommenderas att ändra lösenordet nu. Du blir uppmanad att logga in.</translation>
++<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Vilken data som används:<ph name="END_BOLD"/> Dina annonsämnen baseras på din senaste webbhistorik, en lista över webbplatser du har besökt i Kahf på den här enheten.</translation>
+ <translation id="937885410143139026">Data har skickats till administratörskonsolen</translation>
+ <translation id="939736085109172342">Ny mapp</translation>
+ <translation id="940524522703752213">Filerna laddas upp till <ph name="CLOUD_PROVIDER"/> om <ph name="MINUTES"/> minuter</translation>
+-<translation id="6588091288231158998">Använd lösenord och nycklar som har sparats i Brave-kontot</translation>
+-<translation id="5444457503062019851">Brave blockerar webbplatser från att spåra dig med hjälp av tredjepartscookies när du surfar.</translation>
++<translation id="6588091288231158998">Använd lösenord och nycklar som har sparats i Kahf-kontot</translation>
++<translation id="5444457503062019851">Kahf blockerar webbplatser från att spåra dig med hjälp av tredjepartscookies när du surfar.</translation>
+ <translation id="945855313015696284">Kontrollera informationen nedan och radera alla ogiltiga kort</translation>
+ <translation id="94613679163347541">Vill du jämföra <ph name="CATEGORY"/>?</translation>
+-<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du snabbt vill skapa en ny webbplats i Brave Sites</translation>
+-<translation id="7776043919629791284">{COUNT,plural, =0{Brave begränsar cookies igen i dag}=1{Brave begränsar cookies igen i morgon}other{# dagar tills Brave begränsar cookies igen}}</translation>
++<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: tryck på Tabb och sedan på Retur om du snabbt vill skapa en ny webbplats i Kahf Sites</translation>
++<translation id="7776043919629791284">{COUNT,plural, =0{Kahf begränsar cookies igen i dag}=1{Kahf begränsar cookies igen i morgon}other{# dagar tills Kahf begränsar cookies igen}}</translation>
+ <translation id="949314938206378263">Du har bett att få besöka den här webbplatsen. Din förälder kan svara via Family Link.</translation>
+ <translation id="950736567201356821">Tre hål högst upp</translation>
+ <translation id="961663415146723894">Bindning längst ned</translation>
+ <translation id="961856697154696964">Radera webbinformation</translation>
+ <translation id="961930410699694996">Plats tillåts den här gången</translation>
+ <translation id="962484866189421427">Bedrägliga appar som inte gör vad de påstås göra eller insamling av data som används för att spåra dig skulle kunna installeras via innehållet. <ph name="BEGIN_LINK"/>Visa ändå<ph name="END_LINK"/></translation>
+-<translation id="776356972507701422">Enligt lagen i din region ber Brave dig att välja en standardsökmotor. Dessa sökmotorer är populära i din region och visas i slumpmässig ordning.</translation>
++<translation id="776356972507701422">Enligt lagen i din region ber Kahf dig att välja en standardsökmotor. Dessa sökmotorer är populära i din region och visas i slumpmässig ordning.</translation>
+ <translation id="963837307749850257">Alla användare</translation>
+ <translation id="964050462028070434">Hantera lösenord och nycklar …</translation>
+ <translation id="969892804517981540">Officiell version</translation>
+@@ -4447,7 +4447,7 @@ Mer information:
+ <translation id="997986563973421916">Från Google Pay</translation>
+ <translation id="8820817407110198400">Bokmärken</translation>
+ <translation id="8362995731815961365">Personen som konfigurerade datorn har valt att blockera den här webbplatsen.</translation>
+-<translation id="896703648578722320">När tillägg läggs till i Brave skickas relevant data om dessa tillägg till tredje part för analys och kan vara synlig för administratören. Datan omfattar information om tilläggen, till exempel namn, installationstid, installationskälla samt aktivitet som är kopplad till dessa tillägg (till exempel att byta flikar, kontakta webbplatser eller komma åt cookies). Denna data samlas in för tillägg som har installerats från Web Store och tillägg som inte har installerats från butiken.</translation>
++<translation id="896703648578722320">När tillägg läggs till i Kahf skickas relevant data om dessa tillägg till tredje part för analys och kan vara synlig för administratören. Datan omfattar information om tilläggen, till exempel namn, installationstid, installationskälla samt aktivitet som är kopplad till dessa tillägg (till exempel att byta flikar, kontakta webbplatser eller komma åt cookies). Denna data samlas in för tillägg som har installerats från Web Store och tillägg som inte har installerats från butiken.</translation>
+ <translation id="4075123085690634698">Öppna sidan i ett nytt inkognitofönster (⇧⌘N)</translation>
+ <translation id="2388886110302389394">Öppna sidan i ett nytt inkognitofönster (Ctrl-Skift-N)</translation>
+ <translation id="6957624206566198865">Öppna sidan på en ny inkognitoflik</translation>

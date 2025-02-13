@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_zh-CN.xtb b/components/resources/strings/brave_components_resources_zh-CN.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">连接至 bitFlyer</translation>
+ <translation id="6143701117592994599">将 Kahf 奖励连接到 bitFlyer 账户将让您获得 BAT 并从 Kahf 奖励中提取 BAT 收益。</translation>
+ <translation id="4354564238172327160">成为 Kahf 创作者！</translation>
+-<translation id="4639659520811817892">立即访问 creators.brave.com 并完成注册，从您的粉丝和关注者处获得 BAT。</translation>
++<translation id="4639659520811817892">立即访问 creators.Kahf.com 并完成注册，从您的粉丝和关注者处获得 BAT。</translation>
+ <translation id="4816455138209470435">Kahf 支持 YouTube、Twitch、Vimeo 等！</translation>
+ <translation id="7404779623219601861">将 BAT 兑换为礼品卡</translation>
+ <translation id="6215565499749144110">使用 TAP 网络，您可以将 BAT 兑换成流行的名牌礼品卡。</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">捐款已发送！</translation>
+ <translation id="7063168612616047608">感谢您支持您最喜爱的创作者</translation>
+ <translation id="1041398280582063935">分享您的支持</translation>
+-<translation id="4001190813297686107">我刚刚通过 Kahf 浏览器捐出 <ph name="AMOUNT"/>BAT！您也可以支持喜爱的创作者和网站，现在就查看相关信息：https://brave.com/rewards</translation>
++<translation id="4001190813297686107">我刚刚通过 Kahf 浏览器捐出 <ph name="AMOUNT"/>BAT！您也可以支持喜爱的创作者和网站，现在就查看相关信息：https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">发生了意外错误</translation>
+ <translation id="2605703631071131439">请重新打开捐款面板并重试。</translation>
+ <translation id="8855543392451028706">欢迎你！用户可以通过向他们捐款来支持这个内容创作者。 这是一种感谢他们制作精彩内容的方式。</translation>
+@@ -2052,7 +2052,7 @@ other {# 个来源}
+ <translation id="1093419424466417703">对 Leo 来说，此页面过于冗长。对话可能遗漏某些内容。因此 Leo 无法读取该页面内容的 <ph name="PERCENTAGE"/> 。</translation>
+ <translation id="2186990448773134544">由于 Leo 的页面过长，因此通过从页面中提取最相关的信息，对页面内容进行改进。</translation>
+ <translation id="4370698775470316661">对话时间太长，无法继续。可能有其他机型，Leo 能够在较长时间的对话中保持准确性。</translation>
+-<translation id="5719170755629028558">正在改善您在 Brave 搜索中的搜索结果...</translation>
++<translation id="5719170755629028558">正在改善您在 Kahf 搜索中的搜索结果...</translation>
+ <translation id="5794962229997281366">已改善<ph name="SEARCH_TERMS"/>的搜索结果。</translation>
+ <translation id="6291843235651817590">通用聊天工具</translation>
+ <translation id="8193130769524604031">高级聊天任务</translation>
+@@ -2262,7 +2262,7 @@ Brave 有一个帮助服务，通过过滤在 VPN 连接上进行 DNS 查询的
+ <translation id="7423206764347669977">变更设置</translation>
+ <translation id="9061845622728745852">时区：</translation>
+ <translation id="8295393906499561642">会话已过期</translation>
+-<translation id="3312623558576021182">请登录您的<ph name="BRAVE_ACCOUNT_BEGIN"/> Kahf 帐号<ph name="BRAVE_ACCOUNT_END"/>刷新您的 VPN 会话。</translation>
++<translation id="3312623558576021182">请登录您的<ph name="Kahf_ACCOUNT_BEGIN"/> Kahf 帐号<ph name="Kahf_ACCOUNT_END"/>刷新您的 VPN 会话。</translation>
+ <translation id="6021669293402055982">Kahf VPN：已断开连接</translation>
+ <translation id="7861195049821776142">Kahf VPN：正在断开连接</translation>
+ <translation id="958268166261124668">Kahf VPN：已连接</translation>

@@ -1,0 +1,19 @@
+diff a/test/filters/unit_tests.filter b/test/filters/unit_tests.filter	(rejected hunks)
+@@ -497,7 +497,7 @@
+ # This test fails because we disable kVisualQuerySuggestions
+ -CompanionUrlBuilderTest.MsbbAndPcOn
+ 
+-# This test fails because we replace WebUI chrome:// scheme with brave://
++# This test fails because we replace WebUI chrome:// scheme with kahf://
+ -ChromeURLsTest.ContainsConfigURLs
+ 
+ # These tests fail because we changed idle detection content setting to BLOCK
+@@ -604,7 +604,7 @@
+ -ThemeColorPickerHandlerTest.SetSeedColor
+ 
+ # These tests are disabled because we hide the password card in
+-# brave://settings/safetyCheck which also involves always returning a "safe"
++# kahf://settings/safetyCheck which also involves always returning a "safe"
+ # password card state
+ -All/PasswordStatusCheckServiceParameterizedCardTest.PasswordCardState/*
+ -PasswordStatusCheckServiceBaseTest.PasswordCardCheckTime

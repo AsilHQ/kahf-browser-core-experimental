@@ -85,24 +85,24 @@ InstallStatus UninstallProduct(const ModifyParams& modify_params,
        ShellUtil::QuickIsChromeRegisteredInHKLM(chrome_exe, suffix))) {
     DeleteBraveFileKeys(HKEY_LOCAL_MACHINE);
   }
-#if BUILDFLAG(ENABLE_BRAVE_VPN)
-  if (installer_state->system_install()) {
-    // TODO(bsclifton): move this to a method
-    if (!InstallServiceWorkItem::DeleteService(
-            brave_vpn::GetBraveVpnHelperServiceName(),
-            brave_vpn::GetBraveVpnHelperRegistryStoragePath(), {}, {})) {
-      LOG(WARNING) << "Failed to delete "
-                   << brave_vpn::GetBraveVpnHelperServiceName();
-    }
+// #if BUILDFLAG(ENABLE_BRAVE_VPN)
+//   if (installer_state->system_install()) {
+//     // TODO(bsclifton): move this to a method
+//     if (!InstallServiceWorkItem::DeleteService(
+//             brave_vpn::GetBraveVpnHelperServiceName(),
+//             brave_vpn::GetBraveVpnHelperRegistryStoragePath(), {}, {})) {
+//       LOG(WARNING) << "Failed to delete "
+//                    << brave_vpn::GetBraveVpnHelperServiceName();
+//     }
 
-    if (!brave_vpn::UninstallBraveWireguardService() ||
-        !brave_vpn::UninstallStatusTrayIcon()) {
-      LOG(WARNING) << "Failed to delete "
-                   << brave_vpn::GetBraveVpnWireguardServiceName();
-    }
-  }
-  brave_vpn::ras::RemoveEntry(brave_vpn::GetBraveVPNConnectionName());
-#endif
+//     if (!brave_vpn::UninstallBraveWireguardService() ||
+//         !brave_vpn::UninstallStatusTrayIcon()) {
+//       LOG(WARNING) << "Failed to delete "
+//                    << brave_vpn::GetBraveVpnWireguardServiceName();
+//     }
+//   }
+//   brave_vpn::ras::RemoveEntry(brave_vpn::GetBraveVPNConnectionName());
+// #endif
 
   return ret;
 }

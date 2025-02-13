@@ -1,10 +1,10 @@
 # ML (Machine Learning)
 
-This directory provides a consistent structure for implementing machine learning processes within Brave Core. The subdirectories are structured as:
+This directory provides a consistent structure for implementing machine learning processes within Kahf Core. The subdirectories are structured as:
 
 ## Pipeline
 
-[Pipeline](pipeline/README.md) defines the instructions for the various steps of a ML process. Often instructions are detailed by components loaded in from external Brave-sources.
+[Pipeline](pipeline/README.md) defines the instructions for the various steps of a ML process. Often instructions are detailed by components loaded in from external Kahf-sources.
 
 ## Data
 

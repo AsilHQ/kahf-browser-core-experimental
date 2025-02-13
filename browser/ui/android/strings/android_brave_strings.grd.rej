@@ -1,0 +1,445 @@
+diff a/browser/ui/android/strings/android_brave_strings.grd b/browser/ui/android/strings/android_brave_strings.grd	(rejected hunks)
+@@ -2122,66 +2122,66 @@ Are you sure you want to do this?
+     <message name="IDS_WALLET_PASSWORD_MATCH" desc="Wallet password match message">
+       Match!
+     </message>
+-    <message name="IDS_ALREADY_HAVE_A_WALLET_DESCRIPTION" desc="Brave Wallet onboarding restore description">
++    <message name="IDS_ALREADY_HAVE_A_WALLET_DESCRIPTION" desc="Kahf Wallet onboarding restore description">
+       Import your existing wallet
+     </message>
+-    <message name="IDS_UNLOCK" desc="Brave Wallet onboarding text">
++    <message name="IDS_UNLOCK" desc="Kahf Wallet onboarding text">
+       Unlock
+     </message>
+-    <message name="IDS_PASSWORD" desc="Brave Wallet onboarding text">
++    <message name="IDS_PASSWORD" desc="Kahf Wallet onboarding text">
+       Password
+     </message>
+-    <message name="IDS_ENTER_YOUR_PASSWORD" desc="Brave Wallet onboarding password hint">
++    <message name="IDS_ENTER_YOUR_PASSWORD" desc="Kahf Wallet onboarding password hint">
+       Enter your password
+     </message>
+-    <message name="IDS_ACCESSIBILITY_BIOMETRIC_UNLOCK" desc="Brave Wallet onboarding biometric image accessibility text">
++    <message name="IDS_ACCESSIBILITY_BIOMETRIC_UNLOCK" desc="Kahf Wallet onboarding biometric image accessibility text">
+       Biometric unlock
+     </message>
+-    <message name="IDS_UNLOCK_WALLET_TITLE" desc="Brave Wallet onboarding text">
++    <message name="IDS_UNLOCK_WALLET_TITLE" desc="Kahf Wallet onboarding text">
+       Unlock Wallet
+     </message>
+-    <message name="IDS_UNLOCK_WALLET_SUBTITLE" desc="Brave Wallet onboarding subtitle">
++    <message name="IDS_UNLOCK_WALLET_SUBTITLE" desc="Kahf Wallet onboarding subtitle">
+       Enter password to unlock wallet
+     </message>
+     <message name="IDS_BRAVE_SAFE_BROWSING_NO_PROTECTION_SUMMARY" desc="Summary for Safe Browsing no protection mode.">
+       Does not protect you against dangerous websites, downloads, and extensions.
+     </message>
+-    <message name="IDS_PHRASE_DOES_NOT_MATCH" desc="Brave Wallet error when phrase doesn't match">
++    <message name="IDS_PHRASE_DOES_NOT_MATCH" desc="Kahf Wallet error when phrase doesn't match">
+       Recovery phrase doesn't match
+     </message>
+-    <message name="IDS_ACCOUNT_RECOVERY_FAILED" desc="Brave Wallet text">
++    <message name="IDS_ACCOUNT_RECOVERY_FAILED" desc="Kahf Wallet text">
+       Account recovery failed. Please try again.
+     </message>
+-    <message name="IDS_MAINNET" desc="Brave Wallet network selection button text(network name)" translateable="false">
++    <message name="IDS_MAINNET" desc="Kahf Wallet network selection button text(network name)" translateable="false">
+       Ethereum Mainnet
+     </message>
+-    <message name="IDS_ACCOUNTS" desc="Brave Wallet section text">
++    <message name="IDS_ACCOUNTS" desc="Kahf Wallet section text">
+       Accounts
+     </message>
+     <!-- Stats -->
+     <message name="IDS_BRAVE_STATS_USAGE_PING_TITLE" desc="Description that shows in settings for toggling stats usage pings">
+-      Automatically send daily usage ping to Brave
++      Automatically send daily usage ping to Kahf
+     </message>
+     <message name="IDS_BRAVE_STATS_USAGE_PING_SUMMARY" desc="Description that shows under main toggle setting for usage pings">
+-      This private ping lets Brave estimate active users.
++      This private ping lets Kahf estimate active users.
+     </message>
+-    <message name="IDS_ACCOUNT_NAME" desc="Brave wallet accounts text">
++    <message name="IDS_ACCOUNT_NAME" desc="Kahf wallet accounts text">
+       Account Name
+     </message>
+-    <message name="IDS_ACCOUNT_NAME_TEXT" desc="Brave wallet accounts text">
++    <message name="IDS_ACCOUNT_NAME_TEXT" desc="Kahf wallet accounts text">
+       You can create a secondary account by importing your private key.
+     </message>
+-    <message name="IDS_IMPORT_ACCOUNT_TEXT" desc="Brave wallet accounts text">
++    <message name="IDS_IMPORT_ACCOUNT_TEXT" desc="Kahf wallet accounts text">
+       Enter, paste, or import your private key string file or JSON.
+     </message>
+-    <message name="IDS_IMPORT_TEXT" desc="Brave wallet accounts text">
++    <message name="IDS_IMPORT_TEXT" desc="Kahf wallet accounts text">
+       Import...
+     </message>
+-    <message name="IDS_DETAILS" desc="Brave wallet accounts text">
++    <message name="IDS_DETAILS" desc="Kahf wallet accounts text">
+       Details
+     </message>
+-    <message name="IDS_BRAVE_UI_BRAVE_WALLET" desc="Title for Brave Wallet Settings. [CHAR-LIMIT=27]">
+-      Brave Wallet
++    <message name="IDS_BRAVE_UI_BRAVE_WALLET" desc="Title for Kahf Wallet Settings. [CHAR-LIMIT=27]">
++      Kahf Wallet
+     </message>
+     <message name="IDS_BRAVE_WALLET_TOOLBAR_LOCK" desc="Title for brave wallet toolbar lock option.">
+       Lock
+@@ -2249,177 +2249,177 @@ Are you sure you want to do this?
+     <message name="IDS_POWERED_BY" desc="VPN text">
+       Powered by
+     </message>
+-    <message name="IDS_PLAN_TEXT_1" desc="Brave VPN plan text">
++    <message name="IDS_PLAN_TEXT_1" desc="Kahf VPN plan text">
+       Protect every app &amp; your whole device
+     </message>
+-    <message name="IDS_PLAN_TEXT_2" desc="Brave VPN plan text">
++    <message name="IDS_PLAN_TEXT_2" desc="Kahf VPN plan text">
+       Safer for home or public Wi-Fi
+     </message>
+-    <message name="IDS_PLAN_TEXT_3" desc="Brave VPN plan text">
++    <message name="IDS_PLAN_TEXT_3" desc="Kahf VPN plan text">
+       Lightning-fast, up to 100 Mbps
+     </message>
+-    <message name="IDS_PLAN_TEXT_4" desc="Brave VPN plan text">
++    <message name="IDS_PLAN_TEXT_4" desc="Kahf VPN plan text">
+       Choose your geo/country location
+     </message>
+-    <message name="IDS_PLAN_TEXT_5" desc="Brave VPN plan text">
+-      Brave never logs your activity
++    <message name="IDS_PLAN_TEXT_5" desc="Kahf VPN plan text">
++      Kahf never logs your activity
+     </message>
+-    <message name="IDS_PLAN_TEXT_6" desc="Brave VPN plan text">
++    <message name="IDS_PLAN_TEXT_6" desc="Kahf VPN plan text">
+       Protect 5 devices on 1 subscription
+     </message>
+-    <message name="IDS_VPN_PAYWALL_TEXT_1" desc="Brave VPN paywall text">
++    <message name="IDS_VPN_PAYWALL_TEXT_1" desc="Kahf VPN paywall text">
+       Extra privacy &amp; security online
+     </message>
+-    <message name="IDS_VPN_PAYWALL_TEXT_2" desc="Brave VPN paywall text">
++    <message name="IDS_VPN_PAYWALL_TEXT_2" desc="Kahf VPN paywall text">
+       Hide your IP &amp; change your location
+     </message>
+-    <message name="IDS_VPN_PAYWALL_TEXT_3" desc="Brave VPN paywall text">
++    <message name="IDS_VPN_PAYWALL_TEXT_3" desc="Kahf VPN paywall text">
+       Hundreds of servers around the world
+     </message>
+-    <message name="IDS_VPN_PAYWALL_TEXT_4" desc="Brave VPN paywall text">
++    <message name="IDS_VPN_PAYWALL_TEXT_4" desc="Kahf VPN paywall text">
+       Lightning-fast connection speeds
+     </message>
+-    <message name="IDS_VPN_PAYWALL_TEXT_5" desc="Brave VPN paywall text">
++    <message name="IDS_VPN_PAYWALL_TEXT_5" desc="Kahf VPN paywall text">
+       Protect up to 10 devices with one plan
+     </message>
+-    <message name="IDS_TRIAL_TEXT" desc="Brave VPN plan text">
++    <message name="IDS_TRIAL_TEXT" desc="Kahf VPN plan text">
+       All plans include a <ph name="TRIAL_DAYS">%1$s</ph>
+     </message>
+-    <message name="IDS_DAY_7_TRIAL_TEXT" desc="Brave VPN plan text">
++    <message name="IDS_DAY_7_TRIAL_TEXT" desc="Kahf VPN plan text">
+       free 7-day trial!
+     </message>
+-    <message name="IDS_MONTHLY_SUBSCRIPTION" desc="Brave VPN plan text">
++    <message name="IDS_MONTHLY_SUBSCRIPTION" desc="Kahf VPN plan text">
+       Monthly subscription <ph name="TRIAL_TEXT">%1$s</ph>
+     </message>
+-    <message name="IDS_YEARLY_SUBSCRIPTION" desc="Brave VPN plan text">
++    <message name="IDS_YEARLY_SUBSCRIPTION" desc="Kahf VPN plan text">
+       Yearly subscription <ph name="TRIAL_TEXT">%1$s</ph>
+     </message>
+-    <message name="IDS_RENEWS_MONTHLY" desc="Brave VPN plan text">
++    <message name="IDS_RENEWS_MONTHLY" desc="Kahf VPN plan text">
+       Renews monthly
+     </message>
+-    <message name="IDS_MONTHLY_SUBSCRIPTION_AMOUNT" desc="Brave VPN plan text">
++    <message name="IDS_MONTHLY_SUBSCRIPTION_AMOUNT" desc="Kahf VPN plan text">
+       <ph name="MONTHLY_AMOUNT">%1$s</ph> /month
+     </message>
+-    <message name="IDS_ONE_YEAR" desc="Brave VPN plan text">
++    <message name="IDS_ONE_YEAR" desc="Kahf VPN plan text">
+       One Year
+     </message>
+-    <message name="IDS_RENEW_MONTHLY_SAVE" desc="Brave VPN plan text">
++    <message name="IDS_RENEW_MONTHLY_SAVE" desc="Kahf VPN plan text">
+       Renews annually (<ph name="DISCOUNT_TEXT_START">&lt;discount_text&gt;</ph>save <ph name="PERCENTAGE_AMOUNT">%1$d</ph>%%<ph name="DISCOUNT_TEXT_END">&lt;/discount_text&gt;</ph>)
+     </message>
+-    <message name="IDS_YEARLY_SUBSCRIPTION_AMOUNT" desc="Brave VPN plan text">
++    <message name="IDS_YEARLY_SUBSCRIPTION_AMOUNT" desc="Kahf VPN plan text">
+       <ph name="YEARLY_AMOUNT">%1$s</ph> /year
+     </message>
+-    <message name="IDS_BRAVE_VPN_RENEWAL_TEXT" desc="Brave VPN plan text">
+-      Subscriptions will be charged via your Google account. Any unused portion of the free trial, if offered, is forfeited when you buy a subscription.\n\nYour subscription will renew automatically unless it is canceled at least 24 hours before the end of the current period.\n\nYou can manage your subscriptions in Settings.\n\nBy using Brave, you agree to the Terms of Use and Privacy Policy.
++    <message name="IDS_BRAVE_VPN_RENEWAL_TEXT" desc="Kahf VPN plan text">
++      Subscriptions will be charged via your Google account. Any unused portion of the free trial, if offered, is forfeited when you buy a subscription.\n\nYour subscription will renew automatically unless it is canceled at least 24 hours before the end of the current period.\n\nYou can manage your subscriptions in Settings.\n\nBy using Kahf, you agree to the Terms of Use and Privacy Policy.
+     </message>
+-    <message name="IDS_ALREADY_PURCHASED" desc="Brave subscription plan page already purchased text">
++    <message name="IDS_ALREADY_PURCHASED" desc="Kahf subscription plan page already purchased text">
+       Already purchased on brave.com?
+     </message>
+-    <message name="IDS_REFRESH_YOUR_CREDENTIALS" desc="Brave subscription plan page refresh your credentials action text">
++    <message name="IDS_REFRESH_YOUR_CREDENTIALS" desc="Kahf subscription plan page refresh your credentials action text">
+       Refresh your credentials
+     </message>
+-    <message name="IDS_TRY_FOR_FREE" desc="Brave VPN plan text">
++    <message name="IDS_TRY_FOR_FREE" desc="Kahf VPN plan text">
+       Try for FREE
+     </message>
+-    <message name="IDS_TRY_7_DAYS_FOR_FREE" desc="Brave VPN plan action text">
++    <message name="IDS_TRY_7_DAYS_FOR_FREE" desc="Kahf VPN plan action text">
+       Try 7 Days Free
+     </message>
+-    <message name="IDS_INSTALL_VPN" desc="Brave VPN plan text">
++    <message name="IDS_INSTALL_VPN" desc="Kahf VPN plan text">
+       Install VPN
+     </message>
+-    <message name="IDS_INSTALL_VPN_PROFILE" desc="Brave VPN plan text">
++    <message name="IDS_INSTALL_VPN_PROFILE" desc="Kahf VPN plan text">
+       Install VPN Profile
+     </message>
+-    <message name="IDS_BRAVE_VPN_PROFILE_TITLE" desc="Brave VPN plan text">
+-      Brave will now install a VPN profile.
++    <message name="IDS_BRAVE_VPN_PROFILE_TITLE" desc="Kahf VPN plan text">
++      Kahf will now install a VPN profile.
+     </message>
+-    <message name="IDS_BRAVE_VPN_PROFILE_TEXT" desc="Brave VPN plan text">
++    <message name="IDS_BRAVE_VPN_PROFILE_TEXT" desc="Kahf VPN plan text">
+       This profile allows the VPN to automatically connect and secure traffic across your device — in every app, all the time. This VPN connection will be encrypted and routed through Guardian's intelligent firewall to block ads and trackers.
+     </message>
+-    <message name="IDS_CONTACT_SUPPORT_VPN" desc = "Brave VPN profile text">
++    <message name="IDS_CONTACT_SUPPORT_VPN" desc = "Kahf VPN profile text">
+       Contact Technical Support
+     </message>
+-    <message name="IDS_VPN_IS_ENABLED" desc="Brave VPN profile text">
++    <message name="IDS_VPN_IS_ENABLED" desc="Kahf VPN profile text">
+       VPN is now enabled
+     </message>
+-    <message name="IDS_SOME_CONTEXT" desc="Brave VPN profile text">
++    <message name="IDS_SOME_CONTEXT" desc="Kahf VPN profile text">
+       Some context...
+     </message>
+-    <message name="IDS_SOME_CONTEXT_TEXT" desc="Brave VPN profile text">
++    <message name="IDS_SOME_CONTEXT_TEXT" desc="Kahf VPN profile text">
+       Your previous VPN connection was disconnected. To reconnect to VPN, you'll need to accept the connection request.
+ 
+ If you don't accept this request, VPN will not reconnect and your internet connection will not be secured.
+     </message>
+-    <message name="IDS_ACCEPT_CONNECTION_REQUEST" desc="Brave VPN profile text">
++    <message name="IDS_ACCEPT_CONNECTION_REQUEST" desc="Kahf VPN profile text">
+       Accept connection request
+     </message>
+-    <message name="IDS_VPN_PROFILE_CREATION_FAILED" desc="Brave VPN profile text">
++    <message name="IDS_VPN_PROFILE_CREATION_FAILED" desc="Kahf VPN profile text">
+       Vpn profile creation failed. Please try again.
+     </message>
+-    <message name="IDS_PURCHASE_TOKEN_VERIFICATION_FAILED" desc="Brave VPN profile text">
++    <message name="IDS_PURCHASE_TOKEN_VERIFICATION_FAILED" desc="Kahf VPN profile text">
+       Your subscription has expired. You can subscribe again at any time.
+     </message>
+-    <message name="IDS_SUBSCRIPTION" desc="Brave VPN settings section title">
++    <message name="IDS_SUBSCRIPTION" desc="Kahf VPN settings section title">
+       Subscription
+     </message>
+-    <message name="IDS_STATUS" desc="Brave VPN settings section text">
++    <message name="IDS_STATUS" desc="Kahf VPN settings section text">
+       Status
+     </message>
+-    <message name="IDS_EXPIRES" desc="Brave VPN settings section text">
++    <message name="IDS_EXPIRES" desc="Kahf VPN settings section text">
+       Expires
+     </message>
+-    <message name="IDS_MANAGE_SUBSCRIPTION" desc="Brave VPN settings section text">
++    <message name="IDS_MANAGE_SUBSCRIPTION" desc="Kahf VPN settings section text">
+       Manage Subscription
+     </message>
+-    <message name="IDS_SERVER" desc="Brave VPN settings section title">
++    <message name="IDS_SERVER" desc="Kahf VPN settings section title">
+       Server
+     </message>
+-    <message name="IDS_HOST" desc="Brave VPN settings section text">
++    <message name="IDS_HOST" desc="Kahf VPN settings section text">
+       Host
+     </message>
+-    <message name="IDS_CHANGE_LOCATION" desc="Brave VPN settings section text">
++    <message name="IDS_CHANGE_LOCATION" desc="Kahf VPN settings section text">
+       Location
+     </message>
+-    <message name="IDS_RESET_CONFIGURATION" desc="Brave VPN settings section text">
++    <message name="IDS_RESET_CONFIGURATION" desc="Kahf VPN settings section text">
+       Reset Configuration
+     </message>
+-    <message name="IDS_SUPPORT" desc="Brave VPN settings section text">
++    <message name="IDS_SUPPORT" desc="Kahf VPN settings section text">
+       Support
+     </message>
+-    <message name="IDS_CONTACT_TECHNICAL_SUPPORT" desc="Brave VPN settings section text">
++    <message name="IDS_CONTACT_TECHNICAL_SUPPORT" desc="Kahf VPN settings section text">
+       Contact Technical Support
+     </message>
+-    <message name="IDS_VPN_SUPPORT" desc="Brave VPN settings section text">
++    <message name="IDS_VPN_SUPPORT" desc="Kahf VPN settings section text">
+       VPN Support
+     </message>
+-    <message name="IDS_FAIL_TO_GET_SERVER_LOCATIONS" desc="Brave VPN error text">
++    <message name="IDS_FAIL_TO_GET_SERVER_LOCATIONS" desc="Kahf VPN error text">
+       Fail to get server location. Please try again later.
+     </message>
+-    <message name="IDS_VPN_HOSTNAME" desc="Brave Vpn support text">
++    <message name="IDS_VPN_HOSTNAME" desc="Kahf Vpn support text">
+       VPN Hostname
+     </message>
+-    <message name="IDS_SUBSCRIPTION_TYPE" desc="Brave Vpn support text">
++    <message name="IDS_SUBSCRIPTION_TYPE" desc="Kahf Vpn support text">
+       Subscription Type
+     </message>
+-    <message name="IDS_APP_VERSION" desc="Brave Vpn support text">
++    <message name="IDS_APP_VERSION" desc="Kahf Vpn support text">
+       App Version
+     </message>
+-    <message name="IDS_APP_RECEIPT" desc="Brave Vpn support text">
++    <message name="IDS_APP_RECEIPT" desc="Kahf Vpn support text">
+       App Receipt
+     </message>
+-    <message name="IDS_TIMEZONE" desc="Brave Vpn support text">
++    <message name="IDS_TIMEZONE" desc="Kahf Vpn support text">
+       Timezone
+     </message>
+-    <message name="IDS_NETWORK_TYPE" desc="Brave Vpn support text">
++    <message name="IDS_NETWORK_TYPE" desc="Kahf Vpn support text">
+       Network Type
+     </message>
+-    <message name="IDS_CELLULAR_CARRIER" desc="Brave Vpn support text">
++    <message name="IDS_CELLULAR_CARRIER" desc="Kahf Vpn support text">
+       Cellular Carrier
+     </message>
+-    <message name="IDS_CONTINUE_TO_EMAIL" desc="Brave Vpn support text">
++    <message name="IDS_CONTINUE_TO_EMAIL" desc="Kahf Vpn support text">
+       Continue to Email
+     </message>
+-    <message name="IDS_VPN_SUPPORT_TEXT" desc="Brave Vpn support text">
++    <message name="IDS_VPN_SUPPORT_TEXT" desc="Kahf Vpn support text">
+       Support provided with the help of the Guardian team.\n\nPlease select the information you're comfortable sharing with us.\n\nThe more information you initially share with us the easier it will be for our support staff to help you resolve your issue.
+     </message>
+     <message name="IDS_AUTOMATIC_SERVER_SELECTION_TEXT" desc="Vpn server selection text">
+@@ -2449,91 +2449,91 @@ If you don't accept this request, VPN will not reconnect and your internet conne
+     <message name="IDS_AVAILABLE_SERVERS" desc="Available servers text">
+       Available Servers
+     </message>
+-    <message name="IDS_OTHER_ISSUES" desc="Brave Vpn support text">
++    <message name="IDS_OTHER_ISSUES" desc="Kahf Vpn support text">
+       Select Issue
+     </message>
+-    <message name="IDS_CANNOT_CONNECT_TO_VPN" desc="Brave Vpn support text">
++    <message name="IDS_CANNOT_CONNECT_TO_VPN" desc="Kahf Vpn support text">
+       Cannot connect to the VPN (Other error)
+     </message>
+-    <message name="IDS_NO_INTERNET" desc="Brave Vpn support text">
++    <message name="IDS_NO_INTERNET" desc="Kahf Vpn support text">
+       No internet when connected
+     </message>
+-    <message name="IDS_SLOW_CONNECTION" desc="Brave Vpn support text">
++    <message name="IDS_SLOW_CONNECTION" desc="Kahf Vpn support text">
+       Slow connection
+     </message>
+-    <message name="IDS_WEBSITE_DOESNT_WORK" desc="Brave Vpn support text">
++    <message name="IDS_WEBSITE_DOESNT_WORK" desc="Kahf Vpn support text">
+       Website doesn't work
+     </message>
+-    <message name="IDS_OTHER" desc="Brave Vpn support text">
++    <message name="IDS_OTHER" desc="Kahf Vpn support text">
+       Other
+     </message>
+-    <message name="IDS_RESET_VPN_CONFIG_DIALOG_TITLE" desc="Brave Vpn reset configuration dialog title">
++    <message name="IDS_RESET_VPN_CONFIG_DIALOG_TITLE" desc="Kahf Vpn reset configuration dialog title">
+       Reset VPN configuration
+     </message>
+-    <message name="IDS_RESET_VPN_CONFIG_DIALOG_MESSAGE" desc="Brave Vpn reset configuration dialog message">
++    <message name="IDS_RESET_VPN_CONFIG_DIALOG_MESSAGE" desc="Kahf Vpn reset configuration dialog message">
+       Are you sure you want to reset VPN configuration?
+     </message>
+-    <message name="IDS_AUTOMATIC" desc="Brave Vpn default server location text">
++    <message name="IDS_AUTOMATIC" desc="Kahf Vpn default server location text">
+       Automatic
+     </message>
+-    <message name="IDS_VPN_CONNECT_TEXT" desc="Brave Vpn loading text">
++    <message name="IDS_VPN_CONNECT_TEXT" desc="Kahf Vpn loading text">
+       Connecting to your server. Should only take a moment...
+     </message>
+-    <message name="IDS_SUBSCRIPTION_CONSUMED" desc="Brave Vpn in app purchase message">
++    <message name="IDS_SUBSCRIPTION_CONSUMED" desc="Kahf Vpn in app purchase message">
+       Subscription successfully consumed
+     </message>
+-    <message name="IDS_FAIL_TO_AKNOWLEDGE" desc="Brave Vpn in app purchase message">
++    <message name="IDS_FAIL_TO_AKNOWLEDGE" desc="Kahf Vpn in app purchase message">
+       Failed to acknowledge purchase :
+     </message>
+-    <message name="IDS_ALREADY_SUBSCRIBED" desc="Brave Vpn in app purchase message">
++    <message name="IDS_ALREADY_SUBSCRIBED" desc="Kahf Vpn in app purchase message">
+       You are already subscribed to the subscription. Try restoring the subscription.
+     </message>
+-    <message name="IDS_ERROR_CAUSED_BY_USER" desc="Brave Vpn in app purchase message">
++    <message name="IDS_ERROR_CAUSED_BY_USER" desc="Kahf Vpn in app purchase message">
+       You've quit your subscription purchase.
+     </message>
+-    <message name="IDS_PURCHASED_FAILED" desc="Brave Vpn in app purchase message">
++    <message name="IDS_PURCHASED_FAILED" desc="Kahf Vpn in app purchase message">
+       Purchase failed. Please contact Google Play support.
+     </message>
+-    <message name="IDS_REJECT" desc="Brave crypto wallet button reject">
++    <message name="IDS_REJECT" desc="Kahf crypto wallet button reject">
+       Reject
+     </message>
+-    <message name="IDS_APPROVE" desc="Brave crypto wallet button approve">
++    <message name="IDS_APPROVE" desc="Kahf crypto wallet button approve">
+       Approve
+     </message>
+-    <message name="IDS_GAS_FEE" desc="Brave crypto wallet gas fee information">
++    <message name="IDS_GAS_FEE" desc="Kahf crypto wallet gas fee information">
+       Gas Fee
+     </message>
+-    <message name="IDS_TOTAL" desc="Brave crypto wallet total amount for a transaction">
++    <message name="IDS_TOTAL" desc="Kahf crypto wallet total amount for a transaction">
+       Total
+     </message>
+-    <message name="IDS_AMOUNT_PLUS_GAS" desc="Brave crypto wallet total amount plus gas cost for a transaction">
++    <message name="IDS_AMOUNT_PLUS_GAS" desc="Kahf crypto wallet total amount plus gas cost for a transaction">
+       Amount + Gas
+     </message>
+     <message name="IDS_BRAVE_WALLET_CONFIRM_TRANSACTION_AMOUNT_FEE" desc="Confirm transaction panel total fee label">
+       Amount + fee
+     </message>
+-    <message name="IDS_TRANSACTION" desc="Brave crypto wallet transaction title">
++    <message name="IDS_TRANSACTION" desc="Kahf crypto wallet transaction title">
+       Transaction
+     </message>
+-    <message name="IDS_BRAVE_WALLET_ADVANCED_SETTINGS" desc="Brave crypto wallet transaction setting to change nonce">
++    <message name="IDS_BRAVE_WALLET_ADVANCED_SETTINGS" desc="Kahf crypto wallet transaction setting to change nonce">
+       Advanced Settings
+     </message>
+-    <message name="IDS_BRAVE_WALLET_NONCE_LABEL" desc="Brave crypto wallet nonce label">
++    <message name="IDS_BRAVE_WALLET_NONCE_LABEL" desc="Kahf crypto wallet nonce label">
+       Nonce
+     </message>
+-    <message name="IDS_BRAVE_WALLET_ADVANCED_SETTINGS_NONCE_HINT" desc="Brave crypto wallet advance setting custom nonce hint">
++    <message name="IDS_BRAVE_WALLET_ADVANCED_SETTINGS_NONCE_HINT" desc="Kahf crypto wallet advance setting custom nonce hint">
+       Enter custom nonce value
+     </message>
+-    <message name="IDS_BRAVE_WALLET_ADVANCED_SETTINGS_SAVE" desc="Brave crypto wallet advance setting save/set nonce value action button">
++    <message name="IDS_BRAVE_WALLET_ADVANCED_SETTINGS_SAVE" desc="Kahf crypto wallet advance setting save/set nonce value action button">
+       Save
+     </message>
+     <message name="IDS_BRAVE_WALLET_TX_PROPOGATION_WARNING" desc="Trnsaction warning regarding low gas or invalid nonce etc.">
+       Transaction may not be propagated to the network if custom nonce value is non-sequential or has other errors.
+     </message>
+-    <message name="IDS_TRANSACTION_DETAILS" desc="Brave crypto wallet transaction details section">
++    <message name="IDS_TRANSACTION_DETAILS" desc="Kahf crypto wallet transaction details section">
+       Details
+     </message>
+-    <!-- <message name="IDS_APPS" desc="Brave crypto wallet section Apps">
++    <!-- <message name="IDS_APPS" desc="Kahf crypto wallet section Apps">
+       Apps
+     </message> -->
+     <message name="IDS_CRYPTO_WALLET_FROM_TO" desc="From address -> to address" translateable="false">

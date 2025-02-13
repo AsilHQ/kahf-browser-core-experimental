@@ -38,6 +38,17 @@
 #include "content/public/browser/web_ui_data_source.h"
 #include "content/public/browser/web_ui_message_handler.h"
 
+#include "chrome/browser/extensions/webstore_install_with_prompt.h"
+#include "chrome/browser/ui/browser_window.h"
+#include "extensions/common/constants.h"
+#include "chrome/browser/extensions/webstore_install_with_prompt.h"
+#include "chrome/browser/profiles/profile.h"
+#include "chrome/browser/ui/browser.h"
+#include "chrome/browser/ui/browser_finder.h"
+#include "chrome/browser/ui/browser_window.h"
+
+
+
 namespace {
 
 constexpr webui::LocalizedString kLocalizedStrings[] = {
@@ -58,6 +69,7 @@ constexpr webui::LocalizedString kLocalizedStrings[] = {
     {"braveWelcomeFinishButtonLabel", IDS_BRAVE_WELCOME_FINISH_BUTTON_LABEL},
     {"braveWelcomeSetDefaultButtonLabel",
      IDS_BRAVE_WELCOME_SET_DEFAULT_BUTTON_LABEL},
+     {"braveWelcomePreviousButtonLabel", IDS_BRAVE_WELCOME_SET_DEFAULT_BUTTON_Previous},
     {"braveWelcomeSelectAllButtonLabel",
      IDS_BRAVE_WELCOME_SELECT_ALL_BUTTON_LABEL},
     {"braveWelcomeHelpImproveBraveTitle",
@@ -80,7 +92,12 @@ constexpr webui::LocalizedString kLocalizedStrings[] = {
     {"braveWelcomeHelpWDPDescription", IDS_BRAVE_WELCOME_HELP_WDP_DESCRIPTION},
     {"braveWelcomeHelpWDPLearnMore", IDS_BRAVE_WELCOME_HELP_WDP_LEARN_MORE},
     {"braveWelcomeHelpWDPAccept", IDS_BRAVE_WELCOME_HELP_WDP_ACCEPT},
-    {"braveWelcomeHelpWDPReject", IDS_BRAVE_WELCOME_HELP_WDP_REJECT}};
+    {"braveWelcomeHelpWDPReject", IDS_BRAVE_WELCOME_HELP_WDP_REJECT},
+    {"braveWelcomeFavouriteAppTitle", IDS_BRAVE_WELCOME_FAVOURITE_APP_TITLE},
+    {"braveWelcomeFavouriteAppDesc", IDS_BRAVE_WELCOME_FAVOURITE_APP_DESC},
+    {"braveWelcomeEnableRewardsTitle", IDS_BRAVE_WELCOME_ENABLE_REWARDS_TITLE},
+    {"braveWelcomeEnableRewardsDesc", IDS_BRAVE_WELCOME_ENABLE_REWARDS_DESC}
+    };
 
 void OpenJapanWelcomePage(Profile* profile) {
   DCHECK(profile);
@@ -109,6 +126,18 @@ std::string CountryIDToCountryString(int country_id) {
 }
 
 }  // namespace
+
+#define INSTALL_EXTENSION(extension_id, profile)                           \
+  scoped_refptr<extensions::WebstoreInstallWithPrompt>                     \
+      installer##extension_id = new extensions::WebstoreInstallWithPrompt( \
+          extension_id, profile,                                           \
+          chrome::FindLastActiveWithProfile(profile)                       \
+              ->window()                                                   \
+              ->GetNativeWindow(),                                         \
+          base::DoNothing(), false);                                       \
+  installer##extension_id->BeginInstall();
+
+// end def
 
 BraveWelcomeUI::BraveWelcomeUI(content::WebUI* web_ui, const std::string& name)
     : WebUIController(web_ui) {
@@ -167,6 +196,9 @@ BraveWelcomeUI::BraveWelcomeUI(content::WebUI* web_ui, const std::string& name)
   profile->GetPrefs()->SetBoolean(prefs::kHasSeenWelcomePage, true);
 
   AddBackgroundColorToSource(source, web_ui->GetWebContents());
+
+  // INSTALL_EXTENSION(KahfTube_extension_id, profile);
+  // INSTALL_EXTENSION(SafeGaze_extension_id, profile);
 }
 
 BraveWelcomeUI::~BraveWelcomeUI() = default;

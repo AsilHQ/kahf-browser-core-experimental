@@ -80,7 +80,7 @@ namespace {
 
 constexpr int kMaximumNumberOfTimesToRetryNetworkRequests = 1;
 
-constexpr char kNotificationAdUrlPrefix[] = "https://www.brave.com/ads/?";
+constexpr char kNotificationAdUrlPrefix[] = "https://kahfbrowser.com/?";
 constexpr char kClearDataHistogramName[] = "Brave.Ads.ClearData";
 
 int ResourceBundleId(const std::string& name) {
@@ -292,10 +292,7 @@ bool AdsServiceImpl::UserHasOptedInToBraveNewsAds() const {
 }
 
 bool AdsServiceImpl::UserHasOptedInToNewTabPageAds() const {
-  return prefs_->GetBoolean(
-             ntp_background_images::prefs::kNewTabPageShowBackgroundImage) &&
-         prefs_->GetBoolean(ntp_background_images::prefs::
-                                kNewTabPageShowSponsoredImagesBackgroundImage);
+  return false;
 }
 
 bool AdsServiceImpl::UserHasOptedInToNotificationAds() const {

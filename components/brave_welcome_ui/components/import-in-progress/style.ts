@@ -19,6 +19,7 @@ export const Box = styled.div`
   .view-title {
     font-weight: 400;
     font-size: 40px;
+    color: #4c54d2
   }
 
   .dots {

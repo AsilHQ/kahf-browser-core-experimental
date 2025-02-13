@@ -30,7 +30,7 @@ export function createModel (): Model {
         youtube: 'https://www.youtube.com/bravesoftware',
         twitch: 'https://twitch.tv/bravesoftware'
       },
-      web3Url: 'https://www.brave.com'
+      web3Url: 'https://kahfbrowser.com/?'
     },
     creatorVerified: true,
     creatorWallets: ['gemini'],

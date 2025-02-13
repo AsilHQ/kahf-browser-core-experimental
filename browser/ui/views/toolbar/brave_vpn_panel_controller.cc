@@ -23,33 +23,33 @@ BraveVPNPanelController::BraveVPNPanelController(BraveBrowserView* browser_view)
 BraveVPNPanelController::~BraveVPNPanelController() = default;
 
 void BraveVPNPanelController::ShowBraveVPNPanel(bool show_select) {
-  auto* anchor_view = browser_view_->GetAnchorViewForBraveVPNPanel();
-  if (!anchor_view)
-    return;
+  // auto* anchor_view = browser_view_->GetAnchorViewForBraveVPNPanel();
+  // if (!anchor_view)
+  //   return;
 
-  if (show_select) {
-    // Reset previously launched bubble to make main panel start with
-    // server selection. Otherwise, bubble shows last position if it's
-    // not destroyed yet.
-    ResetBubbleManager();
-  }
+  // if (show_select) {
+  //   // Reset previously launched bubble to make main panel start with
+  //   // server selection. Otherwise, bubble shows last position if it's
+  //   // not destroyed yet.
+  //   ResetBubbleManager();
+  // }
 
-  std::string url = kVPNPanelURL;
-  if (show_select) {
-    url += "select";
-  }
-  if (!webui_bubble_manager_) {
-    auto* profile = browser_view_->browser()->profile();
-    webui_bubble_manager_ = WebUIBubbleManager::Create<VPNPanelUI>(
-        anchor_view, profile, GURL(url), IDS_BRAVE_VPN_PANEL_NAME);
-  }
+  // std::string url = kVPNPanelURL;
+  // if (show_select) {
+  //   url += "select";
+  // }
+  // if (!webui_bubble_manager_) {
+  //   auto* profile = browser_view_->browser()->profile();
+  //   webui_bubble_manager_ = WebUIBubbleManager::Create<VPNPanelUI>(
+  //       anchor_view, profile, GURL(url), IDS_BRAVE_VPN_PANEL_NAME);
+  // }
 
-  if (webui_bubble_manager_->GetBubbleWidget()) {
-    webui_bubble_manager_->CloseBubble();
-    return;
-  }
+  // if (webui_bubble_manager_->GetBubbleWidget()) {
+  //   webui_bubble_manager_->CloseBubble();
+  //   return;
+  // }
 
-  webui_bubble_manager_->ShowBubble();
+  // webui_bubble_manager_->ShowBubble();
 }
 
 void BraveVPNPanelController::ResetBubbleManager() {

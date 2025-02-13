@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_cs.xtb b/app/resources/brave_generated_resources_cs.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ Nebo změňte později na odkaze<ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="1970435562892104727">Toto je Soukromé okno s Torem</translation>
+ <translation id="1037341607922068025">Otevřít Soukromé okno s Torem</translation>
+ <translation id="607982085107926247">Otevřít v aplikaci Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Tento účet synchronizace Brave byl odstraněn z jiného zařízení. Pokud jste synchronizaci nechtěli deaktivovat,<ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Tento účet synchronizace Kahf byl odstraněn z jiného zařízení. Pokud jste synchronizaci nechtěli deaktivovat,<ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>účet znovu vytvořte</translation>
+ <translation id="6965382102122355670">OK</translation>
+-<translation id="3975865347033939965">Nelze spustit službu synchronizace, Brave Sync není spuštěna</translation>
++<translation id="3975865347033939965">Nelze spustit službu synchronizace, Kahf Sync není spuštěna</translation>
+ <translation id="4450893287417543264">Znovu neukazovat</translation>
+ <translation id="4595286989346610620">Zkontrolujte podrobnosti</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@ Nebo změňte později na odkaze<ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="4759098689276706664">Vynucené vložení</translation>
+ <translation id="1434416574322382019">Nové soukromé okno v prohlížeči Tor</translation>
+ <translation id="4703780849509456860">Otevřít odkaz v soukromém okně prohlížeče Tor</translation>
+-<translation id="3488584642074079080">Otevřít odkaz v soukromém oknu Brave pomocí prohlížeče Tor</translation>
++<translation id="3488584642074079080">Otevřít odkaz v soukromém oknu Kahf pomocí prohlížeče Tor</translation>
+ <translation id="6313675821927505581">Nové soukromé okno přes Tor</translation>
+ <translation id="2638041073279639246">Otevřít odkaz v soukromém okně přes Tor</translation>
+-<translation id="3425600262621021599">Otevřít odkaz v soukromém okně Brave přes Tor</translation>
+-<translation id="2545072023356206691">Od 1. prosince 2023 již nebude kanál Brave Dev aktualizován. Doporučujeme uživatelům, aby migrovali do verzí Brave Nightly, Beta nebo Release.</translation>
++<translation id="3425600262621021599">Otevřít odkaz v soukromém okně Kahf přes Tor</translation>
++<translation id="2545072023356206691">Od 1. prosince 2023 již nebude kanál Kahf Dev aktualizován. Doporučujeme uživatelům, aby migrovali do verzí Kahf Nightly, Beta nebo Release.</translation>
+ <translation id="474217410105706308">Vypnout zvuk karty</translation>
+-<translation id="2804710924397009224">Skrýt ikonu odměn Brave</translation>
+-<translation id="5029193871181468990">Skrýt ikonu odměn Brave</translation>
+-<translation id="2808103541110899519">Skrýt ikonu peněženky Brave</translation>
+-<translation id="7595540212376041331">Skrýt ikonu peněženky Brave</translation>
++<translation id="2804710924397009224">Skrýt ikonu odměn Kahf</translation>
++<translation id="5029193871181468990">Skrýt ikonu odměn Kahf</translation>
++<translation id="2808103541110899519">Skrýt ikonu peněženky Kahf</translation>
++<translation id="7595540212376041331">Skrýt ikonu peněženky Kahf</translation>
+ <translation id="4928988318462976765">Obchod s rozšířeními pro internetové stránky</translation>
+ <translation id="9181207987584064303">Zobrazit v Obchodu s rozšířeními pro internetové stránky</translation>
+-<translation id="3161744659507801211">Upozornění: Brave nemůže zabránit rozšířením v zaznamenávání vaší historie procházení.</translation>
++<translation id="3161744659507801211">Upozornění: Kahf nemůže zabránit rozšířením v zaznamenávání vaší historie procházení.</translation>
+ <translation id="2162109630536601963">Pokud toto rozšíření provádí požadavky na síť, nebude používat Tor ani soukromý režim.</translation>
+ <translation id="2725327089319971976">Chcete-li toto rozšíření deaktivovat v soukromém režimu a v režimu Tor, zrušte výběr této možnosti.</translation>
+-<translation id="3371343170427636147">Noční aplikace prohlížeče Brave</translation>
+-<translation id="4097979995947147464">Beta aplikace prohlížeče Brave</translation>
+-<translation id="8303432794159193481">Vývojové aplikace prohlížeče Brave</translation>
+-<translation id="8292967014767479012">Aplikace prohlížeče Brave</translation>
+-<translation id="4743468424889072281">Vývojové aplikace prohlížeče Brave</translation>
++<translation id="3371343170427636147">Noční aplikace prohlížeče Kahf</translation>
++<translation id="4097979995947147464">Beta aplikace prohlížeče Kahf</translation>
++<translation id="8303432794159193481">Vývojové aplikace prohlížeče Kahf</translation>
++<translation id="8292967014767479012">Aplikace prohlížeče Kahf</translation>
++<translation id="4743468424889072281">Vývojové aplikace prohlížeče Kahf</translation>
+ <translation id="5039804452771397117">Povolit</translation>
+ <translation id="7053983685419859001">Blokovat</translation>
+-<translation id="1679356339067548863">Pomozte vylepšit stabilitu produktu Brave automatickým odesíláním diagnostických zpráv, když prohlížeč Brave spadne nebo zmrzne.</translation>
++<translation id="1679356339067548863">Pomozte vylepšit stabilitu produktu Kahf automatickým odesíláním diagnostických zpráv, když prohlížeč Kahf spadne nebo zmrzne.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> byl neočekávaně ukončen.</translation>
+-<translation id="1324417023773393937">Prohlížeč Brave</translation>
++<translation id="1324417023773393937">Prohlížeč Kahf</translation>
+ <translation id="7276554663454265692"><ph name="SETTING_TEXT"/> můžete kdykoli změnit v nastavení prohlížeče.</translation>
+ <translation id="6873781976650514089">Toto nastavení</translation>
+ <translation id="4684633335323013758">Tato stránka si vyžádala vaši <ph name="PART_ONE"/>obecnou polohu<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Zjistit více<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Tato stránka si vyžádala vaši <ph name="PART_ONE"/>přesnou polohu<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Zjistit více<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Tato stránka si vyžádala vaši <ph name="PART_ONE"/>přesnou polohu<ph name="PART_ONE_END"/>. Brave bude pouze schopen poskytnout<ph name="PART_TWO"/>obecná data o poloze,<ph name="PART_TWO_END"/>, jelikož jsou <ph name="PART_THREE"/>Služby k určení polohy<ph name="PART_THREE_END"/> deaktivovány. <ph name="PART_FOUR"/>Zjistit více<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Tato stránka si vyžádala vaši <ph name="PART_ONE"/>přesnou polohu<ph name="PART_ONE_END"/>. Kahf bude pouze schopen poskytnout<ph name="PART_TWO"/>obecná data o poloze,<ph name="PART_TWO_END"/>, jelikož jsou <ph name="PART_THREE"/>Služby k určení polohy<ph name="PART_THREE_END"/> deaktivovány. <ph name="PART_FOUR"/>Zjistit více<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Zavřít vše</translation>
+ <translation id="7658239707568436148">Zrušit</translation>
+ <translation id="4870911314065352661">Chcete zavřít všechny karty?</translation>
+ <translation id="7551864359422178684">V tomto okně prohlížeče máte otevřeny karty: <ph name="NUMBER_OF_TABS"/>.</translation>
+ <translation id="2571596981920752023">Počet karet: <ph name="NUMBER_OF_TABS"/></translation>
+ <translation id="1307431692088049276">Znovu se neptat</translation>
+-<translation id="6919364924256365253">Negooglujte. Nebingujte. Používejte Brave.</translation>
+-<translation id="2640297688005939449">Vyhledávač Brave vás neprofiluje. A je 100% nezávislý.</translation>
++<translation id="6919364924256365253">Negooglujte. Nebingujte. Používejte Kahf.</translation>
++<translation id="2640297688005939449">Vyhledávač Kahf vás neprofiluje. A je 100% nezávislý.</translation>
+ <translation id="7295094278358921487">Hledejte a naleznete. Anonymně.</translation>
+-<translation id="3462465068145800637">Vyhledávač Brave vás neprofiluje. A je 100% nezávislý na velkých technologiích.</translation>
++<translation id="3462465068145800637">Vyhledávač Kahf vás neprofiluje. A je 100% nezávislý na velkých technologiích.</translation>
+ <translation id="42032117189492785">Vyhledávání poháněné umělou inteligencí s jedinečným indexem.</translation>
+ <translation id="8606416238399082160">Plně soukromý, 100% nezávislý a se skvělými funkcemi AI.</translation>
+-<translation id="7706528608480893054">DDG je jen převlečený Bing. Přišel čas na skutečné soukromí, lepší výsledky a nezávislé indexování. Přišel čas na vyhledávání Brave Search.</translation>
++<translation id="7706528608480893054">DDG je jen převlečený Bing. Přišel čas na skutečné soukromí, lepší výsledky a nezávislé indexování. Přišel čas na vyhledávání Kahf Search.</translation>
+ <translation id="3818133234428578803">Zapomeňte na kachnu</translation>
+-<translation id="14817360483752259">Brave Search nesleduje vás, vaše vyhledávání ani kliknutí. A (na rozdíl od DDG) nejde jen o převlečený Bing.</translation>
++<translation id="14817360483752259">Kahf Search nesleduje vás, vaše vyhledávání ani kliknutí. A (na rozdíl od DDG) nejde jen o převlečený Bing.</translation>
+ <translation id="4381193110021038941">Dosáhněte lepších výsledků</translation>
+-<translation id="3846545273704969734">Nezávislé testy prokázaly, že Brave Search má lepší výsledky než Bing (nebo jeho klony, jako je DuckDuckGo).</translation>
++<translation id="3846545273704969734">Nezávislé testy prokázaly, že Kahf Search má lepší výsledky než Bing (nebo jeho klony, jako je DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Zlepšení výsledků vyhledávání</translation>
+-<translation id="4639001639513524869">Brave Search má u většiny vyhledávání lepší výsledky než DuckDuckGo. A je skutečně soukromý.</translation>
+-<translation id="5240031343741051161">Vyzkoušejte vyhledávání Brave</translation>
++<translation id="4639001639513524869">Kahf Search má u většiny vyhledávání lepší výsledky než DuckDuckGo. A je skutečně soukromý.</translation>
++<translation id="5240031343741051161">Vyzkoušejte vyhledávání Kahf</translation>
+ <translation id="5234764350956374838">Dismiss</translation>
+-<translation id="8722651357687610395">Nastavit Brave jako výchozí</translation>
++<translation id="8722651357687610395">Nastavit Kahf jako výchozí</translation>
+ <translation id="2370739752330685659">Možná později</translation>
+-<translation id="5100490448228945668">Odmítněte konverzi hledání Brave, odstraňte tento návrh stisknutím klávesy Enter</translation>
++<translation id="5100490448228945668">Odmítněte konverzi hledání Kahf, odstraňte tento návrh stisknutím klávesy Enter</translation>
+ <translation id="9194637241566114638">Pomozte zlepšit <ph name="SEARCH_NAME"/> odesíláním anonymních údajů o použití.  <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Vyhledávání Brave</translation>
++<translation id="7404610376221341525">Vyhledávání Kahf</translation>
+ <translation id="8184318863960255706">Další informace</translation>
+ <translation id="780301667611848630">Ne, děkuji</translation>
+-<translation id="1162706247109707219">Kliknutím na tlačítko OK berete na vědomí, že vaše instalace prohlížeče Brave NEBUDE dostávat kritické bezpečnostní opravy, dokud neaktualizujete systém na Windows 10 nebo novější. Toto upozornění se již NEBUDE zobrazovat.</translation>
+-<translation id="9164786361657554526">Kliknutím na tlačítko OK berete na vědomí, že vaše instalace prohlížeče Brave NEBUDE dostávat kritické bezpečnostní opravy, dokud neaktualizujete systém na macOS 10.15 nebo novější. Toto upozornění se již NEBUDE zobrazovat.</translation>
++<translation id="1162706247109707219">Kliknutím na tlačítko OK berete na vědomí, že vaše instalace prohlížeče Kahf NEBUDE dostávat kritické bezpečnostní opravy, dokud neaktualizujete systém na Windows 10 nebo novější. Toto upozornění se již NEBUDE zobrazovat.</translation>
++<translation id="9164786361657554526">Kliknutím na tlačítko OK berete na vědomí, že vaše instalace prohlížeče Kahf NEBUDE dostávat kritické bezpečnostní opravy, dokud neaktualizujete systém na macOS 10.15 nebo novější. Toto upozornění se již NEBUDE zobrazovat.</translation>
+ <translation id="2770465223704140727">Odstranit ze seznamu</translation>
+ <translation id="6020553119523541665">Tato karta je aktivní v jiném okně</translation>
+ <translation id="4987392683074136770">Po kliknutí na kartu se její obsah zobrazí v tomto okně</translation>
+@@ -299,8 +299,8 @@ Nebo změňte později na odkaze<ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="6453210454707928697">Položku se nepodařilo přehrát</translation>
+ <translation id="8741852840789907931">Platnost položky [<ph name="ITEM_NAME"/>] pravděpodobně vypršela. Chcete ji obnovit?</translation>
+ <translation id="6155018868740116868">Obnovit</translation>
+-<translation id="1727684853006449697">Přehrávač Brave</translation>
+-<translation id="9156965752763025780">Změny se projeví po příštím restartu prohlížeče Brave.</translation>
++<translation id="1727684853006449697">Přehrávač Kahf</translation>
++<translation id="9156965752763025780">Změny se projeví po příštím restartu prohlížeče Kahf.</translation>
+ <translation id="7179921470347911571">Znovu spustit</translation>
+ <translation id="1426410128494586442">Ano</translation>
+ <translation id="4250680216510889253">Ne</translation>
+@@ -339,7 +339,7 @@ Nebo změňte později na odkaze<ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="8820817407110198400">Záložky</translation>
+ <translation id="4144468798716165316">Rychlé příkazy</translation>
+ <translation id="7310387888625228830">Asistent s umělou inteligencí Leo</translation>
+-<translation id="5222974844674487962">Tlačítko Zobrazit Brave News</translation>
++<translation id="5222974844674487962">Tlačítko Zobrazit Kahf News</translation>
+ <translation id="383007806262310953">Zobrazit lištu záložek</translation>
+ <translation id="4054323497808446566">Panel záložek je viditelný na všech stránkách</translation>
+ <translation id="8693858092251192712">Panel záložek je skrytý na všech stránkách kromě nové karty</translation>
+@@ -440,7 +440,7 @@ Nebo změňte později na odkaze<ph name="SETTINGS_EXTENIONS_LINK"/>.</translati
+ <translation id="4891600875049212418">Při návštěvě citlivých stránek postupovat důvěrně</translation>
+ <translation id="1968895725257436430">Shromažďování dat</translation>
+ <translation id="4846154056248462491">Na výstupu</translation>
+-<translation id="2808630562319398131">Obnovit údaje o odměnách Brave Rewards...</translation>
++<translation id="2808630562319398131">Obnovit údaje o odměnách Kahf Rewards...</translation>
+ <translation id="6438096877646138757">Stránky, u kterých se při zavření vymažou soubory cookie</translation>
+ <translation id="2988792685798128092">Vymazat při zavření stránky</translation>
+ <translation id="7702907602086592255">Doména</translation>
+@@ -694,7 +694,7 @@ Leo. Tuto akci nelze vrátit zpět.</translation>
+ <translation id="7131172845656551327">Název modelu, který by se měl objevit v požadavku na obslužný rámec, tj. phi-3 (upozorňujeme, že pokud se tento název přesně neshoduje s tím, co očekává obslužný rámec, integrace nebude fungovat).</translation>
+ <translation id="3286410514484292784">Adresa URL, kde váš obslužný rámec naslouchá požadavkům. Pokud si nejste jisti, podívejte se do dokumentace k obslužnému rámci. Např. pro nástroj Ollama je to vždy http://localhost:11434/v1/chat/completions.</translation>
+ <translation id="1058790648388035953">Některé obslužné rámce mohou vyžadovat ověřovací údaje, například klíč API nebo přístupový token. Ty budou přidány do hlavičky požadavku.</translation>
+-<translation id="217141195370578385">Brave tyto požadavky nezprostředkovává; přečtěte si prosím podmínky ochrany osobních údajů vybraného poskytovatele.</translation>
++<translation id="217141195370578385">Kahf tyto požadavky nezprostředkovává; přečtěte si prosím podmínky ochrany osobních údajů vybraného poskytovatele.</translation>
+ <translation id="2645532768679870478">Nelokální koncové body by měly pro bezpečný přenos dat používat protokol HTTPS.</translation>
+ <translation id="8177205483022887785">Zadali jste neplatnou adresu URL. Zadejte prosím platnou adresu URL.</translation>
+ <translation id="5249539665306267943">Přidat nový model</translation>

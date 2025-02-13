@@ -1,0 +1,69 @@
+diff --git a/components/vector_icons/forward_arrow.icon b/components/vector_icons/forward_arrow.icon
+index cf6c4b47a723b1adf4f4243ed06e8c13b71202f4..05c772f8172fb0de9048883c8807d3b23a42bd1d 100644
+--- a/components/vector_icons/forward_arrow.icon
++++ b/components/vector_icons/forward_arrow.icon
+@@ -2,48 +2,18 @@
+ // Use of this source code is governed by a BSD-style license that can be
+ // found in the LICENSE file.
+ 
+-CANVAS_DIMENSIONS, 32,
+-MOVE_TO, 27.78f, 14.03f,
+-CUBIC_TO, 28.47f, 14.15f, 29, 14.77f, 29, 15.5f,
+-CUBIC_TO, 29, 16.25f, 28.47f, 16.86f, 27.76f, 16.98f,
+-LINE_TO, 27.98f, 17.19f,
+-LINE_TO, 17.64f, 27.51f,
+-CUBIC_TO, 17.35f, 27.81f, 16.95f, 28, 16.5f, 28,
+-CUBIC_TO, 15.67f, 28, 15, 27.33f, 15, 26.5f,
+-CUBIC_TO, 15, 26.05f, 15.2f, 25.65f, 15.51f, 25.38f,
+-LINE_TO, 15.45f, 25.32f,
+-LINE_TO, 23.78f, 17,
+-LINE_TO, 4.49f, 17,
+-CUBIC_TO, 3.67f, 17, 3, 16.33f, 3, 15.5f,
+-CUBIC_TO, 3, 14.67f, 3.67f, 14, 4.49f, 14,
+-LINE_TO, 23.8f, 14,
+-LINE_TO, 15.45f, 5.66f,
+-CUBIC_TO, 15.19f, 5.34f, 15, 4.94f, 15, 4.5f,
+-CUBIC_TO, 15, 3.68f, 15.67f, 3, 16.5f, 3,
+-CUBIC_TO, 16.94f, 3, 17.34f, 3.2f, 17.61f, 3.5f,
+-LINE_TO, 17.64f, 3.47f,
+-LINE_TO, 28, 13.81f,
+-CLOSE
+-
+-CANVAS_DIMENSIONS, 16,
+-MOVE_TO, 7, 13.51f,
+-LINE_TO, 11.51f, 9,
+-LINE_TO, 2, 9,
+-CUBIC_TO, 1.45f, 9, 1, 8.55f, 1, 8,
+-CUBIC_TO, 1, 7.45f, 1.45f, 7, 2, 7,
+-LINE_TO, 11.51f, 7,
+-LINE_TO, 7, 2.49f,
+-CUBIC_TO, 7.03f, 2.28f, 7, 2.14f, 7, 2,
+-CUBIC_TO, 7, 1.45f, 7.45f, 1, 8, 1,
+-CUBIC_TO, 8.14f, 1, 8.28f, 1.03f, 8.41f, 1.09f,
+-LINE_TO, 8.49f, 1,
+-LINE_TO, 15, 7.51f,
+-LINE_TO, 14.91f, 7.59f,
+-CUBIC_TO, 14.97f, 7.72f, 15, 7.85f, 15, 8,
+-CUBIC_TO, 15, 8.15f, 14.97f, 8.28f, 14.91f, 8.41f,
+-LINE_TO, 15, 8.49f,
+-LINE_TO, 8.49f, 15,
+-CUBIC_TO, 8.28f, 14.97f, 8.14f, 15, 8, 15,
+-CUBIC_TO, 7.45f, 15, 7, 14.55f, 7, 14,
+-CUBIC_TO, 7, 13.86f, 7.03f, 13.72f, 7.09f, 13.59f,
+-CLOSE
++CANVAS_DIMENSIONS, 15,
++MOVE_TO, 6.81f, 0.09f,
++CUBIC_TO, 6.59f, -0.07f, 6.28f, -0.02f, 6.13f, 0.21f,
++CUBIC_TO, 5.99f, 0.41f, 6.01f, 0.66f, 6.15f, 0.83f,
++LINE_TO, 8.19f, 3.5f,
++LINE_TO, 0.54f, 5.34f,
++CUBIC_TO, -0.18f, 5.51f, -0.18f, 6.57f, 0.55f, 6.74f,
++LINE_TO, 8.19f, 8.55f,
++LINE_TO, 6.2f, 11.17f,
++CUBIC_TO, 6.06f, 11.34f, 6.04f, 11.59f, 6.17f, 11.79f,
++CUBIC_TO, 6.27f, 11.93f, 6.42f, 12, 6.58f, 12,
++CUBIC_TO, 6.67f, 12, 6.77f, 11.97f, 6.86f, 11.91f,
++LINE_TO, 15, 6.05f,
++LINE_TO, 6.81f, 0.09f,
++CLOSE
+\ No newline at end of file

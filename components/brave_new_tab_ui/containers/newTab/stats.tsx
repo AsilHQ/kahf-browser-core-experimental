@@ -15,6 +15,7 @@ interface Props {
 const MILLISECONDS_PER_ITEM = 50
 
 export default function Stats (props: Props) {
+  console.log("Rendering Stats")
   const adblockCount = props.stats.adsBlockedStat || 0
   const timeSaved = React.useMemo(() => {
     const estimatedMillisecondsSaved = adblockCount * MILLISECONDS_PER_ITEM || 0

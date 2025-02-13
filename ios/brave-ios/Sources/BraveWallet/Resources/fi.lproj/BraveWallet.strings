@@ -1600,7 +1600,7 @@
 /* Title on the button that users can click to enable Brave to resolve the SNS domain they entered. */
 "wallet.snsDomainInterstitialPageButtonProceed" = "Jatka SNS-palvelimen käyttämistä";
 
-/* Description displayed when users chose Brave to ask them if they want the SNS to be resolved every time they enter one. The first '%@' will be replaced with a link to Brave's wiki page which will link to the providersterms of use page and privacy policy page. The last '%@' will be replaced with the value of 'snsDomainInterstitialPagePrivacyPolicy'. */
+/* Description displayed when users chose Brave to ask them if they want the SNS to be resolved every time they enter one. The first '%@' will be replaced with a link to  wiki page which will link to the providersterms of use page and privacy policy page. The last '%@' will be replaced with the value of 'snsDomainInterstitialPagePrivacyPolicy'. */
 "wallet.snsDomainInterstitialPageDescription" = "Brave käyttää kolmatta osapuolta .sol-verkkotunnusten selvittämiseen. Brave piilottaa IP-osoitteesi. Jos otat tämän käyttöön, kolmas osapuoli näkee jonkun yrittävän käydä näissä .sol-verkkotunnuksissa, muttei muuta. Lisätietoja käyttämistämme kolmansista osapuolista ja niiden tietosuojakäytännöistä on saatavilla osoitteesta <a href=%@>opastussivu</a>.";
 
 /* Title displayed when users chose Brave to ask them if they want the SNS to be resolved every time they enter one. */

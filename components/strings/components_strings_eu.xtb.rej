@@ -1,0 +1,355 @@
+diff a/components/strings/components_strings_eu.xtb b/components/strings/components_strings_eu.xtb	(rejected hunks)
+@@ -149,22 +149,22 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+     &lt;/ol&gt;</translation>
+ <translation id="1257286744552378071">Zure erakundeak kudeatzen ez duen webgune batean idatzi duzu pasahitza. Kontua babesteko, ez erabili berriro pasahitz hori beste inongo aplikazio eta webgunetan.</translation>
+ <translation id="1257553931232494454">zoom-mailak</translation>
+-<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, sakatu "Sartu" Brave-ren ezarpenak kudeatzeko</translation>
++<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, sakatu "Sartu" Kahf-ren ezarpenak kudeatzeko</translation>
+ <translation id="1264309058268477500">Ordezkoa</translation>
+ <translation id="1264974993859112054">Kirolak</translation>
+ <translation id="1268480293435976622">Gutun-azal txinatarra 7</translation>
+-<translation id="53564677632020212">Sortu bizkor webgune bat Brave Sites-en</translation>
++<translation id="53564677632020212">Sortu bizkor webgune bat Kahf Sites-en</translation>
+ <translation id="1270328905573953738">Mugitzea eta lekualdatzea</translation>
+ <translation id="1270502636509132238">Jasotzeko modua</translation>
+ <translation id="1273592791152866347">Prezioaren jarraipena desaktibatuta dago</translation>
+ <translation id="127777513559587977">Telebistako elkarrizketa-saioak</translation>
+ <translation id="1281476433249504884">1. pilatzailea</translation>
+-<translation id="3587420677315820032">Hurrengoan IBAN hau automatikoki betetzeko, gorde ezazu Brave-ko kontuan</translation>
++<translation id="3587420677315820032">Hurrengoan IBAN hau automatikoki betetzeko, gorde ezazu Kahf-ko kontuan</translation>
+ <translation id="1282358575813748144">Itsasontziak eta ontziak</translation>
+ <translation id="1283977499362032052">Curriculumak eta lan-sortak</translation>
+ <translation id="1285320974508926690">Ez itzuli inoiz webgune hau</translation>
+ <translation id="1292571435393770077">16. erretilua</translation>
+-<translation id="1209478311331937175">"Ordenagailuan dagoen software batek ez dio uzten Brave-ri sarera segurtasunez konektatzen" (Windows ordenagailuak soilik)</translation>
++<translation id="1209478311331937175">"Ordenagailuan dagoen software batek ez dio uzten Kahf-ri sarera segurtasunez konektatzen" (Windows ordenagailuak soilik)</translation>
+ <translation id="1293797321964802402">23 cm × 28 cm-ko gutun-azala</translation>
+ <translation id="1294154142200295408">Agindu-lerroaren aldaerak</translation>
+ <translation id="129553762522093515">Itxitako azkenak</translation>
+@@ -231,11 +231,11 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="14070772729708640">Kargatu dira fitxategiak <ph name="CLOUD_PROVIDER"/> zerbitzuko <ph name="FOLDER_NAME"/> karpetara</translation>
+ <translation id="1407135791313364759">Ireki guztiak</translation>
+ <translation id="1408787208417187241">Hiru grapa goian</translation>
+-<translation id="5488251800208457874">Gailu hau erabiltzen duten beste pertsonek ez dituzte ikusiko zure jarduerak; beraz, modu pribatuagoan arakatu ahal izango duzu. Bisitatzen dituzun webguneek ez dituzte aldatuko zure datuak biltzeko modua eta erabiltzen dituzten zerbitzuak, Brave barne. Deskargak, laster-markak eta irakurketa-zerrendako elementuak gorde egingo dira.</translation>
++<translation id="5488251800208457874">Gailu hau erabiltzen duten beste pertsonek ez dituzte ikusiko zure jarduerak; beraz, modu pribatuagoan arakatu ahal izango duzu. Bisitatzen dituzun webguneek ez dituzte aldatuko zure datuak biltzeko modua eta erabiltzen dituzten zerbitzuak, Kahf barne. Deskargak, laster-markak eta irakurketa-zerrendako elementuak gorde egingo dira.</translation>
+ <translation id="1410941016594047814">Invite gutun-azala</translation>
+ <translation id="1413809658975081374">Pribatutasun-errorea</translation>
+ <translation id="1414134146594747368">Haur-hezkuntza</translation>
+-<translation id="5305237486453576422">Brave-ren bidez egindako deskargak kudeatzeko botoia: aktiba ezazu Brave-ren bidez deskargatu dituzun fitxategiak kudeatzeko</translation>
++<translation id="5305237486453576422">Kahf-ren bidez egindako deskargak kudeatzeko botoia: aktiba ezazu Kahf-ren bidez deskargatu dituzun fitxategiak kudeatzeko</translation>
+ <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/> parekatzeko baimena emateko</translation>
+ <translation id="14222610277930434">Maiz bisitatzen duzu</translation>
+ <translation id="1422930527989633628">Inguruko Bluetooth bidezko gailuak bilatzea eska dezake</translation>
+@@ -362,20 +362,20 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="1640180200866533862">Erabiltzaile-gidalerroak</translation>
+ <translation id="1640244768702815859"><ph name="BEGIN_LINK"/>Joan webgunearen orri nagusira<ph name="END_LINK"/>.</translation>
+ <translation id="1641976391427233992">Atzeratu irteera ordu hau arte:</translation>
+-<translation id="8088023492467080559">Joan Brave-ko segurtasun-egiaztapen botoira, aktibatu Brave-ko segurtasun-egiaztapen orrira joateko ezarpenetan</translation>
++<translation id="8088023492467080559">Joan Kahf-ko segurtasun-egiaztapen botoira, aktibatu Kahf-ko segurtasun-egiaztapen orrira joateko ezarpenetan</translation>
+ <translation id="1644574205037202324">Historia</translation>
+ <translation id="1645004815457365098">Iturburu ezezaguna</translation>
+ <translation id="1645368109819982629">Ez da onartzen protokoloa</translation>
+-<translation id="1995056549836388472">Kudeatu Brave-ren ezarpenak</translation>
++<translation id="1995056549836388472">Kudeatu Kahf-ren ezarpenak</translation>
+ <translation id="1652415888492971589">JIS B8</translation>
+-<translation id="3549478477646243075">Brave-ren Pasahitz-kudeatzailea macOS Keychain-ekin erabiltzeko, exekutatu berriro Brave eta eman Keychain erabiltzeko baimena. Berriro exekutatu ondoren, berriro irekiko dira fitxak.</translation>
++<translation id="3549478477646243075">Kahf-ren Pasahitz-kudeatzailea macOS Keychain-ekin erabiltzeko, exekutatu berriro Kahf eta eman Keychain erabiltzeko baimena. Berriro exekutatu ondoren, berriro irekiko dira fitxak.</translation>
+ <translation id="1652887625750064647">AA bidezko emaitzarik onena</translation>
+-<translation id="3848846802033604519">Brave-k sinplifikatu egin du orri hau errazago irakurri ahal izan dadin. Konexio seguru baten bidez eskuratu du jatorrizko orria.</translation>
++<translation id="3848846802033604519">Kahf-k sinplifikatu egin du orri hau errazago irakurri ahal izan dadin. Konexio seguru baten bidez eskuratu du jatorrizko orria.</translation>
+ <translation id="1656489000284462475">Jasotzea</translation>
+ <translation id="1658111267661135323">Telebista eta bideoak</translation>
+ <translation id="1658918301167915956">Bluetooth bidezko gailuak</translation>
+ <translation id="1662550410081243962">Gorde eta bete ordainketa-metodoak</translation>
+-<translation id="1838576226863399477">Brave-tik hartu dira txartelak eta helbideak. Kudeatu nahi badituzu, joan <ph name="BEGIN_LINK"/>Ezarpenak<ph name="END_LINK"/> atalera.</translation>
++<translation id="1838576226863399477">Kahf-tik hartu dira txartelak eta helbideak. Kudeatu nahi badituzu, joan <ph name="BEGIN_LINK"/>Ezarpenak<ph name="END_LINK"/> atalera.</translation>
+ <translation id="1664389769577564606">Flexo fotopolimeroa</translation>
+ <translation id="166624440456221306">Ezabatu konparazio-taula</translation>
+ <translation id="1668071460721346172">Jaso mezu elektroniko bat</translation>
+@@ -654,7 +654,7 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="2174875517416416684">Transakzioak huts egin du. Ez da atera funtsik kontutik.</translation>
+ <translation id="2175630235841878061">100 MB baino gehiagoko fitxategiak ezin dira deskargatu</translation>
+ <translation id="2176974405772725904">Gorde helbidea kontuan</translation>
+-<translation id="7453373354666409887">Brave eguneratzeko botoia: aktiba ezazu Brave eguneratzeko Brave-ren ezarpenetan</translation>
++<translation id="7453373354666409887">Kahf eguneratzeko botoia: aktiba ezazu Kahf eguneratzeko Kahf-ren ezarpenetan</translation>
+ <translation id="2179003720612888584"><ph name="SITE_TITLE"/> (<ph name="SITE_DOMAIN_NAME"/>)</translation>
+ <translation id="2181821976797666341">Gidalerroak</translation>
+ <translation id="2182170103603703676">Ontzi-garbigailuak</translation>
+@@ -1083,10 +1083,10 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="3041176923638368519">Ikusi txartelaren abantailen baldintzak</translation>
+ <translation id="3041612393474885105">Ziurtagiriari buruzko informazioa</translation>
+ <translation id="3045769629416806687">Muturreko kirolak</translation>
+-<translation id="8418829431154568330">Brave-ren Urruneko pantaila aplikazioko historia, denbora-zigiluak, ostalariak eta bezero-saioen IDak barne</translation>
+-<translation id="2396578282884469363">Normalean, modu seguruan konektatzen zara webguneetara, baina oraingoan Brave-k ezin izan du erabili konexio segururik. Baliteke erasotzaile bat zure sareko konexioa zelatatzen edo aldatzen saiatzea. <ph name="BEGIN_LEARN_MORE_LINK"/>Lortu abisu honi buruzko informazio gehiago<ph name="END_LEARN_MORE_LINK"/></translation>
++<translation id="8418829431154568330">Kahf-ren Urruneko pantaila aplikazioko historia, denbora-zigiluak, ostalariak eta bezero-saioen IDak barne</translation>
++<translation id="2396578282884469363">Normalean, modu seguruan konektatzen zara webguneetara, baina oraingoan Kahf-k ezin izan du erabili konexio segururik. Baliteke erasotzaile bat zure sareko konexioa zelatatzen edo aldatzen saiatzea. <ph name="BEGIN_LEARN_MORE_LINK"/>Lortu abisu honi buruzko informazio gehiago<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3052964831964880138"><ph name="PRICE_DROP"/> merkeagoa da <ph name="PRODUCT_NAME"/> produktua</translation>
+-<translation id="4832983047807637948">Brave-k automatikoki ezabatzen ditu lau aste baino gehiago dituzten gaiak. Arakatzen jarraitu ahala, baliteke gai bat berriro agertzea zerrendan. Era berean, Brave-k webguneekin partekatzerik nahi ez duzun gaiak blokea ditzakezu. Lortu informazio gehiago Brave-n iragarkien inguruko pribatutasuna kudeatzeari buruz.</translation>
++<translation id="4832983047807637948">Kahf-k automatikoki ezabatzen ditu lau aste baino gehiago dituzten gaiak. Arakatzen jarraitu ahala, baliteke gai bat berriro agertzea zerrendan. Era berean, Kahf-k webguneekin partekatzerik nahi ez duzun gaiak blokea ditzakezu. Lortu informazio gehiago Kahf-n iragarkien inguruko pribatutasuna kudeatzeari buruz.</translation>
+ <translation id="3061707000357573562">Adabaki-zerbitzua</translation>
+ <translation id="3062655045399308513">Ezabatu arakatze-datuak…</translation>
+ <translation id="306573536155379004">Hasi da jokoa.</translation>
+@@ -1205,7 +1205,7 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="3272091146646336650">Super B</translation>
+ <translation id="3272112314896217187">Idatzi <ph name="NUMBER_OF_DIGITS"/> digituko egiaztapen-kodea</translation>
+ <translation id="3272643614306383237">1 MB baino gutxiago. Webgune batzuk agian mantsoago kargatuko dira bisitatzen dituzun hurrengoan.</translation>
+-<translation id="7460223968433527020">Administratzaileak profilean eta arakatzailean aldaketak egin ditzake, baita txostenen bidez arakatzaileari buruzko informazioa aztertu eta beharrezko beste zeregin batzuk gauzatu ere. Baliteke gailu honetako jarduerak Brave-etik kanpo ere kudeatzea. <ph name="BEGIN_LINK"/>Lortu informazio gehiago<ph name="END_LINK"/></translation>
++<translation id="7460223968433527020">Administratzaileak profilean eta arakatzailean aldaketak egin ditzake, baita txostenen bidez arakatzaileari buruzko informazioa aztertu eta beharrezko beste zeregin batzuk gauzatu ere. Baliteke gailu honetako jarduerak Kahf-etik kanpo ere kudeatzea. <ph name="BEGIN_LINK"/>Lortu informazio gehiago<ph name="END_LINK"/></translation>
+ <translation id="3281350579597955952">{0,plural, =1{Administratzailearen gidalerroek ez dute gomendatzen fitxategia hemen irekitzea: <ph name="DESTINATION_NAME"/>}other{Administratzailearen gidalerroek ez dute gomendatzen fitxategiak hemen irekitzea: <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3282085321714087552">Zure erakundeak (<ph name="ENROLLMENT_DOMAIN"/>) ezarpenei eta gidalerroei buruzko informazioa bidali du, besteak beste, jarraian ageri diren webguneetara.</translation>
+ <translation id="3286372614333682499">bertikala</translation>
+@@ -1280,7 +1280,7 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="3411091017011773343">Kargatu <ph name="HOURS"/> h barru</translation>
+ <translation id="3414275587143250384">Informatika banatua eta hodeiko informatika</translation>
+ <translation id="3414952576877147120">Tamaina:</translation>
+-<translation id="7115177860507615612">Brave-ko Dino jokoan jokatzen hasteko botoia: aktiba ezazu Brave-ko Dino jokoan aritzeko</translation>
++<translation id="7115177860507615612">Kahf-ko Dino jokoan jokatzen hasteko botoia: aktiba ezazu Kahf-ko Dino jokoan aritzeko</translation>
+ <translation id="3422248202833853650">Saiatu beste programa batzuk ixten memoria gehiago uzteko erabilgarri.</translation>
+ <translation id="3422472998109090673">Une honetan ezin gara konektatu <ph name="HOST_NAME"/> webgunera.</translation>
+ <translation id="3423742043356668186">Zehaztutako sistema</translation>
+@@ -1564,7 +1564,7 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="3906954721959377182">Tableta</translation>
+ <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
+ <translation id="3910231615117880630">Lortu eduki kapsulatuari buruzko informazio gehiago</translation>
+-<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Nola kudea ditzakezu datuak?<ph name="END_BOLD"/> 30 egun baino gehiago dituzten webguneak automatikoki ezabatzen ditu Brave-k. Baliteke beste behin bisitatzen duzun webgune bat berriro ere zerrendan agertzea. Era berean, webgune bati zuretzako iragarkiak iradokitzea galaraz diezaiokezu, eta webguneek iradokitako iragarkiak desaktibatu. Horretarako, joan Brave-ren ezarpenetara.</translation>
++<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Nola kudea ditzakezu datuak?<ph name="END_BOLD"/> 30 egun baino gehiago dituzten webguneak automatikoki ezabatzen ditu Kahf-k. Baliteke beste behin bisitatzen duzun webgune bat berriro ere zerrendan agertzea. Era berean, webgune bati zuretzako iragarkiak iradokitzea galaraz diezaiokezu, eta webguneek iradokitako iragarkiak desaktibatu. Horretarako, joan Kahf-ren ezarpenetara.</translation>
+ <translation id="3921869355029467742">Idatzi segurtasun-kodea</translation>
+ <translation id="3927538228901078312">Ez dago konparazio-taularik</translation>
+ <translation id="3927932062596804919">Ukatu</translation>
+@@ -1829,7 +1829,7 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="4406896451731180161">bilaketa-emaitza</translation>
+ <translation id="4408413947728134509">Cookieak: <ph name="NUM_COOKIES"/></translation>
+ <translation id="4412074349188076601">Konfigurazioa instala daitekeela markatu da, baina ez dago irudirik arkitektura horretarako; beraz, ezin da instalatu.</translation>
+-<translation id="6647778944129929873">Erabili Brave-ren Pasahitz-kudeatzailea eta Brave-ren Betetze automatikoa pasahitzak, ordainketa-metodoak eta helbideak gordetzeko eta betetzeko</translation>
++<translation id="6647778944129929873">Erabili Kahf-ren Pasahitz-kudeatzailea eta Kahf-ren Betetze automatikoa pasahitzak, ordainketa-metodoak eta helbideak gordetzeko eta betetzeko</translation>
+ <translation id="4414515549596849729">cookieak eta webgune-datuak</translation>
+ <translation id="4415156962929755728">Plastikoa (oso distiratsua)</translation>
+ <translation id="4415426530740016218">Jasotzeko helbidea</translation>
+@@ -2634,10 +2634,10 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="5989320800837274978">Ez da zehaztu proxy-zerbitzari finkorik, ezta .pac scripteko URLrik ere.</translation>
+ <translation id="5992691462791905444">Z-erako tolestura laburra</translation>
+ <translation id="5992805036496113940">Ikusi zer informazio erabiltzen den zuri iragarkiak erakusteko</translation>
+-<translation id="7409510288691071929">Kudeatu Brave-ko kontuko informazioa, pribatutasuna eta segurtasuna</translation>
++<translation id="7409510288691071929">Kudeatu Kahf-ko kontuko informazioa, pribatutasuna eta segurtasuna</translation>
+ <translation id="5996255674476750320">Ibilgailuen erakusketak</translation>
+-<translation id="3494641719937626561">Erabili berri duzun pasahitza datuen isilpekotasunaren urratze batean aurkitu da. Kontuak babesteko, Brave-ren Pasahitz-kudeatzailea zerbitzuak pasahitza orain aldatzea gomendatzen du, eta gordeta dauzkazun pasahitzak seguruak direla egiaztatzea.</translation>
+-<translation id="4496834749307444910">Brave-k segurtasun-eginbide integratuak ditu, arakatzen duzun bitartean babesten zaituztenak. Brave-ren Arakatze segurua eginbide horietako bat da, eta <ph name="BEGIN_LINK"/>duela gutxi malwarea aurkitu du<ph name="END_LINK"/> bisitatu nahi duzun webgunean.</translation>
++<translation id="3494641719937626561">Erabili berri duzun pasahitza datuen isilpekotasunaren urratze batean aurkitu da. Kontuak babesteko, Kahf-ren Pasahitz-kudeatzailea zerbitzuak pasahitza orain aldatzea gomendatzen du, eta gordeta dauzkazun pasahitzak seguruak direla egiaztatzea.</translation>
++<translation id="4496834749307444910">Kahf-k segurtasun-eginbide integratuak ditu, arakatzen duzun bitartean babesten zaituztenak. Kahf-ren Arakatze segurua eginbide horietako bat da, eta <ph name="BEGIN_LINK"/>duela gutxi malwarea aurkitu du<ph name="END_LINK"/> bisitatu nahi duzun webgunean.</translation>
+ <translation id="6000528814684428358">Hard rocka eta rock progresiboa</translation>
+ <translation id="6000758707621254961">"<ph name="SEARCH_TEXT"/>" bilaketak <ph name="RESULT_COUNT"/> emaitza ditu</translation>
+ <translation id="6001839398155993679">Has gaitezen</translation>
+@@ -2707,17 +2707,17 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="6107012941649240045">Nori jaulkia:</translation>
+ <translation id="6107924765192360631">Idazteko iradokizunak jasotzeko, hasi hitz batzuk edo lehenengo zirriborroa idazten.</translation>
+ <translation id="6108580855199168381">Ziurtagiriaren xehetasunak</translation>
+-<translation id="5539282829066374332">Brave-eko bilatzailea</translation>
++<translation id="5539282829066374332">Kahf-eko bilatzailea</translation>
+ <translation id="6108849843016142864">Narrastiak eta anfibioak</translation>
+-<translation id="8233947174119245051">Brave-ko kontuko arakatze-historiaren bestelako datu batzuk gera litezke <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> webgunean.</translation>
+-<translation id="1715537866439612181">Zure bilaketak, bat-etortzerik onenak eta haien orrien edukiak Brave-ra bidaltzen dira, eta baliteke gizakiak diren berrikusleek ikustea, eginbidea hobetzeko.</translation>
++<translation id="8233947174119245051">Kahf-ko kontuko arakatze-historiaren bestelako datu batzuk gera litezke <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> webgunean.</translation>
++<translation id="1715537866439612181">Zure bilaketak, bat-etortzerik onenak eta haien orrien edukiak Kahf-ra bidaltzen dira, eta baliteke gizakiak diren berrikusleek ikustea, eginbidea hobetzeko.</translation>
+ <translation id="6116338172782435947">Arbelean kopiatzen ditudan testuak eta irudiak ikusi.</translation>
+ <translation id="6117833587752089929">Argazkia (satina)</translation>
+ <translation id="6118782133429281336">Jatorrizko zerrenda hutsik dago.</translation>
+ <translation id="612178891608320683">Sukaldaritza beganoa</translation>
+ <translation id="6122181661879998141">txartelaren aurrealdean</translation>
+ <translation id="6124058285696691147">Deskargatu eranskina</translation>
+-<translation id="5972135347314259717">Brave Enterprise Connectors</translation>
++<translation id="5972135347314259717">Kahf Enterprise Connectors</translation>
+ <translation id="6126565365696310362">Gutun-azal txinatarra 2</translation>
+ <translation id="6127379762771434464">Kendu egin da elementua</translation>
+ <translation id="6131824478727057281">kokapena</translation>
+@@ -2738,14 +2738,14 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="6160391204859821737">Aktibatu iragarkietarako pribatutasun-eginbide bat</translation>
+ <translation id="6165508094623778733">Lortu informazio gehiago</translation>
+ <translation id="6167577165590485365">Eskuratzeko azken saiakera:</translation>
+-<translation id="1057223975912338979">Brave-k zu zaren egiaztatu nahi du, zure ordainketa-informazioa betetzeko.</translation>
++<translation id="1057223975912338979">Kahf-k zu zaren egiaztatu nahi du, zure ordainketa-informazioa betetzeko.</translation>
+ <translation id="6173208311907792313">Amaitu erosketa Windows Hello erabilita</translation>
+ <translation id="6176387967264100435">Garestia da prezioa</translation>
+ <translation id="6177128806592000436">Webgune honetarako konexioa ez da guztiz segurua</translation>
+ <translation id="6177531123306197852">C2 gutun-azala</translation>
+ <translation id="6180316780098470077">Saiakeren arteko tartea</translation>
+ <translation id="6182972682129119950">A4x5</translation>
+-<translation id="1713601041945301465">Brave-k automatikoki mugatzen ditu hirugarrenen cookieak.</translation>
++<translation id="1713601041945301465">Kahf-k automatikoki mugatzen ditu hirugarrenen cookieak.</translation>
+ <translation id="6194209731893739467">Ikusi jarraipena egiten diezun produktu guztiak hemen</translation>
+ <translation id="6195163219142236913">Hirugarrenen cookieak mugatuta</translation>
+ <translation id="6195371403461054755">Geologia</translation>
+@@ -2775,17 +2775,17 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="6236290670123303279">Kudeatu ezarpenak</translation>
+ <translation id="623825323736974198">Kudeatu beti aktibo egongo diren eta memorian tokia egiteko erabiliko ez diren webguneak</translation>
+ <translation id="6240447795304464094">Google Pay-ren logotipoa</translation>
+-<translation id="4174528239215311406">Pasahitz-kudeatzailea zure sistema eragilearekin erabiltzeko, exekutatu berriro Brave eta eman ordenagailuaren pasahitz-kudeatzailea erabiltzeko baimena. Berriro exekutatu ondoren, berriro irekiko dira fitxak.</translation>
++<translation id="4174528239215311406">Pasahitz-kudeatzailea zure sistema eragilearekin erabiltzeko, exekutatu berriro Kahf eta eman ordenagailuaren pasahitz-kudeatzailea erabiltzeko baimena. Berriro exekutatu ondoren, berriro irekiko dira fitxak.</translation>
+ <translation id="6241121617266208201">Ezkutatu iradokizunak</translation>
+ <translation id="624499991300733384">Inprimatze-konposizioaren zerbitzua</translation>
+ <translation id="6246316216123107851">Duela <ph name="NUM_DAYS"/> egun</translation>
+ <translation id="6246868321321344665">Zure erakundeak laneko profileko nahiz profil pertsonaleko arakatze-datuak ikus ditzake; adibidez, pasahitzak eta historia</translation>
+ <translation id="6250932670816326647">Bainugelarako eta gorputzerako produktuak</translation>
+ <translation id="6251906504834538140">{0,plural, =1{Fitxategia ezin da mugitu}other{<ph name="FILE_COUNT"/> fitxategi ezin dira mugitu}}</translation>
+-<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, sakatu "Sartu" Brave-ren bidez deskargatu dituzun fitxategiak kudeatzeko</translation>
++<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, sakatu "Sartu" Kahf-ren bidez deskargatu dituzun fitxategiak kudeatzeko</translation>
+ <translation id="6254436959401408446">Ez dago fitxategia irekitzeko behar adina memoria</translation>
+ <translation id="625463612687472648">Utzi erabiltzeko baimena emateari</translation>
+-<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Brave-n erosketak egitean, izan <ph name="FINANCIAL_ACCOUNT_TYPES"/> kontuan}other{Brave-n erosketak egitean, izan <ph name="FINANCIAL_ACCOUNT_TYPES"/> kontuan}}</translation>
++<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Kahf-n erosketak egitean, izan <ph name="FINANCIAL_ACCOUNT_TYPES"/> kontuan}other{Kahf-n erosketak egitean, izan <ph name="FINANCIAL_ACCOUNT_TYPES"/> kontuan}}</translation>
+ <translation id="6259156558325130047">&amp;Berregin berrantolatzea</translation>
+ <translation id="6263376278284652872"><ph name="DOMAIN"/> laster-marka</translation>
+ <translation id="6264376385120300461">Deskargatu halere</translation>
+@@ -2821,11 +2821,11 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="6311410654831092784">Txartelak</translation>
+ <translation id="6312113039770857350">Ez dago erabilgarri web-orria</translation>
+ <translation id="6316110367871394043">Pausatu da <ph name="CLOUD_PROVIDER"/> zerbitzura fitxategiak kargatzeko prozesua</translation>
+-<translation id="1413891145337537586">Berria: Brave-rako Family Link-eko aukerak hemen aplikatzen dira</translation>
++<translation id="1413891145337537586">Berria: Kahf-rako Family Link-eko aukerak hemen aplikatzen dira</translation>
+ <translation id="63172326633386613">Kudeatu erabilerraztasun-ezarpenak</translation>
+ <translation id="6321917430147971392">Begiratu DNS ezarpenak</translation>
+ <translation id="6322182122604171028">Ezin izan da erabili Windows Hello</translation>
+-<translation id="7962450223988560278">Ezarri Brave sistemaren arakatzaile lehenetsi gisa iOS-en ezarpenetan</translation>
++<translation id="7962450223988560278">Ezarri Kahf sistemaren arakatzaile lehenetsi gisa iOS-en ezarpenetan</translation>
+ <translation id="6328639280570009161">Saiatu sarearen iragarpena desgaitzen</translation>
+ <translation id="6328784461820205019">"Konexioa ez da pribatua", "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;", "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;", "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;", "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" edo "SSL ziurtagiriaren errorea"</translation>
+ <translation id="6335029926534404762">Kirol-oinetakoak</translation>
+@@ -2963,7 +2963,7 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="6556866813142980365">Berregin</translation>
+ <translation id="6557715786897013164">35,56 × 43,18 cm (14 × 17 in)</translation>
+ <translation id="6560786330438719938">instalatuta edo desinstalatuta dauden aplikazioak eta zer maiztasunekin erabiltzen diren</translation>
+-<translation id="3720758671413152948">Ordainketa-metodoak kudeatzeko botoia: aktiba ezazu ordainketak eta kreditu-txartelaren informazioa kudeatzeko Brave-ren ezarpenetan</translation>
++<translation id="3720758671413152948">Ordainketa-metodoak kudeatzeko botoia: aktiba ezazu ordainketak eta kreditu-txartelaren informazioa kudeatzeko Kahf-ren ezarpenetan</translation>
+ <translation id="6569060085658103619">Luzapen baten orria ari zara ikusten</translation>
+ <translation id="6573200754375280815">Bi zulo eskuinean</translation>
+ <translation id="6577792494180292262">Arrisku-kapitala</translation>
+@@ -2979,26 +2979,26 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="6597665340361269064">90 gradu</translation>
+ <translation id="6598976221101665070">Drama-filmak</translation>
+ <translation id="6599642189720630047">Jarraipena egiten diezun produktuak</translation>
+-<translation id="5976895887103591798">Arakatzen duzun bitartean zure jarraipena egiteko hirugarrenen cookieak erabiltzea eragozten die Brave-k webguneei.
++<translation id="5976895887103591798">Arakatzen duzun bitartean zure jarraipena egiteko hirugarrenen cookieak erabiltzea eragozten die Kahf-k webguneei.
+             <ph name="NEW_LINE"/>Webgunearen eginbideek funtzionatzen ez badute, <ph name="START_LINK"/>onartu hirugarrenen cookieak aldi baterako<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">eskuen jarraipena</translation>
+-<translation id="5887670611153282204">Lortu Brave-ko bilatzaileari buruzko informazio gehiago</translation>
++<translation id="5887670611153282204">Lortu Kahf-ko bilatzaileari buruzko informazio gehiago</translation>
+ <translation id="6615297766614333076">2. pilatzailea</translation>
+ <translation id="6619496928666593220">IBANa ez da bete</translation>
+ <translation id="6624427990725312378">Harremanetarako informazioa</translation>
+ <translation id="6628463337424475685"><ph name="ENGINE"/> Bilaketa</translation>
+ <translation id="6629652037942826935">Luxuzko bidaiak</translation>
+ <translation id="6630043285902923878">USB bidezko gailuak bilatzen…</translation>
+-<translation id="4945711024178085608">Brave-ren ezarpenak kudeatzeko botoia: aktiba ezazu Brave-ren ezarpenetara joateko</translation>
++<translation id="4945711024178085608">Kahf-ren ezarpenak kudeatzeko botoia: aktiba ezazu Kahf-ren ezarpenetara joateko</translation>
+ <translation id="6631133499533814479">Futbol australiarra</translation>
+ <translation id="663260587451432563">JIS B4</translation>
+ <translation id="6633405994164965230">Informatika-hezkuntza</translation>
+ <translation id="6633476656216409494">Enpresa- eta produktibitate-softwarea</translation>
+-<translation id="2529518595693862042">Brave-k segurtasun-eginbide integratuak ditu, arakatzen duzun bitartean babesten zaituztenak. Brave-ren Arakatze segurua eginbide horietako bat da, eta duela gutxi <ph name="BEGIN_LINK"/>software kaltegarria aurkitu du<ph name="END_LINK"/> bisitatu nahi duzun webgunean.</translation>
++<translation id="2529518595693862042">Kahf-k segurtasun-eginbide integratuak ditu, arakatzen duzun bitartean babesten zaituztenak. Kahf-ren Arakatze segurua eginbide horietako bat da, eta duela gutxi <ph name="BEGIN_LINK"/>software kaltegarria aurkitu du<ph name="END_LINK"/> bisitatu nahi duzun webgunean.</translation>
+ <translation id="6643016212128521049">Garbitu</translation>
+ <translation id="6645291930348198241">Cookieak eta webguneko datuak atzitu.</translation>
+ <translation id="6645478838938543427">Helbide honetara bidaliko dira prezio-jaitsieren alertak: <ph name="EMAIL_ADDRESS"/></translation>
+-<translation id="6678472970290886941">Administratzaileak urrunetik alda dezake arakatzailearen konfigurazioa. Baliteke gailu honetako jarduerak Brave-tik kanpo ere kudeatzea.</translation>
++<translation id="6678472970290886941">Administratzaileak urrunetik alda dezake arakatzailearen konfigurazioa. Baliteke gailu honetako jarduerak Kahf-tik kanpo ere kudeatzea.</translation>
+ <translation id="6648524591329069940">Serif letra</translation>
+ <translation id="6649510485211003056">195 × 270 mm</translation>
+ <translation id="6651270836885078973">Kudeatzailea:</translation>
+@@ -3175,16 +3175,16 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="696703987787944103">Pertzepziozkoa</translation>
+ <translation id="6967851206780867018">1 fitxategi blokeatu da haren edukiarengatik</translation>
+ <translation id="6970885655016700774">Ehuna (artxibistikoa)</translation>
+-<translation id="8485851762575764192">Sortu bizkor Brave-ko aurkezpen bat Aurkezpenak zerbitzuan</translation>
++<translation id="8485851762575764192">Sortu bizkor Kahf-ko aurkezpen bat Aurkezpenak zerbitzuan</translation>
+ <translation id="6972629891077993081">HID gailuak</translation>
+ <translation id="6973656660372572881">Proxy-zerbitzari finkoak nahiz .pac URL scripta zehaztu dira.</translation>
+ <translation id="6973988895180423160">8,89 × 12,7 cm (3,5 × 5 in)</translation>
+ <translation id="6978121630131642226">Bilatzaileak</translation>
+ <translation id="6978236010531171013">Partekatu halere</translation>
+-<translation id="8974669348014288088">Gailua partekatzen baduzu, Brave-ek egiaztapena egiteko eska diezazuke betetze automatikoa erabilita ordaintzen duzun bakoitzean</translation>
++<translation id="8974669348014288088">Gailua partekatzen baduzu, Kahf-ek egiaztapena egiteko eska diezazuke betetze automatikoa erabilita ordaintzen duzun bakoitzean</translation>
+ <translation id="6979158407327259162">Google Drive</translation>
+ <translation id="6979440798594660689">Desaktibatu audioa (lehenetsia)</translation>
+-<translation id="6984270784814146224">Etiketatu gabeko irudia. Testua erauzten, Brave-ren AA erabilita.</translation>
++<translation id="6984270784814146224">Etiketatu gabeko irudia. Testua erauzten, Kahf-ren AA erabilita.</translation>
+ <translation id="6987806006823772670">Gutun-azala (iztukatua)</translation>
+ <translation id="6989256887001961296">Eduki hori blokeatuta dago.</translation>
+ <translation id="6989763994942163495">Erakutsi ezarpen aurreratuak…</translation>
+@@ -3201,14 +3201,14 @@ Bestela, pribatutasun-ezarpenek blokeatu egingo dute baimen hori. Baimen honekin
+ <translation id="7014741021609395734">Zoom-maila</translation>
+ <translation id="7016992613359344582">Behin edo gehiagotan kobratzen saia liteke, eta baliteke zordunketa horiek begien bistakoak ez izatea.</translation>
+ <translation id="701757816833614688">Ikusizko arteen eta diseinuaren inguruko ikasketak</translation>
+-<translation id="8683151724374457021">Webguneak gustatzen zaizkizun gauzak zehazten ditu eta, gero, beste webguneei iragarkiak iradokitzen dizkie. Halaber, Brave-n oinarritzen da zure iragarkien gaien berri izateko, iragarki egokiagoak erakuts diezazkizun.</translation>
++<translation id="8683151724374457021">Webguneak gustatzen zaizkizun gauzak zehazten ditu eta, gero, beste webguneei iragarkiak iradokitzen dizkie. Halaber, Kahf-n oinarritzen da zure iragarkien gaien berri izateko, iragarki egokiagoak erakuts diezazkizun.</translation>
+ <translation id="7023162328967545559">Administratzailearen abisua</translation>
+-<translation id="7613812024276037086">Brave-k segurtasun-eginbide integratuak ditu, arakatzen duzun bitartean babesten zaituztenak. Brave-ren Arakatze segurua eginbide horietako bat da, eta <ph name="BEGIN_LINK"/>duela gutxi phishinga aurkitu du<ph name="END_LINK"/> bisitatu nahi duzun webgunean. Phishing-webguneek beste webgune batzuk direnaren plantak egiten dituzte zu iruzurtzeko.<ph name="NEW_LINE"/>Normalean seguruak diren webguneak ere kutsatzen dituzte erasotzaileek. Akats bat izan dela eta webgune hau arriskutsua ez dela uste baduzu, <ph name="BEGIN_ERROR_LINK"/>jakinaraz iezaguzu<ph name="END_ERROR_LINK"/>.</translation>
++<translation id="7613812024276037086">Kahf-k segurtasun-eginbide integratuak ditu, arakatzen duzun bitartean babesten zaituztenak. Kahf-ren Arakatze segurua eginbide horietako bat da, eta <ph name="BEGIN_LINK"/>duela gutxi phishinga aurkitu du<ph name="END_LINK"/> bisitatu nahi duzun webgunean. Phishing-webguneek beste webgune batzuk direnaren plantak egiten dituzte zu iruzurtzeko.<ph name="NEW_LINE"/>Normalean seguruak diren webguneak ere kutsatzen dituzte erasotzaileek. Akats bat izan dela eta webgune hau arriskutsua ez dela uste baduzu, <ph name="BEGIN_ERROR_LINK"/>jakinaraz iezaguzu<ph name="END_ERROR_LINK"/>.</translation>
+ <translation id="7029809446516969842">Pasahitzak</translation>
+ <translation id="7030164307377592766">ordainketa-metodoak betetzeko ezarpenak aldatu behar ditu</translation>
+ <translation id="7031646650991750659">instalatuta dauzkazun Google Play-ko aplikazioak</translation>
+ <translation id="7035705295266423040">Bankuak zeu zarela egiaztatu nahi du</translation>
+-<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, sakatu "Sartu" tekla Brave-ko kontuaren pribatutasun-ezarpenak kudeatzeko.</translation>
++<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, sakatu "Sartu" tekla Kahf-ko kontuaren pribatutasun-ezarpenak kudeatzeko.</translation>
+ <translation id="7042616127917168121">Mugatu emaitzak</translation>
+ <translation id="7043552168914147882">Orri-bereizleak</translation>
+ <translation id="7044081119134178347">Kamera erabil daiteke une honetan</translation>
+@@ -3993,14 +3993,14 @@ Xehetasun gehiago:
+ <translation id="8446884382197647889">Lortu informazio gehiago</translation>
+ <translation id="8449155699563577224">43,18 × 60,96 cm (17 × 24 in)</translation>
+ <translation id="8449836157089738489">Ireki guztiak beste fitxa talde batean</translation>
+-<translation id="1785963607001474601">Administratzaileak profilean eta arakatzailean aldaketak egin ditzake, baita txostenen bidez arakatzaileari buruzko informazioa aztertu eta beharrezko beste zeregin batzuk gauzatu ere. Baliteke gailu honetako jarduerak Brave-tik kanpo ere kudeatzea.  <ph name="BEGIN_LINK"/>Lortu informazio gehiago<ph name="END_LINK"/></translation>
++<translation id="1785963607001474601">Administratzaileak profilean eta arakatzailean aldaketak egin ditzake, baita txostenen bidez arakatzaileari buruzko informazioa aztertu eta beharrezko beste zeregin batzuk gauzatu ere. Baliteke gailu honetako jarduerak Kahf-tik kanpo ere kudeatzea.  <ph name="BEGIN_LINK"/>Lortu informazio gehiago<ph name="END_LINK"/></translation>
+ <translation id="8457125768502047971">Zehaztugabea</translation>
+ <translation id="8458202188076138974">Eskutitza (are handiagoa)</translation>
+-<translation id="834016381901477789">Aurrera eginez gero, onartu egingo duzu zure gailuaren kokapen zehatza biltzea eta kontuaren jabearekin partekatzea, iruzurra saihesteko. Brave-n Pix desaktibatzeko, joan <ph name="BEGIN_LINK1"/>ordainketa-ezarpenetara<ph name="END_LINK1"/>.</translation>
++<translation id="834016381901477789">Aurrera eginez gero, onartu egingo duzu zure gailuaren kokapen zehatza biltzea eta kontuaren jabearekin partekatzea, iruzurra saihesteko. Kahf-n Pix desaktibatzeko, joan <ph name="BEGIN_LINK1"/>ordainketa-ezarpenetara<ph name="END_LINK1"/>.</translation>
+ <translation id="8460854335417802511">Aktibatu</translation>
+ <translation id="8461694314515752532">Enkriptatu sinkronizatutako datuak sinkronizazio-pasaesaldiarekin</translation>
+ <translation id="8466379296835108687">{COUNT,plural, =1{1 kreditu-txartel}other{# kreditu-txartel}}</translation>
+-<translation id="1912557825937556898">Joan Brave-ko segurtasun-egiaztapenaren orrira ezarpenetan</translation>
++<translation id="1912557825937556898">Joan Kahf-ko segurtasun-egiaztapenaren orrira ezarpenetan</translation>
+ <translation id="8468358362970107653">C3 gutun-azala</translation>
+ <translation id="8469428721212363950">Txikizkako merkataritza</translation>
+ <translation id="8472700501934242014">Blokeatutako gaiak</translation>
+@@ -4387,33 +4387,33 @@ Xehetasun gehiago:
+ <translation id="9210825002219699214">Airetiko bidaiak</translation>
+ <translation id="9211461151375991073">Idatzi @ hauetan bilatzeko: <ph name="FEATURED_SEARCH_LIST"/></translation>
+ <translation id="9213433120051936369">Pertsonalizatu itxura</translation>
+-<translation id="2206050430829841793">Aplikazio batek ez dio uzten Brave-ri webgune honetara segurtasunez konektatzen</translation>
++<translation id="2206050430829841793">Aplikazio batek ez dio uzten Kahf-ri webgune honetara segurtasunez konektatzen</translation>
+ <translation id="92178312226016010">Produktuaren jarraipena egiten ari zara.</translation>
+ <translation id="9218430445555521422">Ezarri lehenetsi gisa</translation>
+ <translation id="9219103736887031265">Irudiak</translation>
+-<translation id="142389341645668510">Pertsonalizatu Brave</translation>
++<translation id="142389341645668510">Pertsonalizatu Kahf</translation>
+ <translation id="9222403027701923763">Lehen eta bigarren hezkuntza</translation>
+ <translation id="93020190163435405">Egonaldiak</translation>
+ <translation id="933712198907837967">Diners Club</translation>
+ <translation id="934634059306213385">Wifi-sareak konfiguratzeko baimena eman nahi diozu <ph name="APP_NAME"/> aplikazioari?</translation>
+-<translation id="7486559383537872796">Brave-ko konturako sarbidea gal zenezake. Pasahitza aldatzea gomendatzen dizu Brave-ek. Horretarako, saioa hasi beharko duzu.</translation>
+-<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Zein datu erabiltzen dira?<ph name="END_BOLD"/> Azkenaldiko arakatze-historian daude oinarrituta iragarkien gaiak; hau da, gailu honetan Brave-ren bidez bisitatutako webguneen zerrendan.</translation>
++<translation id="7486559383537872796">Kahf-ko konturako sarbidea gal zenezake. Pasahitza aldatzea gomendatzen dizu Kahf-ek. Horretarako, saioa hasi beharko duzu.</translation>
++<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Zein datu erabiltzen dira?<ph name="END_BOLD"/> Azkenaldiko arakatze-historian daude oinarrituta iragarkien gaiak; hau da, gailu honetan Kahf-ren bidez bisitatutako webguneen zerrendan.</translation>
+ <translation id="937885410143139026">Bidali dira datuak administrazio-kontsolara</translation>
+ <translation id="939736085109172342">Karpeta berria</translation>
+ <translation id="940524522703752213">Fitxategiak <ph name="CLOUD_PROVIDER"/> zerbitzura kargatzeko prozesua <ph name="MINUTES"/> minutu barru hasiko da</translation>
+-<translation id="6588091288231158998">Erabili Brave-ko kontuan gordetako pasahitzak eta sarbide-gakoak</translation>
+-<translation id="5444457503062019851">Arakatzen duzun bitartean hirugarrenen cookieen bidez zure jarraipena egitea galarazten die Brave-k webguneei.</translation>
++<translation id="6588091288231158998">Erabili Kahf-ko kontuan gordetako pasahitzak eta sarbide-gakoak</translation>
++<translation id="5444457503062019851">Arakatzen duzun bitartean hirugarrenen cookieen bidez zure jarraipena egitea galarazten die Kahf-k webguneei.</translation>
+ <translation id="945855313015696284">Egiaztatu beheko informazioa eta ezabatu txartel baliogabeak</translation>
+ <translation id="94613679163347541"><ph name="CATEGORY"/> konparatu nahi dituzu?</translation>
+-<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, "Sartu", Brave Sites-en webgune bat bizkor sortzeko</translation>
+-<translation id="7776043919629791284">{COUNT,plural, =0{Gaur mugatuko ditu cookieak berriro Brave-k}=1{Bihar mugatuko ditu cookieak berriro Brave-k}other{# egun barru mugatuko ditu cookieak berriro Brave-k}}</translation>
++<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: sakatu tabuladorea eta, ondoren, "Sartu", Kahf Sites-en webgune bat bizkor sortzeko</translation>
++<translation id="7776043919629791284">{COUNT,plural, =0{Gaur mugatuko ditu cookieak berriro Kahf-k}=1{Bihar mugatuko ditu cookieak berriro Kahf-k}other{# egun barru mugatuko ditu cookieak berriro Kahf-k}}</translation>
+ <translation id="949314938206378263">Webgune hau bisitatzeko baimena eskatu duzu. Zure gurasoak Family Link-en erantzun dezake.</translation>
+ <translation id="950736567201356821">Hiru zulo goian</translation>
+ <translation id="961663415146723894">Koadernatu behetik</translation>
+ <translation id="961856697154696964">Ezabatu arakatze-datuak</translation>
+ <translation id="961930410699694996">Kokapena erabil daiteke une honetan</translation>
+ <translation id="962484866189421427">Eduki hau beste zerbaiten plantak egiten dituzten aplikazio iruzurtiak instalatzen saia daiteke edo datuak bil ditzake zure jarraipena egiteko. <ph name="BEGIN_LINK"/>Erakutsi hala ere<ph name="END_LINK"/></translation>
+-<translation id="776356972507701422">Zure lurraldeko lege bat dela eta, Brave-ek bilatzaile lehenetsia aukeratzeko eskatzen dizu. Bilatzaile hauek asko erabiltzen dira zure lurraldean, eta ausaz zerrendatzen dira.</translation>
++<translation id="776356972507701422">Zure lurraldeko lege bat dela eta, Kahf-ek bilatzaile lehenetsia aukeratzeko eskatzen dizu. Bilatzaile hauek asko erabiltzen dira zure lurraldean, eta ausaz zerrendatzen dira.</translation>
+ <translation id="963837307749850257">Erabiltzaile guztiak</translation>
+ <translation id="964050462028070434">Kudeatu pasahitzak eta sarbide-gakoak…</translation>
+ <translation id="969892804517981540">Konpilazio ofiziala</translation>

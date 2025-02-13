@@ -1,4 +1,4 @@
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The Kahf Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -192,7 +192,7 @@ def CheckPylint(input_api, output_api):
 
 
 def CheckLicense(input_api, output_api):
-    """Verifies the Brave license header."""
+    """Verifies the Kahf license header."""
 
     files_to_check = input_api.DEFAULT_FILES_TO_CHECK + (r'.+\.gni?$', )
     files_to_skip = input_api.DEFAULT_FILES_TO_SKIP + (
@@ -210,7 +210,7 @@ def CheckLicense(input_api, output_api):
     # that's why we cannot force this regexp to have a precise year, also
     # uplifts may fail during year change period, so the year check is relaxed.
     new_file_license_re = input_api.re.compile((
-        r'.*? Copyright \(c\) %(year)s The Brave Authors\. All rights reserved\.\n'
+        r'.*? Copyright \(c\) %(year)s The Kahf Authors\. All rights reserved\.\n'
         r'.*? This Source Code Form is subject to the terms of the Mozilla Public\n'
         r'.*? License, v\. 2\.0\. If a copy of the MPL was not distributed with this file,\n'
         r'.*? You can obtain one at https://mozilla.org/MPL/2\.0/\.(?: \*/)?\n')
@@ -219,7 +219,7 @@ def CheckLicense(input_api, output_api):
 
     # License regexp to match in EXISTING files, it allows some variance.
     existing_file_license_re = input_api.re.compile((
-        r'.*? Copyright \(c\) %(year)s The Brave Authors\. All rights reserved\.\n'
+        r'.*? Copyright \(c\) %(year)s The Kahf Authors\. All rights reserved\.\n'
         r'.*? This Source Code Form is subject to the terms of the Mozilla Public\n'
         r'.*? License, v\. 2\.0\. If a copy of the MPL was not distributed with this(\n.*?)? file,\n?'
         r'.*? (y|Y)ou can obtain one at https?://mozilla.org/MPL/2\.0/\.(?: \*/)?\n'
@@ -227,7 +227,7 @@ def CheckLicense(input_api, output_api):
 
     # License template for new files. Includes current year.
     expected_license_template = (
-        '%(comment)s Copyright (c) %(year)s The Brave Authors. All rights reserved.\n'
+        '%(comment)s Copyright (c) %(year)s The Kahf Authors. All rights reserved.\n'
         '%(comment)s This Source Code Form is subject to the terms of the Mozilla Public\n'
         '%(comment)s License, v. 2.0. If a copy of the MPL was not distributed with this file,\n'
         '%(comment)s You can obtain one at https://mozilla.org/MPL/2.0/.\n') % {
@@ -362,7 +362,7 @@ _BANNED_CPP_FUNCTIONS += (
 )
 
 
-# Extend BanRule exclude lists with Brave-specific paths.
+# Extend BanRule exclude lists with Kahf-specific paths.
 def ApplyBanRuleExcludes():
     # Collect all _BANNED_* variables declared in //PRESUBMIT.py.
     ban_rule_lists = [
@@ -405,13 +405,13 @@ ApplyBanRuleExcludes()
 def CheckForIncludeGuards(original_check, input_api, output_api, **kwargs):
     # Add 'brave/' prefix for header guard checks to properly validate guards.
     def AffectedSourceFiles(self, original_method, source_file):
-        def PrependBrave(affected_file):
+        def PrependKahf(affected_file):
             affected_file = copy.copy(affected_file)
             affected_file._path = f'brave/{affected_file._path}'
             return affected_file
 
         return [
-            PrependBrave(f)
+            PrependKahf(f)
             for f in filter(self.FilterSourceFile, original_method(source_file))
         ]
 

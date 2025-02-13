@@ -1,5 +1,5 @@
 # Reminder
 
-Deliver helpful reminders to users on how to interact with Brave Ads.
+Deliver helpful reminders to users on how to interact with Kahf Ads.
 
 Please add to it!

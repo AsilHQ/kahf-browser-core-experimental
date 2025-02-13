@@ -612,80 +612,80 @@ void BraveRenderViewContextMenu::ExecuteAIChatCommand(int command) {
 }
 
 void BraveRenderViewContextMenu::BuildAIChatMenu() {
-  if (!IsAIChatEnabled()) {
-    return;
-  }
-  std::optional<size_t> print_index =
-      menu_model_.GetIndexOfCommandId(IDC_PRINT);
-  if (!print_index.has_value()) {
-    return;
-  }
+//   if (!IsAIChatEnabled()) {
+//     return;
+//   }
+//   std::optional<size_t> print_index =
+//       menu_model_.GetIndexOfCommandId(IDC_PRINT);
+//   if (!print_index.has_value()) {
+//     return;
+//   }
 
-  ai_chat_submenu_model_.AddTitleWithStringId(
-      IDS_AI_CHAT_CONTEXT_QUICK_ACTIONS);
+//   ai_chat_submenu_model_.AddTitleWithStringId(
+//       IDS_AI_CHAT_CONTEXT_QUICK_ACTIONS);
 
-#if BUILDFLAG(ENABLE_AI_REWRITER)
-  if (ai_rewriter::features::IsAIRewriterEnabled()) {
-    ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_REWRITE,
-                                               IDS_AI_CHAT_CONTEXT_REWRITE);
-  }
-#endif
+// #if BUILDFLAG(ENABLE_AI_REWRITER)
+//   if (ai_rewriter::features::IsAIRewriterEnabled()) {
+//     ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_REWRITE,
+//                                                IDS_AI_CHAT_CONTEXT_REWRITE);
+//   }
+// #endif
 
-  ai_chat_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_SUMMARIZE_TEXT, IDS_AI_CHAT_CONTEXT_SUMMARIZE_TEXT);
-  ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_EXPLAIN,
-                                             IDS_AI_CHAT_CONTEXT_EXPLAIN);
-  ai_chat_submenu_model_.AddSeparator(ui::NORMAL_SEPARATOR);
+//   ai_chat_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_SUMMARIZE_TEXT, IDS_AI_CHAT_CONTEXT_SUMMARIZE_TEXT);
+//   ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_EXPLAIN,
+//                                              IDS_AI_CHAT_CONTEXT_EXPLAIN);
+//   ai_chat_submenu_model_.AddSeparator(ui::NORMAL_SEPARATOR);
 
-  ai_chat_submenu_model_.AddTitleWithStringId(IDS_AI_CHAT_CONTEXT_REWRITE);
-  ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_PARAPHRASE,
-                                             IDS_AI_CHAT_CONTEXT_PARAPHRASE);
-  ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_IMPROVE,
-                                             IDS_AI_CHAT_CONTEXT_IMPROVE);
+//   ai_chat_submenu_model_.AddTitleWithStringId(IDS_AI_CHAT_CONTEXT_REWRITE);
+//   ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_PARAPHRASE,
+//                                              IDS_AI_CHAT_CONTEXT_PARAPHRASE);
+//   ai_chat_submenu_model_.AddItemWithStringId(IDC_AI_CHAT_CONTEXT_IMPROVE,
+//                                              IDS_AI_CHAT_CONTEXT_IMPROVE);
 
-  ai_chat_change_tone_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_ACADEMICIZE, IDS_AI_CHAT_CONTEXT_ACADEMICIZE);
-  ai_chat_change_tone_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_PROFESSIONALIZE, IDS_AI_CHAT_CONTEXT_PROFESSIONALIZE);
-  ai_chat_change_tone_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_PERSUASIVE_TONE, IDS_AI_CHAT_CONTEXT_PERSUASIVE_TONE);
-  ai_chat_change_tone_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_CASUALIZE, IDS_AI_CHAT_CONTEXT_CASUALIZE);
-  ai_chat_change_tone_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_FUNNY_TONE, IDS_AI_CHAT_CONTEXT_FUNNY_TONE);
+//   ai_chat_change_tone_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_ACADEMICIZE, IDS_AI_CHAT_CONTEXT_ACADEMICIZE);
+//   ai_chat_change_tone_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_PROFESSIONALIZE, IDS_AI_CHAT_CONTEXT_PROFESSIONALIZE);
+//   ai_chat_change_tone_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_PERSUASIVE_TONE, IDS_AI_CHAT_CONTEXT_PERSUASIVE_TONE);
+//   ai_chat_change_tone_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CASUALIZE, IDS_AI_CHAT_CONTEXT_CASUALIZE);
+//   ai_chat_change_tone_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_FUNNY_TONE, IDS_AI_CHAT_CONTEXT_FUNNY_TONE);
 
-  ai_chat_submenu_model_.AddSubMenuWithStringId(
-      IDC_AI_CHAT_CONTEXT_CHANGE_TONE, IDS_AI_CHAT_CONTEXT_CHANGE_TONE,
-      &ai_chat_change_tone_submenu_model_);
+//   ai_chat_submenu_model_.AddSubMenuWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CHANGE_TONE, IDS_AI_CHAT_CONTEXT_CHANGE_TONE,
+//       &ai_chat_change_tone_submenu_model_);
 
-  ai_chat_change_length_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_SHORTEN, IDS_AI_CHAT_CONTEXT_SHORTEN);
-  ai_chat_change_length_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_EXPAND, IDS_AI_CHAT_CONTEXT_EXPAND);
-  ai_chat_submenu_model_.AddSubMenuWithStringId(
-      IDC_AI_CHAT_CONTEXT_CHANGE_LENGTH, IDS_AI_CHAT_CONTEXT_CHANGE_LENGTH,
-      &ai_chat_change_length_submenu_model_);
+//   ai_chat_change_length_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_SHORTEN, IDS_AI_CHAT_CONTEXT_SHORTEN);
+//   ai_chat_change_length_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_EXPAND, IDS_AI_CHAT_CONTEXT_EXPAND);
+//   ai_chat_submenu_model_.AddSubMenuWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CHANGE_LENGTH, IDS_AI_CHAT_CONTEXT_CHANGE_LENGTH,
+//       &ai_chat_change_length_submenu_model_);
 
-  ai_chat_submenu_model_.AddSeparator(ui::NORMAL_SEPARATOR);
+//   ai_chat_submenu_model_.AddSeparator(ui::NORMAL_SEPARATOR);
 
-  ai_chat_submenu_model_.AddTitleWithStringId(IDS_AI_CHAT_CONTEXT_CREATE);
-  ai_chat_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_CREATE_TAGLINE, IDS_AI_CHAT_CONTEXT_CREATE_TAGLINE);
+//   ai_chat_submenu_model_.AddTitleWithStringId(IDS_AI_CHAT_CONTEXT_CREATE);
+//   ai_chat_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CREATE_TAGLINE, IDS_AI_CHAT_CONTEXT_CREATE_TAGLINE);
 
-  ai_chat_social_media_post_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_SHORT,
-      IDS_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_SHORT);
-  ai_chat_social_media_post_submenu_model_.AddItemWithStringId(
-      IDC_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_LONG,
-      IDS_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_LONG);
-  ai_chat_submenu_model_.AddSubMenuWithStringId(
-      IDC_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_POST,
-      IDS_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_POST,
-      &ai_chat_social_media_post_submenu_model_);
+//   ai_chat_social_media_post_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_SHORT,
+//       IDS_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_SHORT);
+//   ai_chat_social_media_post_submenu_model_.AddItemWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_LONG,
+//       IDS_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_COMMENT_LONG);
+//   ai_chat_submenu_model_.AddSubMenuWithStringId(
+//       IDC_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_POST,
+//       IDS_AI_CHAT_CONTEXT_CREATE_SOCIAL_MEDIA_POST,
+//       &ai_chat_social_media_post_submenu_model_);
 
-  menu_model_.InsertSubMenuWithStringIdAt(
-      *print_index, IDC_AI_CHAT_CONTEXT_LEO_TOOLS,
-      IDS_AI_CHAT_CONTEXT_LEO_TOOLS, &ai_chat_submenu_model_);
+//   menu_model_.InsertSubMenuWithStringIdAt(
+//       *print_index, IDC_AI_CHAT_CONTEXT_LEO_TOOLS,
+//       IDS_AI_CHAT_CONTEXT_LEO_TOOLS, &ai_chat_submenu_model_);
 }
 #endif
 
@@ -750,12 +750,20 @@ void BraveRenderViewContextMenu::SetAIEngineForTesting(
 void BraveRenderViewContextMenu::InitMenu() {
   RenderViewContextMenu_Chromium::InitMenu();
 
+  for (int i = menu_model_.GetItemCount() - 1; i >= 0; --i) {
+    std::u16string label = menu_model_.GetLabelAt(i);
+    if (label.find(u"Brave") != std::u16string::npos) {
+      menu_model_.RemoveItemAt(i);
+    }
+  }
+
+  // Existing code to add custom items
   std::optional<size_t> index = menu_model_.GetIndexOfCommandId(
       IDC_CONTENT_CONTEXT_PASTE_AND_MATCH_STYLE);
   if (index.has_value()) {
-    menu_model_.InsertItemWithStringIdAt(index.value() + 1,
-                                         IDC_CONTENT_CONTEXT_FORCE_PASTE,
-                                         IDS_CONTENT_CONTEXT_FORCE_PASTE);
+    menu_model_.InsertItemWithStringIdAt(
+        index.value() + 1, IDC_CONTENT_CONTEXT_FORCE_PASTE,
+        IDS_CONTENT_CONTEXT_FORCE_PASTE);
   }
 #if BUILDFLAG(ENABLE_TEXT_RECOGNITION)
   const bool media_image = content_type_->SupportsGroup(

@@ -7,7 +7,7 @@ index bb32532feaa4b9a32f1467091b47205894d27e22..0ab4125fa0cac25217b4923352d1cf35
          break;
        case Command.HELP_CENTER:
 -        window.open('https://support.google.com/chrome/?p=bookmarks');
-+        window.open('https://community.brave.com', undefined, 'noreferrer');
++        window.open('https://kahfbrowser.com/contact/?', undefined, 'noreferrer');
          break;
        default:
          assertNotReached();

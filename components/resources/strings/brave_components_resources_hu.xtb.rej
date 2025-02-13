@@ -1,0 +1,52 @@
+diff a/components/resources/strings/brave_components_resources_hu.xtb b/components/resources/strings/brave_components_resources_hu.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Csatlakozás a bitFlyerhez</translation>
+ <translation id="6143701117592994599">Ha csatlakoztatja a Kahf jutalmakat egy bitFlyer-fiókhoz, BAT-t szerezhet, valamint lehívhatja BAT-bevételeit a Kahf jutalmakból.</translation>
+ <translation id="4354564238172327160">Legyen Ön is Kahf-alkotó!</translation>
+-<translation id="4639659520811817892">Látogasson a creators.brave.com-ra, regisztráljon még ma, és kezdjen el BAT-ot gyűjteni a rajongóitól és követőitől.</translation>
++<translation id="4639659520811817892">Látogasson a creators.Kahf.com-ra, regisztráljon még ma, és kezdjen el BAT-ot gyűjteni a rajongóitól és követőitől.</translation>
+ <translation id="4816455138209470435">A Kahf támogatja a YouTube-ot, a Twitchet, a Vimeót, és még sok mást!</translation>
+ <translation id="7404779623219601861">BAT beváltása ajándékkártyákért</translation>
+ <translation id="6215565499749144110">A TAP Network hálózatában BAT-pontjait ajándékutalványokra válthatja közkedvelt márkáktól.</translation>
+@@ -602,7 +602,7 @@
+ <translation id="5379685283876547860">Hozzájárulás elküldve!</translation>
+ <translation id="7063168612616047608">Köszönjük, hogy támogatja a kedvenc alkotóit</translation>
+ <translation id="1041398280582063935">Támogatás megosztása</translation>
+-<translation id="4001190813297686107">Épp most küldtem <ph name="AMOUNT"/> BAT értékű hozzájárulást a Kahf böngészővel! Tekintsétek meg, hogyan támogathatjátok ti is a kedvenc alkotóitokat és webhelyeiteket: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Épp most küldtem <ph name="AMOUNT"/> BAT értékű hozzájárulást a Kahf böngészővel! Tekintsétek meg, hogyan támogathatjátok ti is a kedvenc alkotóitokat és webhelyeiteket: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Váratlan hiba lépett fel</translation>
+ <translation id="2605703631071131439">Kérjük, az újrapróbálkozáshoz nyissa meg ismét a hozzájárulás panelt.</translation>
+ <translation id="8855543392451028706">Üdvözöljük! A felhasználók hozzájárulások küldésével támogathatják ezt a alkotót, ezzel mondva köszönetet az általa készített nagyszerű tartalmakért.</translation>
+@@ -680,11 +680,11 @@
+ <translation id="7666058404763778706">Weboldalak és tartalomkészítők támogatásának automatikus módja attól függően, hogy mennyi időt tölt el az általuk nyújtott tartalommal.</translation>
+ <translation id="4319242254058427792">Az automatikus hozzájárulás le van tiltva</translation>
+ <translation id="1091835891554961609">Az Ön által felkeresett, ellenőrzött készítők itt fognak megjelenni böngészéskor.</translation>
+-<translation id="7714706530499503523">Az automatikus hozzájárulás automatikus havi hozzájárulásokat küld a Brave által ellenőrzött készítőknek az alapján, hogy mennyi időt tölt el az általuk nyújtott tartalommal.</translation>
++<translation id="7714706530499503523">Az automatikus hozzájárulás automatikus havi hozzájárulásokat küld a Kahf által ellenőrzött készítőknek az alapján, hogy mennyi időt tölt el az általuk nyújtott tartalommal.</translation>
+ <translation id="2358028754328876971">Hogyan működik az automatikus hozzájárulás?</translation>
+ <translation id="2870560284913253234">Webhely</translation>
+-<translation id="1184072843013036520">Szerezzen Brave márkajelzéssel ellátott termékekeket.</translation>
+-<translation id="1170674812179664523">Brave termékek áruháza</translation>
++<translation id="1184072843013036520">Szerezzen Kahf márkajelzéssel ellátott termékekeket.</translation>
++<translation id="1170674812179664523">Kahf termékek áruháza</translation>
+ <translation id="8673202990286883068">Előnyök az Ön számára</translation>
+ <translation id="3699766258844277472">Még nincs beállítva ismétlődő hozzájárulása.</translation>
+ <translation id="957921474773060718">Következő hozzájárulás:</translation>
+@@ -2049,7 +2049,7 @@
+ <translation id="1093419424466417703">Ez az oldal túl hosszú Leo számára. A kontextus egy része hiányozni fog a beszélgetésből. Leo ennyit tudott elolvasni az oldal tartalmából: <ph name="PERCENTAGE"/>.</translation>
+ <translation id="2186990448773134544">Az oldal tartalma finomítva lett a legrelevánsabb információk kivonatolása révén, mert az oldal tartalma túl hosszú volt a Leo számára.</translation>
+ <translation id="4370698775470316661">Ez a beszélgetés túl hosszúra nyúlt, és nem folytatható. Más modellek alkalmazásával a Leo képes lehet megőrizni a pontosságát a hosszabb beszélgetések esetében.</translation>
+-<translation id="5719170755629028558">Válasz kibővítése a Brave-kereséssel...</translation>
++<translation id="5719170755629028558">Válasz kibővítése a Kahf-kereséssel...</translation>
+ <translation id="5794962229997281366">Továbbfejlesztett válaszkeresés a következőhöz: <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Általános célú csevegés</translation>
+ <translation id="8193130769524604031">Speciális csevegési feladatok</translation>
+@@ -2259,7 +2259,7 @@ Hozzuk létre kapcsolatát!</translation>
+ <translation id="7423206764347669977">Beállítások módosítása</translation>
+ <translation id="9061845622728745852">Időzóna:</translation>
+ <translation id="8295393906499561642">A munkamenet lejárt</translation>
+-<translation id="3312623558576021182">A VPN-munkamenet frissítéséhez jelentkezzen be a<ph name="BRAVE_ACCOUNT_BEGIN"/>Kahf fiókjába<ph name="BRAVE_ACCOUNT_END"/>.</translation>
++<translation id="3312623558576021182">A VPN-munkamenet frissítéséhez jelentkezzen be a<ph name="Kahf_ACCOUNT_BEGIN"/>Kahf fiókjába<ph name="Kahf_ACCOUNT_END"/>.</translation>
+ <translation id="6021669293402055982">Kahf VPN: kapcsolat bontva</translation>
+ <translation id="7861195049821776142">Kahf VPN: kapcsolat bontása</translation>
+ <translation id="958268166261124668">Kahf VPN: csatlakozva</translation>

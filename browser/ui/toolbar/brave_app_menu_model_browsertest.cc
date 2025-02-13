@@ -169,9 +169,9 @@ IN_PROC_BROWSER_TEST_F(BraveAppMenuModelBrowserTest, MenuOrderTest) {
 #if BUILDFLAG(ENABLE_TOR)
       IDC_NEW_OFFTHERECORD_WINDOW_TOR,
 #endif
-#if BUILDFLAG(ENABLE_AI_CHAT)
-      IDC_TOGGLE_AI_CHAT,
-#endif
+// #if BUILDFLAG(ENABLE_AI_CHAT)
+//       IDC_TOGGLE_AI_CHAT,
+// #endif
       IDC_SHOW_BRAVE_WALLET,
 #if BUILDFLAG(ENABLE_BRAVE_VPN)
       IDC_SHOW_BRAVE_VPN_PANEL,
@@ -292,9 +292,9 @@ IN_PROC_BROWSER_TEST_F(BraveAppMenuModelBrowserTest, MenuOrderTest) {
 #if BUILDFLAG(ENABLE_TOR)
       IDC_NEW_OFFTHERECORD_WINDOW_TOR,
 #endif
-#if BUILDFLAG(ENABLE_AI_CHAT)
-      IDC_TOGGLE_AI_CHAT,
-#endif
+// #if BUILDFLAG(ENABLE_AI_CHAT)
+//       IDC_TOGGLE_AI_CHAT,
+// #endif
       IDC_SHOW_BRAVE_WALLET,
 #if BUILDFLAG(ENABLE_BRAVE_VPN)
       IDC_SHOW_BRAVE_VPN_PANEL,
@@ -350,9 +350,9 @@ IN_PROC_BROWSER_TEST_F(BraveAppMenuModelBrowserTest, MenuOrderTest) {
   };
   std::vector<int> commands_disabled_for_tor_profile = {
       IDC_RECENT_TABS_MENU,
-#if BUILDFLAG(ENABLE_AI_CHAT)
-      IDC_TOGGLE_AI_CHAT,
-#endif
+// #if BUILDFLAG(ENABLE_AI_CHAT)
+//       IDC_TOGGLE_AI_CHAT,
+// #endif
 #if BUILDFLAG(ENABLE_BRAVE_VPN)
       IDC_SHOW_BRAVE_VPN_PANEL,
 #endif

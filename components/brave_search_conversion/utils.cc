@@ -107,24 +107,27 @@ bool IsNTPPromotionEnabled(PrefService* prefs, TemplateURLService* service) {
   DCHECK(prefs);
   DCHECK(service);
 
-  if (prefs->GetBoolean(prefs::kDismissed)) {
-    return false;
-  }
+return false;
 
-  // Don't need to prompt for conversion if user uses brave as a default
-  // provider.
-  auto* template_url = service->GetDefaultSearchProvider();
-  if (!template_url) {
-    return false;
-  }
+  // if (prefs->GetBoolean(prefs::kDismissed)) {
+  //   return false;
+  // }
 
-  const auto id = template_url->prepopulate_id();
-  if (id == TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE ||
-      id == TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE_TOR) {
-    return false;
-  }
+  // // Don't need to prompt for conversion if user uses brave as a default
+  // // provider.
+  // auto* template_url = service->GetDefaultSearchProvider();
+  // if (!template_url) {
+  //   return false;
+  // }
 
-  return base::FeatureList::IsEnabled(features::kNTP);
+  // const auto id = template_url->prepopulate_id();
+  // if (id == TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE ||
+  //     id == TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE_TOR) 
+  //     {
+  //   return false;
+  // }
+
+  // return base::FeatureList::IsEnabled(features::kNTP);
 }
 
 ConversionType GetConversionType(PrefService* prefs,

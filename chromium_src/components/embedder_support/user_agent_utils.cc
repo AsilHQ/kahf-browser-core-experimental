@@ -9,7 +9,7 @@
 
 namespace {
 
-constexpr char kBraveBrandNameForCHUA[] = "Brave";
+constexpr char kBraveBrandNameForCHUA[] = "Kahf";
 
 }  // namespace
 

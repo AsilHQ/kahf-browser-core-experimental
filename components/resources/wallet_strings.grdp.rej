@@ -1,0 +1,22 @@
+diff a/components/resources/wallet_strings.grdp b/components/resources/wallet_strings.grdp	(rejected hunks)
+@@ -293,9 +293,9 @@
+   <message name="IDS_BRAVE_WALLET_AUTHORIZE_HARDWARE_WALLET" desc="Authorize hardware wallet page title">Authorize your wallet</message>
+   <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_WALLET" desc="Title for connect hardware wallet page">Connect hardware wallet</message>
+   <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_WALLET_DESCRIPTION" desc="Description for connect hardware wallet page">We currently support <ph name="HARDWARE_DEVICE"><ex>Ledger</ex>$1</ph> and <ph name="HARDWARE_DEVICE1"><ex>Trezor</ex>$2</ph> devices.</message>
+-  <message name="IDS_BRAVE_WALLET_IMPORT_HARDWARE_WALLET_DESCRIPTION" desc="Description for import hardware wallet page">Connect your hardware wallet to manage your assets directly from Brave Wallet</message>
++  <message name="IDS_BRAVE_WALLET_IMPORT_HARDWARE_WALLET_DESCRIPTION" desc="Description for import hardware wallet page">Connect your hardware wallet to manage your assets directly from Kahf Wallet</message>
+   <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_WALLET_SELECT_BLOCKCHAIN" desc="Page title for selecting blockchain for hardware wallet">Select a blockchain to import your hardware wallet</message>
+-  <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_DEVICE_DESCRIPTION" desc="Connect a hardware wallet description">Connect your <ph name="HARDWARE_DEVICE"><ex>Ledger</ex>$1</ph> device to Brave Wallet</message>
++  <message name="IDS_BRAVE_WALLET_CONNECT_HARDWARE_DEVICE_DESCRIPTION" desc="Connect a hardware wallet description">Connect your <ph name="HARDWARE_DEVICE"><ex>Ledger</ex>$1</ph> device to Kahf Wallet</message>
+   <message name="IDS_BRAVE_WALLET_UNKNOWN_INTERNAL_ERROR" desc="Connect hardware wallet connection error">Unknown error, please reconnect your hardware wallet and try again.</message>
+   <message name="IDS_BRAVE_WALLET_ACCOUNT_SETTINGS_WATCHLIST" desc="Account settings modal visible assets button">Visible assets</message>
+   <message name="IDS_BRAVE_WALLET_ACCOUNT_SETTINGS_PRIVATE_KEY" desc="Account settings modal show private key button">Private key</message>
+@@ -356,7 +356,7 @@
+   <message name="IDS_BRAVE_WALLET_BUY_DESCRIPTION" desc="Buy tab faucet description to get test crypto">Get Ether from a faucet for <ph name="SELECTED_NETWORK"><ex>Goerli Network</ex>$1</ph></message>
+   <message name="IDS_BRAVE_WALLET_BUY_CONTINUE_BUTTON" desc="Buy tab continue button">Select purchase method</message>
+   <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_TITLE" desc="Sign panel title">Your signature is being requested</message>
+-  <message name="IDS_BRAVE_WALLET_SIGN_WARNING" desc="Sign panel warning message">Note that Brave can’t verify what will happen if you sign. A signature could authorize nearly any operation in your account or on your behalf, including (but not limited to) giving total control of your account and crypto assets to the site making the request. Only sign if you’re sure you want to take this action, and trust the requesting site.</message>
++  <message name="IDS_BRAVE_WALLET_SIGN_WARNING" desc="Sign panel warning message">Note that Kahf can’t verify what will happen if you sign. A signature could authorize nearly any operation in your account or on your behalf, including (but not limited to) giving total control of your account and crypto assets to the site making the request. Only sign if you’re sure you want to take this action, and trust the requesting site.</message>
+   <message name="IDS_BRAVE_WALLET_SIGN_WARNING_TITLE" desc="Sign panel risk title">Sign at your own risk</message>
+   <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_MESSAGE_TITLE" desc="Sign panel message title">Message</message>
+   <message name="IDS_BRAVE_WALLET_SIGN_TRANSACTION_EIP712_MESSAGE_HIDE_DETAILS" desc="Sign panel EIP-712 message hide details">Hide details</message>

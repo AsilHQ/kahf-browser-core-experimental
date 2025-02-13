@@ -1,7 +1,7 @@
-# Cross-compiling Brave
+# Cross-compiling Kahf
 
-Out of the box, it is possible to compile unsigned Brave for macOS in Linux.
-The code in this folder additionally makes it possible to codesign Brave, and
+Out of the box, it is possible to compile unsigned Kahf for macOS in Linux.
+The code in this folder additionally makes it possible to codesign Kahf, and
 build DMG and PKG installers.
 
 ## Initialization
@@ -13,9 +13,9 @@ npm install
 npm run init -- --target_os=mac --target_arch=x64
 ```
 
-## Compiling Brave
+## Compiling Kahf
 
-After the above, you can compile Brave for macOS with the following command:
+After the above, you can compile Kahf for macOS with the following command:
 
 ```
 npm run build -- --target_os=mac --target_arch=x64
@@ -83,7 +83,7 @@ temporary files are accessible to macOS under `/ChromiumSrc`.
 
 ## Create a PKG
 
-After the above steps, you should be able to create a PKG installer for Brave
+After the above steps, you should be able to create a PKG installer for Kahf
 via the command:
 
 ```
@@ -109,7 +109,7 @@ keychain. For example:
 export KEYCHAIN_PATH=/Users/michael/Library/Keychains/signing.keychain-db
 ```
 
-Now you can codesign Brave via:
+Now you can codesign Kahf via:
 
 ```
 npm run build -- Static --target_os=mac --target_arch=x64 \

@@ -1,0 +1,98 @@
+diff a/components/resources/strings/brave_components_resources_bg.xtb b/components/resources/strings/brave_components_resources_bg.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Свързване с bitFlyer</translation>
+ <translation id="6143701117592994599">Свързването на Kahf Награди с акаунт в bitFlyer ще ви позволи да печелите BAT и да теглите приходите си от BAT от Kahf Награди.</translation>
+ <translation id="4354564238172327160">Станете Създател за Kahf!</translation>
+-<translation id="4639659520811817892">Посетете creators.brave.com, за да се регистрирате и да започнете да печелите BAT от своите фенове и последователи.</translation>
++<translation id="4639659520811817892">Посетете creators.Kahf.com, за да се регистрирате и да започнете да печелите BAT от своите фенове и последователи.</translation>
+ <translation id="4816455138209470435">Kahf поддържа YouTube, Twitch, Vimeo и други!</translation>
+ <translation id="7404779623219601861">Осребряване на карти за подаръци</translation>
+ <translation id="6215565499749144110">С TAP Network можете да осребрите BAT за популярни карти за подаръци с имена.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">Приносът е изпратен!</translation>
+ <translation id="7063168612616047608">Благодарим ви, че подкрепяте любимите си създатели</translation>
+ <translation id="1041398280582063935">Споделете подкрепата си</translation>
+-<translation id="4001190813297686107">Току-що направих принос в размер на <ph name="AMOUNT"/> BAT с помощта на Kahf Browser! Вижте как можете да подкрепите и любимите си създатели и сайтове: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Току-що направих принос в размер на <ph name="AMOUNT"/> BAT с помощта на Kahf Browser! Вижте как можете да подкрепите и любимите си създатели и сайтове: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Възникна неочаквана грешка</translation>
+ <translation id="2605703631071131439">Моля, отворете панела за приноси, за да опитате отново.</translation>
+ <translation id="8855543392451028706">Добре дошли! Потребителите могат да подкрепят този създател на съдържание, като му изпращат приноси. Това е начин да му благодарите за създаването на страхотно съдържание.</translation>
+@@ -2111,51 +2111,51 @@
+ <translation id="2570787596946026998">Свързване само с HTTP</translation>
+ <translation id="1992750560347846445">Подаване на сигнал за сайта</translation>
+ <translation id="2387532482048804818">Кажете ни, ако сайтът не работи правилно с вдигнати щитове.</translation>
+-<translation id="3795015906457257780">Вие разглеждате този сайт без защитите за поверителност на Brave.</translation>
++<translation id="3795015906457257780">Вие разглеждате този сайт без защитите за поверителност на Kahf.</translation>
+ <translation id="7194012750329511146">Блокирани са
+-<ph name="NUMBER"/> тракера, реклами и други от щитовете на Brave</translation>
++<ph name="NUMBER"/> тракера, реклами и други от щитовете на Kahf</translation>
+ <translation id="4292121526390005808">Блокирани скриптове</translation>
+ <translation id="5046271170844958713">Разрешени скриптове</translation>
+ <translation id="1905384713982899903">Блокирани пръстови отпечатъци</translation>
+ <translation id="314364527871618241">Позволени пръстови отпечатъци</translation>
+ <translation id="264682546981571963">Омръзнало ли ви е от известия за съгласие за бисквитки?</translation>
+-<translation id="4986297793092101884">Brave вече блокира бисквитките на трети страни. Можем също да блокираме известия за съгласие за бисквитки.</translation>
++<translation id="4986297793092101884">Kahf вече блокира бисквитките на трети страни. Можем също да блокираме известия за съгласие за бисквитки.</translation>
+ <translation id="535688588637568715">Да, да се блокират известията за съгласие за бисквитки</translation>
+-<translation id="2808175374672429053">Заместващите символи не са разрешени за Brave Щит.</translation>
++<translation id="2808175374672429053">Заместващите символи не са разрешени за Kahf Щит.</translation>
+ <translation id="7630425922041907505">{BLOCKED_COUNT, plural,
+-=1 {Щитовете на Brave блокираха 1 тракер от<ph name="SITE_URL"/>}
+- other {Щитовете на Brave блокираха {BLOCKED_COUNT} тракера от<ph name="SITE_URL"/>}
++=1 {Щитовете на Kahf блокираха 1 тракер от<ph name="SITE_URL"/>}
++ other {Щитовете на Kahf блокираха {BLOCKED_COUNT} тракера от<ph name="SITE_URL"/>}
+  }</translation>
+-<translation id="2540598191934725677">Кликнете върху иконата на Brave, за да видите Щитовете на Brave.</translation>
++<translation id="2540598191934725677">Кликнете върху иконата на Kahf, за да видите Щитовете на Kahf.</translation>
+ <translation id="6294662480095808915">Поверителност. По подразбиране.</translation>
+-<translation id="4366423156486478559">Получете защита от Brave за всяка връзка, върху която кликнете. Просто задайте Brave по подразбиране и сърфирайте. Частно.</translation>
++<translation id="4366423156486478559">Получете защита от Kahf за всяка връзка, върху която кликнете. Просто задайте Kahf по подразбиране и сърфирайте. Частно.</translation>
+ <translation id="3830912418080848377">Импортиране на настройки</translation>
+ <translation id="6378406588483694938">Лесно импортирайте отметки, разширения и дори запазени пароли от стария си браузър.</translation>
+ <translation id="2092825239819166928">Избор на профил за импортиране</translation>
+ <translation id="4763127492635705340">Избраният от вас браузър има няколко профила. Изберете профила/профилите, които искате да импортирате.</translation>
+ <translation id="880174232178865598">Импортиране на профили</translation>
+ <translation id="2453860139492968684">Край</translation>
+-<translation id="2273851479262317744">Задаване на Brave като браузър по подразбиране</translation>
++<translation id="2273851479262317744">Задаване на Kahf като браузър по подразбиране</translation>
+ <translation id="5037676449506322593">Избиране на всички</translation>
+-<translation id="5148943178722443958">Помогнете ни да направим Brave по-добър.</translation>
++<translation id="5148943178722443958">Помогнете ни да направим Kahf по-добър.</translation>
+ <translation id="1097073572755862978">Изпращайте отчети с диагностика при срив или замръзване. <ph name="LINK_BEFORE"/>Научете повече.<ph name="LINK_AFTER"/></translation>
+-<translation id="6629244688368006959">Споделете поверителна и анонимна информация за продукти относно това какви функции се използват от потребителите на Brave. <ph name="LINK_BEFORE"/>Научете повече.<ph name="LINK_AFTER"/></translation>
++<translation id="6629244688368006959">Споделете поверителна и анонимна информация за продукти относно това какви функции се използват от потребителите на Kahf. <ph name="LINK_BEFORE"/>Научете повече.<ph name="LINK_AFTER"/></translation>
+ <translation id="7415454883318062233">Настройката е завършена</translation>
+-<translation id="3141206739023333979">Променете тези избори по всяко време в Brave на адрес <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
++<translation id="3141206739023333979">Променете тези избори по всяко време в Kahf на адрес <ph name="LINK_BEFORE1"/>Kahf://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+ <translation id="8321985064212130832">Прочетете пълните ни <ph name="LINK_BEFORE"/>Правила за защита на личните данни<ph name="LINK_AFTER"/></translation>
+ <translation id="2801098717523961746">Изберете тема</translation>
+-<translation id="6262510489122516114">Можете да промените това по всяко време от настройките на Brave.</translation>
++<translation id="6262510489122516114">Можете да промените това по всяко време от настройките на Kahf.</translation>
+ <translation id="546481172717459539">Да съответства на настройката на системата</translation>
+ <translation id="7799817062559422778">Светъл режим</translation>
+ <translation id="4117637339509843559">Тъмен режим</translation>
+ <translation id="6302485303316397682">Искате ли по-добри резултати при търсене?</translation>
+-<translation id="7014699001826714920">Присъединете се към движението, допринесете за Brave Search.</translation>
+-<translation id="6821108091726602352">Помогнете ни да подобрим мрежата, като участвате в Web Discovery Project на Brave. Споделяйки напълно анонимни сигнали от търсения, можете да помогнете на Brave да повиши индекса за търсене.</translation>
++<translation id="7014699001826714920">Присъединете се към движението, допринесете за Kahf Search.</translation>
++<translation id="6821108091726602352">Помогнете ни да подобрим мрежата, като участвате в Web Discovery Project на Kahf. Споделяйки напълно анонимни сигнали от търсения, можете да помогнете на Kahf да повиши индекса за търсене.</translation>
+ <translation id="6764845498618413165">Научете повече.</translation>
+ <translation id="7818938154803162778">Разбира се, ще помогна</translation>
+-<translation id="7821773512278295352">Защитна стена на Brave + VPN: Свързани</translation>
+-<translation id="6019088868713395120">Защитна стена на Brave + VPN: Прекъсната връзка</translation>
+-<translation id="3541307549916475335">Потребителски интерфейс на VPN панела на Brave</translation>
++<translation id="7821773512278295352">Защитна стена на Kahf + VPN: Свързани</translation>
++<translation id="6019088868713395120">Защитна стена на Kahf + VPN: Прекъсната връзка</translation>
++<translation id="3541307549916475335">Потребителски интерфейс на VPN панела на Kahf</translation>
+ <translation id="7143207342074048698">Свързва се</translation>
+ <translation id="1202549130170287307">Връзката се прекратява</translation>
+ <translation id="2325196879156848326">Неуспешно свързване</translation>
+@@ -2230,7 +2230,7 @@ Brave има помощна услуга, която Ви защитава от
+ <translation id="7423206764347669977">Променете настройките</translation>
+ <translation id="9061845622728745852">Часова зона:</translation>
+ <translation id="8295393906499561642">Сесията е изтекла</translation>
+-<translation id="3312623558576021182">Моля, впишете се във Вашия <ph name="BRAVE_ACCOUNT_BEGIN"/>профил в Kahf<ph name="BRAVE_ACCOUNT_END"/>, за да опресните Вашата VPN сесия.</translation>
++<translation id="3312623558576021182">Моля, впишете се във Вашия <ph name="Kahf_ACCOUNT_BEGIN"/>профил в Kahf<ph name="Kahf_ACCOUNT_END"/>, за да опресните Вашата VPN сесия.</translation>
+ <translation id="6021669293402055982">Kahf VPN: прекъсната връзка</translation>
+ <translation id="7861195049821776142">Kahf VPN: прекъсване на връзката</translation>
+ <translation id="958268166261124668">Kahf VPN: свързан</translation>

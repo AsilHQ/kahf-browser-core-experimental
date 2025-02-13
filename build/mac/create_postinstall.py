@@ -31,9 +31,9 @@ def main():
         'KSProductID': 'CFBundleIdentifier',
         'KSVersion': 'CFBundleShortVersionString',
         '/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/'
-        'Contents/MacOS/ksadmin': '/Library/Application Support/BraveSoftware'
+        'Contents/MacOS/ksadmin': '/Library/Application Support/Halalz'
         '/BraveUpdater/Current/BraveUpdater.app/'
-        'Contents/Helpers/BraveSoftwareUpdate.bundle/'
+        'Contents/Helpers/HalalzUpdate.bundle/'
         'Contents/Helpers/ksadmin'
     }
     for key, value in replacements.items():

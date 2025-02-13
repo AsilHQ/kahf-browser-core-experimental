@@ -131,8 +131,8 @@ if (is_win) {
       deps = [ "//chrome/installer/setup:setup" ]
     }
     sign("signed_brave_exe") {
-      sources = [ "$root_out_dir/brave.exe" ]
-      outputs = [ "$root_out_dir/presigned_binaries/brave.exe" ]
+      sources = [ "$root_out_dir/kahf.exe" ]
+      outputs = [ "$root_out_dir/presigned_binaries/kahf.exe" ]
       deps = [ "//brave/build/win:copy_exe" ]
     }
     sign("signed_chrome_dll") {
@@ -666,7 +666,7 @@ if (is_win && enable_resource_allowlist_generation) {
   # wireguard resources in pak files.
   action("merge_allowlists") {
     deps = [
-      "//brave/browser/brave_vpn/win/brave_vpn_wireguard_service:wireguard_resource_allowlist",
+      #"//brave/browser/brave_vpn/win/brave_vpn_wireguard_service:wireguard_resource_allowlist",
       "//chrome:resource_allowlist",
     ]
 
@@ -675,8 +675,8 @@ if (is_win && enable_resource_allowlist_generation) {
     args = [
       "--repack_allowlist",
       rebase_path(source_allowlist, root_build_dir),
-      "--brave_allowlist",
-      rebase_path(wireguard_resource_allowlist_file, root_build_dir),
+      #"--brave_allowlist",
+      #rebase_path(wireguard_resource_allowlist_file, root_build_dir),
       "--output",
       rebase_path(brave_allowlist_file, root_build_dir),
     ]
