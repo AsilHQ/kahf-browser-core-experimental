@@ -112,12 +112,12 @@ IN_PROC_BROWSER_TEST_F(CustomBackgroundFileManagerBrowserTest,
   EXPECT_TRUE(base::PathExists(test_file()));
 }
 
+// On Mac x64 CI node we presume this test crashes the whole suite.
+// https://github.com/brave/brave-browser/issues/38988
 #if BUILDFLAG(IS_MAC) && defined(ARCH_CPU_ARM_FAMILY)
-// On Mac ARM CI node, this test is flaky because of timeout.
-// https://github.com/brave/brave-browser/issues/29762
-#define MAYBE_SaveImageMultipleTimes DISABLED_SaveImageMultipleTimes
-#else
 #define MAYBE_SaveImageMultipleTimes SaveImageMultipleTimes
+#else
+#define MAYBE_SaveImageMultipleTimes DISABLED_SaveImageMultipleTimes
 #endif
 
 IN_PROC_BROWSER_TEST_F(CustomBackgroundFileManagerBrowserTest,
