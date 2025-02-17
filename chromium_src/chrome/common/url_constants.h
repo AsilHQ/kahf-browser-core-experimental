@@ -169,7 +169,7 @@ inline constexpr char kCrashReasonFeedbackDisplayedURL[] =
 // "Learn more" URL for the inactive tabs appearance setting.
 inline constexpr char16_t kDiscardRingTreatmentLearnMoreUrl[] =
     u"https://kahfbrowser.com/contact/?"
-    u"13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Brave";
+    u"13383683902733-How-do-I-use-the-Memory-Saver-feature-in-Kahf";
 
 // "Learn more" URL for the "Do not track" setting in the privacy section.
 inline constexpr char16_t kDoNotTrackLearnMoreURL[] =
