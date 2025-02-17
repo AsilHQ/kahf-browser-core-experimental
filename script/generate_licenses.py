@@ -138,6 +138,7 @@ def write_license_file(directory, contents):
 
 
 def list_ntp_backgrounds(metadata_file):
+    return []
     json_metadata = ''
     with open(metadata_file, mode='rt', encoding='utf-8') as file_handle:
         # Extract only the background images.

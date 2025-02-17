@@ -61,25 +61,33 @@ function ThemeModeItem (props: ThemeModeItemProps) {
   )
 }
 
-function SelectTheme () {
-  const { viewType, setViewType, scenes } = React.useContext(DataContext)
-  const [currentSelectedTheme, setCurrentTheme] = React.useState<chrome.braveTheme.ThemeType>('System')
+function SelectTheme() {
+  const { viewType, setViewType, scenes } = React.useContext(DataContext);
+  const [currentSelectedTheme, setCurrentTheme] = React.useState<chrome.braveTheme.ThemeType>('System');
 
   const handleSelectionChange = (themeType: chrome.braveTheme.ThemeType) => {
-    setCurrentTheme?.(themeType)
-  }
+    setCurrentTheme?.(themeType);
+  };
 
-  const { forward } = useViewTypeTransition(viewType)
+  const { forward, back } = useViewTypeTransition(viewType); // Add `back` here
+
   const goForward = () => {
-    setViewType(forward)
-    scenes?.s2.play()
-  }
+    setViewType(forward);
+    scenes?.s2.play();
+  };
 
-  const handleSkip = () => goForward()
+  const handleSkip = () => goForward();
+
   const handleNext = () => {
-    chrome.braveTheme.setBraveThemeType(currentSelectedTheme)
-    goForward()
-  }
+    chrome.braveTheme.setBraveThemeType(currentSelectedTheme);
+    goForward();
+  };
+
+  const handleGoBack = () => {
+    if (back) {
+      setViewType(back); // Navigate to the previous view
+    }
+  };
 
   return (
     <S.Box>
@@ -105,12 +113,22 @@ function SelectTheme () {
                 isActive={entry.themeType === currentSelectedTheme}
                 onChange={handleSelectionChange}
               />
-            )
+            );
           })}
         </div>
       </S.ThemeListBox>
       <div className="view-note">{getLocale('braveWelcomeSelectThemeNote')}</div>
       <S.ActionBox>
+        {/* Add the Previous Button */}
+        {back && ( // Only show the "Previous" button if `back` is defined
+          <Button
+            isTertiary={true}
+            onClick={handleGoBack}
+            scale="jumbo"
+          >
+            {getLocale('braveWelcomePreviousButtonLabel')}
+          </Button>
+        )}
         <Button
           isTertiary={true}
           onClick={handleSkip}
@@ -127,7 +145,7 @@ function SelectTheme () {
         </Button>
       </S.ActionBox>
     </S.Box>
-  )
+  );
 }
 
-export default SelectTheme
+export default SelectTheme;

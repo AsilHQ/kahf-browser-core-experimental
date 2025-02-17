@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Разширението Brave",
+    "message": "Разширението Kahf",
     "description": "The name of the extension."
   },
   "shields": {
@@ -24,12 +24,12 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "Разглеждате този сайт без защитата на личните данни и сигурността на Brave. Не работи ли правилно с включени Щитове?",
+    "message": "Разглеждате този сайт без защитата на личните данни и сигурността на Kahf. Не работи ли правилно с включени Щитове?",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
     "message": "Докладвайте нефункциониращ сайт",
-    "description": "Message for the button allowing users to report a broken site to Brave developers"
+    "description": "Message for the button allowing users to report a broken site to Kahf developers"
   },
   "itemsBlocked": {
     "message": "Блокирани елементи",
@@ -188,8 +188,8 @@
     "description": "Message for the simple view option"
   },
   "shieldsExplanation": {
-    "message": "Сайтовете често включват бисквитки и скриптове, които се опитват да идентифицират вас и вашето устройство (често са вградени в рекламите). Те искат да разберат кой сте и да ви следват из нета, проследявайки какво правите на всеки сайт. Brave блокира тези неща, така че да браузвате без да ви следват.",
-    "description": "Message in read-only view explaining what Brave Shields do"
+    "message": "Сайтовете често включват бисквитки и скриптове, които се опитват да идентифицират вас и вашето устройство (често са вградени в рекламите). Те искат да разберат кой сте и да ви следват из нета, проследявайки какво правите на всеки сайт. Kahf блокира тези неща, така че да браузвате без да ви следват.",
+    "description": "Message in read-only view explaining what Kahf Shields do"
   },
   "blockedResoucesExplanation": {
     "message": "Блокирани са проследяващи устройства през сайтове и други неприятни неща",
@@ -207,13 +207,13 @@
     "message": "Научете повече",
     "description": "Message inviting the user to learn more about Shields"
   },
-  "addToBrave": {
-    "message": "Добавяне към Brave",
-    "description": "Message for adding an extension to Brave"
+  "addToKahf": {
+    "message": "Добавяне към Kahf",
+    "description": "Message for adding an extension to Kahf"
   },
-  "removeFromBrave": {
-    "message": "Премахване от Brave",
-    "description": "Message for removing an extension from Brave"
+  "removeFromKahf": {
+    "message": "Премахване от Kahf",
+    "description": "Message for removing an extension from Kahf"
   },
   "addToChrome": {
     "message": "Добавяне",

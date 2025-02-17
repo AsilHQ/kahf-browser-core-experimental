@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_hi.xtb b/components/resources/strings/brave_components_resources_hi.xtb	(rejected hunks)
+@@ -398,7 +398,7 @@
+ <translation id="7642372245223412840">bitFlyer से कनेक्ट करें</translation>
+ <translation id="6143701117592994599">Kahf रिवॉर्ड को bitFlyer अकाउंट से कनेक्ट करके आप BAT कमा पाएँगे और Kahf रिवॉर्ड से अपने कमाए हुए BAT निकाल भी पाएँगे.</translation>
+ <translation id="4354564238172327160">Kahf क्रिएटर बनें!</translation>
+-<translation id="4639659520811817892">creators.brave.com पर जाकर आज ही साइन अप करें और अपने प्रशंसकों और फ़ॉलोअर से BAT कमाना शुरू करें.</translation>
++<translation id="4639659520811817892">creators.Kahf.com पर जाकर आज ही साइन अप करें और अपने प्रशंसकों और फ़ॉलोअर से BAT कमाना शुरू करें.</translation>
+ <translation id="4816455138209470435">YouTube, Twitch, Vimeo के साथ ही Kahf और भी कई प्लैटफ़ॉर्म पर काम करता है!</translation>
+ <translation id="7404779623219601861">उपहार कार्ड के लिए BAT को रिडीम करें</translation>
+ <translation id="6215565499749144110">TAP नेटवर्क के साथ, आप अपने BAT को लोकप्रिय नाम-ब्रांड के उपहार कार्ड के लिए रिडीम कर सकते हैं।</translation>
+@@ -607,7 +607,7 @@
+ <translation id="5379685283876547860">आर्थिक योगदान भेजा गया!</translation>
+ <translation id="7063168612616047608">आपने अपने पसंदीदा क्रिएटर की सहायता की, इसके लिए आपका शुक्रिया</translation>
+ <translation id="1041398280582063935">सहायता करें</translation>
+-<translation id="4001190813297686107">मैंने Kahf ब्राउज़र के ज़रिए अभी-अभी <ph name="AMOUNT"/> BAT का योगदान दिया है! आप भी अपने पसंदीदा क्रिएटर और साइट की सहायता कैसे कर सकते हैं, जानने के लिए यहाँ देखें : https://brave.com/rewards</translation>
++<translation id="4001190813297686107">मैंने Kahf ब्राउज़र के ज़रिए अभी-अभी <ph name="AMOUNT"/> BAT का योगदान दिया है! आप भी अपने पसंदीदा क्रिएटर और साइट की सहायता कैसे कर सकते हैं, जानने के लिए यहाँ देखें : https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">कोई अप्रत्याशित गड़बड़ी हुई है</translation>
+ <translation id="2605703631071131439">फिर से कोशिश करने के लिए आर्थिक योगदान पैनल को दोबारा खोलें.</translation>
+ <translation id="8855543392451028706">स्वागत है! यूज़र अपनी ओर से आर्थिक योगदान भेजकर इन कंटेंट क्रिएटर को सपोर्ट कर सकते हैं. शानदार कंटेंट बनाने के लिए यह उन्हें धन्यवाद कहने का एक तरीका है.</translation>
+@@ -2054,7 +2054,7 @@
+ <translation id="1093419424466417703">लियो के लिए पेज बहुत लंबा है. हो सकता है बातचीत से कुछ संदर्भ पूरी तरह से ना हों. लियो पेज के <ph name="PERCENTAGE"/> कंटेंट को पढ़ सकता है.</translation>
+ <translation id="2186990448773134544">इस पेज पर लियो के लिए बहुत ज़्यादा कंटेंट था, इसलिए यहाँ से संबंधित कंटेंट को एक्सट्रैक्ट करके उसमें सुधार किया गया है.</translation>
+ <translation id="4370698775470316661">यह बातचीत बहुत लंबी है, इसलिए इसे जारी नहीं रखा जा सकता है. ऐसे कुछ अन्य मॉडल हो सकते हैं, जिनके साथ लियो लंबी बातचीत के दौरान भी सटीकता बनाए रख सके.</translation>
+-<translation id="5719170755629028558">Brave Search के साथ अपने जवाब को बेहतर बनाएं...</translation>
++<translation id="5719170755629028558">Kahf Search के साथ अपने जवाब को बेहतर बनाएं...</translation>
+ <translation id="5794962229997281366"><ph name="SEARCH_TERMS"/>के लिए बेहतर जवाब सर्च करता है.</translation>
+ <translation id="6291843235651817590">सामान्य विषय की चैट</translation>
+ <translation id="8193130769524604031">चैट के एडवांस कार्य</translation>
+@@ -2264,7 +2264,7 @@ Brave में एक सहयोगी सेवा है, जो आपक
+ <translation id="7423206764347669977">सेटिंग बदलें</translation>
+ <translation id="9061845622728745852">टाइमज़ोन :</translation>
+ <translation id="8295393906499561642">सेशन समाप्त हो गया</translation>
+-<translation id="3312623558576021182">कृपया अपने VPN सेशन को रीफ़्रेश करने के लिए, अपने <ph name="BRAVE_ACCOUNT_BEGIN"/>Kahf अकाउंट<ph name="BRAVE_ACCOUNT_END"/> में लॉग इन करें।</translation>
++<translation id="3312623558576021182">कृपया अपने VPN सेशन को रीफ़्रेश करने के लिए, अपने <ph name="Kahf_ACCOUNT_BEGIN"/>Kahf अकाउंट<ph name="Kahf_ACCOUNT_END"/> में लॉग इन करें।</translation>
+ <translation id="6021669293402055982">Kahf VPN: डिसकनेक्ट हो गया है</translation>
+ <translation id="7861195049821776142">Kahf VPN: डिसकनेक्ट हो रहा है</translation>
+ <translation id="958268166261124668">Kahf VPN: कनेक्ट हो गया है</translation>

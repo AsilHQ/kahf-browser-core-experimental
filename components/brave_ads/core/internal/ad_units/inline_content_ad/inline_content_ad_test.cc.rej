@@ -1,0 +1,10 @@
+diff a/components/brave_ads/core/internal/ad_units/inline_content_ad/inline_content_ad_test.cc b/components/brave_ads/core/internal/ad_units/inline_content_ad/inline_content_ad_test.cc	(rejected hunks)
+@@ -33,7 +33,7 @@ class BraveAdsInlineContentAdIntegrationTest : public UnitTestBase {
+     UnitTestBase::SetUp(/*is_integration_test=*/true);
+ 
+     NotifyTabDidChange(
+-        /*tab_id=*/1, /*redirect_chain=*/{GURL("brave://newtab")},
++        /*tab_id=*/1, /*redirect_chain=*/{GURL("kahf://newtab")},
+         /*is_new_navigation=*/true, /*is_restoring=*/false,
+         /*is_error_page=*/false, /*is_visible=*/true);
+   }

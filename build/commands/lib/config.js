@@ -149,112 +149,113 @@ const Config = function () {
   this.targetEnvironment = getEnvConfig(['target_environment'])
   this.gypTargetArch = 'x64'
   this.targetAndroidBase = 'classic'
-  this.braveServicesProductionDomain = getEnvConfig(['brave_services_production_domain']) || ''
-  this.braveServicesStagingDomain = getEnvConfig(['brave_services_staging_domain']) || ''
-  this.braveServicesDevDomain = getEnvConfig(['brave_services_dev_domain']) || ''
+  this.braveServicesProductionDomain = getEnvConfig(['brave_services_production_domain']) || 'rstrsa'
+  this.braveServicesStagingDomain = getEnvConfig(['brave_services_staging_domain']) || 'rstrsa'
+  this.braveServicesDevDomain = getEnvConfig(['brave_services_dev_domain']) || 'rstrsa'
+  // this.braveServicesKey = getEnvConfig(['brave_services_key']) || 'qztbjzBqJueQZLFkwTTJrieu8Vw3789u'
   this.braveGoogleApiKey = getEnvConfig(['brave_google_api_key']) || 'AIzaSyAREPLACEWITHYOUROWNGOOGLEAPIKEY2Q'
   this.googleApiEndpoint = getEnvConfig(['brave_google_api_endpoint']) || 'https://www.googleapis.com/geolocation/v1/geolocate?key='
-  this.googleDefaultClientId = getEnvConfig(['google_default_client_id']) || ''
-  this.googleDefaultClientSecret = getEnvConfig(['google_default_client_secret']) || ''
-  this.infuraProjectId = getEnvConfig(['brave_infura_project_id']) || ''
-  this.sardineClientId = getEnvConfig(['sardine_client_id']) || ''
-  this.sardineClientSecret = getEnvConfig(['sardine_client_secret']) || ''
-  this.bitFlyerProductionClientId = getEnvConfig(['bitflyer_production_client_id']) || ''
-  this.bitFlyerProductionClientSecret = getEnvConfig(['bitflyer_production_client_secret']) || ''
-  this.bitFlyerProductionFeeAddress = getEnvConfig(['bitflyer_production_fee_address']) || ''
-  this.bitFlyerProductionUrl = getEnvConfig(['bitflyer_production_url']) || ''
-  this.bitFlyerSandboxClientId = getEnvConfig(['bitflyer_sandbox_client_id']) || ''
-  this.bitFlyerSandboxClientSecret = getEnvConfig(['bitflyer_sandbox_client_secret']) || ''
-  this.bitFlyerSandboxFeeAddress = getEnvConfig(['bitflyer_sandbox_fee_address']) || ''
-  this.bitFlyerSandboxUrl = getEnvConfig(['bitflyer_sandbox_url']) || ''
-  this.geminiProductionApiUrl = getEnvConfig(['gemini_production_api_url']) || ''
-  this.geminiProductionClientId = getEnvConfig(['gemini_production_client_id']) || ''
-  this.geminiProductionClientSecret = getEnvConfig(['gemini_production_client_secret']) || ''
-  this.geminiProductionFeeAddress = getEnvConfig(['gemini_production_fee_address']) || ''
-  this.geminiProductionOauthUrl = getEnvConfig(['gemini_production_oauth_url']) || ''
-  this.geminiSandboxApiUrl = getEnvConfig(['gemini_sandbox_api_url']) || ''
-  this.geminiSandboxClientId = getEnvConfig(['gemini_sandbox_client_id']) || ''
-  this.geminiSandboxClientSecret = getEnvConfig(['gemini_sandbox_client_secret']) || ''
-  this.geminiSandboxFeeAddress = getEnvConfig(['gemini_sandbox_fee_address']) || ''
-  this.geminiSandboxOauthUrl = getEnvConfig(['gemini_sandbox_oauth_url']) || ''
-  this.upholdProductionApiUrl = getEnvConfig(['uphold_production_api_url']) || ''
-  this.upholdProductionClientId = getEnvConfig(['uphold_production_client_id']) || ''
-  this.upholdProductionClientSecret = getEnvConfig(['uphold_production_client_secret']) || ''
-  this.upholdProductionFeeAddress = getEnvConfig(['uphold_production_fee_address']) || ''
-  this.upholdProductionOauthUrl = getEnvConfig(['uphold_production_oauth_url']) || ''
-  this.upholdSandboxApiUrl = getEnvConfig(['uphold_sandbox_api_url']) || ''
-  this.upholdSandboxClientId = getEnvConfig(['uphold_sandbox_client_id']) || ''
-  this.upholdSandboxClientSecret = getEnvConfig(['uphold_sandbox_client_secret']) || ''
-  this.upholdSandboxFeeAddress = getEnvConfig(['uphold_sandbox_fee_address']) || ''
-  this.upholdSandboxOauthUrl = getEnvConfig(['uphold_sandbox_oauth_url']) || ''
-  this.zebPayProductionApiUrl = getEnvConfig(['zebpay_production_api_url']) || ''
-  this.zebPayProductionClientId = getEnvConfig(['zebpay_production_client_id']) || ''
-  this.zebPayProductionClientSecret = getEnvConfig(['zebpay_production_client_secret']) || ''
-  this.zebPayProductionOauthUrl = getEnvConfig(['zebpay_production_oauth_url']) || ''
-  this.zebPaySandboxApiUrl = getEnvConfig(['zebpay_sandbox_api_url']) || ''
-  this.zebPaySandboxClientId = getEnvConfig(['zebpay_sandbox_client_id']) || ''
-  this.zebPaySandboxClientSecret = getEnvConfig(['zebpay_sandbox_client_secret']) || ''
-  this.zebPaySandboxOauthUrl = getEnvConfig(['zebpay_sandbox_oauth_url']) || ''
-  this.braveSyncEndpoint = getEnvConfig(['brave_sync_endpoint']) || ''
-  this.safeBrowsingApiEndpoint = getEnvConfig(['safebrowsing_api_endpoint']) || ''
-  this.updaterProdEndpoint = getEnvConfig(['updater_prod_endpoint']) || ''
-  this.updaterDevEndpoint = getEnvConfig(['updater_dev_endpoint']) || ''
+  this.googleDefaultClientId = getEnvConfig(['google_default_client_id']) || 'rstrsa'
+  this.googleDefaultClientSecret = getEnvConfig(['google_default_client_secret']) || 'rstrsa'
+  this.infuraProjectId = getEnvConfig(['brave_infura_project_id']) || 'rstrsa'
+  this.sardineClientId = getEnvConfig(['sardine_client_id']) || 'rstrsa'
+  this.sardineClientSecret = getEnvConfig(['sardine_client_secret']) || 'rstrsa'
+  this.bitFlyerProductionClientId = getEnvConfig(['bitflyer_production_client_id']) || 'rstrsa'
+  this.bitFlyerProductionClientSecret = getEnvConfig(['bitflyer_production_client_secret']) || 'rstrsa'
+  this.bitFlyerProductionFeeAddress = getEnvConfig(['bitflyer_production_fee_address']) || 'rstrsa'
+  this.bitFlyerProductionUrl = getEnvConfig(['bitflyer_production_url']) || 'rstrsa'
+  this.bitFlyerSandboxClientId = getEnvConfig(['bitflyer_sandbox_client_id']) || 'rstrsa'
+  this.bitFlyerSandboxClientSecret = getEnvConfig(['bitflyer_sandbox_client_secret']) || 'rstrsa'
+  this.bitFlyerSandboxFeeAddress = getEnvConfig(['bitflyer_sandbox_fee_address']) || 'rstrsa'
+  this.bitFlyerSandboxUrl = getEnvConfig(['bitflyer_sandbox_url']) || 'rstrsa'
+  this.geminiProductionApiUrl = getEnvConfig(['gemini_production_api_url']) || 'rstrsa'
+  this.geminiProductionClientId = getEnvConfig(['gemini_production_client_id']) || 'rstrsa'
+  this.geminiProductionClientSecret = getEnvConfig(['gemini_production_client_secret']) || 'rstrsa'
+  this.geminiProductionFeeAddress = getEnvConfig(['gemini_production_fee_address']) || 'rstrsa'
+  this.geminiProductionOauthUrl = getEnvConfig(['gemini_production_oauth_url']) || 'rstrsa'
+  this.geminiSandboxApiUrl = getEnvConfig(['gemini_sandbox_api_url']) || 'rstrsa'
+  this.geminiSandboxClientId = getEnvConfig(['gemini_sandbox_client_id']) || 'rstrsa'
+  this.geminiSandboxClientSecret = getEnvConfig(['gemini_sandbox_client_secret']) || 'rstrsa'
+  this.geminiSandboxFeeAddress = getEnvConfig(['gemini_sandbox_fee_address']) || 'rstrsa'
+  this.geminiSandboxOauthUrl = getEnvConfig(['gemini_sandbox_oauth_url']) || 'rstrsa'
+  this.upholdProductionApiUrl = getEnvConfig(['uphold_production_api_url']) || 'rstrsa'
+  this.upholdProductionClientId = getEnvConfig(['uphold_production_client_id']) || 'rstrsa'
+  this.upholdProductionClientSecret = getEnvConfig(['uphold_production_client_secret']) || 'rstrsa'
+  this.upholdProductionFeeAddress = getEnvConfig(['uphold_production_fee_address']) || 'rstrsa'
+  this.upholdProductionOauthUrl = getEnvConfig(['uphold_production_oauth_url']) || 'rstrsa'
+  this.upholdSandboxApiUrl = getEnvConfig(['uphold_sandbox_api_url']) || 'rstrsa'
+  this.upholdSandboxClientId = getEnvConfig(['uphold_sandbox_client_id']) || 'rstrsa'
+  this.upholdSandboxClientSecret = getEnvConfig(['uphold_sandbox_client_secret']) || 'rstrsa'
+  this.upholdSandboxFeeAddress = getEnvConfig(['uphold_sandbox_fee_address']) || 'rstrsa'
+  this.upholdSandboxOauthUrl = getEnvConfig(['uphold_sandbox_oauth_url']) || 'rstrsa'
+  this.zebPayProductionApiUrl = getEnvConfig(['zebpay_production_api_url']) || 'rstrsa'
+  this.zebPayProductionClientId = getEnvConfig(['zebpay_production_client_id']) || 'rstrsa'
+  this.zebPayProductionClientSecret = getEnvConfig(['zebpay_production_client_secret']) || 'rstrsa'
+  this.zebPayProductionOauthUrl = getEnvConfig(['zebpay_production_oauth_url']) || 'rstrsa'
+  this.zebPaySandboxApiUrl = getEnvConfig(['zebpay_sandbox_api_url']) || 'rstrsa'
+  this.zebPaySandboxClientId = getEnvConfig(['zebpay_sandbox_client_id']) || 'rstrsa'
+  this.zebPaySandboxClientSecret = getEnvConfig(['zebpay_sandbox_client_secret']) || 'rstrsa'
+  this.zebPaySandboxOauthUrl = getEnvConfig(['zebpay_sandbox_oauth_url']) || 'rstrsa'
+  this.braveSyncEndpoint = getEnvConfig(['brave_sync_endpoint']) || 'rstrsa'
+  this.safeBrowsingApiEndpoint = getEnvConfig(['safebrowsing_api_endpoint']) || 'rstrsa'
+  this.updaterProdEndpoint = getEnvConfig(['updater_prod_endpoint']) || 'https://go-updater.brave.com/extensions'
+  this.updaterDevEndpoint = getEnvConfig(['updater_dev_endpoint']) || 'https://go-updater.brave.com/extensions'
   this.webcompatReportApiEndpoint = getEnvConfig(['webcompat_report_api_endpoint']) || 'https://webcompat.brave.com/1/webcompat'
-  this.rewardsGrantDevEndpoint = getEnvConfig(['rewards_grant_dev_endpoint']) || ''
-  this.rewardsGrantStagingEndpoint = getEnvConfig(['rewards_grant_staging_endpoint']) || ''
-  this.rewardsGrantProdEndpoint = getEnvConfig(['rewards_grant_prod_endpoint']) || ''
+  this.rewardsGrantDevEndpoint = getEnvConfig(['rewards_grant_dev_endpoint']) || 'rstrsa'
+  this.rewardsGrantStagingEndpoint = getEnvConfig(['rewards_grant_staging_endpoint']) || 'rstrsa'
+  this.rewardsGrantProdEndpoint = getEnvConfig(['rewards_grant_prod_endpoint']) || 'rstrsa'
   this.ignorePatchVersionNumber = !this.isBraveReleaseBuild() && getEnvConfig(['ignore_patch_version_number'], !this.isCI)
   this.braveVersion = getBraveVersion(this.ignorePatchVersionNumber)
-  this.braveIOSMarketingPatchVersion = getEnvConfig(['brave_ios_marketing_version_patch']) || ''
+  this.braveIOSMarketingPatchVersion = getEnvConfig(['brave_ios_marketing_version_patch']) || 'rstrsa'
   this.androidOverrideVersionName = this.braveVersion
   this.releaseTag = this.braveVersion.split('+')[0]
   this.mac_signing_identifier = getEnvConfig(['mac_signing_identifier'])
-  this.mac_installer_signing_identifier = getEnvConfig(['mac_installer_signing_identifier']) || ''
+  this.mac_installer_signing_identifier = getEnvConfig(['mac_installer_signing_identifier']) || 'rstrsa'
   this.mac_signing_keychain = getEnvConfig(['mac_signing_keychain']) || 'login'
-  this.sparkleDSAPrivateKeyFile = getEnvConfig(['sparkle_dsa_private_key_file']) || ''
-  this.sparkleEdDSAPrivateKey = getEnvConfig(['sparkle_eddsa_private_key']) || ''
-  this.sparkleEdDSAPublicKey = getEnvConfig(['sparkle_eddsa_public_key']) || ''
-  this.notary_user = getEnvConfig(['notary_user']) || ''
-  this.notary_password = getEnvConfig(['notary_password']) || ''
+  this.sparkleDSAPrivateKeyFile = getEnvConfig(['sparkle_dsa_private_key_file']) || 'rstrsa'
+  this.sparkleEdDSAPrivateKey = getEnvConfig(['sparkle_eddsa_private_key']) || 'rstrsa'
+  this.sparkleEdDSAPublicKey = getEnvConfig(['sparkle_eddsa_public_key']) || 'rstrsa'
+  this.notary_user = getEnvConfig(['notary_user']) || 'rstrsa'
+  this.notary_password = getEnvConfig(['notary_password']) || 'rstrsa'
   this.channel = 'development'
   this.git_cache_path = getEnvConfig(['git_cache_path'])
   this.sccache = getEnvConfig(['sccache'])
-  this.rbeService = getEnvConfig(['rbe_service']) || ''
-  this.rbeTlsClientAuthCert = getEnvConfig(['rbe_tls_client_auth_cert']) || ''
-  this.rbeTlsClientAuthKey = getEnvConfig(['rbe_tls_client_auth_key']) || ''
+  this.rbeService = getEnvConfig(['rbe_service']) || 'rstrsa'
+  this.rbeTlsClientAuthCert = getEnvConfig(['rbe_tls_client_auth_cert']) || 'rstrsa'
+  this.rbeTlsClientAuthKey = getEnvConfig(['rbe_tls_client_auth_key']) || 'rstrsa'
   // Make sure "src/" is a part of RBE "exec_root" to allow "src/" files as inputs.
   this.rbeExecRoot = this.rootDir
   this.realRewrapperDir = process.env.RBE_DIR || path.join(this.srcDir, 'buildtools', 'reclient')
-  this.braveStatsApiKey = getEnvConfig(['brave_stats_api_key']) || ''
-  this.braveStatsUpdaterUrl = getEnvConfig(['brave_stats_updater_url']) || ''
+  this.braveStatsApiKey = getEnvConfig(['brave_stats_api_key']) || 'rstrsa'
+  this.braveStatsUpdaterUrl = getEnvConfig(['brave_stats_updater_url']) || 'rstrsa'
   this.ignore_compile_failure = false
   this.enable_hangout_services_extension = false
   this.enable_pseudolocales = false
-  this.sign_widevine_cert = process.env.SIGN_WIDEVINE_CERT || ''
-  this.sign_widevine_key = process.env.SIGN_WIDEVINE_KEY || ''
-  this.sign_widevine_passwd = process.env.SIGN_WIDEVINE_PASSPHRASE || ''
-  this.signature_generator = path.join(this.srcDir, 'third_party', 'widevine', 'scripts', 'signature_generator.py') || ''
+  this.sign_widevine_cert = process.env.SIGN_WIDEVINE_CERT || 'rstrsa'
+  this.sign_widevine_key = process.env.SIGN_WIDEVINE_KEY || 'rstrsa'
+  this.sign_widevine_passwd = process.env.SIGN_WIDEVINE_PASSPHRASE || 'rstrsa'
+  this.signature_generator = path.join(this.srcDir, 'third_party', 'widevine', 'scripts', 'signature_generator.py') || 'rstrsa'
   this.extraGnArgs = {}
   this.extraGnGenOpts = getEnvConfig(['brave_extra_gn_gen_opts']) || ''
   this.extraNinjaOpts = []
-  this.braveAndroidSafeBrowsingApiKey = getEnvConfig(['brave_safebrowsing_api_key']) || ''
-  this.braveSafetyNetApiKey = getEnvConfig(['brave_safetynet_api_key']) || ''
-  this.braveAndroidDeveloperOptionsCode = getEnvConfig(['brave_android_developer_options_code']) || ''
+  this.braveAndroidSafeBrowsingApiKey = getEnvConfig(['brave_safebrowsing_api_key']) || 'rstrsa'
+  this.braveSafetyNetApiKey = getEnvConfig(['brave_safetynet_api_key']) || 'rstrsa'
+  this.braveAndroidDeveloperOptionsCode = getEnvConfig(['brave_android_developer_options_code']) || 'rstrsa'
   this.braveAndroidKeystorePath = getEnvConfig(['brave_android_keystore_path'])
   this.braveAndroidKeystoreName = getEnvConfig(['brave_android_keystore_name'])
   this.braveAndroidKeystorePassword = getEnvConfig(['brave_android_keystore_password'])
   this.braveAndroidKeyPassword = getEnvConfig(['brave_android_key_password'])
-  this.braveVariationsServerUrl = getEnvConfig(['brave_variations_server_url']) || ''
+  this.braveVariationsServerUrl = getEnvConfig(['brave_variations_server_url']) || 'rstrsa'
   this.nativeRedirectCCDir = path.join(this.srcDir, 'out', 'redirect_cc')
   this.useRemoteExec = getEnvConfig(['use_remoteexec']) || false
   this.offline = getEnvConfig(['offline']) || false
   this.use_libfuzzer = false
   this.androidAabToApk = false
   this.useBraveHermeticToolchain = this.rbeService.includes('.brave.com:')
-  this.brave_services_key_id = getEnvConfig(['brave_services_key_id']) || ''
-  this.service_key_aichat = getEnvConfig(['service_key_aichat']) || ''
-  this.braveIOSDeveloperOptionsCode = getEnvConfig(['brave_ios_developer_options_code']) || ''
-  this.service_key_stt = getEnvConfig(['service_key_stt']) || ''
+  this.brave_services_key_id = getEnvConfig(['brave_services_key_id']) || 'qztbjzBqJueQZLFkwTTJrieu8Vw3789u'
+  this.service_key_aichat = getEnvConfig(['service_key_aichat']) || 'rstrsa'
+  this.braveIOSDeveloperOptionsCode = getEnvConfig(['brave_ios_developer_options_code']) || 'rstrsa'
+  this.service_key_stt = getEnvConfig(['service_key_stt']) || 'rstrsa'
 }
 
 Config.prototype.isReleaseBuild = function () {
@@ -335,6 +336,7 @@ Config.prototype.buildArgs = function () {
     v8_enable_verify_heap: this.isAsan(),
     disable_fieldtrial_testing_config: true,
     safe_browsing_mode: 1,
+    // brave_services_key: this.braveServicesKey,
     root_extra_deps: ["//brave"],
     clang_unsafe_buffers_paths: "//brave/build/config/unsafe_buffers_paths.txt",
     // TODO: Re-enable when chromium_src overrides work for files in relative
@@ -348,6 +350,7 @@ Config.prototype.buildArgs = function () {
     branding_path_product: "brave",
     enable_nacl: false,
     enable_widevine: true,
+    enable_brave_vpn: false,
     // Our copy of signature_generator.py doesn't support --ignore_missing_cert:
     ignore_missing_widevine_signing_cert: false,
     target_cpu: this.targetArch,
@@ -420,8 +423,8 @@ Config.prototype.buildArgs = function () {
     sparkle_eddsa_public_key: this.sparkleEdDSAPublicKey,
     use_remoteexec: this.useRemoteExec,
     use_libfuzzer: this.use_libfuzzer,
-    enable_updater: this.isOfficialBuild(),
-    enable_update_notifications: this.isOfficialBuild(),
+    enable_updater: false,
+    enable_update_notifications: false,
     brave_services_production_domain: this.braveServicesProductionDomain,
     brave_services_staging_domain: this.braveServicesStagingDomain,
     brave_services_dev_domain: this.braveServicesDevDomain,
@@ -525,7 +528,7 @@ Config.prototype.buildArgs = function () {
     (this.targetArch === 'x86' ||
       (!this.isDebug() && !this.isComponentBuild() && !this.isReleaseBuild()))
   ) {
-    args.symbol_level = 1
+    args.symbol_level = 0
   }
 
   // For Linux Release builds, upstream doesn't want to use symbol_level = 2
@@ -589,17 +592,17 @@ Config.prototype.buildArgs = function () {
     args.android_channel = this.channel
     if (!this.isReleaseBuild()) {
       args.android_channel = 'default'
-      args.chrome_public_manifest_package = 'com.brave.browser_default'
+      args.chrome_public_manifest_package = 'co.asil.browser_default'
     } else if (this.channel === '') {
       args.android_channel = 'stable'
-      args.chrome_public_manifest_package = 'com.brave.browser'
+      args.chrome_public_manifest_package = 'co.asil.browser'
     } else if (this.channel === 'beta') {
-      args.chrome_public_manifest_package = 'com.brave.browser_beta'
+      args.chrome_public_manifest_package = 'co.asil.browser_beta'
     } else if (this.channel === 'dev') {
-      args.chrome_public_manifest_package = 'com.brave.browser_dev'
+      args.chrome_public_manifest_package = 'co.asil.browser_dev'
     } else if (this.channel === 'nightly') {
       args.android_channel = 'canary'
-      args.chrome_public_manifest_package = 'com.brave.browser_nightly'
+      args.chrome_public_manifest_package = 'co.asil.browser_nightly'
     }
     // exclude_unwind_tables is inherited form upstream and is false for any
     // Android build

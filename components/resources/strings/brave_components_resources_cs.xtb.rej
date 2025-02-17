@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_cs.xtb b/components/resources/strings/brave_components_resources_cs.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Připojit k bitFlyer</translation>
+ <translation id="6143701117592994599">Připojení odměn Kahf k účtu bitFlyer vám umožní vydělávat tokeny BAT a příjmy z odměn vybírat.</translation>
+ <translation id="4354564238172327160">Staňte se tvůrcem – Kahf Creator!</translation>
+-<translation id="4639659520811817892">Navštivte creators.brave.com, zaregistrujte se a můžete začít přijímat příspěvky BAT od svých fanoušků a sledujících.</translation>
++<translation id="4639659520811817892">Navštivte creators.Kahf.com, zaregistrujte se a můžete začít přijímat příspěvky BAT od svých fanoušků a sledujících.</translation>
+ <translation id="4816455138209470435">Kahf podporuje YouTube, Twitch, Vimeo a další!</translation>
+ <translation id="7404779623219601861">Směňujte BAT za dárkové karty</translation>
+ <translation id="6215565499749144110">Díky síti TAP Network můžete směňovat vaše BAT za dárkové karty populárních značek.</translation>
+@@ -606,7 +606,7 @@
+ <translation id="5379685283876547860">Příspěvek odeslán!</translation>
+ <translation id="7063168612616047608">Děkujeme za podporu vašich oblíbených autorů</translation>
+ <translation id="1041398280582063935">Podělte se o svou podporu</translation>
+-<translation id="4001190813297686107">Právě jsem z prohlížeče Kahf přispěl <ph name="AMOUNT"/> BAT! Podívejte se, jak můžete podpořit své oblíbené autory a stránky i vy: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Právě jsem z prohlížeče Kahf přispěl <ph name="AMOUNT"/> BAT! Podívejte se, jak můžete podpořit své oblíbené autory a stránky i vy: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Došlo k neočekávané chybě</translation>
+ <translation id="2605703631071131439">Znovu otevřete panel příspěvků a zkuste to znovu.</translation>
+ <translation id="8855543392451028706">Vítejte! Tohoto autora můžete podpořit posláním příspěvku. Je to způsob, jak mu poděkovat za dobrou práci.</translation>
+@@ -2054,7 +2054,7 @@ other {# zdrojů}
+ <translation id="1093419424466417703">Stránka je pro Leo příliš dlouhá. V rozhovoru může chybět nějaký kontext. Leo zvládl z obsahu stránky přečíst <ph name="PERCENTAGE"/>.</translation>
+ <translation id="2186990448773134544">Obsah stránky byl zdokonalen extrakcí nejdůležitějších informací ze stránky, protože pro Lea byla příliš dlouhá.</translation>
+ <translation id="4370698775470316661">Tato konverzace je příliš dlouhá a nemůže pokračovat. Mohou být k dispozici jiné modely, se kterými je Leo schopen udržet přesnost u delších konverzací.</translation>
+-<translation id="5719170755629028558">Vylepšení vaší odpovědi pomocí Vyhledávání Brave…</translation>
++<translation id="5719170755629028558">Vylepšení vaší odpovědi pomocí Vyhledávání Kahf…</translation>
+ <translation id="5794962229997281366">Vylepšené vyhledávání odpovědí pro <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Obecný chat</translation>
+ <translation id="8193130769524604031">Pokročilé úkoly chatu</translation>
+@@ -2265,7 +2265,7 @@ Pojďme vás připojit!</translation>
+ <translation id="7423206764347669977">Změnit nastavení</translation>
+ <translation id="9061845622728745852">Časové pásmo:</translation>
+ <translation id="8295393906499561642">Relace vypršela.</translation>
+-<translation id="3312623558576021182">Abyste obnovili svou relaci VPN, přihlaste se do svého <ph name="BRAVE_ACCOUNT_BEGIN"/>účtu Kahf<ph name="BRAVE_ACCOUNT_END"/>.</translation>
++<translation id="3312623558576021182">Abyste obnovili svou relaci VPN, přihlaste se do svého <ph name="Kahf_ACCOUNT_BEGIN"/>účtu Kahf<ph name="Kahf_ACCOUNT_END"/>.</translation>
+ <translation id="6021669293402055982">Kahf VPN: Odpojeno</translation>
+ <translation id="7861195049821776142">Kahf VPN: Odpojování</translation>
+ <translation id="958268166261124668">Kahf VPN: Připojeno</translation>

@@ -1,0 +1,95 @@
+diff a/app/brave_generated_resources.grd b/app/brave_generated_resources.grd	(rejected hunks)
+@@ -364,7 +364,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
+           Open Link in Private Window with Tor
+         </message>
+         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="Title case: The name of the open a link in private window with Tor command">
+-          Open Link in Brave Private Window with Tor
++          Open Link in Kahf Private Window with Tor
+         </message>
+       </if>
+       <if expr="not use_titlecase">
+@@ -375,12 +375,12 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
+           Open link in private window with Tor
+         </message>
+         <message name="IDS_CONTENT_CONTEXT_OPENLINKTOR_INAPP" desc="The name of the open a link in private window with Tor command">
+-          Open link in Brave private window with Tor
++          Open link in Kahf private window with Tor
+         </message>
+       </if>
+       <!-- Dev channel deprecation infobar -->
+       <message name="IDS_DEV_CHANNEL_DEPRECATION_INFOBAR_MESSAGE" desc="The text label of dev channel deprecation announcement.">
+-        Beginning on December 1, 2023, Brave Dev channel will no longer receive browser updates. We recommend users migrate to the Nightly, Beta, or Release versions of Brave.
++        Beginning on December 1, 2023, Kahf Dev channel will no longer receive browser updates. We recommend users migrate to the Nightly, Beta, or Release versions of Kahf.
+       </message>
+       <!-- Mac Menubar Menus -->
+       <if expr="is_macosx">
+@@ -543,34 +543,34 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
+           Fully private, 100% independent, and with great AI features.
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_A_DDG_DESC" desc="The text for the banner type description">
+-          DDG is just Bing in disguise. Time for real privacy, better results, and an independent index. Time for Brave Search.
++          DDG is just Bing in disguise. Time for real privacy, better results, and an independent index. Time for Kahf Search.
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_B_DDG_TITLE" desc="The text for the banner type title">
+           Ditch the duck
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_B_DDG_DESC" desc="The text for the banner type description">
+-          Brave Search doesn’t track you, your queries, or your clicks. And (unlike DDG) it’s not just Bing in disguise.
++          Kahf Search doesn’t track you, your queries, or your clicks. And (unlike DDG) it’s not just Bing in disguise.
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_C_DDG_TITLE" desc="The text for the banner type title">
+           Get better results
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_C_DDG_DESC" desc="The text for the banner type description">
+-          Brave Search is independently verified to have better results than Bing (or Bing clones like DuckDuckGo).
++          Kahf Search is independently verified to have better results than Bing (or Bing clones like DuckDuckGo).
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_D_DDG_TITLE" desc="The text for the banner type title">
+           Improve search results
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_BANNER_TYPE_D_DDG_DESC" desc="The text for the banner type description">
+-          Brave Search has better results than DuckDuckGo for most queries. And it’s truly private.
++          Kahf Search has better results than DuckDuckGo for most queries. And it’s truly private.
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_TRY_BUTTON_LABEL" desc="The text for the try button in the promotion match">
+-          Try Brave Search
++          Try Kahf Search
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_CLOSE_BUTTON_TOOLTIP" desc="The tooltip text for the dismiss button in a promotion match">
+           Dismiss
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_SET_AS_DEFAULT_BUTTON_LABEL" desc="The text for the set as default button in a promotion match">
+-          Set Brave as default
++          Set Kahf as default
+         </message>
+         <message name="IDS_BRAVE_SEARCH_CONVERSION_MAYBE_LATER_BUTTON_TOOLTIP" desc="The tooltip text for the maybe later button in a promotion match">
+           Maybe later
+@@ -579,14 +579,14 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
+           Maybe later
+         </message>
+         <message name="IDS_ACC_BRAVE_SEARCH_CONVERSION_DISMISS_BUTTON" desc="Announcement when the dismiss button is focused.">
+-          Dismiss Brave search conversion, press Enter to remove this suggestion
++          Dismiss Kahf search conversion, press Enter to remove this suggestion
+         </message>
+         <!-- web Discovery InfoBar -->
+         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE" desc="The text for web discovery infobar message">
+-          Help improve <ph name="SEARCH_NAME">$1<ex>Brave Search</ex></ph> by sending anonymous usage data.  <ph name="MORE_INFO">$2<ex>More info</ex></ph>
++          Help improve <ph name="SEARCH_NAME">$1<ex>Kahf Search</ex></ph> by sending anonymous usage data.  <ph name="MORE_INFO">$2<ex>More info</ex></ph>
+         </message>
+         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE_BRAVE_SEARCH" desc="The text for brave search part in message">
+-          Brave Search
++          Kahf Search
+         </message>
+         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE_MORE_INFO" desc="The text for more info link part in message">
+           More info
+@@ -1311,8 +1311,8 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>brave://settings/ext
+       </if> <!-- enable_playlist_webui -->
+ 
+       <if expr="enable_brave_player">
+-        <message name="IDS_BRAVE_PLAYER_ACTION_VIEW" desc="A label for a button in the omnibox to open the 'Brave Player Page'">
+-          Brave Player
++        <message name="IDS_BRAVE_PLAYER_ACTION_VIEW" desc="A label for a button in the omnibox to open the 'Kahf Player Page'">
++          Kahf Player
+         </message>
+       </if> <!-- enable_brave_player -->
+       <!--Add new items to the appropriate sections above -->

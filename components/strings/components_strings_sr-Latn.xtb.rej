@@ -1,0 +1,995 @@
+diff a/components/strings/components_strings_sr-Latn.xtb b/components/strings/components_strings_sr-Latn.xtb	(rejected hunks)
+@@ -28,7 +28,7 @@
+ <translation id="1053959602163383901">Odabrali ste da se verifikujete pomoću uređaja za potvrdu identiteta na veb-sajtovima koji koriste <ph name="PROVIDER_ORIGIN"/>. Ovaj dobavljač je možda sačuvao informacije o načinu plaćanja, za koji možete da <ph name="LINK_TEXT"/>.</translation>
+ <translation id="1055184225775184556">&amp;Opozovi dodavanje</translation>
+ <translation id="1056898198331236512">Upozorenje</translation>
+-<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste igrali igru Dinosaurus u Brave-u</translation>
++<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste igrali igru Dinosaurus u Kahf-u</translation>
+ <translation id="1058479211578257048">Kartice se čuvaju...</translation>
+ <translation id="1060136083665017312">Sistemi i konzole za igre</translation>
+ <translation id="1060320201901229167">Koverta Kaku 5</translation>
+@@ -49,7 +49,7 @@
+ <translation id="1082026381988252344">Skrolujte i zumirajte sadržaj deljene kartice</translation>
+ <translation id="1088664500620117635">Uobičajena cena za <ph name="PRODUCT_NAME"/> je <ph name="LOW_PRICE"/>–<ph name="HIGH_PRICE"/>, ali aktuelna cena je <ph name="CURRENT_PRICE"/> na vebu.</translation>
+ <translation id="1089439967362294234">Promena lozinke</translation>
+-<translation id="807719392864780545">Možete da se predomislite u svakom trenutku u podešavanjima Brave-a.</translation>
++<translation id="807719392864780545">Možete da se predomislite u svakom trenutku u podešavanjima Kahf-a.</translation>
+ <translation id="1090629319939036170">VR meni</translation>
+ <translation id="1091463901118115503">Nastavite čitanje</translation>
+ <translation id="1091779689406092804">snimke ekrana</translation>
+@@ -57,10 +57,10 @@
+ <translation id="1096545575934602868">Ovo polje ne sme da ima više od <ph name="MAX_ITEMS_LIMIT"/> unosa. Svi dodatni unosi će biti odbačeni.</translation>
+ <translation id="1097803577928227769">Regionalni parkovi i bašte</translation>
+ <translation id="1099928364755383720">automatska slika u slici</translation>
+-<translation id="7584468665743195331">Dugme Nastavite put, pritisnite Enter da biste nastavili put i videli relevantne aktivnosti u istoriji Brave-a</translation>
++<translation id="7584468665743195331">Dugme Nastavite put, pritisnite Enter da biste nastavili put i videli relevantne aktivnosti u istoriji Kahf-a</translation>
+ <translation id="1101672080107056897">Radnja zbog greške</translation>
+ <translation id="1104409666019087579">Neka obavezna polja su prazna. Popunite ih pre čuvanja.</translation>
+-<translation id="8424280348953443220">Dugme Upravljaj lozinkama, aktivirajte ga da biste pregledali lozinke i upravljali njima u podešavanjima Brave-a</translation>
++<translation id="8424280348953443220">Dugme Upravljaj lozinkama, aktivirajte ga da biste pregledali lozinke i upravljali njima u podešavanjima Kahf-a</translation>
+ <translation id="1108464073729874771">A3x4</translation>
+ <translation id="1110994991967754504">Izaberite dozvolu: <ph name="PERMISSION_NAME"/></translation>
+ <translation id="1113000785583998331">Želite da sačuvate IBAN?</translation>
+@@ -149,22 +149,22 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+     &lt;/ol&gt;</translation>
+ <translation id="1257286744552378071">Uneli ste lozinku na sajtu kojim ne upravlja vaša organizacija. Da biste zaštitili nalog, ne koristite lozinku ponovo u drugim aplikacijama ni na drugim sajtovima.</translation>
+ <translation id="1257553931232494454">nivoi zumiranja</translation>
+-<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali podešavanjima Brave-a</translation>
++<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali podešavanjima Kahf-a</translation>
+ <translation id="1264309058268477500">Alternativno</translation>
+ <translation id="1264974993859112054">Sport</translation>
+ <translation id="1268480293435976622">Kineska koverta br. 7</translation>
+-<translation id="53564677632020212">Brzo napravite nov sajt u Brave sajtovima</translation>
++<translation id="53564677632020212">Brzo napravite nov sajt u Kahf sajtovima</translation>
+ <translation id="1270328905573953738">Selidbe i transport</translation>
+ <translation id="1270502636509132238">Način preuzimanja</translation>
+ <translation id="1273592791152866347">Praćenje cena je isključeno</translation>
+ <translation id="127777513559587977">TV emisije sa gostima</translation>
+ <translation id="1281476433249504884">1. pregrada za slaganje</translation>
+-<translation id="3587420677315820032">Da biste sledeći put automatski popunili ovaj IBAN, sačuvajte ga na Brave nalogu</translation>
++<translation id="3587420677315820032">Da biste sledeći put automatski popunili ovaj IBAN, sačuvajte ga na Kahf nalogu</translation>
+ <translation id="1282358575813748144">Čamci i plovila</translation>
+ <translation id="1283977499362032052">Radne biografije i portfoliji</translation>
+ <translation id="1285320974508926690">Nikad ne prevodi ovaj sajt</translation>
+ <translation id="1292571435393770077">16. fioka</translation>
+-<translation id="1209478311331937175">„Softver na vašem računaru onemogućava Brave-u da se bezbedno poveže na veb“ (samo na Windows računarima)</translation>
++<translation id="1209478311331937175">„Softver na vašem računaru onemogućava Kahf-u da se bezbedno poveže na veb“ (samo na Windows računarima)</translation>
+ <translation id="1293797321964802402">Koverta 23×28 cm</translation>
+ <translation id="1294154142200295408">Varijacije komandne linije</translation>
+ <translation id="129553762522093515">Nedavno zatvoreno</translation>
+@@ -189,7 +189,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="132390688737681464">Čuvaj i unosi adrese</translation>
+ <translation id="1329916999021038454">Pošalji izveštaj</translation>
+ <translation id="1330449323196174374">Presavijanje na levoj strani u obliku prozora</translation>
+-<translation id="4274264486214599895">Igrajte igru Brave dinosaurus</translation>
++<translation id="4274264486214599895">Igrajte igru Kahf dinosaurus</translation>
+ <translation id="1333989956347591814">Aktivnosti će <ph name="BEGIN_EMPHASIS"/>možda ipak biti vidljive<ph name="END_EMPHASIS"/> za:
+         <ph name="BEGIN_LIST"/>
+           <ph name="LIST_ITEM"/>veb-sajtove koje posećujete
+@@ -232,11 +232,11 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="14070772729708640">Fajlovi su otpremljeni u <ph name="FOLDER_NAME"/> u usluzi <ph name="CLOUD_PROVIDER"/></translation>
+ <translation id="1407135791313364759">Otvori sve</translation>
+ <translation id="1408787208417187241">Trostruko spajanje na vrhu</translation>
+-<translation id="5488251800208457874">Drugi koji koriste ovaj uređaj neće videti vaše aktivnosti, pa možete da pregledate privatnije. Ovo ne menja način na koji podatke prikupljaju veb-sajtovi koje posećujete i usluge koje oni koriste, uključujući Brave. Sačuvaće se preuzimanja, obeleživači i stavke na listi za čitanje.</translation>
++<translation id="5488251800208457874">Drugi koji koriste ovaj uređaj neće videti vaše aktivnosti, pa možete da pregledate privatnije. Ovo ne menja način na koji podatke prikupljaju veb-sajtovi koje posećujete i usluge koje oni koriste, uključujući Kahf. Sačuvaće se preuzimanja, obeleživači i stavke na listi za čitanje.</translation>
+ <translation id="1410941016594047814">Koverta Invite</translation>
+ <translation id="1413809658975081374">Greška u vezi sa privatnošću</translation>
+ <translation id="1414134146594747368">Predškolski uzrast</translation>
+-<translation id="5305237486453576422">Dugme Upravljaj preuzimanjima u Brave-u, aktivirajte ga da biste upravljali fajlovima koje ste preuzeli u Brave-u</translation>
++<translation id="5305237486453576422">Dugme Upravljaj preuzimanjima u Kahf-u, aktivirajte ga da biste upravljali fajlovima koje ste preuzeli u Kahf-u</translation>
+ <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/> da biste omogućili uparivanje</translation>
+ <translation id="14222610277930434">Često posećujete</translation>
+ <translation id="1422930527989633628">Može da traži da otkriva Bluetooth uređaje u blizini</translation>
+@@ -266,7 +266,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="1462245070427461050">JIS B9</translation>
+ <translation id="1462951478840426066">Koristi fontove na računaru da biste mogli da pravite sadržaj visoke vernosti</translation>
+ <translation id="1463793142714244641">Nekretnine za tajmšer i odmor</translation>
+-<translation id="4855177403643365941">IBAN je sačuvan na Brave nalogu</translation>
++<translation id="4855177403643365941">IBAN je sačuvan na Kahf nalogu</translation>
+ <translation id="1467432559032391204">Ulevo</translation>
+ <translation id="1468653229182955856"><ph name="ONE_TIME_CODE"/> je vaš kôd za <ph name="EMBEDDED_ORIGIN"/> pomoću kog možete da nastavite na sajtu <ph name="TOP_ORIGIN"/></translation>
+ <translation id="1472675084647422956">Prikaži više</translation>
+@@ -363,20 +363,20 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="1640180200866533862">Smernice za korisnike</translation>
+ <translation id="1640244768702815859">Pokušajte da <ph name="BEGIN_LINK"/>posetite početnu stranicu sajta<ph name="END_LINK"/>.</translation>
+ <translation id="1641976391427233992">Odloži izlaz do</translation>
+-<translation id="8088023492467080559">Idite na dugme Brave provera bezbednosti, aktivirajte ga da biste posetili stranicu Brave provera bezbednosti u podešavanjima</translation>
++<translation id="8088023492467080559">Idite na dugme Kahf provera bezbednosti, aktivirajte ga da biste posetili stranicu Kahf provera bezbednosti u podešavanjima</translation>
+ <translation id="1644574205037202324">Istorija</translation>
+ <translation id="1645004815457365098">Nepoznat izvor</translation>
+ <translation id="1645368109819982629">Nepodržani protokol</translation>
+-<translation id="1995056549836388472">Upravljajte podešavanjima Brave-a</translation>
++<translation id="1995056549836388472">Upravljajte podešavanjima Kahf-a</translation>
+ <translation id="1652415888492971589">JIS B8</translation>
+-<translation id="3549478477646243075">Da biste koristili Menadžer lozinki sa macOS Keychain-om, ponovo pokrenite Brave i dozvolite pristup Keychain-u. Kartice će se ponovo otvoriti posle ponovnog pokretanja.</translation>
++<translation id="3549478477646243075">Da biste koristili Menadžer lozinki sa macOS Keychain-om, ponovo pokrenite Kahf i dozvolite pristup Keychain-u. Kartice će se ponovo otvoriti posle ponovnog pokretanja.</translation>
+ <translation id="1652887625750064647">Najbolje podudaranje pomoću veštačke inteligencije</translation>
+-<translation id="3848846802033604519">Brave je pojednostavio ovu stranicu radi lakšeg čitanja. Brave je preuzeo originalnu stranicu preko bezbedne veze.</translation>
++<translation id="3848846802033604519">Kahf je pojednostavio ovu stranicu radi lakšeg čitanja. Kahf je preuzeo originalnu stranicu preko bezbedne veze.</translation>
+ <translation id="1656489000284462475">Preuzimanje</translation>
+ <translation id="1658111267661135323">TV i video</translation>
+ <translation id="1658918301167915956">Bluetooth uređaji</translation>
+ <translation id="1662550410081243962">Čuvaj i unosi načine plaćanja</translation>
+-<translation id="1838576226863399477">Kartice i adrese su iz Brave-a. Njima možete da upravljate u <ph name="BEGIN_LINK"/>podešavanjima<ph name="END_LINK"/>.</translation>
++<translation id="1838576226863399477">Kartice i adrese su iz Kahf-a. Njima možete da upravljate u <ph name="BEGIN_LINK"/>podešavanjima<ph name="END_LINK"/>.</translation>
+ <translation id="1664389769577564606">Flexo fotopolimer</translation>
+ <translation id="166624440456221306">Izbriši tabelu za poređenje</translation>
+ <translation id="1668071460721346172">Primite imejl</translation>
+@@ -424,7 +424,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="1741613555002899862">Mora da se navede kao važeći niz kada je DnsOverHttpsMode <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
+ <translation id="1743393865165844832">Posteljno rublje i posteljina</translation>
+ <translation id="1743892871127720056">Naziv tabele za poređenje, izmenite tekst</translation>
+-<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Kako koristimo ove podatke:<ph name="END_BOLD"/> Brave beleži teme koje vas zanimaju dok pregledate. Oznake tema su unapred definisane i obuhvataju, na primer, Umetnost i zabavu, Kupovinu i Sport. Kasnije, sajt koji posetite može da zatraži od Brave-a nekoliko vaših tema (ali ne i istoriju pregledanja) radi personalizacije oglasa koje vidite.</translation>
++<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Kako koristimo ove podatke:<ph name="END_BOLD"/> Kahf beleži teme koje vas zanimaju dok pregledate. Oznake tema su unapred definisane i obuhvataju, na primer, Umetnost i zabavu, Kupovinu i Sport. Kasnije, sajt koji posetite može da zatraži od Kahf-a nekoliko vaših tema (ali ne i istoriju pregledanja) radi personalizacije oglasa koje vidite.</translation>
+ <translation id="1746113442205726301">Pomeranje slike po Y osi</translation>
+ <translation id="1746531169546376413">0 stepeni</translation>
+ <translation id="1748225549612934682">Skratite tekst da biste dobili pomoć pri pisanju</translation>
+@@ -437,7 +437,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="1756555787993603971">Sada možete da koristite virtuelnu karticu za bezbednije plaćanje pomoću automatskog popunjavanja.</translation>
+ <translation id="175656076281618225">Magija</translation>
+ <translation id="1757773103848038814">Font fiksne širine</translation>
+-<translation id="3727704638090640904">Dugme Promeni Brave lozinku, aktivirajte ga da biste promenili lozinku za Brave nalog</translation>
++<translation id="3727704638090640904">Dugme Promeni Kahf lozinku, aktivirajte ga da biste promenili lozinku za Kahf nalog</translation>
+ <translation id="1762779605905950734">Naziv ulice</translation>
+ <translation id="1763864636252898013">Ovaj server ne može da dokaže da je <ph name="DOMAIN"/>; operativni sistem uređaja nema poverenja u njegov bezbednosni sertifikat. Uzrok tome je možda pogrešna konfiguracija ili napadač koji je prekinuo vezu.</translation>
+ <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Pokušajte da pokrenete Windows dijagnostiku mreže<ph name="END_LINK"/>.</translation>
+@@ -445,8 +445,8 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="1777422078676229054">Slika (arhivska)</translation>
+ <translation id="1778646502362731194">JIS B0</translation>
+ <translation id="1785118555253503473">Želite da instalirate veb-aplikacije?</translation>
+-<translation id="3480410886581896628">Brave Smart Lock</translation>
+-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali informacijama, privatnošću i bezbednošću na Brave nalogu</translation>
++<translation id="3480410886581896628">Kahf Smart Lock</translation>
++<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali informacijama, privatnošću i bezbednošću na Kahf nalogu</translation>
+ <translation id="1793631236004319016">Poslednji put korišćena pre <ph name="NUM_HOURS_MINUTES_SECONDS"/></translation>
+ <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, dostupno je više radnji, pritisnite Tab da biste ih pregledali</translation>
+ <translation id="1800473098294731951">B9</translation>
+@@ -575,11 +575,11 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2040894699575719559">Lokacija je blokirana</translation>
+ <translation id="2041788246978549610">Koristi dostupne mikrofone (<ph name="MICS_COUNT"/>)</translation>
+ <translation id="2042213636306070719">7. fioka</translation>
+-<translation id="3163988908275223348">Prijavite se da biste koristili lozinke sačuvane na Brave nalogu</translation>
++<translation id="3163988908275223348">Prijavite se da biste koristili lozinke sačuvane na Kahf nalogu</translation>
+ <translation id="2045871135676061132">Koverta Personal</translation>
+ <translation id="2046951263634619614">Prodaja knjiga</translation>
+ <translation id="2048261947532620704">Stranica se prevodi</translation>
+-<translation id="5469355573019315764">Sajtovi mogu da zatraže od Brave-a informacije da bi personalizovali oglase koji vam se prikazuju.</translation>
++<translation id="5469355573019315764">Sajtovi mogu da zatraže od Kahf-a informacije da bi personalizovali oglase koji vam se prikazuju.</translation>
+ <translation id="2059166748188874810">Opština</translation>
+ <translation id="2059202684901022309">22×34 in</translation>
+ <translation id="2064568741209980952">Krediti i pozajmice</translation>
+@@ -655,7 +655,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2174875517416416684">Transakcija nije prošla. Sredstva nisu povučena sa računa.</translation>
+ <translation id="2175630235841878061">Fajlovi veći od 100 MB nisu dostupni za preuzimanje</translation>
+ <translation id="2176974405772725904">Sačuvajte adresu na nalogu</translation>
+-<translation id="7453373354666409887">Dugme Ažuriraj Brave, aktivirajte ga da biste ažurirali Brave iz podešavanja Brave-a</translation>
++<translation id="7453373354666409887">Dugme Ažuriraj Kahf, aktivirajte ga da biste ažurirali Kahf iz podešavanja Kahf-a</translation>
+ <translation id="2179003720612888584"><ph name="SITE_TITLE"/> na <ph name="SITE_DOMAIN_NAME"/></translation>
+ <translation id="2181821976797666341">Smernice</translation>
+ <translation id="2182170103603703676">Mašine za pranje posuđa</translation>
+@@ -675,7 +675,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2212735316055980242">Smernice nisu pronađene</translation>
+ <translation id="2213606439339815911">Preuzimanje unosa...</translation>
+ <translation id="2213612003795704869">Stranica je odštampana</translation>
+-<translation id="4045100732984144870">Automatsko popunjavanje uz Brave</translation>
++<translation id="4045100732984144870">Automatsko popunjavanje uz Kahf</translation>
+ <translation id="2215539479425228550">Alpinizam i planinarenje</translation>
+ <translation id="2215727959747642672">Menjanje datoteka</translation>
+ <translation id="2215963164070968490">Psi</translation>
+@@ -783,7 +783,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="239429038616798445">Ovaj način slanja nije dostupan. Isprobajte neki drugi način.</translation>
+ <translation id="2395840535409704129">Sportovi na vodi</translation>
+ <translation id="2396249848217231973">&amp;Opozovi brisanje</translation>
+-<translation id="4124760202519850347">Ovaj IBAN se čuva na Brave nalogu da biste mogli da ga koristite u svim Brave uslugama.</translation>
++<translation id="4124760202519850347">Ovaj IBAN se čuva na Kahf nalogu da biste mogli da ga koristite u svim Kahf uslugama.</translation>
+ <translation id="2400600116338235695">Može da traži da se povezuje sa serijskim portovima</translation>
+ <translation id="2404884497378469141">Probajte da ponovo kopirate fajlove</translation>
+ <translation id="2412310121876768057">Želite da sledeći put automatski popunite karticu?</translation>
+@@ -804,7 +804,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2461822463642141190">Aktuelno</translation>
+ <translation id="2462932596748424101">Društvene mreže</translation>
+ <translation id="2465688316154986572">Spajanje</translation>
+-<translation id="4058615531773510267">Upravljajte fajlovima koje ste preuzeli u Brave-u</translation>
++<translation id="4058615531773510267">Upravljajte fajlovima koje ste preuzeli u Kahf-u</translation>
+ <translation id="2466004615675155314">Prikazuje informacije sa veba</translation>
+ <translation id="2466682894498377850">Kartica je poslata sa uređaja <ph name="DEVICE_NAME"/></translation>
+ <translation id="2467272921457885625">Hardverske specifikacije uređaja i statistika, na primer, istorija korišćenja procesora ili RAM-a</translation>
+@@ -816,7 +816,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2473810985261856484">Pravne usluge</translation>
+ <translation id="2479148705183875116">Idi u Podešavanja</translation>
+ <translation id="2479410451996844060">Nevažeća URL adresa pretrage.</translation>
+-<translation id="6944854796979239513">Na Brave nalogu, <ph name="USER_EMAIL"/></translation>
++<translation id="6944854796979239513">Na Kahf nalogu, <ph name="USER_EMAIL"/></translation>
+ <translation id="248064299258688299">Dodatak <ph name="EXTENSION_NAME"/> kaže</translation>
+ <translation id="2482878487686419369">Obaveštenja</translation>
+ <translation id="248348093745724435">Smernice za uređaje</translation>
+@@ -849,13 +849,13 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="40442660395682483">Otvorite novu karticu bez arhiviranja da biste pregledali privatno</translation>
+ <translation id="2535659140340599600">{COUNT,plural, =1{i još 1}one{i još #}few{i još #}other{i još #}}</translation>
+ <translation id="2536110899380797252">Dodaj adresu</translation>
+-<translation id="3140033400151786080">Drugi koji koriste ovaj uređaj neće videti vaše aktivnosti, pa možete da pregledate privatnije. Ovo ne menja način na koji podatke prikupljaju veb-sajtovi koje posećujete i usluge koje oni koriste, uključujući Brave. Preuzimanja i obeleživači će biti sačuvani.</translation>
++<translation id="3140033400151786080">Drugi koji koriste ovaj uređaj neće videti vaše aktivnosti, pa možete da pregledate privatnije. Ovo ne menja način na koji podatke prikupljaju veb-sajtovi koje posećujete i usluge koje oni koriste, uključujući Kahf. Preuzimanja i obeleživači će biti sačuvani.</translation>
+ <translation id="2539524384386349900">Otkrij</translation>
+ <translation id="375424491626359494">Stranice koje pregledate na karticama bez arhiviranja se neće zadržavati u istoriji pregledača, skladištu kolačića ili istoriji pretrage kada zatvorite sve kartice bez arhiviranja. Sačuvaćemo sve preuzete fajlove ili napravljene obeleživače.</translation>
+ <translation id="2542106216580219892">Surfovanje</translation>
+ <translation id="2544546346215446551">Administrator je restartovao uređaj</translation>
+ <translation id="2544644783021658368">Jedan dokument</translation>
+-<translation id="5342827302598046226">Postavi Brave kao podrazumevani pregledač</translation>
++<translation id="5342827302598046226">Postavi Kahf kao podrazumevani pregledač</translation>
+ <translation id="2545721997179863249">Izabrana je opcija za popunjavanje svih polja</translation>
+ <translation id="2546283357679194313">Kolačići i podaci o sajtovima</translation>
+ <translation id="254947805923345898">Vrednost smernica nije važeća.</translation>
+@@ -901,7 +901,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2651465929321991146">Istorija i kartice</translation>
+ <translation id="2653659639078652383">Pošalji</translation>
+ <translation id="2655752832536625875">Kupatilo</translation>
+-<translation id="3889152837537169222">Dugme Odbaci savet za Brave, pritisnite Enter da biste odbacili</translation>
++<translation id="3889152837537169222">Dugme Odbaci savet za Kahf, pritisnite Enter da biste odbacili</translation>
+ <translation id="2657637947725373811">{0,plural, =1{Želite da prenesete poverljiv fajl?}one{Želite da prenesete poverljive fajlove?}few{Želite da prenesete poverljive fajlove?}other{Želite da prenesete poverljive fajlove?}}</translation>
+ <translation id="2658843814961855121">Zakon o radu i zapošljavanju</translation>
+ <translation id="2660779039299703961">Događaj</translation>
+@@ -1049,19 +1049,19 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="2961809451460302960">Životno osiguranje</translation>
+ <translation id="2962073860865348475">12×18 in</translation>
+ <translation id="2967082089043584472">Dodato u tabelu za poređenje <ph name="SET"/></translation>
+-<translation id="2470357430970446202">sačuvajte je na Brave nalogu</translation>
++<translation id="2470357430970446202">sačuvajte je na Kahf nalogu</translation>
+ <translation id="297173220375858963">Stono izdavaštvo</translation>
+ <translation id="2972581237482394796">&amp;Ponovi radnju</translation>
+-<translation id="4715521049551299401">Ovaj IBAN nije sačuvan na Brave nalogu. Umesto toga, sačuvan je u Brave-u na ovom uređaju. Brave će vas ponovo pitati sledeći put kada koristite ovaj IBAN.</translation>
++<translation id="4715521049551299401">Ovaj IBAN nije sačuvan na Kahf nalogu. Umesto toga, sačuvan je u Kahf-u na ovom uređaju. Kahf će vas ponovo pitati sledeći put kada koristite ovaj IBAN.</translation>
+ <translation id="2977665033722899841"><ph name="ROW_NAME"/>, trenutno izabrano. <ph name="ROW_CONTENT"/></translation>
+ <translation id="2977847223286097084">zaključa i koristi tastaturu</translation>
+ <translation id="2978824962390592855">Opera</translation>
+ <translation id="2979424420072875974">Resursi za pisce</translation>
+-<translation id="6172169316494799304">CVC ove kartice će biti šifrovan i sačuvan na Brave nalogu radi bržeg plaćanja</translation>
++<translation id="6172169316494799304">CVC ove kartice će biti šifrovan i sačuvan na Kahf nalogu radi bržeg plaćanja</translation>
+ <translation id="1536541482996273580">Otvori karticu bez arhiviranja</translation>
+ <translation id="2985398929374701810">Unesite važeću adresu</translation>
+ <translation id="2987034854559945715">Nema funkcija koje se podudaraju</translation>
+-<translation id="714850411804317247">Brave ograničava količinu informacija koje sajtovi mogu da koriste da bi vas pratili dok pregledate. Možete da promenite podešavanja da biste odabrali sopstveni nivo zaštite.</translation>
++<translation id="714850411804317247">Kahf ograničava količinu informacija koje sajtovi mogu da koriste da bi vas pratili dok pregledate. Možete da promenite podešavanja da biste odabrali sopstveni nivo zaštite.</translation>
+ <translation id="2989742184762224133">Dvostruko spajanje na vrhu</translation>
+ <translation id="2991174974383378012">Deljenje sa veb-sajtovima</translation>
+ <translation id="299122504639061328">Upravljajte podrazumevanim pretraživačem i pretragom sajta</translation>
+@@ -1089,10 +1089,10 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3041176923638368519">Prikaži uslove za prednosti kartica</translation>
+ <translation id="3041612393474885105">Informacije o sertifikatu</translation>
+ <translation id="3045769629416806687">Ekstremni sportovi</translation>
+-<translation id="8418829431154568330">Istorija Brave udaljenog računara, uključujući vremenske oznake, ID-eve sesija hostova i klijenata</translation>
+-<translation id="2396578282884469363">Obično se bezbedno povezujete sa sajtovima, ali Brave ovog puta ne može da koristi bezbednu vezu. Napadač možda pokušava da špijunira ili izmeni mrežnu vezu. <ph name="BEGIN_LEARN_MORE_LINK"/>Saznajte više o ovom upozorenju<ph name="END_LEARN_MORE_LINK"/></translation>
++<translation id="8418829431154568330">Istorija Kahf udaljenog računara, uključujući vremenske oznake, ID-eve sesija hostova i klijenata</translation>
++<translation id="2396578282884469363">Obično se bezbedno povezujete sa sajtovima, ali Kahf ovog puta ne može da koristi bezbednu vezu. Napadač možda pokušava da špijunira ili izmeni mrežnu vezu. <ph name="BEGIN_LEARN_MORE_LINK"/>Saznajte više o ovom upozorenju<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3052964831964880138">Sniženje od <ph name="PRICE_DROP"/> za:<ph name="PRODUCT_NAME"/></translation>
+-<translation id="4832983047807637948">Brave automatski briše teme starije od 4 nedelje. Kada nastavite da pregledate, tema će se možda ponovo pojaviti na listi. Možete i da blokirate teme koje ne želite da Brave deli sa sajtovima. Saznajte više o upravljanju privatnošću sa oglasima u Brave-u.</translation>
++<translation id="4832983047807637948">Kahf automatski briše teme starije od 4 nedelje. Kada nastavite da pregledate, tema će se možda ponovo pojaviti na listi. Možete i da blokirate teme koje ne želite da Kahf deli sa sajtovima. Saznajte više o upravljanju privatnošću sa oglasima u Kahf-u.</translation>
+ <translation id="3061707000357573562">Usluga krpljenja</translation>
+ <translation id="3062655045399308513">Izbriši podatke pregledanja…</translation>
+ <translation id="306573536155379004">Igra je pokrenuta.</translation>
+@@ -1100,7 +1100,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3068118691172921711">Otpremanje fajlova u <ph name="CLOUD_PROVIDER"/> počinje za 1 minut</translation>
+ <translation id="3076865167425975822">Operativni sistemi</translation>
+ <translation id="3080254622891793721">Slika</translation>
+-<translation id="254030672859277244">Dozvolite da Brave koristi vaše korpe da bi pronašao personalizovane popuste kada su dostupni</translation>
++<translation id="254030672859277244">Dozvolite da Kahf koristi vaše korpe da bi pronašao personalizovane popuste kada su dostupni</translation>
+ <translation id="3086579638707268289">Vaše aktivnosti na vebu se prate</translation>
+ <translation id="3087734570205094154">Dno</translation>
+ <translation id="3090667236485488075">Staklo</translation>
+@@ -1202,7 +1202,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3249102948665905108">Otpremanje fajla u <ph name="CLOUD_PROVIDER"/> je završeno uz greške</translation>
+ <translation id="3252772880526154546">Arhitektura</translation>
+ <translation id="3254301855501243548">18×22 in</translation>
+-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste brzo napravili nov događaj u Brave kalendaru</translation>
++<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste brzo napravili nov događaj u Kahf kalendaru</translation>
+ <translation id="3261488570342242926">Saznajte više o virtuelnim karticama</translation>
+ <translation id="3262698603497362968">Opcije kupovine</translation>
+ <translation id="3266367459139339908">Uvodimo nove načine da bismo ograničili šta sajtovi mogu da saznaju o vama kada vam prikazuju personalizovane oglase, na primer:</translation>
+@@ -1214,7 +1214,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3272091146646336650">Super B</translation>
+ <translation id="3272112314896217187">Unesite <ph name="NUMBER_OF_DIGITS"/>-cifreni verifikacioni kôd</translation>
+ <translation id="3272643614306383237">Manje od 1 MB. Neki sajtovi mogu da se učitavaju sporije tokom sledeće posete.</translation>
+-<translation id="7460223968433527020">Administrator može daljinski da unosi promene u profil i pregledač, da analizira informacije o pregledaču pomoću izveštavanja i obavlja druge neophodne zadatke. Aktivnostima na ovom uređaju može da se upravlja i van Brave-a. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
++<translation id="7460223968433527020">Administrator može daljinski da unosi promene u profil i pregledač, da analizira informacije o pregledaču pomoću izveštavanja i obavlja druge neophodne zadatke. Aktivnostima na ovom uređaju može da se upravlja i van Kahf-a. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+ <translation id="3281350579597955952">{0,plural, =1{Smernice administratora ne preporučuju otvaranje ovog fajla u: <ph name="DESTINATION_NAME"/>}one{Smernice administratora ne preporučuju otvaranje ovih fajlova u: <ph name="DESTINATION_NAME"/>}few{Smernice administratora ne preporučuju otvaranje ovih fajlova u: <ph name="DESTINATION_NAME"/>}other{Smernice administratora ne preporučuju otvaranje ovih fajlova u: <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3282085321714087552">Vaša organizacija, <ph name="ENROLLMENT_DOMAIN"/>, poslala je određene podatke sledećim veb-sajtovima, poput podešavanja ili smernica.</translation>
+ <translation id="3286372614333682499">uspravno</translation>
+@@ -1231,7 +1231,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3304073249511302126">Bluetooth skeniranje</translation>
+ <translation id="3304777285002411338">A2x3</translation>
+ <translation id="33073482541490531">Lozinka koju ste upravo koristili je pronađena pri povredi podataka. Menadžer lozinki preporučuje da odmah promenite ovu lozinku.</translation>
+-<translation id="4731386748664539266">Dugme Prilagodi Brave, aktivirajte ga da biste prilagodili izgled pregledača</translation>
++<translation id="4731386748664539266">Dugme Prilagodi Kahf, aktivirajte ga da biste prilagodili izgled pregledača</translation>
+ <translation id="3308006649705061278">Organizaciona jedinica (OU)</translation>
+ <translation id="3318016344440038475">TV komedije</translation>
+ <translation id="3324687287337751929">4×6 in</translation>
+@@ -1289,7 +1289,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3411091017011773343">Otpremi za <ph name="HOURS"/> s</translation>
+ <translation id="3414275587143250384">Distribuirano računarstvo i računarstvo u klaudu</translation>
+ <translation id="3414952576877147120">Veličina:</translation>
+-<translation id="7115177860507615612">Dugme Igraj igru Brave dinosaurus, aktivirajte ga da biste igrali igru Dinosaurus u Brave-u</translation>
++<translation id="7115177860507615612">Dugme Igraj igru Kahf dinosaurus, aktivirajte ga da biste igrali igru Dinosaurus u Kahf-u</translation>
+ <translation id="3422248202833853650">Probajte da izađete iz drugih programa da biste oslobodili memoriju.</translation>
+ <translation id="3422472998109090673">Host <ph name="HOST_NAME"/> trenutno nije dostupan.</translation>
+ <translation id="3423742043356668186">Navedeni sistem</translation>
+@@ -1400,28 +1400,28 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3587738293690942763">Srednje</translation>
+ <translation id="3600106876108433070">Saznajte više o tabelama za poređenje</translation>
+ <translation id="3600246354004376029"><ph name="TITLE"/>, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
+-<translation id="8476504968862670676">Dugme Upravljaj Brave podešavanjima privatnosti, aktivirajte ga da biste posetili podešavanja privatnosti Brave naloga</translation>
++<translation id="8476504968862670676">Dugme Upravljaj Kahf podešavanjima privatnosti, aktivirajte ga da biste posetili podešavanja privatnosti Kahf naloga</translation>
+ <translation id="3603507503523709">Administrator blokira aplikaciju</translation>
+ <translation id="3605899229568538311">5×5 in</translation>
+ <translation id="3606917451836803637">TV emisije i programi</translation>
+ <translation id="3608932978122581043">Smer unosa</translation>
+-<translation id="1737525120923015525">Da biste sledeći put platili brže, sačuvajte karticu, ime i adresu za obračun na Brave nalogu</translation>
++<translation id="1737525120923015525">Da biste sledeći put platili brže, sačuvajte karticu, ime i adresu za obračun na Kahf nalogu</translation>
+ <translation id="3612660594051121194">Međunarodni autobuski i železnički prevoz</translation>
+ <translation id="3614001939154393113">Napadači možda pokušavaju da ukradu vaše informacije sa <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (na primer, lozinke, poruke ili informacije o kreditnim karticama). <ph name="BEGIN_LEARN_MORE_LINK"/>Saznajte više o ovom upozorenju<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3614103345592970299">Veličina 2</translation>
+ <translation id="361438452008624280">Unos na listi „<ph name="LANGUAGE_ID"/>“: nepoznat ili nepodržan jezik.</translation>
+-<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste pokrenuli proveru bezbednosti u Brave podešavanjima</translation>
++<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste pokrenuli proveru bezbednosti u Kahf podešavanjima</translation>
+ <translation id="3615309852743236517">Manikiri i pedikiri</translation>
+ <translation id="3620239073311576716">Uniforme i radna odeća</translation>
+ <translation id="3621401353678567613">Da biste dobijali obaveštenja o sniženjima za proizvode koje pratite, uključite obaveštenja u podešavanjima.</translation>
+ <translation id="362276910939193118">Prikaži kompletnu istoriju</translation>
+-<translation id="5043591794632164789">Da biste koristili kameru, odobrite Brave-u pristup u: <ph name="LINK"/>.</translation>
++<translation id="5043591794632164789">Da biste koristili kameru, odobrite Kahf-u pristup u: <ph name="LINK"/>.</translation>
+ <translation id="3623398832322170566">Ljubavni filmovi</translation>
+ <translation id="3624292976554877583">Nalepnice (mat)</translation>
+ <translation id="3628905806504633297">{0,plural, =1{Smernice administratora ne preporučuju prenos ovog fajla na <ph name="DESTINATION_NAME"/>}one{Smernice administratora ne preporučuju prenos ovih fajlova na <ph name="DESTINATION_NAME"/>}few{Smernice administratora ne preporučuju prenos ovih fajlova na <ph name="DESTINATION_NAME"/>}other{Smernice administratora ne preporučuju prenos ovih fajlova na <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3630155396527302611">Ako je već naveden kao program kome je dozvoljen pristup mreži, pokušajte da ga
+       uklonite sa liste i da ga ponovo dodate.</translation>
+-<translation id="3599570280787620691">Dugme Pronađi moj uređaj, aktivirajte ga da biste posetili opciju za traženje uređaja na Brave nalogu</translation>
++<translation id="3599570280787620691">Dugme Pronađi moj uređaj, aktivirajte ga da biste posetili opciju za traženje uređaja na Kahf nalogu</translation>
+ <translation id="3630699740441428070">Administratori ovog uređaja su konfigurisali mrežnu vezu, što može da im omogući da vide mrežni saobraćaj, uključujući veb-sajtove koje posećujete.</translation>
+ <translation id="3632503704576938756">Deljenje sadržaja ekrana je nastavljeno</translation>
+ <translation id="3632892046558972264">Deljenje sadržaja ekrana je pauzirano</translation>
+@@ -1576,7 +1576,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="3906954721959377182">Tablet</translation>
+ <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
+ <translation id="3910231615117880630">Saznajte više o ugrađenom sadržaju</translation>
+-<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Kako možete da upravljate podacima:<ph name="END_BOLD"/> Brave automatski briše sajtove starije od 30 dana. Sajt koji ponovo posetite može opet da se pojavi na listi. U svakom trenutku u podešavanjima Brave-a možete i da blokirate sajt da vam ne bi predlagao oglase, kao i da isključite oglase koje sajtovi predlažu.</translation>
++<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Kako možete da upravljate podacima:<ph name="END_BOLD"/> Kahf automatski briše sajtove starije od 30 dana. Sajt koji ponovo posetite može opet da se pojavi na listi. U svakom trenutku u podešavanjima Kahf-a možete i da blokirate sajt da vam ne bi predlagao oglase, kao i da isključite oglase koje sajtovi predlažu.</translation>
+ <translation id="3921869355029467742">Unesite bezbednosni kôd</translation>
+ <translation id="3927538228901078312">Nema tabela za poređenje</translation>
+ <translation id="3927932062596804919">Odbij</translation>
+@@ -1642,14 +1642,14 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="4039506337798853114">Da biste omogućili prikaz kursora, pritisnite |<ph name="ACCELERATOR"/>|</translation>
+ <translation id="4047351652147966654">18×24 in</translation>
+ <translation id="404831776305217138">URL ažuriranja za dodatak sa ID-om <ph name="EXTENSION_ID"/> je nevažeći ili koristi nepodržanu šemu. Podržane šeme su: <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/> i <ph name="FILE_SCHEME"/>.</translation>
+-<translation id="2635033286761217583">Moći ćete da je koristite u svim Brave proizvodima</translation>
+-<translation id="336808635693308470">Brave pokušava da izmeni načine plaćanja.</translation>
++<translation id="2635033286761217583">Moći ćete da je koristite u svim Kahf proizvodima</translation>
++<translation id="336808635693308470">Kahf pokušava da izmeni načine plaćanja.</translation>
+ <translation id="405399507749852140">Dobijajte obaveštenja kada se cena snizi na bilo kom sajtu</translation>
+ <translation id="4056223980640387499">Sepija</translation>
+ <translation id="4059523390906550209">Saznajte više o zaštiti od osetljivih podataka</translation>
+ <translation id="4060880210388108757">Indi i alternativna muzika</translation>
+ <translation id="4060883793524802469">Ukloni iz tabela</translation>
+-<translation id="4161619938555288542">Dozvolite Brave-u da vam pomogne u pronalaženju popusta za korpe</translation>
++<translation id="4161619938555288542">Dozvolite Kahf-u da vam pomogne u pronalaženju popusta za korpe</translation>
+ <translation id="406358100705415968">Zaštitna oprema za bezbednost na radu</translation>
+ <translation id="4065659219963895623">Restorani</translation>
+ <translation id="4067774859633143413">Da biste izašli iz režima celog ekrana i pregledali preuzimanje, pritisnite i zadržite |<ph name="ACCELERATOR"/>|</translation>
+@@ -1778,7 +1778,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="4269264543938335308">Odeća za plivanje</translation>
+ <translation id="4269599248168651462">Sertifikat servera se izdaje sa nazivom koji nije jedinstven.</translation>
+ <translation id="4270541775497538019">6. pregrada za slaganje</translation>
+-<translation id="896703648578722320">Kada se dodaci dodaju u Brave, relevantni podaci o tim dodacima se šalju trećim stranama na analizu i mogu da budu vidljivi administratoru. Podaci obuhvataju informacije o dodacima, poput naziva, vremena instaliranja, izvora instaliranja, kao i aktivnosti povezanih sa ovim dodacima (poput promene kartica, kontakta sa veb-sajtovima ili pristupanja kolačićima). Ovi podaci se prikupljaju za dodatke instalirane iz Brave veb-prodavnice, kao i za dodatke van prodavnice.</translation>
++<translation id="896703648578722320">Kada se dodaci dodaju u Kahf, relevantni podaci o tim dodacima se šalju trećim stranama na analizu i mogu da budu vidljivi administratoru. Podaci obuhvataju informacije o dodacima, poput naziva, vremena instaliranja, izvora instaliranja, kao i aktivnosti povezanih sa ovim dodacima (poput promene kartica, kontakta sa veb-sajtovima ili pristupanja kolačićima). Ovi podaci se prikupljaju za dodatke instalirane iz Kahf veb-prodavnice, kao i za dodatke van prodavnice.</translation>
+ <translation id="4275830172053184480">Ponovno pokretanje uređaja</translation>
+ <translation id="4276974990916607331">Ne, hvala</translation>
+ <translation id="4277028893293644418">Resetujte lozinku</translation>
+@@ -1827,9 +1827,9 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="4333561522337981382">Upravljajte prozorima na svim ekranima</translation>
+ <translation id="4336219115486912529">{COUNT,plural, =1{Ističe sutra}one{Ističe za # dan}few{Ističe za # dana}other{Ističe za # dana}}</translation>
+ <translation id="4336913590841287350">Ove smernice još uvek nisu podržane kao smernice za korisnika na iOS-u.</translation>
+-<translation id="5792122559159836842">Ovaj oglas je koristio previše resursa za uređaj, pa ga je Brave uklonio.</translation>
++<translation id="5792122559159836842">Ovaj oglas je koristio previše resursa za uređaj, pa ga je Kahf uklonio.</translation>
+ <translation id="4340810192899866471">Uvezi iz JSON-a</translation>
+-<translation id="6116812392674177288">Otkriveno je da ovim računarom ne upravlja preduzeće, pa smernice mogu automatski da instaliraju samo dodatke koji se hostuju u Brave veb-prodavnici. URL ažuriranja u Brave veb-prodavnici je „<ph name="CWS_UPDATE_URL"/>“.</translation>
++<translation id="6116812392674177288">Otkriveno je da ovim računarom ne upravlja preduzeće, pa smernice mogu automatski da instaliraju samo dodatke koji se hostuju u Kahf veb-prodavnici. URL ažuriranja u Kahf veb-prodavnici je „<ph name="CWS_UPDATE_URL"/>“.</translation>
+ <translation id="4342742994656318294">Tematski parkovi</translation>
+ <translation id="4344072791302852930">Dodajte karticu</translation>
+ <translation id="4348834659292907206">Veza sa sajtom <ph name="SITE"/> nije bezbedna</translation>
+@@ -1858,7 +1858,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="4406896451731180161">rezultati pretrage</translation>
+ <translation id="4408413947728134509">Kolačići (<ph name="NUM_COOKIES"/>)</translation>
+ <translation id="4412074349188076601">Ova konfiguracija je označena kao da može da se instalira, ali za ovu arhitekturu nije navedena slika, pa ne može da se instalira.</translation>
+-<translation id="6647778944129929873">Koristite Brave menadžer lozinki i Brave automatsko popunjavanje da biste čuvali i popunjavali lozinke, načine plaćanja i adrese</translation>
++<translation id="6647778944129929873">Koristite Kahf menadžer lozinki i Kahf automatsko popunjavanje da biste čuvali i popunjavali lozinke, načine plaćanja i adrese</translation>
+ <translation id="4414515549596849729">kolačići i podaci o sajtovima</translation>
+ <translation id="4415156962929755728">Plastika (visoki sjaj)</translation>
+ <translation id="4415426530740016218">Adresa preuzimanja</translation>
+@@ -1889,16 +1889,16 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="448363931695049633">Picerije</translation>
+ <translation id="4489023393592172404">Koverta Kaku 4</translation>
+ <translation id="4490717597759821841">A7</translation>
+-<translation id="3966104135245031874">Šifruj sinhronizovane lozinke pomoću Brave naloga</translation>
++<translation id="3966104135245031874">Šifruj sinhronizovane lozinke pomoću Kahf naloga</translation>
+ <translation id="4493480324863638523">URL je nevažeći. URL mora da ima standardnu šemu, npr. http://example.com ili https://example.com.</translation>
+-<translation id="7622628059331736328">Možete da vidite teme oglasa u podešavanjima i da blokirate one za koje ne želite da se dele sa sajtovima. Brave automatski briše i teme oglasa starije od 4 nedelje.</translation>
++<translation id="7622628059331736328">Možete da vidite teme oglasa u podešavanjima i da blokirate one za koje ne želite da se dele sa sajtovima. Kahf automatski briše i teme oglasa starije od 4 nedelje.</translation>
+ <translation id="4500587658229086076">nebezbedan sadržaj</translation>
+ <translation id="450602096898954067">Obučeni pregledači mogu da vide podatke radi poboljšanja ove funkcije</translation>
+ <translation id="4506176782989081258">Greška pri potvrdi valjanosti: <ph name="VALIDATION_ERROR"/></translation>
+ <translation id="4506599922270137252">da kontaktirate administratora sistema</translation>
+ <translation id="450710068430902550">Deljenje sa administratorom</translation>
+-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste preveli ovu stranicu pomoću Brave prevodioca</translation>
+-<translation id="4892470328555495647">Kartice i adrese su iz Brave-a i sa vašeg Brave naloga (<ph name="ACCOUNT_EMAIL"/>). Njima možete da upravljate u <ph name="BEGIN_LINK"/>podešavnjima<ph name="END_LINK"/>.</translation>
++<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste preveli ovu stranicu pomoću Kahf prevodioca</translation>
++<translation id="4892470328555495647">Kartice i adrese su iz Kahf-a i sa vašeg Kahf naloga (<ph name="ACCOUNT_EMAIL"/>). Njima možete da upravljate u <ph name="BEGIN_LINK"/>podešavnjima<ph name="END_LINK"/>.</translation>
+ <translation id="4515847625438516456">Mikroautomobili i mala kompaktna vozila</translation>
+ <translation id="4519245469315452746">Uređaj je prekinut tokom procesa ažuriranja.</translation>
+ <translation id="4520048001084013693">Smernice administratora blokiraju preuzimanje ovog fajla</translation>
+@@ -1915,7 +1915,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="4540780316273593836">Došlo je do greške</translation>
+ <translation id="4541810033354695636">proširena realnost</translation>
+ <translation id="4542971377163063093">6. fioka</translation>
+-<translation id="563788859854213593">Da biste sledeći put platili brže, sačuvajte karticu i adresu za obračun na Brave nalogu</translation>
++<translation id="563788859854213593">Da biste sledeći put platili brže, sačuvajte karticu i adresu za obračun na Kahf nalogu</translation>
+ <translation id="454441086898495030">Želite li da dodate u tabelu za poređenje <ph name="SET"/>?</translation>
+ <translation id="4546730006268514143">Vreme za prenos je isteklo</translation>
+ <translation id="455113658016510503">A9</translation>
+@@ -2055,19 +2055,19 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="4819347708020428563">Želite li da izmenite komentare u podrazumevanom prikazu?</translation>
+ <translation id="4822493756793346865">Uobičajene cene se zasnivaju na informacijama iz prodavnica širom veba tokom poslednjih 90 dana.</translation>
+ <translation id="4822922322149719535">Prikaži evidenciju grešaka</translation>
+-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste brzo napravili novu Brave tabelu</translation>
++<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste brzo napravili novu Kahf tabelu</translation>
+ <translation id="4826588772550366629">kamera i mikrofon</translation>
+ <translation id="4827283332383516812">Izbrišite karticu</translation>
+ <translation id="4831993743164297314">Papir za štampanje slika</translation>
+ <translation id="483241715238664915">Uključi upozorenja</translation>
+ <translation id="4832961164064927107">Roštilj</translation>
+ <translation id="4834250788637067901">Načini plaćanja, ponude i adrese koji koriste Google Pay</translation>
+-<translation id="246176083348620700">Pregledajte istoriju Brave-a</translation>
++<translation id="246176083348620700">Pregledajte istoriju Kahf-a</translation>
+ <translation id="484462545196658690">Automatski</translation>
+ <translation id="484671803914931257">Ostvarite popust kod prodavca <ph name="MERCHANT_NAME"/> i drugih prodavaca</translation>
+ <translation id="484988093836683706">Koristi otključavanje uređaja</translation>
+ <translation id="4850886885716139402">Prikaz</translation>
+-<translation id="3418609161696289726">Brzo napravite novu belešku u Brave Keep-u</translation>
++<translation id="3418609161696289726">Brzo napravite novu belešku u Kahf Keep-u</translation>
+ <translation id="4855395119669662878">Administrator će početi da otprema fajlove u <ph name="CLOUD_PROVIDER"/> <ph name="DATE_TIME"/>. Neka uređaj bude povezan dok se otpremanje fajla ne završi. Tokom otpremanja moći ćete da čitate samo lokalne fajlove.</translation>
+ <translation id="485902285759009870">Kôd se verifikuje...</translation>
+ <translation id="4860260582253463350">Ako želiš da nastaviš na YouTube, moramo da se uverimo da si to stvarno ti. Dobićeš podešavanja koja je roditelj ili staratelj podesio u Family Link-u.</translation>
+@@ -2165,11 +2165,11 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="5018422839182700155">Ne možemo da otvorimo ovu stranicu</translation>
+ <translation id="5018802455907704660">16×20 in</translation>
+ <translation id="5019198164206649151">Skladište toka podataka je u lošem stanju</translation>
+-<translation id="2013297594801702701">Možete da koristite sačuvane adrese u svim Brave proizvodima. Ova adresa će biti sačuvana na Brave nalogu <ph name="USER_EMAIL"/>.</translation>
++<translation id="2013297594801702701">Možete da koristite sačuvane adrese u svim Kahf proizvodima. Ova adresa će biti sačuvana na Kahf nalogu <ph name="USER_EMAIL"/>.</translation>
+ <translation id="5019952743397118625">Smernice <ph name="EXTENSION_DEVELOPER_MODE_SETTINGS_POLICY_NAME"/> su podešene. <ph name="DEVELOPER_TOOLS_AVAILABILITY_POLICY_NAME"/> neće kontrolisati dostupnost režima programera na stranici sa dodacima.</translation>
+-<translation id="6516968977334148048">Pratite cene pomoću Brave-a</translation>
++<translation id="6516968977334148048">Pratite cene pomoću Kahf-a</translation>
+ <translation id="5023310440958281426">Proverite smernice administratora</translation>
+-<translation id="7993217516063481081">Plaćajte brže uz sačuvanu karticu. Detalji o kartici se šifruju na Brave nalogu.</translation>
++<translation id="7993217516063481081">Plaćajte brže uz sačuvanu karticu. Detalji o kartici se šifruju na Kahf nalogu.</translation>
+ <translation id="5030338702439866405">Izdao/la</translation>
+ <translation id="503069730517007720">Osnovni sertifikat za softver „<ph name="SOFTWARE_NAME"/>“ je obavezan, ali nije instaliran. IT administrator treba da pregleda uputstva za konfiguraciju softvera „<ph name="SOFTWARE_NAME"/>“ da bi rešio ovaj problem. <ph name="FURTHER_EXPLANATION"/></translation>
+ <translation id="5034930251282078640">Želite da dodate u poređenje?</translation>
+@@ -2202,11 +2202,11 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="5088142053160410913">Poruka operateru</translation>
+ <translation id="5090647584136241764">Dodajte kartice sa sličnim proizvodima da biste lako poredili detalje koji su vam važni</translation>
+ <translation id="5093232627742069661">Presavijanje u obliku slova Z</translation>
+-<translation id="4906192414477726331">Ovaj server ne može da dokaže da je <ph name="DOMAIN"/>; Brave nema poverenja u njegov bezbednosni sertifikat. Uzrok tome je možda pogrešna konfiguracija ili napadač koji je prekinuo vezu.</translation>
++<translation id="4906192414477726331">Ovaj server ne može da dokaže da je <ph name="DOMAIN"/>; Kahf nema poverenja u njegov bezbednosni sertifikat. Uzrok tome je možda pogrešna konfiguracija ili napadač koji je prekinuo vezu.</translation>
+ <translation id="5097099694988056070">Statistički podaci o uređaju, poput iskorišćenosti procesora/RAM memorije</translation>
+ <translation id="5097468150760963273">27×39 in</translation>
+ <translation id="5097501891273180634">A2</translation>
+-<translation id="1643886086471238725">Brave traži pristup dozvoli <ph name="PERMISSION"/> na uređaju</translation>
++<translation id="1643886086471238725">Kahf traži pristup dozvoli <ph name="PERMISSION"/> na uređaju</translation>
+ <translation id="510644072453496781">Karton (kraj)</translation>
+ <translation id="5108881358339761672">Sajt nije bezbedan</translation>
+ <translation id="5109892411553231226">Upravljajte načinima plaćanja</translation>
+@@ -2379,7 +2379,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="5425082381151187189">Dekoracija kuće i enterijera</translation>
+ <translation id="5426179911063097041"><ph name="SITE"/> želi da vam šalje obaveštenja</translation>
+ <translation id="5430298929874300616">Uklonite obeleživač</translation>
+-<translation id="8517215617486022589">Brave <ph name="BEGIN_EMPHASIS"/>ne čuva<ph name="END_EMPHASIS"/>:
++<translation id="8517215617486022589">Kahf <ph name="BEGIN_EMPHASIS"/>ne čuva<ph name="END_EMPHASIS"/>:
+           <ph name="BEGIN_LIST"/>
+             <ph name="LIST_ITEM"/>istoriju pregledanja
+             <ph name="LIST_ITEM"/>kolačiće i podatke o sajtovima
+@@ -2456,7 +2456,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="5559311991468302423">Izbrišite adresu</translation>
+ <translation id="5560088892362098740">Datum isteka</translation>
+ <translation id="55635442646131152">Struktura dokumenta</translation>
+-<translation id="1702142849385752335">Da biste koristili mikrofon, odobrite Brave-u pristup u: <ph name="LINK"/>.</translation>
++<translation id="1702142849385752335">Da biste koristili mikrofon, odobrite Kahf-u pristup u: <ph name="LINK"/>.</translation>
+ <translation id="5395368798429603306">Otvori karticu bez arhiviranja</translation>
+ <translation id="5565735124758917034">Aktivno</translation>
+ <translation id="5569030697349375295">Softver za računovodstvo i finansije</translation>
+@@ -2610,7 +2610,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="5877359070305966420">Ljudski resursi</translation>
+ <translation id="5879272455334365707">Finansijsko planiranje i upravljanje</translation>
+ <translation id="5879989559903563723">Nije dozvoljeno u režimu gosta</translation>
+-<translation id="8967688963142514142">Idi na Brave proveru bezbednosti</translation>
++<translation id="8967688963142514142">Idi na Kahf proveru bezbednosti</translation>
+ <translation id="5884465125445718607">Kineska koverta br. 6</translation>
+ <translation id="5886961930368713749">Pošaljite povratne informacije za poređenje</translation>
+ <translation id="5887400589839399685">Kartica je sačuvana</translation>
+@@ -2666,10 +2666,10 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="5989320800837274978">Nisu navedeni ni fiksni proksi serveri niti URL adresa .pac skripte.</translation>
+ <translation id="5992691462791905444">Presavijanje u obliku polu-harmonike</translation>
+ <translation id="5992805036496113940">Pogledajte informacije koje se koriste za prikazivanje oglasa</translation>
+-<translation id="7409510288691071929">Upravljajte informacijama, privatnošću i bezbednošću na Brave nalogu</translation>
++<translation id="7409510288691071929">Upravljajte informacijama, privatnošću i bezbednošću na Kahf nalogu</translation>
+ <translation id="5996255674476750320">Izložbe vozila</translation>
+-<translation id="3494641719937626561">Lozinka koju ste upravo koristili je pronađena pri povredi podataka. Da biste zaštitili naloge, Brave menadžer lozinki preporučuje da je odmah promenite i proverite sačuvane lozinke.</translation>
+-<translation id="4496834749307444910">Brave ima ugrađene bezbednosne funkcije koje vas štite tokom pregledanja – kao što je Brave bezbedno pregledanje, koje je <ph name="BEGIN_LINK"/>nedavno pronašlo malver<ph name="END_LINK"/> na sajtu koji pokušavate da posetite.</translation>
++<translation id="3494641719937626561">Lozinka koju ste upravo koristili je pronađena pri povredi podataka. Da biste zaštitili naloge, Kahf menadžer lozinki preporučuje da je odmah promenite i proverite sačuvane lozinke.</translation>
++<translation id="4496834749307444910">Kahf ima ugrađene bezbednosne funkcije koje vas štite tokom pregledanja – kao što je Kahf bezbedno pregledanje, koje je <ph name="BEGIN_LINK"/>nedavno pronašlo malver<ph name="END_LINK"/> na sajtu koji pokušavate da posetite.</translation>
+ <translation id="6000528814684428358">Hard rok i progresivni rok</translation>
+ <translation id="6000758707621254961"><ph name="RESULT_COUNT"/> rezultata za „<ph name="SEARCH_TEXT"/>“</translation>
+ <translation id="6001839398155993679">Idemo</translation>
+@@ -2727,7 +2727,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6080696365213338172">Pristupali ste sadržaju pomoću sertifikata koji je obezbedio administrator. Administrator može da presretne podatke koje obezbedite domenu <ph name="DOMAIN"/>.</translation>
+ <translation id="6085149458302186532">Nalepnice (u boji)</translation>
+ <translation id="6087312102907839798">Srodne pretrage</translation>
+-<translation id="7851017866080575588">Kartice koje izbrišete iz istorije Brave-a i dalje će se prikazivati u tabelama za poređenje</translation>
++<translation id="7851017866080575588">Kartice koje izbrišete iz istorije Kahf-a i dalje će se prikazivati u tabelama za poređenje</translation>
+ <translation id="6093795393556121384">Kartica je verifikovana</translation>
+ <translation id="6094273045989040137">Dodajte napomene</translation>
+ <translation id="6094290315941448991">Smernice administratora onemogućavaju snimanje ekrana kada je vidljiv poverljiv sadržaj</translation>
+@@ -2739,17 +2739,17 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6107012941649240045">Izdato za</translation>
+ <translation id="6107924765192360631">Počnite sa nekoliko reči ili prvom radnom verzijom da biste dobili predloge za pisanje.</translation>
+ <translation id="6108580855199168381">Detalji sertifikata</translation>
+-<translation id="5539282829066374332">Vaš pretraživač u Brave-u</translation>
++<translation id="5539282829066374332">Vaš pretraživač u Kahf-u</translation>
+ <translation id="6108849843016142864">Gmizavci i vodozemci</translation>
+-<translation id="8233947174119245051">Brave nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+-<translation id="1715537866439612181">Pretrage, najbolja podudaranja i sadržaj stranica šalju se Brave-u i osobe koje pregledaju mogu da ih vide radi poboljšanja ove funkcije.</translation>
++<translation id="8233947174119245051">Kahf nalog može da ima druge oblike istorije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
++<translation id="1715537866439612181">Pretrage, najbolja podudaranja i sadržaj stranica šalju se Kahf-u i osobe koje pregledaju mogu da ih vide radi poboljšanja ove funkcije.</translation>
+ <translation id="6116338172782435947">da vidi tekst i slike koji su kopirani u privremenu memoriju</translation>
+ <translation id="6117833587752089929">Slika (saten)</translation>
+ <translation id="6118782133429281336">Lista porekla je prazna.</translation>
+ <translation id="612178891608320683">Veganska kuhinja</translation>
+ <translation id="6122181661879998141">prednjoj strani kartice</translation>
+ <translation id="6124058285696691147">Preuzmi prilog</translation>
+-<translation id="5972135347314259717">Priključci za Brave za preduzeća</translation>
++<translation id="5972135347314259717">Priključci za Kahf za preduzeća</translation>
+ <translation id="6126565365696310362">Kineska koverta br. 2</translation>
+ <translation id="6127379762771434464">Uklonili ste stavku</translation>
+ <translation id="6131824478727057281">lokacija</translation>
+@@ -2770,14 +2770,14 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6160391204859821737">Uključite funkciju za privatnost sa oglasima</translation>
+ <translation id="6165508094623778733">Saznajte više</translation>
+ <translation id="6167577165590485365">Poslednji pokušaj preuzimanja:</translation>
+-<translation id="1057223975912338979">Brave pokušava da proveri da li ste to vi da bi mogao da unese informacije o plaćanju.</translation>
++<translation id="1057223975912338979">Kahf pokušava da proveri da li ste to vi da bi mogao da unese informacije o plaćanju.</translation>
+ <translation id="6173208311907792313">Dovršite kupovinu uz Windows Hello</translation>
+ <translation id="6176387967264100435">Ova cena je visoka</translation>
+ <translation id="6177128806592000436">Veza sa ovim sajtom nije bezbedna</translation>
+ <translation id="6177531123306197852">Koverta C2</translation>
+ <translation id="6180316780098470077">Interval između ponovnih pokušaja</translation>
+ <translation id="6182972682129119950">A4x5</translation>
+-<translation id="1713601041945301465">Brave automatski ograničava kolačiće treće strane</translation>
++<translation id="1713601041945301465">Kahf automatski ograničava kolačiće treće strane</translation>
+ <translation id="6194209731893739467">Pogledajte sve proizvode koje pratite ovde</translation>
+ <translation id="6195163219142236913">Kolačići treće strane su ograničeni</translation>
+ <translation id="6195371403461054755">Geologija</translation>
+@@ -2791,15 +2791,15 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6215936431492593050">Metal (saten)</translation>
+ <translation id="6217950634729714357">Nameštaj za kuhinju i trpezariju</translation>
+ <translation id="6218305986815100395">Uključivanje virtuelne kartice nije uspelo</translation>
+-<translation id="8385639954311581596">Želite li da uklonite adresu iz Brave-a?</translation>
++<translation id="8385639954311581596">Želite li da uklonite adresu iz Kahf-a?</translation>
+ <translation id="622039917539443112">Paralelno presavijanje</translation>
+ <translation id="6221286101741304627">Da biste izašli iz režima celog ekrana, pritisnite |<ph name="ACCELERATOR"/>|</translation>
+-<translation id="5286511760116495417">Da li želite da sačuvate ovu karticu na Brave nalogu?</translation>
++<translation id="5286511760116495417">Da li želite da sačuvate ovu karticu na Kahf nalogu?</translation>
+ <translation id="6221892641068781024">Pojednostavljeni prikaz</translation>
+ <translation id="6222527803348563979">Kancelarijski pribor</translation>
+ <translation id="62231116988543150">Da može da instalira veb-aplikacije</translation>
+ <translation id="6224281071334553713">Drago kamenje i nakit</translation>
+-<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste personalizovali alatke za pristupačnost u podešavanjima Brave-a</translation>
++<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste personalizovali alatke za pristupačnost u podešavanjima Kahf-a</translation>
+ <translation id="6228346913624365233">Luksuzna vozila</translation>
+ <translation id="6229196330202833460">Strimovanje filmskog i TV sadržaja</translation>
+ <translation id="6234122620015464377">Skrati posle svakog dokumenta</translation>
+@@ -2807,17 +2807,17 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6236290670123303279">Upravljajte podešavanjima</translation>
+ <translation id="623825323736974198">Upravljajte sajtovima koji će uvek ostati aktivni i koji neće biti uklonjeni iz memorije</translation>
+ <translation id="6240447795304464094">Google Pay logotip</translation>
+-<translation id="4174528239215311406">Da biste koristili Brave menadžer lozinki sa operativnim sistemom, ponovo pokrenite Brave i dozvolite pristup menadžeru lozinki na računaru. Kartice će se ponovo otvoriti posle ponovnog pokretanja.</translation>
++<translation id="4174528239215311406">Da biste koristili Kahf menadžer lozinki sa operativnim sistemom, ponovo pokrenite Kahf i dozvolite pristup menadžeru lozinki na računaru. Kartice će se ponovo otvoriti posle ponovnog pokretanja.</translation>
+ <translation id="6241121617266208201">Sakrij predloge</translation>
+ <translation id="624499991300733384">Usluga slaganja za štampanje</translation>
+ <translation id="6246316216123107851">Pre <ph name="NUM_DAYS"/> dana</translation>
+ <translation id="6246868321321344665">Organizacija može da vidi podatke pregledanja, poput lozinki i istorije, i na poslovnom i na ličnom profilu</translation>
+ <translation id="6250932670816326647">Proizvodi za kupanje i negu tela</translation>
+ <translation id="6251906504834538140">{0,plural, =1{Premeštanje fajla je blokirano}one{Premeštanje <ph name="FILE_COUNT"/> fajla je blokirano}few{Premeštanje <ph name="FILE_COUNT"/> fajla je blokirano}other{Premeštanje <ph name="FILE_COUNT"/> fajlova je blokirano}}</translation>
+-<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali fajlovima koje ste preuzeli u Brave-u</translation>
++<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali fajlovima koje ste preuzeli u Kahf-u</translation>
+ <translation id="6254436959401408446">Nema dovoljno memorije za otvaranje ove stranice</translation>
+ <translation id="625463612687472648">Opozovi dozvolu</translation>
+-<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Kada kupujete u Brave-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opciju}one{Kada kupujete u Brave-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opcije}few{Kada kupujete u Brave-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opcije}other{Kada kupujete u Brave-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opcije}}</translation>
++<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Kada kupujete u Kahf-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opciju}one{Kada kupujete u Kahf-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opcije}few{Kada kupujete u Kahf-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opcije}other{Kada kupujete u Kahf-u, pogledajte <ph name="FINANCIAL_ACCOUNT_TYPES"/> kao opcije}}</translation>
+ <translation id="6259156558325130047">&amp;Ponovi promenu redosleda</translation>
+ <translation id="6263376278284652872">Obeleživači domena <ph name="DOMAIN"/></translation>
+ <translation id="6264376385120300461">Ipak preuzmi</translation>
+@@ -2853,11 +2853,11 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6311410654831092784">Tvrdi papir</translation>
+ <translation id="6312113039770857350">Veb-stranica nije dostupna</translation>
+ <translation id="6316110367871394043">Otpremanje fajla u <ph name="CLOUD_PROVIDER"/> je pauzirano</translation>
+-<translation id="1413891145337537586">Novo: Ovde se primenjuju Family Link opcije za Brave</translation>
++<translation id="1413891145337537586">Novo: Ovde se primenjuju Family Link opcije za Kahf</translation>
+ <translation id="63172326633386613">Upravljajte podešavanjima pristupačnosti</translation>
+ <translation id="6321917430147971392">Proverite DNS podešavanja</translation>
+ <translation id="6322182122604171028">Korišćenje funkcije Windows Hello nije uspelo</translation>
+-<translation id="7962450223988560278">Podesite Brave kao podrazumevani pregledač sistema u podešavanjima iOS-a</translation>
++<translation id="7962450223988560278">Podesite Kahf kao podrazumevani pregledač sistema u podešavanjima iOS-a</translation>
+ <translation id="6328639280570009161">Pokušajte da onemogućite predviđanje mreže</translation>
+ <translation id="6328784461820205019">„Veza nije privatna“ ili „&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;“ ili „&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;“ ili „&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;“ ili „&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;“ ili „Greška u vezi sa SSL sertifikatom“</translation>
+ <translation id="6335029926534404762">Sportska obuća</translation>
+@@ -2908,7 +2908,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="640163077447496506">Ističe danas</translation>
+ <translation id="6402537308870515461">Potreban je pregled pre premeštanja</translation>
+ <translation id="6403167778944553">Spavaće sobe i kupatila</translation>
+-<translation id="1939189437759050709">Nazivi kartica i URL-ovi stranica koje dodate u tabelu šalju se Brave-u, čuvaju na nalogu <ph name="EMAIL"/> i mogu da ih vide osobe koje pregledaju radi poboljšanja ove funkcije.</translation>
++<translation id="1939189437759050709">Nazivi kartica i URL-ovi stranica koje dodate u tabelu šalju se Kahf-u, čuvaju na nalogu <ph name="EMAIL"/> i mogu da ih vide osobe koje pregledaju radi poboljšanja ove funkcije.</translation>
+ <translation id="6404511346730675251">Izmena obeleživača</translation>
+ <translation id="6405181733356710802">Želite li da nastavite na: <ph name="APP_NAME"/>?</translation>
+ <translation id="6410264514553301377">Unesite datum isteka i CVC za karticu <ph name="CREDIT_CARD"/></translation>
+@@ -2977,11 +2977,11 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="65203098586853226">Prevodi se sa jezika <ph name="SOURCE"/> na <ph name="TARGET"/></translation>
+ <translation id="6521745193039995384">Nisu aktivne</translation>
+ <translation id="6522682797352430154">Klasična muzika</translation>
+-<translation id="7379829935006425840">Dugme Prilagodi podešavanja pristupačnosti, aktivirajte ga da biste personalizovali alatke za pristupačnost u podešavanjima Brave-a</translation>
++<translation id="7379829935006425840">Dugme Prilagodi podešavanja pristupačnosti, aktivirajte ga da biste personalizovali alatke za pristupačnost u podešavanjima Kahf-a</translation>
+ <translation id="6527049834925947126">Proizvodnja hrane</translation>
+ <translation id="6529173248185917884">Sedmi kotur</translation>
+ <translation id="6529602333819889595">&amp;Ponovi brisanje</translation>
+-<translation id="4126692285908824778">Ova kartica se čuva na Brave nalogu da biste mogli da je koristite u svim Brave uslugama.</translation>
++<translation id="4126692285908824778">Ova kartica se čuva na Kahf nalogu da biste mogli da je koristite u svim Kahf uslugama.</translation>
+ <translation id="6536221421038631327">Uklanjanjem Passpoint pretplate sa uređaja <ph name="DEVICE_TYPE"/> uklanjaju se povezane mreže. Obratite se aplikaciji <ph name="FRIENDLY_NAME"/> da biste uneli izmene u pretplatnički paket. <ph name="LEARN_MORE"/></translation>
+ <translation id="653801826293432362">Da biste videli tabele za poređenje, uključite sinhronizaciju</translation>
+ <translation id="6539092367496845964">Došlo je do greške. Probajte ponovo kasnije.</translation>
+@@ -3011,26 +3011,26 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6597665340361269064">90 stepeni</translation>
+ <translation id="6598976221101665070">Drame</translation>
+ <translation id="6599642189720630047">Proizvodi koje pratite</translation>
+-<translation id="5976895887103591798">Brave blokira sajtove da koriste kolačiće treće strane da bi vas pratili dok pregledate.
++<translation id="5976895887103591798">Kahf blokira sajtove da koriste kolačiće treće strane da bi vas pratili dok pregledate.
+             <ph name="NEW_LINE"/>Ako funkcije sajta ne rade, <ph name="START_LINK"/>probajte da privremeno dozvolite kolačiće treće strane<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">praćenje ruku</translation>
+-<translation id="5887670611153282204">Saznajte više o pretraživaču u Brave-u</translation>
++<translation id="5887670611153282204">Saznajte više o pretraživaču u Kahf-u</translation>
+ <translation id="6615297766614333076">2. pregrada za slaganje</translation>
+ <translation id="6619496928666593220">IBAN nije unet</translation>
+ <translation id="6624427990725312378">Kontakt informacije</translation>
+ <translation id="6628463337424475685"><ph name="ENGINE"/> pretraga</translation>
+ <translation id="6629652037942826935">Luksuzna putovanja</translation>
+ <translation id="6630043285902923878">Traže se USB uređaji…</translation>
+-<translation id="4945711024178085608">Dugme Upravljaj podešavanjima Brave-a, aktivirajte ga da biste posetili podešavanja Brave-a</translation>
++<translation id="4945711024178085608">Dugme Upravljaj podešavanjima Kahf-a, aktivirajte ga da biste posetili podešavanja Kahf-a</translation>
+ <translation id="6631133499533814479">Australijski fudbal</translation>
+ <translation id="663260587451432563">JIS B4</translation>
+ <translation id="6633405994164965230">Računarsko obrazovanje</translation>
+ <translation id="6633476656216409494">Softver za poslovanje i produktivnost</translation>
+-<translation id="2529518595693862042">Brave ima ugrađene bezbednosne funkcije koje vas štite tokom pregledanja – poput Brave bezbednog pregledanja, koje je nedavno <ph name="BEGIN_LINK"/>otkrilo štetan softver<ph name="END_LINK"/> na sajtu koji pokušavate da posetite.</translation>
++<translation id="2529518595693862042">Kahf ima ugrađene bezbednosne funkcije koje vas štite tokom pregledanja – poput Kahf bezbednog pregledanja, koje je nedavno <ph name="BEGIN_LINK"/>otkrilo štetan softver<ph name="END_LINK"/> na sajtu koji pokušavate da posetite.</translation>
+ <translation id="6643016212128521049">Obriši</translation>
+ <translation id="6645291930348198241">da pristupa kolačićima i podacima o sajtovima.</translation>
+ <translation id="6645478838938543427">Obaveštenja o sniženjima će se slati na <ph name="EMAIL_ADDRESS"/></translation>
+-<translation id="6678472970290886941">Administrator može daljinski da promeni podešavanje pregledača. Aktivnostima na ovom uređaju može da se upravlja i van Brave-a.</translation>
++<translation id="6678472970290886941">Administrator može daljinski da promeni podešavanje pregledača. Aktivnostima na ovom uređaju može da se upravlja i van Kahf-a.</translation>
+ <translation id="6648524591329069940">Font Serif</translation>
+ <translation id="6649510485211003056">195×270 mm</translation>
+ <translation id="6651270836885078973">Ovim upravlja:</translation>
+@@ -3053,9 +3053,9 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6688775486821967877">Virtuelna kartica trenutno nije dostupna. Probajte ponovo kasnije.</translation>
+ <translation id="6688851075017682769">Probna adresa prema zemlji</translation>
+ <translation id="6689249931105087298">Relativno sa kompresijom crnih tačaka</translation>
+-<translation id="5406652219015697259">Brave vam nudi čuvanje kartica na Brave nalogu zato što ste prijavljeni. To možete da promenite u podešavanjima. Ime vlasnika kartice smo uzeli sa naloga.</translation>
++<translation id="5406652219015697259">Kahf vam nudi čuvanje kartica na Kahf nalogu zato što ste prijavljeni. To možete da promenite u podešavanjima. Ime vlasnika kartice smo uzeli sa naloga.</translation>
+ <translation id="6691397311652656001">Oslobodite više od <ph name="REQUIRED_FREE_DISK_SPACE"/> prostora</translation>
+-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste otvorili opciju za traženje uređaja na Brave nalogu</translation>
++<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste otvorili opciju za traženje uređaja na Kahf nalogu</translation>
+ <translation id="6695428916538794739">Akcije i avanture</translation>
+ <translation id="6696424331653607346">Turistički vodiči i katalozi</translation>
+ <translation id="6696575039575740785">Instaliranje veb-aplikacija nije dozvoljeno</translation>
+@@ -3067,7 +3067,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6704458454638854812">Svojstvo „custom_size“ je podešeno. Očekivani naziv je „prilagođeno“.</translation>
+ <translation id="6706005862292023715">Zavese i dekoracije za prozore</translation>
+ <translation id="6706210727756204531">Opseg</translation>
+-<translation id="1162411425302454249">Ovaj IBAN nije sačuvan na Brave nalogu. Umesto toga, sačuvan je u Brave-u na ovom uređaju.</translation>
++<translation id="1162411425302454249">Ovaj IBAN nije sačuvan na Kahf nalogu. Umesto toga, sačuvan je u Kahf-u na ovom uređaju.</translation>
+ <translation id="6709133671862442373">Vesti</translation>
+ <translation id="6710213216561001401">Prethodno</translation>
+ <translation id="6710594484020273272">&lt;Unesite termin za pretragu&gt;</translation>
+@@ -3100,10 +3100,10 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6767985426384634228">Želite da ažurirate adresu?</translation>
+ <translation id="6770747695101757579">Papir (pamuk)</translation>
+ <translation id="677257480647123231">Bezbednost dece na internetu</translation>
+-<translation id="3576010969994131987">Da biste koristili YouTube, nastavite sa Brave nalogom</translation>
++<translation id="3576010969994131987">Da biste koristili YouTube, nastavite sa Kahf nalogom</translation>
+ <translation id="6775759552199460396">JIS B2</translation>
+ <translation id="6777088782163649345">Koristi YouTube sa podešavanjima roditelja</translation>
+-<translation id="4302311572898487420">Brave menadžer lozinki traži pristup MacOS Keychain-u</translation>
++<translation id="4302311572898487420">Kahf menadžer lozinki traži pristup MacOS Keychain-u</translation>
+ <translation id="6782656837469339439">Godina isteka</translation>
+ <translation id="6786145470008421571">Koverta 15×23 cm</translation>
+ <translation id="67862343314499040">Ljubičasta</translation>
+@@ -3137,7 +3137,7 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6841864657731852591">Cilindar za graviranje</translation>
+ <translation id="6842196666980060516">184×260 mm</translation>
+ <translation id="6844998850832008753">Praćenje ruku je dozvoljeno ovaj put</translation>
+-<translation id="976643339176907534">Dugme Upravljaj bezbednosnim podešavanjima, aktivirajte ga da biste upravljali Bezbednim pregledanjem i drugim sadržajem u podešavanjima Brave-a</translation>
++<translation id="976643339176907534">Dugme Upravljaj bezbednosnim podešavanjima, aktivirajte ga da biste upravljali Bezbednim pregledanjem i drugim sadržajem u podešavanjima Kahf-a</translation>
+ <translation id="6852204201400771460">Želite li da ponovo učitate aplikaciju?</translation>
+ <translation id="6857776781123259569">Upravljajte lozinkama…</translation>
+ <translation id="6858034839887287663">A2x4</translation>
+@@ -3150,13 +3150,13 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="6873456682041376666">Gornja fioka</translation>
+ <translation id="6874604403660855544">&amp;Ponovi dodavanje</translation>
+ <translation id="6880941331070119097">Opcija visoke cene</translation>
+-<translation id="5856252669085142737">Brzo napravite nov Brave dokument</translation>
++<translation id="5856252669085142737">Brzo napravite nov Kahf dokument</translation>
+ <translation id="6882210908253838664">Ako sajt ne radi, možete da probate da mu date privremenu dozvolu za korišćenje kolačića treće strane. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+ <translation id="6882418526420053414"><ph name="SITE"/> ne podržava bezbednu vezu</translation>
+ <translation id="6883221904761970440">Tabela za potvrdu akreditiva za bezbedno plaćanje je zatvorena</translation>
+ <translation id="6884662655240309489">Veličina 1</translation>
+ <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
+-<translation id="7265969755975834932">Brave je pojednostavio ovu stranicu radi lakšeg čitanja. Brave je preuzeo originalnu stranicu preko nebezbedne veze.</translation>
++<translation id="7265969755975834932">Kahf je pojednostavio ovu stranicu radi lakšeg čitanja. Kahf je preuzeo originalnu stranicu preko nebezbedne veze.</translation>
+ <translation id="6890443033788248019">Želite li da dozvolite lokaciju?</translation>
+ <translation id="6890531741535756070">Odabrali ste da verifikujete pomoću <ph name="DEVICE_LABEL"/> na veb-sajtovima koji koriste <ph name="PROVIDER_ORIGIN"/>. Ovaj dobavljač je možda sačuvao informacije o načinu plaćanja, za koji možete da <ph name="BEGIN_LINK"/>zatražite brisanje<ph name="END_LINK"/>.</translation>
+ <translation id="6890956352250146925">Opcije za kolačiće i podatke o sajtovima</translation>
+@@ -3207,16 +3207,16 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="696703987787944103">Opažajno</translation>
+ <translation id="6967851206780867018">1 fajl je blokiran zbog sadržaja</translation>
+ <translation id="6970885655016700774">Tkanina (arhiva)</translation>
+-<translation id="8485851762575764192">Brzo napravite novu Brave prezentaciju u Prezentacijama</translation>
++<translation id="8485851762575764192">Brzo napravite novu Kahf prezentaciju u Prezentacijama</translation>
+ <translation id="6972629891077993081">Uređaji sa interfejsom</translation>
+ <translation id="6973656660372572881">Navedeni su i fiksni proksi serveri i URL adresa .pac skripte.</translation>
+ <translation id="6973988895180423160">3,5×5 in</translation>
+ <translation id="6978121630131642226">Pretraživači</translation>
+ <translation id="6978236010531171013">Ipak deli</translation>
+-<translation id="8974669348014288088">Ako delite ovaj uređaj, Brave može da zatraži verifikaciju svaki put kada plaćate pomoću automatskog popunjavanja</translation>
+-<translation id="6979158407327259162">Brave disk</translation>
++<translation id="8974669348014288088">Ako delite ovaj uređaj, Kahf može da zatraži verifikaciju svaki put kada plaćate pomoću automatskog popunjavanja</translation>
++<translation id="6979158407327259162">Kahf disk</translation>
+ <translation id="6979440798594660689">Isključen (podrazumevano)</translation>
+-<translation id="6984270784814146224">Neoznačena slika. Tekst se izdvaja, što omogućava Brave veštačka inteligencija</translation>
++<translation id="6984270784814146224">Neoznačena slika. Tekst se izdvaja, što omogućava Kahf veštačka inteligencija</translation>
+ <translation id="6987806006823772670">Koverta (obložena)</translation>
+ <translation id="6989256887001961296">Ovaj sadržaj je blokiran.</translation>
+ <translation id="6989763994942163495">Prikaži napredna podešavanja...</translation>
+@@ -3233,14 +3233,14 @@ To inače blokiraju podešavanja privatnosti. To omogućava da sadržaj sa koji
+ <translation id="7014741021609395734">Nivo zumiranja</translation>
+ <translation id="7016992613359344582">Te naplate mogu da budu jednokratne ili periodične i možda nisu odmah vidljive.</translation>
+ <translation id="701757816833614688">Obrazovanje za vizuelne umetnosti i dizajn</translation>
+-<translation id="8683151724374457021">Ovaj sajt određuje stvari koje vam se sviđaju, a zatim predlaže oglase za druge sajtove. Ovaj sajt takođe prima podatke o vašim temama oglasa iz Brave-a da bi vam prikazivao relevantnije oglase.</translation>
++<translation id="8683151724374457021">Ovaj sajt određuje stvari koje vam se sviđaju, a zatim predlaže oglase za druge sajtove. Ovaj sajt takođe prima podatke o vašim temama oglasa iz Kahf-a da bi vam prikazivao relevantnije oglase.</translation>
+ <translation id="7023162328967545559">Upozorenje administratora</translation>
+-<translation id="7613812024276037086">Brave ima ugrađene bezbednosne funkcije koje vas štite tokom pregledanja – kao što je Brave bezbedno pregledanje, koje je <ph name="BEGIN_LINK"/>nedavno pronašlo „pecanje“<ph name="END_LINK"/> na sajtu koji pokušavate da posetite. Sajtovi sa „pecanjem“ se pretvaraju da su drugi sajtovi da bi vas prevarili.<ph name="NEW_LINE"/>Napadači ponekad ugrožavaju čak i sajtove koji su obično bezbedni. <ph name="BEGIN_ERROR_LINK"/>Obavestite nas<ph name="END_ERROR_LINK"/> ako mislite da je došlo do greške i da ovaj sajt ne predstavlja opasnost.</translation>
++<translation id="7613812024276037086">Kahf ima ugrađene bezbednosne funkcije koje vas štite tokom pregledanja – kao što je Kahf bezbedno pregledanje, koje je <ph name="BEGIN_LINK"/>nedavno pronašlo „pecanje“<ph name="END_LINK"/> na sajtu koji pokušavate da posetite. Sajtovi sa „pecanjem“ se pretvaraju da su drugi sajtovi da bi vas prevarili.<ph name="NEW_LINE"/>Napadači ponekad ugrožavaju čak i sajtove koji su obično bezbedni. <ph name="BEGIN_ERROR_LINK"/>Obavestite nas<ph name="END_ERROR_LINK"/> ako mislite da je došlo do greške i da ovaj sajt ne predstavlja opasnost.</translation>
+ <translation id="7029809446516969842">Lozinke</translation>
+ <translation id="7030164307377592766">da izmeni podešavanja za popunjavanje načina plaćanja</translation>
+ <translation id="7031646650991750659">Google Play koje aplikacije ste instalirali</translation>
+ <translation id="7035705295266423040">Banka želi da potvrdi da ste to vi</translation>
+-<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali podešavanjima privatnosti Brave naloga</translation>
++<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste upravljali podešavanjima privatnosti Kahf naloga</translation>
+ <translation id="7042616127917168121">Precizirajte rezultate</translation>
+ <translation id="7043552168914147882">Zaliha papira</translation>
+ <translation id="7044081119134178347">Kamera je dozvoljena ovaj put</translation>
+@@ -3403,9 +3403,9 @@ Dodatni detalji:
+ <translation id="7353601530677266744">Komandna linija</translation>
+ <translation id="7356678400607112844">Poslednja poseta</translation>
+ <translation id="7359588939039777303">Oglasi su blokirani.</translation>
+-<translation id="7308957539693927108">Kada Brave pronađe dostupne popuste, oni će se prikazivati tokom plaćanja</translation>
++<translation id="7308957539693927108">Kada Kahf pronađe dostupne popuste, oni će se prikazivati tokom plaćanja</translation>
+ <translation id="8794378783472961468">Međutim, niste nevidljivi. Prelaskom u režim bez arhiviranja nećete sakriti pregledanje od poslodavca, internet provajdera ili veb-sajtova koje posećujete.</translation>
+-<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste dodali adrese i upravljali njima u podešavanjima Brave-a</translation>
++<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste dodali adrese i upravljali njima u podešavanjima Kahf-a</translation>
+ <translation id="7365849542400970216">Dozvolićete sajtu da zna kada koristite uređaj?</translation>
+ <translation id="736592699917579616">Hrana</translation>
+ <translation id="7366117520888504990">198×275 mm</translation>
+@@ -3414,7 +3414,7 @@ Dodatni detalji:
+ <translation id="7372526636730851647">Slika (sjajna)</translation>
+ <translation id="7372973238305370288">rezultat pretrage</translation>
+ <translation id="7374461526650987610">Obrađivači protokola</translation>
+-<translation id="3898257577441589237">Ovaj problem se javlja zbog sertifikata koji ste vi ili neko drugi instalirali na uređaju. Sertifikat se koristi za nadgledanje i presretanje mreža i Brave ga ne smatra pouzdanim. Iako postoje pojedini opravdani razlozi za nadgledanje, na primer na školskoj ili poslovnoj mreži, Brave želi da budete svesni da se to događa, čak i ako to ne možete da sprečite. Nadgledanje je moguće u bilo kom pregledaču ili aplikaciji koja pristupa vebu.</translation>
++<translation id="3898257577441589237">Ovaj problem se javlja zbog sertifikata koji ste vi ili neko drugi instalirali na uređaju. Sertifikat se koristi za nadgledanje i presretanje mreža i Kahf ga ne smatra pouzdanim. Iako postoje pojedini opravdani razlozi za nadgledanje, na primer na školskoj ili poslovnoj mreži, Kahf želi da budete svesni da se to događa, čak i ako to ne možete da sprečite. Nadgledanje je moguće u bilo kom pregledaču ili aplikaciji koja pristupa vebu.</translation>
+ <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nijedan sajt nije dozvoljen}=1{1 sajt je dozvoljen}one{# sajt je dozvoljen}few{# sajta su dozvoljena}other{# sajtova je dozvoljeno}}</translation>
+ <translation id="7375818412732305729">Datoteka je priložena</translation>
+ <translation id="7376031331622621328">Donja tabela za trgovinu</translation>
+@@ -3443,7 +3443,7 @@ Dodatni detalji:
+     &lt;li&gt;U opciji &lt;strong&gt;Startup type&lt;/strong&gt; (Tip pokretanja) izaberite &lt;strong&gt;Disabled&lt;/strong&gt; (Onemogućeno)
+     &lt;li&gt;U opciji &lt;strong&gt;Service status&lt;/strong&gt; (Status usluge) kliknite na &lt;strong&gt;Stop&lt;/strong&gt; (Zaustavi)
+     &lt;li&gt;Prvo kliknite na &lt;strong&gt;Apply&lt;/strong&gt; (Primeni), pa na &lt;strong&gt;OK&lt;/strong&gt; (U redu)
+-    &lt;li&gt;Posetite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Brave centar za pomoć&lt;/a&gt; da biste saznali kako da trajno uklonite softver sa računara
++    &lt;li&gt;Posetite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Kahf centar za pomoć&lt;/a&gt; da biste saznali kako da trajno uklonite softver sa računara
+     &lt;/ol&gt;</translation>
+ <translation id="7408613996403626141">Igračke</translation>
+ <translation id="7410852728357935715">Prebacujte na uređaj</translation>
+@@ -3609,14 +3609,14 @@ Dodatni detalji:
+ <translation id="767550629621587224">Perforirane kartice</translation>
+ <translation id="7675756033024037212">Skrolovanje i zumiranje nije dozvoljeno</translation>
+ <translation id="7676643023259824263">Potražite tekst u privremenoj memoriji, <ph name="TEXT"/></translation>
+-<translation id="4628681623692678085">Pregledajte istoriju pregledanja i upravljajte njom u podešavanjima Brave-a</translation>
++<translation id="4628681623692678085">Pregledajte istoriju pregledanja i upravljajte njom u podešavanjima Kahf-a</translation>
+ <translation id="7679947978757153706">Bejzbol</translation>
+ <translation id="7680990533995586733"><ph name="CARD_NETWORK_NAME"/>, <ph name="CARD_LAST_FOUR_DIGITS"/>, ističe <ph name="CARD_EXPIRATION"/></translation>
+ <translation id="7682287625158474539">Isporuka</translation>
+ <translation id="7682451652090915298">Ragbi</translation>
+ <translation id="768344142657640519">Upravo ste posetili</translation>
+ <translation id="7684683146428206649">Metal</translation>
+-<translation id="5626140961157260107">Dugme za brisanje podatka pregledanja, aktivirajte ga da biste izbrisali istoriju pregledanja, kolačiće, keš i drugo u podešavanjima Brave-a</translation>
++<translation id="5626140961157260107">Dugme za brisanje podatka pregledanja, aktivirajte ga da biste izbrisali istoriju pregledanja, kolačiće, keš i drugo u podešavanjima Kahf-a</translation>
+ <translation id="7684928361160505327">{0,plural, =1{Fajl <ph name="FILE_NAME"/> je blokiran zbog smernica}one{<ph name="FILE_COUNT"/> fajl je blokiran zbog smernica}few{<ph name="FILE_COUNT"/> fajla su blokirana zbog smernica}other{<ph name="FILE_COUNT"/> fajlova je blokirano zbog smernica}}</translation>
+ <translation id="7687186412095877299">Popunjava obrasce za plaćanje informacijama o sačuvanim načinima plaćanja</translation>
+ <translation id="7687305263118037187">Isteklo je vreme ponovnog pokušaja</translation>
+@@ -3690,7 +3690,7 @@ Dodatni detalji:
+ <translation id="7805906048382884326">Zatvori savet</translation>
+ <translation id="7810410097247356677">Da biste sledeći put platili brže, sačuvajte karticu i šifrovani bezbednosni kôd na uređaju</translation>
+ <translation id="7812922009395017822">Mir</translation>
+-<translation id="4670564340385807132">Želite li da uklonite predlog iz Brave-a?</translation>
++<translation id="4670564340385807132">Želite li da uklonite predlog iz Kahf-a?</translation>
+ <translation id="781440967107097262">Dozvolićete deljenje privremene memorije?</translation>
+ <translation id="7814857791038398352">Microsoft OneDrive</translation>
+ <translation id="7815352264092918456">Papir (običan)</translation>
+@@ -3723,9 +3723,9 @@ Dodatni detalji:
+ <translation id="7890748547282909375">Prijavite se na Microsoft OneDrive da biste sačuvali snimak ekrana</translation>
+ <translation id="7894280532028510793">Ako nema grešaka, <ph name="BEGIN_LINK"/>pokrenite dijagnostiku mreže<ph name="END_LINK"/>.</translation>
+ <translation id="7901831439558593470">Koverta 18×23 cm</translation>
+-<translation id="4362225295386962644">Kada koristite lozinku, Brave vas upozorava ako je ona objavljena onlajn. Dok to radi, vaše lozinke i korisnička imena su šifrovani, pa niko ne može da ih pročita, uključujući Brave.</translation>
++<translation id="4362225295386962644">Kada koristite lozinku, Kahf vas upozorava ako je ona objavljena onlajn. Dok to radi, vaše lozinke i korisnička imena su šifrovani, pa niko ne može da ih pročita, uključujući Kahf.</translation>
+ <translation id="7908648876066812348">Virtuelna kartica se uključuje</translation>
+-<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste otišli na stranicu Brave provere bezbednosti u podešavanjima</translation>
++<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste otišli na stranicu Kahf provere bezbednosti u podešavanjima</translation>
+ <translation id="791107458486222637">Rezultat se ponavlja</translation>
+ <translation id="791551905239004656">Crtanje i bojenje</translation>
+ <translation id="7916162853251942238">Flexo baza</translation>
+@@ -3733,7 +3733,7 @@ Dodatni detalji:
+ <translation id="793209273132572360">Želite da ažurirate adresu?</translation>
+ <translation id="7932579305932748336">Omot</translation>
+ <translation id="79338296614623784">Unesite važeći broj telefona</translation>
+-<translation id="8329449853370113380"><ph name="URL"/> želi da pusti zaštićeni sadržaj. Brave će potvrditi identitet uređaja.</translation>
++<translation id="8329449853370113380"><ph name="URL"/> želi da pusti zaštićeni sadržaj. Kahf će potvrditi identitet uređaja.</translation>
+ <translation id="7935318582918952113">DOM Distiller</translation>
+ <translation id="7937163678541954811">CVC ove kartice će biti šifrovan i sačuvan na uređaju radi bržeg plaćanja</translation>
+ <translation id="7937554595067888181">Ističe <ph name="EXPIRATION_DATE_ABBR"/></translation>
+@@ -3799,7 +3799,7 @@ Dodatni detalji:
+ <translation id="8030729864112325446">Stručno osposobljavanje i kontinuirano obrazovanje</translation>
+ <translation id="8032546467100845887">Transparentnost</translation>
+ <translation id="8035152190676905274">Pero</translation>
+-<translation id="3579289742592121339">Nazivi kartica i URL-ovi stranica koje dodate u tabelu šalju se Brave-u</translation>
++<translation id="3579289742592121339">Nazivi kartica i URL-ovi stranica koje dodate u tabelu šalju se Kahf-u</translation>
+ <translation id="8037117624646282037">Ko je nedavno koristio uređaj</translation>
+ <translation id="8037357227543935929">Pitaj (podrazumevano)</translation>
+ <translation id="803771048473350947">Datoteka</translation>
+@@ -4033,14 +4033,14 @@ Dodatni detalji:
+ <translation id="8446884382197647889">Saznajte više</translation>
+ <translation id="8449155699563577224">17×24 in</translation>
+ <translation id="8449836157089738489">Otvori sve u novoj grupi kartica</translation>
+-<translation id="1785963607001474601">Administrator može daljinski da unosi promene u profil i pregledač, da analizira informacije o pregledaču pomoću izveštavanja i obavlja druge neophodne zadatke. Aktivnostima na ovom uređaju može da se upravlja i van Brave-a.  <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
++<translation id="1785963607001474601">Administrator može daljinski da unosi promene u profil i pregledač, da analizira informacije o pregledaču pomoću izveštavanja i obavlja druge neophodne zadatke. Aktivnostima na ovom uređaju može da se upravlja i van Kahf-a.  <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+ <translation id="8457125768502047971">Neograničeno</translation>
+ <translation id="8458202188076138974">Letter Extra</translation>
+-<translation id="834016381901477789">Ako nastavite, prihvatate da se precizna lokacija uređaja prikuplja i deli sa vlasnikom naloga radi sprečavanja prevara. Da biste isključili Pix u Brave-u, idite u <ph name="BEGIN_LINK1"/>podešavanja plaćanja<ph name="END_LINK1"/></translation>
++<translation id="834016381901477789">Ako nastavite, prihvatate da se precizna lokacija uređaja prikuplja i deli sa vlasnikom naloga radi sprečavanja prevara. Da biste isključili Pix u Kahf-u, idite u <ph name="BEGIN_LINK1"/>podešavanja plaćanja<ph name="END_LINK1"/></translation>
+ <translation id="8460854335417802511">Uključi</translation>
+ <translation id="8461694314515752532">Šifrujte sinhronizovane podatke pomoću sopstvene pristupne fraze za sinhronizaciju</translation>
+ <translation id="8466379296835108687">{COUNT,plural, =1{1 kreditna kartica}one{# kreditna kartica}few{# kreditne kartice}other{# kreditnih kartica}}</translation>
+-<translation id="1912557825937556898">Idi na stranicu Brave provera bezbednosti u podešavanjima</translation>
++<translation id="1912557825937556898">Idi na stranicu Kahf provera bezbednosti u podešavanjima</translation>
+ <translation id="8468358362970107653">Koverta C3</translation>
+ <translation id="8469428721212363950">Maloprodaja</translation>
+ <translation id="8472700501934242014">Blokirane teme</translation>
+@@ -4221,7 +4221,7 @@ Dodatni detalji:
+ <translation id="8813277370772331957">Podseti me kasnije</translation>
+ <translation id="8814547618907885931">Prikaži sve tabele za poređenje</translation>
+ <translation id="8814707942599948500">Koverta C8</translation>
+-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste ažurirali Brave iz podešavanja Brave-a</translation>
++<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste ažurirali Kahf iz podešavanja Kahf-a</translation>
+ <translation id="8820817407110198400">Obeleživači</translation>
+ <translation id="882338992931677877">Otvor za ručni unos</translation>
+ <translation id="8830320733681313421">Hagaki razglednica</translation>
+@@ -4262,20 +4262,20 @@ Dodatni detalji:
+ <translation id="8891031436559779793">Dobićete obaveštenje ako se cena snizi na bilo kom sajtu.</translation>
+ <translation id="8891727572606052622">Nevažeći režim proksija.</translation>
+ <translation id="8894794286471754040">Prvo dugačka ivica</translation>
+-<translation id="7850375166078768069">Da biste koristili drugu uslugu automatskog popunjavanja u Brave-u, uključite je u Android podešavanjima i ovde</translation>
+-<translation id="7192431032621242241">Da biste zatražili da vidite ovaj sadržaj, nastavite sa Brave nalogom</translation>
++<translation id="7850375166078768069">Da biste koristili drugu uslugu automatskog popunjavanja u Kahf-u, uključite je u Android podešavanjima i ovde</translation>
++<translation id="7192431032621242241">Da biste zatražili da vidite ovaj sadržaj, nastavite sa Kahf nalogom</translation>
+ <translation id="8897428486789851669">Plivanje</translation>
+ <translation id="8899807382908246773">Oglasi koji ometaju</translation>
+ <translation id="8903921497873541725">Uvećavanje</translation>
+ <translation id="890493561996401738">Dugme Ukloni predlog, pritisnite Enter da biste uklonili, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
+ <translation id="8910898109640902752">8×10 in</translation>
+-<translation id="4805806622840861220">Ponovo pokreni Brave</translation>
++<translation id="4805806622840861220">Ponovo pokreni Kahf</translation>
+ <translation id="8918062451146297192">CVC za virtuelnu karticu</translation>
+ <translation id="8919740778133505789">Sportski automobili</translation>
+ <translation id="8919895429178014996">Sakrij sve stavke</translation>
+ <translation id="8922013791253848639">Uvek dozvoljavaj oglase na ovom sajtu</translation>
+ <translation id="8922734931659847428">Ograničena lista URL-ova stranica koje posećujete na kojima se dešavaju <ph name="BEGIN_LINK"/>događaji sa zastarelom tehnologijom<ph name="END_LINK"/></translation>
+-<translation id="3689838371654876064">Kada Brave obeleži bezbednosne događaje, relevantni podaci o događajima se šalju administratoru. To može da obuhvata URL-ove stranica koje posećujete u Brave-u, URL-ove stranica sa kojih ste kopirali podatke, nazive ili metapodatke fajlova, otkazivanja pregledača ili kartica i korisničko ime koje koristite za prijavljivanje u aplikacije na vebu, na uređaj i u Brave.</translation>
++<translation id="3689838371654876064">Kada Kahf obeleži bezbednosne događaje, relevantni podaci o događajima se šalju administratoru. To može da obuhvata URL-ove stranica koje posećujete u Kahf-u, URL-ove stranica sa kojih ste kopirali podatke, nazive ili metapodatke fajlova, otkazivanja pregledača ili kartica i korisničko ime koje koristite za prijavljivanje u aplikacije na vebu, na uređaj i u Kahf.</translation>
+ <translation id="892588693504540538">Bušenje u gornjem desnom uglu</translation>
+ <translation id="8926389886865778422">Ne pitaj me ponovo</translation>
+ <translation id="8932102934695377596">Sat vam kasni</translation>
+@@ -4339,7 +4339,7 @@ Dodatni detalji:
+ <translation id="9049981332609050619">Pokušali ste da dođete do domena <ph name="DOMAIN"/>, ali server je poslao nevažeći sertifikat.</translation>
+ <translation id="9050666287014529139">Pristupna fraza</translation>
+ <translation id="9051072642122229460">Aparati za kafu i espreso</translation>
+-<translation id="104719866786855422">Pokrećemo novu funkciju za privatnost oglasa, koja se zove merenje oglasa. Brave deli samo vrlo ograničene informacije sa sajtovima, na primer, kada vam je oglas prikazan, da bi pomogao sajtovima da mere učinak oglasa.</translation>
++<translation id="104719866786855422">Pokrećemo novu funkciju za privatnost oglasa, koja se zove merenje oglasa. Kahf deli samo vrlo ograničene informacije sa sajtovima, na primer, kada vam je oglas prikazan, da bi pomogao sajtovima da mere učinak oglasa.</translation>
+ <translation id="9053955920216300738">Koje URL-ove posećujete</translation>
+ <translation id="9054288282721240609">Praćenje ruku je dozvoljeno</translation>
+ <translation id="9056953843249698117">Prodavnica</translation>
+@@ -4363,17 +4363,17 @@ Dodatni detalji:
+ <translation id="9090993752571911635">Internet provajderi</translation>
+ <translation id="9093723786115107672">Odeća za spavanje</translation>
+ <translation id="9094544726794842788">Opcija Ne sviđa mi se otvara obrazac za slanje detaljnih povratnih informacija o tome zašto vam se ne sviđaju ovi rezultati</translation>
+-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite tab, pa Enter da biste podesili Brave kao podrazumevani pregledač sistema u podešavanjima iOS-a</translation>
++<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite tab, pa Enter da biste podesili Kahf kao podrazumevani pregledač sistema u podešavanjima iOS-a</translation>
+ <translation id="9101450247048146228">Korišćenje i kretanje kamere (<ph name="CAMERAS_COUNT"/>)</translation>
+ <translation id="9101630580131696064">1. fioka</translation>
+-<translation id="6373940988468425649"><ph name="SITE"/> obično koristi šifrovanje da bi zaštitio informacije. Kada je Brave ovog puta pokušao da se poveže sa <ph name="SITE"/>, veb-sajt je vratio neobične i netačne akreditive. Ili napadač pokušava da se predstavi kao <ph name="SITE"/> ili je ekran za WiFi prijavljivanje prekinuo vezu. Informacije su i dalje bezbedne zato što je Brave prekinuo vezu pre nego što su razmenjeni bilo kakvi podaci.</translation>
++<translation id="6373940988468425649"><ph name="SITE"/> obično koristi šifrovanje da bi zaštitio informacije. Kada je Kahf ovog puta pokušao da se poveže sa <ph name="SITE"/>, veb-sajt je vratio neobične i netačne akreditive. Ili napadač pokušava da se predstavi kao <ph name="SITE"/> ili je ekran za WiFi prijavljivanje prekinuo vezu. Informacije su i dalje bezbedne zato što je Kahf prekinuo vezu pre nego što su razmenjeni bilo kakvi podaci.</translation>
+ <translation id="9107199998619088551"><ph name="MANAGER"/> upravlja vašim profilom</translation>
+ <translation id="9107467864910557787">Pregledačem upravlja <ph name="MANAGER"/></translation>
+ <translation id="91108059142052966">Smernice za administratore onemogućavaju deljenje sadržaja ekrana sa aplikacijom <ph name="APPLICATION_TITLE"/> kada je vidljiv poverljivi sadržaj</translation>
+ <translation id="9114524666733003316">Kartica se potvrđuje...</translation>
+-<translation id="3582535072753734287">Ovim pregledačem ne upravlja kompanija niti druga organizacija. Aktivnostima na ovom uređaju se možda upravlja van Brave-a. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+-<translation id="7839260860373627374">Više o oglasima u Brave-u</translation>
+-<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste nastavili putanjom i videli relevantne aktivnosti u istoriji Brave-a</translation>
++<translation id="3582535072753734287">Ovim pregledačem ne upravlja kompanija niti druga organizacija. Aktivnostima na ovom uređaju se možda upravlja van Kahf-a. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
++<translation id="7839260860373627374">Više o oglasima u Kahf-u</translation>
++<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste nastavili putanjom i videli relevantne aktivnosti u istoriji Kahf-a</translation>
+ <translation id="9119042192571987207">Otpremljeno</translation>
+ <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> želi da potvrdi vaš identitet</translation>
+ <translation id="912327514020027767">Suknje</translation>
+@@ -4432,33 +4432,33 @@ Dodatni detalji:
+ <translation id="9210825002219699214">Vazdušni saobraćaj</translation>
+ <translation id="9211461151375991073">Unesite @ da biste pretražili <ph name="FEATURED_SEARCH_LIST"/></translation>
+ <translation id="9213433120051936369">Prilagodite izgled</translation>
+-<translation id="2206050430829841793">Aplikacija onemogućava Brave-u da se bezbedno poveže sa ovim sajtom</translation>
++<translation id="2206050430829841793">Aplikacija onemogućava Kahf-u da se bezbedno poveže sa ovim sajtom</translation>
+ <translation id="92178312226016010">Pratite ovaj proizvod.</translation>
+ <translation id="9218430445555521422">Podesi kao podrazumevano</translation>
+ <translation id="9219103736887031265">Slike</translation>
+-<translation id="142389341645668510">Prilagodite Brave</translation>
++<translation id="142389341645668510">Prilagodite Kahf</translation>
+ <translation id="9222403027701923763">Osnovno i srednje obrazovanje (K-12)</translation>
+ <translation id="93020190163435405">Stažiranje</translation>
+ <translation id="933712198907837967">Diners Club</translation>
+ <translation id="934634059306213385">Želite da dozvolite aplikaciji <ph name="APP_NAME"/> da podešava WiFi mreže?</translation>
+-<translation id="7486559383537872796">Mogli biste da izgubite pristup Brave nalogu. Brave preporučuje da odmah promenite lozinku. Moraćete da se prijavite.</translation>
+-<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Koji podaci se koriste:<ph name="END_BOLD"/> Teme oglasa su zasnovane na nedavnoj istoriji pregledanja, listi sajtova koje ste posetili pomoću Brave-a na ovom uređaju.</translation>
++<translation id="7486559383537872796">Mogli biste da izgubite pristup Kahf nalogu. Kahf preporučuje da odmah promenite lozinku. Moraćete da se prijavite.</translation>
++<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Koji podaci se koriste:<ph name="END_BOLD"/> Teme oglasa su zasnovane na nedavnoj istoriji pregledanja, listi sajtova koje ste posetili pomoću Kahf-a na ovom uređaju.</translation>
+ <translation id="937885410143139026">Podaci se šalju u administratorsku konzolu</translation>
+ <translation id="939736085109172342">Novi folder</translation>
+ <translation id="940524522703752213">Otpremanje fajlova u <ph name="CLOUD_PROVIDER"/> počinje za <ph name="MINUTES"/> minuta</translation>
+-<translation id="6588091288231158998">Koristite lozinke i pristupne kodove sačuvane na Brave nalogu</translation>
+-<translation id="5444457503062019851">Brave blokira sajtove da koriste kolačiće treće strane da bi vas pratili dok pregledate.</translation>
++<translation id="6588091288231158998">Koristite lozinke i pristupne kodove sačuvane na Kahf nalogu</translation>
++<translation id="5444457503062019851">Kahf blokira sajtove da koriste kolačiće treće strane da bi vas pratili dok pregledate.</translation>
+ <translation id="945855313015696284">Proverite informacije u nastavku i izbrišite sve nevažeće kartice</translation>
+ <translation id="94613679163347541">Želite da uporedite u kategoriji <ph name="CATEGORY"/>?</translation>
+-<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste brzo napravili nov sajt u Brave sajtovima</translation>
+-<translation id="7776043919629791284">{COUNT,plural, =0{Brave će danas ponovo ograničiti kolačiće}=1{Brave će sutra ponovo ograničiti kolačiće}one{# dan dok Brave ponovo ne ograniči kolačiće}few{# dana dok Brave ponovo ne ograniči kolačiće}other{# dana dok Brave ponovo ne ograniči kolačiće}}</translation>
++<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, pa Enter da biste brzo napravili nov sajt u Kahf sajtovima</translation>
++<translation id="7776043919629791284">{COUNT,plural, =0{Kahf će danas ponovo ograničiti kolačiće}=1{Kahf će sutra ponovo ograničiti kolačiće}one{# dan dok Kahf ponovo ne ograniči kolačiće}few{# dana dok Kahf ponovo ne ograniči kolačiće}other{# dana dok Kahf ponovo ne ograniči kolačiće}}</translation>
+ <translation id="949314938206378263">Zatražili ste da posetite ovaj sajt. Roditelj može da odgovori u Family Link-u.</translation>
+ <translation id="950736567201356821">Trostruko bušenje na vrhu</translation>
+ <translation id="961663415146723894">Povez na dnu</translation>
+ <translation id="961856697154696964">Izbriši podatke pregledanja</translation>
+ <translation id="961930410699694996">Lokacija je dozvoljena ovaj put</translation>
+ <translation id="962484866189421427">Ovaj sadržaj možda pokušava da instalira obmanjujuće aplikacije koje se pretvaraju da su nešto drugo ili da prikupljaju podatke koji mogu da se koriste za praćenje. <ph name="BEGIN_LINK"/>Prikaži<ph name="END_LINK"/></translation>
+-<translation id="776356972507701422">Na osnovu zakona u vašem regionu Brave traži da odaberete podrazumevani pretraživač. Ovi pretraživači su popularni u vašem regionu i prikazuju se nasumičnim redosledom.</translation>
++<translation id="776356972507701422">Na osnovu zakona u vašem regionu Kahf traži da odaberete podrazumevani pretraživač. Ovi pretraživači su popularni u vašem regionu i prikazuju se nasumičnim redosledom.</translation>
+ <translation id="963837307749850257">Svi korisnici</translation>
+ <translation id="964050462028070434">Upravljajte lozinkama i pristupnim kodovima…</translation>
+ <translation id="969892804517981540">Zvanična verzija</translation>

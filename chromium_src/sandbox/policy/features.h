@@ -10,7 +10,7 @@
 
 namespace sandbox::policy::features {
 
-// Enables patching of executable's name from brave.exe to chrome.exe in
+// Enables patching of executable's name from kahf.exe to chrome.exe in
 // sandboxed processes.
 SANDBOX_POLICY_EXPORT BASE_DECLARE_FEATURE(kModuleFileNamePatch);
 

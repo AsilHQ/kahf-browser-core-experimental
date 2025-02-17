@@ -1,0 +1,10 @@
+diff a/browser/about_flags.cc b/browser/about_flags.cc	(rejected hunks)
+@@ -1046,7 +1046,7 @@ namespace {
+           .size());
+ }
+ 
+-// Called to skip feature entries on brave://flags page without affecting
++// Called to skip feature entries on kahf://flags page without affecting
+ // features state.
+ bool BraveShouldSkipConditionalFeatureEntry(
+     const flags_ui::FlagsStorage* storage,

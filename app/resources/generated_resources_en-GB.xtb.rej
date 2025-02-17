@@ -1,0 +1,315 @@
+diff a/app/resources/generated_resources_en-GB.xtb b/app/resources/generated_resources_en-GB.xtb	(rejected hunks)
+@@ -217,10 +217,10 @@ Check your passwords at any time in <ph name="GOOGLE_PASSWORD_MANAGER"/>.</trans
+ <translation id="1150565364351027703">Sunglasses</translation>
+ <translation id="1151917987301063366">Always allow <ph name="HOST"/> to access sensors</translation>
+ <translation id="1152346050262092795">Enter your password again to verify your account.</translation>
+-<translation id="8525226238722561998">Brave Advanced Protection programme</translation>
++<translation id="8525226238722561998">Kahf Advanced Protection programme</translation>
+ <translation id="1155545602507378023">No, this device only</translation>
+ <translation id="1155816283571436363">Connecting to your phone</translation>
+-<translation id="3265387852639842086">Close Brave Search side panel</translation>
++<translation id="3265387852639842086">Close Kahf Search side panel</translation>
+ <translation id="1157985233335035034">Recent languages</translation>
+ <translation id="1158080958325422608">Make Upper Case</translation>
+ <translation id="1159879754517035595">Manage extension settings</translation>
+@@ -2369,13 +2369,13 @@ You can manage this account’s settings by installing the Family Link app on yo
+ <translation id="2668094785979141847">Click to exit Google Lens</translation>
+ <translation id="2669241540496514785">Couldn't open <ph name="APP_NAME"/></translation>
+ <translation id="2669454659051515572">Anyone using this device can see downloaded files</translation>
+-<translation id="351520635355732555"><ph name="APP_NAME"/> is sharing a Brave tab.</translation>
++<translation id="351520635355732555"><ph name="APP_NAME"/> is sharing a Kahf tab.</translation>
+ <translation id="2670350619068134931">Reduced animations</translation>
+ <translation id="2670403088701171361">Don't allow sites to see text or images on your clipboard</translation>
+ <translation id="2671423594960767771">Share group</translation>
+ <translation id="2671451824761031126">Your bookmarks and settings are ready</translation>
+ <translation id="2672142220933875349">Bad crx file, unpacking failed.</translation>
+-<translation id="6789795269657878281">Your tab titles and URLs are sent to Brave and may be seen by human reviewers to improve this feature.</translation>
++<translation id="6789795269657878281">Your tab titles and URLs are sent to Kahf and may be seen by human reviewers to improve this feature.</translation>
+ <translation id="2673135533890720193">Read your browsing history</translation>
+ <translation id="2673848446870717676">Make sure that your Bluetooth device is in pairing mode and nearby. Only pair with devices that you trust. Paired devices are visible to all accounts on this Chromebook.</translation>
+ <translation id="2673873887296220733">Copy 1 file to <ph name="CLOUD_PROVIDER"/> to open?</translation>
+@@ -2446,11 +2446,11 @@ You can manage this account’s settings by installing the Family Link app on yo
+ <translation id="2727712005121231835">Actual Size</translation>
+ <translation id="2727713483500953825">Select images/text to search with Lens</translation>
+ <translation id="2727744317940422214">Sorry, something went wrong. Please file feedback with #bruschetta in the description. Error code is <ph name="ERROR"/>. Cleaning up failed. You may need to do so manually.</translation>
+-<translation id="1880711225003762469">Brave is finding new ways to reduce tracking and keep you even safer as you browse. Brave also <ph name="ESTIMATE_INTERESTS_LINK"/> and enables you to manage them. Then, sites that you visit can ask Brave for your interests to show you ads.</translation>
++<translation id="1880711225003762469">Kahf is finding new ways to reduce tracking and keep you even safer as you browse. Kahf also <ph name="ESTIMATE_INTERESTS_LINK"/> and enables you to manage them. Then, sites that you visit can ask Kahf for your interests to show you ads.</translation>
+ <translation id="2729577602370119849">Easily access and manage printers</translation>
+-<translation id="2729661575355442512"><ph name="BEGIN_PARAGRAPH1"/>When Location Accuracy is on, information about wireless signals, such as Wi-Fi access points and mobile network towers, along with device sensor data, such as accelerometer and gyroscope, is used to estimate more accurate device location, which Android apps and services use to provide location-based features. To do this, Brave periodically collects information about device sensors and wireless signals near this device to contribute to crowdsourced wireless signal locations.<ph name="END_PARAGRAPH1"/>
+-    <ph name="BEGIN_PARAGRAPH2"/>Brave uses this information collected from this device to: improve location accuracy and location-based services; and generally improve, provide and maintain Brave's services. We process this information based on the legitimate interests of Brave and third parties to serve users' needs. This information is not used to identify any individual.<ph name="END_PARAGRAPH2"/>
+-    <ph name="BEGIN_PARAGRAPH3"/>You can turn off Location Accuracy at any time in this device's location settings under Settings &gt; Privacy and security &gt; Privacy controls &gt; Location access &gt; Advanced location settings. If Location Accuracy is off, no Location Accuracy data will be collected. For Android apps and services, only the IP address is used, if available, to determine this device's location, which may impact the availability and accuracy of locations for Android apps and services such as Brave Maps.<ph name="END_PARAGRAPH3"/></translation>
++<translation id="2729661575355442512"><ph name="BEGIN_PARAGRAPH1"/>When Location Accuracy is on, information about wireless signals, such as Wi-Fi access points and mobile network towers, along with device sensor data, such as accelerometer and gyroscope, is used to estimate more accurate device location, which Android apps and services use to provide location-based features. To do this, Kahf periodically collects information about device sensors and wireless signals near this device to contribute to crowdsourced wireless signal locations.<ph name="END_PARAGRAPH1"/>
++    <ph name="BEGIN_PARAGRAPH2"/>Kahf uses this information collected from this device to: improve location accuracy and location-based services; and generally improve, provide and maintain Kahf's services. We process this information based on the legitimate interests of Kahf and third parties to serve users' needs. This information is not used to identify any individual.<ph name="END_PARAGRAPH2"/>
++    <ph name="BEGIN_PARAGRAPH3"/>You can turn off Location Accuracy at any time in this device's location settings under Settings &gt; Privacy and security &gt; Privacy controls &gt; Location access &gt; Advanced location settings. If Location Accuracy is off, no Location Accuracy data will be collected. For Android apps and services, only the IP address is used, if available, to determine this device's location, which may impact the availability and accuracy of locations for Android apps and services such as Kahf Maps.<ph name="END_PARAGRAPH3"/></translation>
+ <translation id="2730029791981212295">Backing up Linux apps and files</translation>
+ <translation id="2730596696987224099">Choose your own</translation>
+ <translation id="2730647855013151888">Include all personal information</translation>
+@@ -3200,7 +3200,7 @@ You can manage this account’s settings by installing the Family Link app on yo
+ <translation id="328571385944182268">Save your passwords?</translation>
+ <translation id="3289668031376215426">Auto-capitalisation</translation>
+ <translation id="3289856944988573801">To check for updates, please use Ethernet or Wi-Fi.</translation>
+-<translation id="5729822798455842061">You can block topics that you don’t want to be shared with sites. Brave also auto-deletes your topics that are older than four weeks.</translation>
++<translation id="5729822798455842061">You can block topics that you don’t want to be shared with sites. Kahf also auto-deletes your topics that are older than four weeks.</translation>
+ <translation id="3290249595466894471">Also sends a small sample of pages, downloads, extension activity and system information to help discover new threats</translation>
+ <translation id="3293181007446299124">Your browsing history is kept private on your device and reports are sent with a delay to protect your identity</translation>
+ <translation id="329324683265785818">Play/pause, keyboard shortcut k</translation>
+@@ -3335,11 +3335,11 @@ You can manage this account’s settings by installing the Family Link app on yo
+ <translation id="3390442085511866400">Save video frame as…</translation>
+ <translation id="3390530051434634135">Note: <ph name="NOTE"/></translation>
+ <translation id="3391721320619127327">The screen reader on ChromeOS Flex, ChromeVox, is primarily used by people with blindness or low vision to read text displayed on the screen with a speech synthesiser or braille display. Press and hold both volume keys for five seconds to turn on ChromeVox. When ChromeVox is activated, you’ll go through a quick tour.</translation>
+-<translation id="404326254653176440">Brave document analysis</translation>
++<translation id="404326254653176440">Kahf document analysis</translation>
+ <translation id="3394072120086516913">PC is wired and casting device is on Wi-Fi</translation>
+ <translation id="3394850431319394743">Allowed to use identifiers to play protected content</translation>
+ <translation id="3396442984945202128">Verify that it’s you</translation>
+-<translation id="3396800784455899911">By clicking the 'Accept and continue' button, you agree to the processing described above for these Brave services.</translation>
++<translation id="3396800784455899911">By clicking the 'Accept and continue' button, you agree to the processing described above for these Kahf services.</translation>
+ <translation id="339722927132407568">Freezes</translation>
+ <translation id="3398899528308712018">Tab group suggestion</translation>
+ <translation id="3399432415385675819">Notifications will be disabled</translation>
+@@ -3646,11 +3646,11 @@ You can manage this account’s settings by installing the Family Link app on yo
+ <translation id="3621202678540785336">Input</translation>
+ <translation id="3621807901162200696">Help improve Chrome OS features and performance</translation>
+ <translation id="362266093274784978">{COUNT,plural, =1{an app}other{# apps}}</translation>
+-<translation id="4859402948164286615">Identify things or places and copy or translate text. When you use Google Lens, a screenshot of the page is sent to Brave. <ph name="LEARN_MORE"/></translation>
++<translation id="4859402948164286615">Identify things or places and copy or translate text. When you use Google Lens, a screenshot of the page is sent to Kahf. <ph name="LEARN_MORE"/></translation>
+ <translation id="3622820753353315928">Flash screen colour</translation>
+ <translation id="362333465072914957">Waiting for the CA to issue a certificate</translation>
+ <translation id="3623598555687153298">This will delete <ph name="TOTAL_USAGE"/> of data stored by displayed sites</translation>
+-<translation id="8069099610234934582">Unlock device and sign in to Brave sync chain</translation>
++<translation id="8069099610234934582">Unlock device and sign in to Kahf sync chain</translation>
+ <translation id="3624583033347146597">Choose your third-party cookie preferences</translation>
+ <translation id="3625345586754200168">Try Lens</translation>
+ <translation id="3625481642044239431">Invalid file selected. Try again.</translation>
+@@ -4901,19 +4901,19 @@ This can include information about installed software, files, your browser and t
+ <translation id="4527929807707405172">Enable reverse scrolling. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
+ <translation id="4528494169189661126">Translation suggestion</translation>
+ <translation id="4528638190900283934">Sign in for additional features</translation>
+-<translation id="2856152593455781015">Brave Live Caption might not work</translation>
++<translation id="2856152593455781015">Kahf Live Caption might not work</translation>
+ <translation id="4531451811601110068">You can try again or contact your administrator for help</translation>
+ <translation id="4531924570968473143">Who would you like to add to this <ph name="DEVICE_TYPE"/>?</translation>
+ <translation id="4532625150642446981">"<ph name="USB_DEVICE_NAME"/>" is in use. Reassigning the device while it's in use could cause errors. Are you sure that you want to continue?</translation>
+ <translation id="4532646538815530781">This site is using motion sensors.</translation>
+-<translation id="4533846798469727141">Now say "Hey Brave"</translation>
++<translation id="4533846798469727141">Now say "Hey Kahf"</translation>
+ <translation id="4533985347672295764">CPU time</translation>
+ <translation id="4534661889221639075">Try again.</translation>
+ <translation id="4535127706710932914">Default Profile</translation>
+ <translation id="4536769240747010177">Tethering capabilities:</translation>
+ <translation id="4538417792467843292">Delete word</translation>
+ <translation id="4538792345715658285">Installed by enterprise policy.</translation>
+-<translation id="6339420797559770249">Can't reach Brave Password Manager. Try again in a few minutes</translation>
++<translation id="6339420797559770249">Can't reach Kahf Password Manager. Try again in a few minutes</translation>
+ <translation id="4541123282641193691">Couldn't verify your account. Please try again or restart your Chromebook.</translation>
+ <translation id="4541505619120536051">Always open</translation>
+ <translation id="4541662893742891060">Unable to connect to this profile. For technical support, please contact your operator.</translation>
+@@ -5967,7 +5967,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
+ <translation id="5321325624576443340">Google Lens is not available. Please try again later.</translation>
+ <translation id="532247166573571973">The server may be unreachable. Try again later.</translation>
+ <translation id="5322961556184463700">Tell us why you're downloading this file anyway survey</translation>
+-<translation id="4201026620212054031">Customise the appearance of Brave and this page</translation>
++<translation id="4201026620212054031">Customise the appearance of Kahf and this page</translation>
+ <translation id="5324300749339591280">Apps list</translation>
+ <translation id="5324780743567488672">Set time zone automatically using your location</translation>
+ <translation id="5327248766486351172">Name</translation>
+@@ -6843,7 +6843,7 @@ Permissions that you've already given to websites and apps may apply to this acc
+ <translation id="5983716913605894570">Generating…</translation>
+ <translation id="5984222099446776634">Recently Visited</translation>
+ <translation id="5985458664595100876">Invalid URL format. Supported formats are \\server\share and smb://server/share.</translation>
+-<translation id="7939939035456567166">Brave app installed by your device administrator.</translation>
++<translation id="7939939035456567166">Kahf app installed by your device administrator.</translation>
+ <translation id="598810097218913399">Remove assignment</translation>
+ <translation id="5990266201903445068">Wi-Fi only</translation>
+ <translation id="5990386583461751448">Translated</translation>
+@@ -6931,25 +6931,25 @@ Permissions that you've already given to websites and apps may apply to this acc
+ <translation id="6056710589053485679">Normal Reload</translation>
+ <translation id="6057312498756061228">This file is too big for a security check. You can open files up to 50 MB.</translation>
+ <translation id="6057381398996433816">This site has been blocked from using motion and light sensors.</translation>
+-<translation id="931766611660157151">Recent Brave tabs</translation>
++<translation id="931766611660157151">Recent Kahf tabs</translation>
+ <translation id="6059652578941944813">Certificate Hierarchy</translation>
+ <translation id="6059925163896151826">USB devices</translation>
+ <translation id="6060842547856900641">Open Lens</translation>
+ <translation id="6061408389284235459">A notification was sent to <ph name="DEVICE_NAME"/></translation>
+ <translation id="6063284707309177505">Create QR code</translation>
+-<translation id="6063847492705284550"><ph name="BEGIN_BOLD"/>Note:<ph name="END_BOLD"/> A similar voice or recording might be able to access <ph name="SUPERVISED_USER_NAME"/>’s personal results. To save battery, you can select in <ph name="SUPERVISED_USER_NAME"/>’s Assistant settings to have ‘Hey Brave’ on only when this device is connected to a power source.</translation>
++<translation id="6063847492705284550"><ph name="BEGIN_BOLD"/>Note:<ph name="END_BOLD"/> A similar voice or recording might be able to access <ph name="SUPERVISED_USER_NAME"/>’s personal results. To save battery, you can select in <ph name="SUPERVISED_USER_NAME"/>’s Assistant settings to have ‘Hey Kahf’ on only when this device is connected to a power source.</translation>
+ <translation id="6064217302520318294">Screen lock</translation>
+ <translation id="606449270532897041">Manage site data</translation>
+ <translation id="6064764629679333574">Improve the quality of Bluetooth mic sound by upscaling low-res audio to high-res.</translation>
+ <translation id="6065289257230303064">Certificate Subject Directory Attributes</translation>
+ <translation id="6066794465984119824">Image hash is not set</translation>
+ <translation id="6069027071882229820">Copy as image</translation>
+-<translation id="6069464830445383022">Your Brave sync chain is your Chromebook sign-in</translation>
++<translation id="6069464830445383022">Your Kahf sync chain is your Chromebook sign-in</translation>
+ <translation id="6069500411969514374">Work</translation>
+ <translation id="6071181508177083058">confirm password</translation>
+ <translation id="6071576563962215370">The system failed to establish the device installation-time attributes lock.</translation>
+ <translation id="6071938745001252305"><ph name="MEMORY_VALUE"/> of memory saved</translation>
+-<translation id="4701065218405772222">To check for compromised passwords, sign in to your Brave sync chain</translation>
++<translation id="4701065218405772222">To check for compromised passwords, sign in to your Kahf sync chain</translation>
+ <translation id="6072442788591997866"><ph name="APP_NAME"/> isn't allowed on this device. Contact your administrator. Error code: <ph name="ERROR_CODE"/>.</translation>
+ <translation id="6073292342939316679">keyboard brightness down</translation>
+ <translation id="6073451960410192870">Stop recording</translation>
+@@ -7738,22 +7738,22 @@ You have # more compromised passwords. Kahf Password Manager recommends checking
+ <translation id="6666559645296300656">Canceling Linux upgrade</translation>
+ <translation id="6667086124612170548">File is too big for this device</translation>
+ <translation id="6667092961374478614"><ph name="FEATURE_NAME"/> discoverability</translation>
+-<translation id="4653111393922644171">For now, you can only share passwords with family members. <ph name="BEGIN_LINK"/>Create a family group<ph name="END_LINK"/> with up to six members and get more from your products and subscriptions across Brave.</translation>
++<translation id="4653111393922644171">For now, you can only share passwords with family members. <ph name="BEGIN_LINK"/>Create a family group<ph name="END_LINK"/> with up to six members and get more from your products and subscriptions across Kahf.</translation>
+ <translation id="666731172850799929">Open in <ph name="APP_NAME"/></translation>
+ <translation id="6669195257625975787">Data is treated the same as the site that you’re viewing</translation>
+ <translation id="6670142487971298264"><ph name="APP_NAME"/> is now available</translation>
+-<translation id="7256334756499709483">Some extensions can add search engines to Brave</translation>
++<translation id="7256334756499709483">Some extensions can add search engines to Kahf</translation>
+ <translation id="6670983860904543332">Automatic updates provide you with the latest features. Explore highlights from recent updates.</translation>
+ <translation id="6671320560732140690">{COUNT,plural, =1{an address}other{# addresses}}</translation>
+ <translation id="6671497123040790595">Setting up management by <ph name="MANAGER"/></translation>
+ <translation id="6672917148207387131">Add <ph name="DOMAIN"/></translation>
+ <translation id="6673391612973410118"><ph name="PRINTER_MAKE_OR_MODEL"/> (USB)</translation>
+-<translation id="4273218974225755737">Extends battery life by reducing brightness, limiting background activity and visual effects, delaying notifications, and turning on Brave Energy Saver.</translation>
++<translation id="4273218974225755737">Extends battery life by reducing brightness, limiting background activity and visual effects, delaying notifications, and turning on Kahf Energy Saver.</translation>
+ <translation id="6673898378497337661">keyboard brightness up</translation>
+ <translation id="6674571176963658787">To start sync, enter your passphrase</translation>
+ <translation id="6675665718701918026">Pointing device connected</translation>
+ <translation id="6676212663108450937">Please consider using headphones while training your voice</translation>
+-<translation id="7995449485376471452">Your tabs, page titles and URLs are sent to Brave</translation>
++<translation id="7995449485376471452">Your tabs, page titles and URLs are sent to Kahf</translation>
+ <translation id="667752334740867460">Receiving Wi-Fi info…</translation>
+ <translation id="6678604587151240716">Large waves splashing in the sea, with land in the distant background. Hints of orange light are just beyond the horizon, in an otherwise dark moody sky.</translation>
+ <translation id="6678717876183468697">Query URL</translation>
+@@ -8194,13 +8194,13 @@ You have # more compromised passwords. Kahf Password Manager recommends checking
+ <translation id="6985607387932385770">Printers</translation>
+ <translation id="6988094684494323731">Starting the Linux container</translation>
+ <translation id="6988403677482707277">Tab moved to start of tabstrip</translation>
+-<translation id="344476885517054254">Manage your Brave sync chain</translation>
++<translation id="344476885517054254">Manage your Kahf sync chain</translation>
+ <translation id="6989274756151920076">Stay here</translation>
+ <translation id="6991665348624301627">Select a destination</translation>
+ <translation id="6991926986715044139">Always show Google Lens shortcut</translation>
+ <translation id="6992554835374084304">Turn on enhanced spell check</translation>
+ <translation id="6993000214273684335">Tab removed from unnamed group – <ph name="GROUP_CONTENTS"/></translation>
+-<translation id="6993050154661569036">Updating Brave Browser</translation>
++<translation id="6993050154661569036">Updating Kahf Browser</translation>
+ <translation id="6995984090981858039">Read ChromeOS device information and data</translation>
+ <translation id="6996245928508281884">Turn on your phone’s Bluetooth and Wi-Fi</translation>
+ <translation id="6996438701394974959">Increase display and text size</translation>
+@@ -9066,7 +9066,7 @@ You have # more compromised passwords. Kahf Password Manager recommends checking
+ <translation id="7646499124171960488">Warns you for insecure public sites</translation>
+ <translation id="7646772052135772216">Password sync isn't working</translation>
+ <translation id="7647403192093989392">No recent activities</translation>
+-<translation id="3350442560878669560">Brave is verifying the installation bundle</translation>
++<translation id="3350442560878669560">Kahf is verifying the installation bundle</translation>
+ <translation id="7649070708921625228">Help</translation>
+ <translation id="7650178491875594325">Restore local data</translation>
+ <translation id="7650582458329409456">{COUNT,plural, =1{1 fingerprint set up}other{{COUNT} fingerprints set up}}</translation>
+@@ -9598,7 +9598,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
+ <translation id="8012188750847319132">caps lock</translation>
+ <translation id="8012463809859447963">Instant hotspot details</translation>
+ <translation id="8013534738634318212">These sites are in a group defined by <ph name="RWS_OWNER"/>. Sites in a group can see your activity in the group.</translation>
+-<translation id="5499063270485366718">If an image doesn’t have a useful description, Brave will try to provide one for you. To create descriptions, images are sent to Brave.</translation>
++<translation id="5499063270485366718">If an image doesn’t have a useful description, Kahf will try to provide one for you. To create descriptions, images are sent to Kahf.</translation>
+ <translation id="8014154204619229810">The updater is currently running. Refresh in a minute to check again.</translation>
+ <translation id="8014206674403687691"><ph name="IDS_SHORT_PRODUCT_NAME"/> is unable to revert to the previously installed version. Please try again to Powerwash your device.</translation>
+ <translation id="8015565302826764056">{NUM_OF_FILES,plural, =1{Copied 1 file}other{Copied {NUM_OF_FILES} files}}</translation>
+@@ -10076,7 +10076,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
+ <translation id="8356409598322585307">You already registered this device. You don't have to register it again.</translation>
+ <translation id="8357388086258943206">Error installing Linux</translation>
+ <translation id="8358685469073206162">Restore pages?</translation>
+-<translation id="2921493528667739769">Save in your Brave sync chain</translation>
++<translation id="2921493528667739769">Save in your Kahf sync chain</translation>
+ <translation id="8360140320636871023">Personalise your display theme</translation>
+ <translation id="8360267485906769442">Send feedback button</translation>
+ <translation id="8362914115861174987">Translate to</translation>
+@@ -10670,22 +10670,22 @@ Keep your key file in a safe place. You will need it to create new versions of y
+ <translation id="8784626084144195648">Binned Average</translation>
+ <translation id="8785622406424941542">Stylus</translation>
+ <translation id="8786824282808281903">When your child sees this icon, a fingerprint can be used for identification or to approve purchases.</translation>
+-<translation id="1427237635463348414">Help us improve Brave by telling us why you allowed third-party cookies</translation>
++<translation id="1427237635463348414">Help us improve Kahf by telling us why you allowed third-party cookies</translation>
+ <translation id="8788008845761123079">Select a gesture for <ph name="SELECTED_ACTION"/></translation>
+ <translation id="8791157330927639737">Learn more about updating</translation>
+ <translation id="8791534160414513928">Send a ‘Do Not Track’ request with your browsing traffic</translation>
+ <translation id="8793390639824829328">Sites use this feature to scroll and zoom shared tabs</translation>
+ <translation id="879413103056696865">While the hotspot is on, your <ph name="PHONE_NAME"/> will:</translation>
+ <translation id="8795916974678578410">New Window</translation>
+-<translation id="6596295505984504022">C&amp;ustomize your Brave</translation>
++<translation id="6596295505984504022">C&amp;ustomize your Kahf</translation>
+ <translation id="8797459392481275117">Never translate this site</translation>
+ <translation id="8798099450830957504">Default</translation>
+ <translation id="8800034312320686233">Site not working?</translation>
+ <translation id="8803526663383843427">When on</translation>
+ <translation id="8803953437405899238">Open a new tab with one click</translation>
+-<translation id="8803972455568900492"><ph name="BEGIN_PARAGRAPH1"/>When Location Accuracy is on, information about wireless signals, such as Wi-Fi access points and mobile network towers, along with device sensor data, such as accelerometer and gyroscope, is used to estimate more accurate device location, which Android apps and services use to provide location-based features. To do this, Brave periodically collects information about device sensors and wireless signals near you to contribute to crowdsourced wireless signal locations.<ph name="END_PARAGRAPH1"/>
+-    <ph name="BEGIN_PARAGRAPH2"/>Brave uses this information without identifying you to: improve location accuracy and location-based services; and generally improve, provide and maintain Brave's services. We process this information based on the legitimate interests of Brave and third parties to serve users' needs.<ph name="END_PARAGRAPH2"/>
+-    <ph name="BEGIN_PARAGRAPH3"/>You can turn off Location Accuracy at any time in your device's location settings under Settings &gt; Privacy and security &gt; Privacy controls &gt; Location access &gt; Advanced location settings. If Location Accuracy is off, no Location Accuracy data will be collected. For Android apps and services, only the IP address is used, if available, to determine your device's location, which may impact the availability and accuracy of locations for Android apps and services, such as Brave Maps.<ph name="END_PARAGRAPH3"/></translation>
++<translation id="8803972455568900492"><ph name="BEGIN_PARAGRAPH1"/>When Location Accuracy is on, information about wireless signals, such as Wi-Fi access points and mobile network towers, along with device sensor data, such as accelerometer and gyroscope, is used to estimate more accurate device location, which Android apps and services use to provide location-based features. To do this, Kahf periodically collects information about device sensors and wireless signals near you to contribute to crowdsourced wireless signal locations.<ph name="END_PARAGRAPH1"/>
++    <ph name="BEGIN_PARAGRAPH2"/>Kahf uses this information without identifying you to: improve location accuracy and location-based services; and generally improve, provide and maintain Kahf's services. We process this information based on the legitimate interests of Kahf and third parties to serve users' needs.<ph name="END_PARAGRAPH2"/>
++    <ph name="BEGIN_PARAGRAPH3"/>You can turn off Location Accuracy at any time in your device's location settings under Settings &gt; Privacy and security &gt; Privacy controls &gt; Location access &gt; Advanced location settings. If Location Accuracy is off, no Location Accuracy data will be collected. For Android apps and services, only the IP address is used, if available, to determine your device's location, which may impact the availability and accuracy of locations for Android apps and services, such as Kahf Maps.<ph name="END_PARAGRAPH3"/></translation>
+ <translation id="8804419452060773146">Opens in</translation>
+ <translation id="8804999695258552249">{NUM_TABS,plural, =1{Move Tab to Another Window}other{Move Tabs to Another Window}}</translation>
+ <translation id="8805140816472474147">Confirm sync settings to start sync.</translation>
+@@ -10796,12 +10796,12 @@ Keep your key file in a safe place. You will need it to create new versions of y
+ <translation id="8877448029301136595">[parent directory]</translation>
+ <translation id="8879284080359814990">&amp;Show As Tab</translation>
+ <translation id="8879921471468674457">Remember sign-in info</translation>
+-<translation id="1470846537074844955">Search this page with Brave...</translation>
++<translation id="1470846537074844955">Search this page with Kahf...</translation>
+ <translation id="8880054210564666174">Unable to download contact list. Please check your network connection, or <ph name="LINK_BEGIN"/>try again<ph name="LINK_END"/>.</translation>
+ <translation id="8881020143150461183">Please try again. For technical support, contact <ph name="CARRIER_NAME"/>.</translation>
+ <translation id="888256071122006425">Mouse and touchpad settings</translation>
+ <translation id="8883273463630735858">Enable touchpad acceleration</translation>
+-<translation id="8883478023074930307">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Brave. This will help system and app stability and other improvements. Some aggregate data will also help Brave apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Brave sync chain. <ph name="BEGIN_LINK2"/>Learn more about metrics<ph name="BEGIN_LINK2_END"/>Learn more<ph name="END_LINK2"/></translation>
++<translation id="8883478023074930307">Send usage and diagnostic data. This device is currently automatically sending diagnostic, device and app usage data to Kahf. This will help system and app stability and other improvements. Some aggregate data will also help Kahf apps and partners, such as Android developers. This <ph name="BEGIN_LINK1"/>setting<ph name="END_LINK1"/> is enforced by the owner. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Kahf sync chain. <ph name="BEGIN_LINK2"/>Learn more about metrics<ph name="BEGIN_LINK2_END"/>Learn more<ph name="END_LINK2"/></translation>
+ <translation id="8883722590720107848">I trust the site (<ph name="SITE_URL"/>), radio button group, 2 of 3</translation>
+ <translation id="8884023684057697730"><ph name="BEGIN_BOLD"/>How you can manage your data:<ph name="END_BOLD"/> To protect your privacy, we auto-delete sites from the list that are older than four weeks. A site that you visit again might appear on the list again. Or you can remove a site if you don’t want that site to ever define interests for you.</translation>
+ <translation id="8884570509232205463">Your device now locks at <ph name="UNLOCK_TIME"/>.</translation>
+@@ -10874,16 +10874,16 @@ Keep your key file in a safe place. You will need it to create new versions of y
+ <translation id="894360074127026135">Netscape International Step-Up</translation>
+ <translation id="8944099748578356325">Use the battery more quickly (currently <ph name="BATTERY_PERCENTAGE"/>%)</translation>
+ <translation id="8944485226638699751">Limited</translation>
+-<translation id="5661553981978315025">Create a six-digit recovery PIN for Brave Password Manager</translation>
++<translation id="5661553981978315025">Create a six-digit recovery PIN for Kahf Password Manager</translation>
+ <translation id="8944725102565796255">If you'd just like to use this account once, you can <ph name="GUEST_LINK_BEGIN"/>use the device as guest<ph name="GUEST_LINK_END"/>. If you'd like to add an account for someone else, <ph name="LINK_BEGIN"/>add a new person<ph name="LINK_END"/> to your <ph name="DEVICE_TYPE"/>.
+ 
+-Permissions that you've already given to websites and apps may apply to this account. You can manage your Brave sync chains in <ph name="SETTINGS_LINK_BEGIN"/>settings<ph name="SETTINGS_LINK_END"/>.</translation>
++Permissions that you've already given to websites and apps may apply to this account. You can manage your Kahf sync chains in <ph name="SETTINGS_LINK_BEGIN"/>settings<ph name="SETTINGS_LINK_END"/>.</translation>
+ <translation id="8945274638472141382">Icon size</translation>
+ <translation id="8945508919180478719">Studio-style mic</translation>
+ <translation id="8946359700442089734">Debugging features were not completely enabled on this <ph name="IDS_SHORT_PRODUCT_NAME"/> device.</translation>
+ <translation id="8946954897220903437">Collapse all requests in the address bar</translation>
+ <translation id="894763922177556086">Good</translation>
+-<translation id="875637110216978122">Manage Brave browser sync</translation>
++<translation id="875637110216978122">Manage Kahf browser sync</translation>
+ <translation id="895054485242522631">Sites can use motion sensors</translation>
+ <translation id="8951256747718668828">Restoring couldn't be completed due to an error</translation>
+ <translation id="8951465597020890363">Exit guest mode anyway?</translation>
+@@ -11452,23 +11452,23 @@ Permissions that you've already given to websites and apps may apply to this acc
+ <translation id="3707212204259470604">Manage other profiles</translation>
+ <translation id="7253003527666031200">Find more accessibility tools in the web store</translation>
+ <translation id="154633726381112301">You can limit sign-in to certain users. This removes the "Add profile" option on the sign-in screen. You can also remove current users.</translation>
+-<translation id="8273477935094091719">Your <ph name="DEVICE_TYPE"/> uses a built-in sensor to detect profiles in front of your device. All data is processed on your device immediately and then deleted. Sensor data is never sent to Brave. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
++<translation id="8273477935094091719">Your <ph name="DEVICE_TYPE"/> uses a built-in sensor to detect profiles in front of your device. All data is processed on your device immediately and then deleted. Sensor data is never sent to Kahf. <ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/></translation>
+ <translation id="3096545662097412065">Make it harder for profiles with access to your Internet traffic to see which sites you visit. <ph name="PRODUCT_NAME"/> uses a secure connection to look up a site's IP address in the DNS (Domain Name System).</translation>
+ <translation id="5832813618714645810">Profiles</translation>
+ <translation id="3216703137209942563">{COUNT, plural,
+       =1 {Your Private window won't open after you relaunch}
+       other {Your {COUNT} Private windows won't reopen after you relaunch}}</translation>
+-<translation id="5840822070878669614">Open Brave Web Store</translation>
++<translation id="5840822070878669614">Open Kahf Web Store</translation>
+ <translation id="383007806262310953">Show bookmarks bar</translation>
+ <translation id="1375809909601272984">Show tab groups in bookmarks</translation>
+ <translation id="1313972218645777584">Automatically pin new tab groups created on any device to the bookmarks</translation>
+ <translation id="8419047244705220515">Sites you visit can verify that you're a real profile and not a bot</translation>
+-<translation id="8603229095987793389">As you keep browsing, sites can check with Brave and verify with a previous site you've visited that you're likely to be a real profile</translation>
++<translation id="8603229095987793389">As you keep browsing, sites can check with Kahf and verify with a previous site you've visited that you're likely to be a real profile</translation>
+ <translation id="1261003378239130478">Browsing is faster because a site is less likely to ask you to verify you're a real profile</translation>
+ <translation id="8648684608605749476">Block third-party cookies in Private</translation>
+ <translation id="3293179957233653243">Features on some sites may not work in Private</translation>
+ <translation id="6304377454418270508">When you’re in Private mode, sites can only use cookies to see your browsing activity on their own site. Cookies are deleted at the end of the Private session.</translation>
+-<translation id="8057643629386457234">Provides Brave’s strongest account security for profiles at risk of targeted attacks</translation>
++<translation id="8057643629386457234">Provides Kahf’s strongest account security for profiles at risk of targeted attacks</translation>
+ <translation id="3497049935870467874">See warnings before going to insecure sites in Private mode</translation>
+ <translation id="6105125042109106861">Third-party cookies are blocked in Private mode</translation>
+ <translation id="6642913673024345959">Block third-party cookies in Private mode</translation>

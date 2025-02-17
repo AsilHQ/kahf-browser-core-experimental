@@ -1,4 +1,4 @@
-# Brave Rewards User Payment Token Redemption User Data
+# Kahf Rewards User Payment Token Redemption User Data
 
 See [user data](../../../user_data/README.md#user-data-submitted-when-redeeming-identifiable-payment-tokens).
 

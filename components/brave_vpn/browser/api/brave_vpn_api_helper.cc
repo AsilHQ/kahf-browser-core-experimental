@@ -104,7 +104,7 @@ base::Value::Dict GetValueWithTicketInfos(
   dict.Set(kSupportTicketEmailKey, email_trimmed);
   dict.Set(kSupportTicketSubjectKey, subject_trimmed);
   dict.Set(kSupportTicketSupportTicketKey, base::Base64Encode(body_trimmed));
-  dict.Set(kSupportTicketPartnerClientIdKey, "com.brave.browser");
+  dict.Set(kSupportTicketPartnerClientIdKey, "co.asil.browser");
   dict.Set(kSupportTicketTimezoneKey, timezone);
 
   return dict;

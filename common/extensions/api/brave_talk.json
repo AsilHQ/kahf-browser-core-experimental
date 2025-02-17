@@ -5,7 +5,7 @@
 [
   {
     "namespace": "braveTalk",
-    "description": "Use the <code>chrome.braveTalk</code> API to to receive info pertaining to the Brave Talk feature.",
+    "description": "Use the <code>chrome.braveTalk</code> API to to receive info pertaining to the Kahf Talk feature.",
     "compiler_options": {
       "implemented_in": "brave/browser/extensions/api/brave_talk_api.h"
     },
@@ -15,7 +15,7 @@
       {
         "name": "isSupported",
         "type": "function",
-        "description": "Fetches whether or not Brave Talk is supported",
+        "description": "Fetches whether or not Kahf Talk is supported",
         "parameters": [],
         "returns_async": {
           "name": "callback",

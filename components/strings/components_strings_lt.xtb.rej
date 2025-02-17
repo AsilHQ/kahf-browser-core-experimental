@@ -1,0 +1,992 @@
+diff a/components/strings/components_strings_lt.xtb b/components/strings/components_strings_lt.xtb	(rejected hunks)
+@@ -28,7 +28,7 @@
+ <translation id="1053959602163383901">Svetainėse, kuriose naudojama <ph name="PROVIDER_ORIGIN"/>, pasirinkote patvirtinti naudodami autentifikavimo priemonės įrenginį. Šis teikėjas galėjo išsaugoti informaciją apie jūsų mokėjimo metodą, ir galite <ph name="LINK_TEXT"/>.</translation>
+ <translation id="1055184225775184556">&amp;Anuliuoti pridėjimą</translation>
+ <translation id="1056898198331236512">Įspėjimas</translation>
+-<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite žaisti žaidimą „Dino Run“ naršyklėje „Brave“.</translation>
++<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite žaisti žaidimą „Dino Run“ naršyklėje „Kahf“.</translation>
+ <translation id="1058479211578257048">Išsaugomos kortelės...</translation>
+ <translation id="1060136083665017312">Žaidimų sistemos ir pultai</translation>
+ <translation id="1060320201901229167">„Kaku 5“ vokas</translation>
+@@ -49,7 +49,7 @@
+ <translation id="1082026381988252344">Bendrinamo skirtuko turinio slinkimas ir mastelio keitimas</translation>
+ <translation id="1088664500620117635">Įprasta „<ph name="PRODUCT_NAME"/>“ kaina – <ph name="LOW_PRICE"/>–<ph name="HIGH_PRICE"/>, bet dabartinė kaina žiniatinklyje – <ph name="CURRENT_PRICE"/>.</translation>
+ <translation id="1089439967362294234">Slaptažodžio keitimas</translation>
+-<translation id="807719392864780545">Bet kada galite persigalvoti ir tai pakeisti „Brave“ nustatymuose.</translation>
++<translation id="807719392864780545">Bet kada galite persigalvoti ir tai pakeisti „Kahf“ nustatymuose.</translation>
+ <translation id="1090629319939036170">VR meniu</translation>
+ <translation id="1091463901118115503">Skaityti toliau</translation>
+ <translation id="1091779689406092804">ekrano kopijas</translation>
+@@ -57,10 +57,10 @@
+ <translation id="1096545575934602868">Šiame lauke negali būti daugiau nei <ph name="MAX_ITEMS_LIMIT"/> įraš. Visi šį apribojimą viršijantys įrašai bus atmesti.</translation>
+ <translation id="1097803577928227769">Regioniniai parkai ir sodai</translation>
+ <translation id="1099928364755383720">automatinis vaizdas vaizde</translation>
+-<translation id="7584468665743195331">Mygtukas „Tęsti veiksmus“; paspauskite „Enter“, kad tęstumėte veiksmus ir galėtumėte matyti atitinkamą veiklą „Brave“ istorijoje.</translation>
++<translation id="7584468665743195331">Mygtukas „Tęsti veiksmus“; paspauskite „Enter“, kad tęstumėte veiksmus ir galėtumėte matyti atitinkamą veiklą „Kahf“ istorijoje.</translation>
+ <translation id="1101672080107056897">Klaidos veiksmas</translation>
+ <translation id="1104409666019087579">Kai kurie būtini laukai tušti. Užpildykite juos prieš išsaugodami.</translation>
+-<translation id="8424280348953443220">Mygtukas „Tvarkyti slaptažodžius“; suaktyvinkite, jei norite peržiūrėti ir tvarkyti slaptažodžius „Brave“ nustatymuose</translation>
++<translation id="8424280348953443220">Mygtukas „Tvarkyti slaptažodžius“; suaktyvinkite, jei norite peržiūrėti ir tvarkyti slaptažodžius „Kahf“ nustatymuose</translation>
+ <translation id="1108464073729874771">A3x4</translation>
+ <translation id="1110994991967754504"><ph name="PERMISSION_NAME"/>: pasirinkite leidimą</translation>
+ <translation id="1113000785583998331">Išsaugoti IBAN?</translation>
+@@ -149,22 +149,22 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+     &lt;/ol&gt;</translation>
+ <translation id="1257286744552378071">Įvedėte slaptažodį svetainėje, kurios netvarko jūsų organizacija. Kad apsaugotumėte paskyrą, nenaudokite to paties slaptažodžio kitose programose ir svetainėse.</translation>
+ <translation id="1257553931232494454">mastelio keitimo lygiai</translation>
+-<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti „Brave“ nustatymus.</translation>
++<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti „Kahf“ nustatymus.</translation>
+ <translation id="1264309058268477500">Alternatyvus</translation>
+ <translation id="1264974993859112054">Sportas</translation>
+ <translation id="1268480293435976622">Nr. 7 kinietiškas vokas</translation>
+-<translation id="53564677632020212">Greitai sukurkite naują svetainę „Brave“ svetainėse</translation>
++<translation id="53564677632020212">Greitai sukurkite naują svetainę „Kahf“ svetainėse</translation>
+ <translation id="1270328905573953738">Persikraustymas</translation>
+ <translation id="1270502636509132238">Paėmimo metodas</translation>
+ <translation id="1273592791152866347">Kainų stebėjimas išjungtas</translation>
+ <translation id="127777513559587977">TV pokalbių laidos</translation>
+ <translation id="1281476433249504884">1 dėtuvė</translation>
+-<translation id="3587420677315820032">Jei norite kitą kartą automatiškai užpildyti šį IBAN, išsaugokite jį „Brave“ paskyroje</translation>
++<translation id="3587420677315820032">Jei norite kitą kartą automatiškai užpildyti šį IBAN, išsaugokite jį „Kahf“ paskyroje</translation>
+ <translation id="1282358575813748144">Valtys ir laivai</translation>
+ <translation id="1283977499362032052">Gyvenimo aprašymai ir portfeliai</translation>
+ <translation id="1285320974508926690">Niekada neversti šios svetainės</translation>
+ <translation id="1292571435393770077">Šešioliktas dėklas</translation>
+-<translation id="1209478311331937175">„Programinė įranga jūsų kompiuteryje neleidžia „Brave“ saugiai prisijungti prie žiniatinklio“ (tik „Windows“ kompiuteriuose)</translation>
++<translation id="1209478311331937175">„Programinė įranga jūsų kompiuteryje neleidžia „Kahf“ saugiai prisijungti prie žiniatinklio“ (tik „Windows“ kompiuteriuose)</translation>
+ <translation id="1293797321964802402">9 x 11 col. vokas</translation>
+ <translation id="1294154142200295408">Komandos eilutės kintamieji</translation>
+ <translation id="129553762522093515">Neseniai uždarytas</translation>
+@@ -189,7 +189,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="132390688737681464">Išsaugoti ir užpildyti adresus</translation>
+ <translation id="1329916999021038454">Siųsti pranešimą</translation>
+ <translation id="1330449323196174374">Atvartas kairėje</translation>
+-<translation id="4274264486214599895">„Brave“ dinozauro žaidimas</translation>
++<translation id="4274264486214599895">„Kahf“ dinozauro žaidimas</translation>
+ <translation id="1333989956347591814">Veiklą <ph name="BEGIN_EMPHASIS"/>vis tiek gali peržiūrėti<ph name="END_EMPHASIS"/>:
+         <ph name="BEGIN_LIST"/>
+           <ph name="LIST_ITEM"/>lankomos svetainės;
+@@ -231,11 +231,11 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="14070772729708640">Failai sėkmingai įkelti į „<ph name="FOLDER_NAME"/>“ sistemoje „<ph name="CLOUD_PROVIDER"/>“</translation>
+ <translation id="1407135791313364759">Atidaryti viską</translation>
+ <translation id="1408787208417187241">Trys sankabėlės viršuje</translation>
+-<translation id="5488251800208457874">Kiti šį įrenginį naudojantys žmonės nematys jūsų veiklos, todėl galėsite naršyti daugiau privačiai. Tai nepakeis, kaip lankomos svetainės ir naudojamos paslaugos, įskaitant „Brave“, renka duomenis. Atsisiuntimai, žymės ir skaitymo sąrašo elementai bus išsaugoti.</translation>
++<translation id="5488251800208457874">Kiti šį įrenginį naudojantys žmonės nematys jūsų veiklos, todėl galėsite naršyti daugiau privačiai. Tai nepakeis, kaip lankomos svetainės ir naudojamos paslaugos, įskaitant „Kahf“, renka duomenis. Atsisiuntimai, žymės ir skaitymo sąrašo elementai bus išsaugoti.</translation>
+ <translation id="1410941016594047814">Kvietimo vokas</translation>
+ <translation id="1413809658975081374">Privatumo klaida</translation>
+ <translation id="1414134146594747368">Parengiamoji mokykla</translation>
+-<translation id="5305237486453576422">Mygtukas „Tvarkyti atsisiuntimus naršyklėje „Brave“; suaktyvinkite, kad galėtumėte tvarkyti failus, kuriuos atsisiuntėte naršyklėje „Brave“</translation>
++<translation id="5305237486453576422">Mygtukas „Tvarkyti atsisiuntimus naršyklėje „Kahf“; suaktyvinkite, kad galėtumėte tvarkyti failus, kuriuos atsisiuntėte naršyklėje „Kahf“</translation>
+ <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/>, kad leistumėte susieti</translation>
+ <translation id="14222610277930434">Dažnai lankotės</translation>
+ <translation id="1422930527989633628">Gali būti prašoma atrasti netoliese esančius „Bluetooth“ įrenginius</translation>
+@@ -265,7 +265,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="1462245070427461050">JIS B9</translation>
+ <translation id="1462951478840426066">Naudokite kompiuterio šriftus, kad galėtumėte kurti didelio tikslumo turinį</translation>
+ <translation id="1463793142714244641">Nuosavybė, padalyta pagal naudojimosi laiką, ir atostogų ypatybės</translation>
+-<translation id="4855177403643365941">IBAN išsaugotas „Brave“ paskyroje</translation>
++<translation id="4855177403643365941">IBAN išsaugotas „Kahf“ paskyroje</translation>
+ <translation id="1467432559032391204">Kairė</translation>
+ <translation id="1468653229182955856"><ph name="ONE_TIME_CODE"/> yra jūsų kodas, skirtas <ph name="EMBEDDED_ORIGIN"/>, norint tęsti veiklą adresu <ph name="TOP_ORIGIN"/></translation>
+ <translation id="1472675084647422956">Rodyti daugiau</translation>
+@@ -362,20 +362,20 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="1640180200866533862">Naudotojo politika</translation>
+ <translation id="1640244768702815859">Pabandykite <ph name="BEGIN_LINK"/>apsilankyti pagrindiniame svetainės puslapyje<ph name="END_LINK"/>.</translation>
+ <translation id="1641976391427233992">Atidėti išvestį iki</translation>
+-<translation id="8088023492467080559">Mygtukas „Eiti į „Brave“ saugos patikrą“; suaktyvinkite, kad pereitumėte į „Brave“ saugos patikros puslapį nustatymuose</translation>
++<translation id="8088023492467080559">Mygtukas „Eiti į „Kahf“ saugos patikrą“; suaktyvinkite, kad pereitumėte į „Kahf“ saugos patikros puslapį nustatymuose</translation>
+ <translation id="1644574205037202324">Istorija</translation>
+ <translation id="1645004815457365098">Nežinomas šaltinis</translation>
+ <translation id="1645368109819982629">Nepalaikomas protokolas</translation>
+-<translation id="1995056549836388472">Tvarkykite „Brave“ nustatymus</translation>
++<translation id="1995056549836388472">Tvarkykite „Kahf“ nustatymus</translation>
+ <translation id="1652415888492971589">JIS B8</translation>
+-<translation id="3549478477646243075">Jei norite naudoti Slaptažodžių tvarkyklę su „macOS Keychain“, iš naujo paleiskite „Brave“ ir leiskite „Keychain“ prieigą. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
++<translation id="3549478477646243075">Jei norite naudoti Slaptažodžių tvarkyklę su „macOS Keychain“, iš naujo paleiskite „Kahf“ ir leiskite „Keychain“ prieigą. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
+ <translation id="1652887625750064647">DI geriausia atitiktis</translation>
+-<translation id="3848846802033604519">„Brave“ supaprastino šį puslapį, kad būtų paprasčiau skaityti. „Brave“ gavo pradinį puslapį prisijungusi saugiu ryšiu.</translation>
++<translation id="3848846802033604519">„Kahf“ supaprastino šį puslapį, kad būtų paprasčiau skaityti. „Kahf“ gavo pradinį puslapį prisijungusi saugiu ryšiu.</translation>
+ <translation id="1656489000284462475">Paėmimas</translation>
+ <translation id="1658111267661135323">TV ir vaizdo įrašai</translation>
+ <translation id="1658918301167915956">„Bluetooth“ įrenginiai</translation>
+ <translation id="1662550410081243962">Išsaugoti ir užpildyti mokėjimo metodų informaciją</translation>
+-<translation id="1838576226863399477">Kortelės ir adresai naudojami iš „Brave“. Juos galite tvarkyti nuėję į <ph name="BEGIN_LINK"/>Nustatymus<ph name="END_LINK"/>.</translation>
++<translation id="1838576226863399477">Kortelės ir adresai naudojami iš „Kahf“. Juos galite tvarkyti nuėję į <ph name="BEGIN_LINK"/>Nustatymus<ph name="END_LINK"/>.</translation>
+ <translation id="1664389769577564606">Lankstusis fotopolimeras</translation>
+ <translation id="166624440456221306">Ištrinti palyginimo lentelę</translation>
+ <translation id="1668071460721346172">Gauti el. laišką</translation>
+@@ -422,7 +422,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="1741613555002899862">Kai „DnsOverHttpsMode“ yra „<ph name="SECURE_DNS_MODE_SECURE"/>“, turi būti nurodyta ir tinkama eilutė.</translation>
+ <translation id="1743393865165844832">Patalynė ir lovų audiniai</translation>
+ <translation id="1743892871127720056">Palyginimo lentelės pavadinimas, redaguoti tekstą</translation>
+-<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Kaip naudojame šiuos duomenis:<ph name="END_BOLD"/> „Brave“ nustato dominančias temas, kai naršote. Temų etiketės nustatomos iš anksto ir apima tokias temas kaip menas ir pramogos, apsipirkimas ir sportas. Vėliau svetainė, kurioje lankotės, gali prašyti „Brave“ informacijos apie kelias temas (bet ne naršymo istorijos), kad galėtų suasmeninti jums rodomus skelbimus.</translation>
++<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Kaip naudojame šiuos duomenis:<ph name="END_BOLD"/> „Kahf“ nustato dominančias temas, kai naršote. Temų etiketės nustatomos iš anksto ir apima tokias temas kaip menas ir pramogos, apsipirkimas ir sportas. Vėliau svetainė, kurioje lankotės, gali prašyti „Kahf“ informacijos apie kelias temas (bet ne naršymo istorijos), kad galėtų suasmeninti jums rodomus skelbimus.</translation>
+ <translation id="1746113442205726301">Sukti vaizdą pagal Y ašį</translation>
+ <translation id="1746531169546376413">0 laipsnių</translation>
+ <translation id="1748225549612934682">Sutrumpinkite tekstą, kad gautumėte pagalbos rašydami</translation>
+@@ -435,7 +435,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="1756555787993603971">Dabar galite naudoti virtualią kortelę ir saugiau atsiskaityti naudodami automatinį pildymą.</translation>
+ <translation id="175656076281618225">Iliuzionizmas</translation>
+ <translation id="1757773103848038814">Lygiaplotis šriftas</translation>
+-<translation id="3727704638090640904">Mygtukas „Keisti „Brave“ slaptažodį; suaktyvinkite, jei norite pakeisti „Brave“ paskyros slaptažodį</translation>
++<translation id="3727704638090640904">Mygtukas „Keisti „Kahf“ slaptažodį; suaktyvinkite, jei norite pakeisti „Kahf“ paskyros slaptažodį</translation>
+ <translation id="1762779605905950734">Gatvės pavadinimas</translation>
+ <translation id="1763864636252898013">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN"/>; jo saugos sertifikatas nėra patikimas įrenginio operacinei sistemai. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
+ <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Pabandykite paleisti „Windows Network Diagnostics“<ph name="END_LINK"/>.</translation>
+@@ -443,8 +443,8 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="1777422078676229054">Fotopopierius (archyvinis)</translation>
+ <translation id="1778646502362731194">JIS B0</translation>
+ <translation id="1785118555253503473">Įdiegti žiniatinklio programas?</translation>
+-<translation id="3480410886581896628">Brave Smart Lock</translation>
+-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti savo informaciją, privatumo ir saugos nustatymus „Brave“ paskyroje</translation>
++<translation id="3480410886581896628">Kahf Smart Lock</translation>
++<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti savo informaciją, privatumo ir saugos nustatymus „Kahf“ paskyroje</translation>
+ <translation id="1793631236004319016">Paskutinį kartą naudota prieš <ph name="NUM_HOURS_MINUTES_SECONDS"/></translation>
+ <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, galimi keli veiksmai, paspauskite skirtuką, norėdami juos perjungti</translation>
+ <translation id="1800473098294731951">B9</translation>
+@@ -573,11 +573,11 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2040894699575719559">Vietovė užblokuota</translation>
+ <translation id="2041788246978549610">Naudoti pasiekiamus mikrofonus (<ph name="MICS_COUNT"/>)</translation>
+ <translation id="2042213636306070719">7 dėklas</translation>
+-<translation id="3163988908275223348">Prisijunkite, kad galėtumėte naudoti „Brave“ paskyroje išsaugotus slaptažodžius</translation>
++<translation id="3163988908275223348">Prisijunkite, kad galėtumėte naudoti „Kahf“ paskyroje išsaugotus slaptažodžius</translation>
+ <translation id="2045871135676061132">Asmeninis vokas</translation>
+ <translation id="2046951263634619614">Knygų mažmenininkai</translation>
+ <translation id="2048261947532620704">Verčiamas puslapis</translation>
+-<translation id="5469355573019315764">Svetainės gali prašyti „Brave“ informacijos, kad galėtų suasmeninti jums rodomus skelbimus.</translation>
++<translation id="5469355573019315764">Svetainės gali prašyti „Kahf“ informacijos, kad galėtų suasmeninti jums rodomus skelbimus.</translation>
+ <translation id="2059166748188874810">Savivaldybė</translation>
+ <translation id="2059202684901022309">22 x 34 col.</translation>
+ <translation id="2064568741209980952">Kreditai ir paskolos</translation>
+@@ -653,7 +653,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2174875517416416684">Operacija neatlikta. Iš jūsų sąskaitos lėšos neišskaitytos.</translation>
+ <translation id="2175630235841878061">Negalima atsisiųsti didesnių nei 100 MB failų</translation>
+ <translation id="2176974405772725904">Adreso išsaugojimas paskyroje</translation>
+-<translation id="7453373354666409887">Mygtukas „Atnaujinti „Brave“; suaktyvinkite, kad atnaujintumėte „Brave“ skiltyje „Brave“ nustatymai“</translation>
++<translation id="7453373354666409887">Mygtukas „Atnaujinti „Kahf“; suaktyvinkite, kad atnaujintumėte „Kahf“ skiltyje „Kahf“ nustatymai“</translation>
+ <translation id="2179003720612888584">„<ph name="SITE_TITLE"/>“ <ph name="SITE_DOMAIN_NAME"/></translation>
+ <translation id="2181821976797666341">Politika</translation>
+ <translation id="2182170103603703676">Indaplovės</translation>
+@@ -673,7 +673,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2212735316055980242">Politika nerasta</translation>
+ <translation id="2213606439339815911">Gaunami įrašai...</translation>
+ <translation id="2213612003795704869">Puslapis atspausdintas</translation>
+-<translation id="4045100732984144870">Automatinis pildymas naudojant „Brave“</translation>
++<translation id="4045100732984144870">Automatinis pildymas naudojant „Kahf“</translation>
+ <translation id="2215539479425228550">Kopimas ir alpinizmas</translation>
+ <translation id="2215727959747642672">Failo redagavimas</translation>
+ <translation id="2215963164070968490">Šunys</translation>
+@@ -779,7 +779,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="239429038616798445">Šis pristatymo metodas nepasiekiamas. Išbandykite kitą metodą.</translation>
+ <translation id="2395840535409704129">Vandens sportas</translation>
+ <translation id="2396249848217231973">&amp;Anuliuoti ištrynimą</translation>
+-<translation id="4124760202519850347">Šis IBAN išsaugotas jūsų „Brave“ paskyroje, kad galėtumėte jį naudoti „Brave“ paslaugose.</translation>
++<translation id="4124760202519850347">Šis IBAN išsaugotas jūsų „Kahf“ paskyroje, kad galėtumėte jį naudoti „Kahf“ paslaugose.</translation>
+ <translation id="2400600116338235695">Gali būti prašoma prisijungti prie nuosekliųjų prievadų</translation>
+ <translation id="2404884497378469141">Pabandykite dar kartą nukopijuoti failus</translation>
+ <translation id="2412310121876768057">Kitą kartą automatiškai užpildyti kortelę?</translation>
+@@ -800,7 +800,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2461822463642141190">Dabartinė</translation>
+ <translation id="2462932596748424101">Socialiniai tinklai</translation>
+ <translation id="2465688316154986572">Susegimas sankabėlėmis</translation>
+-<translation id="4058615531773510267">Tvarkykite failus, kuriuos atsisiuntėte naršyklėje „Brave“</translation>
++<translation id="4058615531773510267">Tvarkykite failus, kuriuos atsisiuntėte naršyklėje „Kahf“</translation>
+ <translation id="2466004615675155314">Rodyti informaciją iš žiniatinklio</translation>
+ <translation id="2466682894498377850">Skirtukas išsiųstas iš jūsų „<ph name="DEVICE_NAME"/>“</translation>
+ <translation id="2467272921457885625">Įrenginio aparatinės įrangos specifikacijos ir statistika, pvz., centrinio procesoriaus ir (arba) laisvosios prieigos atminties naudojimo istorija</translation>
+@@ -812,7 +812,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2473810985261856484">Teisinės paslaugos</translation>
+ <translation id="2479148705183875116">Eiti į nustatymus</translation>
+ <translation id="2479410451996844060">Netinkamas paieškos URL.</translation>
+-<translation id="6944854796979239513">„Brave“ paskyroje, <ph name="USER_EMAIL"/></translation>
++<translation id="6944854796979239513">„Kahf“ paskyroje, <ph name="USER_EMAIL"/></translation>
+ <translation id="248064299258688299">„<ph name="EXTENSION_NAME"/>“ plėtiniu nurodoma</translation>
+ <translation id="2482878487686419369">Pranešimai</translation>
+ <translation id="248348093745724435">Įrenginio politikos</translation>
+@@ -844,12 +844,12 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="253493526287553278">Žr. išsamią reklamos kredito kodo informaciją</translation>
+ <translation id="2535659140340599600">{COUNT,plural, =1{ir dar 1}one{ir dar #}few{ir dar #}many{ir dar #}other{ir dar #}}</translation>
+ <translation id="2536110899380797252">Pridėti adresą</translation>
+-<translation id="3140033400151786080">Kiti šį įrenginį naudojantys žmonės nematys jūsų veiklos, todėl galėsite naršyti daugiau privačiai. Tai nepakeis, kaip lankomos svetainės ir naudojamos paslaugos, įskaitant „Brave“, renka duomenis. Atsisiuntimai ir žymės bus išsaugoti.</translation>
++<translation id="3140033400151786080">Kiti šį įrenginį naudojantys žmonės nematys jūsų veiklos, todėl galėsite naršyti daugiau privačiai. Tai nepakeis, kaip lankomos svetainės ir naudojamos paslaugos, įskaitant „Kahf“, renka duomenis. Atsisiuntimai ir žymės bus išsaugoti.</translation>
+ <translation id="2539524384386349900">Aptikti</translation>
+ <translation id="2542106216580219892">Banglenčių sportas</translation>
+ <translation id="2544546346215446551">Administratorius iš naujo paleido jūsų įrenginį</translation>
+ <translation id="2544644783021658368">Vienas dokumentas</translation>
+-<translation id="5342827302598046226">Nustatyti „Brave“ kaip numatytąją naršyklę</translation>
++<translation id="5342827302598046226">Nustatyti „Kahf“ kaip numatytąją naršyklę</translation>
+ <translation id="2545721997179863249">Pasirinkta visų laukų užpildymo parinktis</translation>
+ <translation id="2546283357679194313">Slapukai ir svetainės duomenys</translation>
+ <translation id="254947805923345898">Politikos vertė netinkama.</translation>
+@@ -895,7 +895,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2651465929321991146">Istorija ir skirtukai</translation>
+ <translation id="2653659639078652383">Pateikti</translation>
+ <translation id="2655752832536625875">Vonios kambarys</translation>
+-<translation id="3889152837537169222">„Brave“ patarimo uždarymo mygtukas, paspauskite „Enter“, kad uždarytumėte</translation>
++<translation id="3889152837537169222">„Kahf“ patarimo uždarymo mygtukas, paspauskite „Enter“, kad uždarytumėte</translation>
+ <translation id="2657637947725373811">{0,plural, =1{Perkelti konfidencialų failą?}one{Perkelti konfidencialius failus?}few{Perkelti konfidencialius failus?}many{Perkelti konfidencialius failus?}other{Perkelti konfidencialius failus?}}</translation>
+ <translation id="2658843814961855121">Darbo ir įdarbinimo įstatymas</translation>
+ <translation id="2660779039299703961">Įvykis</translation>
+@@ -1041,18 +1041,18 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="2961809451460302960">Gyvybės draudimas</translation>
+ <translation id="2962073860865348475">12 x 18 col.</translation>
+ <translation id="2967082089043584472">Pridėta prie „<ph name="SET"/>“</translation>
+-<translation id="2470357430970446202">išsaugokite „Brave“ paskyroje</translation>
++<translation id="2470357430970446202">išsaugokite „Kahf“ paskyroje</translation>
+ <translation id="297173220375858963">Stalinė leidyba</translation>
+ <translation id="2972581237482394796">&amp;Atlikti iš naujo</translation>
+-<translation id="4715521049551299401">Šio IBAN nepavyko išsaugoti jūsų „Brave“ paskyroje. Vietoje to jis išsaugotas naršyklėje „Brave“ šiame įrenginyje. „Brave“ dar kartą paprašys, kai kitą kartą naudosite šį IBAN.</translation>
++<translation id="4715521049551299401">Šio IBAN nepavyko išsaugoti jūsų „Kahf“ paskyroje. Vietoje to jis išsaugotas naršyklėje „Kahf“ šiame įrenginyje. „Kahf“ dar kartą paprašys, kai kitą kartą naudosite šį IBAN.</translation>
+ <translation id="2977665033722899841">„<ph name="ROW_NAME"/>“, šiuo metu pasirinkta. <ph name="ROW_CONTENT"/></translation>
+ <translation id="2977847223286097084">Klaviatūros užrakinimas ir naudojimas</translation>
+ <translation id="2978824962390592855">Opera</translation>
+ <translation id="2979424420072875974">Rašytojų ištekliai</translation>
+-<translation id="6172169316494799304">Šios kortelės saugos kodas (CVC) bus šifruotas ir išsaugotas „Brave“ paskyroje, kad galėtumėte greičiau atsiskaityti</translation>
++<translation id="6172169316494799304">Šios kortelės saugos kodas (CVC) bus šifruotas ir išsaugotas „Kahf“ paskyroje, kad galėtumėte greičiau atsiskaityti</translation>
+ <translation id="2985398929374701810">Įveskite tinkamą adresą</translation>
+ <translation id="2987034854559945715">Nėra jokių atitinkančių funkcijų</translation>
+-<translation id="714850411804317247">„Brave“ riboja informacijos, kurią svetainės gali naudoti jums stebėti, kai naršote, kiekį. Galite pakeisti nustatymus ir pasirinkti savo apsaugos lygį.</translation>
++<translation id="714850411804317247">„Kahf“ riboja informacijos, kurią svetainės gali naudoti jums stebėti, kai naršote, kiekį. Galite pakeisti nustatymus ir pasirinkti savo apsaugos lygį.</translation>
+ <translation id="2989742184762224133">Dvi sankabėlės viršuje</translation>
+ <translation id="2991174974383378012">Bendrinimas su svetainėmis</translation>
+ <translation id="299122504639061328">Valdykite numatytąjį paieškos variklį ir svetainių paiešką</translation>
+@@ -1080,10 +1080,10 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3041176923638368519">Žr. kortelės privilegijų sąlygas</translation>
+ <translation id="3041612393474885105">Sertifikato informacija</translation>
+ <translation id="3045769629416806687">Ekstremalusis sportas</translation>
+-<translation id="8418829431154568330">„Brave“ nuotolinio kompiuterio valdymo istorija, įskaitant laiko žymes, prieglobas ir klientų seansų ID</translation>
+-<translation id="2396578282884469363">Paprastai saugiai prisijungiate prie svetainių, bet šį kartą „Brave“ nepavyko naudoti saugaus ryšio. Atakos vykdytojas gali bandyti stebėti arba keisti tinklo ryšį. <ph name="BEGIN_LEARN_MORE_LINK"/>Sužinokite daugiau apie šį perspėjimą<ph name="END_LEARN_MORE_LINK"/>.</translation>
++<translation id="8418829431154568330">„Kahf“ nuotolinio kompiuterio valdymo istorija, įskaitant laiko žymes, prieglobas ir klientų seansų ID</translation>
++<translation id="2396578282884469363">Paprastai saugiai prisijungiate prie svetainių, bet šį kartą „Kahf“ nepavyko naudoti saugaus ryšio. Atakos vykdytojas gali bandyti stebėti arba keisti tinklo ryšį. <ph name="BEGIN_LEARN_MORE_LINK"/>Sužinokite daugiau apie šį perspėjimą<ph name="END_LEARN_MORE_LINK"/>.</translation>
+ <translation id="3052964831964880138">„<ph name="PRODUCT_NAME"/>“ <ph name="PRICE_DROP"/> kainos sumažėjimas</translation>
+-<translation id="4832983047807637948">„Brave“ automatiškai ištrina senesnes nei keturių savaičių temas. Jums naršant toliau, tema gali būti vėl rodoma sąraše. Arba galite blokuoti temas, kurių „Brave“ neturėtų bendrinti su svetainėmis. Sužinokite daugiau apie su skelbimais susijusio privatumo tvarkymą naršyklėje „Brave“.</translation>
++<translation id="4832983047807637948">„Kahf“ automatiškai ištrina senesnes nei keturių savaičių temas. Jums naršant toliau, tema gali būti vėl rodoma sąraše. Arba galite blokuoti temas, kurių „Kahf“ neturėtų bendrinti su svetainėmis. Sužinokite daugiau apie su skelbimais susijusio privatumo tvarkymą naršyklėje „Kahf“.</translation>
+ <translation id="3061707000357573562">Pataisos paslauga</translation>
+ <translation id="3062655045399308513">Ištrinti naršymo duomenis...</translation>
+ <translation id="306573536155379004">Žaidimas prasidėjo.</translation>
+@@ -1091,7 +1091,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3068118691172921711">Failų įkėlimas į „<ph name="CLOUD_PROVIDER"/>“ bus pradėtas po vienos minutės</translation>
+ <translation id="3076865167425975822">Operacinės sistemos</translation>
+ <translation id="3080254622891793721">Grafiniai elementai</translation>
+-<translation id="254030672859277244">Leiskite „Brave“, kai yra galimybė, pasinaudojus jūsų kortelėmis rasti suasmenintų nuolaidų</translation>
++<translation id="254030672859277244">Leiskite „Kahf“, kai yra galimybė, pasinaudojus jūsų kortelėmis rasti suasmenintų nuolaidų</translation>
+ <translation id="3086579638707268289">Jūsų veikla žiniatinklyje stebima</translation>
+ <translation id="3087734570205094154">Apačia</translation>
+ <translation id="3090667236485488075">Stiklas</translation>
+@@ -1193,7 +1193,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3249102948665905108">Failo įkėlimas į „<ph name="CLOUD_PROVIDER"/>“ baigtas su klaidomis</translation>
+ <translation id="3252772880526154546">Architektūra</translation>
+ <translation id="3254301855501243548">18 x 22 col.</translation>
+-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują „Brave“ kalendoriaus įvykį</translation>
++<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują „Kahf“ kalendoriaus įvykį</translation>
+ <translation id="3261488570342242926">Sužinokite daugiau apie virtualias korteles</translation>
+ <translation id="3262698603497362968">Pirkimo parinktys</translation>
+ <translation id="3266367459139339908">Pristatome naujus būdus, suteikiančius galimybę apriboti informaciją, kurią svetainės gali sužinoti apie jus teikdamos suasmenintus skelbimus. Toliau pateikiama pavyzdžių.</translation>
+@@ -1205,7 +1205,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3272091146646336650">Super B</translation>
+ <translation id="3272112314896217187">Įveskite <ph name="NUMBER_OF_DIGITS"/> skaitm. patvirtinimo kodą</translation>
+ <translation id="3272643614306383237">Mažiau nei 1 MB. Per kitą apsilankymą kai kurios svetainės gali būti įkeltos gerokai lėčiau.</translation>
+-<translation id="7460223968433527020">Administratorius gali nuotoliniu būdu atlikti profilio ir naršyklės pakeitimų, analizuoti informaciją apie naršyklę pateikdamas ataskaitas ir atlikti kitas reikiamas užduotis. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Brave“. <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
++<translation id="7460223968433527020">Administratorius gali nuotoliniu būdu atlikti profilio ir naršyklės pakeitimų, analizuoti informaciją apie naršyklę pateikdamas ataskaitas ir atlikti kitas reikiamas užduotis. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Kahf“. <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
+ <translation id="3281350579597955952">{0,plural, =1{Pagal administratoriaus politikos nuostatas nerekomenduojama atidaryti šio failo naudojant <ph name="DESTINATION_NAME"/>}one{Pagal administratoriaus politikos nuostatas nerekomenduojama atidaryti šių failų naudojant <ph name="DESTINATION_NAME"/>}few{Pagal administratoriaus politikos nuostatas nerekomenduojama atidaryti šių failų naudojant <ph name="DESTINATION_NAME"/>}many{Pagal administratoriaus politikos nuostatas nerekomenduojama atidaryti šių failų naudojant <ph name="DESTINATION_NAME"/>}other{Pagal administratoriaus politikos nuostatas nerekomenduojama atidaryti šių failų naudojant <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3282085321714087552">Jūsų organizacija (<ph name="ENROLLMENT_DOMAIN"/>) nusiuntė tam tikros informacijos, pvz., informacijos apie nustatymus ar politikos nuostatas, toliau nurodytoms svetainėms.</translation>
+ <translation id="3286372614333682499">portretas</translation>
+@@ -1222,7 +1222,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3304073249511302126">„Bluetooth“ nuskaitymas</translation>
+ <translation id="3304777285002411338">A2x3</translation>
+ <translation id="33073482541490531">Slaptažodis, kurį ką tik naudojote, buvo rastas duomenų saugos pažeidime. Slaptažodžių tvarkyklė rekomenduoja pakeisti šį slaptažodį dabar.</translation>
+-<translation id="4731386748664539266">Mygtukas „Tinkinti „Brave“; suaktyvinkite, kad tinkintumėte naršyklės išvaizdą</translation>
++<translation id="4731386748664539266">Mygtukas „Tinkinti „Kahf“; suaktyvinkite, kad tinkintumėte naršyklės išvaizdą</translation>
+ <translation id="3308006649705061278">Organizacinis vienetas (angl. „Organizational Unit“) (OU)</translation>
+ <translation id="3318016344440038475">TV komedijos</translation>
+ <translation id="3324687287337751929">4 x 6 col.</translation>
+@@ -1280,7 +1280,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3411091017011773343">Įkelti po <ph name="HOURS"/> val.</translation>
+ <translation id="3414275587143250384">Paskirstymas ir duomenų apdorojimas debesyje</translation>
+ <translation id="3414952576877147120">Dydis:</translation>
+-<translation id="7115177860507615612">Mygtukas „Paleisti „Brave“ dinozauro žaidimą“; suaktyvinkite, jei norite žaisti žaidimą „Dino Run“ naršyklėje „Brave“</translation>
++<translation id="7115177860507615612">Mygtukas „Paleisti „Kahf“ dinozauro žaidimą“; suaktyvinkite, jei norite žaisti žaidimą „Dino Run“ naršyklėje „Kahf“</translation>
+ <translation id="3422248202833853650">Pabandykite išeiti iš kitų programų, kad atlaisvintumėte atminties.</translation>
+ <translation id="3422472998109090673"><ph name="HOST_NAME"/> šiuo metu nepasiekiama.</translation>
+ <translation id="3423742043356668186">Nurodyta sistema</translation>
+@@ -1390,28 +1390,28 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3587738293690942763">Vidurys</translation>
+ <translation id="3600106876108433070">Sužinokite apie palyginimo lenteles</translation>
+ <translation id="3600246354004376029">„<ph name="TITLE"/>“, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
+-<translation id="8476504968862670676">Mygtukas „Tvarkyti „Brave“ privatumo nustatymus“; suaktyvinkite, kad apsilankytumėte „Brave“ paskyros privatumo nustatymų skiltyje</translation>
++<translation id="8476504968862670676">Mygtukas „Tvarkyti „Kahf“ privatumo nustatymus“; suaktyvinkite, kad apsilankytumėte „Kahf“ paskyros privatumo nustatymų skiltyje</translation>
+ <translation id="3603507503523709">Programą užblokavo administratorius</translation>
+ <translation id="3605899229568538311">5 x 5 col.</translation>
+ <translation id="3606917451836803637">TV laidos ir programos</translation>
+ <translation id="3608932978122581043">Pateikti orientaciją</translation>
+-<translation id="1737525120923015525">Kad kitą kartą galėtumėte greičiau atlikti mokėjimą, išsaugokite kortelę, vardą bei pavardę ir atsiskaitymo adresą „Brave“ paskyroje.</translation>
++<translation id="1737525120923015525">Kad kitą kartą galėtumėte greičiau atlikti mokėjimą, išsaugokite kortelę, vardą bei pavardę ir atsiskaitymo adresą „Kahf“ paskyroje.</translation>
+ <translation id="3612660594051121194">Tolimojo susisiekimo autobusai ir traukiniai</translation>
+ <translation id="3614001939154393113">Atakų vykdytojai gali bandyti pavogti jūsų informaciją iš <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (pvz., slaptažodžius, pranešimus ar kredito kortelių duomenis). <ph name="BEGIN_LEARN_MORE_LINK"/>Sužinokite daugiau apie šį perspėjimą<ph name="END_LEARN_MORE_LINK"/>.</translation>
+ <translation id="3614103345592970299">Dydis: 2</translation>
+ <translation id="361438452008624280">Sąrašo įrašas „<ph name="LANGUAGE_ID"/>“: nežinoma arba nepalaikoma kalba.</translation>
+-<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite paleisti saugos patikrą „Brave“ nustatymuose</translation>
++<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite paleisti saugos patikrą „Kahf“ nustatymuose</translation>
+ <translation id="3615309852743236517">Manikiūras ir pedikiūras</translation>
+ <translation id="3620239073311576716">Uniformos ir darbo drabužiai</translation>
+ <translation id="3621401353678567613">Jei norite gauti įspėjimus apie sumažintas stebimų produktų kainas, įjunkite pranešimus nustatymų skiltyje.</translation>
+ <translation id="362276910939193118">Rodyti visą istoriją</translation>
+-<translation id="5043591794632164789">Jei norite naudoti vaizdo kamerą, suteikite „Brave“ prieigą <ph name="LINK"/>.</translation>
++<translation id="5043591794632164789">Jei norite naudoti vaizdo kamerą, suteikite „Kahf“ prieigą <ph name="LINK"/>.</translation>
+ <translation id="3623398832322170566">Romantiniai filmai</translation>
+ <translation id="3624292976554877583">Etiketės (matinės)</translation>
+ <translation id="3628905806504633297">{0,plural, =1{Pagal administratoriaus politikos nuostatas nerekomenduojama perkelti šio failo į „<ph name="DESTINATION_NAME"/>“}one{Pagal administratoriaus politikos nuostatas nerekomenduojama perkelti šių failų į „<ph name="DESTINATION_NAME"/>“}few{Pagal administratoriaus politikos nuostatas nerekomenduojama perkelti šių failų į „<ph name="DESTINATION_NAME"/>“}many{Pagal administratoriaus politikos nuostatas nerekomenduojama perkelti šių failų į „<ph name="DESTINATION_NAME"/>“}other{Pagal administratoriaus politikos nuostatas nerekomenduojama perkelti šių failų į „<ph name="DESTINATION_NAME"/>“}}</translation>
+ <translation id="3630155396527302611">Jei ji nurodyta kaip programa, kuriai leidžiama pasiekti tinklą, pabandykite
+       ją pašalinti iš sąrašo ir vėl pridėti.</translation>
+-<translation id="3599570280787620691">Mygtukas „Rasti įrenginį“; suaktyvinkite, kad apsilankytumėte programoje „Rasti įrenginį“ „Brave“ paskyroje</translation>
++<translation id="3599570280787620691">Mygtukas „Rasti įrenginį“; suaktyvinkite, kad apsilankytumėte programoje „Rasti įrenginį“ „Kahf“ paskyroje</translation>
+ <translation id="3630699740441428070">Šio įrenginio administratoriai sukonfigūravo jūsų tinklo ryšį, per kurį gali peržiūrėti jūsų tinklo srautą, įskaitant lankomas svetaines.</translation>
+ <translation id="3632503704576938756">Ekrano bendrinimas tęsiamas</translation>
+ <translation id="3632892046558972264">Ekrano bendrinimas pristabdytas</translation>
+@@ -1565,7 +1565,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="3906954721959377182">Planšetinis kompiuteris</translation>
+ <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
+ <translation id="3910231615117880630">Sužinokite daugiau apie įterptą turinį</translation>
+-<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Kaip galite tvarkyti savo duomenis:<ph name="END_BOLD"/> „Brave“ automatiškai ištrina senesnes nei trisdešimt dienų svetaines. Jei dar kartą apsilankysite svetainėje, ji gali vėl atsirasti sąraše. Taip pat galite bet kuriuo metu užblokuoti svetainę, kad ji negalėtų siūlyti skelbimų, ir išjungti svetainių siūlomus skelbimus „Brave“ nustatymuose.</translation>
++<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>Kaip galite tvarkyti savo duomenis:<ph name="END_BOLD"/> „Kahf“ automatiškai ištrina senesnes nei trisdešimt dienų svetaines. Jei dar kartą apsilankysite svetainėje, ji gali vėl atsirasti sąraše. Taip pat galite bet kuriuo metu užblokuoti svetainę, kad ji negalėtų siūlyti skelbimų, ir išjungti svetainių siūlomus skelbimus „Kahf“ nustatymuose.</translation>
+ <translation id="3921869355029467742">Įveskite saugos kodą</translation>
+ <translation id="3927538228901078312">Nėra palyginimo lentelių</translation>
+ <translation id="3927932062596804919">Uždrausti</translation>
+@@ -1631,14 +1631,14 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="4039506337798853114">Jei norite, kad būtų rodomas žymeklis, paspauskite |<ph name="ACCELERATOR"/>|</translation>
+ <translation id="4047351652147966654">18 x 24 col.</translation>
+ <translation id="404831776305217138">Plėtinio (ID: <ph name="EXTENSION_ID"/>) atnaujinimo URL yra netinkamas arba naudojama nepalaikoma schema. Palaikomos schemos: <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/> ir <ph name="FILE_SCHEME"/>.</translation>
+-<translation id="2635033286761217583">Galėsite jį naudoti „Brave“ produktuose</translation>
+-<translation id="336808635693308470">„Brave“ bando redaguoti mokėjimo metodus.</translation>
++<translation id="2635033286761217583">Galėsite jį naudoti „Kahf“ produktuose</translation>
++<translation id="336808635693308470">„Kahf“ bando redaguoti mokėjimo metodus.</translation>
+ <translation id="405399507749852140">Gaukite įspėjimus, jei kaina bus sumažinta bet kurioje svetainėje</translation>
+ <translation id="4056223980640387499">Sepija</translation>
+ <translation id="4059523390906550209">Sužinokite daugiau apie neskelbtinų duomenų apsaugą</translation>
+ <translation id="4060880210388108757">Nepriklausoma ir alternatyvioji muzika</translation>
+ <translation id="4060883793524802469">Pašalinti iš lentelių</translation>
+-<translation id="4161619938555288542">Leiskite „Brave“ padėti jums rasti nuolaidų krepšeliams</translation>
++<translation id="4161619938555288542">Leiskite „Kahf“ padėti jums rasti nuolaidų krepšeliams</translation>
+ <translation id="406358100705415968">Darbo saugos apsauginės priemonės</translation>
+ <translation id="4065659219963895623">Restoranai</translation>
+ <translation id="4067774859633143413">Jei norite išeiti iš viso ekrano režimo ir peržiūrėti atsisiuntimą, paspauskite ir palaikykite |<ph name="ACCELERATOR"/>|</translation>
+@@ -1798,9 +1798,9 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="4333561522337981382">Tvarkyti langus visuose ekranuose</translation>
+ <translation id="4336219115486912529">{COUNT,plural, =1{Galiojimo laikas baigsis rytoj}one{Galiojimo laikas baigsis po # dienos}few{Galiojimo laikas baigsis po # dienų}many{Galiojimo laikas baigsis po # dienos}other{Galiojimo laikas baigsis po # dienų}}</translation>
+ <translation id="4336913590841287350">Ši politika dar nepalaikoma kaip naudotojo politika sistemoje „iOS“.</translation>
+-<translation id="5792122559159836842">Šis skelbimas naudojo per daug įrenginio išteklių, tad „Brave“ jį pašalino.</translation>
++<translation id="5792122559159836842">Šis skelbimas naudojo per daug įrenginio išteklių, tad „Kahf“ jį pašalino.</translation>
+ <translation id="4340810192899866471">Importuoti iš JSON</translation>
+-<translation id="6116812392674177288">Šis kompiuteris neaptinkamas kaip valdomas įmonės, todėl taikant politiką galima automatiškai įdiegti tik „Brave“ internetinėje parduotuvėje priglobiamus plėtinius. „Brave“ internetinės parduotuvės atnaujinimo URL yra „<ph name="CWS_UPDATE_URL"/>“.</translation>
++<translation id="6116812392674177288">Šis kompiuteris neaptinkamas kaip valdomas įmonės, todėl taikant politiką galima automatiškai įdiegti tik „Kahf“ internetinėje parduotuvėje priglobiamus plėtinius. „Kahf“ internetinės parduotuvės atnaujinimo URL yra „<ph name="CWS_UPDATE_URL"/>“.</translation>
+ <translation id="4342742994656318294">Pramogų parkai</translation>
+ <translation id="4344072791302852930">Įtraukti skirtuką</translation>
+ <translation id="4348834659292907206">Ryšys su <ph name="SITE"/> nėra saugus</translation>
+@@ -1829,7 +1829,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="4406896451731180161">paieškos rezultatai</translation>
+ <translation id="4408413947728134509">Slapukai <ph name="NUM_COOKIES"/></translation>
+ <translation id="4412074349188076601">Ši konfigūracija pažymėta kaip įdiegiama, bet nepateiktas joks šios konstrukcijos vaizdas, todėl jos negalima įdiegti.</translation>
+-<translation id="6647778944129929873">Naudokite „Brave“ slaptažodžių tvarkyklę ir „Brave“ automatinio pildymo funkciją, kad išsaugotumėte ir užpildytumėte slaptažodžius, mokėjimo metodus ir adresus</translation>
++<translation id="6647778944129929873">Naudokite „Kahf“ slaptažodžių tvarkyklę ir „Kahf“ automatinio pildymo funkciją, kad išsaugotumėte ir užpildytumėte slaptažodžius, mokėjimo metodus ir adresus</translation>
+ <translation id="4414515549596849729">slapukai ir svetainės duomenys</translation>
+ <translation id="4415156962929755728">Plastikas (itin blizgus)</translation>
+ <translation id="4415426530740016218">Paėmimo adresas</translation>
+@@ -1860,16 +1860,16 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="448363931695049633">Picerijos</translation>
+ <translation id="4489023393592172404">„Kaku 4“ vokas</translation>
+ <translation id="4490717597759821841">A7</translation>
+-<translation id="3966104135245031874">Šifruoti sinchronizuotus slaptažodžius naudojant „Brave“ paskyrą</translation>
++<translation id="3966104135245031874">Šifruoti sinchronizuotus slaptažodžius naudojant „Kahf“ paskyrą</translation>
+ <translation id="4493480324863638523">Netinkamas URL. Tai turi būti įprastos schemos URL, pvz., http://example.com arba https://example.com.</translation>
+-<translation id="7622628059331736328">Galite peržiūrėti skelbimų temas nustatymuose ir užblokuoti tas, kurių nenorite bendrinti su svetainėmis. „Brave“ taip pat automatiškai ištrina senesnes nei keturių savaičių skelbimų temas.</translation>
++<translation id="7622628059331736328">Galite peržiūrėti skelbimų temas nustatymuose ir užblokuoti tas, kurių nenorite bendrinti su svetainėmis. „Kahf“ taip pat automatiškai ištrina senesnes nei keturių savaičių skelbimų temas.</translation>
+ <translation id="4500587658229086076">nesaugus turinys</translation>
+ <translation id="450602096898954067">Tikrinantys žmonės gali matyti duomenis, kad galėtų tobulinti šią funkciją</translation>
+ <translation id="4506176782989081258">Tikrinimo klaida: <ph name="VALIDATION_ERROR"/></translation>
+ <translation id="4506599922270137252">Susisiekti su sistemos administratoriumi</translation>
+ <translation id="450710068430902550">Bendrinimas su administratoriumi</translation>
+-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, kad šis puslapis būtų išverstas naudojant „Brave“ vertėją</translation>
+-<translation id="4892470328555495647">Kortelės ir adresai naudojami iš „Brave“ ir jūsų „Brave“ paskyros (<ph name="ACCOUNT_EMAIL"/>). Galite juos tvarkyti skiltyje <ph name="BEGIN_LINK"/>Nustatymai<ph name="END_LINK"/>.</translation>
++<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, kad šis puslapis būtų išverstas naudojant „Kahf“ vertėją</translation>
++<translation id="4892470328555495647">Kortelės ir adresai naudojami iš „Kahf“ ir jūsų „Kahf“ paskyros (<ph name="ACCOUNT_EMAIL"/>). Galite juos tvarkyti skiltyje <ph name="BEGIN_LINK"/>Nustatymai<ph name="END_LINK"/>.</translation>
+ <translation id="4515847625438516456">Nedideli ir subkompaktiniai automobiliai</translation>
+ <translation id="4519245469315452746">Vykdant atnaujinimo procesą įrenginys buvo pertrauktas.</translation>
+ <translation id="4520048001084013693">Pagal administratoriaus politiką neleidžiama atsisiųsti šio failo</translation>
+@@ -1886,7 +1886,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="4540780316273593836">Kažkas nepavyko</translation>
+ <translation id="4541810033354695636">išplėstoji realybė</translation>
+ <translation id="4542971377163063093">6 dėklas</translation>
+-<translation id="563788859854213593">Kad kitą kartą galėtumėte greičiau atlikti mokėjimą, išsaugokite kortelę ir atsiskaitymo adresą „Brave“ paskyroje.</translation>
++<translation id="563788859854213593">Kad kitą kartą galėtumėte greičiau atlikti mokėjimą, išsaugokite kortelę ir atsiskaitymo adresą „Kahf“ paskyroje.</translation>
+ <translation id="454441086898495030">Pridėti prie „<ph name="SET"/>“?</translation>
+ <translation id="4546730006268514143">Baigėsi perkėlimo skirtasis laikas</translation>
+ <translation id="455113658016510503">A9</translation>
+@@ -2024,19 +2024,19 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="4819347708020428563">Redaguoti komentarus numatytajame rodinyje?</translation>
+ <translation id="4822493756793346865">Informacija apie įprastas kainas teikiama atsižvelgiant į parduotuves žiniatinklyje per pastarąsias 90 dienų.</translation>
+ <translation id="4822922322149719535">Peržiūrėti klaidų žurnalą</translation>
+-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują „Brave“ skaičiuoklę</translation>
++<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują „Kahf“ skaičiuoklę</translation>
+ <translation id="4826588772550366629">fotoaparatas ir mikrofonas</translation>
+ <translation id="4827283332383516812">Ištrinti kortelę</translation>
+ <translation id="4831993743164297314">Vaizdo nustatymo metodo popierius</translation>
+ <translation id="483241715238664915">Įjungti įspėjimus</translation>
+ <translation id="4832961164064927107">Kepsniai ir kepimas ant grotelių</translation>
+ <translation id="4834250788637067901">Mokėjimo metodai, pasiūlymai ir adresai naudojant „Google Pay“</translation>
+-<translation id="246176083348620700">Peržiūrėti „Brave“ istoriją</translation>
++<translation id="246176083348620700">Peržiūrėti „Kahf“ istoriją</translation>
+ <translation id="484462545196658690">Automatiškai</translation>
+ <translation id="484671803914931257">Gaukite nuolaidą iš „<ph name="MERCHANT_NAME"/>“ ir kt.</translation>
+ <translation id="484988093836683706">Naudoti įrenginio atrakinimo funkciją</translation>
+ <translation id="4850886885716139402">Žiūrėti</translation>
+-<translation id="3418609161696289726">Greitai sukurkite naują „Brave Keep“ užrašą</translation>
++<translation id="3418609161696289726">Greitai sukurkite naują „Kahf Keep“ užrašą</translation>
+ <translation id="4855395119669662878">Administratorius pradės įkelti failus į „<ph name="CLOUD_PROVIDER"/>“ <ph name="DATE_TIME"/>. Laikykite įrenginį prijungtą, kol bus baigtas failų įkėlimas. Įkeliant vietinius failus galima tik skaityti.</translation>
+ <translation id="485902285759009870">Patvirtinamas kodas...</translation>
+ <translation id="4860260582253463350">Kad galėtumėte toliau naudoti „YouTube“, turime įsitikinti, kad tai jūs. Gausite nustatymus, kuriuos vienas iš tėvų ar globėjų nustatė programoje „Family Link“.</translation>
+@@ -2134,11 +2134,11 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="5018422839182700155">Negalima atidaryti šio puslapio</translation>
+ <translation id="5018802455907704660">16 x 20 col.</translation>
+ <translation id="5019198164206649151">Bloga atsarginio atminties įrenginio būsena</translation>
+-<translation id="2013297594801702701">Išsaugotus adresus galite naudoti „Brave“ produktuose. Šis adresas bus išsaugotas jūsų „Brave“ paskyroje (<ph name="USER_EMAIL"/>).</translation>
++<translation id="2013297594801702701">Išsaugotus adresus galite naudoti „Kahf“ produktuose. Šis adresas bus išsaugotas jūsų „Kahf“ paskyroje (<ph name="USER_EMAIL"/>).</translation>
+ <translation id="5019952743397118625"><ph name="EXTENSION_DEVELOPER_MODE_SETTINGS_POLICY_NAME"/> politika nustatyta. <ph name="DEVELOPER_TOOLS_AVAILABILITY_POLICY_NAME"/> nevaldys kūrėjo režimo pasiekiamumo plėtinių puslapyje.</translation>
+-<translation id="6516968977334148048">Kainų stebėjimas naudojant „Brave“</translation>
++<translation id="6516968977334148048">Kainų stebėjimas naudojant „Kahf“</translation>
+ <translation id="5023310440958281426">Patikrinkite savo administratoriaus politiką</translation>
+-<translation id="7993217516063481081">Mokėkite sparčiau išsaugoję kortelę. Išsami kortelės informacija užšifruojama „Brave“ paskyroje.</translation>
++<translation id="7993217516063481081">Mokėkite sparčiau išsaugoję kortelę. Išsami kortelės informacija užšifruojama „Kahf“ paskyroje.</translation>
+ <translation id="5030338702439866405">Išdavė</translation>
+ <translation id="503069730517007720">Reikalingas „<ph name="SOFTWARE_NAME"/>“ šakninis sertifikatas, bet jis nėra įdiegtas. Jūsų IT administratorius turėtų peržiūrėti „<ph name="SOFTWARE_NAME"/>“ konfigūravimo instrukcijas, kad išspręstų šią problemą. <ph name="FURTHER_EXPLANATION"/></translation>
+ <translation id="5034930251282078640">Pridėti prie palyginimo?</translation>
+@@ -2171,11 +2171,11 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="5088142053160410913">Pranešimas operatoriui</translation>
+ <translation id="5090647584136241764">Pridėkite skirtukų su panašiais produktais, kad galėtumėte lengvai palyginti jums svarbią informaciją</translation>
+ <translation id="5093232627742069661">Z formos perlenkimas</translation>
+-<translation id="4906192414477726331">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN"/>; jo saugos sertifikatas nėra patikimas „Brave“. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
++<translation id="4906192414477726331">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN"/>; jo saugos sertifikatas nėra patikimas „Kahf“. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
+ <translation id="5097099694988056070">Įrenginio statistika, pvz., centrinio procesoriaus / laisvosios prieigos atminties naudojimas</translation>
+ <translation id="5097468150760963273">27 x 39 col.</translation>
+ <translation id="5097501891273180634">A2</translation>
+-<translation id="1643886086471238725">„Brave“ reikia prieigos prie įrenginio <ph name="PERMISSION"/></translation>
++<translation id="1643886086471238725">„Kahf“ reikia prieigos prie įrenginio <ph name="PERMISSION"/></translation>
+ <translation id="510644072453496781">Kartonas (užbaigimas)</translation>
+ <translation id="5108881358339761672">Svetainė nėra saugi</translation>
+ <translation id="5109892411553231226">Mokėjimo metodų tvarkymas</translation>
+@@ -2347,7 +2347,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="5425082381151187189">Namų ir interjero dekoravimas</translation>
+ <translation id="5426179911063097041">Svetainė <ph name="SITE"/> nori siųsti jums pranešimus</translation>
+ <translation id="5430298929874300616">Pašalinti žymę</translation>
+-<translation id="8517215617486022589">„Brave“ <ph name="BEGIN_EMPHASIS"/>nesaugos<ph name="END_EMPHASIS"/>:
++<translation id="8517215617486022589">„Kahf“ <ph name="BEGIN_EMPHASIS"/>nesaugos<ph name="END_EMPHASIS"/>:
+         <ph name="BEGIN_LIST"/>
+           <ph name="LIST_ITEM"/>naršymo istorijos;
+           <ph name="LIST_ITEM"/>slapukų ir svetainių duomenų;
+@@ -2423,7 +2423,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="5559311991468302423">Ištrinti adresą</translation>
+ <translation id="5560088892362098740">Galiojimo laiko pabaigos data</translation>
+ <translation id="55635442646131152">Dokumento eskizas</translation>
+-<translation id="1702142849385752335">Jei norite naudoti vietovės informaciją, suteikite „Brave“ prieigą <ph name="LINK"/>.</translation>
++<translation id="1702142849385752335">Jei norite naudoti vietovės informaciją, suteikite „Kahf“ prieigą <ph name="LINK"/>.</translation>
+ <translation id="5565735124758917034">Aktyvus</translation>
+ <translation id="5569030697349375295">Apskaitos ir finansų programinė įranga</translation>
+ <translation id="5570825185877910964">Apsaugoti paskyrą</translation>
+@@ -2576,7 +2576,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="5877359070305966420">Žmogiškieji ištekliai</translation>
+ <translation id="5879272455334365707">Finansų planavimas ir valdymas</translation>
+ <translation id="5879989559903563723">Neleidžiama svečio režimu</translation>
+-<translation id="8967688963142514142">Eiti į „Brave“ saugos patikrą</translation>
++<translation id="8967688963142514142">Eiti į „Kahf“ saugos patikrą</translation>
+ <translation id="5884465125445718607">Nr. 6 kinietiškas vokas</translation>
+ <translation id="5886961930368713749">Siųsti atsiliepimą apie palyginimą</translation>
+ <translation id="5887400589839399685">Kortelė išsaugota</translation>
+@@ -2632,10 +2632,10 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="5989320800837274978">Nenurodyti nei fiksuoti įgaliotieji serveriai, nei .pac scenarijaus URL.</translation>
+ <translation id="5992691462791905444">Neproporcingas Z formos perlenkimas</translation>
+ <translation id="5992805036496113940">Peržiūrėkite informaciją, naudojamą skelbimams rodyti</translation>
+-<translation id="7409510288691071929">Tvarkykite savo informaciją, privatumo ir saugos nustatymus „Brave“ paskyroje</translation>
++<translation id="7409510288691071929">Tvarkykite savo informaciją, privatumo ir saugos nustatymus „Kahf“ paskyroje</translation>
+ <translation id="5996255674476750320">Transporto priemonių parodos</translation>
+-<translation id="3494641719937626561">Slaptažodis, kurį ką tik naudojote, buvo atskleistas įvykus duomenų saugos pažeidimui. Siekiant apsaugoti jūsų paskyras, „Brave“ slaptažodžių tvarkyklė rekomenduoja pakeisti jį dabar ir patikrinti išsaugotus slaptažodžius.</translation>
+-<translation id="4496834749307444910">„Brave“ integruotos saugos funkcijos, skirtos apsaugoti jus, kai naršote, pvz., „Brave“ saugaus naršymo funkcija, kurią naudojant <ph name="BEGIN_LINK"/>neseniai buvo rasta kenkėjiškų programų<ph name="END_LINK"/> svetainėje, kurioje bandote apsilankyti.</translation>
++<translation id="3494641719937626561">Slaptažodis, kurį ką tik naudojote, buvo atskleistas įvykus duomenų saugos pažeidimui. Siekiant apsaugoti jūsų paskyras, „Kahf“ slaptažodžių tvarkyklė rekomenduoja pakeisti jį dabar ir patikrinti išsaugotus slaptažodžius.</translation>
++<translation id="4496834749307444910">„Kahf“ integruotos saugos funkcijos, skirtos apsaugoti jus, kai naršote, pvz., „Kahf“ saugaus naršymo funkcija, kurią naudojant <ph name="BEGIN_LINK"/>neseniai buvo rasta kenkėjiškų programų<ph name="END_LINK"/> svetainėje, kurioje bandote apsilankyti.</translation>
+ <translation id="6000528814684428358">Sunkusis rokas ir progresyvusis rokas</translation>
+ <translation id="6000758707621254961">Rezultatų pagal užklausą „<ph name="SEARCH_TEXT"/>“: <ph name="RESULT_COUNT"/></translation>
+ <translation id="6001839398155993679">Pradėkime</translation>
+@@ -2693,7 +2693,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6080696365213338172">Pasiekėte turinį naudodami administratoriaus pateiktą sertifikatą. Duomenys, kuriuos pateikiate <ph name="DOMAIN"/>, gali būti perimti administratoriaus.</translation>
+ <translation id="6085149458302186532">Etiketės (spalvotos)</translation>
+ <translation id="6087312102907839798">Susijusios paieškos</translation>
+-<translation id="7851017866080575588">Skirtukai, kuriuos ištrinate iš „Brave“ istorijos, vis tiek bus rodomi palyginimo lentelėse</translation>
++<translation id="7851017866080575588">Skirtukai, kuriuos ištrinate iš „Kahf“ istorijos, vis tiek bus rodomi palyginimo lentelėse</translation>
+ <translation id="6093795393556121384">Kortelė patvirtinta</translation>
+ <translation id="6094273045989040137">Komentuoti</translation>
+ <translation id="6094290315941448991">Remiantis administratoriaus politika, negalima įrašyti ekrano vaizdo, jei matomas konfidencialus turinys</translation>
+@@ -2705,17 +2705,17 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6107012941649240045">Išduotas</translation>
+ <translation id="6107924765192360631">Tiesiog pradėkite nuo kelių žodžių ar pirmojo juodraščio, kad gautumėte rašymo pasiūlymų.</translation>
+ <translation id="6108580855199168381">Išsami sertifikato informacija</translation>
+-<translation id="5539282829066374332">Paieškos variklis sistemoje „Brave“</translation>
++<translation id="5539282829066374332">Paieškos variklis sistemoje „Kahf“</translation>
+ <translation id="6108849843016142864">Ropliai ir amfibijos</translation>
+-<translation id="8233947174119245051">„Brave“ paskyroje gali būti kito tipo naršymo istorijos, kuri pasiekiama adresu <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+-<translation id="1715537866439612181">Jūsų paieškos, geriausios atitiktys ir jų puslapių turinys siunčiami „Brave“ ir juos gali matyti tikrinantys žmonės, siekiant patobulinti šią funkciją.</translation>
++<translation id="8233947174119245051">„Kahf“ paskyroje gali būti kito tipo naršymo istorijos, kuri pasiekiama adresu <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
++<translation id="1715537866439612181">Jūsų paieškos, geriausios atitiktys ir jų puslapių turinys siunčiami „Kahf“ ir juos gali matyti tikrinantys žmonės, siekiant patobulinti šią funkciją.</translation>
+ <translation id="6116338172782435947">Peržiūrėti tekstą ir vaizdus, nukopijuotus į iškarpinę</translation>
+ <translation id="6117833587752089929">Fotopopierius (atlasinis)</translation>
+ <translation id="6118782133429281336">Kilmės sąrašas tuščias.</translation>
+ <translation id="612178891608320683">Veganiška virtuvė</translation>
+ <translation id="6122181661879998141">priekinėje kortelės dalyje</translation>
+ <translation id="6124058285696691147">Atsisiųsti priedą</translation>
+-<translation id="5972135347314259717">Brave Enterprise Connectors</translation>
++<translation id="5972135347314259717">Kahf Enterprise Connectors</translation>
+ <translation id="6126565365696310362">Nr. 2 kinietiškas vokas</translation>
+ <translation id="6127379762771434464">Elementas pašalintas</translation>
+ <translation id="6131824478727057281">vieta</translation>
+@@ -2737,14 +2737,14 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6160391204859821737">Skelbimų privatumo funkcijos įjungimas</translation>
+ <translation id="6165508094623778733">Sužinokite daugiau</translation>
+ <translation id="6167577165590485365">Paskutinis bandymas gauti:</translation>
+-<translation id="1057223975912338979">„Brave“ bando patvirtinti jūsų tapatybę, kad galėtų užpildyti mokėjimo informaciją.</translation>
++<translation id="1057223975912338979">„Kahf“ bando patvirtinti jūsų tapatybę, kad galėtų užpildyti mokėjimo informaciją.</translation>
+ <translation id="6173208311907792313">Užbaikite pirkimą naudodami „Windows Hello“</translation>
+ <translation id="6176387967264100435">Tai yra didelė kaina</translation>
+ <translation id="6177128806592000436">Ryšys su šia svetaine nėra saugus</translation>
+ <translation id="6177531123306197852">C2 vokas</translation>
+ <translation id="6180316780098470077">Pakartotinio bandymo intervalas</translation>
+ <translation id="6182972682129119950">A4x5</translation>
+-<translation id="1713601041945301465">„Brave“ automatiškai riboja trečiųjų šalių slapukus</translation>
++<translation id="1713601041945301465">„Kahf“ automatiškai riboja trečiųjų šalių slapukus</translation>
+ <translation id="6194209731893739467">Peržiūrėkite visus stebimus produktus čia</translation>
+ <translation id="6195163219142236913">Trečiųjų šalių slapukai apriboti</translation>
+ <translation id="6195371403461054755">Geologija</translation>
+@@ -2758,15 +2758,15 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6215936431492593050">Metalas (atlasinis)</translation>
+ <translation id="6217950634729714357">Virtuvės ir valgomojo baldai</translation>
+ <translation id="6218305986815100395">Nepavyko įjungti virtualios kortelės</translation>
+-<translation id="8385639954311581596">Pašalinti adresą iš „Brave“?</translation>
++<translation id="8385639954311581596">Pašalinti adresą iš „Kahf“?</translation>
+ <translation id="622039917539443112">Lygiagretus perlenkimas</translation>
+ <translation id="6221286101741304627">Jei norite išeiti iš viso ekrano režimo, paspauskite |<ph name="ACCELERATOR"/>|</translation>
+-<translation id="5286511760116495417">Ar norite išsaugoti šios kortelės informaciją „Brave“ paskyroje?</translation>
++<translation id="5286511760116495417">Ar norite išsaugoti šios kortelės informaciją „Kahf“ paskyroje?</translation>
+ <translation id="6221892641068781024">Supaprastintas rodinys</translation>
+ <translation id="6222527803348563979">Laiškinis popierius</translation>
+ <translation id="62231116988543150">Įdiegti žiniatinklio programas</translation>
+ <translation id="6224281071334553713">Brangakmeniai ir juvelyriniai dirbiniai</translation>
+-<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite suasmeninti pritaikomumo įrankius „Brave“ nustatymuose</translation>
++<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite suasmeninti pritaikomumo įrankius „Kahf“ nustatymuose</translation>
+ <translation id="6228346913624365233">Prabangios transporto priemonės</translation>
+ <translation id="6229196330202833460">Filmai ir TV transliacijos</translation>
+ <translation id="6234122620015464377">Apkarpymas po kiekvieno dokumento</translation>
+@@ -2774,17 +2774,17 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6236290670123303279">Tvarkyti nustatymus</translation>
+ <translation id="623825323736974198">Tvarkykite svetaines, kurios visada bus aktyvios ir nebus pašalintos iš atminties</translation>
+ <translation id="6240447795304464094">„Google Pay“ logotipas</translation>
+-<translation id="4174528239215311406">Jei norite naudoti „Brave“ slaptažodžių tvarkyklę savo operacinėje sistemoje, iš naujo paleiskite „Brave“ ir leiskite pasiekti kompiuterio slaptažodžių tvarkyklę. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
++<translation id="4174528239215311406">Jei norite naudoti „Kahf“ slaptažodžių tvarkyklę savo operacinėje sistemoje, iš naujo paleiskite „Kahf“ ir leiskite pasiekti kompiuterio slaptažodžių tvarkyklę. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
+ <translation id="6241121617266208201">Slėpti pasiūlymus</translation>
+ <translation id="624499991300733384">Spausdinimo rengyklės paslauga</translation>
+ <translation id="6246316216123107851">prieš <ph name="NUM_DAYS"/> d.</translation>
+ <translation id="6246868321321344665">Jūsų organizacija gali peržiūrėti naršymo duomenis, pvz., slaptažodžius ir istoriją, tiek darbo, tiek asmeniniuose profiliuose</translation>
+ <translation id="6250932670816326647">Vonios ir kūno priežiūros produktai</translation>
+ <translation id="6251906504834538140">{0,plural, =1{Failas užblokuotas, kad nebūtų galima perkelti}one{<ph name="FILE_COUNT"/> failas užblokuotas, kad nebūtų galima perkelti}few{<ph name="FILE_COUNT"/> failai užblokuoti, kad nebūtų galima perkelti}many{<ph name="FILE_COUNT"/> failo užblokuota, kad nebūtų galima perkelti}other{<ph name="FILE_COUNT"/> failų užblokuota, kad nebūtų galima perkelti}}</translation>
+-<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti failus, kuriuos atsisiuntėte naršyklėje „Brave“.</translation>
++<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti failus, kuriuos atsisiuntėte naršyklėje „Kahf“.</translation>
+ <translation id="6254436959401408446">Nepakanka atminties, kad būtų galima atidaryti šį puslapį</translation>
+ <translation id="625463612687472648">Nebeleisti</translation>
+-<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Kai perkate naršyklėje „Brave“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktį}one{Kai perkate naršyklėje „Brave“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}few{Kai perkate naršyklėje „Brave“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}many{Kai perkate naršyklėje „Brave“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}other{Kai perkate naršyklėje „Brave“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}}</translation>
++<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Kai perkate naršyklėje „Kahf“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktį}one{Kai perkate naršyklėje „Kahf“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}few{Kai perkate naršyklėje „Kahf“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}many{Kai perkate naršyklėje „Kahf“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}other{Kai perkate naršyklėje „Kahf“, žr. „<ph name="FINANCIAL_ACCOUNT_TYPES"/>“ kaip parinktis}}</translation>
+ <translation id="6259156558325130047">&amp;Pertvarkyti dar kartą</translation>
+ <translation id="6263376278284652872"><ph name="DOMAIN"/> žymės</translation>
+ <translation id="6264376385120300461">Vis tiek atsisiųsti</translation>
+@@ -2820,11 +2820,11 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6311410654831092784">Kartono lapai</translation>
+ <translation id="6312113039770857350">Tinklalapis nepasiekiamas</translation>
+ <translation id="6316110367871394043">Failo įkėlimas į „<ph name="CLOUD_PROVIDER"/>“ pristabdytas</translation>
+-<translation id="1413891145337537586">Naujiena: čia taikomi „Brave“ skirti „Family Link“ pasirinkimai</translation>
++<translation id="1413891145337537586">Naujiena: čia taikomi „Kahf“ skirti „Family Link“ pasirinkimai</translation>
+ <translation id="63172326633386613">Tvarkyti pritaikomumo nustatymus</translation>
+ <translation id="6321917430147971392">Patikrinkite DNS nustatymus</translation>
+ <translation id="6322182122604171028">Nepavyko naudoti „Windows Hello“</translation>
+-<translation id="7962450223988560278">Nustatyti „Brave“ kaip numatytąją sistemos naršyklę „iOS“ nustatymuose</translation>
++<translation id="7962450223988560278">Nustatyti „Kahf“ kaip numatytąją sistemos naršyklę „iOS“ nustatymuose</translation>
+ <translation id="6328639280570009161">Bandykite neleisti tinklo numatymo</translation>
+ <translation id="6328784461820205019">„Ryšys nėra privatus“, „&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;“, „&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;“, „&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;“, „&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;“ arba „SSL sertifikato klaida“</translation>
+ <translation id="6335029926534404762">Sportiniai bateliai</translation>
+@@ -2875,7 +2875,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="640163077447496506">Galiojimo laikas baigsis šiandien</translation>
+ <translation id="6402537308870515461">Prieš perkeliant reikia peržiūrėti</translation>
+ <translation id="6403167778944553">Lova ir vonia</translation>
+-<translation id="1939189437759050709">Skirtukų pavadinimai ir puslapių, kuriuos pridedate prie lentelės, URL siunčiami „Brave“, išsaugomi paskyroje <ph name="EMAIL"/> ir gali būti peržiūrimi tikrinančių žmonių, siekiant patobulinti šią funkciją.</translation>
++<translation id="1939189437759050709">Skirtukų pavadinimai ir puslapių, kuriuos pridedate prie lentelės, URL siunčiami „Kahf“, išsaugomi paskyroje <ph name="EMAIL"/> ir gali būti peržiūrimi tikrinančių žmonių, siekiant patobulinti šią funkciją.</translation>
+ <translation id="6404511346730675251">Redaguoti žymę</translation>
+ <translation id="6405181733356710802">Eiti toliau į „<ph name="APP_NAME"/>“?</translation>
+ <translation id="6410264514553301377">įveskite „<ph name="CREDIT_CARD"/>“ galiojimo pabaigos datą ir kortelės saugos kodą (CVC)</translation>
+@@ -2944,11 +2944,11 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="65203098586853226">Verčiama iš <ph name="SOURCE"/> į <ph name="TARGET"/></translation>
+ <translation id="6521745193039995384">Neaktyvi</translation>
+ <translation id="6522682797352430154">Klasikinė muzika</translation>
+-<translation id="7379829935006425840">Mygtukas „Tvarkyti pritaikomumo nustatymus“; suaktyvinkite, kad suasmenintumėte pritaikomumo įrankius „Brave“ nustatymuose</translation>
++<translation id="7379829935006425840">Mygtukas „Tvarkyti pritaikomumo nustatymus“; suaktyvinkite, kad suasmenintumėte pritaikomumo įrankius „Kahf“ nustatymuose</translation>
+ <translation id="6527049834925947126">Maisto gamyba</translation>
+ <translation id="6529173248185917884">Septintas ritinėlis</translation>
+ <translation id="6529602333819889595">&amp;Ištrinti dar kartą</translation>
+-<translation id="4126692285908824778">Ši kortelė išsaugota jūsų „Brave“ paskyroje, kad galėtumėte ją naudoti „Brave“ paslaugose.</translation>
++<translation id="4126692285908824778">Ši kortelė išsaugota jūsų „Kahf“ paskyroje, kad galėtumėte ją naudoti „Kahf“ paslaugose.</translation>
+ <translation id="6536221421038631327">Pašalinus „Passpoint“ prenumeratą iš „<ph name="DEVICE_TYPE"/>“ bus pašalinti susiję tinklai. Susisiekite su „<ph name="FRIENDLY_NAME"/>“ ir atlikite prenumeratos plano pakeitimus. <ph name="LEARN_MORE"/></translation>
+ <translation id="653801826293432362">Norėdami peržiūrėti palyginimo lenteles, įjunkite sinchronizavimą</translation>
+ <translation id="6539092367496845964">Įvyko klaida. Vėliau bandykite dar kartą.</translation>
+@@ -2978,26 +2978,26 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6597665340361269064">90 laipsnių</translation>
+ <translation id="6598976221101665070">Dramos</translation>
+ <translation id="6599642189720630047">Stebimi produktai</translation>
+-<translation id="5976895887103591798">„Brave“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.
++<translation id="5976895887103591798">„Kahf“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.
+             <ph name="NEW_LINE"/>Jei svetainės funkcijos neveikia, <ph name="START_LINK"/>pabandykite laikinai leisti trečiųjų šalių slapukus<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">rankų stebėjimas</translation>
+-<translation id="5887670611153282204">Sužinokite daugiau apie paieškos variklį naršyklėje „Brave“</translation>
++<translation id="5887670611153282204">Sužinokite daugiau apie paieškos variklį naršyklėje „Kahf“</translation>
+ <translation id="6615297766614333076">2 dėtuvė</translation>
+ <translation id="6619496928666593220">IBAN nenurodytas</translation>
+ <translation id="6624427990725312378">Kontaktinė informacija</translation>
+ <translation id="6628463337424475685">„<ph name="ENGINE"/>“ paieška</translation>
+ <translation id="6629652037942826935">Prabangios kelionės</translation>
+ <translation id="6630043285902923878">Ieškoma USB įrenginių...</translation>
+-<translation id="4945711024178085608">Mygtukas „Tvarkyti „Brave“ nustatymus“; suaktyvinkite, kad apsilankytumėte „Brave“ nustatymuose</translation>
++<translation id="4945711024178085608">Mygtukas „Tvarkyti „Kahf“ nustatymus“; suaktyvinkite, kad apsilankytumėte „Kahf“ nustatymuose</translation>
+ <translation id="6631133499533814479">Australiškasis futbolas</translation>
+ <translation id="663260587451432563">JIS B4</translation>
+ <translation id="6633405994164965230">Mokymas naudotis kompiuteriu</translation>
+ <translation id="6633476656216409494">Verslo ir produktyvumo programinė įranga</translation>
+-<translation id="2529518595693862042">„Brave“ integruotos saugos funkcijos, skirtos apsaugoti jus, kai naršote, pvz., „Brave“ saugaus naršymo funkcija, kurią naudojant neseniai <ph name="BEGIN_LINK"/>buvo rasta žalinga programinė įranga<ph name="END_LINK"/> svetainėje, kurioje bandote apsilankyti.</translation>
++<translation id="2529518595693862042">„Kahf“ integruotos saugos funkcijos, skirtos apsaugoti jus, kai naršote, pvz., „Kahf“ saugaus naršymo funkcija, kurią naudojant neseniai <ph name="BEGIN_LINK"/>buvo rasta žalinga programinė įranga<ph name="END_LINK"/> svetainėje, kurioje bandote apsilankyti.</translation>
+ <translation id="6643016212128521049">Išvalyti</translation>
+ <translation id="6645291930348198241">Pasiekti slapukus ir svetainės duomenis.</translation>
+ <translation id="6645478838938543427">Įspėjimai apie sumažintas kainas bus siunčiami adresu <ph name="EMAIL_ADDRESS"/></translation>
+-<translation id="6678472970290886941">Administratorius gali nuotoliniu būdu keisti naršyklės sąranką. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Brave“.</translation>
++<translation id="6678472970290886941">Administratorius gali nuotoliniu būdu keisti naršyklės sąranką. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Kahf“.</translation>
+ <translation id="6648524591329069940">Šriftas „Serif“</translation>
+ <translation id="6649510485211003056">195 x 270 mm</translation>
+ <translation id="6651270836885078973">Valdo:</translation>
+@@ -3020,9 +3020,9 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6688775486821967877">Šiuo metu virtuali kortelė nepasiekiama. Bandykite dar kartą vėliau.</translation>
+ <translation id="6688851075017682769">Bandomasis adresas pagal šalį</translation>
+ <translation id="6689249931105087298">Santykinis su juodų taškų sutankinimu</translation>
+-<translation id="5406652219015697259">„Brave“ siūlo išsaugoti korteles „Brave“ paskyroje, nes esate prisijungę. Šią elgseną galite pakeisti nustatymuose. Kortelės savininko vardas gaunamas iš jūsų paskyros.</translation>
++<translation id="5406652219015697259">„Kahf“ siūlo išsaugoti korteles „Kahf“ paskyroje, nes esate prisijungę. Šią elgseną galite pakeisti nustatymuose. Kortelės savininko vardas gaunamas iš jūsų paskyros.</translation>
+ <translation id="6691397311652656001">Atlaisvinkite daugiau nei <ph name="REQUIRED_FREE_DISK_SPACE"/> vietos</translation>
+-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada – „Enter“, kad surastumėte savo įrenginį „Brave“ paskyroje.</translation>
++<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada – „Enter“, kad surastumėte savo įrenginį „Kahf“ paskyroje.</translation>
+ <translation id="6695428916538794739">Veiksmo ir nuotykių filmai</translation>
+ <translation id="6696424331653607346">Kelionių vadovai ir paskaitos apie keliones</translation>
+ <translation id="6696575039575740785">Neleidžiama įdiegti žiniatinklio programų</translation>
+@@ -3034,7 +3034,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6704458454638854812">Nustatyta ypatybės „custom_size“ vertė yra „custom“.</translation>
+ <translation id="6706005862292023715">Užuolaidos ir langų apdaila</translation>
+ <translation id="6706210727756204531">Taikymo sritis</translation>
+-<translation id="1162411425302454249">Šio IBAN nepavyko išsaugoti jūsų „Brave“ paskyroje. Vietoje to jis išsaugotas naršyklėje „Brave“ šiame įrenginyje.</translation>
++<translation id="1162411425302454249">Šio IBAN nepavyko išsaugoti jūsų „Kahf“ paskyroje. Vietoje to jis išsaugotas naršyklėje „Kahf“ šiame įrenginyje.</translation>
+ <translation id="6709133671862442373">Naujienos</translation>
+ <translation id="6710213216561001401">Ankstesnė</translation>
+ <translation id="6710594484020273272">&lt;Įveskite paieškos terminą&gt;</translation>
+@@ -3067,10 +3067,10 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6767985426384634228">Atnaujinti adresą?</translation>
+ <translation id="6770747695101757579">Popierius (medvilninis)</translation>
+ <translation id="677257480647123231">Vaikų saugumas internete</translation>
+-<translation id="3576010969994131987">Jei nori naudoti „YouTube“, tęsk prisijungęs (-usi) prie „Brave“ paskyros</translation>
++<translation id="3576010969994131987">Jei nori naudoti „YouTube“, tęsk prisijungęs (-usi) prie „Kahf“ paskyros</translation>
+ <translation id="6775759552199460396">JIS B2</translation>
+ <translation id="6777088782163649345">„YouTube“ naudojimas su tėvų pasirinkimais</translation>
+-<translation id="4302311572898487420">„Brave“ slaptažodžių tvarkyklei reikalinga prieiga prie „MacOS Keychain“</translation>
++<translation id="4302311572898487420">„Kahf“ slaptažodžių tvarkyklei reikalinga prieiga prie „MacOS Keychain“</translation>
+ <translation id="6782656837469339439">Galiojimo pabaigos metai</translation>
+ <translation id="6786145470008421571">6 x 9 col. vokas</translation>
+ <translation id="67862343314499040">Violetinė</translation>
+@@ -3104,7 +3104,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6841864657731852591">Graviūra ant cilindro</translation>
+ <translation id="6842196666980060516">184 x 260 mm</translation>
+ <translation id="6844998850832008753">Šį kartą leidžiama stebėti rankas</translation>
+-<translation id="976643339176907534">Mygtukas „Tvarkyti saugos nustatymus“; suaktyvinkite, jei norite tvarkyti Saugaus naršymo ir kitus duomenis „Brave“ nustatymuose</translation>
++<translation id="976643339176907534">Mygtukas „Tvarkyti saugos nustatymus“; suaktyvinkite, jei norite tvarkyti Saugaus naršymo ir kitus duomenis „Kahf“ nustatymuose</translation>
+ <translation id="6852204201400771460">Įkelti programą iš naujo?</translation>
+ <translation id="6857776781123259569">Tvarkykite slaptažodžius...</translation>
+ <translation id="6858034839887287663">A2x4</translation>
+@@ -3117,13 +3117,13 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="6873456682041376666">Viršutinis dėklas</translation>
+ <translation id="6874604403660855544">&amp;Pridėti dar kartą</translation>
+ <translation id="6880941331070119097">Didelės kainos parinktis</translation>
+-<translation id="5856252669085142737">Greitai sukurkite naują „Brave“ dokumentą</translation>
++<translation id="5856252669085142737">Greitai sukurkite naują „Kahf“ dokumentą</translation>
+ <translation id="6882210908253838664">Jei svetainė neveikia, galite pabandyti suteikti jai laikiną leidimą naudoti trečiųjų šalių slapukus. <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
+ <translation id="6882418526420053414"><ph name="SITE"/> nepalaiko saugaus ryšio</translation>
+ <translation id="6883221904761970440">Saugaus mokėjimo prisijungimo duomenų autentifikavimo lapas uždarytas</translation>
+ <translation id="6884662655240309489">Dydis: 1</translation>
+ <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
+-<translation id="7265969755975834932">„Brave“ supaprastino šį puslapį, kad būtų paprasčiau skaityti. „Brave“ gavo pradinį puslapį prisijungusi nesaugiu ryšiu.</translation>
++<translation id="7265969755975834932">„Kahf“ supaprastino šį puslapį, kad būtų paprasčiau skaityti. „Kahf“ gavo pradinį puslapį prisijungusi nesaugiu ryšiu.</translation>
+ <translation id="6890443033788248019">Leisti pasiekti vietovę?</translation>
+ <translation id="6890531741535756070">Pasirinkote patvirtinti naudodami <ph name="DEVICE_LABEL"/> svetainėse, kuriose naudojama <ph name="PROVIDER_ORIGIN"/>. Šis teikėjas galėjo išsaugoti informaciją apie jūsų mokėjimo metodą, kurią <ph name="BEGIN_LINK"/>galite paprašyti ištrinti<ph name="END_LINK"/>.</translation>
+ <translation id="6890956352250146925">Slapukų ir svetainės duomenų parinktys</translation>
+@@ -3174,16 +3174,16 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="696703987787944103">Subjektyvusis</translation>
+ <translation id="6967851206780867018">Dėl turinio užblokuotas vienas failas</translation>
+ <translation id="6970885655016700774">Audinys (archyvinis)</translation>
+-<translation id="8485851762575764192">Greitai sukurkite naują „Brave“ pristatymą Skaidrėse</translation>
++<translation id="8485851762575764192">Greitai sukurkite naują „Kahf“ pristatymą Skaidrėse</translation>
+ <translation id="6972629891077993081">HID įrenginiai</translation>
+ <translation id="6973656660372572881">Nurodyti fiksuoti įgaliotieji serveriai ir .pac scenarijaus URL.</translation>
+ <translation id="6973988895180423160">3,5 x 5 col.</translation>
+ <translation id="6978121630131642226">Paieškos sistemos</translation>
+ <translation id="6978236010531171013">Vis tiek bendrinti</translation>
+-<translation id="8974669348014288088">Jei bendrinate šį įrenginį, „Brave“ gali prašyti patvirtinti kiekvieną kartą, kai mokate naudodami automatinį pildymą</translation>
+-<translation id="6979158407327259162">„Brave“ diskas</translation>
++<translation id="8974669348014288088">Jei bendrinate šį įrenginį, „Kahf“ gali prašyti patvirtinti kiekvieną kartą, kai mokate naudodami automatinį pildymą</translation>
++<translation id="6979158407327259162">„Kahf“ diskas</translation>
+ <translation id="6979440798594660689">Nutildyti (numatytasis)</translation>
+-<translation id="6984270784814146224">Nepažymėtas vaizdas. Tekstas išskiriamas pagal „Brave“ DI</translation>
++<translation id="6984270784814146224">Nepažymėtas vaizdas. Tekstas išskiriamas pagal „Kahf“ DI</translation>
+ <translation id="6987806006823772670">Vokas (dengtas)</translation>
+ <translation id="6989256887001961296">Šis turinys užblokuotas.</translation>
+ <translation id="6989763994942163495">Rodyti išplėstinius nustatymus...</translation>
+@@ -3200,14 +3200,14 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
+ <translation id="7014741021609395734">Mastelio keitimo lygis</translation>
+ <translation id="7016992613359344582">Šie mokesčiai gali būti vienkartiniai arba pasikartojantys ir gali būti neaiškūs.</translation>
+ <translation id="701757816833614688">Regimojo meno ir dizaino mokymai</translation>
+-<translation id="8683151724374457021">Ši svetainė nustato, kas jums patinka, ir siūlo skelbimus, nukreipiančius į kitas svetaines. Ši svetainė taip pat gauna informaciją apie skelbimų temas iš „Brave“, kad galėtų rodyti jums aktualesnius skelbimus.</translation>
++<translation id="8683151724374457021">Ši svetainė nustato, kas jums patinka, ir siūlo skelbimus, nukreipiančius į kitas svetaines. Ši svetainė taip pat gauna informaciją apie skelbimų temas iš „Kahf“, kad galėtų rodyti jums aktualesnius skelbimus.</translation>
+ <translation id="7023162328967545559">Administratoriaus įspėjimas</translation>
+-<translation id="7613812024276037086">„Brave“ integruotos saugos funkcijos, skirtos apsaugoti jus, kai naršote, pvz., „Brave“ saugaus naršymo funkcija, kurią naudojant <ph name="BEGIN_LINK"/>neseniai buvo rastas sukčiavimas<ph name="END_LINK"/> svetainėje, kurioje bandote apsilankyti. Sukčiavimo svetainės apsimeta kitomis svetainėmis, kad jus apgautų.<ph name="NEW_LINE"/>Net svetaines, kurios paprastai yra saugios, kartais pažeidžia atakų vykdytojai. <ph name="BEGIN_ERROR_LINK"/>Praneškite mums<ph name="END_ERROR_LINK"/>, jei manote, kad įvyko klaida ir ši svetainė nekelia pavojaus.</translation>
++<translation id="7613812024276037086">„Kahf“ integruotos saugos funkcijos, skirtos apsaugoti jus, kai naršote, pvz., „Kahf“ saugaus naršymo funkcija, kurią naudojant <ph name="BEGIN_LINK"/>neseniai buvo rastas sukčiavimas<ph name="END_LINK"/> svetainėje, kurioje bandote apsilankyti. Sukčiavimo svetainės apsimeta kitomis svetainėmis, kad jus apgautų.<ph name="NEW_LINE"/>Net svetaines, kurios paprastai yra saugios, kartais pažeidžia atakų vykdytojai. <ph name="BEGIN_ERROR_LINK"/>Praneškite mums<ph name="END_ERROR_LINK"/>, jei manote, kad įvyko klaida ir ši svetainė nekelia pavojaus.</translation>
+ <translation id="7029809446516969842">Slaptažodžiai</translation>
+ <translation id="7030164307377592766">keisti mokėjimo metodų pildymo nustatymus</translation>
+ <translation id="7031646650991750659">Kurias „Google Play“ programas įdiegėte</translation>
+ <translation id="7035705295266423040">Bankas nori patvirtinti jūsų tapatybę</translation>
+-<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti „Brave“ paskyros privatumo nustatymus.</translation>
++<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite tvarkyti „Kahf“ paskyros privatumo nustatymus.</translation>
+ <translation id="7042616127917168121">Patikslinkite rezultatus</translation>
+ <translation id="7043552168914147882">Biuro popierius</translation>
+ <translation id="7044081119134178347">Vaizdo kamera leidžiama šį kartą</translation>
+@@ -3366,8 +3366,8 @@ Papildoma išsami informacija:
+ <translation id="7353601530677266744">Komandos eilutė</translation>
+ <translation id="7356678400607112844">Paskutinį kartą lankytasi</translation>
+ <translation id="7359588939039777303">Skelbimai užblokuoti.</translation>
+-<translation id="7308957539693927108">„Brave“ radus pasiekiamų nuolaidų, jos bus rodomos atsiskaitant</translation>
+-<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada „Enter“, jei norite pridėti ir tvarkyti adresus „Brave“ nustatymuose</translation>
++<translation id="7308957539693927108">„Kahf“ radus pasiekiamų nuolaidų, jos bus rodomos atsiskaitant</translation>
++<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada „Enter“, jei norite pridėti ir tvarkyti adresus „Kahf“ nustatymuose</translation>
+ <translation id="7365849542400970216">Leisti žinoti, kada naudojamas įrenginys?</translation>
+ <translation id="736592699917579616">Maistas</translation>
+ <translation id="7366117520888504990">198 x 275 mm</translation>
+@@ -3376,7 +3376,7 @@ Papildoma išsami informacija:
+ <translation id="7372526636730851647">Fotopopierius (blizgus)</translation>
+ <translation id="7372973238305370288">paieškos rezultatas</translation>
+ <translation id="7374461526650987610">Protokolų doroklės</translation>
+-<translation id="3898257577441589237">Ši problema kyla dėl sertifikato, kurį jūs ar kitas asmuo įdiegėte įrenginyje. Žinoma, kad sertifikatas naudojamas tinklams stebėti ir nuskaityti ir nėra patikimas sistemoje „Brave“. Kai kurie stebėjimo atvejai yra teisėti, pvz., mokyklos ar įmonės tinkle, bet „Brave“ nori būti tikra, kad apie stebėjimą būsite informuoti, net jei jo nutraukti negalite. Stebėjimas galimas bet kurioje naršyklėje ar programoje, iš kurių pasiekiamas žiniatinklis.</translation>
++<translation id="3898257577441589237">Ši problema kyla dėl sertifikato, kurį jūs ar kitas asmuo įdiegėte įrenginyje. Žinoma, kad sertifikatas naudojamas tinklams stebėti ir nuskaityti ir nėra patikimas sistemoje „Kahf“. Kai kurie stebėjimo atvejai yra teisėti, pvz., mokyklos ar įmonės tinkle, bet „Kahf“ nori būti tikra, kad apie stebėjimą būsite informuoti, net jei jo nutraukti negalite. Stebėjimas galimas bet kurioje naršyklėje ar programoje, iš kurių pasiekiamas žiniatinklis.</translation>
+ <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nėra leidžiamų svetainių}=1{Leidžiama viena svetainė}one{Leidžiama # svetainė}few{Leidžiamos # svetainės}many{Leidžiama # svetainės}other{Leidžiama # svetainių}}</translation>
+ <translation id="7375818412732305729">Pridėtas failas</translation>
+ <translation id="7376031331622621328">Prekybos apatinis lapas</translation>
+@@ -3405,7 +3405,7 @@ Papildoma išsami informacija:
+     &lt;li&gt;Skiltyje &lt;strong&gt;Paleisties tipas&lt;/strong&gt; pasirinkite &lt;strong&gt;Išjungta&lt;/strong&gt;.
+     &lt;li&gt;Skiltyje &lt;strong&gt;Paslaugos būsena&lt;/strong&gt; spustelėkite &lt;strong&gt;Sustabdyti&lt;/strong&gt;.
+     &lt;li&gt;Spustelėkite &lt;strong&gt;Taikyti&lt;/strong&gt;, tada – &lt;strong&gt;Gerai&lt;/strong&gt;.
+-    &lt;li&gt;Apsilankykite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;„Brave“ pagalbos centre&lt;/a&gt;, kad sužinotumėte, kaip visam laikui pašalinti programinę įrangą iš kompiuterio.
++    &lt;li&gt;Apsilankykite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;„Kahf“ pagalbos centre&lt;/a&gt;, kad sužinotumėte, kaip visam laikui pašalinti programinę įrangą iš kompiuterio.
+     &lt;/ol&gt;</translation>
+ <translation id="7408613996403626141">Žaislai</translation>
+ <translation id="7410852728357935715">Perduoti į įrenginį</translation>
+@@ -3570,14 +3570,14 @@ Papildoma išsami informacija:
+ <translation id="767550629621587224">Iš anksto iškirpti lakštai</translation>
+ <translation id="7675756033024037212">Slinkimas ir mastelio keitimas neleidžiamas</translation>
+ <translation id="7676643023259824263">Ieškoti iškarpinės teksto „<ph name="TEXT"/>“</translation>
+-<translation id="4628681623692678085">Peržiūrėkite ir tvarkykite naršymo istoriją „Brave“ nustatymuose</translation>
++<translation id="4628681623692678085">Peržiūrėkite ir tvarkykite naršymo istoriją „Kahf“ nustatymuose</translation>
+ <translation id="7679947978757153706">Beisbolas</translation>
+ <translation id="7680990533995586733">„<ph name="CARD_NETWORK_NAME"/>“, <ph name="CARD_LAST_FOUR_DIGITS"/>, galioja iki <ph name="CARD_EXPIRATION"/></translation>
+ <translation id="7682287625158474539">Pristatymas</translation>
+ <translation id="7682451652090915298">Regbis</translation>
+ <translation id="768344142657640519">Ką tik lankėtės</translation>
+ <translation id="7684683146428206649">Metalas</translation>
+-<translation id="5626140961157260107">Mygtukas „Ištrinti naršymo duomenis“; suaktyvinkite, kad būtų ištrinta naršymo istorija, slapukai, talpyklos duomenys ir kt. „Brave“ nustatymuose</translation>
++<translation id="5626140961157260107">Mygtukas „Ištrinti naršymo duomenis“; suaktyvinkite, kad būtų ištrinta naršymo istorija, slapukai, talpyklos duomenys ir kt. „Kahf“ nustatymuose</translation>
+ <translation id="7684928361160505327">{0,plural, =1{Failas „<ph name="FILE_NAME"/>“ užblokuotas dėl politikos}one{<ph name="FILE_COUNT"/> failas užblokuotas dėl politikos}few{<ph name="FILE_COUNT"/> failai užblokuoti dėl politikos}many{<ph name="FILE_COUNT"/> failo užblokuota dėl politikos}other{<ph name="FILE_COUNT"/> failų užblokuota dėl politikos}}</translation>
+ <translation id="7687186412095877299">Užpildomos mokėjimo formos naudojant išsaugotus mokėjimo metodus</translation>
+ <translation id="7687305263118037187">Baigėsi pakartotinio bandymo laikas</translation>
+@@ -3651,7 +3651,7 @@ Papildoma išsami informacija:
+ <translation id="7805906048382884326">Uždaryti patarimą</translation>
+ <translation id="7810410097247356677">Kad kitą kartą galėtumėte sparčiau atlikti mokėjimą, išsaugokite kortelės duomenis ir šifruotą saugos kodą įrenginyje</translation>
+ <translation id="7812922009395017822">Mir</translation>
+-<translation id="4670564340385807132">Pašalinti formos pasiūlymą iš „Brave“?</translation>
++<translation id="4670564340385807132">Pašalinti formos pasiūlymą iš „Kahf“?</translation>
+ <translation id="781440967107097262">Bendrinti iškarpinę?</translation>
+ <translation id="7814857791038398352">Microsoft OneDrive</translation>
+ <translation id="7815352264092918456">Popierius (paprastas)</translation>
+@@ -3684,9 +3684,9 @@ Papildoma išsami informacija:
+ <translation id="7890748547282909375">Prisijunkite prie „Microsoft OneDrive“, kad išsaugotumėte ekrano kopiją</translation>
+ <translation id="7894280532028510793">Jei parašyta tinkamai, <ph name="BEGIN_LINK"/>pabandykite paleisti tinklo diagnostiką<ph name="END_LINK"/>.</translation>
+ <translation id="7901831439558593470">7 x 9 col. vokas</translation>
+-<translation id="4362225295386962644">Kai naudojate slaptažodį, „Brave“ įspėja jus, jei jis paskelbtas internete. Tai atliekant, slaptažodžiai ir naudotojų vardai užšifruojami, kad niekas negalėtų jų perskaityti, įskaitant „Brave“.</translation>
++<translation id="4362225295386962644">Kai naudojate slaptažodį, „Kahf“ įspėja jus, jei jis paskelbtas internete. Tai atliekant, slaptažodžiai ir naudotojų vardai užšifruojami, kad niekas negalėtų jų perskaityti, įskaitant „Kahf“.</translation>
+ <translation id="7908648876066812348">Įjungiama virtuali kortelė</translation>
+-<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada „Enter“, kad pereitumėte į „Brave“ saugos patikros puslapį nustatymuose</translation>
++<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada „Enter“, kad pereitumėte į „Kahf“ saugos patikros puslapį nustatymuose</translation>
+ <translation id="791107458486222637">Grąžinamas rezultatas</translation>
+ <translation id="791551905239004656">Piešimas ir spalvinimas</translation>
+ <translation id="7916162853251942238">Lankstusis pagrindas</translation>
+@@ -3694,7 +3694,7 @@ Papildoma išsami informacija:
+ <translation id="793209273132572360">Atnaujinti adresą?</translation>
+ <translation id="7932579305932748336">Danga</translation>
+ <translation id="79338296614623784">Įveskite tinkamą telefono numerį</translation>
+-<translation id="8329449853370113380"><ph name="URL"/> nori leisti apsaugotą turinį. Įrenginio tapatybę patvirtins „Brave“</translation>
++<translation id="8329449853370113380"><ph name="URL"/> nori leisti apsaugotą turinį. Įrenginio tapatybę patvirtins „Kahf“</translation>
+ <translation id="7935318582918952113">DOM Distiller</translation>
+ <translation id="7937163678541954811">Šios kortelės saugos kodas (CVC) bus šifruotas ir išsaugotas jūsų įrenginyje, kad galėtumėte greičiau atsiskaityti</translation>
+ <translation id="7937554595067888181">Baigia galioti <ph name="EXPIRATION_DATE_ABBR"/></translation>
+@@ -3759,7 +3759,7 @@ Papildoma išsami informacija:
+ <translation id="8030729864112325446">Profesinis ir tęstinis mokymas</translation>
+ <translation id="8032546467100845887">Skaidrumas</translation>
+ <translation id="8035152190676905274">Rašiklis</translation>
+-<translation id="3579289742592121339">Skirtukų pavadinimai ir puslapių, kuriuos pridedate prie lentelės, URL siunčiami „Brave“</translation>
++<translation id="3579289742592121339">Skirtukų pavadinimai ir puslapių, kuriuos pridedate prie lentelės, URL siunčiami „Kahf“</translation>
+ <translation id="8037117624646282037">Kas neseniai naudojo įrenginį</translation>
+ <translation id="8037357227543935929">Klausti (numatytoji parinktis)</translation>
+ <translation id="803771048473350947">Failas</translation>
+@@ -3992,14 +3992,14 @@ Papildoma išsami informacija:
+ <translation id="8446884382197647889">Sužinokite daugiau</translation>
+ <translation id="8449155699563577224">17 x 24 col.</translation>
+ <translation id="8449836157089738489">Atidaryti viską naujoje skirtukų grupėje</translation>
+-<translation id="1785963607001474601">Administratorius gali nuotoliniu būdu atlikti profilio ir naršyklės pakeitimų, analizuoti informaciją apie naršyklę pateikdamas ataskaitas ir atlikti kitas reikiamas užduotis. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Brave“.  <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
++<translation id="1785963607001474601">Administratorius gali nuotoliniu būdu atlikti profilio ir naršyklės pakeitimų, analizuoti informaciją apie naršyklę pateikdamas ataskaitas ir atlikti kitas reikiamas užduotis. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Kahf“.  <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
+ <translation id="8457125768502047971">Neribota</translation>
+ <translation id="8458202188076138974">Letter Extra</translation>
+-<translation id="834016381901477789">Tęsdami sutinkate, kad jūsų tiksli įrenginio vietovės informacija bus renkama ir bendrinama su paskyros savininku siekiant išvengti apgaulės. Jei norite išjungti PIX naršyklėje „Brave“, eikite į <ph name="BEGIN_LINK1"/>mokėjimo nustatymus<ph name="END_LINK1"/></translation>
++<translation id="834016381901477789">Tęsdami sutinkate, kad jūsų tiksli įrenginio vietovės informacija bus renkama ir bendrinama su paskyros savininku siekiant išvengti apgaulės. Jei norite išjungti PIX naršyklėje „Kahf“, eikite į <ph name="BEGIN_LINK1"/>mokėjimo nustatymus<ph name="END_LINK1"/></translation>
+ <translation id="8460854335417802511">Įjungti</translation>
+ <translation id="8461694314515752532">Šifruokite sinchronizuojamus duomenis taikydami savo sinchronizavimo slaptafrazę</translation>
+ <translation id="8466379296835108687">{COUNT,plural, =1{1 kredito kortelė}one{# kredito kortelė}few{# kredito kortelės}many{# kredito kortelės}other{# kredito kortelių}}</translation>
+-<translation id="1912557825937556898">Eiti į „Brave“ saugos patikros puslapį nustatymuose</translation>
++<translation id="1912557825937556898">Eiti į „Kahf“ saugos patikros puslapį nustatymuose</translation>
+ <translation id="8468358362970107653">C3 vokas</translation>
+ <translation id="8469428721212363950">Mažmeninė prekyba</translation>
+ <translation id="8472700501934242014">Užblokuotos temos</translation>
+@@ -4178,7 +4178,7 @@ Papildoma išsami informacija:
+ <translation id="8813277370772331957">Priminti vėliau</translation>
+ <translation id="8814547618907885931">Žr. visas palyginimo lenteles</translation>
+ <translation id="8814707942599948500">C8 vokas</translation>
+-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, kad „Brave“ nustatymuose būtų atnaujinta naršyklė „Brave“</translation>
++<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, kad „Kahf“ nustatymuose būtų atnaujinta naršyklė „Kahf“</translation>
+ <translation id="882338992931677877">Neautomatinė dėtuvė</translation>
+ <translation id="8830320733681313421">„Hagaki“ atvirukas</translation>
+ <translation id="8830565333350631528">Žr. failus sistemoje „<ph name="CLOUD_PROVIDER"/>“</translation>
+@@ -4217,20 +4217,20 @@ Papildoma išsami informacija:
+ <translation id="8891031436559779793">Gausite pranešimą, jei kurioje nors svetainėje sumažės kaina.</translation>
+ <translation id="8891727572606052622">Netinkamas įgaliotojo serverio režimas.</translation>
+ <translation id="8894794286471754040">Pirmiau ilgasis kraštas</translation>
+-<translation id="7850375166078768069">Jei norite naudoti kitą automatinio pildymo paslaugą naršyklėje „Brave“, įjunkite ją „Android“ nustatymuose ir čia</translation>
+-<translation id="7192431032621242241">Jei nori paprašyti peržiūrėti šį turinį, tęsk prisijungęs (-usi) prie „Brave“ paskyros</translation>
++<translation id="7850375166078768069">Jei norite naudoti kitą automatinio pildymo paslaugą naršyklėje „Kahf“, įjunkite ją „Android“ nustatymuose ir čia</translation>
++<translation id="7192431032621242241">Jei nori paprašyti peržiūrėti šį turinį, tęsk prisijungęs (-usi) prie „Kahf“ paskyros</translation>
+ <translation id="8897428486789851669">Plaukimas</translation>
+ <translation id="8899807382908246773">Nepageidaujami skelbimai</translation>
+ <translation id="8903921497873541725">Artinti</translation>
+ <translation id="890493561996401738">Pašalinkite pasiūlymo mygtuką, paspauskite „Enter“, kad pašalintumėte, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
+ <translation id="8910898109640902752">8 x 10 col.</translation>
+-<translation id="4805806622840861220">Iš naujo paleisti „Brave“</translation>
++<translation id="4805806622840861220">Iš naujo paleisti „Kahf“</translation>
+ <translation id="8918062451146297192">Virtualios kortelės saugos kodas (CVC)</translation>
+ <translation id="8919740778133505789">Sportiniai automobiliai</translation>
+ <translation id="8919895429178014996">Slėpti visus elementus</translation>
+ <translation id="8922013791253848639">Visada leisti skelbimus šioje svetainėje</translation>
+ <translation id="8922734931659847428">Ribotas puslapių, kuriuose lankotės ir kuriuose vyksta <ph name="BEGIN_LINK"/>įvykiai, susiję su pasenusiomis technologijomis<ph name="END_LINK"/>, URL sąrašas</translation>
+-<translation id="3689838371654876064">Kai saugos įvykius pažymi „Brave“, atitinkami įvykių duomenys išsiunčiami administratoriui. Tai gali būti naršyklėje „Brave“ lankomų puslapių URL, puslapių, iš kurių nukopijavote duomenis, URL, failų pavadinimai ar metaduomenys, naršyklės ar skirtukų strigtys ir naudotojo vardas, kurį naudodami prisijungiate prie žiniatinklio programų, įrenginio ir „Brave“.</translation>
++<translation id="3689838371654876064">Kai saugos įvykius pažymi „Kahf“, atitinkami įvykių duomenys išsiunčiami administratoriui. Tai gali būti naršyklėje „Kahf“ lankomų puslapių URL, puslapių, iš kurių nukopijavote duomenis, URL, failų pavadinimai ar metaduomenys, naršyklės ar skirtukų strigtys ir naudotojo vardas, kurį naudodami prisijungiate prie žiniatinklio programų, įrenginio ir „Kahf“.</translation>
+ <translation id="892588693504540538">Skylė viršuje dešinėje</translation>
+ <translation id="8926389886865778422">Neklauskite dar kartą</translation>
+ <translation id="8932102934695377596">Jūsų laikrodis atsilieka</translation>
+@@ -4294,7 +4294,7 @@ Papildoma išsami informacija:
+ <translation id="9049981332609050619">Bandėte pasiekti <ph name="DOMAIN"/>, bet serveris pateikė neteisingą sertifikatą.</translation>
+ <translation id="9050666287014529139">Slaptafrazė</translation>
+ <translation id="9051072642122229460">Kavos ir espreso gaminimo aparatai</translation>
+-<translation id="104719866786855422">Pristatome naują skelbimų privatumo funkciją, vadinamą skelbimų vertinimu. „Brave“ bendrina tik labai ribotą informaciją svetainėse, pvz., kada skelbimas buvo rodomas, kad padėtų svetainėms įvertinti skelbimų našumą.</translation>
++<translation id="104719866786855422">Pristatome naują skelbimų privatumo funkciją, vadinamą skelbimų vertinimu. „Kahf“ bendrina tik labai ribotą informaciją svetainėse, pvz., kada skelbimas buvo rodomas, kad padėtų svetainėms įvertinti skelbimų našumą.</translation>
+ <translation id="9053955920216300738">Kuriuose URL lankotės</translation>
+ <translation id="9054288282721240609">Leidžiama stebėti rankas</translation>
+ <translation id="9056953843249698117">Parduotuvė</translation>
+@@ -4318,17 +4318,17 @@ Papildoma išsami informacija:
+ <translation id="9090993752571911635">Interneto paslaugų teikėjai (IPT)</translation>
+ <translation id="9093723786115107672">Naktiniai drabužiai</translation>
+ <translation id="9094544726794842788">Spustelėjus mygtuką „Nepatinka“ atidaroma forma, kurią naudojant galima pateikti išsamų atsiliepimą apie tai, kodėl jums nepatinka šie rezultatai</translation>
+-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada „Enter“, kad nustatytumėte „Brave“ kaip numatytąją sistemos naršyklę „iOS“ nustatymuose</translation>
++<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>; paspauskite tabuliavimo klavišą, tada „Enter“, kad nustatytumėte „Kahf“ kaip numatytąją sistemos naršyklę „iOS“ nustatymuose</translation>
+ <translation id="9101450247048146228">Naudoti ir judinti vaizdo kameras (<ph name="CAMERAS_COUNT"/>)</translation>
+ <translation id="9101630580131696064">1 dėklas</translation>
+-<translation id="6373940988468425649">Svetainėje <ph name="SITE"/> įprastai naudojama šifruotė informacijai apsaugoti. Šį kartą „Brave“ bandant prisijungti prie <ph name="SITE"/>, ji pateikė neįprastus ir netinkamus prisijungimo duomenis. Gali būti, kad užpuolėjas bando apsimesti svetaine <ph name="SITE"/> arba „Wi-Fi“ prisijungimo ekrane nutrūko ryšys. Jūsų informacija vis tiek liko apsaugota, nes „Brave“ sustabdė prisijungimą prieš apsikeitimą bet kokiais duomenimis.</translation>
++<translation id="6373940988468425649">Svetainėje <ph name="SITE"/> įprastai naudojama šifruotė informacijai apsaugoti. Šį kartą „Kahf“ bandant prisijungti prie <ph name="SITE"/>, ji pateikė neįprastus ir netinkamus prisijungimo duomenis. Gali būti, kad užpuolėjas bando apsimesti svetaine <ph name="SITE"/> arba „Wi-Fi“ prisijungimo ekrane nutrūko ryšys. Jūsų informacija vis tiek liko apsaugota, nes „Kahf“ sustabdė prisijungimą prieš apsikeitimą bet kokiais duomenimis.</translation>
+ <translation id="9107199998619088551">„<ph name="MANAGER"/>“ tvarko jūsų profilį</translation>
+ <translation id="9107467864910557787">Jūsų naršyklę tvarko <ph name="MANAGER"/></translation>
+ <translation id="91108059142052966">Pagal administratoriaus politiką ekrano bendrinimas su „<ph name="APPLICATION_TITLE"/>“ išjungiamas, kai matomas konfidencialus turinys</translation>
+ <translation id="9114524666733003316">Kortelė patvirtinama...</translation>
+-<translation id="3582535072753734287">Šios naršyklės netvarko įmonė ar kita organizacija. Veiklą šiame įrenginyje galima tvarkyti ne naršyklėje „Brave“. <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
+-<translation id="7839260860373627374">Daugiau apie skelbimus naršyklėje „Brave“</translation>
+-<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, kad tęstumėte veiksmus ir galėtumėte matyti atitinkamą veiklą „Brave“ istorijoje</translation>
++<translation id="3582535072753734287">Šios naršyklės netvarko įmonė ar kita organizacija. Veiklą šiame įrenginyje galima tvarkyti ne naršyklėje „Kahf“. <ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/></translation>
++<translation id="7839260860373627374">Daugiau apie skelbimus naršyklėje „Kahf“</translation>
++<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, kad tęstumėte veiksmus ir galėtumėte matyti atitinkamą veiklą „Kahf“ istorijoje</translation>
+ <translation id="9119042192571987207">Įkelta</translation>
+ <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> nori patvirtinti jūsų tapatybę</translation>
+ <translation id="912327514020027767">Sijonai</translation>
+@@ -4387,33 +4387,33 @@ Papildoma išsami informacija:
+ <translation id="9210825002219699214">Kelionės lėktuvu</translation>
+ <translation id="9211461151375991073">Įveskite @, jei norite ieškoti <ph name="FEATURED_SEARCH_LIST"/></translation>
+ <translation id="9213433120051936369">Išvaizdos tinkinimas</translation>
+-<translation id="2206050430829841793">Programa neleidžia „Brave“ saugiai prisijungti prie svetainės</translation>
++<translation id="2206050430829841793">Programa neleidžia „Kahf“ saugiai prisijungti prie svetainės</translation>
+ <translation id="92178312226016010">Stebite šį produktą.</translation>
+ <translation id="9218430445555521422">Nustatyti kaip numatytąjį</translation>
+ <translation id="9219103736887031265">Vaizdai</translation>
+-<translation id="142389341645668510">Tinkinti „Brave“</translation>
++<translation id="142389341645668510">Tinkinti „Kahf“</translation>
+ <translation id="9222403027701923763">Pradinis ir vidurinis išsilavinimas (K-12)</translation>
+ <translation id="93020190163435405">Stažuotės</translation>
+ <translation id="933712198907837967">Diners Club</translation>
+ <translation id="934634059306213385">Leisti programai „<ph name="APP_NAME"/>“ nustatyti „Wi-Fi“ tinklus?</translation>
+-<translation id="7486559383537872796">Galite prarasti prieigą prie „Brave“ paskyros. „Brave“ rekomenduoja pakeisti slaptažodį dabar. Bus prašoma prisijungti.</translation>
+-<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Kokie duomenys naudojami:<ph name="END_BOLD"/> skelbimų temos yra pagrįstos jūsų naujausia naršymo istorija, svetainių, kuriose lankėtės naudodami „Brave“ šiame įrenginyje, sąrašu.</translation>
++<translation id="7486559383537872796">Galite prarasti prieigą prie „Kahf“ paskyros. „Kahf“ rekomenduoja pakeisti slaptažodį dabar. Bus prašoma prisijungti.</translation>
++<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Kokie duomenys naudojami:<ph name="END_BOLD"/> skelbimų temos yra pagrįstos jūsų naujausia naršymo istorija, svetainių, kuriose lankėtės naudodami „Kahf“ šiame įrenginyje, sąrašu.</translation>
+ <translation id="937885410143139026">Duomenys išsiųsti į administratoriaus pultą</translation>
+ <translation id="939736085109172342">Naujas aplankas</translation>
+ <translation id="940524522703752213">Failų įkėlimas į „<ph name="CLOUD_PROVIDER"/>“ bus pradėtas po <ph name="MINUTES"/> min.</translation>
+-<translation id="6588091288231158998">Naudoti „Brave“ paskyroje išsaugotus slaptažodžius ir prieigos raktus</translation>
+-<translation id="5444457503062019851">„Brave“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.</translation>
++<translation id="6588091288231158998">Naudoti „Kahf“ paskyroje išsaugotus slaptažodžius ir prieigos raktus</translation>
++<translation id="5444457503062019851">„Kahf“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.</translation>
+ <translation id="945855313015696284">Patikrinkite toliau pateiktą informaciją ir ištrinkite visas netinkamas korteles</translation>
+ <translation id="94613679163347541">Palyginti „<ph name="CATEGORY"/>“?</translation>
+-<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują svetainę „Brave“ svetainėse</translation>
+-<translation id="7776043919629791284">{COUNT,plural, =0{„Brave“ šiandien vėl apribos slapukus}=1{„Brave“ rytoj vėl apribos slapukus}one{Liko # diena, kol „Brave“ vėl apribos slapukus}few{Liko # dienos, kol „Brave“ vėl apribos slapukus}many{Liko # dienos, kol „Brave“ vėl apribos slapukus}other{Liko # dienų, kol „Brave“ vėl apribos slapukus}}</translation>
++<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują svetainę „Kahf“ svetainėse</translation>
++<translation id="7776043919629791284">{COUNT,plural, =0{„Kahf“ šiandien vėl apribos slapukus}=1{„Kahf“ rytoj vėl apribos slapukus}one{Liko # diena, kol „Kahf“ vėl apribos slapukus}few{Liko # dienos, kol „Kahf“ vėl apribos slapukus}many{Liko # dienos, kol „Kahf“ vėl apribos slapukus}other{Liko # dienų, kol „Kahf“ vėl apribos slapukus}}</translation>
+ <translation id="949314938206378263">Prašėte leidimo apsilankyti šioje svetainėje. Vienas iš tėvų gali atsakyti programoje „Family Link“.</translation>
+ <translation id="950736567201356821">Trys skylės viršuje</translation>
+ <translation id="961663415146723894">Įrišimas apačioje</translation>
+ <translation id="961856697154696964">Ištrinti naršymo duomenis</translation>
+ <translation id="961930410699694996">Vietovės informacija leidžiama šį kartą</translation>
+ <translation id="962484866189421427">Šis turinys gali bandyti įdiegti klaidinančių programų, kurios apsimeta kitomis programomis, arba rinkti duomenis, naudojamus jums stebėti. <ph name="BEGIN_LINK"/>Rodyti vis tiek<ph name="END_LINK"/></translation>
+-<translation id="776356972507701422">Atsižvelgdama į jūsų regiono įstatymus, „Brave“ prašo pasirinkti numatytąjį paieškos variklį. Šie paieškos varikliai populiarūs jūsų regione ir rodomi atsitiktine tvarka.</translation>
++<translation id="776356972507701422">Atsižvelgdama į jūsų regiono įstatymus, „Kahf“ prašo pasirinkti numatytąjį paieškos variklį. Šie paieškos varikliai populiarūs jūsų regione ir rodomi atsitiktine tvarka.</translation>
+ <translation id="963837307749850257">Visi vartotojai</translation>
+ <translation id="964050462028070434">Tvarkyti slaptažodžius ir „passkey“…</translation>
+ <translation id="969892804517981540">Oficialiai pagaminta</translation>
+@@ -4448,7 +4448,7 @@ Papildoma išsami informacija:
+ <translation id="997986563973421916">Iš „Google Pay“</translation>
+ <translation id="8820817407110198400">Žymės</translation>
+ <translation id="8362995731815961365">Šį kompiuterį nustatęs asmuo pasirinko blokuoti šią svetainę.</translation>
+-<translation id="896703648578722320">Kai prie „Brave“ pridedami plėtiniai, atitinkami duomenys apie šiuos plėtinius siunčiami trečiosioms šalims analizei atlikti ir gali būti matomi administratoriui. Duomenys apima informaciją apie plėtinius, pvz., pavadinimą, diegimo laiką, diegimo šaltinį, taip pat su šiais plėtiniais susijusią veiklą (pvz., skirtukų keitimą, susisiekimą su svetainėmis ar prieigą prie slapukų). Šie duomenys renkami apie plėtinius, įdiegtus iš internetinės parduotuvės, ir apie plėtinius, įdiegtus ne iš šios parduotuvės.</translation>
++<translation id="896703648578722320">Kai prie „Kahf“ pridedami plėtiniai, atitinkami duomenys apie šiuos plėtinius siunčiami trečiosioms šalims analizei atlikti ir gali būti matomi administratoriui. Duomenys apima informaciją apie plėtinius, pvz., pavadinimą, diegimo laiką, diegimo šaltinį, taip pat su šiais plėtiniais susijusią veiklą (pvz., skirtukų keitimą, susisiekimą su svetainėmis ar prieigą prie slapukų). Šie duomenys renkami apie plėtinius, įdiegtus iš internetinės parduotuvės, ir apie plėtinius, įdiegtus ne iš šios parduotuvės.</translation>
+ <translation id="4075123085690634698">Atidarykite puslapį naujame inkognito lange (⇧⌘N)</translation>
+ <translation id="2388886110302389394">Atidarykite puslapį naujame inkognito lange („Ctrl“ – „Shift“ – N)</translation>
+ <translation id="6957624206566198865">Atidarykite puslapį naujame inkognito skirtuke</translation>

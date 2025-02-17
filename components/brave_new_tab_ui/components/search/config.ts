@@ -11,7 +11,8 @@ import { SearchEngineInfo } from "../../api/background";
 const ENABLED_SEARCH_ENGINES_KEY = 'search-engines'
 const LAST_SEARCH_ENGINE_KEY = 'last-search-engine'
 
-export const braveSearchHost = 'search.brave.com'
+// export const braveSearchHost = 'search.brave.com'
+export const googleSearchHost = 'www.google.com'
 export const searchBoxRadius = radius.xl;
 
 let cache: Record<string, boolean> | undefined
@@ -20,7 +21,7 @@ const getConfig = () => {
   if (!cache) {
     cache = JSON.parse(localStorage.getItem(ENABLED_SEARCH_ENGINES_KEY)!) ?? {
       // Default to enabling Brave Search
-      [braveSearchHost]: true
+      [googleSearchHost]: true
     }
   }
   return cache!
@@ -32,7 +33,7 @@ export const hasEnabledEngine = () => Object.values(getConfig()).find(c => c)
 export const maybeEnableDefaultEngine = () => {
   // If no engines are enabled, enable the default one.
   if (!hasEnabledEngine()) {
-    setEngineEnabled({ host: braveSearchHost }, true)
+    setEngineEnabled({ host: googleSearchHost }, true)
   }
 }
 
@@ -53,7 +54,7 @@ export const getDefaultSearchEngine = () => {
   // one, or Brave Search.
   if (!config[last!]) {
     return Object.entries(config).find(([key, value]) => value)?.[0]
-      ?? braveSearchHost
+      ?? googleSearchHost
   }
   return last
 }

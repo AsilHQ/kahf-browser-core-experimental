@@ -75,7 +75,7 @@ function HelpImprove () {
             isChecked={isMetricsReportingEnabled}
           >
             {diagnosticReportsLabel.beforeTag}
-            <a href="https://support.brave.com/hc/en-us/articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank">
+            <a href="https://kahfbrowser.com/articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank">
               {diagnosticReportsLabel.duringTag}
             </a>
             {diagnosticReportsLabel.afterTag}
@@ -86,7 +86,7 @@ function HelpImprove () {
             isChecked={isP3AEnabled}
           >
             {braveProductUsageDataLabel.beforeTag}
-            <a href="https://support.brave.com/hc/en-us/articles/9140465918093-What-is-P3A-in-Brave-" target="_blank">
+            <a href="https://kahfbrowser.com/articles/9140465918093-What-is-P3A-in-Brave-" target="_blank">
               {braveProductUsageDataLabel.duringTag}
             </a>
             {braveProductUsageDataLabel.afterTag}
@@ -104,13 +104,13 @@ function HelpImprove () {
           </Button>
           <S.FootNote>
             {changeSettingsNote.beforeTag}
-            <a href="brave://settings/privacy" onClick={handleOpenSettingsPage}>
+            <a href="kahf://settings/privacy" onClick={handleOpenSettingsPage}>
               {changeSettingsNote.duringTag}
             </a>
             {changeSettingsNote.afterTag}
             <span>
               {readPrivacyPolicy.beforeTag}
-              <a href="https://brave.com/privacy/browser" target="_blank">
+              <a href="https://kahfbrowser.com/" target="_blank">
                 {readPrivacyPolicy.duringTag}
               </a>
               {readPrivacyPolicy.afterTag}

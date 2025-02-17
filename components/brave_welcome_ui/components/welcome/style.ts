@@ -55,14 +55,17 @@ export const Box = styled.div`
   }
 
   .view-title {
-    font-weight: 600;
-    font-size: 36px;
+    font-weight: 700;
+    font-size: 34px;
     margin: 0 0 18px 0;
+    color black
   }
 
   .view-desc {
     font-weight: 400;
-    font-size: 20px;
+    font-size: 12px;
+    color:black;
+    padding:0 34px;
     margin: 0;
   }
 
@@ -85,11 +88,14 @@ export const ActionBox = styled.div`
   display: flex;
   flex-direction: column;
   grid-gap: 10px;
-  padding: 0 40px;
+  padding: 40px 40px;
   max-width: 450px;
   margin: 0 auto 40px auto;
 
   button {
     color: white;
+  }
+  button:nth-child(2) {
+    color: black; 
   }
 `

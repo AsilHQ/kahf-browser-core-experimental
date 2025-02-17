@@ -1,6 +1,6 @@
 # How to contribute translations
 
-There are several things you can do to help us internationalize Brave and provide a great experience for everybody
+There are several things you can do to help us internationalize Kahf and provide a great experience for everybody
 
 ## Providing a translation
 

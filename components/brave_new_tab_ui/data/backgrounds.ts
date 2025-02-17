@@ -4,20 +4,81 @@
 
 export const images: NewTab.BraveBackground[] = [{
   'type': 'brave',
-  'wallpaperImageUrl': 'dylan-malval_sea-min.webp',
-  'author': 'Dylan Malval',
-  'link': 'https://www.instagram.com/vass_captures/',
+  'wallpaperImageUrl': 'ekrem-osmanoglu-2R0gbZXaUqM-unsplash.webp',
+  'author': 'Resulmuslu',
+  'link': 'https://depositphotos.com/photo/istanbul-turkey-beautiful-istanbul-sunrise-landscape-ortakoy-istanbul-bosphorus-bridge-448562958.html',
   'originalUrl': 'Contributor sent the hi-res version through email',
   'license': 'used with permission'
-}]
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'ayse-bek-YLdYVzHopto-unsplash.webp',
+    'author': 'kanuman',
+    'link': 'https://depositphotos.com/photo/beautiful-architecture-of-jerusalem-100199214.html',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'fahrul-azmi-gyKmF0vnfBs-unsplash.webp',
+    'author': 'EyeEm',
+    'link': 'https://www.freepik.com/premium-photo/illuminated-mosque-by-sea-dusk_126169533.htm#fromView=author&page=17&position=26&uuid=be227329-bf1d-4662-89f8-01a51a35c254&query=Al+Hussain+Mosque',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'fatih-yurur-kNSREmtaGOE-unsplash.webp',
+    'author': 'Alenthien',
+    'link': 'https://depositphotos.com/photo/kota-kinabalu-floating-mosque-dramatics-clouds-sunset-beautiful-sunset-kota-213862416.html',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'abdurahman-iseini-DNwQ35LdxXQ-unsplash.webp',
+    'author': 'anujakjaimook',
+    'link': 'https://depositphotos.com/photo/sultan-omar-ali-saifuddien-mosque-in-brunei-72569583.html',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'Sultan-Qaboos.webp',
+    'author': 'emilymwilson@comcast.net',
+    'link': 'https://depositphotos.com/photo/middle-east-arabian-peninsula-oman-muscat-sunset-view-sultan-qaboos-442500928.html',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'Mosque-interior.webp',
+    'author': 'Garry Killian',
+    'link': 'https://www.freepik.com/free-photo/moon-light-shine-through-window-into-islamic-mosque-interior_15347313.htm',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  },
+
+  {
+    'type': 'brave',
+    'wallpaperImageUrl': 'Melaka-Malacca.webp',
+    'author': 'fiz_zero',
+    'link': 'https://www.shutterstock.com/image-photo/sunset-long-exposure-sky-strait-mosque-251354668',
+    'originalUrl': 'Contributor sent the hi-res version through email',
+    'license': 'used with permission'
+  }
+]
 // If you change the size of this array (e.g. adding a new background, adding a new property),
 // then you must also update `script/generate_licenses.py`
 
 export const updateImages = (newImages: NewTab.BraveBackground[]) => {
   if (!newImages.length) {
+    return
     // This can happen when the component for NTP is not downloaded yet on
     // a fresh profile.
-    return
   }
 
   images.splice(0, images.length, ...newImages)
@@ -45,4 +106,4 @@ export const gradientColorsForBackground: NewTab.ColorBackground[] = [
   'linear-gradient(128.12deg, #4F86E2 6.66%, #694CD9 83.35%)',
   'linear-gradient(127.39deg, #851B6A 6.04%, #C83553 86.97%)',
   'linear-gradient(130.39deg, #FE6F4C 9.83%, #C53646 85.25%)'
-].map((color): NewTab.ColorBackground => ({ 'type': 'color', 'wallpaperColor': color }))
+].map((color): NewTab.ColorBackground => ({ 'type': 'color', 'wallpaperColor': color }));

@@ -1,0 +1,51 @@
+diff a/components/resources/strings/brave_components_resources_ru.xtb b/components/resources/strings/brave_components_resources_ru.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Подключите аккаунт bitFlyer</translation>
+ <translation id="6143701117592994599">Если вы подключите Kahf Награды к аккаунту bitFlyer, то сможете зарабатывать и выводить токены BAT.</translation>
+ <translation id="4354564238172327160">Станьте автором Kahf!</translation>
+-<translation id="4639659520811817892">Зарегистрируйтесь на сайте creators.brave.com и получайте BAT от поклонников и подписчиков.</translation>
++<translation id="4639659520811817892">Зарегистрируйтесь на сайте creators.Kahf.com и получайте BAT от поклонников и подписчиков.</translation>
+ <translation id="4816455138209470435">Kahf поддерживает YouTube, Twitch, Vimeo и многие другие платформы!</translation>
+ <translation id="7404779623219601861">Использовать BAT для подарочных карт</translation>
+ <translation id="6215565499749144110">С сетью TAP вы можете использовать BAT для оплаты подарочных карт популярных торговых брендов.</translation>
+@@ -607,7 +607,7 @@
+ <translation id="5379685283876547860">Взнос отправлен!</translation>
+ <translation id="7063168612616047608">Благодарим вас за поддержку любимых авторов</translation>
+ <translation id="1041398280582063935">Поделиться</translation>
+-<translation id="4001190813297686107">Скоро автор получит мой взнос в размере <ph name="AMOUNT"/> BAT. Спасибо браузеру Kahf! Вы тоже можете поддержать любимые сайты или создателей контента. Узнайте, как именно, по ссылке: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Скоро автор получит мой взнос в размере <ph name="AMOUNT"/> BAT. Спасибо браузеру Kahf! Вы тоже можете поддержать любимые сайты или создателей контента. Узнайте, как именно, по ссылке: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Неизвестная ошибка</translation>
+ <translation id="2605703631071131439">Перезагрузите раздел «Взносы».</translation>
+ <translation id="8855543392451028706">Приветствуем! Вы можете поддержать автора, отправив вознаграждение. Таким образом вы благодарите его за создание качественного контента.</translation>
+@@ -685,11 +685,11 @@
+ <translation id="7666058404763778706">Автоматические выплаты авторам и сайтам на основе того, как долго вы просматривали их контент.</translation>
+ <translation id="4319242254058427792">Регулярные взносы отключены</translation>
+ <translation id="1091835891554961609">Здесь будут появляться подтвержденные авторы, чей контент вы смотрели.</translation>
+-<translation id="7714706530499503523">Если вы их включите, то авторы, подтвердившие свой статус в Brave, будут автоматически получать от вас выплаты. Бюджет распределяется на основе того, как долго вы смотрели их контент.</translation>
++<translation id="7714706530499503523">Если вы их включите, то авторы, подтвердившие свой статус в Kahf, будут автоматически получать от вас выплаты. Бюджет распределяется на основе того, как долго вы смотрели их контент.</translation>
+ <translation id="2358028754328876971">Как работают регулярные взносы?</translation>
+ <translation id="2870560284913253234">Сайт</translation>
+ <translation id="1184072843013036520">Покупайте товары с нашим логотипом.</translation>
+-<translation id="1170674812179664523">Магазин мерча Brave</translation>
++<translation id="1170674812179664523">Магазин мерча Kahf</translation>
+ <translation id="8673202990286883068">Ваши преимущества</translation>
+ <translation id="3699766258844277472">Вы еще не настроили такие выплаты.</translation>
+ <translation id="957921474773060718">Следующий взнос:</translation>
+@@ -2056,7 +2056,7 @@ other {# источника}
+ <translation id="1093419424466417703">Эта страница слишком большая для Leo, поэтому чат-бот ознакомился лишь с <ph name="PERCENTAGE"/> ее содержимого. Для точных ответов может не хватать некоторых данных.</translation>
+ <translation id="2186990448773134544">Leo не может обработать такую длинную страницу, поэтому система предварительно извлекла из нее самую важную информацию.</translation>
+ <translation id="4370698775470316661">Вы превысили лимит сообщений, поэтому не можете продолжить диалог. Чтобы помощник Leo поддерживал более длинные беседы, не упуская информацию, используйте другую модель.</translation>
+-<translation id="5719170755629028558">Улучшаем ваш ответ с помощью Brave Поиска…</translation>
++<translation id="5719170755629028558">Улучшаем ваш ответ с помощью Kahf Поиска…</translation>
+ <translation id="5794962229997281366">Улучшенный ответ на запрос «<ph name="SEARCH_TERMS"/>»</translation>
+ <translation id="6291843235651817590">Чат для общих целей</translation>
+ <translation id="8193130769524604031">Чат для продвинутых задач</translation>
+@@ -2266,7 +2266,7 @@ Brave имеет вспомогательную службу, которая з
+ <translation id="7423206764347669977">Изменить настройки</translation>
+ <translation id="9061845622728745852">Часовой пояс:</translation>
+ <translation id="8295393906499561642">Срок действия сеанса истек</translation>
+-<translation id="3312623558576021182">Войдите в свою <ph name="BRAVE_ACCOUNT_BEGIN"/>учетную запись Kahf <ph name="BRAVE_ACCOUNT_END"/>, чтобы обновить сеанс VPN.</translation>
++<translation id="3312623558576021182">Войдите в свою <ph name="Kahf_ACCOUNT_BEGIN"/>учетную запись Kahf <ph name="Kahf_ACCOUNT_END"/>, чтобы обновить сеанс VPN.</translation>
+ <translation id="6021669293402055982">Kahf VPN: отключено</translation>
+ <translation id="7861195049821776142">Kahf VPN: отключение…</translation>
+ <translation id="958268166261124668">Kahf VPN: подключено</translation>

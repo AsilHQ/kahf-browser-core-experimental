@@ -1600,7 +1600,7 @@
 /* Title on the button that users can click to enable Brave to resolve the SNS domain they entered. */
 "wallet.snsDomainInterstitialPageButtonProceed" = "Continue usando um servidor SNS";
 
-/* Description displayed when users chose Brave to ask them if they want the SNS to be resolved every time they enter one. The first '%@' will be replaced with a link to Brave's wiki page which will link to the providersterms of use page and privacy policy page. The last '%@' will be replaced with the value of 'snsDomainInterstitialPagePrivacyPolicy'. */
+/* Description displayed when users chose Brave to ask them if they want the SNS to be resolved every time they enter one. The first '%@' will be replaced with a link to  wiki page which will link to the providersterms of use page and privacy policy page. The last '%@' will be replaced with the value of 'snsDomainInterstitialPagePrivacyPolicy'. */
 "wallet.snsDomainInterstitialPageDescription" = "A Brave usará terceiros para resolver nomes de domínio .sol. Brave esconde seu endereço IP. Se você ativar isso, o terceiro verá que alguém está tentando visitar esses domínios .sol, mas nada mais. Para obter mais informações sobre quais terceiros usamos e suas políticas de privacidade, consulte nossa <a href=%@>página de ajuda</a>.";
 
 /* Title displayed when users chose Brave to ask them if they want the SNS to be resolved every time they enter one. */

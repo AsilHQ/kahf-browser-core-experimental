@@ -1,0 +1,298 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_en-GB.xtb b/browser/ui/android/strings/translations/android_brave_strings_en-GB.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Learn more about Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Allow (relaunch now)</translation>
+ <translation id="2433507940547922241">Appearance</translation>
+-<translation id="9040069796107003510">Brave Rewards icon</translation>
+-<translation id="6333347122924254968">Show Brave Rewards icon in address bar</translation>
++<translation id="9040069796107003510">Kahf Rewards icon</translation>
++<translation id="6333347122924254968">Show Kahf Rewards icon in address bar</translation>
+ <translation id="8495235435594442882">Enable bottom toolbar</translation>
+-<translation id="6587448235155023666">Your changes will take effect the next time you relaunch Brave</translation>
++<translation id="6587448235155023666">Your changes will take effect the next time you relaunch Kahf</translation>
+ <translation id="8701563696941209024">RELAUNCH NOW</translation>
+ <translation id="834487290629916192">LATER</translation>
+-<translation id="7207456302801184289">Welcome to Brave</translation>
++<translation id="7207456302801184289">Welcome to Kahf</translation>
+ <translation id="4117451092682672487">Privacy. Made simple.</translation>
+-<translation id="7909375417585209817">With Brave as default, every link you tap opens with Brave's privacy protections.</translation>
++<translation id="7909375417585209817">With Kahf as default, every link you tap opens with Kahf's privacy protections.</translation>
+ <translation id="7370959926683925817">Block ads. Save data. Every single day.</translation>
+-<translation id="7281027579943912834">With Brave as default, every link you tap gets Brave's ad-block protection. Every page, video, and stream.</translation>
+-<translation id="5148943178722443958">Help make Brave better.</translation>
++<translation id="7281027579943912834">With Kahf as default, every link you tap gets Kahf's ad-block protection. Every page, video, and stream.</translation>
++<translation id="5148943178722443958">Help make Kahf better.</translation>
+ <translation id="6718362830686703942">Send diagnostic reports if you experience a crash or freeze.</translation>
+-<translation id="8616157231067364693">Share private and anonymous product insights about what features are being used by Brave's users.</translation>
++<translation id="8616157231067364693">Share private and anonymous product insights about what features are being used by Kahf's users.</translation>
+ <translation id="2877653791257935258">Type a website name or URL</translation>
+-<translation id="5329830149661250028">See the Brave difference: No ads. No trackers. Way faster page load.</translation>
+-<translation id="3941792073703079607">See the Brave difference: Block ads. Save data. Stream faster.</translation>
+-<translation id="3545804467215833536">Tap to view Brave Shields</translation>
+-<translation id="1724327820822194498">See all the bad stuff Brave blocked, on every page, with Shields.</translation>
++<translation id="5329830149661250028">See the Kahf difference: No ads. No trackers. Way faster page load.</translation>
++<translation id="3941792073703079607">See the Kahf difference: Block ads. Save data. Stream faster.</translation>
++<translation id="3545804467215833536">Tap to view Kahf Shields</translation>
++<translation id="1724327820822194498">See all the bad stuff Kahf blocked, on every page, with Shields.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> and <ph name="TRACKER"/> other ads &amp; trackers blocked</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> and other ads &amp; trackers blocked</translation>
+ <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> ads &amp; trackers blocked</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Troubleshooting onboarding</translation>
+ <translation id="5808759341041733958">Choose default search engine</translation>
+ <translation id="1331593888918588693">You can always change your preference later in app settings.</translation>
+-<translation id="5806601733251372221">Brave Shields</translation>
++<translation id="5806601733251372221">Kahf Shields</translation>
+ <translation id="8537217141725709400">Earn <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Brave Rewards</translation>
++<translation id="3333887201479867589">Kahf Rewards</translation>
+ <translation id="5870330605209713397">by viewing privacy-respecting ads and support your favorite sites and creators by default.</translation>
+-<translation id="5302488867897327287">By tapping Start using Brave Rewards, you agree to the</translation>
++<translation id="5302488867897327287">By tapping Start using Kahf Rewards, you agree to the</translation>
+ <translation id="4281844954008187215">Terms of Service</translation>
+ <translation id="6871397658902960384">Start browsing</translation>
+ <translation id="454386012157232640">I didn't see an ad</translation>
+-<translation id="1448877943847791441">Brave will show your first ad in</translation>
+-<translation id="4410793187232041318">Now you'll earn token from Brave Ads.</translation>
+-<translation id="6511854390690723657">This is your first Brave ad. Tap to learn more.</translation>
+-<translation id="2070991379950719711">Start using Brave Rewards</translation>
++<translation id="1448877943847791441">Kahf will show your first ad in</translation>
++<translation id="4410793187232041318">Now you'll earn token from Kahf Ads.</translation>
++<translation id="6511854390690723657">This is your first Kahf ad. Tap to learn more.</translation>
++<translation id="2070991379950719711">Start using Kahf Rewards</translation>
+ <translation id="48520986898237073">Continue to wallet</translation>
+ <translation id="3570367516044491911">Set as default browser</translation>
+ <translation id="6800338374677644736">Set as default browser</translation>
+-<translation id="19715420010996093">Select Brave Browser and tap 'Always'</translation>
+-<translation id="3546439402724649282">Brave is already set as your default browser.</translation>
++<translation id="19715420010996093">Select Kahf Browser and tap 'Always'</translation>
++<translation id="3546439402724649282">Kahf is already set as your default browser.</translation>
+ <translation id="8389661903259423907">You've already set a default browser. You can change the default browser in your app settings.</translation>
+ <translation id="1545749641540134597">Scan QR Code</translation>
+ <translation id="5317781812114905957">Instructions</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Code expired. Generate a new one by clicking the button below.</translation>
+ <translation id="318164877797885563">This temporary code is valid for the next <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Settings exit</translation>
+-<translation id="8050847734948770789">Enable Brave Rewards</translation>
++<translation id="8050847734948770789">Enable Kahf Rewards</translation>
+ <translation id="9187185473011056079">I'm in!</translation>
+-<translation id="8185825081026121627">Earn Basic Attention Token for viewing privacy preserving Brave Rewards ads.</translation>
++<translation id="8185825081026121627">Earn Basic Attention Token for viewing privacy preserving Kahf Rewards ads.</translation>
+ <translation id="5321518976657560663">Reset error</translation>
+-<translation id="4114170343590425996">There was an error resetting Brave Rewards. Please relaunch Brave and try again.</translation>
+-<translation id="6417420737057016607">Brave Ads</translation>
+-<translation id="5611966874859284786">Show notification ads when Brave is not in use</translation>
+-<translation id="6606319453795180219">This will delete your Brave Rewards and reset all of your Brave Rewards data</translation>
++<translation id="4114170343590425996">There was an error resetting Kahf Rewards. Please relaunch Kahf and try again.</translation>
++<translation id="6417420737057016607">Kahf Ads</translation>
++<translation id="5611966874859284786">Show notification ads when Kahf is not in use</translation>
++<translation id="6606319453795180219">This will delete your Kahf Rewards and reset all of your Kahf Rewards data</translation>
+ <translation id="8293206222192510085">Add bookmark</translation>
+ <translation id="340492034650766959">Delete bookmark</translation>
+ <translation id="2149973817440762519">Edit bookmark</translation>
+@@ -464,35 +464,35 @@ Are you sure you want to do this?</translation>
+ <translation id="5582686930349810484">Fingerprinting blocked (standard)</translation>
+ <translation id="769702552748212954">Allow all fingerprinting</translation>
+ <translation id="876424292214881779">Ads and other creepy things blocked</translation>
+-<translation id="6930134873084561197">Sites often include cookies and scripts which try to identify you and your device. They want to work out who you are and follow you across the web-tracking to see what you do on every site.\n\nBrave blocks these things so that you can browse without being followed around.</translation>
+-<translation id="8553998445606452168">About Brave Shields</translation>
++<translation id="6930134873084561197">Sites often include cookies and scripts which try to identify you and your device. They want to work out who you are and follow you across the web-tracking to see what you do on every site.\n\nKahf blocks these things so that you can browse without being followed around.</translation>
++<translation id="8553998445606452168">About Kahf Shields</translation>
+ <translation id="8912304686498704084">UP</translation>
+ <translation id="4963218453264888510">DOWN</translation>
+-<translation id="7474113515179313724">You're browsing this site without Brave's privacy protections. Does it not work right with Shields up?</translation>
++<translation id="7474113515179313724">You're browsing this site without Kahf's privacy protections. Does it not work right with Shields up?</translation>
+ <translation id="4226543734057230801">Ethereum networks</translation>
+ <translation id="3504157706952484145">Filecoin networks</translation>
+ <translation id="1561541094377237745">Solana networks</translation>
+ <translation id="7141438739990875547">Bitcoin networks</translation>
+ <translation id="9055546041146396417">If this site appears broken, try Shields down.</translation>
+ <translation id="1209739344687072997">Report a broken site</translation>
+-<translation id="8510478288840333677">Let Brave's developers know that this site doesn't work properly with Shields:</translation>
+-<translation id="5429200298326665264">Note: this site address will be submitted with your Brave version number and your IP address (which will not be stored).</translation>
++<translation id="8510478288840333677">Let Kahf's developers know that this site doesn't work properly with Shields:</translation>
++<translation id="5429200298326665264">Note: this site address will be submitted with your Kahf version number and your IP address (which will not be stored).</translation>
+ <translation id="5299848999918506028">Thank you!</translation>
+-<translation id="76550953340008122">Thanks for letting Brave's developers know that there's something wrong with this site. We'll do our best to fix it!</translation>
++<translation id="76550953340008122">Thanks for letting Kahf's developers know that there's something wrong with this site. We'll do our best to fix it!</translation>
+ <translation id="650318023204990401">Advanced controls</translation>
+ <translation id="5370478469168390143">Save Data Online</translation>
+-<translation id="1118508688433541158">Browse faster and block ads with Brave</translation>
+-<translation id="7427391215172269363">Every day I save data by browsing the web with Brave.</translation>
+-<translation id="4776948189086901857">Brave works everywhere</translation>
+-<translation id="1606322780901645965">Download Brave at brave.com on your laptop or tablet for a faster and more private web</translation>
++<translation id="1118508688433541158">Browse faster and block ads with Kahf</translation>
++<translation id="7427391215172269363">Every day I save data by browsing the web with Kahf.</translation>
++<translation id="4776948189086901857">Kahf works everywhere</translation>
++<translation id="1606322780901645965">Download Kahf at brave.com on your laptop or tablet for a faster and more private web</translation>
+ <translation id="8374242949413616101">Privacy protection</translation>
+-<translation id="4955406228638026265">Brave stops ads &amp; trackers from collecting information about you without your consent.</translation>
++<translation id="4955406228638026265">Kahf stops ads &amp; trackers from collecting information about you without your consent.</translation>
+ <translation id="752842701893882688">Save data and battery</translation>
+ <translation id="1685837926613452362">Without ads &amp; trackers, websites use less data and battery. You might even save money on carrier fees.</translation>
+ <translation id="5440744330377972191">Websites load faster</translation>
+-<translation id="3000738865641747653">Loading less data means websites in Brave load faster – up to 8x faster than other browsers.</translation>
++<translation id="3000738865641747653">Loading less data means websites in Kahf load faster – up to 8x faster than other browsers.</translation>
+ <translation id="8903462729414407077">Get weekly updates</translation>
+-<translation id="7450323860390658083">Be informed about which websites you visit are the most privacy-invasive.\n\nOnly you can see these privacy statistics. No personal data or browsing history ever leaves the Brave browser on your device.</translation>
++<translation id="7450323860390658083">Be informed about which websites you visit are the most privacy-invasive.\n\nOnly you can see these privacy statistics. No personal data or browsing history ever leaves the Kahf browser on your device.</translation>
+ <translation id="6170159749517116894">Turn on privacy reports</translation>
+ <translation id="1669047024429367828">Visibility</translation>
+ <translation id="5966707198760109579">Week</translation>
+@@ -585,9 +585,9 @@ Are you sure you want to do this?</translation>
+ <translation id="1483493594462132177">Send</translation>
+ <translation id="538450413584738399">Swap</translation>
+ <translation id="4556086616242530072">Browser native.\nSelf-custody.\nAnd multi-chain.</translation>
+-<translation id="7909462264772842773">Take control of your crypto and NFTs. Brave Wallet supports Ethereum, EVM chains, Solana, Filecoin and more.</translation>
++<translation id="7909462264772842773">Take control of your crypto and NFTs. Kahf Wallet supports Ethereum, EVM chains, Solana, Filecoin and more.</translation>
+ <translation id="165255193061631296">Need a new wallet?</translation>
+-<translation id="3485737865439729577">Get started with Brave Wallet within minutes</translation>
++<translation id="3485737865439729577">Get started with Kahf Wallet within minutes</translation>
+ <translation id="2759836790106646094">Back up your wallet now!</translation>
+ <translation id="1078873179929044999">In the next step, you’ll see a 12-word recovery phrase, which you can use to recover your primary crypto accounts. Save it somewhere safe. Your recovery phrase is the only way to regain account access in case of forgotten password, lost or stolen device, or you want to switch wallets.</translation>
+ <translation id="2359808026110333948">Continue</translation>
+@@ -595,7 +595,7 @@ Are you sure you want to do this?</translation>
+ <translation id="1904000155026201268">I understand that if I lose my recovery phrase, I won’t be able to access my crypto wallet.</translation>
+ <translation id="5333225216561354793">We require that you acknowledge the items below</translation>
+ <translation id="6937275455070754004">Choose which blockchains to use in your wallet.</translation>
+-<translation id="1645800479814134195">I understand this is a self-custody wallet and that I alone am responsible for any associated funds, assets or accounts, and for taking appropriate action to secure, protect and back up my wallet. I understand that Brave cannot access my wallet or reverse transactions on my behalf and that my recovery phrase is the ONLY way to regain access in the event of a lost password, stolen device or similar circumstance.</translation>
++<translation id="1645800479814134195">I understand this is a self-custody wallet and that I alone am responsible for any associated funds, assets or accounts, and for taking appropriate action to secure, protect and back up my wallet. I understand that Kahf cannot access my wallet or reverse transactions on my behalf and that my recovery phrase is the ONLY way to regain access in the event of a lost password, stolen device or similar circumstance.</translation>
+ <translation id="4565891212173086999">I have read and agree to the <ph name="CLICK_START"/>Terms of Use<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Your recovery phrase</translation>
+ <translation id="5077747669435508720">Write down or copy these words in the exact order shown below and save them somewhere safe. Your recovery phrase is the only way to regain account access in case of a forgotten password, lost or stolen device, or if you want to switch wallets.</translation>
+@@ -616,13 +616,13 @@ Are you sure you want to do this?</translation>
+ <translation id="8030647312184163932">Fingerprint unlock</translation>
+ <translation id="4090490645603511157">Use biometrics to quickly unlock your wallet without entering your password.</translation>
+ <translation id="1544192797660353713">Wallet</translation>
+-<translation id="6901810042765869341">Enter your recovery phrase to restore your Brave Wallet crypto account.</translation>
++<translation id="6901810042765869341">Enter your recovery phrase to restore your Kahf Wallet crypto account.</translation>
+ <translation id="9120654436199628567">Restore crypto account</translation>
+ <translation id="4811736040444856406">Show recovery phrase</translation>
+ <translation id="283071225285270357">Enter your recovery phrase</translation>
+ <translation id="3943857333388298514">Paste</translation>
+ <translation id="3331452756822160641">New password</translation>
+-<translation id="4359319875297001084">Import from legacy Brave crypto wallets?</translation>
++<translation id="4359319875297001084">Import from legacy Kahf crypto wallets?</translation>
+ <translation id="2339124864228588937">Verify recovery phrase</translation>
+ <translation id="3747079125031086337">Select the words in your recovery phrase in their correct order.</translation>
+ <translation id="6518133107902771759">Verify</translation>
+@@ -656,8 +656,8 @@ Are you sure you want to do this?</translation>
+ <translation id="5760476995887363522">Phrases did not match. Please try again.</translation>
+ <translation id="2360588547830602174">Account recovery failed. Please try again.</translation>
+ <translation id="1987317783729300807">Accounts</translation>
+-<translation id="6284218950354553099">Automatically send daily usage ping to Brave</translation>
+-<translation id="2181060149810222381">This private ping lets Brave estimate active users.</translation>
++<translation id="6284218950354553099">Automatically send daily usage ping to Kahf</translation>
++<translation id="2181060149810222381">This private ping lets Kahf estimate active users.</translation>
+ <translation id="6725413948756358325">Account Name</translation>
+ <translation id="6062431965141524986">You can create a secondary account by importing your private key.</translation>
+ <translation id="3952797765659730604">Enter, paste, or import your private key string file or JSON.</translation>
+@@ -679,14 +679,14 @@ Are you sure you want to do this?</translation>
+ <translation id="1721710839767183848">No ads on the page</translation>
+ <translation id="4647035642622555398">No interruptions</translation>
+ <translation id="4122515759479497554">Search for videos</translation>
+-<translation id="4449475351935531438">Brave Firewall + VPN</translation>
++<translation id="4449475351935531438">Kahf Firewall + VPN</translation>
+ <translation id="719977489961414786">Upgrade to a VPN to protect your connection and block invasive trackers everywhere.</translation>
+ <translation id="8814357473522731680">Powered by</translation>
+ <translation id="5892534145504632332">Protect every app &amp; your whole device</translation>
+ <translation id="7195416926059527505">Safer for home or public Wi-Fi</translation>
+ <translation id="1354700000739359839">Lightning-fast, up to 100 Mbps</translation>
+ <translation id="3510283489391432976">Choose your geo/country location</translation>
+-<translation id="7695158478627528928">Brave never logs your activity</translation>
++<translation id="7695158478627528928">Kahf never logs your activity</translation>
+ <translation id="4575683170451975058">Protect 5 devices on 1 subscription</translation>
+ <translation id="4882693590083943563">All plans include a <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">free 7-day trial!</translation>
+@@ -697,14 +697,14 @@ Are you sure you want to do this?</translation>
+ <translation id="1163809943099641131">One year</translation>
+ <translation id="172859718096975160">Renew annually <ph name="DISCOUNT_TEXT_START"/>save <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / yr.</translation>
+-<translation id="5125233570742276182">Subscriptions will be charged via your Google account. Any unused portion of the free trial, if offered, is forfeited when you buy a subscription.\n\nYour subscription will renew automatically unless it is cancelled at least 24 hours before the end of the current period.\n\nYou can manage your subscriptions in Settings.\nBy using Brave, you agree to the Terms of Use and Privacy Policy.</translation>
++<translation id="5125233570742276182">Subscriptions will be charged via your Google account. Any unused portion of the free trial, if offered, is forfeited when you buy a subscription.\n\nYour subscription will renew automatically unless it is cancelled at least 24 hours before the end of the current period.\n\nYou can manage your subscriptions in Settings.\nBy using Kahf, you agree to the Terms of Use and Privacy Policy.</translation>
+ <translation id="5035172357624830412">Already purchased on brave.com?</translation>
+ <translation id="713136183174551885">Refresh your credentials</translation>
+ <translation id="6053992191006521518">Try for FREE</translation>
+ <translation id="5903391101107992067">Try 7 days free</translation>
+ <translation id="721747358270435486">Install VPN</translation>
+ <translation id="836074276610740314">Install VPN profile</translation>
+-<translation id="8021842065465097929">Brave will now install a VPN profile.</translation>
++<translation id="8021842065465097929">Kahf will now install a VPN profile.</translation>
+ <translation id="229286271464650057">This profile allows the VPN to automatically connect and secure traffic across your device — in every app, all the time. This VPN connection will be encrypted and routed through Guardian's intelligent firewall to block ads and trackers.</translation>
+ <translation id="9073255657908892407">Contact Technical Support</translation>
+ <translation id="1139934321138152517">VPN is now enabled</translation>
+@@ -932,19 +932,19 @@ If you don't accept this request, VPN will not reconnect and your Internet conne
+ <translation id="7002577172732106572">Split tunnelling</translation>
+ <translation id="8181161042860463420">The associated token account does not exist yet. A small amount of SOL will be spent to create and fund it. <ph name="CLICK_START"/>Learn more<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Updating VPN Profile ...</translation>
+-<translation id="7457027586454688423">Enter your Brave Wallet password</translation>
+-<translation id="4784306439879850873">Note that Brave can't verify what will happen if you sign. A signature could authorise nearly any operation in your account or on your behalf, including (but not limited to) giving total control of your account and crypto assets to the site making the request. Only sign if you're sure you want to take this action and trust the requesting site.</translation>
++<translation id="7457027586454688423">Enter your Kahf Wallet password</translation>
++<translation id="4784306439879850873">Note that Kahf can't verify what will happen if you sign. A signature could authorise nearly any operation in your account or on your behalf, including (but not limited to) giving total control of your account and crypto assets to the site making the request. Only sign if you're sure you want to take this action and trust the requesting site.</translation>
+ <translation id="3474375934783434676">Sign at your own risk</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> of <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Approve transaction</translation>
+ <translation id="6450792191436242818">System Program</translation>
+-<translation id="5318067544026930166">Unlock Brave Wallet with biometric authentication</translation>
+-<translation id="2629767022373384291">Would you like to use biometric authentication to unlock your Brave Wallet?</translation>
++<translation id="5318067544026930166">Unlock Kahf Wallet with biometric authentication</translation>
++<translation id="2629767022373384291">Would you like to use biometric authentication to unlock your Kahf Wallet?</translation>
+ <translation id="4782919977106118997">Use Fingerprint Unlock</translation>
+ <translation id="2054995875643283428">Skip this for now</translation>
+ <translation id="2522605225061484799">Go to my portfolio</translation>
+ <translation id="1148624853678088576">You’re all set!</translation>
+-<translation id="4131445988101719379">Your Brave Wallet is ready to use</translation>
++<translation id="4131445988101719379">Your Kahf Wallet is ready to use</translation>
+ <translation id="6252742184395380448">Config Program</translation>
+ <translation id="5358970666412490132">Stake Program</translation>
+ <translation id="346636227344244984">Vote Program</translation>
+@@ -1016,22 +1016,22 @@ If you don't accept this request, VPN will not reconnect and your Internet conne
+ <translation id="1313065465616456728">Issued at</translation>
+ <translation id="7902225556763260253">Expiration time</translation>
+ <translation id="1908159733454294871">Security risk detected</translation>
+-<translation id="5658257029899993935">Link purchase to your Brave account</translation>
+-<translation id="1187061015547219282">Link your Play Store purchase to your Brave account to use Brave VPN on other devices.</translation>
++<translation id="5658257029899993935">Link purchase to your Kahf account</translation>
++<translation id="1187061015547219282">Link your Play Store purchase to your Kahf account to use Kahf VPN on other devices.</translation>
+ <translation id="6662142137695589205">Link your VPN subscription</translation>
+-<translation id="2674077112509133024">Extend your Brave Firewall + VPN protection</translation>
+-<translation id="6365389672683343144">Your Brave VPN subscription can protect up to 5 devices, across Android, iOS and desktop. Just link your Google Play subscription to your Brave account.</translation>
++<translation id="2674077112509133024">Extend your Kahf Firewall + VPN protection</translation>
++<translation id="6365389672683343144">Your Kahf VPN subscription can protect up to 5 devices, across Android, iOS and desktop. Just link your Google Play subscription to your Kahf account.</translation>
+ <translation id="6610899852831463073">Cannot enable Safe Browsing</translation>
+ <translation id="7954263306665462056">Safe Browsing has been disabled on your device. To enable it, ensure that Google Play Services is installed and that it's up to date.</translation>
+ <translation id="6605147707233193230">Turn on to help support content creators</translation>
+ <translation id="1609556006143307897">You are helping support content creators</translation>
+-<translation id="6067959437127691361">Using Brave Rewards helps support content creators, and lets you earn BATs.</translation>
++<translation id="6067959437127691361">Using Kahf Rewards helps support content creators, and lets you earn BATs.</translation>
+ <translation id="3264975266761862670">Ready to start earning?</translation>
+ <translation id="265337947574975838">Connect or create an account with one of our partners.</translation>
+ <translation id="654447476965480878">Learn more about earning BATs</translation>
+ <translation id="6278643716658443228">Rewards settings</translation>
+ <translation id="6516984207843289176">Connect account</translation>
+-<translation id="4272136334824111854">This month, you've visited <ph name="CREATOR_COUNT"/> creators supported by Brave Rewards</translation>
++<translation id="4272136334824111854">This month, you've visited <ph name="CREATOR_COUNT"/> creators supported by Kahf Rewards</translation>
+ <translation id="6845311459433734326">Connect a custodial account so you can earn BATs and withdraw your rewards</translation>
+ <translation id="928980476243133540">I’ll do it later</translation>
+ <translation id="579702532610384533">Reconnect</translation>
+@@ -1064,8 +1064,8 @@ If you don't accept this request, VPN will not reconnect and your Internet conne
+ <translation id="346505172740911461">Market price</translation>
+ <translation id="5494920125229734069">Select all</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Sign in with Brave Wallet</translation>
+-<translation id="3696514931437952995">You are signing into <ph name="ORIGIN"/>. Brave wallet will share your wallet address with <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Sign in with Kahf Wallet</translation>
++<translation id="3696514931437952995">You are signing into <ph name="ORIGIN"/>. Kahf wallet will share your wallet address with <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">See details</translation>
+ <translation id="6759710362319508545">Resources</translation>
+ <translation id="2471230424465522689">Not before</translation>
+@@ -1074,7 +1074,7 @@ If you don't accept this request, VPN will not reconnect and your Internet conne
+ <translation id="4109670531935487117">Show autocomplete suggestions in address bar</translation>
+ <translation id="1250335737108905610">Reset and clear Leo data</translation>
+ <translation id="6165101586663336913">Resetting the Leo assistant will require you to opt-in to use Leo in the future and will also clear your chat history. Clearing your chat history will delete all your previous conversations with Leo. This action cannot be undone.</translation>
+-<translation id="3692772534525889713">Link your Play Store purchase to your Brave account to use Brave Leo on other devices.</translation>
++<translation id="3692772534525889713">Link your Play Store purchase to your Kahf account to use Kahf Leo on other devices.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Monthly</translation>
+ <translation id="451189393813405346">Ask Leo</translation>

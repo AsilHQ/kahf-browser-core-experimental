@@ -5,7 +5,7 @@
 
 import override_utils
 
-CHROMIUM_POLICY_KEY = 'SOFTWARE\\\\Policies\\\\BraveSoftware\\\\Brave'
+CHROMIUM_POLICY_KEY = 'SOFTWARE\\\\Policies\\\\Halalz\\\\Brave'
 
 @override_utils.override_function(globals())
 def _LoadJSONFile(orig_func, json_file):

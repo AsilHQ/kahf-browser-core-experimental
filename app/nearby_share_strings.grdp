@@ -24,7 +24,7 @@
     Only devices signed into <ph name="USER_EMAIL">$1<ex>example@gmail.com</ex></ph>
   </message>
   <message name="IDS_QUICK_SHARE_V2_VISIBILITY_CONTACTS_SUBLABEL" desc="Contacts visibility radio button sublabel.">
-    Only your contacts with a Brave sync chain. <ph name="LINK_BEGIN">&lt;a&gt;</ph>View contacts<ph name="LINK_END">&lt;/a&gt;</ph>
+    Only your contacts with a Kahf sync chain. <ph name="LINK_BEGIN">&lt;a&gt;</ph>View contacts<ph name="LINK_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_QUICK_SHARE_V2_VISIBILITY_EVERYONE_LABEL" desc="Everyone visibility radio button label.">
     Everyone
@@ -32,8 +32,8 @@
   <message name="IDS_QUICK_SHARE_V2_VISIBILITY_EVERYONE_SUBLABEL" desc="Everyone visibility radio button sublabel.">
     Anyone nearby
   </message>
-  <message name="IDS_QUICK_SHARE_V2_VISIBILITY_ONLY_FOR_TEN_MINUTES_LABEL" desc="Only for ten minutes checkbox label.">
-    Only for 10 minutes
+  <message name="IDS_QUICK_SHARE_V2_VISIBILITY_ONLY_FOR_TEN_MINUTES_LABEL" desc="Only for ten min checkbox label.">
+    Only for 10 min
   </message>
 
   <!-- Contact visibility component -->
@@ -43,25 +43,25 @@
   <message name="IDS_NEARBY_CONTACT_VISIBILITY_DOWNLOADING" desc="Message shown when contacts are being downloaded to show the user a list of who they will be able to share with.">
     Downloading contact list...
   </message>
-  <message name="IDS_NEARBY_CONTACT_VISIBILITY_NO_CONTACTS_SUBTITLE" desc="Help text shown when there are no reachable contacts with a Brave sync chain to select from. Nearby Share is the feature name.">
-    To use Nearby Share with these contacts, add the email address linked with their Brave sync chain to your contacts.
+  <message name="IDS_NEARBY_CONTACT_VISIBILITY_NO_CONTACTS_SUBTITLE" desc="Help text shown when there are no reachable contacts with a Kahf sync chain to select from. Nearby Share is the feature name.">
+    To use Nearby Share with these contacts, add the email address linked with their Kahf sync chain to your contacts.
   </message>
-  <message name="IDS_NEARBY_CONTACT_VISIBILITY_NO_CONTACTS_SUBTITLE_PH" desc="Feature name placeholder: Help text shown when there are no reachable contacts with a Brave sync chain to select from.">
-    To use <ph name="FEATURE_NAME">$1<ex>Nearby Share</ex></ph> with these contacts, add the email address linked with their Brave sync chain to your contacts.
+  <message name="IDS_NEARBY_CONTACT_VISIBILITY_NO_CONTACTS_SUBTITLE_PH" desc="Feature name placeholder: Help text shown when there are no reachable contacts with a Kahf sync chain to select from.">
+    To use <ph name="FEATURE_NAME">$1<ex>Nearby Share</ex></ph> with these contacts, add the email address linked with their Kahf sync chain to your contacts.
   </message>
-  <message name="IDS_NEARBY_CONTACT_VISIBILITY_NO_CONTACTS_TITLE" desc="Title text shown when there are no reachable contacts with a Brave sync chain to select from.">
+  <message name="IDS_NEARBY_CONTACT_VISIBILITY_NO_CONTACTS_TITLE" desc="Title text shown when there are no reachable contacts with a Kahf sync chain to select from.">
     No reachable contacts
   </message>
   <message name="IDS_NEARBY_CONTACT_VISIBILITY_NUM_UNREACHABLE" desc="Informational message indicating that there are contacts that are not connectable for sharing with the Nearby Share feature.">
     {COUNT, plural,
-      =1 {# contact is not available. To use Nearby Share with them, add the email address associated with their Brave sync chain to your contacts.}
-      other {# contacts are not available. To use Nearby Share with them, add the email addresses associated with their Brave sync chains to your contacts.}
+      =1 {# contact is not available. To use Nearby Share with them, add the email address associated with their Kahf sync chain to your contacts.}
+      other {# contacts are not available. To use Nearby Share with them, add the email addresses associated with their Kahf sync chains to your contacts.}
     }
   </message>
   <message name="IDS_NEARBY_CONTACT_VISIBILITY_NUM_UNREACHABLE_PH" desc="Informational message indicating that there are contacts that are not connectable for sharing with the Nearby Share feature.">
     {COUNT, plural,
-      =1 {# contact is not available. To use <ph name="FEATURE_NAME">$2<ex>Nearby Share</ex></ph> with them, add the email address associated with their Brave sync chain to your contacts.}
-      other {# contacts are not available. To use <ph name="FEATURE_NAME">$2<ex>Nearby Share</ex></ph> with them, add the email addresses associated with their Brave sync chains to your contacts.}
+      =1 {# contact is not available. To use <ph name="FEATURE_NAME">$2<ex>Nearby Share</ex></ph> with them, add the email address associated with their Kahf sync chain to your contacts.}
+      other {# contacts are not available. To use <ph name="FEATURE_NAME">$2<ex>Nearby Share</ex></ph> with them, add the email addresses associated with their Kahf sync chains to your contacts.}
     }
   </message>
   <message name="IDS_NEARBY_CONTACT_VISIBILITY_OWN_ALL" desc="Describes who can see the local device when the Nearby Share visibility setting is set to 'All contacts'.">
@@ -277,10 +277,10 @@
   <message name="IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE" desc="Describes to the user that their device is visible to nearby devices with a specific device name. This is used on the sub-title of the of high visibility receive dialog for the Nearby Share feature.">
     Visible to nearby devices as <ph name="DEVICE_NAME">$1<ex>Rea’s Chromebook</ex></ph> for <ph name="REMAINING_TIME">$2<ex>5 min</ex></ph>...
   </message>
-  <message name="IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE_MINUTES" desc="A short string showing the nearest number of whole minutes until Nearby Share high visibility turns off. To be used with IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE. [CHAR_LIMIT=7]">
+  <message name="IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE_MINUTES" desc="A short string showing the nearest number of whole min until Nearby Share high visibility turns off. To be used with IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE. [CHAR_LIMIT=7]">
     <ph name="MINUTES">$1<ex>2</ex></ph> min
   </message>
-  <message name="IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE_SECONDS" desc="A short string showing the nearest number of whole seconds until Nearby Share high visibility turns off. To be used with IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE. [CHAR_LIMIT=7]">
+  <message name="IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE_SECONDS" desc="A short string showing the nearest number of whole sec until Nearby Share high visibility turns off. To be used with IDS_NEARBY_HIGH_VISIBILITY_SUB_TITLE. [CHAR_LIMIT=7]">
     <ph name="SECONDS">$1<ex>40</ex></ph> sec
   </message>
   <message name="IDS_NEARBY_HIGH_VISIBILITY_HELP_TEXT" desc="Describes to the user that their device is visible to nearby devices with a specific device name. This is used on the sub-title of the of high visibility receive dialog for the Nearby Share feature.">

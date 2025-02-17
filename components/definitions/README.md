@@ -4,7 +4,7 @@ This directory is where we locate Typescript type definitions of Javascript APIs
 
 ### What needs a global definiton
 
-- Globally-available APIs that are not common outside of Brave - generally at `chrome.*` or `window.*`.
+- Globally-available APIs that are not common outside of Kahf - generally at `chrome.*` or `window.*`.
 - JS / NPM modules that do not already have Typescript types built-in.
 
 ### What does _not_ need a global definition

@@ -1,0 +1,355 @@
+diff a/components/strings/components_strings_ar.xtb b/components/strings/components_strings_ar.xtb	(rejected hunks)
+@@ -149,22 +149,22 @@
+     &lt;/ol&gt;</translation>
+ <translation id="1257286744552378071">لقد أدخلتَ كلمة المرور في موقع إلكتروني لا تديره مؤسستك. ينصح بعدم استخدام كلمة المرور مجددًا في التطبيقات ومواقع الويب الأخرى لحماية حسابك.</translation>
+ <translation id="1257553931232494454">مستويات التكبير أو التصغير</translation>
+-<translation id="8101828947363663989">‏<ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>، اضغط على مفتاح Tab ثم مفتاح Enter لإدارة إعدادات Brave.</translation>
++<translation id="8101828947363663989">‏<ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>، اضغط على مفتاح Tab ثم مفتاح Enter لإدارة إعدادات Kahf.</translation>
+ <translation id="1264309058268477500">الدُرج البديل</translation>
+ <translation id="1264974993859112054">رياضة</translation>
+ <translation id="1268480293435976622">ظرف صيني رقم 7</translation>
+-<translation id="53564677632020212">‏إنشاء موقع إلكتروني جديد في "مواقع Brave" بسرعة</translation>
++<translation id="53564677632020212">‏إنشاء موقع إلكتروني جديد في "مواقع Kahf" بسرعة</translation>
+ <translation id="1270328905573953738">خدمات نقل المفروشات</translation>
+ <translation id="1270502636509132238">طريقة الاستلام</translation>
+ <translation id="1273592791152866347">ميزة تتبُّع السعر غير مفعَّلة</translation>
+ <translation id="127777513559587977">برامج حوار تلفزيونية</translation>
+ <translation id="1281476433249504884">المكدِّس 1</translation>
+-<translation id="3587420677315820032">‏لملء رقم الحساب هذا بصيغة IBAN في المرة القادمة تلقائيًا، عليك حفظه في حسابك على Brave</translation>
++<translation id="3587420677315820032">‏لملء رقم الحساب هذا بصيغة IBAN في المرة القادمة تلقائيًا، عليك حفظه في حسابك على Kahf</translation>
+ <translation id="1282358575813748144">قوارب ومراكب</translation>
+ <translation id="1283977499362032052">سير ذاتية وسابقات أعمال</translation>
+ <translation id="1285320974508926690">عدم ترجمة هذا الموقع مطلقًا</translation>
+ <translation id="1292571435393770077">الدُرج 16</translation>
+-<translation id="1209478311331937175">‏"هناك برامج على جهاز الكمبيوتر تمنع اتصال Brave بالويب بأمان" (أجهزة الكمبيوتر المزوّدة بنظام التشغيل Windows فقط)</translation>
++<translation id="1209478311331937175">‏"هناك برامج على جهاز الكمبيوتر تمنع اتصال Kahf بالويب بأمان" (أجهزة الكمبيوتر المزوّدة بنظام التشغيل Windows فقط)</translation>
+ <translation id="1293797321964802402">ظرف مقاس 23 × 28 سم</translation>
+ <translation id="1294154142200295408">صيغ سطر الأوامر</translation>
+ <translation id="129553762522093515">المغلقة حديثًا</translation>
+@@ -231,11 +231,11 @@
+ <translation id="14070772729708640">تم تحميل الملفات إلى "<ph name="FOLDER_NAME"/>" على <ph name="CLOUD_PROVIDER"/></translation>
+ <translation id="1407135791313364759">فتح الكل</translation>
+ <translation id="1408787208417187241">وضع ثلاثة دبابيس بالأعلى</translation>
+-<translation id="5488251800208457874">‏لن يتمكّن مستخدمو هذا الجهاز الآخرون من الاطّلاع على نشاطك، لذا يمكنك التصفُّح بخصوصية تامة. ولن يؤدي ذلك إلى تغيير طريقة جمع البيانات من قِبل المواقع الإلكترونية التي تزورها والخدمات التي تستخدمها، بما في ذلك Brave. ولكن سيتم حفظ عمليات التنزيل والإشارات المرجعية وعناصر قائمة القراءة.</translation>
++<translation id="5488251800208457874">‏لن يتمكّن مستخدمو هذا الجهاز الآخرون من الاطّلاع على نشاطك، لذا يمكنك التصفُّح بخصوصية تامة. ولن يؤدي ذلك إلى تغيير طريقة جمع البيانات من قِبل المواقع الإلكترونية التي تزورها والخدمات التي تستخدمها، بما في ذلك Kahf. ولكن سيتم حفظ عمليات التنزيل والإشارات المرجعية وعناصر قائمة القراءة.</translation>
+ <translation id="1410941016594047814">ظرف دعوة</translation>
+ <translation id="1413809658975081374">خطأ في الخصوصية</translation>
+ <translation id="1414134146594747368">رياض أطفال</translation>
+-<translation id="5305237486453576422">‏زر إدارة عمليات التنزيل في Brave: انقر على هذا الزر لإدارة الملفات التي تم تنزيلها في Brave.</translation>
++<translation id="5305237486453576422">‏زر إدارة عمليات التنزيل في Kahf: انقر على هذا الزر لإدارة الملفات التي تم تنزيلها في Kahf.</translation>
+ <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/> للسماح بالإقران</translation>
+ <translation id="14222610277930434">تزور هذا الموقع الإلكتروني كثيرًا</translation>
+ <translation id="1422930527989633628">السماح للموقع الإلكتروني بالعثور على الأجهزة المجاورة التي تتضمّن بلوتوث</translation>
+@@ -362,20 +362,20 @@
+ <translation id="1640180200866533862">سياسات المستخدم</translation>
+ <translation id="1640244768702815859">جرّب <ph name="BEGIN_LINK"/>الانتقال إلى الصفحة الرئيسية للموقع<ph name="END_LINK"/>.</translation>
+ <translation id="1641976391427233992">تأخير الإخراج حتى</translation>
+-<translation id="8088023492467080559">‏زر الانتقال إلى صفحة ميزة "التحقّق من الأمان" في Brave: انقر على هذا الزر للانتقال إلى تلك الصفحة في الإعدادات.</translation>
++<translation id="8088023492467080559">‏زر الانتقال إلى صفحة ميزة "التحقّق من الأمان" في Kahf: انقر على هذا الزر للانتقال إلى تلك الصفحة في الإعدادات.</translation>
+ <translation id="1644574205037202324">السجل</translation>
+ <translation id="1645004815457365098">هذا الملف وارد من مصدر غير معروف.</translation>
+ <translation id="1645368109819982629">بروتوكول غير معتمد</translation>
+-<translation id="1995056549836388472">‏إدارة إعدادات Brave</translation>
++<translation id="1995056549836388472">‏إدارة إعدادات Kahf</translation>
+ <translation id="1652415888492971589">JIS B8</translation>
+-<translation id="3549478477646243075">‏لاستخدام "مدير كلمات المرور" مع تطبيق macOS Keychain، يُرجى إعادة تشغيل Brave والسماح بالوصول إلى التطبيق. وستتم إعادة فتح علامات التبويب بعد إعادة التشغيل.</translation>
++<translation id="3549478477646243075">‏لاستخدام "مدير كلمات المرور" مع تطبيق macOS Keychain، يُرجى إعادة تشغيل Kahf والسماح بالوصول إلى التطبيق. وستتم إعادة فتح علامات التبويب بعد إعادة التشغيل.</translation>
+ <translation id="1652887625750064647">أفضل النتائج المطابقة من إنشاء الذكاء الاصطناعي</translation>
+-<translation id="3848846802033604519">‏بسَّط Brave عرض هذه الصفحة لتسهيل قراءتها. استرَدّ Brave الصفحة الأصلية عبر اتصال آمن.</translation>
++<translation id="3848846802033604519">‏بسَّط Kahf عرض هذه الصفحة لتسهيل قراءتها. استرَدّ Kahf الصفحة الأصلية عبر اتصال آمن.</translation>
+ <translation id="1656489000284462475">الاستلام</translation>
+ <translation id="1658111267661135323">تلفزيون وفيديو</translation>
+ <translation id="1658918301167915956">أجهزة تتضمّن بلوتوث</translation>
+ <translation id="1662550410081243962">حفظ طرق الدفع واستخدامها لملء النماذج</translation>
+-<translation id="1838576226863399477">‏يتم أخذ البطاقات والعناوين من Brave، ويمكنك إدارتها في <ph name="BEGIN_LINK"/>الإعدادات<ph name="END_LINK"/>.</translation>
++<translation id="1838576226863399477">‏يتم أخذ البطاقات والعناوين من Kahf، ويمكنك إدارتها في <ph name="BEGIN_LINK"/>الإعدادات<ph name="END_LINK"/>.</translation>
+ <translation id="1664389769577564606">البوليمر الضوئي للطباعة الفلكسغرافية</translation>
+ <translation id="166624440456221306">حذف جدول المقارنة</translation>
+ <translation id="1668071460721346172">تلقّي رسالة إلكترونية</translation>
+@@ -653,7 +653,7 @@
+ <translation id="2174875517416416684">تعذّر إتمام معاملتك. لم يتم سحب أي أموال من حسابك.</translation>
+ <translation id="2175630235841878061">لا تتوفّر إمكانية تنزيل الملفات التي يزيد حجمها عن 100 ميغابايت.</translation>
+ <translation id="2176974405772725904">حفظ العنوان في الحساب</translation>
+-<translation id="7453373354666409887">‏زر تحديث Brave: انقر على هذا الزر لتحديث متصفِّح Brave من الإعدادات.</translation>
++<translation id="7453373354666409887">‏زر تحديث Kahf: انقر على هذا الزر لتحديث متصفِّح Kahf من الإعدادات.</translation>
+ <translation id="2179003720612888584">‫"<ph name="SITE_TITLE"/>" على <ph name="SITE_DOMAIN_NAME"/></translation>
+ <translation id="2181821976797666341">السياسات</translation>
+ <translation id="2182170103603703676">غسالات أطباق</translation>
+@@ -1081,10 +1081,10 @@
+ <translation id="3041176923638368519">الاطّلاع على أحكام مزايا البطاقة</translation>
+ <translation id="3041612393474885105">معلومات الشهادة</translation>
+ <translation id="3045769629416806687">رياضات خطرة</translation>
+-<translation id="8418829431154568330">‏سجلّ الوصول إلى الكمبيوتر المكتبي عن بُعد من Brave، بما في ذلك الطوابع الزمنية والمضيفين وأرقام تعريف جلسات العملاء</translation>
+-<translation id="2396578282884469363">‏يمكنك عادةً الاتصال بالمواقع الإلكترونية بشكل آمن، ولكن تعذَّر على Brave استخدام اتصال آمن في الوقت الحالي. قد يحاول أحد المهاجمين التجسس على اتصالك بالشبكة أو تعديله. <ph name="BEGIN_LEARN_MORE_LINK"/>مزيد من المعلومات حول هذا التحذير<ph name="END_LEARN_MORE_LINK"/></translation>
++<translation id="8418829431154568330">‏سجلّ الوصول إلى الكمبيوتر المكتبي عن بُعد من Kahf، بما في ذلك الطوابع الزمنية والمضيفين وأرقام تعريف جلسات العملاء</translation>
++<translation id="2396578282884469363">‏يمكنك عادةً الاتصال بالمواقع الإلكترونية بشكل آمن، ولكن تعذَّر على Kahf استخدام اتصال آمن في الوقت الحالي. قد يحاول أحد المهاجمين التجسس على اتصالك بالشبكة أو تعديله. <ph name="BEGIN_LEARN_MORE_LINK"/>مزيد من المعلومات حول هذا التحذير<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3052964831964880138">انخفاض في سعر <ph name="PRODUCT_NAME"/> بقيمة <ph name="PRICE_DROP"/></translation>
+-<translation id="4832983047807637948">‏يحذف Brave تلقائيًا المواضيع التي يمرّ أكثر من 4 أسابيع على إضافتها إلى قائمة "مواضيع الإعلانات". ومع استمرارك في التصفّح، قد يُضاف موضوع إلى القائمة مجددًا. يمكنك أيضًا حظر المواضيع التي لا تريد أن يشاركها Brave مع المواقع الإلكترونية. مزيد من المعلومات حول إدارة الخصوصية في عرض الإعلانات في Brave</translation>
++<translation id="4832983047807637948">‏يحذف Kahf تلقائيًا المواضيع التي يمرّ أكثر من 4 أسابيع على إضافتها إلى قائمة "مواضيع الإعلانات". ومع استمرارك في التصفّح، قد يُضاف موضوع إلى القائمة مجددًا. يمكنك أيضًا حظر المواضيع التي لا تريد أن يشاركها Kahf مع المواقع الإلكترونية. مزيد من المعلومات حول إدارة الخصوصية في عرض الإعلانات في Kahf</translation>
+ <translation id="3061707000357573562">خدمة رمز التصحيح</translation>
+ <translation id="3062655045399308513">حذف بيانات التصفّح…</translation>
+ <translation id="306573536155379004">بدأت اللعبة.</translation>
+@@ -1205,7 +1205,7 @@
+ <translation id="3272091146646336650">Super B</translation>
+ <translation id="3272112314896217187">أدخِل رمز التحقّق المكوَّن من <ph name="NUMBER_OF_DIGITS"/> أرقام.</translation>
+ <translation id="3272643614306383237">أقل من ميغابايت واحد. قد يتم تحميل بعض المواقع بشكل أبطأ عند زيارتها في المرة القادمة.</translation>
+-<translation id="7460223968433527020">‏يمكن للمشرف إجراء تغييرات على ملفك الشخصي والمتصفّح عن بُعد، وتحليل المعلومات عن المتصفّح من خلال إعداد التقارير وتنفيذ المهام الضرورية الأخرى. وقد تتم أيضًا إدارة النشاط على هذا الجهاز خارج Brave. <ph name="BEGIN_LINK"/>مزيد من المعلومات<ph name="END_LINK"/></translation>
++<translation id="7460223968433527020">‏يمكن للمشرف إجراء تغييرات على ملفك الشخصي والمتصفّح عن بُعد، وتحليل المعلومات عن المتصفّح من خلال إعداد التقارير وتنفيذ المهام الضرورية الأخرى. وقد تتم أيضًا إدارة النشاط على هذا الجهاز خارج Kahf. <ph name="BEGIN_LINK"/>مزيد من المعلومات<ph name="END_LINK"/></translation>
+ <translation id="3281350579597955952">{0,plural, =1{لا تنصح سياسة المشرف بفتح هذا الملف في <ph name="DESTINATION_NAME"/>.}zero{لا تنصح سياسة المشرف بفتح هذه الملفات في <ph name="DESTINATION_NAME"/>.}two{لا تنصح سياسة المشرف بفتح هذين الملفَّين في <ph name="DESTINATION_NAME"/>.}few{لا تنصح سياسة المشرف بفتح هذه الملفات في <ph name="DESTINATION_NAME"/>.}many{لا تنصح سياسة المشرف بفتح هذه الملفات في <ph name="DESTINATION_NAME"/>.}other{لا تنصح سياسة المشرف بفتح هذه الملفات في <ph name="DESTINATION_NAME"/>.}}</translation>
+ <translation id="3282085321714087552">أرسلت مؤسستك التي تمتلك النطاق <ph name="ENROLLMENT_DOMAIN"/> بعض المعلومات، مثل الإعدادات أو السياسات، إلى المواقع الإلكترونية التالية.</translation>
+ <translation id="3286372614333682499">عمودي</translation>
+@@ -1280,7 +1280,7 @@
+ <translation id="3411091017011773343">بدء التحميل بعد <ph name="HOURS"/> ساعة</translation>
+ <translation id="3414275587143250384">حوسبة موزعة وحوسبة سحابية</translation>
+ <translation id="3414952576877147120">الحجم:</translation>
+-<translation id="7115177860507615612">‏زر تشغيل لعبة الديناصور في Brave: انقر على هذا الزر لتشغيل هذه اللعبة في Brave.</translation>
++<translation id="7115177860507615612">‏زر تشغيل لعبة الديناصور في Kahf: انقر على هذا الزر لتشغيل هذه اللعبة في Kahf.</translation>
+ <translation id="3422248202833853650">جرّب الخروج من البرامج الأخرى لتفريغ مساحة من الذاكرة.</translation>
+ <translation id="3422472998109090673">يتعذر الوصول إلى <ph name="HOST_NAME"/> حاليًا.</translation>
+ <translation id="3423742043356668186">النظام محدّد</translation>
+@@ -1566,7 +1566,7 @@
+ <translation id="3906954721959377182">جهاز لوحي</translation>
+ <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
+ <translation id="3910231615117880630">مزيد من المعلومات حول المحتوى المضمَّن</translation>
+-<translation id="3117446487153407265">‏<ph name="BEGIN_BOLD"/>كيفية إدارة بياناتك:<ph name="END_BOLD"/> يحذف Brave تلقائيًا المواقع الإلكترونية التي يمر أكثر من 30 يومًا على إضافتها إلى قائمة "المواقع الإلكترونية التي تقترح الإعلانات". وقد يظهر في القائمة مجددًا أي موقع إلكتروني تكرِّر زيارته. يمكنك أيضًا منع موقع إلكتروني معيّن من اقتراح إعلانات لك وإيقاف ميزة "الإعلانات المقترَحة من المواقع الإلكترونية" متى شئت من خلال إعدادات Brave.</translation>
++<translation id="3117446487153407265">‏<ph name="BEGIN_BOLD"/>كيفية إدارة بياناتك:<ph name="END_BOLD"/> يحذف Kahf تلقائيًا المواقع الإلكترونية التي يمر أكثر من 30 يومًا على إضافتها إلى قائمة "المواقع الإلكترونية التي تقترح الإعلانات". وقد يظهر في القائمة مجددًا أي موقع إلكتروني تكرِّر زيارته. يمكنك أيضًا منع موقع إلكتروني معيّن من اقتراح إعلانات لك وإيقاف ميزة "الإعلانات المقترَحة من المواقع الإلكترونية" متى شئت من خلال إعدادات Kahf.</translation>
+ <translation id="3921869355029467742">إدخال رمز الأمان</translation>
+ <translation id="3927538228901078312">ما مِن جداول مقارنة</translation>
+ <translation id="3927932062596804919">رفض</translation>
+@@ -1830,7 +1830,7 @@
+ <translation id="4406896451731180161">نتائج البحث</translation>
+ <translation id="4408413947728134509"><ph name="NUM_COOKIES"/> من ملفات تعريف الارتباط</translation>
+ <translation id="4412074349188076601">تم وضع علامة على هذه الإعدادات تشير إلى أنّها قابلة للتثبيت، إلا أنّه لم يتم تقديم أي نسخة لهذه البنية، لذا لا يمكن تثبيتها.</translation>
+-<translation id="6647778944129929873">‏يمكنك استخدام "مدير كلمات المرور في Brave" وميزة "الملء التلقائي" في Brave لحفظ كلمات المرور وطرق الدفع والعناوين وملئها تلقائيًا</translation>
++<translation id="6647778944129929873">‏يمكنك استخدام "مدير كلمات المرور في Kahf" وميزة "الملء التلقائي" في Kahf لحفظ كلمات المرور وطرق الدفع والعناوين وملئها تلقائيًا</translation>
+ <translation id="4414515549596849729">ملفات تعريف الارتباط وبيانات المواقع الإلكترونية
+ </translation>
+ <translation id="4415156962929755728">بلاستيك (شديد اللمعان)</translation>
+@@ -2492,7 +2492,7 @@
+ <translation id="5689516760719285838">الموقع الجغرافي</translation>
+ <translation id="569000877158168851">‏قيمة DnsOverHttpsTemplates ليست مناسبة ولن يتم استخدامها ما لم يتم ضبط سياسة DnsOverHttpsMode على <ph name="SECURE_DNS_MODE_AUTOMATIC"/> أو <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
+ <translation id="5691848789297492617">تم فتح نافذة بطول الشاشة لحفظ البطاقة</translation>
+-<translation id="8517441191780475463">‏إنّ المهاجمين على الموقع الإلكتروني الذي تحاول الانتقال إليه قد يتمكّنون من تثبيت برامج ضارة تعمل على سرقة أو حذف البيانات، مثل كلمة المرور أو الصور أو الرسائل أو رقم بطاقة الائتمان. وينصح متصفّح Brave بشدّة بالرجوع إلى وضع الأمان. <ph name="BEGIN_LEARN_MORE_LINK"/>مزيد من المعلومات حول هذا التحذير<ph name="END_LEARN_MORE_LINK"/></translation>
++<translation id="8517441191780475463">‏إنّ المهاجمين على الموقع الإلكتروني الذي تحاول الانتقال إليه قد يتمكّنون من تثبيت برامج ضارة تعمل على سرقة أو حذف البيانات، مثل كلمة المرور أو الصور أو الرسائل أو رقم بطاقة الائتمان. وينصح متصفّح Kahf بشدّة بالرجوع إلى وضع الأمان. <ph name="BEGIN_LEARN_MORE_LINK"/>مزيد من المعلومات حول هذا التحذير<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="5695542892312572833">‏هل تريد استخدام Windows Hello لإثبات صحة عملية الشراء وإكمالها؟</translation>
+ <translation id="5699628521141772782">منتجات ألبان وبيض</translation>
+ <translation id="5700761515355162635">ملفات تعريف الارتباط الخارجية مسموحة</translation>
+@@ -2634,10 +2634,10 @@
+ <translation id="5989320800837274978">‏لم يتم تحديد أي من الخوادم الوكيلة الثابتة ولا عنوان URL للنص البرمجي pac.</translation>
+ <translation id="5992691462791905444">‏تصميم الطي على شكل حرف Z</translation>
+ <translation id="5992805036496113940">الاطّلاع على المعلومات التي يتم استخدامها لعرض الإعلانات لك</translation>
+-<translation id="7409510288691071929">‏إدارة المعلومات والخصوصية والأمان في حسابك على Brave</translation>
++<translation id="7409510288691071929">‏إدارة المعلومات والخصوصية والأمان في حسابك على Kahf</translation>
+ <translation id="5996255674476750320">فعاليات للمهتمين بالمركبات</translation>
+-<translation id="3494641719937626561">‏استُخدمت كلمة المرور التي أدخلتها للتو في عملية اختراق للبيانات. لتأمين حساباتك، ينصح "مدير كلمات المرور" في Brave بتغيير كلمة المرور الآن ثم التحقّق من كلمات المرور المحفوظة.</translation>
+-<translation id="4496834749307444910">‏يتضمّن متصفِّح Brave ميزات أمان مدمجة لحمايتك أثناء التصفُّح، مثل ميزة "التصفُّح الآمن من Brave" التي <ph name="BEGIN_LINK"/>رصدت مؤخرًا برامج ضارة<ph name="END_LINK"/> على الموقع الإلكتروني الذي تحاول الانتقال إليه.</translation>
++<translation id="3494641719937626561">‏استُخدمت كلمة المرور التي أدخلتها للتو في عملية اختراق للبيانات. لتأمين حساباتك، ينصح "مدير كلمات المرور" في Kahf بتغيير كلمة المرور الآن ثم التحقّق من كلمات المرور المحفوظة.</translation>
++<translation id="4496834749307444910">‏يتضمّن متصفِّح Kahf ميزات أمان مدمجة لحمايتك أثناء التصفُّح، مثل ميزة "التصفُّح الآمن من Kahf" التي <ph name="BEGIN_LINK"/>رصدت مؤخرًا برامج ضارة<ph name="END_LINK"/> على الموقع الإلكتروني الذي تحاول الانتقال إليه.</translation>
+ <translation id="6000528814684428358">موسيقى "هارد روك" و"بروغريسيف روك"</translation>
+ <translation id="6000758707621254961"><ph name="RESULT_COUNT"/> من نتائج البحث عن "<ph name="SEARCH_TEXT"/>"</translation>
+ <translation id="6001839398155993679">البدء</translation>
+@@ -2707,17 +2707,17 @@
+ <translation id="6107012941649240045">الجهة صاحبة الإصدار</translation>
+ <translation id="6107924765192360631">ابدأ بكتابة بضع كلمات أو مسودة أولية للحصول على اقتراحات الكتابة.</translation>
+ <translation id="6108580855199168381">تفاصيل الشهادة</translation>
+-<translation id="5539282829066374332">‏محرك البحث الخاص بك في Brave</translation>
++<translation id="5539282829066374332">‏محرك البحث الخاص بك في Kahf</translation>
+ <translation id="6108849843016142864">زواحف وبرمائيات</translation>
+-<translation id="8233947174119245051">‏قد يتضمّن حسابك على Brave نماذج أخرى من سجلّ التصفّح على <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
+-<translation id="1715537866439612181">‏يتم إرسال عمليات البحث وأفضل النتائج المطابِقة ومحتوى الصفحات إلى Brave، وقد يطّلع عليها فريق من المراجعين لتحسين هذه الميزة.</translation>
++<translation id="8233947174119245051">‏قد يتضمّن حسابك على Kahf نماذج أخرى من سجلّ التصفّح على <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
++<translation id="1715537866439612181">‏يتم إرسال عمليات البحث وأفضل النتائج المطابِقة ومحتوى الصفحات إلى Kahf، وقد يطّلع عليها فريق من المراجعين لتحسين هذه الميزة.</translation>
+ <translation id="6116338172782435947">الاطلاع على النصوص والصور التي تم نسخها إلى الحافظة</translation>
+ <translation id="6117833587752089929">تصوير (برّاق)</translation>
+ <translation id="6118782133429281336">قائمة المصادر فارغة.</translation>
+ <translation id="612178891608320683">الأطعمة الخالية من المنتجات الحيوانية</translation>
+ <translation id="6122181661879998141">الجهة الأمامية للبطاقة</translation>
+ <translation id="6124058285696691147">تنزيل المرفق</translation>
+-<translation id="5972135347314259717">Brave Enterprise Connectors</translation>
++<translation id="5972135347314259717">Kahf Enterprise Connectors</translation>
+ <translation id="6126565365696310362">ظرف صيني رقم 2</translation>
+ <translation id="6127379762771434464">أُزيلَ عنصر</translation>
+ <translation id="6131824478727057281">الموقع الجغرافي</translation>
+@@ -2739,14 +2739,14 @@
+ <translation id="6160391204859821737">تفعيل إحدى ميزات الخصوصية في عرض الإعلانات</translation>
+ <translation id="6165508094623778733">مزيد من المعلومات</translation>
+ <translation id="6167577165590485365">وقت آخر محاولة استرجاع:</translation>
+-<translation id="1057223975912338979">‏يحاول Brave إثبات هويتك لملء معلومات الدفع.</translation>
++<translation id="1057223975912338979">‏يحاول Kahf إثبات هويتك لملء معلومات الدفع.</translation>
+ <translation id="6173208311907792313">‏أكمِل عملية الشراء باستخدام Windows Hello</translation>
+ <translation id="6176387967264100435">هذا السعر مرتفع</translation>
+ <translation id="6177128806592000436">إن اتصالك بهذا الموقع غير آمن</translation>
+ <translation id="6177531123306197852">‏ظرف C2</translation>
+ <translation id="6180316780098470077">الفاصل الزمني لإعادة المحاولة</translation>
+ <translation id="6182972682129119950">A4x5</translation>
+-<translation id="1713601041945301465">‏يقيّد متصفّح Brave تلقائيًا ملفات تعريف الارتباط التابعة لجهات خارجية</translation>
++<translation id="1713601041945301465">‏يقيّد متصفّح Kahf تلقائيًا ملفات تعريف الارتباط التابعة لجهات خارجية</translation>
+ <translation id="6194209731893739467">الاطّلاع هنا على جميع المنتجات التي يتمّ تتبّع أسعارها</translation>
+ <translation id="6195163219142236913">ملفات تعريف الارتباط الخارجية محدودة</translation>
+ <translation id="6195371403461054755">جيولوجيا</translation>
+@@ -2776,17 +2776,17 @@
+ <translation id="6236290670123303279">إدارة الإعدادات</translation>
+ <translation id="623825323736974198">يمكنك إدارة المواقع الإلكترونية التي ستظل نشطة دائمًا، وذلك بدون إخلاء المساحة التي تستهلكها من الذاكرة</translation>
+ <translation id="6240447795304464094">‏شعار Google Pay</translation>
+-<translation id="4174528239215311406">‏لاستخدام "مدير كلمات المرور في Brave" مع نظام التشغيل، يُرجى إعادة تشغيل Brave والسماح بالوصول إلى مدير كلمات المرور على جهاز الكمبيوتر. ستتم إعادة فتح علامات التبويب بعد إعادة التشغيل.</translation>
++<translation id="4174528239215311406">‏لاستخدام "مدير كلمات المرور في Kahf" مع نظام التشغيل، يُرجى إعادة تشغيل Kahf والسماح بالوصول إلى مدير كلمات المرور على جهاز الكمبيوتر. ستتم إعادة فتح علامات التبويب بعد إعادة التشغيل.</translation>
+ <translation id="6241121617266208201">إخفاء الاقتراحات</translation>
+ <translation id="624499991300733384">خدمة مكوّن الطباعة</translation>
+ <translation id="6246316216123107851">قبل <ph name="NUM_DAYS"/> يوم</translation>
+ <translation id="6246868321321344665">يمكن لمؤسستك الاطّلاع على بيانات التصفُّح، مثل كلمات المرور والسجلّ، في كل من ملف العمل والملف الشخصي</translation>
+ <translation id="6250932670816326647">منتجات استحمام وعناية بالجسم</translation>
+ <translation id="6251906504834538140">{0,plural, =1{تم حظر نقل الملف}zero{تم حظر نقل <ph name="FILE_COUNT"/> ملف}two{تم حظر نقل ملفَين (<ph name="FILE_COUNT"/>)}few{تم حظر نقل <ph name="FILE_COUNT"/> ملفات}many{تم حظر نقل <ph name="FILE_COUNT"/> ملفًا}other{تم حظر نقل <ph name="FILE_COUNT"/> ملف}}</translation>
+-<translation id="3917320044622606497">‏<ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>، اضغط على مفتاح Tab ثم مفتاح Enter لإدارة الملفات التي تم تنزيلها في Brave.</translation>
++<translation id="3917320044622606497">‏<ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>، اضغط على مفتاح Tab ثم مفتاح Enter لإدارة الملفات التي تم تنزيلها في Kahf.</translation>
+ <translation id="6254436959401408446">لا تتوفر ذاكرة كافية لفتح هذه الصفحة</translation>
+ <translation id="625463612687472648">إيقاف السماح بالأذونات</translation>
+-<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{‏عند إجراء عمليات شراء على متصفّح Brave، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيار للدفع}zero{‏عند إجراء عمليات شراء على متصفّح Brave، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}two{‏عند إجراء عمليات شراء على متصفّح Brave، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارَين للدفع}few{‏عند إجراء عمليات شراء على متصفّح Brave، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}many{‏عند إجراء عمليات شراء على متصفّح Brave، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}other{‏عند إجراء عمليات شراء على متصفّح Brave، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}}</translation>
++<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{‏عند إجراء عمليات شراء على متصفّح Kahf، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيار للدفع}zero{‏عند إجراء عمليات شراء على متصفّح Kahf، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}two{‏عند إجراء عمليات شراء على متصفّح Kahf، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارَين للدفع}few{‏عند إجراء عمليات شراء على متصفّح Kahf، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}many{‏عند إجراء عمليات شراء على متصفّح Kahf، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}other{‏عند إجراء عمليات شراء على متصفّح Kahf، يمكنك استخدام <ph name="FINANCIAL_ACCOUNT_TYPES"/> كخيارات للدفع}}</translation>
+ <translation id="6259156558325130047">إعادة إ&amp;جراء الترتيب</translation>
+ <translation id="6263376278284652872">إشعارات <ph name="DOMAIN"/></translation>
+ <translation id="6264376385120300461">التنزيل على أيّ حال</translation>
+@@ -2822,11 +2822,11 @@
+ <translation id="6311410654831092784">بطاقات من الورق المقوّى</translation>
+ <translation id="6312113039770857350">صفحة الويب غير متاحة</translation>
+ <translation id="6316110367871394043">تم إيقاف تحميل الملف إلى <ph name="CLOUD_PROVIDER"/> مؤقتًا</translation>
+-<translation id="1413891145337537586">‏معلومات جديدة: تسري خيارات Family Link في Brave على هذا الموقع الإلكتروني</translation>
++<translation id="1413891145337537586">‏معلومات جديدة: تسري خيارات Family Link في Kahf على هذا الموقع الإلكتروني</translation>
+ <translation id="63172326633386613">إدارة إعدادات تسهيل الاستخدام</translation>
+ <translation id="6321917430147971392">التحقق من إعدادات نظام أسماء النطاقات</translation>
+ <translation id="6322182122604171028">‏تعذّر استخدام Windows Hello</translation>
+-<translation id="7962450223988560278">‏ضبط Brave كمتصفِّح تلقائي للنظام في إعدادات iOS</translation>
++<translation id="7962450223988560278">‏ضبط Kahf كمتصفِّح تلقائي للنظام في إعدادات iOS</translation>
+ <translation id="6328639280570009161">تجربة إيقاف التنبؤ بإجراءات الشبكة</translation>
+ <translation id="6328784461820205019">‏"لا يتمتَّع اتصالك بالخصوصية" أو "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" أو "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" أو "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" أو "خطأ في شهادة طبقة المقابس الآمنة (SSL)"</translation>
+ <translation id="6335029926534404762">أحذية رياضية</translation>
+@@ -2980,26 +2980,26 @@
+ <translation id="6597665340361269064">90 درجة</translation>
+ <translation id="6598976221101665070">أفلام درامية</translation>
+ <translation id="6599642189720630047">المنتجات التي يتمّ تتبّع سعرها</translation>
+-<translation id="5976895887103591798">‏يحظر Brave المواقع الإلكترونية من استخدام ملفات تعريف الارتباط التابعة لجهات خارجية لتتبُّع نشاطك أثناء التصفُّح.
++<translation id="5976895887103591798">‏يحظر Kahf المواقع الإلكترونية من استخدام ملفات تعريف الارتباط التابعة لجهات خارجية لتتبُّع نشاطك أثناء التصفُّح.
+             <ph name="NEW_LINE"/>إذا لم تعمل ميزات الموقع الإلكتروني، يُرجى <ph name="START_LINK"/>محاولة السماح مؤقتًا بملفات تعريف الارتباط التابعة لجهات خارجية<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">تتبُّع اليد</translation>
+-<translation id="5887670611153282204">‏مزيد من المعلومات عن محرك البحث في Brave</translation>
++<translation id="5887670611153282204">‏مزيد من المعلومات عن محرك البحث في Kahf</translation>
+ <translation id="6615297766614333076">المكدِّس 2</translation>
+ <translation id="6619496928666593220">‏لم يتم إدخال رقم الحساب بصيغة IBAN</translation>
+ <translation id="6624427990725312378">معلومات الاتصال</translation>
+ <translation id="6628463337424475685">بحث <ph name="ENGINE"/></translation>
+ <translation id="6629652037942826935">سفر فاخر المستوى</translation>
+ <translation id="6630043285902923878">‏جارٍ البحث عن أجهزة USB...</translation>
+-<translation id="4945711024178085608">‏زر إدارة إعدادات Brave: انقر على هذا الزر للانتقال إلى إعدادات Brave.</translation>
++<translation id="4945711024178085608">‏زر إدارة إعدادات Kahf: انقر على هذا الزر للانتقال إلى إعدادات Kahf.</translation>
+ <translation id="6631133499533814479">كرة قدم أسترالية</translation>
+ <translation id="663260587451432563">JIS B4</translation>
+ <translation id="6633405994164965230">دراسة علوم الكمبيوتر</translation>
+ <translation id="6633476656216409494">برامج الأنشطة التجارية والإنتاجية</translation>
+-<translation id="2529518595693862042">‏يتضمّن متصفِّح Brave ميزات أمان مدمجة لحمايتك أثناء التصفُّح، مثل ميزة "التصفُّح الآمن من Brave" التي <ph name="BEGIN_LINK"/>رصدت مؤخرًا برامج ضارة<ph name="END_LINK"/> على الموقع الإلكتروني الذي تحاول الانتقال إليه.</translation>
++<translation id="2529518595693862042">‏يتضمّن متصفِّح Kahf ميزات أمان مدمجة لحمايتك أثناء التصفُّح، مثل ميزة "التصفُّح الآمن من Kahf" التي <ph name="BEGIN_LINK"/>رصدت مؤخرًا برامج ضارة<ph name="END_LINK"/> على الموقع الإلكتروني الذي تحاول الانتقال إليه.</translation>
+ <translation id="6643016212128521049">محو</translation>
+ <translation id="6645291930348198241">الوصول إلى بيانات الموقع الإلكتروني وملفات تعريف الارتباط</translation>
+ <translation id="6645478838938543427">سيتم إرسال التنبيهات بشأن انخفاض الأسعار إلى عنوان البريد الإلكتروني <ph name="EMAIL_ADDRESS"/>.</translation>
+-<translation id="6678472970290886941">‏يمكن لمشرفك تغيير إعداد المتصفِّح عن بُعد. وقد تتم أيضًا إدارة النشاط على هذا الجهاز خارج Brave.</translation>
++<translation id="6678472970290886941">‏يمكن لمشرفك تغيير إعداد المتصفِّح عن بُعد. وقد تتم أيضًا إدارة النشاط على هذا الجهاز خارج Kahf.</translation>
+ <translation id="6648524591329069940">‏خط Serif</translation>
+ <translation id="6649510485211003056">195 × 270 ملم</translation>
+ <translation id="6651270836885078973">تتم إدارة الجهاز من خلال:</translation>
+@@ -3176,16 +3176,16 @@
+ <translation id="696703987787944103">حِسّي</translation>
+ <translation id="6967851206780867018">تم حظر ملف واحد بسبب المحتوى.</translation>
+ <translation id="6970885655016700774">نسيج (أرشفة)</translation>
+-<translation id="8485851762575764192">‏إنشاء عرض تقديمي جديد من Brave في "العروض التقديمية من Brave" بسرعة</translation>
++<translation id="8485851762575764192">‏إنشاء عرض تقديمي جديد من Kahf في "العروض التقديمية من Kahf" بسرعة</translation>
+ <translation id="6972629891077993081">‏أجهزة HID</translation>
+ <translation id="6973656660372572881">‏تم تحديد كل من الخوادم الوكيلة الثابتة وعنوان URL للنص البرمجي pac.</translation>
+ <translation id="6973988895180423160">3.5 × 5 بوصة</translation>
+ <translation id="6978121630131642226">محرّكات البحث</translation>
+ <translation id="6978236010531171013">المشاركة على أي حال</translation>
+-<translation id="8974669348014288088">‏في حال مشاركة هذا الجهاز، يمكن أن يطلب Brave منك إثبات هويتك في كل مرة تستخدِم فيها ميزة "الملء التلقائي" لإتمام عملية الدفع.</translation>
++<translation id="8974669348014288088">‏في حال مشاركة هذا الجهاز، يمكن أن يطلب Kahf منك إثبات هويتك في كل مرة تستخدِم فيها ميزة "الملء التلقائي" لإتمام عملية الدفع.</translation>
+ <translation id="6979158407327259162">Google Drive</translation>
+ <translation id="6979440798594660689">كتم الصوت (تلقائي)</translation>
+-<translation id="6984270784814146224">‏صورة غير مُصنَّفة. جارٍ استخراج النص من خلال تكنولوجيات الذكاء الاصطناعي من Brave</translation>
++<translation id="6984270784814146224">‏صورة غير مُصنَّفة. جارٍ استخراج النص من خلال تكنولوجيات الذكاء الاصطناعي من Kahf</translation>
+ <translation id="6987806006823772670">ظرف (مطلي)</translation>
+ <translation id="6989256887001961296">هذا المحتوى محظور.</translation>
+ <translation id="6989763994942163495">عرض الإعدادات المتقدمة...</translation>
+@@ -3202,14 +3202,14 @@
+ <translation id="7014741021609395734">مستوى التكبير أو التصغير</translation>
+ <translation id="7016992613359344582">قد يتمّ تحصيل هذه الرسوم لمرة واحدة أو بشكل متكرر، وقد تكون غير واضحة.</translation>
+ <translation id="701757816833614688">دراسة فنون بصرية وتصميم</translation>
+-<translation id="8683151724374457021">‏يحدّد هذا الموقع الإلكتروني اهتماماتك، ثم يقدّم إلى المواقع الإلكترونية الأخرى اقتراحات عن الإعلانات ذات الصلة باهتماماتك. ويتعرّف أيضًا هذا الموقع الإلكتروني من خلال Brave على مواضيع الإعلانات التي تهمّك، وذلك بهدف عرض إعلانات وثيقة الصلة باهتماماتك.</translation>
++<translation id="8683151724374457021">‏يحدّد هذا الموقع الإلكتروني اهتماماتك، ثم يقدّم إلى المواقع الإلكترونية الأخرى اقتراحات عن الإعلانات ذات الصلة باهتماماتك. ويتعرّف أيضًا هذا الموقع الإلكتروني من خلال Kahf على مواضيع الإعلانات التي تهمّك، وذلك بهدف عرض إعلانات وثيقة الصلة باهتماماتك.</translation>
+ <translation id="7023162328967545559">تحذير من المشرف</translation>
+-<translation id="7613812024276037086">‏يتضمّن متصفِّح Brave ميزات أمان مدمجة لحمايتك أثناء التصفُّح، مثل ميزة "التصفُّح الآمن من Brave" التي <ph name="BEGIN_LINK"/>رصدت مؤخرًا عملية تصيُّد احتيالي<ph name="END_LINK"/> على الموقع الإلكتروني الذي تحاول الانتقال إليه. وتتظاهر مواقع التصيُّد الاحتيالي الإلكترونية بكونها مواقع إلكترونية أخرى لخداعك.<ph name="NEW_LINE"/>جدير بالذكر أنّه حتى المواقع الإلكترونية التي تكون آمنة في العادة قد تتعرض أحيانًا للاختراق من قِبل المهاجمين. <ph name="BEGIN_ERROR_LINK"/>يُرجى إعلامنا<ph name="END_ERROR_LINK"/> إذا كنت تعتقد أنّ هناك خطأ وأنّ هذا الموقع الإلكتروني لا يشكِّل خطرًا.</translation>
++<translation id="7613812024276037086">‏يتضمّن متصفِّح Kahf ميزات أمان مدمجة لحمايتك أثناء التصفُّح، مثل ميزة "التصفُّح الآمن من Kahf" التي <ph name="BEGIN_LINK"/>رصدت مؤخرًا عملية تصيُّد احتيالي<ph name="END_LINK"/> على الموقع الإلكتروني الذي تحاول الانتقال إليه. وتتظاهر مواقع التصيُّد الاحتيالي الإلكترونية بكونها مواقع إلكترونية أخرى لخداعك.<ph name="NEW_LINE"/>جدير بالذكر أنّه حتى المواقع الإلكترونية التي تكون آمنة في العادة قد تتعرض أحيانًا للاختراق من قِبل المهاجمين. <ph name="BEGIN_ERROR_LINK"/>يُرجى إعلامنا<ph name="END_ERROR_LINK"/> إذا كنت تعتقد أنّ هناك خطأ وأنّ هذا الموقع الإلكتروني لا يشكِّل خطرًا.</translation>
+ <translation id="7029809446516969842">كلمات المرور</translation>
+ <translation id="7030164307377592766">تعديل الإعدادات لملء بيانات طُرق الدفع.</translation>
+ <translation id="7031646650991750659">‏تطبيقات Google Play التي ثبّتها</translation>
+ <translation id="7035705295266423040">يحتاج المصرف إلى إثبات هويتك</translation>
+-<translation id="8918349693525256593">‏<ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>، اضغط على مفتاح Tab ثم مفتاح Enter لإدارة إعدادات خصوصية حسابك على Brave.</translation>
++<translation id="8918349693525256593">‏<ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>، اضغط على مفتاح Tab ثم مفتاح Enter لإدارة إعدادات خصوصية حسابك على Kahf.</translation>
+ <translation id="7042616127917168121">تحسين النتائج</translation>
+ <translation id="7043552168914147882">ورق بملحقات</translation>
+ <translation id="7044081119134178347">تم السماح باستخدام الكاميرا هذه المرّة.</translation>
+@@ -3996,14 +3996,14 @@
+ <translation id="8446884382197647889">مزيد من المعلومات</translation>
+ <translation id="8449155699563577224">17 × 24 بوصة</translation>
+ <translation id="8449836157089738489">فتح الكل في مجموعة علامات تبويب جديدة</translation>
+-<translation id="1785963607001474601">‏يمكن للمشرف إجراء تغييرات على ملفك الشخصي والمتصفّح عن بُعد، وتحليل المعلومات عن المتصفّح من خلال إعداد التقارير وتنفيذ المهام الضرورية الأخرى. وقد تتم أيضًا إدارة النشاط على هذا الجهاز خارج Brave.  <ph name="BEGIN_LINK"/>مزيد من المعلومات<ph name="END_LINK"/></translation>
++<translation id="1785963607001474601">‏يمكن للمشرف إجراء تغييرات على ملفك الشخصي والمتصفّح عن بُعد، وتحليل المعلومات عن المتصفّح من خلال إعداد التقارير وتنفيذ المهام الضرورية الأخرى. وقد تتم أيضًا إدارة النشاط على هذا الجهاز خارج Kahf.  <ph name="BEGIN_LINK"/>مزيد من المعلومات<ph name="END_LINK"/></translation>
+ <translation id="8457125768502047971">غير محدَّد</translation>
+ <translation id="8458202188076138974">Letter Extra</translation>
+-<translation id="834016381901477789">‏تشير المتابعة إلى موافقتك على جمْع معلومات الموقع الجغرافي الدقيق لجهازك ومشاركته مع صاحب حسابك بهدف منع عمليات الاحتيال. لإيقاف Pix في Brave، انتقِل إلى <ph name="BEGIN_LINK1"/>إعدادات الدفع<ph name="END_LINK1"/>.</translation>
++<translation id="834016381901477789">‏تشير المتابعة إلى موافقتك على جمْع معلومات الموقع الجغرافي الدقيق لجهازك ومشاركته مع صاحب حسابك بهدف منع عمليات الاحتيال. لإيقاف Pix في Kahf، انتقِل إلى <ph name="BEGIN_LINK1"/>إعدادات الدفع<ph name="END_LINK1"/>.</translation>
+ <translation id="8460854335417802511">تفعيل</translation>
+ <translation id="8461694314515752532">ترميز البيانات المتزامنة باستخدام عبارة مرور المزامنة الخاصة بك</translation>
+ <translation id="8466379296835108687">{COUNT,plural, =1{بطاقة ائتمان واحدة}zero{# بطاقة ائتمان}two{بطاقتا ائتمان (#)}few{# بطاقات ائتمان}many{# بطاقة ائتمان}other{# بطاقة ائتمان}}</translation>
+-<translation id="1912557825937556898">‏الانتقال إلى صفحة ميزة "التحقّق من الأمان" في Brave في الإعدادات</translation>
++<translation id="1912557825937556898">‏الانتقال إلى صفحة ميزة "التحقّق من الأمان" في Kahf في الإعدادات</translation>
+ <translation id="8468358362970107653">‏ظرف C3</translation>
+ <translation id="8469428721212363950">تجارة بيع بالتجزئة</translation>
+ <translation id="8472700501934242014">المواضيع المحظورة</translation>
+@@ -4391,33 +4391,33 @@
+ <translation id="9210825002219699214">سفر جوي</translation>
+ <translation id="9211461151375991073">أدخِل علامة @ للبحث في <ph name="FEATURED_SEARCH_LIST"/></translation>
+ <translation id="9213433120051936369">تخصيص المظهر</translation>
+-<translation id="2206050430829841793">‏يعمل أحد التطبيقات على منع اتصال Brave بموقع الويب هذا على نحو آمن</translation>
++<translation id="2206050430829841793">‏يعمل أحد التطبيقات على منع اتصال Kahf بموقع الويب هذا على نحو آمن</translation>
+ <translation id="92178312226016010">يتم حاليًا تتبُّع سعر هذا المنتج.</translation>
+ <translation id="9218430445555521422">الضبط كخيار تلقائي</translation>
+ <translation id="9219103736887031265">الصور</translation>
+-<translation id="142389341645668510">‏تخصيص Brave</translation>
++<translation id="142389341645668510">‏تخصيص Kahf</translation>
+ <translation id="9222403027701923763">الدراسة الابتدائية والثانوية (التعليم المدرسي)</translation>
+ <translation id="93020190163435405">تدريب داخلي</translation>
+ <translation id="933712198907837967">Diners Club</translation>
+ <translation id="934634059306213385">‏هل تريد منح "<ph name="APP_NAME"/>" إذنًا بإعداد شبكات Wi-Fi؟</translation>
+-<translation id="7486559383537872796">‏قد لا تتمكّن من الوصول إلى حسابك على Brave. لذا ينصح Brave بتغيير كلمة مرورك الآن. وسيُطلَب منك تسجيل الدخول.</translation>
+-<translation id="1818627928653838301">‏<ph name="BEGIN_BOLD"/>البيانات المستخدَمة:<ph name="END_BOLD"/> تستند مواضيع الإعلانات إلى سجلّ تصفُّحك الأخير الذي يتضمّن قائمة بالمواقع الإلكترونية التي انتقَلْت إليها باستخدام Brave على هذا الجهاز.</translation>
++<translation id="7486559383537872796">‏قد لا تتمكّن من الوصول إلى حسابك على Kahf. لذا ينصح Kahf بتغيير كلمة مرورك الآن. وسيُطلَب منك تسجيل الدخول.</translation>
++<translation id="1818627928653838301">‏<ph name="BEGIN_BOLD"/>البيانات المستخدَمة:<ph name="END_BOLD"/> تستند مواضيع الإعلانات إلى سجلّ تصفُّحك الأخير الذي يتضمّن قائمة بالمواقع الإلكترونية التي انتقَلْت إليها باستخدام Kahf على هذا الجهاز.</translation>
+ <translation id="937885410143139026">تم إرسال البيانات إلى وحدة تحكّم المشرف.</translation>
+ <translation id="939736085109172342">مجلد جديد</translation>
+ <translation id="940524522703752213">سيبدأ تحميل الملف إلى <ph name="CLOUD_PROVIDER"/> بعد <ph name="MINUTES"/> دقيقة</translation>
+-<translation id="6588091288231158998">‏استخدام كلمات المرور ومفاتيح المرور المحفوظة في حسابك على Brave</translation>
+-<translation id="5444457503062019851">‏يحظر Brave المواقع الإلكترونية من استخدام ملفات تعريف الارتباط التابعة لجهات خارجية لتتبُّع نشاطك أثناء التصفُّح.</translation>
++<translation id="6588091288231158998">‏استخدام كلمات المرور ومفاتيح المرور المحفوظة في حسابك على Kahf</translation>
++<translation id="5444457503062019851">‏يحظر Kahf المواقع الإلكترونية من استخدام ملفات تعريف الارتباط التابعة لجهات خارجية لتتبُّع نشاطك أثناء التصفُّح.</translation>
+ <translation id="945855313015696284">يجب التحقُّق من المعلومات الواردة أدناه وحذف أي بطاقات غير صالحة</translation>
+ <translation id="94613679163347541">هل تريد مقارنة الفئة "<ph name="CATEGORY"/>"؟</translation>
+-<translation id="1283739678317676574">‏<ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: اضغط على مفتاح التبويب (Tab) ثم Enter لإنشاء موقع إلكتروني جديد في "مواقع Brave" بسرعة.</translation>
+-<translation id="7776043919629791284">{COUNT,plural, =0{‏سيُعيد متصفّح Brave تقييد ملفات تعريف الارتباط اليوم}=1{‏سيُعيد متصفّح Brave تقييد ملفات تعريف الارتباط غدًا}two{‏يتبقى يومان على إعادة تقييد ملفات تعريف الارتباط في متصفّح Brave}few{‏يتبقى # أيام على إعادة تقييد ملفات تعريف الارتباط في متصفّح Brave}many{‏يتبقى # يومًا على إعادة تقييد ملفات تعريف الارتباط في متصفّح Brave}other{‏يتبقى # يوم على إعادة تقييد ملفات تعريف الارتباط في متصفّح Brave}}</translation>
++<translation id="1283739678317676574">‏<ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>: اضغط على مفتاح التبويب (Tab) ثم Enter لإنشاء موقع إلكتروني جديد في "مواقع Kahf" بسرعة.</translation>
++<translation id="7776043919629791284">{COUNT,plural, =0{‏سيُعيد متصفّح Kahf تقييد ملفات تعريف الارتباط اليوم}=1{‏سيُعيد متصفّح Kahf تقييد ملفات تعريف الارتباط غدًا}two{‏يتبقى يومان على إعادة تقييد ملفات تعريف الارتباط في متصفّح Kahf}few{‏يتبقى # أيام على إعادة تقييد ملفات تعريف الارتباط في متصفّح Kahf}many{‏يتبقى # يومًا على إعادة تقييد ملفات تعريف الارتباط في متصفّح Kahf}other{‏يتبقى # يوم على إعادة تقييد ملفات تعريف الارتباط في متصفّح Kahf}}</translation>
+ <translation id="949314938206378263">‏لقد طلبت زيارة هذا الموقع الإلكتروني. يمكن لأحد والدَيك الرد على هذا الطلب في تطبيق Family Link.</translation>
+ <translation id="950736567201356821">عمل ثلاثة ثقوب من الأعلى</translation>
+ <translation id="961663415146723894">التجليد من الأسفل</translation>
+ <translation id="961856697154696964">حذف بيانات التصفّح</translation>
+ <translation id="961930410699694996">تم السماح بتحديد الموقع الجغرافي هذه المرّة.</translation>
+ <translation id="962484866189421427">قد يحاول هذا المحتوى تثبيت تطبيقات مضللة تظهر كبرامج أخرى أو تجمع بيانات قد تُستخدم لتتبعك. <ph name="BEGIN_LINK"/>العرض على أي حال<ph name="END_LINK"/></translation>
+-<translation id="776356972507701422">‏بموجب القانون الساري في منطقتك، يطلب منك Brave اختيار محرك البحث التلقائي. إنّ محركات البحث هذه رائجة في منطقتك ويتم عرضها بترتيب عشوائي.</translation>
++<translation id="776356972507701422">‏بموجب القانون الساري في منطقتك، يطلب منك Kahf اختيار محرك البحث التلقائي. إنّ محركات البحث هذه رائجة في منطقتك ويتم عرضها بترتيب عشوائي.</translation>
+ <translation id="963837307749850257">كل المستخدمين</translation>
+ <translation id="964050462028070434">إدارة كلمات المرور ومفاتيح المرور…</translation>
+ <translation id="969892804517981540">البنية الرسمية</translation>

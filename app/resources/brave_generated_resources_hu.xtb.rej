@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_hu.xtb b/app/resources/brave_generated_resources_hu.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@ Később is módosíthatja a következő helyen: <ph name="SETTINGS_EXTENIONS_LI
+ <translation id="1970435562892104727">Ez egy privát ablak Torral</translation>
+ <translation id="1037341607922068025">Indítson egy privát ablakot Torral</translation>
+ <translation id="607982085107926247">Megnyitás Torban: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Ez a Brave szinkronizációs fiók törölve lett egy másik eszközről. Ha nem akarta letiltani a Szinkronizálást, <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Ez a Kahf szinkronizációs fiók törölve lett egy másik eszközről. Ha nem akarta letiltani a Szinkronizálást, <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>hozza létre újra a fiókot.</translation>
+ <translation id="6965382102122355670">OK</translation>
+-<translation id="3975865347033939965">A szinkronizálási szolgáltatás nem indítható el, mert a Brave-szinkronizálás nem fut</translation>
++<translation id="3975865347033939965">A szinkronizálási szolgáltatás nem indítható el, mert a Kahf-szinkronizálás nem fut</translation>
+ <translation id="4450893287417543264">Ne mutassa többé</translation>
+ <translation id="4595286989346610620">Részletek megtekintése</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@ Később is módosíthatja a következő helyen: <ph name="SETTINGS_EXTENIONS_LI
+ <translation id="4759098689276706664">Kényszerített beillesztés</translation>
+ <translation id="1434416574322382019">Új privát ablak Torral</translation>
+ <translation id="4703780849509456860">Link megnyitása Tor használatával privát ablakban</translation>
+-<translation id="3488584642074079080">Hivatkozás megnyitása Brave Privát Ablakkal a Torban</translation>
++<translation id="3488584642074079080">Hivatkozás megnyitása Kahf Privát Ablakkal a Torban</translation>
+ <translation id="6313675821927505581">Új privát ablak a Tor böngészővel</translation>
+ <translation id="2638041073279639246">Hivatkozás megnyitása privát ablakban a Tor böngészővel</translation>
+-<translation id="3425600262621021599">Hivatkozás megnyitása Brave privát ablakban a Tor böngészővel</translation>
+-<translation id="2545072023356206691">2023. december 1-től kezdődően a Brave Dev csatorna többé nem kap böngészőfrissítéseket. Javasoljuk a felhasználóknak, hogy térjenek át a Brave Nightly, Beta vagy Release verziójára.</translation>
++<translation id="3425600262621021599">Hivatkozás megnyitása Kahf privát ablakban a Tor böngészővel</translation>
++<translation id="2545072023356206691">2023. december 1-től kezdődően a Kahf Dev csatorna többé nem kap böngészőfrissítéseket. Javasoljuk a felhasználóknak, hogy térjenek át a Kahf Nightly, Beta vagy Release verziójára.</translation>
+ <translation id="474217410105706308">Lap némítása</translation>
+-<translation id="2804710924397009224">Brave Rewards ikon elrejtése</translation>
+-<translation id="5029193871181468990">Brave jutalmak ikon elrejtése</translation>
+-<translation id="2808103541110899519">Brave pénztárca ikon elrejtése</translation>
+-<translation id="7595540212376041331">Brave pénztárca ikon elrejtése</translation>
++<translation id="2804710924397009224">Kahf Rewards ikon elrejtése</translation>
++<translation id="5029193871181468990">Kahf jutalmak ikon elrejtése</translation>
++<translation id="2808103541110899519">Kahf pénztárca ikon elrejtése</translation>
++<translation id="7595540212376041331">Kahf pénztárca ikon elrejtése</translation>
+ <translation id="4928988318462976765">Webes Kiterjesztések Áruháza</translation>
+ <translation id="9181207987584064303">Megtekintés a Webes Kiterjesztések Áruházában</translation>
+-<translation id="3161744659507801211">Figyelem: a Brave nem tudja megelőzni, hogy a bővítmények rögzítsék böngészési előzményeidet.</translation>
++<translation id="3161744659507801211">Figyelem: a Kahf nem tudja megelőzni, hogy a bővítmények rögzítsék böngészési előzményeidet.</translation>
+ <translation id="2162109630536601963">Ha ez a bővítmény hálózati kéréseket küld, akkor nem Tor vagy privát módot fog használni.</translation>
+ <translation id="2725327089319971976">A bővítmény letiltásához privát és Tor módban hagyd jelöletlenül ezt a lehetőséget.</translation>
+-<translation id="3371343170427636147">Brave böngésző Nightly alkalmazások</translation>
+-<translation id="4097979995947147464">Brave böngésző béta alkalmazások</translation>
+-<translation id="8303432794159193481">Brave böngésző fejlesztői alkalmazások</translation>
+-<translation id="8292967014767479012">Brave bőngésző alkalmazások</translation>
+-<translation id="4743468424889072281">Brave böngésző fejlesztési alkalmazások</translation>
++<translation id="3371343170427636147">Kahf böngésző Nightly alkalmazások</translation>
++<translation id="4097979995947147464">Kahf böngésző béta alkalmazások</translation>
++<translation id="8303432794159193481">Kahf böngésző fejlesztői alkalmazások</translation>
++<translation id="8292967014767479012">Kahf bőngésző alkalmazások</translation>
++<translation id="4743468424889072281">Kahf böngésző fejlesztési alkalmazások</translation>
+ <translation id="5039804452771397117">Engedélyezés</translation>
+ <translation id="7053983685419859001">Letiltás</translation>
+-<translation id="1679356339067548863">Segítsen fejleszteni a Brave termékstabilitását azáltal, hogy engedélyezi a diagnosztikai jelentések automatikus elküldését a Brave böngésző összeomlása vagy lefagyása esetén.</translation>
++<translation id="1679356339067548863">Segítsen fejleszteni a Kahf termékstabilitását azáltal, hogy engedélyezi a diagnosztikai jelentések automatikus elküldését a Kahf böngésző összeomlása vagy lefagyása esetén.</translation>
+ <translation id="660171790038410175">A <ph name="BROWSER_NAME"/> váratlanul leállt</translation>
+-<translation id="1324417023773393937">Brave böngésző</translation>
++<translation id="1324417023773393937">Kahf böngésző</translation>
+ <translation id="7276554663454265692">A(z) <ph name="SETTING_TEXT"/> beállítást bármikor módosíthatja a böngésző beállításaiban.</translation>
+ <translation id="6873781976650514089">ezt a beállítást</translation>
+ <translation id="4684633335323013758">A webhely hozzáférést kér az Ön <ph name="PART_ONE"/>hozzávetőleges tartózkodási helyéhez<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>További tudnivalók<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">A webhely hozzáférést kér az Ön <ph name="PART_ONE"/>pontos tartózkodási helyéhez<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>További tudnivalók<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">A webhely hozzáférést kér az Ön <ph name="PART_ONE"/>pontos tartózkodási helyéhez<ph name="PART_ONE_END"/>. A Brave csak a <ph name="PART_TWO"/>hozzávetőleges tartózkodási helyének<ph name="PART_TWO_END"/> adatait tudja megosztani, mert a <ph name="PART_THREE"/>Helyadat-szolgáltatások<ph name="PART_THREE_END"/> le vannak tiltva. <ph name="PART_FOUR"/>További tudnivalók<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">A webhely hozzáférést kér az Ön <ph name="PART_ONE"/>pontos tartózkodási helyéhez<ph name="PART_ONE_END"/>. A Kahf csak a <ph name="PART_TWO"/>hozzávetőleges tartózkodási helyének<ph name="PART_TWO_END"/> adatait tudja megosztani, mert a <ph name="PART_THREE"/>Helyadat-szolgáltatások<ph name="PART_THREE_END"/> le vannak tiltva. <ph name="PART_FOUR"/>További tudnivalók<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Összes bezárása</translation>
+ <translation id="7658239707568436148">Elvetés</translation>
+ <translation id="4870911314065352661">Bezárja az összes lapot?</translation>
+ <translation id="7551864359422178684">Ebben a böngészőablakban <ph name="NUMBER_OF_TABS"/> lap van megnyitva.</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/> lap</translation>
+ <translation id="1307431692088049276">Ne kérdezze meg többször</translation>
+-<translation id="6919364924256365253">Ne hagyatkozzon a Google-ra. A Bing sem az igazi. Válassza inkább a Brave-et.</translation>
+-<translation id="2640297688005939449">A Brave Keresés nem készít Önről profilt. És 100%-ban független.</translation>
++<translation id="6919364924256365253">Ne hagyatkozzon a Google-ra. A Bing sem az igazi. Válassza inkább a Kahf-et.</translation>
++<translation id="2640297688005939449">A Kahf Keresés nem készít Önről profilt. És 100%-ban független.</translation>
+ <translation id="7295094278358921487">Aki keres, az talál. Privát módban is.</translation>
+-<translation id="3462465068145800637">A Brave Keresés nem készít Önről profilt. És 100%-ban független a Big Techtől.</translation>
++<translation id="3462465068145800637">A Kahf Keresés nem készít Önről profilt. És 100%-ban független a Big Techtől.</translation>
+ <translation id="42032117189492785">MI-vel kiegészített keresés egyedi indexszel.</translation>
+ <translation id="8606416238399082160">Maximálisan privát, 100%-ban független, nagyszerű MI-funkciókkal.</translation>
+-<translation id="7706528608480893054">A DDG csupán a Bing álruhában. Eljött a valódi adatvédelem, jobb eredmények és független index ideje. Eljött a Brave kereső ideje.</translation>
++<translation id="7706528608480893054">A DDG csupán a Bing álruhában. Eljött a valódi adatvédelem, jobb eredmények és független index ideje. Eljött a Kahf kereső ideje.</translation>
+ <translation id="3818133234428578803">Eressze szélnek a kacsát</translation>
+-<translation id="14817360483752259">A Brave Search nem követi Önt, a lekérdezéseit és a kattintásait. És (a DDG-vel ellentétben) ez nem csupán a Bing álruhában.</translation>
++<translation id="14817360483752259">A Kahf Search nem követi Önt, a lekérdezéseit és a kattintásait. És (a DDG-vel ellentétben) ez nem csupán a Bing álruhában.</translation>
+ <translation id="4381193110021038941">Érjen el jobb eredményeket</translation>
+-<translation id="3846545273704969734">A Brave Search független ellenőrzések szerint jobb eredményeket nyújt, mint a Bing (vagy a Bing-klónok, például a DuckDuckGo).</translation>
++<translation id="3846545273704969734">A Kahf Search független ellenőrzések szerint jobb eredményeket nyújt, mint a Bing (vagy a Bing-klónok, például a DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Javítsa a keresési eredményeket</translation>
+-<translation id="4639001639513524869">A Brave kereső a legtöbb lekérdezésnél jobb eredményeket ad, mint a DuckDuckGo. És ténylegesen privát.</translation>
+-<translation id="5240031343741051161">A Brave kereső kipróbálása</translation>
++<translation id="4639001639513524869">A Kahf kereső a legtöbb lekérdezésnél jobb eredményeket ad, mint a DuckDuckGo. És ténylegesen privát.</translation>
++<translation id="5240031343741051161">A Kahf kereső kipróbálása</translation>
+ <translation id="5234764350956374838">Elvetés</translation>
+-<translation id="8722651357687610395">Tedd a Brave-et alapértelmezetté</translation>
++<translation id="8722651357687610395">Tedd a Kahf-et alapértelmezetté</translation>
+ <translation id="2370739752330685659">Talán később</translation>
+-<translation id="5100490448228945668">A Brave keresési átváltásának elvetése, a javaslat eltávolításához nyomja meg az Entert</translation>
++<translation id="5100490448228945668">A Kahf keresési átváltásának elvetése, a javaslat eltávolításához nyomja meg az Entert</translation>
+ <translation id="9194637241566114638">Segítse a <ph name="SEARCH_NAME"/> továbbfejlesztését anonimizált használati adatok küldésével.<ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave kereső</translation>
++<translation id="7404610376221341525">Kahf kereső</translation>
+ <translation id="8184318863960255706">További információ</translation>
+ <translation id="780301667611848630">Köszönöm, nem</translation>
+-<translation id="1162706247109707219">Az OK gombra kattintva Ön tudomásul veszi, hogy az Ön Brave-példánya NEM fogad további kritikus biztonsági javításokat, amíg Ön nem frissít Windows 10 vagy újabb verziójú operációs rendszerre. Ez a figyelmeztetés NEM jelenik meg többet.</translation>
+-<translation id="9164786361657554526">Az OK gombra kattintva Ön tudomásul veszi, hogy az Ön Brave-példánya NEM fogad további kritikus biztonsági javításokat, amíg Ön nem frissít macOS 10.15 vagy újabb verziójú operációs rendszerre. Ez a figyelmeztetés NEM jelenik meg többet.</translation>
++<translation id="1162706247109707219">Az OK gombra kattintva Ön tudomásul veszi, hogy az Ön Kahf-példánya NEM fogad további kritikus biztonsági javításokat, amíg Ön nem frissít Windows 10 vagy újabb verziójú operációs rendszerre. Ez a figyelmeztetés NEM jelenik meg többet.</translation>
++<translation id="9164786361657554526">Az OK gombra kattintva Ön tudomásul veszi, hogy az Ön Kahf-példánya NEM fogad további kritikus biztonsági javításokat, amíg Ön nem frissít macOS 10.15 vagy újabb verziójú operációs rendszerre. Ez a figyelmeztetés NEM jelenik meg többet.</translation>
+ <translation id="2770465223704140727">Eltávolítás a listából</translation>
+ <translation id="6020553119523541665">Ez a lap aktív egy másik ablakban</translation>
+ <translation id="4987392683074136770">Erre a lapra kattintva a lap tartalma megjelenik ebben az ablakban</translation>
+@@ -299,8 +299,8 @@ Később is módosíthatja a következő helyen: <ph name="SETTINGS_EXTENIONS_LI
+ <translation id="6453210454707928697">A tételt nem sikerült kifizetni.</translation>
+ <translation id="8741852840789907931">Elképzelhető, hogy a(z) [<ph name="ITEM_NAME"/>] lejárt. Szeretné visszaállítani?</translation>
+ <translation id="6155018868740116868">Visszaállítás</translation>
+-<translation id="1727684853006449697">Brave lejátszó</translation>
+-<translation id="9156965752763025780">Módosításai a Brave újraindítása után lépnek érvénybe.</translation>
++<translation id="1727684853006449697">Kahf lejátszó</translation>
++<translation id="9156965752763025780">Módosításai a Kahf újraindítása után lépnek érvénybe.</translation>
+ <translation id="7179921470347911571">Indítsd újra most</translation>
+ <translation id="1426410128494586442">Igen</translation>
+ <translation id="4250680216510889253">Nem</translation>
+@@ -339,7 +339,7 @@ Később is módosíthatja a következő helyen: <ph name="SETTINGS_EXTENIONS_LI
+ <translation id="8820817407110198400">Könyvjelzők</translation>
+ <translation id="4144468798716165316">Gyorsparancsok</translation>
+ <translation id="7310387888625228830">Leo MI-segéd</translation>
+-<translation id="5222974844674487962">Brave hírek gomb megjelenítése</translation>
++<translation id="5222974844674487962">Kahf hírek gomb megjelenítése</translation>
+ <translation id="383007806262310953">Könyvjelzősáv megjelenítése</translation>
+ <translation id="4054323497808446566">A Könyvjelzők sáv minden oldalon látható</translation>
+ <translation id="8693858092251192712">A Könyvjelzők sáv minden oldalon rejtve van, kivéve az Új lap oldalt</translation>
+@@ -440,7 +440,7 @@ Később is módosíthatja a következő helyen: <ph name="SETTINGS_EXTENIONS_LI
+ <translation id="4891600875049212418">Böngésszen rejtett módban a bizalmas oldalak felkeresésekor</translation>
+ <translation id="1968895725257436430">Adatgyűjtés</translation>
+ <translation id="4846154056248462491">Kilépéskor</translation>
+-<translation id="2808630562319398131">Brave Rewards adatok újraállítása...</translation>
++<translation id="2808630562319398131">Kahf Rewards adatok újraállítása...</translation>
+ <translation id="6438096877646138757">Olyan oldalak, amelyek a bezárásukkor törlik a sütiket</translation>
+ <translation id="2988792685798128092">Törlés az oldal bezárásakor</translation>
+ <translation id="7702907602086592255">Domain</translation>
+@@ -694,7 +694,7 @@ Leóval. Ezt a műveletet nem lehet visszavonni.</translation>
+ <translation id="7131172845656551327">A modell neve abban a formában, ahogyan a kiszolgáló keretrendszerhez küldött kérésben meg kell jelennie, pl. phi-3 (vegye figyelembe, hogy ha ez a név nem egyezik meg pontosan azzal, amit a kiszolgáló keretrendszer elvár, az integráció nem fog működni).</translation>
+ <translation id="3286410514484292784">Az az url, ahol az Ön kiszolgáló keretrendszere figyeli a kéréseket. Ha nem biztos benne, nézze meg a kiszolgáló keretrendszer dokumentációját. Például az Ollama esetében ez mindig a http://localhost:11434/v1/chat/completions.</translation>
+ <translation id="1058790648388035953">Egyes kiszolgáló keretrendszerek hitelesítő adatokat, például API-kulcsot vagy hozzáférési tokent igényelhetnek. Ezek bekerülnek a kérés fejlécébe.</translation>
+-<translation id="217141195370578385">A Brave nem kezeli proxyként ezeket a kéréseket, kérjük, olvassa el a kiválasztott szolgáltató adatvédelmi feltételeit.</translation>
++<translation id="217141195370578385">A Kahf nem kezeli proxyként ezeket a kéréseket, kérjük, olvassa el a kiválasztott szolgáltató adatvédelmi feltételeit.</translation>
+ <translation id="2645532768679870478">A nem helyi végpontoknak a HTTPS protokollt kell használniuk a biztonságos adatátvitelhez.</translation>
+ <translation id="8177205483022887785">Érvénytelen URL-t adott meg. Kérjük, adjon meg egy érvényes URL-t.</translation>
+ <translation id="5249539665306267943">Új modell hozzáadása</translation>

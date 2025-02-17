@@ -1,0 +1,135 @@
+diff a/app/resources/brave_generated_resources_ja.xtb b/app/resources/brave_generated_resources_ja.xtb	(rejected hunks)
+@@ -55,66 +55,66 @@
+ <translation id="4759098689276706664">強制ペースト</translation>
+ <translation id="1434416574322382019">新しいプライベートウィンドウ+Tor</translation>
+ <translation id="4703780849509456860">トーアのプライベートウィンドウでリンクを開く</translation>
+-<translation id="3488584642074079080">Braveプライベートウィンドウ+Tor でリンクを開く</translation>
++<translation id="3488584642074079080">Kahfプライベートウィンドウ+Tor でリンクを開く</translation>
+ <translation id="6313675821927505581">Torで新しいプライベートウィンドウを開く</translation>
+ <translation id="2638041073279639246">Torのプライベートウィンドウでリンクを開きます</translation>
+-<translation id="3425600262621021599">Torのプライベートウィンドウで Brave内のリンクを開く</translation>
+-<translation id="2545072023356206691">2023年12月1日から、Brave Devチャンネルはブラウザアップデートを受け取らなくなります。Nightly、Beta、またはRelease版のBraveに移行をお勧めします。</translation>
++<translation id="3425600262621021599">Torのプライベートウィンドウで Kahf内のリンクを開く</translation>
++<translation id="2545072023356206691">2023年12月1日から、Kahf Devチャンネルはブラウザアップデートを受け取らなくなります。Nightly、Beta、またはRelease版のKahfに移行をお勧めします。</translation>
+ <translation id="474217410105706308">タブをミュート</translation>
+-<translation id="2804710924397009224">Brave Rewards アイコンを非表示にします</translation>
+-<translation id="5029193871181468990">Brave Rewardsアイコンを非表示にする</translation>
+-<translation id="2808103541110899519">Braveウォレットのアイコンを非表示</translation>
+-<translation id="7595540212376041331">Braveウォレットのアイコンを非表示</translation>
++<translation id="2804710924397009224">Kahf Rewards アイコンを非表示にします</translation>
++<translation id="5029193871181468990">Kahf Rewardsアイコンを非表示にする</translation>
++<translation id="2808103541110899519">Kahfウォレットのアイコンを非表示</translation>
++<translation id="7595540212376041331">Kahfウォレットのアイコンを非表示</translation>
+ <translation id="4928988318462976765">ウェブ拡張機能ストア</translation>
+ <translation id="9181207987584064303">ウェブ拡張ストアを見る</translation>
+-<translation id="3161744659507801211">警告：Braveは拡張機能が閲覧履歴を記録するのを防ぐことはできません。</translation>
++<translation id="3161744659507801211">警告：Kahfは拡張機能が閲覧履歴を記録するのを防ぐことはできません。</translation>
+ <translation id="2162109630536601963">この拡張機能がネットワーク要求を行う場合、Torまたはプライベートモードは使用されません。</translation>
+ <translation id="2725327089319971976">プライベートモードとTorモードでこの拡張機能を無効にするには、このオプションの選択を解除します。</translation>
+-<translation id="3371343170427636147">Brave Nightly</translation>
+-<translation id="4097979995947147464">Brave Beta</translation>
+-<translation id="8303432794159193481">Brave Dev</translation>
+-<translation id="8292967014767479012">Brave</translation>
+-<translation id="4743468424889072281">Brave Development</translation>
++<translation id="3371343170427636147">Kahf Nightly</translation>
++<translation id="4097979995947147464">Kahf Beta</translation>
++<translation id="8303432794159193481">Kahf Dev</translation>
++<translation id="8292967014767479012">Kahf</translation>
++<translation id="4743468424889072281">Kahf Development</translation>
+ <translation id="5039804452771397117">許可</translation>
+ <translation id="7053983685419859001">ブロック</translation>
+-<translation id="1679356339067548863">Braveブラウザのクラッシュやフリーズ時に診断レポートを自動送信し、Brave製品の安定性向上に貢献します。</translation>
++<translation id="1679356339067548863">Kahfブラウザのクラッシュやフリーズ時に診断レポートを自動送信し、Kahf製品の安定性向上に貢献します。</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/>が予期せず終了しました。</translation>
+-<translation id="1324417023773393937">Braveブラウザ</translation>
++<translation id="1324417023773393937">Kahfブラウザ</translation>
+ <translation id="7276554663454265692"><ph name="SETTING_TEXT"/>はブラウザ設定でいつでも変更できます。</translation>
+ <translation id="6873781976650514089">この設定</translation>
+ <translation id="4684633335323013758">このサイトはあなたの<ph name="PART_ONE"/>一般的な位置情報<ph name="PART_ONE_END"/>をリクエストしています。<ph name="PART_TWO"/>詳細はこちら<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">このサイトはあなたの<ph name="PART_ONE"/>正確な位置情報<ph name="PART_ONE_END"/>をリクエストしています。<ph name="PART_TWO"/>詳細はこちら<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">このサイトはあなたの<ph name="PART_ONE"/>正確な位置情報<ph name="PART_ONE_END"/>をリクエストしています。<ph name="PART_THREE"/>位置情報サービス<ph name="PART_THREE_END"/>が無効化されているため、Braveからは<ph name="PART_TWO"/>一般的な位置情報<ph name="PART_TWO_END"/>データのみ提供されます。<ph name="PART_FOUR"/>詳細はこちら<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">このサイトはあなたの<ph name="PART_ONE"/>正確な位置情報<ph name="PART_ONE_END"/>をリクエストしています。<ph name="PART_THREE"/>位置情報サービス<ph name="PART_THREE_END"/>が無効化されているため、Kahfからは<ph name="PART_TWO"/>一般的な位置情報<ph name="PART_TWO_END"/>データのみ提供されます。<ph name="PART_FOUR"/>詳細はこちら<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">すべてを閉じる</translation>
+ <translation id="7658239707568436148">Cancel</translation>
+ <translation id="4870911314065352661">すべてのタブを閉じますか？</translation>
+ <translation id="7551864359422178684">このブラウザウィンドウで<ph name="NUMBER_OF_TABS"/>個のタブを開いています。</translation>
+ <translation id="2571596981920752023"><ph name="NUMBER_OF_TABS"/>個のタブ</translation>
+ <translation id="1307431692088049276">次回から質問しない</translation>
+-<translation id="6919364924256365253">GoogleもBingも卒業。これからはBraveで。</translation>
+-<translation id="2640297688005939449">Brave検索はユーザー情報をプロファイリングしません。100％独立した独自のシステムです。</translation>
++<translation id="6919364924256365253">GoogleもBingも卒業。これからはKahfで。</translation>
++<translation id="2640297688005939449">Kahf検索はユーザー情報をプロファイリングしません。100％独立した独自のシステムです。</translation>
+ <translation id="7295094278358921487">見たいデータをプライベートで検索</translation>
+-<translation id="3462465068145800637">Brave検索はユーザー情報をプロファイリングしません。大手テック企業からは100％独立した独自のシステムです。</translation>
++<translation id="3462465068145800637">Kahf検索はユーザー情報をプロファイリングしません。大手テック企業からは100％独立した独自のシステムです。</translation>
+ <translation id="42032117189492785">独自のインデックスでAIを取り入れた検索を。</translation>
+ <translation id="8606416238399082160">完全プライベート、100％独立型、優れたAI機能も搭載。</translation>
+-<translation id="7706528608480893054">個人情報を収集しないことで知られるDDGですが、本質的にはこれまでと何ら変わりはありません。Brave検索は、本当の意味でのプライバシーとより良い検索結果、独立したインデックスをすべての方に提供します。</translation>
++<translation id="7706528608480893054">個人情報を収集しないことで知られるDDGですが、本質的にはこれまでと何ら変わりはありません。Kahf検索は、本当の意味でのプライバシーとより良い検索結果、独立したインデックスをすべての方に提供します。</translation>
+ <translation id="3818133234428578803">その検索、本当に安全？</translation>
+-<translation id="14817360483752259">Brave検索は個人情報、クエリ、クリックを追跡しない真にプライベートな検索エンジンです。DDGやBing...今お使いのものはいかがですか？</translation>
++<translation id="14817360483752259">Kahf検索は個人情報、クエリ、クリックを追跡しない真にプライベートな検索エンジンです。DDGやBing...今お使いのものはいかがですか？</translation>
+ <translation id="4381193110021038941">欲しい検索結果がここに</translation>
+-<translation id="3846545273704969734">Brave検索は独自に情報を検証し、ニーズに合ったより細やかな検索結果を提供します。これは、他社製品にはないBraveならではの強みです。</translation>
++<translation id="3846545273704969734">Kahf検索は独自に情報を検証し、ニーズに合ったより細やかな検索結果を提供します。これは、他社製品にはないKahfならではの強みです。</translation>
+ <translation id="2841164160723712537">検索精度がはるかに向上</translation>
+-<translation id="4639001639513524869">Brave検索はほとんどのクエリで他社エンジンよりも優れた結果を提供します。しかも、完全プライベート。</translation>
+-<translation id="5240031343741051161">Brave Searchを試してみる</translation>
++<translation id="4639001639513524869">Kahf検索はほとんどのクエリで他社エンジンよりも優れた結果を提供します。しかも、完全プライベート。</translation>
++<translation id="5240031343741051161">Kahf Searchを試してみる</translation>
+ <translation id="5234764350956374838">表示しない</translation>
+-<translation id="8722651357687610395">Braveをデフォルトに設定</translation>
++<translation id="8722651357687610395">Kahfをデフォルトに設定</translation>
+ <translation id="2370739752330685659">あとで</translation>
+-<translation id="5100490448228945668">Brave 検索への切り替えを無効にします。[Enter] キーを押してこの提案を消します。</translation>
++<translation id="5100490448228945668">Kahf 検索への切り替えを無効にします。[Enter] キーを押してこの提案を消します。</translation>
+ <translation id="9194637241566114638"><ph name="SEARCH_NAME"/>を改善するために、匿名の使用データを送信してください。 <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Brave Search</translation>
++<translation id="7404610376221341525">Kahf Search</translation>
+ <translation id="8184318863960255706">詳細</translation>
+ <translation id="780301667611848630">いいえ</translation>
+-<translation id="1162706247109707219">OKをクリックすることで、お客様はWindows 10以降にアップデートするまで、インストールしたBraveブラウザに重要なセキュリティの修正が適用されないことを了承したものとみなされます。この警告は今後表示されません。</translation>
+-<translation id="9164786361657554526">OKをクリックすることで、お客様はmacOS 10.15以降にアップデートするまで、インストールしたBraveブラウザに重要なセキュリティの修正が適用されないことを了承したものとみなされます。この警告は今後表示されません。</translation>
++<translation id="1162706247109707219">OKをクリックすることで、お客様はWindows 10以降にアップデートするまで、インストールしたKahfブラウザに重要なセキュリティの修正が適用されないことを了承したものとみなされます。この警告は今後表示されません。</translation>
++<translation id="9164786361657554526">OKをクリックすることで、お客様はmacOS 10.15以降にアップデートするまで、インストールしたKahfブラウザに重要なセキュリティの修正が適用されないことを了承したものとみなされます。この警告は今後表示されません。</translation>
+ <translation id="2770465223704140727">リストから削除</translation>
+ <translation id="6020553119523541665">このタブは別のウィンドウで有効になっています</translation>
+ <translation id="4987392683074136770">このタブをクリックすると、コンテンツがこのウィンドウに表示されます</translation>
+@@ -299,8 +299,8 @@
+ <translation id="6453210454707928697">アイテムの再生に失敗しました</translation>
+ <translation id="8741852840789907931">[<ph name="ITEM_NAME"/>]の有効期限が切れている可能性があります。復元しますか？</translation>
+ <translation id="6155018868740116868">復元する</translation>
+-<translation id="1727684853006449697">Braveプレーヤー</translation>
+-<translation id="9156965752763025780">変更内容は次に Brave を再起動したときに有効になります。</translation>
++<translation id="1727684853006449697">Kahfプレーヤー</translation>
++<translation id="9156965752763025780">変更内容は次に Kahf を再起動したときに有効になります。</translation>
+ <translation id="7179921470347911571">今すぐ再起動</translation>
+ <translation id="1426410128494586442">はい</translation>
+ <translation id="4250680216510889253">いいえ</translation>
+@@ -339,7 +339,7 @@
+ <translation id="8820817407110198400">ブックマーク バー</translation>
+ <translation id="4144468798716165316">クイックコマンド</translation>
+ <translation id="7310387888625228830">Leo AI アシスタント</translation>
+-<translation id="5222974844674487962">Braveニュースボタンを表示する</translation>
++<translation id="5222974844674487962">Kahfニュースボタンを表示する</translation>
+ <translation id="383007806262310953">ブックマーク バーを表示する</translation>
+ <translation id="4054323497808446566">ブックマーク バーをすべてのページに表示</translation>
+ <translation id="8693858092251192712">新しいタブページを除き、ブックマーク バーをすべてのページで非表示</translation>
+@@ -440,7 +440,7 @@
+ <translation id="4891600875049212418">機密性の高いサイトを訪問する場合はOTRモードに切り替える</translation>
+ <translation id="1968895725257436430">データコレクション</translation>
+ <translation id="4846154056248462491">終了時に</translation>
+-<translation id="2808630562319398131">Brave Rewardsデータをリセット...</translation>
++<translation id="2808630562319398131">Kahf Rewardsデータをリセット...</translation>
+ <translation id="6438096877646138757">閉じたときにCookiesを消去するサイト</translation>
+ <translation id="2988792685798128092">サイトを閉じたときに消去</translation>
+ <translation id="7702907602086592255">ドメイン</translation>
+@@ -694,7 +694,7 @@ Leoとの会話がすべて削除されます。この操作を元に戻すこ
+ <translation id="7131172845656551327">サービングフレームワークへのリクエストで表示されるモデル名。例: phi-3 (この名前がサービングフレームワークでの想定値と正確に一致しない場合、統合が機能しないためご注意ください)</translation>
+ <translation id="3286410514484292784">サービングフレームワークがリクエストをリッスンする URL。不明点がある場合は、サービングフレームワークのドキュメントを確認してください。英: Ollama の場合は、常に「http://localhost:11434/v1/chat/completions」となります。</translation>
+ <translation id="1058790648388035953">サービングフレームワークによっては、APIキーやアクセストークンなどの認証情報を必要とする場合があります。これらはリクエストヘッダーに追加されます。</translation>
+-<translation id="217141195370578385">Braveはこれらのリクエストのプロキシを行いません。選択したプロバイダーのプライバシー規約をお読みください。</translation>
++<translation id="217141195370578385">Kahfはこれらのリクエストのプロキシを行いません。選択したプロバイダーのプライバシー規約をお読みください。</translation>
+ <translation id="2645532768679870478">非ローカルのエンドポイントには、安全なデータ伝送のためにHTTPSプロトコルを採用してください。</translation>
+ <translation id="8177205483022887785">入力されたURLが無効です。有効なURLを入力してください。</translation>
+ <translation id="5249539665306267943">新しいモデルを追加</translation>

@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_el.xtb b/components/resources/strings/brave_components_resources_el.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Σύνδεση με bitFlyer</translation>
+ <translation id="6143701117592994599">Αν συνδέσετε τις Ανταμοιβές Kahf με λογαριασμό bitFlyer, θα μπορείτε να κερδίζετε BAT και να κάνετε ανάληψη των BAT που έχετε κερδίσει από Ανταμοιβές Kahf.</translation>
+ <translation id="4354564238172327160">Γίνετε Δημιουργός Kahf!</translation>
+-<translation id="4639659520811817892">Μεταβείτε στο creators.brave.com για να εγγραφείτε σήμερα και ξεκινήστε να κερδίζετε BAT από τους θαυμαστές και τους ακολούθους σας.</translation>
++<translation id="4639659520811817892">Μεταβείτε στο creators.Kahf.com για να εγγραφείτε σήμερα και ξεκινήστε να κερδίζετε BAT από τους θαυμαστές και τους ακολούθους σας.</translation>
+ <translation id="4816455138209470435">Το Kahf υποστηρίζει το YouTube, το Twitch, το Vimeo και πολλά άλλα!</translation>
+ <translation id="7404779623219601861">Εξαργυρώστε BAT με Δωροκάρτες</translation>
+ <translation id="6215565499749144110">Με το δίκτυο TAP, μπορείτε να εξαργυρώσετε τα BAT σας με δημοφιλείς επώνυμες δωροκάρτες.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">Η συνεισφορά έχει σταλεί!</translation>
+ <translation id="7063168612616047608">Σας ευχαριστουμε που υποστηρίζετε τους αγαπημένους σας δημιουργούς</translation>
+ <translation id="1041398280582063935">Μοιραστείτε την υποστήριξή σας</translation>
+-<translation id="4001190813297686107">Μόλις έστειλα συνεισφορά <ph name="AMOUNT"/> BAT χρησιμοποιώντας το πρόγραμμα περιήγησης Kahf! Δείτε πώς μπορείτε να υποστηρίξετε τους αγαπημένους σας δημιουργούς και ιστοτόπους: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Μόλις έστειλα συνεισφορά <ph name="AMOUNT"/> BAT χρησιμοποιώντας το πρόγραμμα περιήγησης Kahf! Δείτε πώς μπορείτε να υποστηρίξετε τους αγαπημένους σας δημιουργούς και ιστοτόπους: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Παρουσιάστηκε μη αναμενόμενο σφάλμα</translation>
+ <translation id="2605703631071131439">Ανοίξτε ξανά το πλαίσιο συνεισφοράς για να προσπαθήσετε ξανά.</translation>
+ <translation id="8855543392451028706">Καλώς ήρθατε! Οι χρήστες μπορούν να υποστηρίξουν αυτόν τον δημιουργό περιεχομένου στέλνοντάς του συνεισφορές. Είναι ένας τρόπος να τον ευχαριστήσετε που δημιουργεί τέλειο περιεχόμενο.</translation>
+@@ -2052,7 +2052,7 @@
+ <translation id="1093419424466417703">Η σελίδα είναι πολύ μεγάλη για τον Leo. Κάποια στοιχεία ενδέχεται να λείπουν από τη συζήτηση. Ο Leo κατάφερε να διαβάσει <ph name="PERCENTAGE"/> των περιεχομένων της σελίδας.</translation>
+ <translation id="2186990448773134544">Το περιεχόμενο της σελίδας έχει βελτιωθεί μέσω της εξαγωγής των πιο σχετικών πληροφοριών από τη σελίδα, επειδή ήταν πολύ μεγάλο για τον Leo.</translation>
+ <translation id="4370698775470316661">Αυτή η συζήτηση είναι πολύ μεγάλη και δεν μπορεί να συνεχιστεί. Μπορεί να υπάρχουν άλλα διαθέσιμα μοντέλα με τα οποία το Leo μπορεί να διατηρήσει την ακρίβεια για μεγαλύτερες συζητήσεις.</translation>
+-<translation id="5719170755629028558">Βελτίωση της απάντησής σας με την Αναζήτηση Brave...</translation>
++<translation id="5719170755629028558">Βελτίωση της απάντησής σας με την Αναζήτηση Kahf...</translation>
+ <translation id="5794962229997281366">Αναζήτηση βελτιωμένης απάντησης για <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Συνομιλία γενικών θεμάτων</translation>
+ <translation id="8193130769524604031">Εργασίες συνομιλίας για προχωρημένους</translation>
+@@ -2261,7 +2261,7 @@
+ <translation id="7423206764347669977">Αλλαγή των ρυθμίσεων</translation>
+ <translation id="9061845622728745852">Ζώνη ώρας:</translation>
+ <translation id="8295393906499561642">Η περίοδος σύνδεσης έληξε</translation>
+-<translation id="3312623558576021182">Συνδεθείτε στον<ph name="BRAVE_ACCOUNT_BEGIN"/>λογαριασμό σας Kahf Account<ph name="BRAVE_ACCOUNT_END"/> για να ανανεώσετε την περίοδο σύνδεσής σας VPN.</translation>
++<translation id="3312623558576021182">Συνδεθείτε στον<ph name="Kahf_ACCOUNT_BEGIN"/>λογαριασμό σας Kahf Account<ph name="Kahf_ACCOUNT_END"/> για να ανανεώσετε την περίοδο σύνδεσής σας VPN.</translation>
+ <translation id="6021669293402055982">Kahf VPN: Αποσυνδέθηκε</translation>
+ <translation id="7861195049821776142">Kahf VPN: Αποσύνδεση</translation>
+ <translation id="958268166261124668">Kahf VPN: Συνδέθηκε</translation>

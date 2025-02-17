@@ -1,0 +1,1339 @@
+diff a/app/resources/generated_resources_sl.xtb b/app/resources/generated_resources_sl.xtb	(rejected hunks)
+@@ -14,7 +14,7 @@
+ <translation id="1006873397406093306">Ta razširitev lahko bere in spreminja vaše podatke na spletnih mestih. Nadzirate lahko, do katerih spletnih mest lahko razširitev dostopa.</translation>
+ <translation id="1007057452468855774">Vklopi Trgovino Google Play</translation>
+ <translation id="1008186147501209563">Izvoz zaznamkov</translation>
+-<translation id="3901381663982727081">Zato Brave namerava postopoma ukiniti uporabo piškotkov »tretjih oseb«, ko bomo odpravili morebitne preostale pomisleke glede konkurence <ph name="BEGIN_LINK"/>Uprave Združenega kraljestva za konkurenco in trge (CMA)<ph name="END_LINK"/>.</translation>
++<translation id="3901381663982727081">Zato Kahf namerava postopoma ukiniti uporabo piškotkov »tretjih oseb«, ko bomo odpravili morebitne preostale pomisleke glede konkurence <ph name="BEGIN_LINK"/>Uprave Združenega kraljestva za konkurenco in trge (CMA)<ph name="END_LINK"/>.</translation>
+ <translation id="1008261151167010035"><ph name="BRAND"/> si zapomni način vaše prijave in vas samodejno prijavi, ko je to mogoče. Če je ta možnost izklopljena, boste vsakič pozvani k potrditvi.</translation>
+ <translation id="1008544602823861396">ne sme uporabljati vaših podatkov na</translation>
+ <translation id="1008557486741366299">Ne zdaj</translation>
+@@ -97,9 +97,9 @@
+ <translation id="10619348099955377">Kopiraj prikazno ime</translation>
+ <translation id="1062407476771304334">Zamenjaj</translation>
+ <translation id="1062628064301375934">Pomagajte nam oblikovati zasebnejši splet</translation>
+-<translation id="1804401003737443172">{NUM_SITES,plural, =1{Brave je odstranil dovoljenja za 1 spletno mesto}one{Brave je odstranil dovoljenja za {NUM_SITES} spletno mesto}two{Brave je odstranil dovoljenja za {NUM_SITES} spletni mesti}few{Brave je odstranil dovoljenja za {NUM_SITES} spletna mesta}other{Brave je odstranil dovoljenja za {NUM_SITES} spletnih mest}}</translation>
++<translation id="1804401003737443172">{NUM_SITES,plural, =1{Kahf je odstranil dovoljenja za 1 spletno mesto}one{Kahf je odstranil dovoljenja za {NUM_SITES} spletno mesto}two{Kahf je odstranil dovoljenja za {NUM_SITES} spletni mesti}few{Kahf je odstranil dovoljenja za {NUM_SITES} spletna mesta}other{Kahf je odstranil dovoljenja za {NUM_SITES} spletnih mest}}</translation>
+ <translation id="1066964438793906105">Iskanje zlonamerne programske opreme</translation>
+-<translation id="3983904244054509097">Zaradi dodatne varnosti lahko šifrirate gesla v napravi, preden se shranijo v računu Brave.</translation>
++<translation id="3983904244054509097">Zaradi dodatne varnosti lahko šifrirate gesla v napravi, preden se shranijo v računu Kahf.</translation>
+ <translation id="5428209950370661546">Druge Googlove storitve</translation>
+ <translation id="106814709658156573">Če želite nastaviti prstni odtis, naj se otrok dotakne tipala prstnih odtisov v spodnjem levem kotu tipkovnice. Podatki o prstnih odtisih otroka so varno shranjeni in nikoli ne zapustijo naprave <ph name="DEVICE_TYPE"/>.</translation>
+ <translation id="106855837688344862">Dogodki dotika</translation>
+@@ -184,7 +184,7 @@ Svoja gesla lahko kadar koli preverite v storitvi <ph name="GOOGLE_PASSWORD_MANA
+ <translation id="1124772482545689468">Uporabnik</translation>
+ <translation id="1125550662859510761">Videti je <ph name="WIDTH"/> x <ph name="HEIGHT"/> (izvorna)</translation>
+ <translation id="1125921926864945797">Zaslonsko ozadje in slog</translation>
+-<translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Brave.</translation>
++<translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Kahf.</translation>
+ <translation id="1128090040635299943">Linux se trenutno konfigurira. Konfiguriranje bo trajalo nekaj minut.</translation>
+ <translation id="1128591060186966949">Urejanje iskalnika</translation>
+ <translation id="1129348283834595293">Cyberpunk</translation>
+@@ -235,7 +235,7 @@ Svoja gesla lahko kadar koli preverite v storitvi <ph name="GOOGLE_PASSWORD_MANA
+ <translation id="1164891049599601209">Vneseno na zavajajočem spletnem mestu</translation>
+ <translation id="1165039591588034296">Napaka</translation>
+ <translation id="1166212789817575481">Zapri zavihke na desni</translation>
+-<translation id="7442743521469696229">Uporaba in shranjevanje gesel in ključev za dostop iz računa Brave</translation>
++<translation id="7442743521469696229">Uporaba in shranjevanje gesel in ključev za dostop iz računa Kahf</translation>
+ <translation id="1166583374608765787">Pregled posodobitve imena</translation>
+ <translation id="1166596238782048887"><ph name="TAB_TITLE"/> pripada namizju <ph name="DESK_TITLE"/></translation>
+ <translation id="1167262726334064738">Preizkusite novo geslo</translation>
+@@ -250,7 +250,7 @@ Svoja gesla lahko kadar koli preverite v storitvi <ph name="GOOGLE_PASSWORD_MANA
+ <translation id="1173332155861271669">Podrobnosti o ponudniku protokola Passpoint</translation>
+ <translation id="1173894706177603556">Preimenuj</translation>
+ <translation id="1174073918202301297">Bližnjica je bila dodana</translation>
+-<translation id="4720923867206970346">Vaša povezava je vedno varna, razen če Brave ne sporoči drugače.</translation>
++<translation id="4720923867206970346">Vaša povezava je vedno varna, razen če Kahf ne sporoči drugače.</translation>
+ <translation id="1175131936083782305">To funkcijo je onemogočil skrbnik.</translation>
+ <translation id="1175364870820465910">&amp;Natisni ...</translation>
+ <translation id="1175914831232945926">Števke</translation>
+@@ -385,7 +385,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="126387934568812801">Vključi ta posnetek zaslona in naslove odprtih zavihkov</translation>
+ <translation id="1264083566674525434">Urejanje dovoljenj za spletna mesta</translation>
+ <translation id="1264337193001759725">Če si želite ogledati dnevnike omrežnega uporabniškega vmesnika, obiščite: <ph name="DEVICE_LOG_LINK"/></translation>
+-<translation id="1220306721041152328">Vaše aplikacije in nastavitve se bodo sinhronizirale v vseh napravah ChromeOS Flex, v katerih ste prijavljeni z računom Brave. Če vas zanimajo možnosti sinhronizacije brskalnika, odprite <ph name="LINK_BEGIN"/>Chromove nastavitve<ph name="LINK_END"/>.</translation>
++<translation id="1220306721041152328">Vaše aplikacije in nastavitve se bodo sinhronizirale v vseh napravah ChromeOS Flex, v katerih ste prijavljeni z računom Kahf. Če vas zanimajo možnosti sinhronizacije brskalnika, odprite <ph name="LINK_BEGIN"/>Chromove nastavitve<ph name="LINK_END"/>.</translation>
+ <translation id="126710816202626562">Jezik prevoda:</translation>
+ <translation id="1267649802567297774">Ustvarjena je bila slika št. <ph name="INDEX"/> za »<ph name="SUBJECT"/>« v slogu <ph name="STYLE"/> z razpoloženjem <ph name="MOOD"/>.</translation>
+ <translation id="126768002343224824">16 x</translation>
+@@ -484,7 +484,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="1343865611738742294">Omogočanje, da aplikacije za Linux dostopajo do naprav USB. Linux si ne zapomni naprave USB, ko jo odstranite.</translation>
+ <translation id="1343920184519992513">Nadaljuj prejšnjo sejo in odprti določen nabor strani</translation>
+ <translation id="1344141078024003905">Predvajate zaslon. Predvajanje zaslona lahko kadar koli začasno zaustavite ali ustavite.</translation>
+-<translation id="1346403631707626730">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Pomagajte izboljšati otrokovo izkušnjo z Androidom s samodejnim pošiljanjem diagnostičnih podatkov ter podatkov o uporabi naprave in aplikacij Googlu. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če ste za otroka vklopili dodatno dejavnost v spletu in aplikacijah, bodo ti podatki morda shranjeni v njegovem računu Brave. <ph name="BEGIN_LINK1"/>Preberite več o meritvah<ph name="BEGIN_LINK1_END"/>Več o tem<ph name="END_LINK1"/>.</translation>
++<translation id="1346403631707626730">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Pomagajte izboljšati otrokovo izkušnjo z Androidom s samodejnim pošiljanjem diagnostičnih podatkov ter podatkov o uporabi naprave in aplikacij Googlu. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če ste za otroka vklopili dodatno dejavnost v spletu in aplikacijah, bodo ti podatki morda shranjeni v njegovem računu Kahf. <ph name="BEGIN_LINK1"/>Preberite več o meritvah<ph name="BEGIN_LINK1_END"/>Več o tem<ph name="END_LINK1"/>.</translation>
+ <translation id="1346630054604077329">Potrdi in znova zaženi</translation>
+ <translation id="1346748346194534595">V desno</translation>
+ <translation id="1347512539447549782">Shramba za Linux</translation>
+@@ -511,7 +511,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="136522805455656552">Če želite poskrbeti za varnost naprave, uporabljajte in nameščajte samo programsko opremo iz zaupanja vrednih virov in zaupanja vrednih razvijalcev. <ph name="LEARN_MORE"/></translation>
+ <translation id="1367817137674340530">Ustvarjenih toliko slik: <ph name="COUNT"/></translation>
+ <translation id="1368603372088757436">Linux v napravi <ph name="DEVICE_TYPE"/> ni podprt. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+-<translation id="799844208112570829">Če jih želite uporabljati v drugih napravah, jih shranite v računu Brave</translation>
++<translation id="799844208112570829">Če jih želite uporabljati v drugih napravah, jih shranite v računu Kahf</translation>
+ <translation id="1370384480654163477">Prikažite in uredite datoteke, ko ste nazadnje obiskali to spletno mesto:</translation>
+ <translation id="1372841398847029212">Sinhroniziraj z računom</translation>
+ <translation id="1373176046406139583">Z nastavitvijo vidnosti naprave določite, kdo lahko deli vsebino z vami, medtem ko je zaslon odklenjen. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+@@ -547,7 +547,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="1396120028054416908">Nazaj na mapo <ph name="FOLDER_TITLE"/></translation>
+ <translation id="1396139853388185343">Napaka pri nastavljanju tiskalnika</translation>
+ <translation id="1397500194120344683">Ni ustreznih naprav. <ph name="LINK_BEGIN"/>Preberite več o tem.<ph name="LINK_END"/></translation>
+-<translation id="6748713973802395004">V teh napravah ste prijavljeni v Brave, torej jih lahko uporabljate kot varnostne ključe.</translation>
++<translation id="6748713973802395004">V teh napravah ste prijavljeni v Kahf, torej jih lahko uporabljate kot varnostne ključe.</translation>
+ <translation id="1398853756734560583">Povečaj</translation>
+ <translation id="139911022479327130">Odklenite telefon in potrdite, da ste to res vi.</translation>
+ <translation id="1399261165075500043">Pogojev storitve za Google Play ni mogoče naložiti</translation>
+@@ -681,7 +681,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1485015260175968628">Zdaj lahko:</translation>
+ <translation id="1485141095922496924">Različica <ph name="PRODUCT_VERSION"/> (<ph name="PRODUCT_CHANNEL"/>) <ph name="PRODUCT_MODIFIER"/> <ph name="PRODUCT_VERSION_BITS"/></translation>
+ <translation id="1485197926103629489">Storitev Microsoft 365 zahteva, da se datoteke shranjujejo v OneDrive. Lokalne datoteke bodo premaknjene, datoteke z drugih lokacij pa kopirane. Datoteke lahko poiščete v mapi Microsoft OneDrive v aplikaciji Datoteke.</translation>
+-<translation id="4562406559168301360">Ko postavite vprašanja, Pomočnik Brave ponuja prilagojene odgovore glede na vsebino zaslona</translation>
++<translation id="4562406559168301360">Ko postavite vprašanja, Pomočnik Kahf ponuja prilagojene odgovore glede na vsebino zaslona</translation>
+ <translation id="1486096554574027028">Iskanje gesel</translation>
+ <translation id="1486486872607808064">Optično preberite to kodo QR s fotoaparatom v napravi, v kateri želite ustvariti ključ za dostop za aplikacijo <ph name="APP_NAME"/>.</translation>
+ <translation id="1486616492435615702">Ustvarite osnutek ali izboljšajte obstoječe delo.</translation>
+@@ -902,7 +902,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1632293440289326475">Vklopite varčevanje z energijo, da podaljšate čas delovanja baterije</translation>
+ <translation id="1632756664321977232">Orodje za obrezovanje</translation>
+ <translation id="163309982320328737">Prvotna širina znaka je zapolnjena</translation>
+-<translation id="5778813027254879911">Izklop Pomočnika Brave</translation>
++<translation id="5778813027254879911">Izklop Pomočnika Kahf</translation>
+ <translation id="1634224622052500893">Najdeno je omrežje Wi-Fi</translation>
+ <translation id="1634783886312010422">Ali ste že spremenili geslo na spletnem mestu <ph name="WEBSITE"/>?</translation>
+ <translation id="1636212173818785548">V redu</translation>
+@@ -940,7 +940,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1651609627703324721">Ta zavihek predvaja vsebino VR v slušalkah z mikrofonom</translation>
+ <translation id="1652281434788353738">Pozorno</translation>
+ <translation id="1652326691684645429">Omogočanje deljenja v bližini</translation>
+-<translation id="3549478477646243075">Če želite Googlovega upravitelja gesel uporabljati s shrambo poverilnic sistema macOS, Keychain, znova zaženite Brave in omogočite dostop do shrambe poverilnic Keychain. Zavihki se bodo po vnovičnem zagonu znova odprli.</translation>
++<translation id="3549478477646243075">Če želite Googlovega upravitelja gesel uporabljati s shrambo poverilnic sistema macOS, Keychain, znova zaženite Kahf in omogočite dostop do shrambe poverilnic Keychain. Zavihki se bodo po vnovičnem zagonu znova odprli.</translation>
+ <translation id="1653958716132599769">Združitev sorodnih zavihkov</translation>
+ <translation id="1654580009054503925">Prikazovanje zahtev ni dovoljeno</translation>
+ <translation id="1654713139320245449">Najden ni noben cilj predvajanja. Potrebujete pomoč?</translation>
+@@ -1066,10 +1066,10 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1746797507422124818">Vaši podatki med brskanjem</translation>
+ <translation id="1748283190377208783">{0,plural, =1{unused plural form}one{Želite odpreti in urediti # datoteko v tej spletni aplikaciji?}two{Želite odpreti in urediti # datoteki v tej spletni aplikaciji?}few{Želite odpreti in urediti # datoteke v tej spletni aplikaciji?}other{Želite odpreti in urediti # datotek v tej spletni aplikaciji?}}</translation>
+ <translation id="1748329107062243374">Uporabite ključ za dostop v napravi <ph name="DEVICE_NAME"/> za prijavo na spletnem mestu <ph name="WEBSITE"/></translation>
+-<translation id="1901235742643584247">To geslo lahko shranite v računu Brave ali samo v tej napravi</translation>
++<translation id="1901235742643584247">To geslo lahko shranite v računu Kahf ali samo v tej napravi</translation>
+ <translation id="1749733017156547309">Vnesti morate geslo.</translation>
+ <translation id="1750172676754093297">Vaš varnostni ključ ne more shranjevati prstnih odtisov</translation>
+-<translation id="12433225238423439">Še naprej uporabljajte gesla v računu Brave</translation>
++<translation id="12433225238423439">Še naprej uporabljajte gesla v računu Kahf</translation>
+ <translation id="1751262127955453661">Spletno mesto <ph name="ORIGIN"/> bo lahko urejalo datoteke v mapi <ph name="FOLDERNAME"/>, dokler ne zaprete vseh zavihkov tega spletnega mesta</translation>
+ <translation id="1751335846119670066">Pomagaj mi brati</translation>
+ <translation id="17513872634828108">Odprti zavihki</translation>
+@@ -1131,7 +1131,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1794212650797661990">Skrij geslo za <ph name="DOMAIN"/></translation>
+ <translation id="1794791083288629568">Pošiljanje povratnih informacij zaradi odpravljanja te težave.</translation>
+ <translation id="1795214765651529549">Uporabi klasično</translation>
+-<translation id="1795668164971917185">Ko bo Brave Varno brskanje naslednjič našlo sumljiv prenos, ga bo samodejno pregledalo v okviru <ph name="LINK"/>.</translation>
++<translation id="1795668164971917185">Ko bo Kahf Varno brskanje naslednjič našlo sumljiv prenos, ga bo samodejno pregledalo v okviru <ph name="LINK"/>.</translation>
+ <translation id="1796588414813960292">Funkcije, ki potrebujejo zvok, ne bodo delovale.</translation>
+ <translation id="1797117170091578105">Igrajte s tipkovnico Chromebooka. Tipke lahko prilagodite določenim dejanjem.</translation>
+ <translation id="1798335429200675510">Z desnim gumbom kliknite besedilno polje, da ustvarite osnutek ali izboljšate obstoječe delo, ki uporablja Googlovo umetno inteligenco. Trenutno je omejena razpoložljivost.</translation>
+@@ -1170,7 +1170,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1817871734039893258">Microsoftova obnovitev datoteke</translation>
+ <translation id="1818913467757368489">Poteka nalaganje dnevnika.</translation>
+ <translation id="1819721979226826163">Dotaknite se »Obvestila aplikacije &gt; Storitve Google Play«.</translation>
+-<translation id="3707821975049107110">Že uporabljate Brave? Prijavite se.</translation>
++<translation id="3707821975049107110">Že uporabljate Kahf? Prijavite se.</translation>
+ <translation id="1822517323280215012">Siva</translation>
+ <translation id="1822635184853104396">Prikaz celotne zgodovine prenosov na novem zavihku</translation>
+ <translation id="1823768272150895732">Pisava</translation>
+@@ -1310,13 +1310,13 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1303494024456273059">Uporabljate Chromovo najmočnejšo zaščito proti nevarnim spletnim mestom, prenosom in razširitvam.</translation>
+ <translation id="1921584744613111023"><ph name="DPI"/> dpi</translation>
+ <translation id="1922496389170590548">Otrokov šolski račun</translation>
+-<translation id="2428738111653039235">Googlova spletna mesta, kot so Gmail, Google Drive in YouTube, uporabljajo jezik računa Brave, razen če ste spremenili jezik posameznega izdelka.</translation>
++<translation id="2428738111653039235">Googlova spletna mesta, kot so Gmail, Google Drive in YouTube, uporabljajo jezik računa Kahf, razen če ste spremenili jezik posameznega izdelka.</translation>
+ <translation id="1923539912171292317">Samodejni kliki</translation>
+ <translation id="192494336144674234">Odpiranje z aplikacijo</translation>
+ <translation id="1925017091976104802">Pritisnite <ph name="MODIFIER_KEY_DESCRIPTION"/>, če želite prilepiti</translation>
+ <translation id="1925021887439448749">Vnesite spletni naslov po meri</translation>
+ <translation id="1925124445985510535">Varnostno preverjanje je bilo izvedeno ob <ph name="TIME"/></translation>
+-<translation id="8049922435917813862">Stare različice aplikacij za Brave se po decembru 2022 ne bodo odprle v napravah s sistemom Windows. Preverite lahko, ali je na voljo nova različica.</translation>
++<translation id="8049922435917813862">Stare različice aplikacij za Kahf se po decembru 2022 ne bodo odprle v napravah s sistemom Windows. Preverite lahko, ali je na voljo nova različica.</translation>
+ <translation id="1926339101652878330">Te nastavitve ureja pravilnik podjetja. Če želite več informacij, se obrnite na skrbnika.</translation>
+ <translation id="1926887872692564784">Kazalec</translation>
+ <translation id="1927632033341042996">Prst <ph name="NEW_FINGER_NUMBER"/></translation>
+@@ -1377,7 +1377,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1969654639948595766">Besedilni dnevniki WebRTC (<ph name="WEBRTC_TEXT_LOG_COUNT"/>)</translation>
+ <translation id="1970895205072379091"><ph name="BEGIN_PARAGRAPH1"/>Če napravam s sistemom ChromeOS dovolite pošiljanje samodejnih poročil, bomo potrebne popravke in izboljšave sistema ChromeOS lažje razvrstili po pomembnosti. Ta poročila lahko med drugim vključujejo podatke o tem, kdaj v sistemu ChromeOS pride do sesutij, katere funkcije uporabljate in koliko pomnilnika običajno uporabljate. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če je vklopljena tudi sinhronizacija aplikacij, se bodo zbirali drugi diagnostični podatki in podatki o uporabi aplikacije, tudi za Android in spletne aplikacije.<ph name="END_PARAGRAPH1"/>
+     <ph name="BEGIN_PARAGRAPH2"/>Ta poročila lahko kadar koli omogočite ali onemogočite v nastavitvah naprave s sistemom ChromeOS. Če ste skrbnik domene, lahko to nastavitev spremenite v skrbniški konzoli.<ph name="END_PARAGRAPH2"/>
+-    <ph name="BEGIN_PARAGRAPH3"/>Če ste za račun Brave vklopili beleženje dejavnosti v spletu in aplikacijah, bodo podatki naprave Android morda shranjeni v računu Brave. Na account.google.com si lahko ogledate podatke in jih izbrišete ter spremenite nastavitve računa.<ph name="END_PARAGRAPH3"/></translation>
++    <ph name="BEGIN_PARAGRAPH3"/>Če ste za račun Kahf vklopili beleženje dejavnosti v spletu in aplikacijah, bodo podatki naprave Android morda shranjeni v računu Kahf. Na account.google.com si lahko ogledate podatke in jih izbrišete ter spremenite nastavitve računa.<ph name="END_PARAGRAPH3"/></translation>
+ <translation id="1972313920920745320">Spletna mesta, ki jih dodate, bodo ves čas aktivna in pomnilnik zanje se ne bo sprostil. <ph name="BEGIN_LINK"/>Preberite več o tem, kako ohranite določena spletna mesta aktivna<ph name="END_LINK"/></translation>
+ <translation id="1972325230031091483">Brskali boste hitreje, ker se vsebina proaktivno naloži glede na trenutni obisk spletne strani.</translation>
+ <translation id="197288927597451399">Obdrži</translation>
+@@ -1421,7 +1421,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="1994173015038366702">URL spletnega mesta</translation>
+ <translation id="1995916364271252349">Nadzira, katere podatke lahko spletna mesta uporabijo in prikažejo (lokacija, kamera, pojavna okna in drugo)</translation>
+ <translation id="199610894463449797">{0,plural, =1{Zapri ta profil}one{Zapri ta profil (# okno)}two{Zapri ta profil (# okni)}few{Zapri ta profil (# okna)}other{Zapri ta profil (# oken)}}</translation>
+-<translation id="5123795870522389058">Brave za vzpostavitev povezave z napravo potrebuje dovoljenje za uporabo Bluetootha.</translation>
++<translation id="5123795870522389058">Kahf za vzpostavitev povezave z napravo potrebuje dovoljenje za uporabo Bluetootha.</translation>
+ <translation id="1997616988432401742">Vaša potrdila</translation>
+ <translation id="1999115740519098545">Ob zagonu</translation>
+ <translation id="2002109485265116295">Sprotno</translation>
+@@ -1432,7 +1432,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="2005199804247617997">Drugi profili</translation>
+ <translation id="2006638907958895361">Odpiranje povezave v aplikaciji <ph name="APP"/></translation>
+ <translation id="2007404777272201486">Prijavi težavo ...</translation>
+-<translation id="200928901437634269">Uporabite otrokov račun Brave ali šolski račun. Nastavite lahko tudi starševski nadzor.</translation>
++<translation id="200928901437634269">Uporabite otrokov račun Kahf ali šolski račun. Nastavite lahko tudi starševski nadzor.</translation>
+ <translation id="2009590708342941694">Orodje za emodžije</translation>
+ <translation id="2010501376126504057">Združljive naprave</translation>
+ <translation id="2010636492623189611">Izbrano.</translation>
+@@ -1468,7 +1468,7 @@ Dovoljenja, ki ste jih že odobrili aplikacijam, morda veljajo za ta račun. Dov
+ <translation id="2033758234986231162">Povezave s telefonom ni mogoče ohraniti. Poskrbite, da je telefon v bližini, odklenjen in ima vklopljeno povezavo Bluetooth ter omrežje Wi-Fi.</translation>
+ <translation id="2034346955588403444">Dodaj drugo omrežje Wi-Fi</translation>
+ <translation id="203574396658008164">Omogoči ustvarjanje zapiskov na zaklenjenem zaslonu</translation>
+-<translation id="2037445849770872822">Za ta račun Brave je nastavljen nadzor. Če želite nastaviti več starševskega nadzora, izberite »Naprej«.
++<translation id="2037445849770872822">Za ta račun Kahf je nastavljen nadzor. Če želite nastaviti več starševskega nadzora, izberite »Naprej«.
+ 
+ V nasprotnem primeru se odjavite, da bodo spremembe tega računa vidne v tej napravi.
+ 
+@@ -1615,7 +1615,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2140902257485550046">Izberite, če želite blokirati vse razširitve na tem spletnem mestu</translation>
+ <translation id="2142328300403846845">Odpiranje povezave kot</translation>
+ <translation id="9170678194652701692">Ustvarite 6-mestno kodo PIN za obnovitev za Googlovega upravitelja gesel, števko kode PIN <ph name="NUM_DIGIT"/> od 6</translation>
+-<translation id="6699507173861768979">Vklopite <ph name="LINK1_BEGIN"/>sinhronizacijo za Brave<ph name="LINK1_END"/>, če si želite ogledati nedavne Chromove zavihke. <ph name="LINK2_BEGIN"/>Več o tem<ph name="LINK2_END"/></translation>
++<translation id="6699507173861768979">Vklopite <ph name="LINK1_BEGIN"/>sinhronizacijo za Kahf<ph name="LINK1_END"/>, če si želite ogledati nedavne Chromove zavihke. <ph name="LINK2_BEGIN"/>Več o tem<ph name="LINK2_END"/></translation>
+ <translation id="2143089736086572103">Vidno nekaterim stikom</translation>
+ <translation id="2143765403545170146">Always Show Toolbar in Full Screen</translation>
+ <translation id="2143778271340628265">Ročna konfiguracija strežnika proxy</translation>
+@@ -1623,11 +1623,11 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2143915448548023856">Nastavitve zaslona</translation>
+ <translation id="2144536955299248197">Pregledovalnik potrdila: <ph name="CERTIFICATE_NAME"/></translation>
+ <translation id="2144557304298909478">Razvoj aplikacij za Android v Linuxu</translation>
+-<translation id="99312043838959583">Želite račun Brave uporabiti za shranjevanje in vnašanje gesel ter ključev za dostop?</translation>
++<translation id="99312043838959583">Želite račun Kahf uporabiti za shranjevanje in vnašanje gesel ter ključev za dostop?</translation>
+ <translation id="2146263598007866206">Spletna mesta lahko skupaj samodejno prenesejo sorodne datoteke in vam tako prihranijo čas.</translation>
+ <translation id="2147218225094845757">Skrij stransko podokno</translation>
+ <translation id="2147282432401652483">Command</translation>
+-<translation id="2147402320887035428">Ta datoteka je morda zlonamerna programska oprema.<ph name="LINE_BREAK"/>Brave Varno brskanje preverja, ali ta datoteka ni varna – pregled običajno traja nekaj sekund.</translation>
++<translation id="2147402320887035428">Ta datoteka je morda zlonamerna programska oprema.<ph name="LINE_BREAK"/>Kahf Varno brskanje preverja, ali ta datoteka ni varna – pregled običajno traja nekaj sekund.</translation>
+ <translation id="2148219725039824548">Napaka pri vpenjanju datotečnega sredstva v skupni rabi. Določeno datotečno sredstvo v skupni rabi ni bilo najdeno v omrežju.</translation>
+ <translation id="2148756636027685713">Formatiranje je končano</translation>
+ <translation id="2148892889047469596">Predvajanje zavihka</translation>
+@@ -1675,7 +1675,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2182419606502127232">Vključi moje strežniške dnevnike.</translation>
+ <translation id="2183570493397356669">Gumb za nadaljevanje je onemogočen</translation>
+ <translation id="2184272387334793084">Prijavite se, da boste lahko dostopali do gesel in drugega v vseh napravah</translation>
+-<translation id="8098574385249290065">Naj Brave izbere, kdaj lahko spletna mesta predvajajo zvok (priporočeno)</translation>
++<translation id="8098574385249290065">Naj Kahf izbere, kdaj lahko spletna mesta predvajajo zvok (priporočeno)</translation>
+ <translation id="2186206192313702726">Google Lens</translation>
+ <translation id="2186711480981247270">Stran je bila deljena iz druge naprave</translation>
+ <translation id="2187675480456493911">Sinhronizirano z drugimi napravami v računu. Nastavitve, ki jih spremenijo drugi uporabniki, ne bodo sinhronizirane. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+@@ -1987,7 +1987,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2405887402346713222">Serijske številke naprav in komponent</translation>
+ <translation id="2406153734066939945">Želite izbrisati ta profil in podatke v njem?</translation>
+ <translation id="2407671304279211586">Izbira ponudnika DNS-ja</translation>
+-<translation id="240789602312469910">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Pomagajte izboljšati otrokovo izkušnjo z Androidom s samodejnim pošiljanjem diagnostičnih podatkov ter podatkov o uporabi naprave in aplikacij Googlu. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. To <ph name="BEGIN_LINK1"/>nastavitev<ph name="END_LINK1"/> je uveljavil lastnik naprave. Lastnik bo morda izbral, da se za to napravo pošiljajo diagnostični podatki in podatki o uporabi Googlu. Če ste za otroka vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v otrokovem računu Brave. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
++<translation id="240789602312469910">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Pomagajte izboljšati otrokovo izkušnjo z Androidom s samodejnim pošiljanjem diagnostičnih podatkov ter podatkov o uporabi naprave in aplikacij Googlu. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. To <ph name="BEGIN_LINK1"/>nastavitev<ph name="END_LINK1"/> je uveljavil lastnik naprave. Lastnik bo morda izbral, da se za to napravo pošiljajo diagnostični podatki in podatki o uporabi Googlu. Če ste za otroka vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v otrokovem računu Kahf. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
+ <translation id="2408018932941436077">Shranjevanje kartice</translation>
+ <translation id="2408955596600435184">Vnos kode PIN</translation>
+ <translation id="2409268599591722235">Pa začnimo</translation>
+@@ -2055,9 +2055,9 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2444874983932528148">Preprosto nadaljujte, kjer ste končali.</translation>
+ <translation id="2445081178310039857">Potreben je korenski imenik razširitve.</translation>
+ <translation id="2445484935443597917">Ustvari nov profil</translation>
+-<translation id="4684615723024689090">Ti podatki so lahko koristni. Brave se lahko na primer tako izboljša z razumevanjem, kako hitro se strani naložijo v različnih pogojih. Glede na nastavitve lahko tudi:
++<translation id="4684615723024689090">Ti podatki so lahko koristni. Kahf se lahko na primer tako izboljša z razumevanjem, kako hitro se strani naložijo v različnih pogojih. Glede na nastavitve lahko tudi:
+       &lt;ul&gt;
+-        &lt;li&gt;pomagajo pri hitrejšem brskanju. Pretekla iskanja v Googlu vam lahko na primer pomagajo, da vam Brave prikaže predvidevanja za prihodnja iskanja.&lt;/li&gt;
++        &lt;li&gt;pomagajo pri hitrejšem brskanju. Pretekla iskanja v Googlu vam lahko na primer pomagajo, da vam Kahf prikaže predvidevanja za prihodnja iskanja.&lt;/li&gt;
+         &lt;li&gt;Spletnim mestom omogočite optimizacijo vaše izkušnje za napravo. Spletno mesto lahko na primer poenostavi vsebino za vaš mobilni telefon in si zapomni vaše nastavitve, na primer želeni jezik. &lt;/li&gt;
+         &lt;li&gt;Pomagajte oglaševalcem, vključno z Googlom, prikazovati ustreznejše oglase.&lt;/li&gt;
+       &lt;/ul&gt;</translation>
+@@ -2086,7 +2086,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2459706890611560967">Nadaljuj predvajanje zavihka v napravi <ph name="DEVICE_NAME"/></translation>
+ <translation id="2460356425461033301">Varnostno kopirajte vsebino brskalnika in jo uporabljajte v poljubni napravi.</translation>
+ <translation id="2460482211073772897">V drugih mapah</translation>
+-<translation id="7396890405552517985">Za uporabo ključev za dostop, shranjenih v računu Brave</translation>
++<translation id="7396890405552517985">Za uporabo ključev za dostop, shranjenih v računu Kahf</translation>
+ <translation id="2461550163693930491">Spletnim mestom nista dovoljena pomikanje po deljenih zavihkih in njihova povečava/pomanjšava</translation>
+ <translation id="2461593638794842577">To nastavitev lahko izklopite, če želite, da se gesla shranjujejo samo v tej napravi</translation>
+ <translation id="2462332841984057083">Steam se že nastavlja. Počakajte, da se nastavitev konča.</translation>
+@@ -2265,7 +2265,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2593499352046705383">Preden začnete, morate varnostno kopirati podatke. Z namestitvijo sistema <ph name="DEVICE_OS"/> bodo prepisani vsi podatki na trdem disku. Več o tem: g.co/flex/InstallGuide.</translation>
+ <translation id="2594832159966169099">Upravljanje varnosti V8</translation>
+ <translation id="2597073208962000830">Deljenje v bližini uporablja iskanje naprav Bluetooth za zaznavanje naprav v bližini.</translation>
+-<translation id="2024721991200132064">Na voljo je novi Brave</translation>
++<translation id="2024721991200132064">Na voljo je novi Kahf</translation>
+ <translation id="2599048253926156421">Uporabniško ime je bilo kopirano v odložišče.</translation>
+ <translation id="2602501489742255173">Povlecite navzgor, če želite začeti</translation>
+ <translation id="2603115962224169880">Čiščenje računalnika</translation>
+@@ -2406,7 +2406,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2704606927547763573">Kopirano</translation>
+ <translation id="270516211545221798">Hitrost sledilne ploščice</translation>
+ <translation id="2705736684557713153">Pomaknite se na dno zaslona in vklopite takojšnjo povezavo z internetom prek mobilnega telefona, če se ta možnost pojavi. Če se ne, ste pripravljeni.</translation>
+-<translation id="2706304388244371417">Varnostno kopiranje v Google Drive. Kadar koli lahko preprosto obnovite podatke v napravi ali zamenjate napravo z drugo. Te varnostne kopije vključujejo podatke aplikacij. Varnostne kopije so naložene v Brave in šifrirane z geslom za otrokov račun Brave. <ph name="BEGIN_LINK1"/>Preberite več o varnostnem kopiranju<ph name="BEGIN_LINK1_END"/>Več o tem<ph name="END_LINK1"/></translation>
++<translation id="2706304388244371417">Varnostno kopiranje v Google Drive. Kadar koli lahko preprosto obnovite podatke v napravi ali zamenjate napravo z drugo. Te varnostne kopije vključujejo podatke aplikacij. Varnostne kopije so naložene v Kahf in šifrirane z geslom za otrokov račun Kahf. <ph name="BEGIN_LINK1"/>Preberite več o varnostnem kopiranju<ph name="BEGIN_LINK1_END"/>Več o tem<ph name="END_LINK1"/></translation>
+ <translation id="2706462751667573066">Gor</translation>
+ <translation id="2707024448553392710">Prenos komponente</translation>
+ <translation id="270921614578699633">Časovno obdobje drsečega povprečja</translation>
+@@ -2487,7 +2487,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2749756011735116528">Prijavite se v storitev <ph name="PRODUCT_NAME"/></translation>
+ <translation id="2749836841884031656">SIM</translation>
+ <translation id="2749881179542288782">Preverjanje slovnice in črkovanja</translation>
+-<translation id="7507149186999809092">Več nastavitev in dovoljenj za aplikacije za Brave</translation>
++<translation id="7507149186999809092">Več nastavitev in dovoljenj za aplikacije za Kahf</translation>
+ <translation id="2750602041558385535">Nepreverjen prenos je blokiran</translation>
+ <translation id="2753623023919742414">Kliknite, če želite iskati</translation>
+ <translation id="2754226775788136540">Iskanje naprav za hitro seznanitev, shranjenih v računu <ph name="PRIMARY_EMAIL"/></translation>
+@@ -2530,7 +2530,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2777525873368474674">Prilepite povezavo do slike</translation>
+ <translation id="2777815813197804919">{NUM_SITES,plural, =1{Najdeno je bilo 1 spletno mesto z veliko obvestili}one{Najdeno je bilo {NUM_SITES} spletno mesto z veliko obvestili}two{Najdeni sta bili {NUM_SITES} spletni mesti z veliko obvestili}few{Najdena so bila {NUM_SITES} spletna mesta z veliko obvestili}other{Najdenih je bilo {NUM_SITES} spletnih mest z veliko obvestili}}</translation>
+ <translation id="2778471504622896352">Dodajanje oddaljenih aplikacij v zaganjalnik sistema ChromeOS</translation>
+-<translation id="2779728796406650689">To Pomočniku Brave omogoča, da vam pri postavljanju vprašanj ponuja prilagojene odgovore.</translation>
++<translation id="2779728796406650689">To Pomočniku Kahf omogoča, da vam pri postavljanju vprašanj ponuja prilagojene odgovore.</translation>
+ <translation id="2781692009645368755">Google Pay</translation>
+ <translation id="2782104745158847185">Napaka pri nameščanju aplikacije za Linux</translation>
+ <translation id="2783298271312924866">Preneseno</translation>
+@@ -2580,7 +2580,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="281390819046738856">Zahteve ni bilo mogoče podpisati.</translation>
+ <translation id="2814489978934728345">Ustavite nalaganje te strani</translation>
+ <translation id="2815693974042551705">Mapa z zaznamki</translation>
+-<translation id="2576226373705473566">Če želite shraniti gesla v račun Brave, vklopite sinhronizacijo.</translation>
++<translation id="2576226373705473566">Če želite shraniti gesla v račun Kahf, vklopite sinhronizacijo.</translation>
+ <translation id="2816628817680324566">Dovolite, da to spletno mesto prepozna vaš varnostni ključ?</translation>
+ <translation id="2817435998497102771">Nastavitev zaslonskega ozadja in sloga</translation>
+ <translation id="2817861546829549432">Če omogočite možnost »Ne sledi«, bo zahteva vključena v promet brskanja. Učinek je odvisen od odziva spletnega mesta na zahtevo in od razlage zahteve. Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažejo oglase, ki ne temeljijo na drugih spletnih mestih, ki ste jih obiskali. Veliko spletnih mest bo še vedno zbiralo in uporabljalo vaše podatke o brskanju, na primer za izboljšanje varnosti, zagotavljanje vsebine, storitev, oglasov in priporočil na spletnih mestih ter za pridobivanje statističnih podatkov za poročanje.</translation>
+@@ -2617,7 +2617,7 @@ Nastavitve tega računa je mogoče upravljati z namestitvijo aplikacije Family L
+ <translation id="2843698124892775282"><ph name="MEMORY_SAVINGS"/> sproščeno</translation>
+ <translation id="2844169650293029770">Naprava USB-C (vrata levo spredaj)</translation>
+ <translation id="2844809857160214557">Ogled in upravljanje tiskalnih opravil</translation>
+-<translation id="5955675310630864290">Več dejanj za Brave Koledar</translation>
++<translation id="5955675310630864290">Več dejanj za Kahf Koledar</translation>
+ <translation id="2845751331501453107">Ali je med brskanjem oglas, ki je prikazan, osebno prilagojen, je odvisno od te nastavitve, nastavitve <ph name="BEGIN_LINK1"/>oglasov, ki jih predlaga spletno mesto<ph name="LINK_END1"/>, <ph name="BEGIN_LINK2"/>nastavitev piškotkov<ph name="LINK_END2"/> in od tega, ali spletno mesto, ki si ga ogledujete, osebno prilagaja oglase.</translation>
+ <translation id="284581348330507117">Ustvarite edinstvena gesla.</translation>
+ <translation id="284884486564166077">Iskanje po kateri koli sliki z Googlom Lens</translation>
+@@ -2780,14 +2780,14 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="2967926928600500959">URL-ji, ki se ujemajo s temi pravili, bodo vsiljeno odprti v določenem brskalniku.</translation>
+ <translation id="2969411787010981955">Podatki so bili izvoženi na izbrano lokacijo</translation>
+ <translation id="2970766364519518369">Izbrani stiki lahko delijo z vami, ko so v bližini. Pozvani boste, da odobrite te zahteve. Deljenja med napravami, ki so prijavljene v račun <ph name="USER_EMAIL"/>, vam ne bo treba odobriti.</translation>
+-<translation id="4802379027410104335">Brave s tem računom Brave</translation>
++<translation id="4802379027410104335">Kahf s tem računom Kahf</translation>
+ <translation id="2972557485845626008">Vdelana programska oprema</translation>
+ <translation id="2972581237482394796">&amp;Uveljavi</translation>
+ <translation id="2973324205039581528">Izklopi zvok spletnega mesta</translation>
+ <translation id="2975761176769946178">Vnesti morate URL.</translation>
+ <translation id="2976547701881428815">Orodja in dejanja</translation>
+ <translation id="2976557544729462544">Nekatere naprave zahtevajo, da onemogočite zaščito dostopa do podatkov, če želite, da delujejo ustrezno ali s polno zmogljivostjo.</translation>
+-<translation id="2725393676899559475">Vsakič brskajte z Iskanjem Brave in Googlovimi pametnimi rešitvami</translation>
++<translation id="2725393676899559475">Vsakič brskajte z Iskanjem Kahf in Googlovimi pametnimi rešitvami</translation>
+ <translation id="2977480621796371840">Odstrani iz skupine</translation>
+ <translation id="2979493931538961252">Ko je Chromebook brez povezave in so na voljo dostopne točke</translation>
+ <translation id="2979639724566107830">Odpri v novem oknu</translation>
+@@ -2982,7 +2982,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+         &lt;li&gt;zagotavljanje varnosti med brskanjem in&lt;/li&gt;
+         &lt;li&gt;podpiranje cvetočega ekosistema, ki skrbi, da je splet varen in odprt, hiter in brezplačen.&lt;/li&gt;
+       &lt;/ul&gt;</translation>
+-<translation id="8322945005389987780">Upravljanje jezika računa Brave</translation>
++<translation id="8322945005389987780">Upravljanje jezika računa Kahf</translation>
+ <translation id="3117362587799608430">Priklopna postaja ni povsem združljiva</translation>
+ <translation id="3117791853215125017">{COUNT,plural, =1{Prilog (<ph name="ATTACHMENTS"/>) ni bilo mogoče poslati v napravo <ph name="DEVICE_NAME"/>}one{Prilog (<ph name="ATTACHMENTS"/>) ni bilo mogoče poslati v napravo <ph name="DEVICE_NAME"/>}two{Prilog (<ph name="ATTACHMENTS"/>) ni bilo mogoče poslati v napravo <ph name="DEVICE_NAME"/>}few{Prilog (<ph name="ATTACHMENTS"/>) ni bilo mogoče poslati v napravo <ph name="DEVICE_NAME"/>}other{Prilog (<ph name="ATTACHMENTS"/>) ni bilo mogoče poslati v napravo <ph name="DEVICE_NAME"/>}}</translation>
+ <translation id="3118319026408854581">Pomoč za <ph name="PRODUCT_NAME"/> </translation>
+@@ -3033,7 +3033,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3162853326462195145">Šolski račun</translation>
+ <translation id="3162899666601560689">Spletna mesta lahko uporabljajo piškotke za izboljšanje izkušnje brskanja, in sicer tako, da na primer poskrbijo, da ostanete prijavljeni, ali si zapomnijo izdelke v nakupovalnem vozičku.</translation>
+ <translation id="3163201441334626963">Neznan izdelek <ph name="PRODUCT_ID"/> dobavitelja <ph name="VENDOR_ID"/></translation>
+-<translation id="3163511056918491211">Po želji lahko preprosto obnovite podatke ali napravo zamenjate z drugo. Varnostne kopije so naložene v Brave in šifrirane z geslom za račun Brave.</translation>
++<translation id="3163511056918491211">Po želji lahko preprosto obnovite podatke ali napravo zamenjate z drugo. Varnostne kopije so naložene v Kahf in šifrirane z geslom za račun Kahf.</translation>
+ <translation id="3164329792803560526">Deljenje tega zavihka z aplikacijo <ph name="APP_NAME"/></translation>
+ <translation id="3165390001037658081">Nekateri operaterji morda blokirajo to funkcijo.</translation>
+ <translation id="316542773973815724">Krmarjenje</translation>
+@@ -3047,7 +3047,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3177430966804511955">Upravljanje izoliranih spletnih aplikacij (beta)</translation>
+ <translation id="31774765611822736">Novi zavihek na levi</translation>
+ <translation id="3177909033752230686">Jezik strani:</translation>
+-<translation id="3177914167275935955">Vaša naprava vključuje nadgradnjo za Brave Education, vendar vaše uporabniško ime ni povezano z računom za Brave for Education. Ustvarite račun za Brave for Education tako, da v drugi napravi obiščete g.co/workspace/edusignup.</translation>
++<translation id="3177914167275935955">Vaša naprava vključuje nadgradnjo za Kahf Education, vendar vaše uporabniško ime ni povezano z računom za Kahf for Education. Ustvarite račun za Kahf for Education tako, da v drugi napravi obiščete g.co/workspace/edusignup.</translation>
+ <translation id="3179982752812949580">Pisava besedila</translation>
+ <translation id="3180284704187420717">Shranite zaznamke, gesla in drugo z uporabo sinhronizacije.</translation>
+ <translation id="3180716079618904608">Prenos aplikacij in iger</translation>
+@@ -3140,7 +3140,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3248902735035392926">Varnost je pomembna. Vzemite si trenutek in <ph name="BEGIN_LINK"/>preverite razširitve<ph name="END_LINK"/>.</translation>
+ <translation id="3249323165366527554">Registrirajte se in se hitreje prijavite, če se geslo samodejno shrani v storitvi <ph name="GOOGLE_PASSWORD_MANAGER"/> za <ph name="EMAIL"/>.</translation>
+ <translation id="3251119461199395237">Sinhronizacija datotek</translation>
+-<translation id="3251714896659475029">Dovolite, da otrok <ph name="SUPERVISED_USER_NAME"/> dostopa do Pomočnika Brave z ukazom »Hey Brave«</translation>
++<translation id="3251714896659475029">Dovolite, da otrok <ph name="SUPERVISED_USER_NAME"/> dostopa do Pomočnika Kahf z ukazom »Hey Kahf«</translation>
+ <translation id="3251759466064201842">&lt;Ni del potrdila&gt;</translation>
+ <translation id="325238099842880997">Nastavite digitalna pravila, s pomočjo katerih se bodo otroci lahko igrali, bodo lahko raziskovali in doma opravili šolske obveznosti.</translation>
+ <translation id="3253225298092156258">Ni na voljo</translation>
+@@ -3156,13 +3156,13 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3261268979727295785">Za starejše otroke lahko starševski nadzor dodate po koncu nastavitve. Informacije o starševskem nadzoru so na voljo v aplikaciji Raziskovanje.</translation>
+ <translation id="3261832505033014216">Ključ za dostop za uporabnika <ph name="USER_EMAIL"/></translation>
+ <translation id="3262261769033093854">Spletnim mestom ni dovoljeno zajemati in uporabljati vnosa z miško</translation>
+-<translation id="2255934964289231599">Ker ta račun upravlja <ph name="DOMAIN"/>, ne boste odjavljeni iz računa Brave. Vaši zaznamki, zgodovina, gesla in druge nastavitve ne bodo več sinhronizirani. Podatki, ki so bili prej sinhronizirani, bodo še vedno shranjeni v računu Brave in jih je mogoče upravljati na <ph name="BEGIN_LINK"/>Brave Nadzorni plošči<ph name="END_LINK"/>.</translation>
++<translation id="2255934964289231599">Ker ta račun upravlja <ph name="DOMAIN"/>, ne boste odjavljeni iz računa Kahf. Vaši zaznamki, zgodovina, gesla in druge nastavitve ne bodo več sinhronizirani. Podatki, ki so bili prej sinhronizirani, bodo še vedno shranjeni v računu Kahf in jih je mogoče upravljati na <ph name="BEGIN_LINK"/>Kahf Nadzorni plošči<ph name="END_LINK"/>.</translation>
+ <translation id="3262986719682892278">Prevelika</translation>
+ <translation id="3264544094376351444">Neserifna pisava</translation>
+ <translation id="3264582393905923483">Kontekst</translation>
+ <translation id="3265459715026181080">Zapri okno</translation>
+ <translation id="3266022278425892773">Razvojno okolje za Linux</translation>
+-<translation id="9139351975178325900">Če želite izbrisati podatke brskanja samo iz te naprave, v računu Brave pa jih želite ohraniti, <ph name="BEGIN_LINK"/>se odjavite<ph name="END_LINK"/>.</translation>
++<translation id="9139351975178325900">Če želite izbrisati podatke brskanja samo iz te naprave, v računu Kahf pa jih želite ohraniti, <ph name="BEGIN_LINK"/>se odjavite<ph name="END_LINK"/>.</translation>
+ <translation id="3266274118485960573">Varnostno preverjanje se izvaja.</translation>
+ <translation id="3267726687589094446">Še naprej dovoli samodejni prenos več datotek</translation>
+ <translation id="3268451620468152448">Odprti zavihki</translation>
+@@ -3177,8 +3177,8 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3275778913554317645">Odpri kot okno</translation>
+ <translation id="3277214528693754078">Premikanje s kazalcem besedila (brskanje s kazalko)</translation>
+ <translation id="3277594800340743211">Velika senca</translation>
+-<translation id="1227637721331068906">Geslo naprave ali geslo za račun Brave</translation>
+-<translation id="3278001907972365362">V računih Brave je potrebno ukrepanje</translation>
++<translation id="1227637721331068906">Geslo naprave ali geslo za račun Kahf</translation>
++<translation id="3278001907972365362">V računih Kahf je potrebno ukrepanje</translation>
+ <translation id="3279092821516760512">Izbrani stiki lahko delijo z vami, ko so v bližini. Prenosi se ne začnejo, dokler ne sprejmete.</translation>
+ <translation id="3279230909244266691">To lahko traja nekaj minut. Zagon navideznega računalnika.</translation>
+ <translation id="3280237271814976245">Shrani &amp;kot ...</translation>
+@@ -3193,7 +3193,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="328571385944182268">Želite shranjevati gesla?</translation>
+ <translation id="3289668031376215426">Samodejna uporaba velikih začetnic</translation>
+ <translation id="3289856944988573801">Če želite preveriti, ali so na voljo posodobitve, uporabite ethernet ali Wi-Fi.</translation>
+-<translation id="5729822798455842061">Teme, ki jih ne želite deliti s spletnimi mesti, lahko blokirate. Brave tudi samodejno izbriše vaše teme, starejše od štirih tednov.</translation>
++<translation id="5729822798455842061">Teme, ki jih ne želite deliti s spletnimi mesti, lahko blokirate. Kahf tudi samodejno izbriše vaše teme, starejše od štirih tednov.</translation>
+ <translation id="3290249595466894471">Prav tako pošlje manjši vzorec strani, prenosov, dejavnosti razširitev in podatkov o sistemu zaradi pomoči pri odkrivanju novih groženj.</translation>
+ <translation id="3293181007446299124">Vaša zgodovina brskanja je zasebna v napravi, poročila pa so zaradi zaščite vaše identitete poslana z zakasnitvijo.</translation>
+ <translation id="3293644607209440645">Pošlji to stran</translation>
+@@ -3222,7 +3222,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+         Upravljate lahko nastavitve v meniju kartice ali si ogledate več možnosti v razdelku za prilagajanje Chroma.</translation>
+ <translation id="3308134619352333507">Gumb »Skrij«</translation>
+ <translation id="3308604065765626613">{GROUP_COUNT,plural, =1{Zavihki bodo ostali odprti v tej napravi, vendar bo skupina trajno izbrisana.}one{Zavihki bodo ostali odprti v tej napravi, vendar bodo skupine trajno izbrisane.}two{Zavihki bodo ostali odprti v tej napravi, vendar bodo skupine trajno izbrisane.}few{Zavihki bodo ostali odprti v tej napravi, vendar bodo skupine trajno izbrisane.}other{Zavihki bodo ostali odprti v tej napravi, vendar bodo skupine trajno izbrisane.}}</translation>
+-<translation id="3308852433423051161">Nalaganje Pomočnika Brave ...</translation>
++<translation id="3308852433423051161">Nalaganje Pomočnika Kahf ...</translation>
+ <translation id="3309124184713871355">Zgradbe</translation>
+ <translation id="3309330461362844500">ID profila potrdila</translation>
+ <translation id="3311445899360743395">Podatki, povezani s to aplikacijo, bodo morda odstranjeni iz te naprave.</translation>
+@@ -3269,7 +3269,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3349933790966648062">Količina uporabljenega pomnilnika</translation>
+ <translation id="3351472127384196879">Dodajanje ali iskanje gumbov na pisalu</translation>
+ <translation id="3353786022389205125">Vklopite »Prikaži zaklenjen zaslon pri preklopu iz stanja pripravljenosti« in poskusite znova.</translation>
+-<translation id="2198340416484774609">Stare različice aplikacij za Brave se po decembru 2022 ne bodo odprle v napravah Mac. Preverite lahko, ali je na voljo nova različica.</translation>
++<translation id="2198340416484774609">Stare različice aplikacij za Kahf se po decembru 2022 ne bodo odprle v napravah Mac. Preverite lahko, ali je na voljo nova različica.</translation>
+ <translation id="3354972872297836698">Seznanitve z napravo <ph name="DEVICE_NAME"/> ni bilo mogoče opraviti; izberite napravo, če želite poskusiti znova</translation>
+ <translation id="335581015389089642">Speech</translation>
+ <translation id="3355936511340229503">Napaka povezave</translation>
+@@ -3635,7 +3635,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="362266093274784978">{COUNT,plural, =1{aplikacijo}one{# aplikacijo}two{# aplikaciji}few{# aplikacije}other{# aplikacij}}</translation>
+ <translation id="362333465072914957">Čakanje, da overitelj potrdil izda potrdilo</translation>
+ <translation id="3623598555687153298">S tem boste izbrisali <ph name="TOTAL_USAGE"/> podatkov, ki so jih shranila prikazana spletna mesta</translation>
+-<translation id="8069099610234934582">Odklepanje naprave in prijava v Brave Račun</translation>
++<translation id="8069099610234934582">Odklepanje naprave in prijava v Kahf Račun</translation>
+ <translation id="3624583033347146597">Izberite nastavitve piškotkov drugih spletnih mest</translation>
+ <translation id="3625481642044239431">Izbrali ste neveljavno datoteko. Poskusite znova.</translation>
+ <translation id="3626296069957678981">Za polnjenje tega Chromebooka uporabite združljiv akumulator Dell.</translation>
+@@ -3686,12 +3686,12 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3660234220361471169">Ni vredno zaupanja</translation>
+ <translation id="3661106764436337772">Pišite hitreje in z več samozavesti</translation>
+ <translation id="3661297433172569100">{NUM_PASSWORDS,plural, =1{Najdeno je bilo 1 obstoječe geslo}one{Najdeno je bilo {NUM_PASSWORDS} obstoječe geslo}two{Najdeni sta bili {NUM_PASSWORDS} obstoječi gesli}few{Najdena so bila {NUM_PASSWORDS} obstoječa gesla}other{Najdenih je bilo {NUM_PASSWORDS} obstoječih gesel}}</translation>
+-<translation id="3662207097851752847">Potrdite račun Brave v telefonu</translation>
++<translation id="3662207097851752847">Potrdite račun Kahf v telefonu</translation>
+ <translation id="3663417513679360795">Več informacij o vklopu standardnega vnaprejšnjega nalaganja</translation>
+ <translation id="3664511988987167893">Ikona razširitve</translation>
+ <translation id="3665100783276035932">Večina spletnih mest bi morala delovati po pričakovanjih</translation>
+ <translation id="3665301845536101715">Odpri v stranskem podoknu</translation>
+-<translation id="2334029754052191847">Brave je zaznal, da je drug program spremenil nastavitve, in jih ponastavil na prvotne privzete nastavitve.</translation>
++<translation id="2334029754052191847">Kahf je zaznal, da je drug program spremenil nastavitve, in jih ponastavil na prvotne privzete nastavitve.</translation>
+ <translation id="3665919494326051362">Trenutna različica je <ph name="CURRENT_VERSION"/>.</translation>
+ <translation id="3666196264870170605">Izvoz podatkov za odpravljanje napak Intelovih kontrolnikov omrežnih vmesnikov Wi-Fi</translation>
+ <translation id="3666971425390608309">Prenos je začasno zaustavljen: (<ph name="FILE_NAME"/>).</translation>
+@@ -3836,18 +3836,18 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="375636864092143889">Spletno mesto uporablja vaš mikrofon</translation>
+ <translation id="3756485814916578707">Predvajanje vsebine zaslona</translation>
+ <translation id="3756578970075173856">Nastavitev kode PIN</translation>
+-<translation id="3756795331760037744">Dovolite, da Pomočnik Brave uporablja zaslon otroka <ph name="SUPERVISED_USER_NAME"/> za pomoč</translation>
++<translation id="3756795331760037744">Dovolite, da Pomočnik Kahf uporablja zaslon otroka <ph name="SUPERVISED_USER_NAME"/> za pomoč</translation>
+ <translation id="3756806135608816820">Spletna mesta lahko zahtevajo iskanje naprav Bluetooth.</translation>
+ <translation id="3757567010566591880">Odpni iz orodne vrstice</translation>
+ <translation id="3757733214359997190">Ni spletnih mest</translation>
+ <translation id="375841316537350618">Prenašanje skripta namestniškega strežnika ...</translation>
+ <translation id="3758887577462995665">Nasvet:</translation>
+-<translation id="2624625863458105774">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in računa Brave, <ph name="BEGIN_LINK"/>vnesite geslo<ph name="END_LINK"/>.</translation>
++<translation id="2624625863458105774">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in računa Kahf, <ph name="BEGIN_LINK"/>vnesite geslo<ph name="END_LINK"/>.</translation>
+ <translation id="3759933321830434300">Blokiraj dele spletnih strani</translation>
+ <translation id="3760460896538743390">Preglej stran v ozadju</translation>
+ <translation id="3761556954875533505">Želite spletnemu mestu omogočiti, da ureja datoteke?</translation>
+ <translation id="3761733456040768239">Več dejanj za kartico <ph name="CARD_DESCRIPTION"/>, koda CVC je shranjena</translation>
+-<translation id="1768338058980345433">Spletna mesta, ki jih ne želite, lahko blokirate. Brave prav tako s seznama samodejno izbriše spletna mesta, starejša od 30 dni.</translation>
++<translation id="1768338058980345433">Spletna mesta, ki jih ne želite, lahko blokirate. Kahf prav tako s seznama samodejno izbriše spletna mesta, starejša od 30 dni.</translation>
+ <translation id="3763549179847864476">Gumb za nazaj v vodniku po zasebnosti</translation>
+ <translation id="3764314093345384080">Podrobnejše informacije o gradnji</translation>
+ <translation id="3764583730281406327">{NUM_DEVICES,plural, =1{Komuniciranje z napravo USB}one{Komuniciranje z # napravo USB}two{Komuniciranje z # napravama USB}few{Komuniciranje z # napravami USB}other{Komuniciranje z # napravami USB}}</translation>
+@@ -3903,7 +3903,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="3798632811625902122">Naprava Bluetooth <ph name="DEVICE"/> želi dovoljenje za seznanitev.</translation>
+ <translation id="3798670284305777884">Zvočnik (vgrajeni)</translation>
+ <translation id="3799128412641261490">Nastavitve stikalnega dostopa</translation>
+-<translation id="3800828618615365228">Dodatni pogoji za Brave in Chrome OS</translation>
++<translation id="3800828618615365228">Dodatni pogoji za Kahf in Chrome OS</translation>
+ <translation id="3800898876950197674">Če želite dovoliti to razširitev, vnesite geslo.</translation>
+ <translation id="3802486193901166966">Ta razširitev ne potrebuje posebnih dovoljenj in nima dodatnega dostopa do spletnih mest.</translation>
+ <translation id="380329542618494757">Ime</translation>
+@@ -3954,10 +3954,10 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="3825635794653163640">Prikaz pike na ikoni aplikacije za opozorila glede aplikacij</translation>
+ <translation id="3826071569074535339">Dovoljena je uporaba tipal gibanja</translation>
+ <translation id="3826086052025847742">Dnevniki za ChromeOS Flex</translation>
+-<translation id="3826440694796503677">Skrbnik je onemogočil dodajanje več računov Brave</translation>
++<translation id="3826440694796503677">Skrbnik je onemogočil dodajanje več računov Kahf</translation>
+ <translation id="3827774300009121996">&amp;Celozaslonsko</translation>
+ <translation id="3828029223314399057">Išči po zaznamkih</translation>
+-<translation id="3828953470056652895">Prebral(-a) sem <ph name="BEGIN_LINK1"/>Googlove pogoje storitve<ph name="END_LINK1"/>, <ph name="BEGIN_LINK2"/>dodatne pogoje storitve za Brave in Chrome OS<ph name="END_LINK2"/> in <ph name="BEGIN_LINK3"/>pogoje storitve za Google Play<ph name="END_LINK3"/> ter se strinjam z njimi.</translation>
++<translation id="3828953470056652895">Prebral(-a) sem <ph name="BEGIN_LINK1"/>Googlove pogoje storitve<ph name="END_LINK1"/>, <ph name="BEGIN_LINK2"/>dodatne pogoje storitve za Kahf in Chrome OS<ph name="END_LINK2"/> in <ph name="BEGIN_LINK3"/>pogoje storitve za Google Play<ph name="END_LINK3"/> ter se strinjam z njimi.</translation>
+ <translation id="3829530269338026191"><ph name="WINDOW_TITLE"/> – Visoka uporaba pomnilnika – <ph name="MEMORY_VALUE"/></translation>
+ <translation id="3829765597456725595">Datotečno sredstvo v skupni rabi za SMB</translation>
+ <translation id="3830470485672984938">Uporabi drug ključ za dostop</translation>
+@@ -3990,13 +3990,13 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="3855441664322950881">Zapakiraj razširitev</translation>
+ <translation id="3855676282923585394">Uvoz zaznamkov in nastavitev ...</translation>
+ <translation id="3856096718352044181">Preverite, ali je ponudnik veljaven, in poskusite pozneje znova</translation>
+-<translation id="3856470183388031602">Uporaba računa Brave v napravi <ph name="DEVICE_TYPE"/></translation>
++<translation id="3856470183388031602">Uporaba računa Kahf v napravi <ph name="DEVICE_TYPE"/></translation>
+ <translation id="3856800405688283469">Izbira časovnega pasu</translation>
+ <translation id="3857807444929313943">Dvignite in se spet dotaknite</translation>
+ <translation id="3858860766373142691">Ime</translation>
+ <translation id="385939467708172187">Uporabite močno geslo</translation>
+ <translation id="3861638017150647085">Uporabniško ime »<ph name="USERNAME"/>« ni na voljo</translation>
+-<translation id="2888509400300796817">Trenutno uporabljate geslo za račun Brave. Nastavite lahko geslo za <ph name="DEVICE_TYPE"/>, če si želite olajšati prijavo.</translation>
++<translation id="2888509400300796817">Trenutno uporabljate geslo za račun Kahf. Nastavite lahko geslo za <ph name="DEVICE_TYPE"/>, če si želite olajšati prijavo.</translation>
+ <translation id="3861977424605124250">Pokaži ob zagonu</translation>
+ <translation id="386239283124269513">&amp;Obnovi skupino</translation>
+ <translation id="3865414814144988605">Ločljivost</translation>
+@@ -4027,7 +4027,7 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="3887022758415973389">Prikaz seznama naprav</translation>
+ <translation id="3888501106166145415">Povezana omrežja Wi-Fi</translation>
+ <translation id="3888550877729210209">Ustvarjanje zapiskov z aplikacijo <ph name="LOCK_SCREEN_APP_NAME"/></translation>
+-<translation id="3518294595762833244">Vklopite sinhronizacijo za Brave, če želite uporabljati sinhronizacijo poverilnic za Wi-Fi</translation>
++<translation id="3518294595762833244">Vklopite sinhronizacijo za Kahf, če želite uporabljati sinhronizacijo poverilnic za Wi-Fi</translation>
+ <translation id="389313931326656921">Dodelitev stikala za »Naprej«</translation>
+ <translation id="3893268973182382220">Tega podokna trenutno ni mogoče naložiti</translation>
+ <translation id="3893536212201235195">Branje in spreminjanje nastavitev funkcij za ljudi s posebnimi potrebami</translation>
+@@ -4042,7 +4042,7 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="3897746662269329507">Naprava <ph name="DEVICE_TYPE"/> je zasnovana za igranje iger. Najprej se bo odprla Raziskovanje, kjer lahko dostopate do več sto najnovejših iger, si ogledate ponudbe za igranje iger in odkrivate funkcije za igre, ki jih dobite z napravo.</translation>
+ <translation id="3898233949376129212">Jezik naprave</translation>
+ <translation id="3898327728850887246"><ph name="SITE_NAME"/> želi: <ph name="FIRST_PERMISSION"/> in <ph name="SECOND_PERMISSION"/></translation>
+-<translation id="4407797427799671801">Geslo za spletno mesto <ph name="WEBSITE"/> je shranjeno v tej napravi in računu Brave. Katero želite izbrisati?</translation>
++<translation id="4407797427799671801">Geslo za spletno mesto <ph name="WEBSITE"/> je shranjeno v tej napravi in računu Kahf. Katero želite izbrisati?</translation>
+ <translation id="3898768766145818464">Predvajanje ali začasna zaustavitev videoposnetka</translation>
+ <translation id="389901847090970821">Izbira tipkovnice</translation>
+ <translation id="3900966090527141178">Izvoz gesel</translation>
+@@ -4181,14 +4181,14 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="3988124842897276887">Ta zavihek je povezan z napravo USB</translation>
+ <translation id="3988996860813292272">Izbira časovnega pasu</translation>
+ <translation id="3991055816270226534">Upravljanje piškotkov tretjih oseb in zaščite pred sledenjem</translation>
+-<translation id="3991746210745534318"><ph name="BEGIN_PARAGRAPH1"/>Če je vklopljena natančnost zaznavanja lokacije, se podatki o brezžičnih signalih, kot so dostopne točke Wi-Fi, bazne postaje mobilnih omrežij, ter podatki tipal naprave, kot sta merilnik pospeška in žiroskop, uporabljajo za ocenjevanje natančnejše lokacije naprave, ki jo aplikacije in storitve za Android uporabljajo za zagotavljanje funkcij, ki pri delovanju uporabljajo lokacijo. Brave v ta namen redno zbira podatke o tipalih naprave in brezžičnih signalih v bližini te naprave ter tako prispeva k množičnemu zbiranju lokacij brezžičnih signalov.<ph name="END_PARAGRAPH1"/>
+-    <ph name="BEGIN_PARAGRAPH2"/>Brave uporablja te podatke, zbrane iz te naprave, za izboljšanje natančnosti zaznavanja lokacije in storitev na podlagi lokacije ter splošno izboljšanje, zagotavljanje in vzdrževanje Googlovih storitev. Te podatke obdelujemo glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov. Ti podatki se ne uporabljajo za osebno prepoznavo posameznikov.<ph name="END_PARAGRAPH2"/>
+-    <ph name="BEGIN_PARAGRAPH3"/>Natančnost zaznavanja lokacije lahko kadar koli izklopite v nastavitvah lokacije v tej napravi, in sicer v »Nastavitve &gt; Zasebnost in varnost &gt; Nastavitve zasebnosti &gt; Dostop do lokacije &gt; Dodatne nastavitve lokacije«. Če je natančnost zaznavanja lokacije izklopljena, se podatki o natančnosti zaznavanja lokacije ne bodo zbirali. Pri aplikacijah in storitvah za Android se za določanje lokacije te naprave uporablja samo naslov IP (če je na voljo), kar lahko vpliva na razpoložljivost in natančnost lokacij za aplikacije in storitve za Android, kot so Brave Zemljevidi.<ph name="END_PARAGRAPH3"/>
++<translation id="3991746210745534318"><ph name="BEGIN_PARAGRAPH1"/>Če je vklopljena natančnost zaznavanja lokacije, se podatki o brezžičnih signalih, kot so dostopne točke Wi-Fi, bazne postaje mobilnih omrežij, ter podatki tipal naprave, kot sta merilnik pospeška in žiroskop, uporabljajo za ocenjevanje natančnejše lokacije naprave, ki jo aplikacije in storitve za Android uporabljajo za zagotavljanje funkcij, ki pri delovanju uporabljajo lokacijo. Kahf v ta namen redno zbira podatke o tipalih naprave in brezžičnih signalih v bližini te naprave ter tako prispeva k množičnemu zbiranju lokacij brezžičnih signalov.<ph name="END_PARAGRAPH1"/>
++    <ph name="BEGIN_PARAGRAPH2"/>Kahf uporablja te podatke, zbrane iz te naprave, za izboljšanje natančnosti zaznavanja lokacije in storitev na podlagi lokacije ter splošno izboljšanje, zagotavljanje in vzdrževanje Googlovih storitev. Te podatke obdelujemo glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov. Ti podatki se ne uporabljajo za osebno prepoznavo posameznikov.<ph name="END_PARAGRAPH2"/>
++    <ph name="BEGIN_PARAGRAPH3"/>Natančnost zaznavanja lokacije lahko kadar koli izklopite v nastavitvah lokacije v tej napravi, in sicer v »Nastavitve &gt; Zasebnost in varnost &gt; Nastavitve zasebnosti &gt; Dostop do lokacije &gt; Dodatne nastavitve lokacije«. Če je natančnost zaznavanja lokacije izklopljena, se podatki o natančnosti zaznavanja lokacije ne bodo zbirali. Pri aplikacijah in storitvah za Android se za določanje lokacije te naprave uporablja samo naslov IP (če je na voljo), kar lahko vpliva na razpoložljivost in natančnost lokacij za aplikacije in storitve za Android, kot so Kahf Zemljevidi.<ph name="END_PARAGRAPH3"/>
+     <ph name="BEGIN_PARAGRAPH4"/><ph name="LINK_BEGIN"/>Preberite več o natančnosti zaznavanja lokacije<ph name="LINK_END"/><ph name="END_PARAGRAPH4"/></translation>
+ <translation id="399179161741278232">Uvoženo</translation>
+ <translation id="3992008114154328194">Prenašanje datoteke <ph name="FILE_NAME"/>, <ph name="STATUS"/></translation>
+ <translation id="3993259701827857030">Varnostno kopiranje podatkov</translation>
+-<translation id="3993887353483242788">Sinhronizirajte napravo <ph name="DEVICE_TYPE"/>, da bodo nastavitve pripravljene v kateri koli napravi, ko se prijavite z računom Brave. Nastavitve vključujejo aplikacije, nastavitve, gesla za Wi-Fi, jezike, zaslonska ozadja, bližnjične tipke in drugo.</translation>
++<translation id="3993887353483242788">Sinhronizirajte napravo <ph name="DEVICE_TYPE"/>, da bodo nastavitve pripravljene v kateri koli napravi, ko se prijavite z računom Kahf. Nastavitve vključujejo aplikacije, nastavitve, gesla za Wi-Fi, jezike, zaslonska ozadja, bližnjične tipke in drugo.</translation>
+ <translation id="3994318741694670028">Vaš računalnik je konfiguriran s popačenim ID-jem strojne opreme. Zaradi tega ChromeOS Flex ne more namestiti najnovejših varnostnih popravkov in vaš računalnik <ph name="BEGIN_BOLD"/>je lahko še bolj izpostavljen zlonamernim napadom<ph name="END_BOLD"/>.</translation>
+ <translation id="3994374631886003300">Odklenite telefon in ga približajte napravi <ph name="DEVICE_TYPE"/>, če jo želite odkleniti.</translation>
+ <translation id="3994530503403062649">Iskanje gumbov na tabličnem računalniku</translation>
+@@ -4400,11 +4400,11 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="4158364720893025815">Uspelo</translation>
+ <translation id="4159784952369912983">Vijolična</translation>
+ <translation id="4163560723127662357">Neznana tipkovnica.</translation>
+-<translation id="4165942112764990069"><ph name="USER_EMAIL"/> ne pripada veljavni organizaciji. Obrnite se na skrbnika. Če ste skrbnik, lahko nastavite organizacijo na: g.co/BraveEnterpriseAccount.</translation>
++<translation id="4165942112764990069"><ph name="USER_EMAIL"/> ne pripada veljavni organizaciji. Obrnite se na skrbnika. Če ste skrbnik, lahko nastavite organizacijo na: g.co/KahfEnterpriseAccount.</translation>
+ <translation id="4165986682804962316">Nastavitve spletnih mest</translation>
+ <translation id="4166847326079525123">Lokacija je izklopljena v nastavitvah sistema Windows</translation>
+ <translation id="4167212649627589331">Aplikacija <ph name="APP_NAME"/> poskuša dostopati do naprave <ph name="DEVICE_NAME"/>. Če želite omogočiti dostop, izklopite zasebnost naprave <ph name="DEVICE_NAME"/>.</translation>
+-<translation id="4167393659000039775">Brave ni odgovoren za kakršno koli izgubo podatkov, sistem <ph name="DEVICE_OS"/> pa morda ne bo deloval v nepotrjenih modelih naprav. Več o tem: g.co/flex/InstallGuide.</translation>
++<translation id="4167393659000039775">Kahf ni odgovoren za kakršno koli izgubo podatkov, sistem <ph name="DEVICE_OS"/> pa morda ne bo deloval v nepotrjenih modelih naprav. Več o tem: g.co/flex/InstallGuide.</translation>
+ <translation id="4167924027691268367">Več dejanj za bližnjico <ph name="SHORTCUT_TITLE"/></translation>
+ <translation id="4168015872538332605">Nekatere nastavitve, ki se nanašajo na uporabnika <ph name="PRIMARY_EMAIL"/>, so deljene z vami. Te nastavitve vplivajo na vaš račun samo pri uporabi prijave z več računi.</translation>
+ <translation id="4168651806173792090"><ph name="NETWORK_NAME"/> se konča z <ph name="LAST_FOUR_DIGITS"/></translation>
+@@ -4725,10 +4725,10 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="4410545552906060960">Za odklepanje naprave namesto gesla uporabite številko (kodo PIN). Kodo PIN lahko nastavite pozneje v nastavitvah.</translation>
+ <translation id="4411344321892622527">Pomikanje in povečava/pomanjšava deljenih zavihkov nista dovoljena</translation>
+ <translation id="4411578466613447185">Podpisnik kode</translation>
+-<translation id="4914256659228865673">Ti ključi za dostop so v tem računalniku shranjeni v funkciji Windows Hello. Niso shranjeni v vašem računu Brave.</translation>
++<translation id="4914256659228865673">Ti ključi za dostop so v tem računalniku shranjeni v funkciji Windows Hello. Niso shranjeni v vašem računu Kahf.</translation>
+ <translation id="4412544493002546580">Poskusite znova ali izberite enega od spodnjih navdihov.</translation>
+ <translation id="4412547955014928315">Želite izbrisati podatke spletnega mesta in dovoljenja za <ph name="SITE_NAME"/> in vsa njegova podrejena spletna mesta?</translation>
+-<translation id="2225668468568666081">Aplikacije za Brave se selijo v moderne spletne aplikacije. To aplikacijo za Brave je v brskalnik namestila organizacija. Če želite odpreti moderno spletno aplikacijo na seznamu aplikacij, se najprej obrnite na skrbnika in ga prosite, naj odstrani aplikacijo za Brave. V tem času lahko obiščete spletno mesto <ph name="EXTENSION_LAUNCH_URL"/> in odprete razširitev <ph name="EXTENSION_NAME"/> v spletu.</translation>
++<translation id="2225668468568666081">Aplikacije za Kahf se selijo v moderne spletne aplikacije. To aplikacijo za Kahf je v brskalnik namestila organizacija. Če želite odpreti moderno spletno aplikacijo na seznamu aplikacij, se najprej obrnite na skrbnika in ga prosite, naj odstrani aplikacijo za Kahf. V tem času lahko obiščete spletno mesto <ph name="EXTENSION_LAUNCH_URL"/> in odprete razširitev <ph name="EXTENSION_NAME"/> v spletu.</translation>
+ <translation id="4412698727486357573">Center za pomoč</translation>
+ <translation id="4412992751769744546">Omogočanje piškotkov drugih spletnih mest</translation>
+ <translation id="4413087696295876280">Branje podatkov o napravi ChromeOS Flex in podatkov</translation>
+@@ -4737,14 +4737,14 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="4414242853388122273">Napaka pri odstranjevanju navideznega računalnika <ph name="VM_NAME"/>. Poskusite znova</translation>
+ <translation id="4415213869328311284">Pripravljeni ste na začetek uporabe naprave <ph name="DEVICE_TYPE"/>.</translation>
+ <translation id="4415245286584082850">Ni naprav. Odprite članek v centru za pomoč na novem zavihku.</translation>
+-<translation id="5749788945734786627">Upravljanje računa Brave</translation>
++<translation id="5749788945734786627">Upravljanje računa Kahf</translation>
+ <translation id="4415748029120993980">Eliptična krivulja SECG secp384r1 (oziroma NIST P-384)</translation>
+ <translation id="4415815425191869676">Ta spletna mesta naj bodo vedno aktivna</translation>
+ <translation id="4416582610654027550">Vnesite veljaven URL</translation>
+ <translation id="4421932782753506458">Puhek</translation>
+ <translation id="4423376891418188461">Obnovi nastavitve</translation>
+ <translation id="4424867131226116718"><ph name="BEGIN_PARAGRAPH1"/>Če napravam s sistemom ChromeOS dovolite pošiljanje samodejnih poročil, bomo potrebne popravke in izboljšave sistema ChromeOS lažje razvrstili po pomembnosti. Ta poročila lahko med drugim vključujejo podatke o tem, kdaj v sistemu ChromeOS pride do sesutij, katere funkcije so bile uporabljene in koliko pomnilnika je bilo običajno uporabljenega.<ph name="END_PARAGRAPH1"/>
+-    <ph name="BEGIN_PARAGRAPH2"/>Ta poročila lahko kadar koli omogočite ali onemogočite v nastavitvah naprave Brave. Če ste skrbnik domene, lahko to nastavitev spremenite v skrbniški konzoli.<ph name="END_PARAGRAPH2"/></translation>
++    <ph name="BEGIN_PARAGRAPH2"/>Ta poročila lahko kadar koli omogočite ali onemogočite v nastavitvah naprave Kahf. Če ste skrbnik domene, lahko to nastavitev spremenite v skrbniški konzoli.<ph name="END_PARAGRAPH2"/></translation>
+ <translation id="442528696198546304">Gesla, ključi za dostop in drugi podatki bodo trajno izbrisani iz storitve <ph name="BRAND"/></translation>
+ <translation id="4426268963847471040">Izbris datoteke <ph name="FILE_NAME"/></translation>
+ <translation id="4426464032773610160">Če želite začeti, mora biti stikalo USB ali Bluetooth povezano s Chromebookom. Uporabljate lahko tudi tipke na tipkovnici.</translation>
+@@ -4761,7 +4761,7 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="4432621511648257259">Napačno geslo</translation>
+ <translation id="4434611816075088065">Trenutno vam ni treba ukrepati</translation>
+ <translation id="443475966875174318">Posodabljanje ali odstranjevanje nezdružljivih aplikacij</translation>
+-<translation id="8811654838370811218">Odjavi vas iz večine spletnih mest. Ostali boste prijavljeni v račun Brave, da bo mogoče izbrisati sinhronizirane podatke.</translation>
++<translation id="8811654838370811218">Odjavi vas iz večine spletnih mest. Ostali boste prijavljeni v račun Kahf, da bo mogoče izbrisati sinhronizirane podatke.</translation>
+ <translation id="4437879751057074691">Ponudi shranjevanje gesel in ključev za dostop</translation>
+ <translation id="4437947179446780764">Dodajanje ponudnika storitev DNS-ja po meri</translation>
+ <translation id="4438043733494739848">Prosojno</translation>
+@@ -4943,12 +4943,12 @@ To lahko vključuje podatke o nameščeni programski opremi, datotekah, brskalni
+ <translation id="4574741712540401491">•  <ph name="LIST_ITEM_TEXT"/></translation>
+ <translation id="4575614183318795561">Nastavitev funkcije <ph name="FEATURE_NAME"/></translation>
+ <translation id="4576541033847873020">Seznanitev naprave Bluetooth</translation>
+-<translation id="5069510062541082828">Če želite gesla še naprej shranjevati v računu Brave, potrdite, da ste vi.</translation>
++<translation id="5069510062541082828">Če želite gesla še naprej shranjevati v računu Kahf, potrdite, da ste vi.</translation>
+ <translation id="4576965832613128988"><ph name="WINDOW_TITLE"/> – Neaktiven zavihek</translation>
+ <translation id="4577995939477504370">Aplikacije in spletna mesta, ki imajo dovoljenje za mikrofon, ter sistemske storitve lahko uporabljajo mikrofon</translation>
+ <translation id="4579453506923101210">Pozaba povezanega telefona</translation>
+ <translation id="4579581181964204535">Ni mogoče predvajati <ph name="HOST_NAME"/>.</translation>
+-<translation id="7343272409020602342">Za obvestila brskalnika obiščite <ph name="LINK_BEGIN"/>nastavitve brskalnika Brave<ph name="LINK_END"/>.</translation>
++<translation id="7343272409020602342">Za obvestila brskalnika obiščite <ph name="LINK_BEGIN"/>nastavitve brskalnika Kahf<ph name="LINK_END"/>.</translation>
+ <translation id="4580127151758731432">Večji premiki glave premaknejo kazalec dlje</translation>
+ <translation id="4580389561674319558">Vidno vsem stikom</translation>
+ <translation id="4580596421317071374">Gesla se shranjujejo v storitvi <ph name="GOOGLE_PASSWORD_MANAGER"/> v tej napravi.</translation>
+@@ -5162,7 +5162,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="4744571849207727284">Excel</translation>
+ <translation id="4744981231093950366">{NUM_TABS,plural, =1{Vklopi zvok spletnega mesta}one{Vklopi zvok spletnih mest}two{Vklopi zvok spletnih mest}few{Vklopi zvok spletnih mest}other{Vklopi zvok spletnih mest}}</translation>
+ <translation id="4745500401920035244">Skrbnik je naredil sistemsko spremembo, s katero je onemogočil nekatere stare profile. Ne morete več dostopati do tega profila, vendar ga lahko še vedno odstranite.</translation>
+-<translation id="474609389162964566">Dostop do Pomočnika z ukazom »Hey Brave«</translation>
++<translation id="474609389162964566">Dostop do Pomočnika z ukazom »Hey Kahf«</translation>
+ <translation id="4746757725581505837">Izbrisali boste podatke za »<ph name="BRAND"/>«, shranjene v tej napravi</translation>
+ <translation id="4748783296226936791">Spletna mesta običajno vzpostavijo povezavo z napravami HID zaradi funkcij, ki uporabljajo redke tipkovnico, krmilnike za igre in druge naprave.</translation>
+ <translation id="4750185073185658673">V telefonu lahko pregledate še nekaj več dovoljenj. V telefonu morata biti vklopljena Bluetooth in Wi-Fi.</translation>
+@@ -5262,11 +5262,11 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="4824037980212326045">Varnostno kopiranje in obnova v Linuxu</translation>
+ <translation id="4824958205181053313">Želite preklicati sinhronizacijo?</translation>
+ <translation id="4825532258163983651">Gesla ni mogoče izbrisati.</translation>
+-<translation id="7344871974301265093">Shramba Brave Root Store vsebuje potrdila overiteljev potrdil, ki jim zaupa
+-      program Brave Root Program, in jo redno pregledujemo.</translation>
++<translation id="7344871974301265093">Shramba Kahf Root Store vsebuje potrdila overiteljev potrdil, ki jim zaupa
++      program Kahf Root Program, in jo redno pregledujemo.</translation>
+ <translation id="4827283332383516812">Izbrišite kartico</translation>
+ <translation id="4827675678516992122">Povezava ni mogoča</translation>
+-<translation id="4536267179863600153">Izboljšano preverjanje črkovanja v brskalniku Brave (besedilo je poslano Googlu, ki zagotovi predloge za črkovanje)</translation>
++<translation id="4536267179863600153">Izboljšano preverjanje črkovanja v brskalniku Kahf (besedilo je poslano Googlu, ki zagotovi predloge za črkovanje)</translation>
+ <translation id="4827904420700932487">Ustvari kodo QR za to sliko</translation>
+ <translation id="4827970183019354123">Preverjanje URL-jev</translation>
+ <translation id="4828567746430452681">Razširitev »<ph name="EXTENSION_NAME"/>« ni več podprta</translation>
+@@ -5276,7 +5276,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="4833683849865011483">V tiskalnem strežniku je bil najden 1 tiskalnik.</translation>
+ <translation id="4835677468087803981">Skrivanje kode PIN</translation>
+ <translation id="4836504898754963407">Upravljanje prstnih odtisov</translation>
+-<translation id="7528143959514158804">Želite preklopiti nazaj na Iskanje Brave?</translation>
++<translation id="7528143959514158804">Želite preklopiti nazaj na Iskanje Kahf?</translation>
+ <translation id="4837926214103741331">Nimate dovoljenja za uporabo te naprave. Za dovoljenje za prijavo se obrnite na lastnika naprave.</translation>
+ <translation id="4838170306476614339">Ogled fotografij, predstavnosti in obvestil telefona</translation>
+ <translation id="4838327282952368871">Zasanjano</translation>
+@@ -5403,7 +5403,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="4918134162946436591">Prikaz prekrivanja z namigi</translation>
+ <translation id="4918762404810341788">Kopiraj in odpri</translation>
+ <translation id="4921348630401250116">Pretvorba besedila v govor</translation>
+-<translation id="1298471559729553235">Če želite z operacijskim sistemom uporabljati upravitelja gesel, znova zaženite Brave in omogočite dostop do upravitelja gesel v računalniku. Zavihki se bodo po vnovičnem zagonu znova odprli.</translation>
++<translation id="1298471559729553235">Če želite z operacijskim sistemom uporabljati upravitelja gesel, znova zaženite Kahf in omogočite dostop do upravitelja gesel v računalniku. Zavihki se bodo po vnovičnem zagonu znova odprli.</translation>
+ <translation id="492299503953721473">Odstrani aplikacije za Android</translation>
+ <translation id="492363500327720082">Odmeščanje aplikacije <ph name="APP_NAME"/> …</translation>
+ <translation id="4923977675318667854">Prikaz skupin zavihkov</translation>
+@@ -5448,7 +5448,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="4955707703665801001">Vidnost funkcije <ph name="FEATURE_NAME"/></translation>
+ <translation id="4955710816792587366">Izberite kodo PIN</translation>
+ <translation id="4956847150856741762">1</translation>
+-<translation id="2664072612040204002">Gesla so shranjena v Brave Računu, da jih lahko uporabite v kateri koli napravi</translation>
++<translation id="2664072612040204002">Gesla so shranjena v Kahf Računu, da jih lahko uporabite v kateri koli napravi</translation>
+ <translation id="4960020053211143927">Nekatere aplikacije ne podpirajo tega</translation>
+ <translation id="4960294539892203357"><ph name="WINDOW_TITLE"/> – <ph name="PROFILE_NAME"/></translation>
+ <translation id="4961318399572185831">Predvajanje zaslona</translation>
+@@ -5751,7 +5751,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="3075701570150269201">Ta ključ za dostop lahko uporabite za hitrejšo prijavo v napravah. Shranjen bo v Googlovem upravitelju gesel za račun <ph name="ACCOUNT_NAME"/>.</translation>
+ <translation id="5187641678926990264">&amp;Namesti stran kot aplikacijo …</translation>
+ <translation id="5187826826541650604"><ph name="KEY_NAME"/> (<ph name="DEVICE"/>)</translation>
+-<translation id="5188648870018555788">Uporaba lokacije. Aplikacijam za ChromeOS in Android, spletnim mestom in storitvam z dovoljenjem za lokacijo dovolite uporabo lokacije naprave. Natančnost zaznavanja lokacije zagotavlja natančnejšo lokacijo za aplikacije in storitve. Brave to naredi tako, da redno obdeluje podatke o tipalih naprav in brezžične signale iz naprave ter tako množično zbere lokacije brezžičnih signalov. Ti se uporabljajo brez vaše prepoznave zaradi izboljšanja natančnosti zaznavanja lokacije in storitev na podlagi lokacije zaradi izboljšanja, zagotavljanja in vzdrževanja Googlovih storitev glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov. <ph name="BEGIN_LINK1"/>Preberite več o uporabi lokacije<ph name="END_LINK1"/></translation>
++<translation id="5188648870018555788">Uporaba lokacije. Aplikacijam za ChromeOS in Android, spletnim mestom in storitvam z dovoljenjem za lokacijo dovolite uporabo lokacije naprave. Natančnost zaznavanja lokacije zagotavlja natančnejšo lokacijo za aplikacije in storitve. Kahf to naredi tako, da redno obdeluje podatke o tipalih naprav in brezžične signale iz naprave ter tako množično zbere lokacije brezžičnih signalov. Ti se uporabljajo brez vaše prepoznave zaradi izboljšanja natančnosti zaznavanja lokacije in storitev na podlagi lokacije zaradi izboljšanja, zagotavljanja in vzdrževanja Googlovih storitev glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov. <ph name="BEGIN_LINK1"/>Preberite več o uporabi lokacije<ph name="END_LINK1"/></translation>
+ <translation id="5189404424758444348">Steampunk</translation>
+ <translation id="5190577235024772869">Uporaba <ph name="USED_SPACE"/></translation>
+ <translation id="5190926251776387065">Omogoči vrata</translation>
+@@ -5850,7 +5850,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="5261619498868361045">Ime vsebnika ne sme biti prazno.</translation>
+ <translation id="5261683757250193089">Odpiranje v Spletni trgovini</translation>
+ <translation id="8752700833224096815">Ta datoteka je morda virus ali zlonamerna programska oprema. Lahko jo pošljete Googlu, da preveri, ali je varna.</translation>
+-<translation id="1723063460622338663">Še naprej shranjujte gesla v računu Brave</translation>
++<translation id="1723063460622338663">Še naprej shranjujte gesla v računu Kahf</translation>
+ <translation id="5262784498883614021">Samodejna povezava z omrežjem</translation>
+ <translation id="5263656105659419083">Če se želite preprosto vrniti v stransko podokno, v zgornjem desnem kotu kliknite »Pripni«</translation>
+ <translation id="5264148714798105376">To lahko traja kakšno minuto.</translation>
+@@ -5959,9 +5959,9 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="5344128444027639014"><ph name="BATTERY_PERCENTAGE"/> % (desna)</translation>
+ <translation id="534449933710420173">Neimenovana mapa</translation>
+ <translation id="5345916423802287046">Zaženi aplikacijo ob prijavi</translation>
+-<translation id="5296013226900466189">Brave podpira brezplačen splet</translation>
++<translation id="5296013226900466189">Kahf podpira brezplačen splet</translation>
+ <translation id="5350116201946341974">Nenavadno</translation>
+-<translation id="5305142070289640735">Izklop Pomočnika Brave</translation>
++<translation id="5305142070289640735">Izklop Pomočnika Kahf</translation>
+ <translation id="535123479159372765">Besedilo je kopirano iz druge naprave</translation>
+ <translation id="5352033265844765294">Časovno žigosanje</translation>
+ <translation id="5352257124367865087">Upravljanje dovoljenj spletnih mest</translation>
+@@ -6002,7 +6002,7 @@ Za pomanjšavo pritisnite Ctrl + Alt + tipko za zmanjšanje svetlosti.</translat
+ <translation id="5380526436444479273">Počakajte nekaj minut in poskusite znova</translation>
+ <translation id="5382591305415226340">Upravljanje podprtih povezav</translation>
+ <translation id="5383740867328871413">Neimenovana skupina – <ph name="GROUP_CONTENTS"/> – <ph name="COLLAPSED_STATE"/></translation>
+-<translation id="4871191274716686333">To geslo je shranjeno samo v tej napravi. Če ga želite uporabiti v drugih napravah, ga shranite v računu Brave.</translation>
++<translation id="4871191274716686333">To geslo je shranjeno samo v tej napravi. Če ga želite uporabiti v drugih napravah, ga shranite v računu Kahf.</translation>
+ <translation id="5387116558048951800">Uredi <ph name="CREDENTIAL_TYPE"/></translation>
+ <translation id="5387496897058645038">Tehnični podatki izdelka</translation>
+ <translation id="538822246583124912">Pravilnik podjetja se je spremenil. Gumb za preizkuse je bil dodan v orodno vrstico. Kliknite gumb, če želite odpreti pogovorno okno za omogočanje preizkusov.</translation>
+@@ -6084,7 +6084,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="5436510242972373446">Iskanje po <ph name="SITE_NAME"/>:</translation>
+ <translation id="5440425659852470030">Zapiranje stranskega podokna</translation>
+ <translation id="544083962418256601">Ustvarjanje bližnjic ...</translation>
+-<translation id="5417227405829889012">Spletna aplikacija je bila nameščena v brskalniku Brave.</translation>
++<translation id="5417227405829889012">Spletna aplikacija je bila nameščena v brskalniku Kahf.</translation>
+ <translation id="5441292787273562014">Znova naloži stran</translation>
+ <translation id="5441466871879044658">Prevedi v ta jezik</translation>
+ <translation id="5442228125690314719">Napaka pri izdelavi slike diska. Poskusite znova.</translation>
+@@ -6167,7 +6167,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="5493792505296048976">zaslon je vklopljen</translation>
+ <translation id="5494016731375030300">Nedavno zaprti zavihki</translation>
+ <translation id="5494362494988149300">Odpri, ko je &amp;končano</translation>
+-<translation id="1355780416265200556">Brave vam ponuja izbiro</translation>
++<translation id="1355780416265200556">Kahf vam ponuja izbiro</translation>
+ <translation id="5494920125229734069">Izberi vse</translation>
+ <translation id="5495466433285976480">S tem bodo po naslednjem vnovičnem zagonu odstranjeni vsi lokalni uporabniki, datoteke, podatki in druge nastavitve. Vsi uporabniki se bodo morali še enkrat prijaviti.</translation>
+ <translation id="5495597166260341369">Zaslon naj bo vklopljen</translation>
+@@ -6208,8 +6208,8 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="5522156646677899028">Ta razširitev vsebuje veliko varnostno ranljivost.</translation>
+ <translation id="7621480275083910874">Zgodovino iskanja in nastavitve si lahko ogledate v razdelku <ph name="BEGIN_LINK"/>Moja dejavnost<ph name="END_LINK"/>, če:
+       &lt;ul&gt;
+-        &lt;li&gt;uporabljate Iskanje Brave;&lt;/li&gt;
+-        &lt;li&gt;ste prijavljeni v račun Brave;&lt;/li&gt;
++        &lt;li&gt;uporabljate Iskanje Kahf;&lt;/li&gt;
++        &lt;li&gt;ste prijavljeni v račun Kahf;&lt;/li&gt;
+         &lt;li&gt;je vklopljena dejavnost v spletu in aplikacijah.&lt;/li&gt;
+       &lt;/ul&gt;</translation>
+ <translation id="5522403133543437426">Iskalnik, uporabljen v naslovni vrstici.</translation>
+@@ -6231,7 +6231,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="5542132724887566711">Profil</translation>
+ <translation id="5542750926112347543">Piškotki s spletnega mesta <ph name="DOMAIN"/> so blokirani</translation>
+ <translation id="5542949973455282971">Povezovanje z operaterjem <ph name="CARRIER_NAME"/></translation>
+-<translation id="5518662007020013933">Oglasi so bistvenega pomena za številna spletna podjetja. Pomagajo skrbeti za to, da je vsebina v spletu brezplačna, kar zagotavlja, da lahko do vsebine dostopa kdor koli. Brave razvija načine, ki spletnim mestom omogočajo prikazovanje osebno prilagojenih oglasov in hkrati varuje vašo zasebnost.  Kakovostno oglaševanje koristi vsem v spletu. Ko vidite oglas:
++<translation id="5518662007020013933">Oglasi so bistvenega pomena za številna spletna podjetja. Pomagajo skrbeti za to, da je vsebina v spletu brezplačna, kar zagotavlja, da lahko do vsebine dostopa kdor koli. Kahf razvija načine, ki spletnim mestom omogočajo prikazovanje osebno prilagojenih oglasov in hkrati varuje vašo zasebnost.  Kakovostno oglaševanje koristi vsem v spletu. Ko vidite oglas:
+       &lt;ul&gt;
+         &lt;li&gt;morda odkrijete kaj novega ali zanimivega,&lt;/li&gt;
+         &lt;li&gt;oglaševalec morda dobi novo stranko,&lt;/li&gt;
+@@ -6327,7 +6327,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="5610867721023328944">Poskusite znova ali izberite eno od spodnjih tem.</translation>
+ <translation id="5611398002774823980">Shrani v račun</translation>
+ <translation id="561236229031062396"><ph name="SHORTCUT_NAME"/>, <ph name="APP_FULL_NAME"/></translation>
+-<translation id="5060827009373522990">Ko ste prijavljeni v Brave, bodo shranjena gesla shranjena v računu Brave, <ph name="USER_EMAIL"/>. Če želite to izklopiti, odprite nastavitve.</translation>
++<translation id="5060827009373522990">Ko ste prijavljeni v Kahf, bodo shranjena gesla shranjena v računu Kahf, <ph name="USER_EMAIL"/>. Če želite to izklopiti, odprite nastavitve.</translation>
+ <translation id="5614190747811328134">Uporabniško obvestilo</translation>
+ <translation id="5614553682702429503">Želite shraniti geslo?</translation>
+ <translation id="5614947000616625327">iCloud Keychain</translation>
+@@ -6511,8 +6511,8 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="5758631781033351321">Tukaj bo prikazan seznam za branje</translation>
+ <translation id="5759397201362801675">Izberite razpoloženje</translation>
+ <translation id="5759728514498647443">Dokumente, ki jih pošljete v tiskanje v aplikaciji <ph name="APP_NAME"/>, lahko prebere aplikacija <ph name="APP_NAME"/>.</translation>
+-<translation id="479627652412010603">Izbriši tudi podatke brskanja (<ph name="URL"/>), s čimer ste lahko odjavljeni iz domene Brave.com. <ph name="LEARN_MORE"/></translation>
+-<translation id="5762787084360227629">Vnesite podatke o računu Brave</translation>
++<translation id="479627652412010603">Izbriši tudi podatke brskanja (<ph name="URL"/>), s čimer ste lahko odjavljeni iz domene Kahf.com. <ph name="LEARN_MORE"/></translation>
++<translation id="5762787084360227629">Vnesite podatke o računu Kahf</translation>
+ <translation id="5763751966069581670">Najdena ni bila nobena naprava USB</translation>
+ <translation id="5764483294734785780">Shr&amp;ani zvočni posnetek kot ...</translation>
+ <translation id="57646104491463491">Datum spremembe</translation>
+@@ -6533,9 +6533,9 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="5776415697119024904"><ph name="DEVICE_NAME"/> (sistemsko privzeto)</translation>
+ <translation id="5776450228446082914">Seznam spletnih mest, ki se lahko odprejo v enem ali drugem brskalniku.</translation>
+ <translation id="5776571780337000608">Podprte datoteke lahko s to aplikacijo odpirate in urejate v brskalniku datotek ali drugih aplikacijah. Če želite upravljati, katere datoteke to aplikacijo privzeto odprejo, <ph name="BEGIN_LINK"/>preberite, kako nastavite privzete aplikacije v napravi<ph name="END_LINK"/>.</translation>
+-<translation id="5778491106820461378">Račune Brave, v katere ste prijavljeni, lahko upravljate v <ph name="LINK_BEGIN"/>nastavitvah<ph name="LINK_END"/>. Dovoljenja, ki ste jih odobrili spletnim mestom in aplikacijam, morda veljajo za vse račune. Če ne želite, da bi spletna mesta ali aplikacije dostopali do podatkov o vašem računu, se lahko prijavite v napravo <ph name="DEVICE_TYPE"/> kot gost.</translation>
++<translation id="5778491106820461378">Račune Kahf, v katere ste prijavljeni, lahko upravljate v <ph name="LINK_BEGIN"/>nastavitvah<ph name="LINK_END"/>. Dovoljenja, ki ste jih odobrili spletnim mestom in aplikacijam, morda veljajo za vse račune. Če ne želite, da bi spletna mesta ali aplikacije dostopali do podatkov o vašem računu, se lahko prijavite v napravo <ph name="DEVICE_TYPE"/> kot gost.</translation>
+ <translation id="5780011244986845107">Izbrana mapa vsebuje občutljive datoteke. Ali ste prepričani, da želite aplikaciji »<ph name="APP_NAME"/>« odobriti trajni dostop za branje te mape?</translation>
+-<translation id="5780940414249100901">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Ta naprava trenutno Googlu samodejno pošilja diagnostične podatke ter podatke o uporabi naprave in aplikacij. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. To <ph name="BEGIN_LINK1"/>nastavitev<ph name="END_LINK1"/> je uveljavil lastnik naprave. Če ste za otroka vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v otrokovem računu Brave. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
++<translation id="5780940414249100901">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Ta naprava trenutno Googlu samodejno pošilja diagnostične podatke ter podatke o uporabi naprave in aplikacij. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. To <ph name="BEGIN_LINK1"/>nastavitev<ph name="END_LINK1"/> je uveljavil lastnik naprave. Če ste za otroka vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v otrokovem računu Kahf. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
+ <translation id="5780973441651030252">Prednost postopkov</translation>
+ <translation id="5781092003150880845">Sinhronizacija z računom uporabnika <ph name="ACCOUNT_FULL_NAME"/></translation>
+ <translation id="5781865261247219930">Pošlji ukaze razširitvi <ph name="EXTENSION_NAME"/></translation>
+@@ -6561,7 +6561,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="5794086402489402632">V čem se razlikujeta zgodovina brskanja in zgodovina iskanja?</translation>
+ <translation id="5794414402486823030">Vedno odpri s sistemskim pregledovalnikom</translation>
+ <translation id="5794700615121138172">Mape Linux, deljene z drugimi</translation>
+-<translation id="7397305826909094212">Zapri vse aplikacije za Brave</translation>
++<translation id="7397305826909094212">Zapri vse aplikacije za Kahf</translation>
+ <translation id="5797934230382081317">Preberite, kako začnete uporabljati &lt;a target='_blank' href='<ph name="LINK_ANDROID"/>'&gt;Android&lt;/a&gt; in &lt;a target='_blank' href='<ph name="LINK_IOS"/>'&gt;iOS&lt;/a&gt;.</translation>
+ <translation id="5798079537501238810">Spletna mesta lahko namestijo rutine za obravnavo plačil.</translation>
+ <translation id="5798086737841799234">Vnos potrditvene kode</translation>
+@@ -6767,7 +6767,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="5942779427914696408">Vidnost naprave</translation>
+ <translation id="5943127421590245687">Preverjanje je bilo uspešno. Če želite napravo odkleniti in obnoviti lokalne podatke vnesite staro geslo za napravo <ph name="DEVICE_TYPE"/>.</translation>
+ <translation id="5943209617717087975"><ph name="THIRD_PARTY_NTP_MANAGER"/> upravlja stran z novim zavihkom</translation>
+-<translation id="5945002094477276055">Datoteka <ph name="FILE_NAME"/> je morda nevarna. Jo želite poslati Brave Varnemu brskanju v pregled?</translation>
++<translation id="5945002094477276055">Datoteka <ph name="FILE_NAME"/> je morda nevarna. Jo želite poslati Kahf Varnemu brskanju v pregled?</translation>
+ <translation id="5945363896952315544">V varnostni ključ ni mogoče shraniti več prstnih odtisov. Če želite dodati novega, najprej izbrišite obstoječi prstni odtis.</translation>
+ <translation id="5946591249682680882">ID poročila: <ph name="WEBRTC_LOG_REPORT_ID"/></translation>
+ <translation id="5948476936444935795">Prekliči uvoz</translation>
+@@ -6850,7 +6850,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="6006392003290068688">Odstranjeno: <ph name="PERMISSION_1"/>, <ph name="PERMISSION_2"/></translation>
+ <translation id="6006484371116297560">Klasična</translation>
+ <translation id="6007240208646052708">Glasovno iskanje v vašem jeziku ni na voljo.</translation>
+-<translation id="2626511583221319874">Če je ta možnost vklopljena, bo Brave Prevajalnik ponudil prevajanje spletnih mest v želeni jezik. Samodejno lahko prevaja tudi spletna mesta.</translation>
++<translation id="2626511583221319874">Če je ta možnost vklopljena, bo Kahf Prevajalnik ponudil prevajanje spletnih mest v želeni jezik. Samodejno lahko prevaja tudi spletna mesta.</translation>
+ <translation id="6011193465932186973">Prstni odtis</translation>
+ <translation id="6011308810877101166">Izboljšanje predlogov za iskanje</translation>
+ <translation id="6011908034087870826">Pošiljanje povezave v napravo <ph name="DEVICE_NAME"/></translation>
+@@ -6869,7 +6869,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="6021969570711251331">Prepleteno</translation>
+ <translation id="602212068530399867">Iskalnik, ki se uporablja v naslovni vrstici in zaganjalniku.</translation>
+ <translation id="6022526133015258832">Odpri v celozaslonskem načinu</translation>
+-<translation id="296137235951584143">Prilagodite si Brave</translation>
++<translation id="296137235951584143">Prilagodite si Kahf</translation>
+ <translation id="6023643151125006053">To napravo (serijska številka: <ph name="SERIAL_NUMBER"/>) je zaklenil skrbnik domene <ph name="SAML_DOMAIN"/>.</translation>
+ <translation id="6024072172641380781">Dovoli razširitve na tem spletnem mestu</translation>
+ <translation id="6024317249717725918">&amp;Iskanje videosličice s ponudnikom <ph name="VISUAL_SEARCH_PROVIDER"/></translation>
+@@ -7006,7 +7006,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="6125639926370653692">Luna</translation>
+ <translation id="6126601353087978360">Tukaj vnesite povratne informacije:</translation>
+ <translation id="6127292407256937949">Glasnost zvoka je vklopljena. Izklop glasnosti zvoka.</translation>
+-<translation id="7089529486065491663">Izbrani podatki so bili odstranjeni iz Chroma in sinhroniziranih naprav. V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejavnosti iz drugih Googlovih storitev, na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
++<translation id="7089529486065491663">Izbrani podatki so bili odstranjeni iz Chroma in sinhroniziranih naprav. V Kahf Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejavnosti iz drugih Googlovih storitev, na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+ <translation id="6129938384427316298">Pripomba o Netscapeovem potrdilu</translation>
+ <translation id="6129953537138746214">Presledek</translation>
+ <translation id="6130692320435119637">Dodaj Wi-Fi</translation>
+@@ -7060,7 +7060,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="6164832038898943453">Dodajte jezike za samodejno prevajanje</translation>
+ <translation id="6165508094623778733">Več o tem</translation>
+ <translation id="6165850999903769629">Vse aplikacije v sistemu ChromeOS se poslej namesto v Chromu odprejo v svojih oknih aplikacij.</translation>
+-<translation id="3191314862567596053">Uvoz gesel v Brave</translation>
++<translation id="3191314862567596053">Uvoz gesel v Kahf</translation>
+ <translation id="6169040057125497443">Preverite mikrofon.</translation>
+ <translation id="6169967265765719844">Dovoljenja za igre in aplikacije, nameščene prek storitve Steam, je mogoče upravljati v <ph name="LINK_BEGIN"/>nastavitvah aplikacije Steam<ph name="LINK_END"/>.</translation>
+ <translation id="6170470584681422115">Sendvič</translation>
+@@ -7115,7 +7115,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="6208521041562685716">Prenos podatkov v mobilnih omrežjih je v postopku aktiviranja</translation>
+ <translation id="6208725777148613371">Ni bilo mogoče shraniti v <ph name="WEB_DRIVE"/> – <ph name="INTERRUPT_REASON"/></translation>
+ <translation id="6209838773933913227">Posodabljanje komponente</translation>
+-<translation id="6209908325007204267">Vaša naprava vključuje nadgradnjo za Brave za podjetja, vendar vaše uporabniško ime ni povezano z računom za podjetje. Ustvarite račun za podjetje, tako da v drugi napravi obiščete g.co/BraveEnterpriseAccount.</translation>
++<translation id="6209908325007204267">Vaša naprava vključuje nadgradnjo za Kahf za podjetja, vendar vaše uporabniško ime ni povezano z računom za podjetje. Ustvarite račun za podjetje, tako da v drugi napravi obiščete g.co/KahfEnterpriseAccount.</translation>
+ <translation id="6210282067670792090">V naslovni vrstici uporabite te bližnjične tipke z bližnjicami za iskalnike in iskanje po spletnem mestu.</translation>
+ <translation id="6211067089253408231">Vklop takojšnje dostopne točke</translation>
+ <translation id="6211659910592825123">Preverite kamero</translation>
+@@ -7190,7 +7190,7 @@ Poskrbite, da ne boste razkrili morebitnih občutljivih podatkov.</translation>
+ <translation id="625827534921607067">To omrežje bo prednostno, če je na voljo več kot eno predhodno povezano ali konfigurirano omrežje.</translation>
+ <translation id="62586649943626337">Organizirajte zavihke s skupinami zavihkov</translation>
+ <translation id="6259776178973198997">Osveži podatke o lastnikih Wi-Fi Direct</translation>
+-<translation id="6262371516389954471">Varnostne kopije so naložene v Brave in šifrirane z geslom za račun Brave.</translation>
++<translation id="6262371516389954471">Varnostne kopije so naložene v Kahf in šifrirane z geslom za račun Kahf.</translation>
+ <translation id="6263082573641595914">Microsoftova različica overitelja potrdil</translation>
+ <translation id="6263284346895336537">Ni kritično</translation>
+ <translation id="6264060420924719834">Ta aplikacija vsebuje spletno vsebino z drugih spletnih mest</translation>
+@@ -7229,7 +7229,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="628352644014831790">4 sekunde</translation>
+ <translation id="6285120108426285413">Datoteka <ph name="FILE_NAME"/> ni pogosto prenesena in je lahko nevarna.</translation>
+ <translation id="6285770818046456882">Naprava, ki deli z vami, je preklicala prenos.</translation>
+-<translation id="628699625505156622">Uporaba lokacije. Aplikacijam za ChromeOS in Android, spletnim mestom in storitvam z dovoljenjem za lokacijo dovolite uporabo lokacije te naprave. Natančnost zaznavanja lokacije zagotavlja natančnejšo lokacijo za aplikacije in storitve. To Brave naredi tako, da redno obdeluje podatke o tipalih naprav in brezžične signale iz naprave in tako zbere lokacije brezžičnih signalov. Ti se uporabljajo, ne da bi se osebno prepoznalo posameznike, zaradi izboljšanja natančnosti zaznavanja lokacije in storitev na podlagi lokacije zaradi izboljšanja, zagotavljanja in vzdrževanja Googlovih storitev glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov. <ph name="BEGIN_LINK1"/>Preberite več o uporabi lokacije<ph name="END_LINK1"/></translation>
++<translation id="628699625505156622">Uporaba lokacije. Aplikacijam za ChromeOS in Android, spletnim mestom in storitvam z dovoljenjem za lokacijo dovolite uporabo lokacije te naprave. Natančnost zaznavanja lokacije zagotavlja natančnejšo lokacijo za aplikacije in storitve. To Kahf naredi tako, da redno obdeluje podatke o tipalih naprav in brezžične signale iz naprave in tako zbere lokacije brezžičnih signalov. Ti se uporabljajo, ne da bi se osebno prepoznalo posameznike, zaradi izboljšanja natančnosti zaznavanja lokacije in storitev na podlagi lokacije zaradi izboljšanja, zagotavljanja in vzdrževanja Googlovih storitev glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov. <ph name="BEGIN_LINK1"/>Preberite več o uporabi lokacije<ph name="END_LINK1"/></translation>
+ <translation id="628726841779494414">Upravljanje tiskalnikov v nastavitvah tiskalnika</translation>
+ <translation id="6287828400772161253">Telefon Android (<ph name="HOST_DEVICE_NAME"/>)</translation>
+ <translation id="6290613030083731160">V bližini ni naprav, na voljo za deljenje. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+@@ -7269,7 +7269,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="6318125393809743217">Vključuje datoteko policies.json s konfiguracijami pravilnikov.</translation>
+ <translation id="6318407754858604988">Prenos se je začel</translation>
+ <translation id="6318944945640833942">Tiskalnika ni bilo mogoče zaznati. Znova vnesite naslov tiskalnika.</translation>
+-<translation id="6687282219696132355">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in računa Brave, <ph name="BEGIN_LINK"/>odprite nastavitve sinhronizacije<ph name="END_LINK"/>.</translation>
++<translation id="6687282219696132355">Če želite izbrisati podatke brskanja iz vseh sinhroniziranih naprav in računa Kahf, <ph name="BEGIN_LINK"/>odprite nastavitve sinhronizacije<ph name="END_LINK"/>.</translation>
+ <translation id="6319476488490641553">V napravi ni dovolj prostora za dokončanje te posodobitve. Sprostite <ph name="NECESSARY_SPACE"/> v napravi in poskusite znova.</translation>
+ <translation id="6322370287306604163">Hitrejše odklepanje s prstnim odtisom</translation>
+ <translation id="6322559670748154781">Datoteka ni pogosto prenesena in jo je blokirala dodatna zaščita.</translation>
+@@ -7498,7 +7498,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.</translati
+ <translation id="6511607461419653612">Znova zaženite Chromebook in poskusite znova</translation>
+ <translation id="6511827214781912955">Priporočamo, da izbrišete datoteko <ph name="FILENAME"/>, da drugi uporabniki te naprave ne bodo mogli videti vaših gesel.</translation>
+ <translation id="6512759338201777379">Ustvarjena je bila slika št. <ph name="INDEX"/> za »<ph name="SUBJECT"/>« z razpoloženjem <ph name="MOOD"/>.</translation>
+-<translation id="6513247462497316522">Brave bo uporabil mobilno podatkovno povezavo, če niste povezani z drugim omrežjem.</translation>
++<translation id="6513247462497316522">Kahf bo uporabil mobilno podatkovno povezavo, če niste povezani z drugim omrežjem.</translation>
+ <translation id="6514010653036109809">Razpoložljiva naprava:</translation>
+ <translation id="6516990372629061585">Ogled uvoženih potrdil iz Linuxa</translation>
+ <translation id="6517227424170598783">Želite odstraniti bližnjico »<ph name="SHORTCUT_NAME"/> – <ph name="APP_NAME"/>«?</translation>
+@@ -7650,7 +7650,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="6611972847767394631">Poiščite svoje zavihke tukaj</translation>
+ <translation id="661266467055912436">Izboljšuje varnost za vas in vse druge v spletu.</translation>
+ <translation id="6613267708691765962">Iskanje zlonamerne programske opreme …</translation>
+-<translation id="6613668613087513143">V napravi ni dovolj prostora za dokončanje te posodobitve. Počistite <ph name="NECESSARY_SPACE"/> v napravi in v brskalniku Brave poskusite znova.</translation>
++<translation id="6613668613087513143">V napravi ni dovolj prostora za dokončanje te posodobitve. Počistite <ph name="NECESSARY_SPACE"/> v napravi in v brskalniku Kahf poskusite znova.</translation>
+ <translation id="6615455863669487791">Pokaži mi</translation>
+ <translation id="6618744767048954150">Preverjanje poteka</translation>
+ <translation id="6619058681307408113">Line Printer Daemon (LPD)</translation>
+@@ -7719,13 +7719,13 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="666731172850799929">Odpri v: <ph name="APP_NAME"/></translation>
+ <translation id="6669195257625975787">Podatki se obravnavajo enako kot spletno mesto, ki si ga ogledujete.</translation>
+ <translation id="6670142487971298264"><ph name="APP_NAME"/> je zdaj na voljo</translation>
+-<translation id="7256334756499709483">Nekatere razširitve lahko v Brave dodajo iskalnike.</translation>
++<translation id="7256334756499709483">Nekatere razširitve lahko v Kahf dodajo iskalnike.</translation>
+ <translation id="6670983860904543332">Samodejne posodobitve zagotavljajo najnovejše funkcije. Raziščite izpostavljeno iz nedavnih posodobitev.</translation>
+ <translation id="6671320560732140690">{COUNT,plural, =1{naslov}one{# naslov}two{# naslova}few{# naslovi}other{# naslovov}}</translation>
+ <translation id="6671497123040790595">Nastavljanje upravljanja v izvedbi <ph name="MANAGER"/></translation>
+ <translation id="6672917148207387131">Dodajanje spletnega mesta <ph name="DOMAIN"/></translation>
+ <translation id="6673391612973410118"><ph name="PRINTER_MAKE_OR_MODEL"/> (USB)</translation>
+-<translation id="4273218974225755737">Podaljša čas delovanja baterije z zmanjšanjem svetlosti, omejevanjem dejavnosti v ozadju in vizualnih učinkov, zakasnitvijo obvestil in vklopom varčevanja z energijo za Brave.</translation>
++<translation id="4273218974225755737">Podaljša čas delovanja baterije z zmanjšanjem svetlosti, omejevanjem dejavnosti v ozadju in vizualnih učinkov, zakasnitvijo obvestil in vklopom varčevanja z energijo za Kahf.</translation>
+ <translation id="6673898378497337661">povečanje svetlosti osvetlitve tipkovnice</translation>
+ <translation id="6674571176963658787">Če želite začeti sinhronizacijo, vnesite geslo.</translation>
+ <translation id="6675665718701918026">Priključena je kazalna naprava</translation>
+@@ -8052,7 +8052,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="6901024547292737736"><ph name="ACTUAL_CHAR_COUNT"/>/<ph name="MAX_CHAR_COUNT"/></translation>
+ <translation id="6902066522699286937">Predhodno poslušanje glasu</translation>
+ <translation id="6902336033320348843">Razdelek ni podprt: <ph name="ERROR_LINE"/></translation>
+-<translation id="8347080852065577355">Vaši podatki bodo sinhronizirani v vseh brskalnikih Brave, v katerih ste vklopili sinhronizacijo za ta račun. Za možnosti sinhronizacije v sistemu Chrome OS odprite <ph name="LINK_BEGIN"/>nastavitve sistema Chrome OS<ph name="LINK_END"/>.</translation>
++<translation id="8347080852065577355">Vaši podatki bodo sinhronizirani v vseh brskalnikih Kahf, v katerih ste vklopili sinhronizacijo za ta račun. Za možnosti sinhronizacije v sistemu Chrome OS odprite <ph name="LINK_BEGIN"/>nastavitve sistema Chrome OS<ph name="LINK_END"/>.</translation>
+ <translation id="6903590427234129279">Odpri vse (<ph name="URL_COUNT"/>)</translation>
+ <translation id="6903907808598579934">Vklopi sinhronizacijo</translation>
+ <translation id="6903916726032521638">Iskanje poizvedbe <ph name="QUERY_CLUSTER_NAME"/></translation>
+@@ -8075,14 +8075,14 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="6921104647315081813">Izbriši dejavnosti</translation>
+ <translation id="692114467174262153">Brskalnika <ph name="ALTERNATIVE_BROWSER_NAME"/> ni bilo mogoče odpreti</translation>
+ <translation id="692135145298539227">izbriši</translation>
+-<translation id="6922128026973287222">Z Brave Varčevanjem s podatki varčujete s podatki in brskate hitreje. Kliknite, če želite izvedeti več.</translation>
++<translation id="6922128026973287222">Z Kahf Varčevanjem s podatki varčujete s podatki in brskate hitreje. Kliknite, če želite izvedeti več.</translation>
+ <translation id="6922745772873733498">Vnesite kodo PIN, če želite tiskati</translation>
+ <translation id="6922763095098248079">To napravo upravlja vaša organizacija. Skrbniki lahko dostopajo do podatkov v katerem koli profilu v tej napravi.</translation>
+ <translation id="6923633482430812883">Napaka pri vpenjanju datotečnega sredstva v skupni rabi. Preverite, ali datotečni strežnik, s katerim se povezujete, podpira protokol SMBv2 ali novejšega.</translation>
+ <translation id="6925127338315966709">V brskalnik dodajate upravljani profil. Skrbnik ima nadzor nad profil in lahko dostopa do podatkov v njem. Zaznamke, zgodovino, gesla in druge nastavitve je mogoče sinhronizirati z računom in lahko jih upravlja skrbnik.</translation>
+ <translation id="6928650056523249512">Samodejno odstrani dovoljenja za neuporabljena spletna mesta</translation>
+-<translation id="6929126689972602640">Starševski nadzor ni podprt za šolske račune. Če želite dodati šolski račun za dostop do Učilnice Brave in drugih spletnih mest za opravljanje šolskih obveznosti doma, se najprej prijavite z otrokovim osebnim računom. Šolski račun lahko dodate pozneje pri nastavitvi.</translation>
+-<translation id="7557633564943867584">Okay Brave</translation>
++<translation id="6929126689972602640">Starševski nadzor ni podprt za šolske račune. Če želite dodati šolski račun za dostop do Učilnice Kahf in drugih spletnih mest za opravljanje šolskih obveznosti doma, se najprej prijavite z otrokovim osebnim računom. Šolski račun lahko dodate pozneje pri nastavitvi.</translation>
++<translation id="7557633564943867584">Okay Kahf</translation>
+ <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Razširitev je zavrnjena}one{# razširitev je zavrnjena}two{# razširitvi sta zavrnjeni}few{# razširitve so zavrnjene}other{# razširitev je zavrnjenih}}</translation>
+ <translation id="6931690462168617033">Moč klika</translation>
+ <translation id="6933321725007230600">Vklopite &amp;sinhronizacijo …</translation>
+@@ -8160,13 +8160,13 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="6985607387932385770">Tiskalniki</translation>
+ <translation id="6988094684494323731">Zagon vsebnika za Linux</translation>
+ <translation id="6988403677482707277">Zavihek je premaknjen na začetek traku z zavihki.</translation>
+-<translation id="344476885517054254">Upravljanje računa Brave</translation>
++<translation id="344476885517054254">Upravljanje računa Kahf</translation>
+ <translation id="6989274756151920076">Ne zapusti strani</translation>
+ <translation id="6991665348624301627">Izberite cilj</translation>
+ <translation id="6991926986715044139">Vedno pokaži bližnjico do Googla Lens</translation>
+ <translation id="6992554835374084304">Vklop izboljšanega preverjanja črkovanja</translation>
+ <translation id="6993000214273684335">Zavihek je odstranjen iz neimenovane skupine – <ph name="GROUP_CONTENTS"/>.</translation>
+-<translation id="6993050154661569036">Posodabljanje brskalnika Brave</translation>
++<translation id="6993050154661569036">Posodabljanje brskalnika Kahf</translation>
+ <translation id="6995899638241819463">Posvari, če so gesla razkrita zaradi podatkovne kršitve</translation>
+ <translation id="6995984090981858039">Branje podatkov o napravi ChromeOS in podatkov</translation>
+ <translation id="6996245928508281884">V telefonu vklopite Bluetooth in Wi-Fi</translation>
+@@ -8211,7 +8211,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7014480873681694324">Odstrani označitev</translation>
+ <translation id="7014741021609395734">Stopnja povečave</translation>
+ <translation id="7016995776279438971">Rdeča-zelena, šibka rdeča (protanomalija)</translation>
+-<translation id="7017004637493394352">Znova izgovorite »Ok Brave«</translation>
++<translation id="7017004637493394352">Znova izgovorite »Ok Kahf«</translation>
+ <translation id="7017219178341817193">Dodaj novo stran</translation>
+ <translation id="7017354871202642555">Ko enkrat nastavite okno, ni mogoče nastaviti načina.</translation>
+ <translation id="7019546817926942979">Naprava mora biti priklopljena. Nadgradnja Linuxa lahko znatno izprazni baterijo. Priključite napravo na polnilnik in poskusite znova.</translation>
+@@ -8249,7 +8249,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7047059339731138197">Izbira ozadja</translation>
+ <translation id="7049524156282610342">Podatki brskanja <ph name="DISPLAY_NAME"/></translation>
+ <translation id="7050037487872780845">Neveljavna konfiguracija dostopne točke.</translation>
+-<translation id="1419348090043109902">{COUNT,plural, =1{Geslo je shranjeno v računu Brave, <ph name="USER_EMAIL"/>}one{Gesla so shranjena v računu Brave, <ph name="USER_EMAIL"/>}two{Gesla so shranjena v računu Brave, <ph name="USER_EMAIL"/>}few{Gesla so shranjena v računu Brave, <ph name="USER_EMAIL"/>}other{Gesla so shranjena v računu Brave, <ph name="USER_EMAIL"/>}}</translation>
++<translation id="1419348090043109902">{COUNT,plural, =1{Geslo je shranjeno v računu Kahf, <ph name="USER_EMAIL"/>}one{Gesla so shranjena v računu Kahf, <ph name="USER_EMAIL"/>}two{Gesla so shranjena v računu Kahf, <ph name="USER_EMAIL"/>}few{Gesla so shranjena v računu Kahf, <ph name="USER_EMAIL"/>}other{Gesla so shranjena v računu Kahf, <ph name="USER_EMAIL"/>}}</translation>
+ <translation id="7052762602787632571">&amp;Izbriši podatke brskanja …</translation>
+ <translation id="705352103640172578">Slap</translation>
+ <translation id="7053983685419859001">Blokiraj</translation>
+@@ -8326,15 +8326,15 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7113502843173351041">Poznati morate svoj e-poštni naslov</translation>
+ <translation id="7113974454301513811">Zdaj dodajte trenutni zavihek na seznam.</translation>
+ <translation id="7114054701490058191">Gesli se ne ujemata</translation>
+-<translation id="7114648273807173152">Če se želite v račun za Brave prijaviti s funkcijo Smart Lock, odprite »Nastavitve &gt; Povezane naprave &gt; Vaš telefon &gt; Smart Lock«.</translation>
++<translation id="7114648273807173152">Če se želite v račun za Kahf prijaviti s funkcijo Smart Lock, odprite »Nastavitve &gt; Povezane naprave &gt; Vaš telefon &gt; Smart Lock«.</translation>
+ <translation id="7115361495406486998">Ni dosegljivih stikov</translation>
+ <translation id="7115731767122970828">Izboljšaj zdaj</translation>
+ <translation id="7116554090938189816">Potrdilo SSL tiskalnika je poteklo. Tiskalnik zaženite znova in poskusite še enkrat.</translation>
+ <translation id="7117228822971127758">Poskusite znova pozneje</translation>
+ <translation id="7118268675952955085">posnetek zaslona</translation>
+ <translation id="711840821796638741">Prikaz upravljanih zaznamkov</translation>
+-<translation id="8651796563067586593">Ta stran vam omogoča upravljanje računov Brave, v katere ste prijavljeni. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+-<translation id="5450502361144700252">Če povezava z omrežjem VPN ni vzpostavljena, bosta blokirana brskalnik Brave in promet v Androidu.</translation>
++<translation id="8651796563067586593">Ta stran vam omogoča upravljanje računov Kahf, v katere ste prijavljeni. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
++<translation id="5450502361144700252">Če povezava z omrežjem VPN ni vzpostavljena, bosta blokirana brskalnik Kahf in promet v Androidu.</translation>
+ <translation id="7121438501124788993">Način za razvijalce</translation>
+ <translation id="7121728544325372695">Pametni pomišljaji</translation>
+ <translation id="7122605570852873914">Vseeno odjavi</translation>
+@@ -8423,9 +8423,9 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7194873994243265344">Vaša organizacija je blokirala to datoteko, ker je šifrirana. Lastnika datoteke prosite, da jo dešifrira.</translation>
+ <translation id="7196107899576756066">{COUNT,plural, =1{Poteka 1 prenos}one{Poteka # prenos}two{Potekata # prenosa}few{Potekajo # prenosi}other{Poteka # prenosov}}</translation>
+ <translation id="7196272782924897510">Želite uporabiti ključ za dostop iz druge naprave?</translation>
+-<translation id="96037229054033864">Vsakič brskajte z Iskanjem Brave in Googlovimi pametnimi rešitvami</translation>
++<translation id="96037229054033864">Vsakič brskajte z Iskanjem Kahf in Googlovimi pametnimi rešitvami</translation>
+ <translation id="719791532916917144">Bližnjične tipke</translation>
+-<translation id="822137494909042639">Zakaj se Brave poslavlja od piškotkov tretjih oseb?</translation>
++<translation id="822137494909042639">Zakaj se Kahf poslavlja od piškotkov tretjih oseb?</translation>
+ <translation id="7198503619164954386">Uporabljati morate včlanjeno napravo v poslovnih okoljih.</translation>
+ <translation id="7199158086730159431">Pomoč</translation>
+ <translation id="7199452998289813782">Začasno zaustavi predvajanje v napravi <ph name="DEVICE_NAME"/></translation>
+@@ -8525,7 +8525,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7273894023751806510">Spletnemu mestu <ph name="HOST"/> vedno prepreči upravljanje in reprogramiranje naprav MIDI</translation>
+ <translation id="727441411541283857"><ph name="PERCENTAGE"/> % – <ph name="TIME"/> do napolnjenosti</translation>
+ <translation id="727595954130325265">Nakup</translation>
+-<translation id="7949597606523411684">Brave samodejno izbriše teme, starejše od 4 tednov. Ko nadaljujete brskanje, se lahko na seznamu znova prikaže tema. Blokirate lahko tudi teme, za katere ne želite, da jih Brave deli s spletnimi mesti. Preberite več o <ph name="BEGIN_LINK"/>upravljanju zasebnosti pri oglaševanju v Chromu.<ph name="END_LINK"/></translation>
++<translation id="7949597606523411684">Kahf samodejno izbriše teme, starejše od 4 tednov. Ko nadaljujete brskanje, se lahko na seznamu znova prikaže tema. Blokirate lahko tudi teme, za katere ne želite, da jih Kahf deli s spletnimi mesti. Preberite več o <ph name="BEGIN_LINK"/>upravljanju zasebnosti pri oglaševanju v Chromu.<ph name="END_LINK"/></translation>
+ <translation id="7278164481614262110">Ustvarjajte teme z umetno inteligenco</translation>
+ <translation id="727952162645687754">Napaka pri prenosu</translation>
+ <translation id="7280649757394340890">Glasovne nastavitve pretvorbe besedila v govor</translation>
+@@ -8695,7 +8695,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7400839060291901923">Nastavitev povezave v telefonu <ph name="PHONE_NAME"/></translation>
+ <translation id="7401559588859088661">Premakni in odpri</translation>
+ <translation id="7401778920660465883">Opusti to sporočilo</translation>
+-<translation id="8030556531842722393">Želite shranjena gesla premakniti v račun Brave?</translation>
++<translation id="8030556531842722393">Želite shranjena gesla premakniti v račun Kahf?</translation>
+ <translation id="740333000181878130">Zvok ob zagonu naprave</translation>
+ <translation id="7403642243184989645">Prenos sredstev</translation>
+ <translation id="7404065585741198296">Vaš telefon s kablom USB</translation>
+@@ -9021,7 +9021,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7645681574855902035">Preklic varnostnega kopiranja vsebnika za Linux</translation>
+ <translation id="7646772052135772216">Sinhronizacija gesel ne deluje</translation>
+ <translation id="7647403192093989392">Ni nedavnih dejavnosti</translation>
+-<translation id="3350442560878669560">Brave preverja namestitveni paket</translation>
++<translation id="3350442560878669560">Kahf preverja namestitveni paket</translation>
+ <translation id="7649070708921625228">Pomoč</translation>
+ <translation id="7650178491875594325">Obnovitev lokalnih podatkov</translation>
+ <translation id="7650582458329409456">{COUNT,plural, =1{Nastavljen je en prstni odtis}one{Nastavljen je {COUNT} prstni odtis}two{Nastavljena sta {COUNT} prstna odtisa}few{Nastavljeni so {COUNT} prstni odtisi}other{Nastavljenih je {COUNT} prstnih odtisov}}</translation>
+@@ -9083,7 +9083,7 @@ Imate še # ogroženih gesel. Googlov upravitelj gesel priporoča, da takoj prev
+ <translation id="7683834360226457448">Orodja za prikaz pri slabovidnosti</translation>
+ <translation id="7684212569183643648">Namestil skrbnik</translation>
+ <translation id="7684559058815332124">Odpri prijavno stran prestreznega portala</translation>
+-<translation id="1669729672557072907">Če želite ustvarjati in preizkušati aplikacije, omogočite most za odpravljanje težav s sistemom Android (ADB). Upoštevajte, da to dejanje omogoča namestitev aplikacij za Android, ki jih ni preveril Brave, če želite orodje onemogočiti, pa je potrebna tovarniško ponastavitev.</translation>
++<translation id="1669729672557072907">Če želite ustvarjati in preizkušati aplikacije, omogočite most za odpravljanje težav s sistemom Android (ADB). Upoštevajte, da to dejanje omogoča namestitev aplikacij za Android, ki jih ni preveril Kahf, če želite orodje onemogočiti, pa je potrebna tovarniško ponastavitev.</translation>
+ <translation id="7684913007876670600">Za prikaz poenostavljenega pogleda te strani odprite stransko podokno in izberite način za branje</translation>
+ <translation id="7685049629764448582">Pomnilnik za JavaScript</translation>
+ <translation id="7685087414635069102">Zahtevana je koda PIN</translation>
+@@ -9317,16 +9317,16 @@ Pritisnite dodeljeno stikalo ali tipko, če želite odstraniti dodelitev.</trans
+ <translation id="7850320739366109486">Ne moti</translation>
+ <translation id="7850717413915978159"><ph name="BEGIN_PARAGRAPH1"/>Če napravam s sistemom Chrome OS dovolite pošiljanje samodejnih poročil, bomo potrebne popravke in izboljšave sistema Chrome OS lažje razvrstili po pomembnosti. Ta poročila lahko med drugim vključujejo podatke o tem, kdaj v sistemu Chrome OS pride do zrušitev, katere funkcije uporabljate, koliko pomnilnika običajno uporabljate ter diagnostične podatke in podatke o uporabi aplikacij za Android. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android.<ph name="END_PARAGRAPH1"/>
+     <ph name="BEGIN_PARAGRAPH2"/>Ta poročila lahko kadar koli omogočite ali onemogočite v nastavitvah naprave s sistemom Chrome OS. Če ste skrbnik domene, lahko to nastavitev spremenite v skrbniški konzoli.<ph name="END_PARAGRAPH2"/>
+-    <ph name="BEGIN_PARAGRAPH3"/>Če ste za račun Brave vklopili beleženje dejavnosti v spletu in aplikacijah, bodo podatki naprave Android morda shranjeni v računu Brave. Na account.google.com si lahko ogledate podatke in jih izbrišete ter spremenite nastavitve računa.<ph name="END_PARAGRAPH3"/></translation>
+-<translation id="7851021205959621355"><ph name="BEGIN_BOLD"/>Opomba:<ph name="END_BOLD"/> S podobnim glasom ali posnetkom je morda mogoče dostopati do vaših osebnih rezultatov ali Pomočnika. Zaradi varčevanja z baterijo lahko v nastavitvah Pomočnika izberete, da je sprožilna besedna zveza »Hey Brave« vklopljena samo, ko je ta naprava priključena na vir napajanja.</translation>
++    <ph name="BEGIN_PARAGRAPH3"/>Če ste za račun Kahf vklopili beleženje dejavnosti v spletu in aplikacijah, bodo podatki naprave Android morda shranjeni v računu Kahf. Na account.google.com si lahko ogledate podatke in jih izbrišete ter spremenite nastavitve računa.<ph name="END_PARAGRAPH3"/></translation>
++<translation id="7851021205959621355"><ph name="BEGIN_BOLD"/>Opomba:<ph name="END_BOLD"/> S podobnim glasom ali posnetkom je morda mogoče dostopati do vaših osebnih rezultatov ali Pomočnika. Zaradi varčevanja z baterijo lahko v nastavitvah Pomočnika izberete, da je sprožilna besedna zveza »Hey Kahf« vklopljena samo, ko je ta naprava priključena na vir napajanja.</translation>
+ <translation id="7851457902707056880">Prijava je omejena na račun lastnika. Znova zaženite napravo in se prijavite z računom lastnika. Naprava se bo samodejno znova zagnala čez 30 sekund.</translation>
+ <translation id="7851716364080026749">Vedno blokiraj dostop do kamere in mikrofona</translation>
+ <translation id="7851720427268294554">Razčlenjevalnik IPP</translation>
+-<translation id="1037569431519018426">Dodajanje več računov Brave je onemogočeno</translation>
++<translation id="1037569431519018426">Dodajanje več računov Kahf je onemogočeno</translation>
+ <translation id="7853747251428735">Več &amp;orodij</translation>
+ <translation id="7853999103056713222">Uporabite varnejše geslo</translation>
+ <translation id="7855678561139483478">Premik zavihka v novo okno</translation>
+-<translation id="5098692435578848480">Skrij Brave Koledar</translation>
++<translation id="5098692435578848480">Skrij Kahf Koledar</translation>
+ <translation id="7857004848504343806">V računalnik je vgrajen varnostni modul, potreben za številne nujne varnostne funkcije v sistemu ChromeOS Flex. Več o njem lahko preberete v centru za pomoč za Chromebook: https://support.google.com/chromebook/?p=sm</translation>
+ <translation id="7857093393627376423">Besedilni predlogi</translation>
+ <translation id="7858120906780498731">Povezane vhodne naprave v sistemu ChromeOS</translation>
+@@ -9334,11 +9334,11 @@ Pritisnite dodeljeno stikalo ali tipko, če želite odstraniti dodelitev.</trans
+ <translation id="7859560813397128941">Odstrani razširitev <ph name="EXTENSION_NAME"/></translation>
+ <translation id="786073089922909430">Storitev: <ph name="ARC_PROCESS_NAME"/></translation>
+ <translation id="7861215335140947162">&amp;Prenosi</translation>
+-<translation id="2614143654677404775">Jezik računa Brave</translation>
++<translation id="2614143654677404775">Jezik računa Kahf</translation>
+ <translation id="7864114920800968141">Čez <ph name="NUM_MIN"/> min</translation>
+ <translation id="7864539943188674973">Onemogoči Bluetooth</translation>
+-<translation id="3705906341784484184">Želite shraniti v računu Brave?</translation>
+-<translation id="7865127013871431856">Možnosti za Brave Prevajalnik</translation>
++<translation id="3705906341784484184">Želite shraniti v računu Kahf?</translation>
++<translation id="7865127013871431856">Možnosti za Kahf Prevajalnik</translation>
+ <translation id="786957569166715433"><ph name="DEVICE_NAME"/> – seznanjeno</translation>
+ <translation id="7869655448736341731">Vse</translation>
+ <translation id="787069710204604994">Če na primer obiščete spletno mesto, ki prodaja tekaško obutev za dolge razdalje, se lahko spletno mesto odloči, da vas zanimajo maratoni. Če pozneje obiščete drugo spletno mesto, lahko to spletno mesto prikaže oglas za tekaško obutev, ki ga je predlagalo prvo spletno mesto.</translation>
+@@ -9499,10 +9499,10 @@ Pritisnite dodeljeno stikalo ali tipko, če želite odstraniti dodelitev.</trans
+ <translation id="7974566588408714340">Poskusi znova z razširitvijo <ph name="EXTENSIONNAME"/></translation>
+ <translation id="7974713334845253259">Privzeta barva</translation>
+ <translation id="7974936243149753750">Upodabljanje čez rob zaslona</translation>
+-<translation id="7975504106303186033">To napravo za Brave Education morate včlaniti v račun za Education. Če se želite prijaviti za nov račun, odprite visit g.co/workspace/edusignup.</translation>
++<translation id="7975504106303186033">To napravo za Kahf Education morate včlaniti v račun za Education. Če se želite prijaviti za nov račun, odprite visit g.co/workspace/edusignup.</translation>
+ <translation id="7977451675950311423">Opozori vas, če uporabite geslo, ki je ogroženo zaradi podatkovne kršitve.</translation>
+ <translation id="7978412674231730200">Zasebni ključ</translation>
+-<translation id="6417033266065686942">S tem boste odjavljeni iz Brave Računov. Zaznamki, zgodovina, gesla in drugi podatki ne bodo več sinhronizirani.</translation>
++<translation id="6417033266065686942">S tem boste odjavljeni iz Kahf Računov. Zaznamki, zgodovina, gesla in drugi podatki ne bodo več sinhronizirani.</translation>
+ <translation id="7980066177668669492">Base64 kodiran ASCII, več potrdil</translation>
+ <translation id="7980084013673500153">ID sredstva: <ph name="ASSET_ID"/></translation>
+ <translation id="7981410461060625406">Uporabite shranjeni ključ za dostop za aplikacijo <ph name="APP_NAME"/></translation>
+@@ -9547,7 +9547,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8011372169388649948">Premaknjeno: »<ph name="BOOKMARK_TITLE"/>«.</translation>
+ <translation id="8012188750847319132">Caps Lock</translation>
+ <translation id="8012463809859447963">Podrobnosti takojšnje dostopne točke</translation>
+-<translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo Brave poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
++<translation id="5499063270485366718">Če slika nima koristnega opisa, ga bo Kahf poskušal zagotoviti. Opisi se ustvarijo tako, da se slike pošljejo Googlu.</translation>
+ <translation id="8014154204619229810">Orodje za posodabljanje se trenutno izvaja. Osvežite čez minuto in preverite znova.</translation>
+ <translation id="8014206674403687691">Izdelka <ph name="IDS_SHORT_PRODUCT_NAME"/> ni mogoče povrniti na prejšnjo različico. Poskusite uporabiti funkcijo Powerwash.</translation>
+ <translation id="8015565302826764056">{NUM_OF_FILES,plural, =1{Kopirana je bila 1 datoteka}one{Kopirana je bila {NUM_OF_FILES} datoteka}two{Kopirani sta bili {NUM_OF_FILES} datoteki}few{Kopirane so bile {NUM_OF_FILES} datoteke}other{Kopiranih je bilo {NUM_OF_FILES} datotek}}</translation>
+@@ -9674,7 +9674,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8096740438774030488">Stanje pripravljenosti pri napajanju iz baterije</translation>
+ <translation id="80974698889265265">Kodi PIN se ne ujemata</translation>
+ <translation id="809792523045608178"><ph name="IDS_SHORT_PRODUCT_NAME"/> uporablja nastavitve strežnika proxy razširitve</translation>
+-<translation id="8097959162767603171">Skrbnik mora najprej sprejeti pogoje storitve na seznamu naprav Brave v skrbniški konzoli.</translation>
++<translation id="8097959162767603171">Skrbnik mora najprej sprejeti pogoje storitve na seznamu naprav Kahf v skrbniški konzoli.</translation>
+ <translation id="8098156986344908134">Želite namestiti <ph name="DEVICE_OS"/> in izbrisati trdi disk?</translation>
+ <translation id="8098616321286360457">Potrebna je omrežna povezava</translation>
+ <translation id="8100230553590752325">Uporaba shranjenih gesel v kateri koli napravi</translation>
+@@ -9697,7 +9697,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8116972784401310538">&amp;Upravitelj zaznamkov</translation>
+ <translation id="8118276691321086429"><ph name="PASSWORD_MANAGER_BRAND"/> si zapomni način vaše prijave in vas samodejno prijavi, ko je to mogoče. Če je ta možnost izklopljena, boste vsakič pozvani k potrditvi.</translation>
+ <translation id="8118331347066725040">Pošiljanje povratnih informacij za iskanje z Googlom Lens</translation>
+-<translation id="177808131755847449">Razširitev je onemogočil Brave, ker morda ni varna.</translation>
++<translation id="177808131755847449">Razširitev je onemogočil Kahf, ker morda ni varna.</translation>
+ <translation id="8118488170956489476">Vaš <ph name="BEGIN_LINK"/>brskalnik upravlja<ph name="END_LINK"/> organizacija</translation>
+ <translation id="8118515372935001629">Hitrost osveževanja zaslona</translation>
+ <translation id="8118860139461251237">Upravljanje prenosov</translation>
+@@ -9710,7 +9710,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8123975449645947908">Pomik nazaj</translation>
+ <translation id="8124313775439841391">Upravljan ONC</translation>
+ <translation id="8125651784723647184">Deljenje gesel upravlja skrbnik</translation>
+-<translation id="8129265306888404830">Če želite uporabiti svoj e-poštni naslov organizacije (<ph name="EMAIL_DOMAIN"/>), morate uporabiti včlanitev v podjetje. Če je ta naprava za osebno uporabo, se prijavite z osebnim računom Brave.</translation>
++<translation id="8129265306888404830">Če želite uporabiti svoj e-poštni naslov organizacije (<ph name="EMAIL_DOMAIN"/>), morate uporabiti včlanitev v podjetje. Če je ta naprava za osebno uporabo, se prijavite z osebnim računom Kahf.</translation>
+ <translation id="8130476996317833777">Ne dovoli, da spletna mesta uporabljajo orodje za optimiziranje V8</translation>
+ <translation id="813082847718468539">Ogled podatkov o mestu</translation>
+ <translation id="8131740175452115882">Potrdi</translation>
+@@ -9743,7 +9743,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="814870937590541483">Več dejanj za datoteke v Googlu Drive</translation>
+ <translation id="8148760431881541277">Omejitev prijav</translation>
+ <translation id="8149564499626272569">Preverite prek telefona s kablom USB</translation>
+-<translation id="932155016683443951">Če želite shranjena gesla uporabljati v telefonu, prenesite Brave za iOS in se prijavite v račun Brave.</translation>
++<translation id="932155016683443951">Če želite shranjena gesla uporabljati v telefonu, prenesite Kahf za iOS in se prijavite v račun Kahf.</translation>
+ <translation id="8150396590017071059">Sprememba kode PIN Upravitelja gesel</translation>
+ <translation id="8151057139207656239">Podrobnosti gradnje so kopirane</translation>
+ <translation id="815114315010033526">Uporabi kodo QR</translation>
+@@ -10027,7 +10027,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8357388086258943206">Napaka pri nameščanju Linuxa</translation>
+ <translation id="8358685469073206162">Želite obnoviti strani?</translation>
+ <translation id="8358912028636606457">Predvajanje zvoka zavihka v tej napravi ni podprto.</translation>
+-<translation id="2921493528667739769">Shrani v računu Brave</translation>
++<translation id="2921493528667739769">Shrani v računu Kahf</translation>
+ <translation id="8360140320636871023">Osebno prilagajanje teme prikaza</translation>
+ <translation id="8360267485906769442">Gumb za pošiljanje povratnih informacij</translation>
+ <translation id="8362914115861174987">Prevedi v jezik</translation>
+@@ -10050,7 +10050,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8376451933628734023">Če vas ta spletni program poskuša zavesti, da gre za drug program, ga odmestite.</translation>
+ <translation id="8376532149031784008">Vnovično nalaganje domene <ph name="DOMAIN"/> …</translation>
+ <translation id="8376610503048439696">Razširitve, ki jih namesti skrbnik, lahko še vedno berejo in spreminjajo to spletno mesto</translation>
+-<translation id="2790916299775928255">Stransko podokno Iskanja Brave</translation>
++<translation id="2790916299775928255">Stransko podokno Iskanja Kahf</translation>
+ <translation id="8376812682111060348">Opozorilo glede težave z delovanjem</translation>
+ <translation id="8378714024927312812">Upravlja vaša organizacija</translation>
+ <translation id="8379988659465232385">Polje z imenom ne sme biti prazno</translation>
+@@ -10326,7 +10326,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8584843865238667486">Naprave HID z uporabo <ph name="USAGE"/> s <ph name="USAGE_PAGE"/>. strani za uporabo</translation>
+ <translation id="8585480574870650651">Odstranitev Crostinija</translation>
+ <translation id="8585841788766257444">Spodaj navedena spletna mesta upoštevajo nastavitev po meri, ne privzete nastavitve.</translation>
+-<translation id="8586421813321819377">Aplikacijam za ChromeOS in Android, spletnim mestom in storitvam z dovoljenjem za lokacijo dovolite uporabo lokacije naprave. Natančnost zaznavanja lokacije zagotavlja natančnejšo lokacijo za aplikacije in storitve. Brave to naredi tako, da redno obdeluje podatke o tipalih naprav in brezžične signale iz naprave ter tako množično zbere lokacije brezžičnih signalov. Ti se uporabljajo brez vaše prepoznave zaradi izboljšanja natančnosti zaznavanja lokacije in storitev na podlagi lokacije zaradi izboljšanja, zagotavljanja in vzdrževanja Googlovih storitev glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov.</translation>
++<translation id="8586421813321819377">Aplikacijam za ChromeOS in Android, spletnim mestom in storitvam z dovoljenjem za lokacijo dovolite uporabo lokacije naprave. Natančnost zaznavanja lokacije zagotavlja natančnejšo lokacijo za aplikacije in storitve. Kahf to naredi tako, da redno obdeluje podatke o tipalih naprav in brezžične signale iz naprave ter tako množično zbere lokacije brezžičnih signalov. Ti se uporabljajo brez vaše prepoznave zaradi izboljšanja natančnosti zaznavanja lokacije in storitev na podlagi lokacije zaradi izboljšanja, zagotavljanja in vzdrževanja Googlovih storitev glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov.</translation>
+ <translation id="8587001564479545614">Ustvarjanje kode PIN za obnovitev</translation>
+ <translation id="8587660243683137365">Namestite to stran kot aplikacijo</translation>
+ <translation id="8588866096426746242">Prikaži statistične podatke profila</translation>
+@@ -10511,7 +10511,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8713570323158206935">Pošlji <ph name="BEGIN_LINK1"/>podatke o sistemu<ph name="END_LINK1"/></translation>
+ <translation id="8714731224866194981">Ogledate si lahko fotografije in aplikacije telefona. Hitro lahko odgovarjate na obvestila o sporočilih.</translation>
+ <translation id="8714838604780058252">Grafika v ozadju</translation>
+-<translation id="5891814591156187199">Izberite napravo. Nato v njej odprite Brave, če si želite ogledati stran.</translation>
++<translation id="5891814591156187199">Izberite napravo. Nato v njej odprite Kahf, če si želite ogledati stran.</translation>
+ <translation id="8715480913140015283">Zavihek v ozadju uporablja kamero</translation>
+ <translation id="8716931980467311658">Želite izbrisati vse aplikacije in podatke za Linux iz mape z datotekami za Linux v tej napravi <ph name="DEVICE_TYPE"/>?</translation>
+ <translation id="8717864919010420084">Kopiraj povezavo</translation>
+@@ -10528,7 +10528,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8725178340343806893">Priljubljene/Zaznamki</translation>
+ <translation id="87254326763805752">Potrdite geslo</translation>
+ <translation id="8726206820263995930">Napaka pri prenosu nastavitev pravilnika iz strežnika: <ph name="CLIENT_ERROR"/>.</translation>
+-<translation id="6614332522102257453">Izkoristite Brave na najboljši način</translation>
++<translation id="6614332522102257453">Izkoristite Kahf na najboljši način</translation>
+ <translation id="8727333994464775697">Prilagodite, kaj je prikazano na tej strani</translation>
+ <translation id="8727751378406387165">Pošlji <ph name="BEGIN_LINK1"/>samodejno izpolnjevanje metapodatkov<ph name="END_LINK1"/>
+           <ph name="LINE_BREAK"/>
+@@ -10589,7 +10589,7 @@ Datoteko s ključem shranite na varnem. Potrebovali jo boste za izdelavo novih r
+ <translation id="8763927697961133303">Naprava USB</translation>
+ <translation id="8766796754185931010">Kotoeri</translation>
+ <translation id="8767069439158587614">Pokaži vsa iskanja poizvedbe <ph name="QUERY_CLUSTER_NAME"/></translation>
+-<translation id="4570609078116869893">Samodejno posodobi Brave za vse uporabnike</translation>
++<translation id="4570609078116869893">Samodejno posodobi Kahf za vse uporabnike</translation>
+ <translation id="876956356450740926">Izvajanje orodij za razvijalce, IDE-jev in urednikov. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+ <translation id="8770406935328356739">Korenski imenik razširitve</translation>
+ <translation id="8771300903067484968">Ozadje začetne strani je ponastavljeno na privzeto ozadje.</translation>
+@@ -10617,23 +10617,23 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="8784626084144195648">Kvantizacijsko povprečje</translation>
+ <translation id="8785622406424941542">Pisalo</translation>
+ <translation id="8786824282808281903">Ko otrok vidi to ikono, se lahko prstni odtis uporabi za identifikacijo ali odobritev nakupov.</translation>
+-<translation id="1427237635463348414">Pomagajte nam izboljšati Brave, tako da nam poveste, zakaj ste dovolili piškotke tretjih oseb</translation>
++<translation id="1427237635463348414">Pomagajte nam izboljšati Kahf, tako da nam poveste, zakaj ste dovolili piškotke tretjih oseb</translation>
+ <translation id="8788008845761123079">Izbira poteze za dejanje <ph name="SELECTED_ACTION"/></translation>
+-<translation id="6925082544593251076">Brave je del <ph name="LINK_BEGIN"/>skupnih prizadevanj<ph name="LINK_END"/> za zmanjšanje sledenja med mesti in postopno ukinjanje uporabe piškotkov tretjih oseb. To poskušamo storiti odgovorno, saj veliko spletnih mest za pravilno delovanje uporablja piškotke tretjih oseb. Številna spletna mesta na primer uporabljajo piškotke tretjih oseb za poenostavitev prijave, podporo vdelanih sistemov za klepet in komentarje ter za plačilne storitve. Oglaševalci pogosto uporabljajo piškotke tretjih oseb za boljše osebno prilagajanje oglasov. To je pomembno, saj spletna mesta pogosto računajo na oglase pri plačevanju izdatkov, zaradi oglasov pa je spletna vsebina lahko še naprej brez stroškov.</translation>
++<translation id="6925082544593251076">Kahf je del <ph name="LINK_BEGIN"/>skupnih prizadevanj<ph name="LINK_END"/> za zmanjšanje sledenja med mesti in postopno ukinjanje uporabe piškotkov tretjih oseb. To poskušamo storiti odgovorno, saj veliko spletnih mest za pravilno delovanje uporablja piškotke tretjih oseb. Številna spletna mesta na primer uporabljajo piškotke tretjih oseb za poenostavitev prijave, podporo vdelanih sistemov za klepet in komentarje ter za plačilne storitve. Oglaševalci pogosto uporabljajo piškotke tretjih oseb za boljše osebno prilagajanje oglasov. To je pomembno, saj spletna mesta pogosto računajo na oglase pri plačevanju izdatkov, zaradi oglasov pa je spletna vsebina lahko še naprej brez stroškov.</translation>
+ <translation id="8791157330927639737">Preberite več o posodabljanju</translation>
+ <translation id="8791534160414513928">S prometom brskanja pošlji zahtevo »Do Not Track«</translation>
+ <translation id="8793390639824829328">Spletna mesta uporabljajo to funkcijo za pomikanje po deljenih zavihkih in njihovo povečavo/pomanjšavo</translation>
+ <translation id="879413103056696865">Medtem ko je dostopna točka vklopljena, bo telefon <ph name="PHONE_NAME"/>:</translation>
+ <translation id="8795916974678578410">Novo okno</translation>
+-<translation id="6596295505984504022">P&amp;rilagodite Brave</translation>
++<translation id="6596295505984504022">P&amp;rilagodite Kahf</translation>
+ <translation id="8797459392481275117">Nikoli ne prevedi tega spletnega mesta</translation>
+ <translation id="8798099450830957504">Privzeto</translation>
+ <translation id="8800034312320686233">Ali spletno mesto ne deluje?</translation>
+ <translation id="8803526663383843427">Če je to vklopljeno</translation>
+ <translation id="8803953437405899238">Odpiranje novega zavihka z enim klikom</translation>
+-<translation id="8803972455568900492"><ph name="BEGIN_PARAGRAPH1"/>Če je vklopljena natančnost zaznavanja lokacije, se podatki o brezžičnih signalih, kot so dostopne točke Wi-Fi, bazne postaje mobilnih omrežij, ter podatki tipal naprave, kot sta merilnik pospeška in žiroskop, uporabljajo za ocenjevanje natančnejše lokacije naprave, ki jo aplikacije in storitve za Android uporabljajo za zagotavljanje funkcij, ki pri delovanju uporabljajo lokacijo. Brave v ta namen redno zbira podatke o tipalih naprave in brezžičnih signalih v vaši bližini ter tako prispeva k množičnemu zbiranju lokacij brezžičnih signalov.<ph name="END_PARAGRAPH1"/>
+-    <ph name="BEGIN_PARAGRAPH2"/>Brave te podatke, ne da bi vas osebno prepoznal, uporablja za izboljšanje natančnosti zaznavanja lokacije in storitev na podlagi lokacije ter splošno izboljšanje, zagotavljanje in vzdrževanje Googlovih storitev. Te podatke obdelujemo glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov.<ph name="END_PARAGRAPH2"/>
+-    <ph name="BEGIN_PARAGRAPH3"/>Natančnost zaznavanja lokacije lahko kadar koli izklopite v nastavitvah lokacije v napravi, in sicer v »Nastavitve &gt; Zasebnost in varnost &gt; Nastavitve zasebnosti &gt; Dostop do lokacije &gt; Dodatne nastavitve lokacije«. Če je natančnost zaznavanja lokacije izklopljena, se podatki o natančnosti zaznavanja lokacije ne bodo zbirali. Pri aplikacijah in storitvah za Android se za določanje lokacije naprave uporablja samo naslov IP (če je na voljo), kar lahko vpliva na razpoložljivost in natančnost lokacij za aplikacije in storitve za Android, kot so Brave Zemljevidi.<ph name="END_PARAGRAPH3"/></translation>
++<translation id="8803972455568900492"><ph name="BEGIN_PARAGRAPH1"/>Če je vklopljena natančnost zaznavanja lokacije, se podatki o brezžičnih signalih, kot so dostopne točke Wi-Fi, bazne postaje mobilnih omrežij, ter podatki tipal naprave, kot sta merilnik pospeška in žiroskop, uporabljajo za ocenjevanje natančnejše lokacije naprave, ki jo aplikacije in storitve za Android uporabljajo za zagotavljanje funkcij, ki pri delovanju uporabljajo lokacijo. Kahf v ta namen redno zbira podatke o tipalih naprave in brezžičnih signalih v vaši bližini ter tako prispeva k množičnemu zbiranju lokacij brezžičnih signalov.<ph name="END_PARAGRAPH1"/>
++    <ph name="BEGIN_PARAGRAPH2"/>Kahf te podatke, ne da bi vas osebno prepoznal, uporablja za izboljšanje natančnosti zaznavanja lokacije in storitev na podlagi lokacije ter splošno izboljšanje, zagotavljanje in vzdrževanje Googlovih storitev. Te podatke obdelujemo glede na zakonite interese Googla in tretjih oseb za izpolnjevanje potreb uporabnikov.<ph name="END_PARAGRAPH2"/>
++    <ph name="BEGIN_PARAGRAPH3"/>Natančnost zaznavanja lokacije lahko kadar koli izklopite v nastavitvah lokacije v napravi, in sicer v »Nastavitve &gt; Zasebnost in varnost &gt; Nastavitve zasebnosti &gt; Dostop do lokacije &gt; Dodatne nastavitve lokacije«. Če je natančnost zaznavanja lokacije izklopljena, se podatki o natančnosti zaznavanja lokacije ne bodo zbirali. Pri aplikacijah in storitvah za Android se za določanje lokacije naprave uporablja samo naslov IP (če je na voljo), kar lahko vpliva na razpoložljivost in natančnost lokacij za aplikacije in storitve za Android, kot so Kahf Zemljevidi.<ph name="END_PARAGRAPH3"/></translation>
+ <translation id="8804419452060773146">Odpre se v</translation>
+ <translation id="8804999695258552249">{NUM_TABS,plural, =1{Premakni zavihek v drugo okno}one{Premakni zavihke v drugo okno}two{Premakni zavihke v drugo okno}few{Premakni zavihke v drugo okno}other{Premakni zavihke v drugo okno}}</translation>
+ <translation id="8805140816472474147">Potrdite nastavitve sinhronizacije, če želite začeti sinhronizacijo.</translation>
+@@ -10685,14 +10685,14 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="8838770651474809439">Hamburger</translation>
+ <translation id="8838778928843281408">Upravljanje telefonov</translation>
+ <translation id="883924185304953854">Slikovno iskanje</translation>
+-<translation id="3740206403750675781">Geslo je shranjeno samo v tej napravi. Če želite shraniti nova gesla v računu Brave, posodobite storitve Google Play.</translation>
++<translation id="3740206403750675781">Geslo je shranjeno samo v tej napravi. Če želite shraniti nova gesla v računu Kahf, posodobite storitve Google Play.</translation>
+ <translation id="8841843049738266382">Branje in spreminjanje uporabnikov s seznama dovoljenih</translation>
+ <translation id="8842594465773264717">Izbriši ta prstni odtis</translation>
+ <translation id="8845001906332463065">Poiščite pomoč</translation>
+ <translation id="8846132060409673887">Dostop do podatkov o proizvajalcu in modelu računalnika</translation>
+ <translation id="8846163936679269230">Ponastavitev profilov za eSIM</translation>
+ <translation id="8846239054091760429">Mono zvok, zagon, samodejni podnapisi in drugo.</translation>
+-<translation id="1899218434110015565">Prihodek od oglasov podpira tudi številne Googlove brezplačne izdelke in storitve, kot so Brave, Gmail, Zemljevidi in YouTube.</translation>
++<translation id="1899218434110015565">Prihodek od oglasov podpira tudi številne Googlove brezplačne izdelke in storitve, kot so Kahf, Gmail, Zemljevidi in YouTube.</translation>
+ <translation id="8847988622838149491">USB</translation>
+ <translation id="8849001918648564819">Skrito</translation>
+ <translation id="8849219423513870962">Prekliči odstranitev profila za eSIM z imenom <ph name="PROFILE_NAME"/></translation>
+@@ -10749,7 +10749,7 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="8881020143150461183">Poskusite znova. Če potrebujete tehnično podporo, se obrnite na operaterja <ph name="CARRIER_NAME"/>.</translation>
+ <translation id="888256071122006425">Nastavitve miške in sledilne ploščice</translation>
+ <translation id="8883273463630735858">Omogočanje pospeševanja sledilne ploščice</translation>
+-<translation id="8883478023074930307">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Ta naprava trenutno Googlu samodejno pošilja diagnostične podatke ter podatke o uporabi naprave in aplikacij. Te podatke uporabljamo za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. To <ph name="BEGIN_LINK1"/>nastavitev<ph name="END_LINK1"/> je uveljavil lastnik naprave. Če ste vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v vašem računu Brave. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
++<translation id="8883478023074930307">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Ta naprava trenutno Googlu samodejno pošilja diagnostične podatke ter podatke o uporabi naprave in aplikacij. Te podatke uporabljamo za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. To <ph name="BEGIN_LINK1"/>nastavitev<ph name="END_LINK1"/> je uveljavil lastnik naprave. Če ste vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v vašem računu Kahf. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
+ <translation id="8884023684057697730"><ph name="BEGIN_BOLD"/>Kako lahko upravljate podatke:<ph name="END_BOLD"/> Zaradi zaščite vaše varnosti samodejno izbrišemo spletna mesta na seznamu, starejša od 4 tednov. Spletno mesto, ki ga znova obiščete, se morda znova prikaže na seznamu. Če ne želite, da bi to spletno mesto kdaj določalo vaša zanimanja, lahko spletno mesto odstranite.</translation>
+ <translation id="8884570509232205463">Tvoja naprava se zdaj zaklene ob <ph name="UNLOCK_TIME"/>.</translation>
+ <translation id="8885449336974696155">Pomagajte izboljšati ChromeOS s poročanjem <ph name="BEGIN_LINK"/>trenutnih nastavitev<ph name="END_LINK"/>.</translation>
+@@ -10826,13 +10826,13 @@ Domena <ph name="DOMAIN"/> zahteva, da je pametna kartica vstavljena.}}</transla
+ <translation id="5661553981978315025">Ustvarite 6-mestno kodo PIN za obnovitev za Googlovega upravitelja gesel</translation>
+ <translation id="8944725102565796255">Če želite ta račun uporabiti samo enkrat, lahko <ph name="GUEST_LINK_BEGIN"/>napravo uporabljate kot gost<ph name="GUEST_LINK_END"/>. Če želite dodati račun za nekoga drugega, v napravi <ph name="DEVICE_TYPE"/> <ph name="LINK_BEGIN"/>dodajte novo osebo<ph name="LINK_END"/>.
+ 
+-Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljajo za ta račun. Račune Brave lahko upravljate v <ph name="SETTINGS_LINK_BEGIN"/>nastavitvah<ph name="SETTINGS_LINK_END"/>.</translation>
++Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljajo za ta račun. Račune Kahf lahko upravljate v <ph name="SETTINGS_LINK_BEGIN"/>nastavitvah<ph name="SETTINGS_LINK_END"/>.</translation>
+ <translation id="8945274638472141382">Velikost ikone</translation>
+ <translation id="8946359700442089734">V tej napravi niso bile v celoti omogočene funkcije za odpravljanje napak: <ph name="IDS_SHORT_PRODUCT_NAME"/>.</translation>
+ <translation id="8946954897220903437">Strni vse zahteve v naslovni vrstici</translation>
+ <translation id="894763922177556086">Dobra</translation>
+ <translation id="8948939328578167195"><ph name="WEBSITE"/> si želi ogledati znamko in model varnostnega ključa</translation>
+-<translation id="875637110216978122">Upravljanje sinhronizacije brskalnika Brave</translation>
++<translation id="875637110216978122">Upravljanje sinhronizacije brskalnika Kahf</translation>
+ <translation id="895054485242522631">Spletna mesta lahko uporabljajo tipala gibanja</translation>
+ <translation id="8951256747718668828">Obnovitve ni bilo mogoče dokončati zaradi napake</translation>
+ <translation id="8951465597020890363">Ali želite vseeno zapreti način za goste?</translation>
+@@ -10893,19 +10893,19 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="8987321822984361516">Brskalnik upravlja organizacija, profil pa upravlja <ph name="PROFILE_DOMAIN"/></translation>
+ <translation id="8987927404178983737">Mesec</translation>
+ <translation id="8988539543012086784">Ta stran je shranjena v mapi <ph name="BOOKMARK_FOLDER"/></translation>
+-<translation id="8989034257029389285">Vprašate lahko »Ok Brave, what song is this?« (Ok Brave, katera je ta skladba?)</translation>
++<translation id="8989034257029389285">Vprašate lahko »Ok Kahf, what song is this?« (Ok Kahf, katera je ta skladba?)</translation>
+ <translation id="8989359959810288806">Osveži stanje povezave računalnika z internetom prek mobilnega telefona</translation>
+ <translation id="8991520179165052608">Spletno mesto lahko uporablja vaš mikrofon</translation>
+ <translation id="8991694323904646277">Kamera ni na voljo</translation>
+ <translation id="8991766915726096402">Obnovitev lokalnih podatkov</translation>
+ <translation id="8992671062738341478"><ph name="WINDOW_TITLE"/> – Uporaba pomnilnika – <ph name="MEMORY_VALUE"/></translation>
+-<translation id="8993059306046735527">Če pozabite geslo za napravo <ph name="DEVICE_TYPE"/>, lahko še vedno obnovite lokalne podatke. Prijaviti se boste morali v račun Brave ali uporabiti račun za obnovitev.</translation>
++<translation id="8993059306046735527">Če pozabite geslo za napravo <ph name="DEVICE_TYPE"/>, lahko še vedno obnovite lokalne podatke. Prijaviti se boste morali v račun Kahf ali uporabiti račun za obnovitev.</translation>
+ <translation id="8993737615451556423">Omogoča kontrolnike za pospešitev, upočasnitev in zaustavitev bralnega glasu.</translation>
+ <translation id="899384117894244799">Odstranitev omejenega uporabnika</translation>
+ <translation id="8993853206419610596">Razširi vse zahteve</translation>
+ <translation id="8993945059918628059">S prstom se dotaknite tipala prstnih odtisov. Podatki o prstnih odtisih so varno shranjeni in nikoli ne zapustijo naprave <ph name="DEVICE_TYPE"/>.</translation>
+ <translation id="899403249577094719">Osnovni spletni naslov Netscapeovega potrdila</translation>
+-<translation id="7113572760575285642">Vaš Brave povsod</translation>
++<translation id="7113572760575285642">Vaš Kahf povsod</translation>
+ <translation id="8998078711690114234">Ta vrsta datoteke je lahko nevarna. To datoteko shranite samo, če zaupate viru <ph name="ORIGIN"/>.</translation>
+ <translation id="8999027165951679951">Neaktiven zavihek: <ph name="MEMORY_SAVINGS"/> sproščeno</translation>
+ <translation id="8999560016882908256">Napaka v sintaksi razdelka: <ph name="ERROR_LINE"/></translation>
+@@ -10927,7 +10927,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="9011393886518328654">Opombe ob izdaji</translation>
+ <translation id="9012122671773859802">Premikaj zaslon neprekinjeno, kot se premika miška</translation>
+ <translation id="9012157139067635194">Prečiščenje</translation>
+-<translation id="9012585441087414258">Ščiti pred spletnimi mesti, prenosi in razširitvami, za katere vemo, da so nevarni. Če se na strani zgodi kaj sumljivega, se URL-ji in delčki vsebine strani pošljejo v Brave Varno brskanje.</translation>
++<translation id="9012585441087414258">Ščiti pred spletnimi mesti, prenosi in razširitvami, za katere vemo, da so nevarni. Če se na strani zgodi kaj sumljivega, se URL-ji in delčki vsebine strani pošljejo v Kahf Varno brskanje.</translation>
+ <translation id="9013037634206938463">Če želite namestiti Linux, potrebujete <ph name="INSTALL_SIZE"/> nezasedenega prostora. Če želite povečati nezasedeni prostor, izbrišite datoteke iz naprave.</translation>
+ <translation id="9014206344398081366">Vadnica za ChromeVox</translation>
+ <translation id="9014674417732091912">Premaknjeno v vrstico <ph name="ROW_NUMBER"/></translation>
+@@ -11085,7 +11085,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="9113529408970052045">Funkcija »Pomagaj mi pisati« se lahko samodejno odpre, če je besedilno polje na spletnem mestu mogoče izpolniti s kratko vsebino</translation>
+ <translation id="9114663181201435112">Preprosta prijava</translation>
+ <translation id="9115675100829699941">&amp;Zaznamki</translation>
+-<translation id="916115484239820348">Ta nastavitev ne spremeni razpoložljivosti Brave Prevajalnika ali Googla Lens</translation>
++<translation id="916115484239820348">Ta nastavitev ne spremeni razpoložljivosti Kahf Prevajalnika ali Googla Lens</translation>
+ <translation id="9116366756388192417">Izberite predmet</translation>
+ <translation id="9116799625073598554">Aplikacija za ustvarjanje zapiskov</translation>
+ <translation id="9117030152748022724">Upravljanje aplikacij</translation>
+@@ -11163,7 +11163,7 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="9170848237812810038">&amp;Razveljavi</translation>
+ <translation id="2060128809251156338">Drug program v računalniku je dodal temo, ki lahko spremeni način delovanja Chroma.</translation>
+ <translation id="917350715406657904">Dosegel(-la) si časovno omejitev, ki jo je starš nastavil za aplikacijo <ph name="APP_NAME"/>. Jutri jo lahko uporabljaš <ph name="TIME_LIMIT"/>.</translation>
+-<translation id="9174401638287877180">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Pomagajte izboljšati otrokovo izkušnjo z Androidom s samodejnim pošiljanjem diagnostičnih podatkov ter podatkov o uporabi naprave in aplikacij Googlu. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če ste za otroka vklopili dodatno beleženje dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v njegovem računu Brave.</translation>
++<translation id="9174401638287877180">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Pomagajte izboljšati otrokovo izkušnjo z Androidom s samodejnim pošiljanjem diagnostičnih podatkov ter podatkov o uporabi naprave in aplikacij Googlu. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če ste za otroka vklopili dodatno beleženje dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v njegovem računu Kahf.</translation>
+ <translation id="9176611096776448349"><ph name="WINDOW_TITLE"/> – naprava Bluetooth povezana</translation>
+ <translation id="9178061802301856367">Izbrišite podatke za prijavo</translation>
+ <translation id="9179243438030184085">Uporabite gumb za deljenje na dnu kartice, če želite deliti kopijo gesla z osebo v skupini družinskih članov</translation>
+@@ -11172,16 +11172,16 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="9180380851667544951">Spletno mesto lahko souporablja vaš zaslon</translation>
+ <translation id="9180847522826713506">Če si želite ogledati geslo ali dodati opombo o njem, kliknite ikono ključa.</translation>
+ <translation id="9182556968660520230">Spletnim mestom ni dovoljeno predvajanje zaščitene vsebine.</translation>
+-<translation id="9183302530794969518">Brave Dokumenti</translation>
++<translation id="9183302530794969518">Kahf Dokumenti</translation>
+ <translation id="918352324374649435">{COUNT,plural, =1{Aplikacija}one{# aplikacija}two{# aplikaciji}few{# aplikacije}other{# aplikacij}}</translation>
+-<translation id="9186963452600581158">Prijavite se z otrokovim računom Brave</translation>
++<translation id="9186963452600581158">Prijavite se z otrokovim računom Kahf</translation>
+ <translation id="9187967020623675250">Tipki se ne ujemata. Pritisnite poljubno tipko, če želite narediti to: <ph name="RESPONSE"/>.</translation>
+ <translation id="2952668551425843140">Pošlje podnapise Googlu, da jih samodejno prevede</translation>
+ <translation id="9192019773545828776">Poslušajte glasovni odziv, da lahko napravo uporabljate, ne da bi gledali na njen zaslon. Povratne informacije v braillovi pisavi so na voljo v povezani napravi. Če želite vklopiti ali izklopiti ChromeVox, pritisnite Ctrl + Alt + Z. Za premikanje uporabite tipko za iskanje in puščico levo ali puščico desno. Če želite izbirati (aktivirati), uporabite tipko za iskanje + preslednico.</translation>
+ <translation id="919686179725692564">Preberite več o varnostnem kopiranju podatkov</translation>
+ <translation id="9199503643457729322">Kliknite, če se želite odmakniti od vodnika po zasebnosti.</translation>
+ <translation id="9199695835892108985">Želite ponastaviti vsa dovoljenja za serijska vrata?</translation>
+-<translation id="9199853905755292769">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Ta naprava trenutno Googlu samodejno pošilja diagnostične podatke ter podatke o uporabi naprave in aplikacij. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če ste za otroka vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v otrokovem računu Brave. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
++<translation id="9199853905755292769">Pošiljanje podatkov o uporabi in diagnostičnih podatkov. Ta naprava trenutno Googlu samodejno pošilja diagnostične podatke ter podatke o uporabi naprave in aplikacij. Teh podatkov ne bomo uporabljali, da bi prepoznali vašega otroka, temveč za izboljšanje stabilnosti sistema in izvajanja aplikacij ter drugega. Nekateri združeni podatki bodo pomagali tudi Googlovim aplikacijam in partnerjem, na primer razvijalcem za Android. Če ste za otroka vklopili nastavitev dodatne dejavnosti v spletu in aplikacijah, bodo ti podatki morda shranjeni v otrokovem računu Kahf. <ph name="BEGIN_LINK2"/>Preberite več o meritvah<ph name="BEGIN_LINK2_END"/>Več o tem<ph name="END_LINK2"/>.</translation>
+ <translation id="9200339982498053969">Spletno mesto <ph name="ORIGIN"/> bo lahko urejalo datoteke v mapi <ph name="FOLDERNAME"/>.</translation>
+ <translation id="920045321358709304">Iskanje z iskalnikom <ph name="SEARCH_ENGINE"/></translation>
+ <translation id="9201117361710210082">Predhodno ogledano</translation>
+@@ -11400,25 +11400,25 @@ Dovoljenja, ki ste jih že odobrili spletnim mestom in aplikacijam, morda veljaj
+ <translation id="3707212204259470604">Upravljanje profilov</translation>
+ <translation id="7253003527666031200">Več orodij za dostopnost najdete v spletni trgovini</translation>
+ <translation id="154633726381112301">Prijavo lahko omejite na določene uporabnike. S tem odstranite možnost »Dodaj profil« na zaslonu za prijavo. Prav tako lahko odstranite trenutne uporabnike.</translation>
+-<translation id="8273477935094091719">Vaš <ph name="DEVICE_TYPE"/> z vgrajenim senzorjem zazna profile pred napravo. Vsi podatki se v vaši napravi takoj obdelajo in nato izbrišejo. Podatki o senzorjih se nikoli ne pošljejo družbi Brave. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
++<translation id="8273477935094091719">Vaš <ph name="DEVICE_TYPE"/> z vgrajenim senzorjem zazna profile pred napravo. Vsi podatki se v vaši napravi takoj obdelajo in nato izbrišejo. Podatki o senzorjih se nikoli ne pošljejo družbi Kahf. <ph name="LINK_BEGIN"/>Več o tem<ph name="LINK_END"/></translation>
+ <translation id="3096545662097412065">Profilom z dostopom do vašega internetnega prometa otežite vpogled v spletna mesta, ki jih obiskujete. <ph name="PRODUCT_NAME"/> uporablja varno povezavo za iskanje IP naslova spletnega mesta v sistemu DNS (Domain Name System).</translation>
+ <translation id="5832813618714645810">Profili</translation>
+ <translation id="3216703137209942563">{COUNT, plural,
+       =1 {Vaše zasebno okno se ne bo odprlo po ponovnem zagonu}
+       other {Vaših {COUNT} zasebnih oken se po ponovnem zagonu ne bodo znova odprla}}</translation>
+-<translation id="2631725725020498527">Brave lahko prilagajte po svojih željah: &lt;ul&gt; &lt;li&gt;&lt;em&gt;Najboljše od Brave&lt;/em&gt;, za tiste, ki si to želijo. Tako lahko na primer izberete Iskanje z Brave kot privzeti iskalnik Brave in uporabljate Upravitelj gesel Brave za pridobivanje vseh gesel v kateri koli napravi. &lt;/li&gt; &lt;li&gt;&lt;em&gt;Smiselna izbira &lt;/em&gt;: Brave vam ponuja izbiro in nadzor z nastavitvami ter informacije, ki ti pomagajo pri sprejemanju smiselnih odločitev.&lt;/li&gt; &lt;li&gt;&lt;em&gt;Extensions&lt;/em&gt;: Funkcionalnost sistema Brave lahko razširite z več kot 100.000 razširitvami v <ph name="BEGIN_LINK"/>spletni trgovini<ph name="END_LINK"/>.&lt;/li&gt;
++<translation id="2631725725020498527">Kahf lahko prilagajte po svojih željah: &lt;ul&gt; &lt;li&gt;&lt;em&gt;Najboljše od Kahf&lt;/em&gt;, za tiste, ki si to želijo. Tako lahko na primer izberete Iskanje z Kahf kot privzeti iskalnik Kahf in uporabljate Upravitelj gesel Kahf za pridobivanje vseh gesel v kateri koli napravi. &lt;/li&gt; &lt;li&gt;&lt;em&gt;Smiselna izbira &lt;/em&gt;: Kahf vam ponuja izbiro in nadzor z nastavitvami ter informacije, ki ti pomagajo pri sprejemanju smiselnih odločitev.&lt;/li&gt; &lt;li&gt;&lt;em&gt;Extensions&lt;/em&gt;: Funkcionalnost sistema Kahf lahko razširite z več kot 100.000 razširitvami v <ph name="BEGIN_LINK"/>spletni trgovini<ph name="END_LINK"/>.&lt;/li&gt;
+       &lt;/ul&gt;</translation>
+ <translation id="5840822070878669614">Odpri spletno trgovino</translation>
+ <translation id="383007806262310953">Pokaži vrstico z zaznamki</translation>
+ <translation id="1375809909601272984">Prikaz skupin zavihkov v zaznamkih</translation>
+ <translation id="1313972218645777584">Nove skupine zavihkov, ustvarjene v kateri koli napravi, samodejno pripnite med zaznamke</translation>
+ <translation id="8419047244705220515">Spletna mesta, ki jih obiščete, lahko preverijo, ali ste pravi profil in ne bot</translation>
+-<translation id="8603229095987793389">Med brskanjem lahko spletna mesta preverijo z Brave in s prejšnjim obiskanim mestom, ali ste pravi profil</translation>
++<translation id="8603229095987793389">Med brskanjem lahko spletna mesta preverijo z Kahf in s prejšnjim obiskanim mestom, ali ste pravi profil</translation>
+ <translation id="1261003378239130478">Brskanje je hitrejše, ker je manj verjetno, da bo spletno mesto od vas zahtevalo, da potrdite, da ste pravi profil</translation>
+ <translation id="8648684608605749476">Blokiranje piškotkov drugih mest v načinu brez beleženja dejavnosti</translation>
+ <translation id="3293179957233653243">Funkcije na nekaterih spletnih mestih morda ne bodo delovale kot zasebno</translation>
+ <translation id="6304377454418270508">Ko ste v zasebnem načinu, lahko spletna mesta uporabljajo piškotke samo za prikaz vaše dejavnosti brskanja na svojem spletnem mestu. Piškotki se ob koncu zasebne seje izbrišejo.</translation>
+-<translation id="8057643629386457234">Zagotavlja najmočnejšo varnost računa Brave za profile, ki jim grozijo ciljni napadi</translation>
++<translation id="8057643629386457234">Zagotavlja najmočnejšo varnost računa Kahf za profile, ki jim grozijo ciljni napadi</translation>
+ <translation id="3497049935870467874">Oglejte si opozorila, preden v zasebnem načinu obiščete nezaščitena spletna mesta.</translation>
+ <translation id="6105125042109106861">Piškotki drugih spletnih mest so blokirani v načinu brez beleženja dejavnosti</translation>
+ <translation id="6642913673024345959">Blokirajte piškotke tretjih oseb v Zasebnem načinu</translation>

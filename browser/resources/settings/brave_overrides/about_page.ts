@@ -37,20 +37,21 @@ RegisterPolymerTemplateModifications({
       wrapper.setAttribute('id', 'release-notes')
       wrapper.setAttribute('target', '_blank')
       wrapper.setAttribute('rel', 'noopener noreferrer')
-      wrapper.setAttribute('href', 'https://brave.com/latest/')
+      wrapper.setAttribute('href', 'https://kahfbrowser.com/')
       parent.replaceChild(wrapper, version)
       wrapper.appendChild(version)
     }
 
     // Help link shown if update fails
     const updateStatusMessageLink = section.querySelector('#updateStatusMessage a')
+    updateStatusMessageLink.style.display = 'none'; // This makes the section disappear
     if (updateStatusMessageLink) {
       // <if expr="is_win">
-      updateStatusMessageLink.href = 'https://support.brave.com/hc/en-us/articles/360042816611-Why-isn-t-Brave-updating-automatically-on-Windows-'
+      updateStatusMessageLink.href = 'https://kahfbrowser.com/'
       // </if>
 
       // <if expr="not is_win">
-      updateStatusMessageLink.href = 'https://community.brave.com?p=update_error'
+      updateStatusMessageLink.href = 'https://kahfbrowser.com/'
       // </if>
     }
   }

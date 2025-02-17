@@ -1,0 +1,1002 @@
+diff a/components/strings/components_strings_pl.xtb b/components/strings/components_strings_pl.xtb	(rejected hunks)
+@@ -28,7 +28,7 @@
+ <translation id="1053959602163383901">W witrynach korzystających z <ph name="PROVIDER_ORIGIN"/> potwierdzasz swoją tożsamość za pomocą urządzenia uwierzytelniającego. Możliwe, że ten dostawca przechowuje dane Twojej formy płatności. Możesz <ph name="LINK_TEXT"/>.</translation>
+ <translation id="1055184225775184556">&amp;Cofnij dodanie</translation>
+ <translation id="1056898198331236512">Ostrzeżenie</translation>
+-<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, aby zagrać w grę Dino Run w Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="1248991947169346185"><ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, aby zagrać w grę Dino Run w Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="1058479211578257048">Zapisuję karty…</translation>
+ <translation id="1060136083665017312">Urządzenia i konsole do gier</translation>
+ <translation id="1060320201901229167">Koperta Kaku 5</translation>
+@@ -49,7 +49,7 @@
+ <translation id="1082026381988252344">Przewijanie i powiększanie zawartości udostępnionej karty</translation>
+ <translation id="1088664500620117635">Typowa cena za <ph name="PRODUCT_NAME"/> to <ph name="LOW_PRICE"/>–<ph name="HIGH_PRICE"/>, ale obecna cena w internecie to <ph name="CURRENT_PRICE"/>.</translation>
+ <translation id="1089439967362294234">Zmień hasło</translation>
+-<translation id="807719392864780545">W każdej chwili możesz zmienić swój wybór w ustawieniach Brave.</translation>
++<translation id="807719392864780545">W każdej chwili możesz zmienić swój wybór w ustawieniach Kahf.</translation>
+ <translation id="1090629319939036170">Menu VR</translation>
+ <translation id="1091463901118115503">Czytaj dalej</translation>
+ <translation id="1091779689406092804">zrzutów ekranu</translation>
+@@ -57,10 +57,10 @@
+ <translation id="1096545575934602868">Maksymalna liczba wpisów w tym polu to <ph name="MAX_ITEMS_LIMIT"/>. Kolejne wpisy zostaną odrzucone.</translation>
+ <translation id="1097803577928227769">Regionalne parki i ogrody</translation>
+ <translation id="1099928364755383720">automatyczny obraz w obrazie</translation>
+-<translation id="7584468665743195331">Przycisk wznawiania serii czynności; aby wznowić serię czynności i zobaczyć odpowiednią aktywność w historii Brave, naciśnij Enter</translation>
++<translation id="7584468665743195331">Przycisk wznawiania serii czynności; aby wznowić serię czynności i zobaczyć odpowiednią aktywność w historii Kahf, naciśnij Enter</translation>
+ <translation id="1101672080107056897">Działanie w razie wystąpienia błędu</translation>
+ <translation id="1104409666019087579">Niektóre wymagane pola są puste. Wypełnij je przed zapisaniem.</translation>
+-<translation id="8424280348953443220">Przycisk Zarządzaj hasłami; aktywuj, aby wyświetlić hasła i zarządzać nimi w ustawieniach Brave</translation>
++<translation id="8424280348953443220">Przycisk Zarządzaj hasłami; aktywuj, aby wyświetlić hasła i zarządzać nimi w ustawieniach Kahf</translation>
+ <translation id="1108464073729874771">A3x4</translation>
+ <translation id="1110994991967754504">Wybierz uprawnienia dla: <ph name="PERMISSION_NAME"/></translation>
+ <translation id="1113000785583998331">Zapisać numer IBAN?</translation>
+@@ -149,22 +149,22 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+     &lt;/ol&gt;</translation>
+ <translation id="1257286744552378071">Wpisałeś swoje hasło na stronie, którą nie zarządza Twoja organizacja. Aby chronić konto, nie używaj swojego hasła w innych aplikacjach ani na innych stronach.</translation>
+ <translation id="1257553931232494454">poziomy powiększenia</translation>
+-<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby zarządzać ustawieniami Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="8101828947363663989"><ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby zarządzać ustawieniami Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="1264309058268477500">Alternatywne</translation>
+ <translation id="1264974993859112054">Sport</translation>
+ <translation id="1268480293435976622">Koperta chińska nr 7</translation>
+-<translation id="53564677632020212">Szybko utwórz nową witrynę w Witrynach Brave</translation>
++<translation id="53564677632020212">Szybko utwórz nową witrynę w Witrynach Kahf</translation>
+ <translation id="1270328905573953738">Przeprowadzki</translation>
+ <translation id="1270502636509132238">Metoda odbioru</translation>
+ <translation id="1273592791152866347">Śledzenie cen zostało wyłączone</translation>
+ <translation id="127777513559587977">Programy telewizyjne typu talk-show</translation>
+ <translation id="1281476433249504884">Układarka 1</translation>
+-<translation id="3587420677315820032">Aby następnym razem automatycznie uzupełnić ten numer IBAN, zapisz go na swoim koncie Brave</translation>
++<translation id="3587420677315820032">Aby następnym razem automatycznie uzupełnić ten numer IBAN, zapisz go na swoim koncie Kahf</translation>
+ <translation id="1282358575813748144">Łodzie i jednostki pływające</translation>
+ <translation id="1283977499362032052">CV i portfolia</translation>
+ <translation id="1285320974508926690">Nigdy nie tłumacz tej witryny</translation>
+ <translation id="1292571435393770077">Taca 16</translation>
+-<translation id="1209478311331937175">„Oprogramowanie na Twoim komputerze uniemożliwia Brave bezpieczne połączenie się z internetem” (tylko na komputerach z systemem Windows)</translation>
++<translation id="1209478311331937175">„Oprogramowanie na Twoim komputerze uniemożliwia Kahf bezpieczne połączenie się z internetem” (tylko na komputerach z systemem Windows)</translation>
+ <translation id="1293797321964802402">Koperta 9 x 11 cali</translation>
+ <translation id="1294154142200295408">Odmiany w wierszu poleceń</translation>
+ <translation id="129553762522093515">Ostatnio zamknięte</translation>
+@@ -189,7 +189,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="132390688737681464">Zapisuj i automatycznie uzupełniaj adresy</translation>
+ <translation id="1329916999021038454">Prześlij raport</translation>
+ <translation id="1330449323196174374">Składanie od góry do środka</translation>
+-<translation id="4274264486214599895">Zagraj w grę z dinozaurem w Brave</translation>
++<translation id="4274264486214599895">Zagraj w grę z dinozaurem w Kahf</translation>
+ <translation id="1333989956347591814">Twoja aktywność <ph name="BEGIN_EMPHASIS"/>może być nadal widoczna<ph name="END_EMPHASIS"/> dla:
+         <ph name="BEGIN_LIST"/>
+           <ph name="LIST_ITEM"/>stron internetowych, które odwiedzasz;
+@@ -231,11 +231,11 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="14070772729708640">Pliki zostały przesłane do folderu <ph name="FOLDER_NAME"/> w usłudze <ph name="CLOUD_PROVIDER"/></translation>
+ <translation id="1407135791313364759">Otwórz wszystkie</translation>
+ <translation id="1408787208417187241">Trzy zszywki u góry</translation>
+-<translation id="5488251800208457874">Inne osoby korzystające z tego urządzenia nie zobaczą Twojej aktywności, dzięki czemu możesz przeglądać internet w sposób bardziej prywatny. Nie zmieni to sposobu zbierania danych przez odwiedzane witryny i używane przez nie usługi, w tym Brave. Pobrane pliki, zakładki i elementy na liście Do przeczytania zostaną jednak zapisane.</translation>
++<translation id="5488251800208457874">Inne osoby korzystające z tego urządzenia nie zobaczą Twojej aktywności, dzięki czemu możesz przeglądać internet w sposób bardziej prywatny. Nie zmieni to sposobu zbierania danych przez odwiedzane witryny i używane przez nie usługi, w tym Kahf. Pobrane pliki, zakładki i elementy na liście Do przeczytania zostaną jednak zapisane.</translation>
+ <translation id="1410941016594047814">Koperta na zaproszenie</translation>
+ <translation id="1413809658975081374">Błąd dotyczący prywatności</translation>
+ <translation id="1414134146594747368">Edukacja przedszkolna</translation>
+-<translation id="5305237486453576422">Przycisk Zarządzaj pobranymi plikami w Brave; aktywuj, aby zarządzać pobranymi plikami w Brave</translation>
++<translation id="5305237486453576422">Przycisk Zarządzaj pobranymi plikami w Kahf; aktywuj, aby zarządzać pobranymi plikami w Kahf</translation>
+ <translation id="1420920093772172268"><ph name="TURN_ON_BLUETOOTH_LINK"/>, by umożliwić sparowanie</translation>
+ <translation id="14222610277930434">Często odwiedzasz</translation>
+ <translation id="1422930527989633628">Może prosić o zgodę na wykrywanie urządzeń Bluetooth w pobliżu</translation>
+@@ -265,7 +265,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="1462245070427461050">JIS B9</translation>
+ <translation id="1462951478840426066">korzystać z czcionek zainstalowanych na komputerze w celu tworzenia treści wysokiej jakości</translation>
+ <translation id="1463793142714244641">Nieruchomości wakacyjne i dostępne na zasadzie współwłasności</translation>
+-<translation id="4855177403643365941">Numer IBAN został zapisany na Twoim koncie Brave</translation>
++<translation id="4855177403643365941">Numer IBAN został zapisany na Twoim koncie Kahf</translation>
+ <translation id="1467432559032391204">W lewo</translation>
+ <translation id="1468653229182955856"><ph name="ONE_TIME_CODE"/> to Twój kod, który umożliwi dalsze korzystanie z <ph name="EMBEDDED_ORIGIN"/> w witrynie <ph name="TOP_ORIGIN"/></translation>
+ <translation id="1472675084647422956">Pokaż więcej</translation>
+@@ -362,20 +362,20 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="1640180200866533862">Zasady dotyczące użytkowników</translation>
+ <translation id="1640244768702815859">Otwórz <ph name="BEGIN_LINK"/>stronę główną witryny<ph name="END_LINK"/>.</translation>
+ <translation id="1641976391427233992">Opóźnij dane wyjściowe do</translation>
+-<translation id="8088023492467080559">Kliknij przycisk kontroli zabezpieczeń w Brave i aktywuj ją, aby otworzyć stronę kontroli zabezpieczeń w Brave w ustawieniach</translation>
++<translation id="8088023492467080559">Kliknij przycisk kontroli zabezpieczeń w Kahf i aktywuj ją, aby otworzyć stronę kontroli zabezpieczeń w Kahf w ustawieniach</translation>
+ <translation id="1644574205037202324">Historia</translation>
+ <translation id="1645004815457365098">Nieznane źródło</translation>
+ <translation id="1645368109819982629">Nieobsługiwany protokół</translation>
+-<translation id="1995056549836388472">Zarządzaj ustawieniami Brave</translation>
++<translation id="1995056549836388472">Zarządzaj ustawieniami Kahf</translation>
+ <translation id="1652415888492971589">JIS B8</translation>
+-<translation id="3549478477646243075">Aby używać Menedżera haseł z pękiem kluczy macOS, uruchom ponownie Brave i zezwól na dostęp do pęku kluczy. Po ponownym uruchomieniu karty zostaną otwarte.</translation>
++<translation id="3549478477646243075">Aby używać Menedżera haseł z pękiem kluczy macOS, uruchom ponownie Kahf i zezwól na dostęp do pęku kluczy. Po ponownym uruchomieniu karty zostaną otwarte.</translation>
+ <translation id="1652887625750064647">Najlepsze dopasowanie AI</translation>
+-<translation id="3848846802033604519">Strona została uproszczona przez Brave, by było ją łatwiej przeczytać. Przeglądarka Brave pobrała oryginalną stronę przez zabezpieczone połączenie.</translation>
++<translation id="3848846802033604519">Strona została uproszczona przez Kahf, by było ją łatwiej przeczytać. Przeglądarka Kahf pobrała oryginalną stronę przez zabezpieczone połączenie.</translation>
+ <translation id="1656489000284462475">Odbiór</translation>
+ <translation id="1658111267661135323">TV i wideo</translation>
+ <translation id="1658918301167915956">urządzenia Bluetooth</translation>
+ <translation id="1662550410081243962">Zapisuj i automatycznie uzupełniaj informacje o formach płatności</translation>
+-<translation id="1838576226863399477">Karty i adresy pochodzą z Brave. Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Ustawieniach<ph name="END_LINK"/>.</translation>
++<translation id="1838576226863399477">Karty i adresy pochodzą z Kahf. Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Ustawieniach<ph name="END_LINK"/>.</translation>
+ <translation id="1664389769577564606">Fotopolimerowa płyta fleksograficzna</translation>
+ <translation id="166624440456221306">Usuń tabelę porównawczą</translation>
+ <translation id="1668071460721346172">Odbierz e-maila</translation>
+@@ -422,7 +422,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="1741613555002899862">Należy wskazać tę zasadę oraz prawidłowy ciąg, kiedy zasada DnsOverHttpsMode jest ustawiona jako <ph name="SECURE_DNS_MODE_SECURE"/>.</translation>
+ <translation id="1743393865165844832">Pościel i bielizna pościelowa</translation>
+ <translation id="1743892871127720056">Tytuł tabeli porównawczej, edytuj tekst</translation>
+-<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Jak używamy tych danych:<ph name="END_BOLD"/> Brave określa interesujące Cię tematy, gdy przeglądasz różne strony internetowe. Etykiety tematów są wstępnie zdefiniowane i obejmują kategorie takie jak Sztuka i rozrywka, Zakupy czy Sport. Później strona, którą akurat będziesz odwiedzać, będzie mogła zapytać Brave o kilka takich tematów (ale nie o Twoją historię przeglądania), aby spersonalizować wyświetlane reklamy.</translation>
++<translation id="6072474764708015774"><ph name="BEGIN_BOLD"/>Jak używamy tych danych:<ph name="END_BOLD"/> Kahf określa interesujące Cię tematy, gdy przeglądasz różne strony internetowe. Etykiety tematów są wstępnie zdefiniowane i obejmują kategorie takie jak Sztuka i rozrywka, Zakupy czy Sport. Później strona, którą akurat będziesz odwiedzać, będzie mogła zapytać Kahf o kilka takich tematów (ale nie o Twoją historię przeglądania), aby spersonalizować wyświetlane reklamy.</translation>
+ <translation id="1746113442205726301">Przesunięcie obrazu wzdłuż osi Y</translation>
+ <translation id="1746531169546376413">0 stopni</translation>
+ <translation id="1748225549612934682">Aby uzyskać pomoc w pisaniu, skróć tekst</translation>
+@@ -435,7 +435,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="1756555787993603971">Teraz możesz płacić bezpieczniej za pomocą karty wirtualnej dzięki autouzupełnianiu.</translation>
+ <translation id="175656076281618225">Iluzja</translation>
+ <translation id="1757773103848038814">Czcionka o stałej szerokości</translation>
+-<translation id="3727704638090640904">Przycisk Zmień hasło do Brave; aktywuj, aby zmienić hasło do konta Brave</translation>
++<translation id="3727704638090640904">Przycisk Zmień hasło do Kahf; aktywuj, aby zmienić hasło do konta Kahf</translation>
+ <translation id="1762779605905950734">Ulica</translation>
+ <translation id="1763864636252898013">Ten serwer nie mógł udowodnić, że należy do <ph name="DOMAIN"/>. Jego certyfikat bezpieczeństwa nie jest zaufany w systemie operacyjnym tego urządzenia. Może to być spowodowane błędną konfiguracją lub przechwyceniem połączenia przez atakującego.</translation>
+ <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Uruchom Diagnostykę sieci systemu Windows<ph name="END_LINK"/>.</translation>
+@@ -443,8 +443,8 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="1777422078676229054">Zdjęcie (archiwalne)</translation>
+ <translation id="1778646502362731194">JIS B0</translation>
+ <translation id="1785118555253503473">Zainstalować aplikacje internetowe?</translation>
+-<translation id="3480410886581896628">Brave Smart Lock</translation>
+-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby zarządzać swoimi danymi, prywatnością i bezpieczeństwem na koncie Brave</translation>
++<translation id="3480410886581896628">Kahf Smart Lock</translation>
++<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby zarządzać swoimi danymi, prywatnością i bezpieczeństwem na koncie Kahf</translation>
+ <translation id="1793631236004319016">Ostatnio użyto <ph name="NUM_HOURS_MINUTES_SECONDS"/> temu</translation>
+ <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Dostępnych jest wiele czynności. Naciskaj Tab, by się między nimi przełączać.</translation>
+ <translation id="1800473098294731951">B9</translation>
+@@ -573,11 +573,11 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2040894699575719559">Lokalizacja zablokowana</translation>
+ <translation id="2041788246978549610">Używaj dostępnych mikrofonów (<ph name="MICS_COUNT"/>)</translation>
+ <translation id="2042213636306070719">Taca 7</translation>
+-<translation id="3163988908275223348">Zaloguj się, by używać haseł zapisanych na Twoim koncie Brave</translation>
++<translation id="3163988908275223348">Zaloguj się, by używać haseł zapisanych na Twoim koncie Kahf</translation>
+ <translation id="2045871135676061132">Koperta personalizowana</translation>
+ <translation id="2046951263634619614">Sprzedaż detaliczna książek</translation>
+ <translation id="2048261947532620704">Tłumaczę stronę</translation>
+-<translation id="5469355573019315764">Witryny mogą prosić Brave o informacje umożliwiające personalizację wyświetlanych Ci reklam.</translation>
++<translation id="5469355573019315764">Witryny mogą prosić Kahf o informacje umożliwiające personalizację wyświetlanych Ci reklam.</translation>
+ <translation id="2059166748188874810">Gmina</translation>
+ <translation id="2059202684901022309">22 x 34 cale</translation>
+ <translation id="2064568741209980952">Kredyty i pożyczki</translation>
+@@ -653,7 +653,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2174875517416416684">Transakcja nie została zrealizowana. Środki z Twojego konta nie zostały pobrane.</translation>
+ <translation id="2175630235841878061">Nie można pobrać plików przekraczających 100 MB</translation>
+ <translation id="2176974405772725904">Zapisz adres na koncie</translation>
+-<translation id="7453373354666409887">Przycisk Zaktualizuj Brave; aktywuj, aby zaktualizować przeglądarkę Brave z poziomu jej ustawień</translation>
++<translation id="7453373354666409887">Przycisk Zaktualizuj Kahf; aktywuj, aby zaktualizować przeglądarkę Kahf z poziomu jej ustawień</translation>
+ <translation id="2179003720612888584"><ph name="SITE_TITLE"/> na <ph name="SITE_DOMAIN_NAME"/></translation>
+ <translation id="2181821976797666341">Zasady</translation>
+ <translation id="2182170103603703676">Zmywarki</translation>
+@@ -673,7 +673,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2212735316055980242">Nie znaleziono zasady</translation>
+ <translation id="2213606439339815911">Pobieram wpisy...</translation>
+ <translation id="2213612003795704869">Strona została wydrukowana</translation>
+-<translation id="4045100732984144870">Autouzupełnianie z Brave</translation>
++<translation id="4045100732984144870">Autouzupełnianie z Kahf</translation>
+ <translation id="2215539479425228550">Wspinaczka i turystyka górska</translation>
+ <translation id="2215727959747642672">Edytowanie pliku</translation>
+ <translation id="2215963164070968490">Psy</translation>
+@@ -779,7 +779,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="239429038616798445">Ta metoda wysyłki jest niedostępna. Wybierz inną.</translation>
+ <translation id="2395840535409704129">Sporty wodne</translation>
+ <translation id="2396249848217231973">&amp;Cofnij usunięcie</translation>
+-<translation id="4124760202519850347">Ten numer IBAN jest zapisany na Twoim koncie Brave, więc możesz go używać w różnych usługach Brave.</translation>
++<translation id="4124760202519850347">Ten numer IBAN jest zapisany na Twoim koncie Kahf, więc możesz go używać w różnych usługach Kahf.</translation>
+ <translation id="2400600116338235695">Może prosić o zgodę na połączenie z portami szeregowymi</translation>
+ <translation id="2404884497378469141">Spróbuj ponownie skopiować pliki</translation>
+ <translation id="2412310121876768057">Następnym razem uzupełnić kartę automatycznie?</translation>
+@@ -800,7 +800,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2461822463642141190">Aktualnie</translation>
+ <translation id="2462932596748424101">Sieci społecznościowe</translation>
+ <translation id="2465688316154986572">Zszywka</translation>
+-<translation id="4058615531773510267">Zarządzaj pobranymi plikami w Brave</translation>
++<translation id="4058615531773510267">Zarządzaj pobranymi plikami w Kahf</translation>
+ <translation id="2466004615675155314">Pokaż informacje z sieci</translation>
+ <translation id="2466682894498377850">Karta została wysłana z urządzenia <ph name="DEVICE_NAME"/></translation>
+ <translation id="2467272921457885625">Specyfikacja sprzętu urządzenia i statystyki takie jak historia użycia procesora czy pamięci RAM</translation>
+@@ -812,7 +812,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2473810985261856484">Usługi prawne</translation>
+ <translation id="2479148705183875116">Otwórz Ustawienia</translation>
+ <translation id="2479410451996844060">Nieprawidłowy URL wyszukiwania</translation>
+-<translation id="6944854796979239513">Na koncie Brave <ph name="USER_EMAIL"/></translation>
++<translation id="6944854796979239513">Na koncie Kahf <ph name="USER_EMAIL"/></translation>
+ <translation id="248064299258688299">Komunikat z rozszerzenia <ph name="EXTENSION_NAME"/></translation>
+ <translation id="2482878487686419369">Powiadomienia</translation>
+ <translation id="248348093745724435">Zasady dotyczące komputera</translation>
+@@ -844,12 +844,12 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="253493526287553278">Zobacz szczegóły kodu promocyjnego</translation>
+ <translation id="2535659140340599600">{COUNT,plural, =1{i jeszcze 1}few{i jeszcze #}many{i jeszcze #}other{i jeszcze #}}</translation>
+ <translation id="2536110899380797252">Dodaj adres</translation>
+-<translation id="3140033400151786080">Inne osoby korzystające z tego urządzenia nie zobaczą Twojej aktywności, dzięki czemu możesz przeglądać internet w sposób bardziej prywatny. Nie zmieni to sposobu zbierania danych przez odwiedzane witryny i używane przez nie usługi, w tym Brave. Pobrane pliki i zakładki zostaną zapisane.</translation>
++<translation id="3140033400151786080">Inne osoby korzystające z tego urządzenia nie zobaczą Twojej aktywności, dzięki czemu możesz przeglądać internet w sposób bardziej prywatny. Nie zmieni to sposobu zbierania danych przez odwiedzane witryny i używane przez nie usługi, w tym Kahf. Pobrane pliki i zakładki zostaną zapisane.</translation>
+ <translation id="2539524384386349900">Wykrywaj</translation>
+ <translation id="2542106216580219892">Surfing</translation>
+ <translation id="2544546346215446551">Administrator uruchomił ponownie Twoje urządzenie</translation>
+ <translation id="2544644783021658368">Pojedynczy dokument</translation>
+-<translation id="5342827302598046226">Ustaw Brave jako przeglądarkę domyślną</translation>
++<translation id="5342827302598046226">Ustaw Kahf jako przeglądarkę domyślną</translation>
+ <translation id="2545721997179863249">Wybrano opcję wypełnienia wszystkich pól</translation>
+ <translation id="2546283357679194313">Pliki cookie i dane witryn</translation>
+ <translation id="254947805923345898">Wartość zasady jest nieprawidłowa.</translation>
+@@ -895,7 +895,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2651465929321991146">Historia i karty</translation>
+ <translation id="2653659639078652383">Prześlij</translation>
+ <translation id="2655752832536625875">Łazienka</translation>
+-<translation id="3889152837537169222">Przycisk zamykający wskazówkę dotyczącą Brave; aby zamknąć, naciśnij Enter</translation>
++<translation id="3889152837537169222">Przycisk zamykający wskazówkę dotyczącą Kahf; aby zamknąć, naciśnij Enter</translation>
+ <translation id="2657637947725373811">{0,plural, =1{Przenieść plik poufny?}few{Przenieść pliki poufne?}many{Przenieść pliki poufne?}other{Przenieść pliki poufne?}}</translation>
+ <translation id="2658843814961855121">Prawo pracy</translation>
+ <translation id="2660779039299703961">Wydarzenie</translation>
+@@ -1041,18 +1041,18 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="2961809451460302960">Ubezpieczenia na życie</translation>
+ <translation id="2962073860865348475">12 x 18 cali</translation>
+ <translation id="2967082089043584472">Dodano do listy <ph name="SET"/></translation>
+-<translation id="2470357430970446202">zapisz je na swoim koncie Brave</translation>
++<translation id="2470357430970446202">zapisz je na swoim koncie Kahf</translation>
+ <translation id="297173220375858963">Komputerowy skład tekstu</translation>
+ <translation id="2972581237482394796">&amp;Ponów</translation>
+-<translation id="4715521049551299401">Nie udało się zapisać tego numeru IBAN na Twoim koncie Brave. Zamiast tego został on zapisany w Brave na tym urządzeniu. Brave poprosi Cię o to ponownie, gdy następnym razem użyjesz tego numeru IBAN.</translation>
++<translation id="4715521049551299401">Nie udało się zapisać tego numeru IBAN na Twoim koncie Kahf. Zamiast tego został on zapisany w Kahf na tym urządzeniu. Kahf poprosi Cię o to ponownie, gdy następnym razem użyjesz tego numeru IBAN.</translation>
+ <translation id="2977665033722899841">Obecnie wybrany wiersz to <ph name="ROW_NAME"/>. <ph name="ROW_CONTENT"/></translation>
+ <translation id="2977847223286097084">Zablokować klawiaturę i jej używać</translation>
+ <translation id="2978824962390592855">Opera</translation>
+ <translation id="2979424420072875974">Zasoby dla pisarzy</translation>
+-<translation id="6172169316494799304">Kod CVC tej karty zostanie zaszyfrowany i zapisany na Twoim koncie Brave – umożliwi to szybsze płatności</translation>
++<translation id="6172169316494799304">Kod CVC tej karty zostanie zaszyfrowany i zapisany na Twoim koncie Kahf – umożliwi to szybsze płatności</translation>
+ <translation id="2985398929374701810">Wpisz prawidłowy adres</translation>
+ <translation id="2987034854559945715">Brak pasujących funkcji</translation>
+-<translation id="714850411804317247">Brave ogranicza ilość informacji na temat przeglądania przez Ciebie internetu, z których witryny mogą korzystać. Możesz zmienić ustawienia i wybrać własny poziom ochrony.</translation>
++<translation id="714850411804317247">Kahf ogranicza ilość informacji na temat przeglądania przez Ciebie internetu, z których witryny mogą korzystać. Możesz zmienić ustawienia i wybrać własny poziom ochrony.</translation>
+ <translation id="2989742184762224133">Dwie zszywki u góry</translation>
+ <translation id="2991174974383378012">Udostępnianie stronom internetowym</translation>
+ <translation id="299122504639061328">Zarządzaj domyślną wyszukiwarką i wyszukiwaniem w witrynie</translation>
+@@ -1080,10 +1080,10 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="3041176923638368519">Zobacz warunki korzystania z karty</translation>
+ <translation id="3041612393474885105">Informacje o certyfikacie</translation>
+ <translation id="3045769629416806687">Sporty ekstremalne</translation>
+-<translation id="8418829431154568330">Historię Pulpitu zdalnego Brave, w tym sygnatury czasowe, hostów oraz identyfikatory sesji klientów</translation>
+-<translation id="2396578282884469363">Zazwyczaj łączysz się z witrynami w bezpieczny sposób, ale tym razem w Brave nie udało się użyć bezpiecznego połączenia. Osoba przeprowadzająca atak może próbować podsłuchać lub zmodyfikować Twoje połączenie sieciowe. <ph name="BEGIN_LEARN_MORE_LINK"/>Więcej informacji o tym ostrzeżeniu<ph name="END_LEARN_MORE_LINK"/></translation>
++<translation id="8418829431154568330">Historię Pulpitu zdalnego Kahf, w tym sygnatury czasowe, hostów oraz identyfikatory sesji klientów</translation>
++<translation id="2396578282884469363">Zazwyczaj łączysz się z witrynami w bezpieczny sposób, ale tym razem w Kahf nie udało się użyć bezpiecznego połączenia. Osoba przeprowadzająca atak może próbować podsłuchać lub zmodyfikować Twoje połączenie sieciowe. <ph name="BEGIN_LEARN_MORE_LINK"/>Więcej informacji o tym ostrzeżeniu<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3052964831964880138"><ph name="PRODUCT_NAME"/> taniej o <ph name="PRICE_DROP"/></translation>
+-<translation id="4832983047807637948">Brave automatycznie usuwa tematy starsze niż 4 tygodnie. Podczas dalszego przeglądania temat może pojawić się ponownie na liście. Możesz też zablokować tematy, których Brave ma nie udostępniać witrynom. Dowiedz się więcej o zarządzaniu prywatnością w reklamach w Brave.</translation>
++<translation id="4832983047807637948">Kahf automatycznie usuwa tematy starsze niż 4 tygodnie. Podczas dalszego przeglądania temat może pojawić się ponownie na liście. Możesz też zablokować tematy, których Kahf ma nie udostępniać witrynom. Dowiedz się więcej o zarządzaniu prywatnością w reklamach w Kahf.</translation>
+ <translation id="3061707000357573562">Zastosowanie poprawki do usługi</translation>
+ <translation id="3062655045399308513">Usuń dane przeglądania…</translation>
+ <translation id="306573536155379004">Gra się rozpoczęła.</translation>
+@@ -1091,7 +1091,7 @@ Jeśli się nie zgodzisz, zostaną one zablokowane ze względu na Twoje ustawien
+ <translation id="3068118691172921711">Przesyłanie plików do usługi <ph name="CLOUD_PROVIDER"/> rozpocznie się za minutę</translation>
+ <translation id="3076865167425975822">Systemy operacyjne</translation>
+ <translation id="3080254622891793721">Grafika</translation>
+-<translation id="254030672859277244">Pozwól Brave na sprawdzanie, czy do produktów, które masz w koszykach, można zastosować spersonalizowane rabaty</translation>
++<translation id="254030672859277244">Pozwól Kahf na sprawdzanie, czy do produktów, które masz w koszykach, można zastosować spersonalizowane rabaty</translation>
+ <translation id="3086579638707268289">Twoja aktywność w internecie jest monitorowana</translation>
+ <translation id="3087734570205094154">Na dół</translation>
+ <translation id="3090667236485488075">Szkło</translation>
+@@ -1192,7 +1192,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3249102948665905108">Przesyłanie pliku do usługi <ph name="CLOUD_PROVIDER"/> zostało zakończone z błędami</translation>
+ <translation id="3252772880526154546">Architektura</translation>
+ <translation id="3254301855501243548">18 x 22 cale</translation>
+-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby szybko utworzyć nowe wydarzenie w Kalendarzu Brave</translation>
++<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby szybko utworzyć nowe wydarzenie w Kalendarzu Kahf</translation>
+ <translation id="3261488570342242926">Dowiedz się więcej o kartach wirtualnych</translation>
+ <translation id="3262698603497362968">Opcje zakupu</translation>
+ <translation id="3266367459139339908">Obecnie wprowadzamy nowe sposoby ograniczania informacji o Tobie, do których witryny mogą uzyskać dostęp podczas wyświetlania spersonalizowanych reklam, na przykład:</translation>
+@@ -1204,7 +1204,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3272091146646336650">Super B</translation>
+ <translation id="3272112314896217187">Wpisz <ph name="NUMBER_OF_DIGITS"/>-cyfrowy kod weryfikacyjny</translation>
+ <translation id="3272643614306383237">Mniej niż 1 MB. Podczas następnej wizyty niektóre strony mogą ładować się wolniej.</translation>
+-<translation id="7460223968433527020">Administrator może zdalnie wprowadzać zmiany w Twoim profilu i przeglądarce, analizować informacje o przeglądarce za pomocą raportów i wykonywać inne niezbędne zadania. Aktywność na tym urządzeniu może być zarządzana również poza Brave. <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
++<translation id="7460223968433527020">Administrator może zdalnie wprowadzać zmiany w Twoim profilu i przeglądarce, analizować informacje o przeglądarce za pomocą raportów i wykonywać inne niezbędne zadania. Aktywność na tym urządzeniu może być zarządzana również poza Kahf. <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
+ <translation id="3281350579597955952">{0,plural, =1{Zgodnie z zasadą administratora nie zaleca się otwierania tego pliku, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}few{Zgodnie z zasadą administratora nie zaleca się otwierania tych plików, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}many{Zgodnie z zasadą administratora nie zaleca się otwierania tych plików, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}other{Zgodnie z zasadą administratora nie zaleca się otwierania tych plików, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3282085321714087552">Twoja organizacja, <ph name="ENROLLMENT_DOMAIN"/>, wysłała do tych witryn pewne informacje, takie jak ustawienia lub zasady.</translation>
+ <translation id="3286372614333682499">orientacja pionowa</translation>
+@@ -1221,7 +1221,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3304073249511302126">skanowanie Bluetooth</translation>
+ <translation id="3304777285002411338">A2x3</translation>
+ <translation id="33073482541490531">Użyte właśnie hasło znaleźliśmy jako ujawnione w wyniku naruszenia bezpieczeństwa danych. Menedżer haseł zaleca, aby jak najszybciej je zmienić.</translation>
+-<translation id="4731386748664539266">Przycisk Dostosuj Brave; aktywuj, aby dostosować wygląd przeglądarki</translation>
++<translation id="4731386748664539266">Przycisk Dostosuj Kahf; aktywuj, aby dostosować wygląd przeglądarki</translation>
+ <translation id="3308006649705061278">Jednostka organizacyjna (OU)</translation>
+ <translation id="3318016344440038475">Komedie telewizyjne</translation>
+ <translation id="3324687287337751929">4 x 6 cali</translation>
+@@ -1245,7 +1245,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3354508510846323339">Cytat <ph name="CURRENT_CITATION"/> z <ph name="MAX_CITATIONS"/>, <ph name="PRODUCT_NAME"/>, <ph name="URL"/></translation>
+ <translation id="3355823806454867987">Zmień ustawienia serwera proxy...</translation>
+ <translation id="335809815767823">Wyeksportowano</translation>
+-<translation id="3359387651158939842">Gdy zapiszesz kartę do użycia w Brave Pay, jej dane będą uzupełniane automatycznie przy przyszłych zakupach</translation>
++<translation id="3359387651158939842">Gdy zapiszesz kartę do użycia w Kahf Pay, jej dane będą uzupełniane automatycznie przy przyszłych zakupach</translation>
+ <translation id="3359565626472459400">Małżeństwo</translation>
+ <translation id="3360103848165129075">Arkusz modułu do obsługi płatności</translation>
+ <translation id="3360306038446926262">Okna</translation>
+@@ -1279,7 +1279,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3411091017011773343">Prześlij za <ph name="HOURS"/> godz.</translation>
+ <translation id="3414275587143250384">Usługi rozproszone i w chmurze</translation>
+ <translation id="3414952576877147120">Rozmiar:</translation>
+-<translation id="7115177860507615612">Przycisk Zagraj w grę z dinozaurem w Brave; aktywuj, aby zagrać w grę Dino Run w Brave</translation>
++<translation id="7115177860507615612">Przycisk Zagraj w grę z dinozaurem w Kahf; aktywuj, aby zagrać w grę Dino Run w Kahf</translation>
+ <translation id="3422248202833853650">Zamknij inne programy, by zwolnić pamięć.</translation>
+ <translation id="3422472998109090673">Strona <ph name="HOST_NAME"/> jest obecnie nieosiągalna.</translation>
+ <translation id="3423742043356668186">Określone przez system</translation>
+@@ -1389,28 +1389,28 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3587738293690942763">Średni</translation>
+ <translation id="3600106876108433070">Więcej informacji o tabelach porównawczych</translation>
+ <translation id="3600246354004376029"><ph name="TITLE"/>, <ph name="DOMAIN"/>, <ph name="TIME"/></translation>
+-<translation id="8476504968862670676">Przycisk Zarządzaj ustawieniami prywatności konta Brave; aktywuj, aby przejść do ustawień prywatności konta Brave</translation>
++<translation id="8476504968862670676">Przycisk Zarządzaj ustawieniami prywatności konta Kahf; aktywuj, aby przejść do ustawień prywatności konta Kahf</translation>
+ <translation id="3603507503523709">Aplikacja zablokowana przez administratora</translation>
+ <translation id="3605899229568538311">5 x 5 cali</translation>
+ <translation id="3606917451836803637">Seriale i programy telewizyjne</translation>
+ <translation id="3608932978122581043">Orientacja podajnika</translation>
+-<translation id="1737525120923015525">Aby następnym razem zapłacić szybciej, zapisz kartę oraz imię, nazwisko i adres rozliczeniowy na swoim koncie Brave.</translation>
++<translation id="1737525120923015525">Aby następnym razem zapłacić szybciej, zapisz kartę oraz imię, nazwisko i adres rozliczeniowy na swoim koncie Kahf.</translation>
+ <translation id="3612660594051121194">Długodystansowe przejazdy autobusowe i kolejowe</translation>
+ <translation id="3614001939154393113">Hakerzy mogą próbować wykraść Twoje dane z <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (np. hasła, wiadomości lub informacje o karcie kredytowej). <ph name="BEGIN_LEARN_MORE_LINK"/>Więcej informacji o tym ostrzeżeniu<ph name="END_LEARN_MORE_LINK"/></translation>
+ <translation id="3614103345592970299">Rozmiar 2</translation>
+ <translation id="361438452008624280">Pozycja listy „<ph name="LANGUAGE_ID"/>”: nieznany lub nieobsługiwany język.</translation>
+-<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby uruchomić kontrolę zabezpieczeń w ustawieniach Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="3274500070896023877"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby uruchomić kontrolę zabezpieczeń w ustawieniach Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="3615309852743236517">Manicure i pedicure</translation>
+ <translation id="3620239073311576716">Uniformy i odzież robocza</translation>
+ <translation id="3621401353678567613">Żeby otrzymywać alerty o obniżkach cen śledzonych produktów, włącz powiadomienia w ustawieniach.</translation>
+ <translation id="362276910939193118">Wyświetl całą historię</translation>
+-<translation id="5043591794632164789">Aby używać kamery, otwórz <ph name="LINK"/> i zezwól Brave na dostęp.</translation>
++<translation id="5043591794632164789">Aby używać kamery, otwórz <ph name="LINK"/> i zezwól Kahf na dostęp.</translation>
+ <translation id="3623398832322170566">Romanse</translation>
+ <translation id="3624292976554877583">Etykiety (matowe)</translation>
+ <translation id="3628905806504633297">{0,plural, =1{Zgodnie z zasadą administratora nie zaleca się przenoszenia tego pliku, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}few{Zgodnie z zasadą administratora nie zaleca się przenoszenia tych plików, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}many{Zgodnie z zasadą administratora nie zaleca się przenoszenia tych plików, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}other{Zgodnie z zasadą administratora nie zaleca się przenoszenia tych plików, jeśli miejscem docelowym jest <ph name="DESTINATION_NAME"/>}}</translation>
+ <translation id="3630155396527302611">Jeśli ten program jest już na liście programów mogących korzystać z sieci,
+     spróbuj go z niej usunąć i dodać ponownie.</translation>
+-<translation id="3599570280787620691">Przycisk Znajdź moje urządzenie; aktywuj, aby znaleźć swoje urządzenie na koncie Brave</translation>
++<translation id="3599570280787620691">Przycisk Znajdź moje urządzenie; aktywuj, aby znaleźć swoje urządzenie na koncie Kahf</translation>
+ <translation id="3630699740441428070">Administratorzy tego urządzenia, którzy skonfigurowali używane przez Ciebie połączenie sieciowe, mogą zobaczyć Twój ruch sieciowy, w tym strony, na które wchodzisz.</translation>
+ <translation id="3632503704576938756">Wznowiono udostępnianie ekranu</translation>
+ <translation id="3632892046558972264">Wstrzymano udostępnianie ekranu</translation>
+@@ -1564,7 +1564,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="3906954721959377182">Tablet</translation>
+ <translation id="3909695131102177774"><ph name="LABEL"/> <ph name="ERROR"/></translation>
+ <translation id="3910231615117880630">Więcej informacji o ustawieniu „Umieszczona treść”</translation>
+-<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>W jaki sposób możesz zarządzać swoimi danymi:<ph name="END_BOLD"/> Brave automatycznie usuwa witryny odwiedzone ponad 30 dni temu. Witryna, którą odwiedzisz ponownie, może pojawić się znów na liście. W ustawieniach Brave możesz też w każdej chwili zablokować witrynie możliwość sugerowania reklam i wyłączyć reklamy sugerowane przez witryny.</translation>
++<translation id="3117446487153407265"><ph name="BEGIN_BOLD"/>W jaki sposób możesz zarządzać swoimi danymi:<ph name="END_BOLD"/> Kahf automatycznie usuwa witryny odwiedzone ponad 30 dni temu. Witryna, którą odwiedzisz ponownie, może pojawić się znów na liście. W ustawieniach Kahf możesz też w każdej chwili zablokować witrynie możliwość sugerowania reklam i wyłączyć reklamy sugerowane przez witryny.</translation>
+ <translation id="3921869355029467742">Wpisz kod zabezpieczający</translation>
+ <translation id="3927538228901078312">Brak tabel porównawczych</translation>
+ <translation id="3927932062596804919">Odmawiaj</translation>
+@@ -1630,14 +1630,14 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="4039506337798853114">Aby wyświetlić kursor, naciśnij |<ph name="ACCELERATOR"/>|</translation>
+ <translation id="4047351652147966654">18 x 24 cale</translation>
+ <translation id="404831776305217138">URL aktualizacji rozszerzenia o identyfikatorze „<ph name="EXTENSION_ID"/>” jest nieprawidłowy lub używa nieobsługiwanego schematu. Obsługiwane schematy to: <ph name="HTTP_SCHEME"/>, <ph name="HTTPS_SCHEME"/> i <ph name="FILE_SCHEME"/>.</translation>
+-<translation id="2635033286761217583">Będziesz mieć możliwość używania go w różnych usługach Brave</translation>
+-<translation id="336808635693308470">Brave próbuje edytować formy płatności.</translation>
++<translation id="2635033286761217583">Będziesz mieć możliwość używania go w różnych usługach Kahf</translation>
++<translation id="336808635693308470">Kahf próbuje edytować formy płatności.</translation>
+ <translation id="405399507749852140">Jeśli na którejkolwiek stronie produkt stanieje, otrzymasz alert</translation>
+ <translation id="4056223980640387499">Sepia</translation>
+ <translation id="4059523390906550209">Więcej informacji o usłudze Sensitive Data Protection</translation>
+ <translation id="4060880210388108757">Muzyka niezależna i alternatywna</translation>
+ <translation id="4060883793524802469">Usuń z tabel</translation>
+-<translation id="4161619938555288542">Pozwól Brave na wyszukiwanie rabatów na produkty, które masz koszykach</translation>
++<translation id="4161619938555288542">Pozwól Kahf na wyszukiwanie rabatów na produkty, które masz koszykach</translation>
+ <translation id="406358100705415968">Wyposażenie ochronne dla bezpieczeństwa w pracy</translation>
+ <translation id="4065659219963895623">Restauracje</translation>
+ <translation id="4067774859633143413">Aby zamknąć tryb pełnoekranowy i zobaczyć pobrane pliki, naciśnij i przytrzymaj |<ph name="ACCELERATOR"/>|</translation>
+@@ -1797,9 +1797,9 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="4333561522337981382">Zarządzanie oknami na wszystkich wyświetlaczach</translation>
+ <translation id="4336219115486912529">{COUNT,plural, =1{Wygasa jutro}few{Wygasa za # dni}many{Wygasa za # dni}other{Wygasa za # dnia}}</translation>
+ <translation id="4336913590841287350">Ta zasada nie jest jeszcze obsługiwana jako zasada dotycząca użytkowników w iOS.</translation>
+-<translation id="5792122559159836842">Ta reklama zużywała zbyt wiele zasobów Twojego urządzenia, dlatego została usunięta przez Brave.</translation>
++<translation id="5792122559159836842">Ta reklama zużywała zbyt wiele zasobów Twojego urządzenia, dlatego została usunięta przez Kahf.</translation>
+ <translation id="4340810192899866471">Importuj z JSON</translation>
+-<translation id="6116812392674177288">Ten komputer nie został wykryty jako zarządzany przez firmę, przez co zasada może instalować automatycznie tylko rozszerzenia hostowane w Brave Web Store. URL sklepu Brave Web Store służący do aktualizacji to „<ph name="CWS_UPDATE_URL"/>”.</translation>
++<translation id="6116812392674177288">Ten komputer nie został wykryty jako zarządzany przez firmę, przez co zasada może instalować automatycznie tylko rozszerzenia hostowane w Kahf Web Store. URL sklepu Kahf Web Store służący do aktualizacji to „<ph name="CWS_UPDATE_URL"/>”.</translation>
+ <translation id="4342742994656318294">Parki rozrywki</translation>
+ <translation id="4344072791302852930">Dodaj kartę</translation>
+ <translation id="4348834659292907206">Połączenie z <ph name="SITE"/> nie jest bezpieczne</translation>
+@@ -1828,7 +1828,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="4406896451731180161">wyniki wyszukiwania</translation>
+ <translation id="4408413947728134509">Pliki cookie (<ph name="NUM_COOKIES"/>)</translation>
+ <translation id="4412074349188076601">Ta konfiguracja jest oznaczona jako możliwa do zainstalowania, ale nie można jej zainstalować, bo nie udostępniono obrazu dla tej architektury.</translation>
+-<translation id="6647778944129929873">Używaj Menedżera haseł Brave i autouzupełniania w Brave, aby zapisywać i uzupełniać hasła, formy płatności i adresy</translation>
++<translation id="6647778944129929873">Używaj Menedżera haseł Kahf i autouzupełniania w Kahf, aby zapisywać i uzupełniać hasła, formy płatności i adresy</translation>
+ <translation id="4414515549596849729">pliki cookie i dane witryn</translation>
+ <translation id="4415156962929755728">Plastik (wysoki połysk)</translation>
+ <translation id="4415426530740016218">Adres odbioru</translation>
+@@ -1859,16 +1859,16 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="448363931695049633">Pizzerie</translation>
+ <translation id="4489023393592172404">Koperta Kaku 4</translation>
+ <translation id="4490717597759821841">A7</translation>
+-<translation id="3966104135245031874">Szyfruj synchronizowane hasła, używając danych konta Brave</translation>
++<translation id="3966104135245031874">Szyfruj synchronizowane hasła, używając danych konta Kahf</translation>
+ <translation id="4493480324863638523">Nieprawidłowy URL. URL musi być zgodny ze schematem standardowym, np. http://example.com lub https://example.com</translation>
+-<translation id="7622628059331736328">W ustawieniach możesz wyświetlać tematy reklam i blokować te, których nie chcesz udostępniać witrynom. Brave automatycznie usuwa też tematy reklam, które mają ponad 4 tygodnie.</translation>
++<translation id="7622628059331736328">W ustawieniach możesz wyświetlać tematy reklam i blokować te, których nie chcesz udostępniać witrynom. Kahf automatycznie usuwa też tematy reklam, które mają ponad 4 tygodnie.</translation>
+ <translation id="4500587658229086076">treść niezabezpieczona</translation>
+ <translation id="450602096898954067">Dane mogą być widoczne dla przeszkolonych weryfikatorów, którzy pracują nad ulepszaniem tej funkcji</translation>
+ <translation id="4506176782989081258">Błąd sprawdzania poprawności: <ph name="VALIDATION_ERROR"/></translation>
+ <translation id="4506599922270137252">Skontaktuj się z administratorem systemu</translation>
+ <translation id="450710068430902550">Udostępnianie administratorowi</translation>
+-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Naciśnij Tab, a potem Enter, by Tłumacz Brave przetłumaczył tę stronę.</translation>
+-<translation id="4892470328555495647">Karty i adresy pochodzą z Brave i Twojego konta Brave (<ph name="ACCOUNT_EMAIL"/>). Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Ustawieniach<ph name="END_LINK"/>.</translation>
++<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Naciśnij Tab, a potem Enter, by Tłumacz Kahf przetłumaczył tę stronę.</translation>
++<translation id="4892470328555495647">Karty i adresy pochodzą z Kahf i Twojego konta Kahf (<ph name="ACCOUNT_EMAIL"/>). Możesz nimi zarządzać w <ph name="BEGIN_LINK"/>Ustawieniach<ph name="END_LINK"/>.</translation>
+ <translation id="4515847625438516456">Mikrosamochody i samochody subkompaktowe</translation>
+ <translation id="4519245469315452746">Działanie urządzenia zostało przerwane podczas aktualizacji.</translation>
+ <translation id="4520048001084013693">Pobieranie tego pliku jest zablokowane przez zasady administratora</translation>
+@@ -1885,7 +1885,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="4540780316273593836">Coś poszło nie tak</translation>
+ <translation id="4541810033354695636">rzeczywistość rozszerzona</translation>
+ <translation id="4542971377163063093">Taca 8</translation>
+-<translation id="563788859854213593">Aby następnym razem zapłacić szybciej, zapisz kartę oraz adres rozliczeniowy na swoim koncie Brave</translation>
++<translation id="563788859854213593">Aby następnym razem zapłacić szybciej, zapisz kartę oraz adres rozliczeniowy na swoim koncie Kahf</translation>
+ <translation id="454441086898495030">Dodać do: <ph name="SET"/>?</translation>
+ <translation id="4546730006268514143">Przekroczono limit czasu przesyłania</translation>
+ <translation id="455113658016510503">A9</translation>
+@@ -2023,19 +2023,19 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="4819347708020428563">Czy chcesz edytować adnotacje w widoku domyślnym?</translation>
+ <translation id="4822493756793346865">Informacje o typowych cenach są podawane na podstawie danych ze sklepów w internecie z ostatnich 90 dni.</translation>
+ <translation id="4822922322149719535">Sprawdź dziennik błędów</translation>
+-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby szybko utworzyć nowy arkusz Brave</translation>
++<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby szybko utworzyć nowy arkusz Kahf</translation>
+ <translation id="4826588772550366629">kamery i mikrofonu</translation>
+ <translation id="4827283332383516812">Usuń kartę</translation>
+ <translation id="4831993743164297314">Papier do naświetlarki</translation>
+ <translation id="483241715238664915">Włącz ostrzeżenia</translation>
+ <translation id="4832961164064927107">Barbecue i grill</translation>
+ <translation id="4834250788637067901">Formy płatności, oferty i adresy korzystające z Google Pay</translation>
+-<translation id="246176083348620700">Wyświetl historię Brave</translation>
++<translation id="246176083348620700">Wyświetl historię Kahf</translation>
+ <translation id="484462545196658690">Automatycznie</translation>
+ <translation id="484671803914931257">Otrzymaj rabat w sklepie <ph name="MERCHANT_NAME"/> i nie tylko</translation>
+ <translation id="484988093836683706">Używaj odblokowywania urządzenia</translation>
+ <translation id="4850886885716139402">Widok</translation>
+-<translation id="3418609161696289726">Szybko utwórz nową notatkę w Brave Keep</translation>
++<translation id="3418609161696289726">Szybko utwórz nową notatkę w Kahf Keep</translation>
+ <translation id="4855395119669662878">Administrator zacznie przesyłać Twoje pliki do usługi <ph name="CLOUD_PROVIDER"/> <ph name="DATE_TIME"/>. Dopóki pliki nie zostaną przesłane, nie odłączaj urządzenia. Podczas przesyłania możliwy będzie tylko odczyt plików lokalnych.</translation>
+ <translation id="485902285759009870">Weryfikuję kod...</translation>
+ <translation id="4860260582253463350">Zanim przejdziesz do YouTube, musimy się upewnić, że to Ty. Włączymy ustawienia skonfigurowane przez rodzica lub opiekuna w Family Link.</translation>
+@@ -2133,11 +2133,11 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="5018422839182700155">Nie można otworzyć tej strony</translation>
+ <translation id="5018802455907704660">16 x 20 cali</translation>
+ <translation id="5019198164206649151">Nieprawidłowy stan magazynu wspomagającego</translation>
+-<translation id="2013297594801702701">Zapisanych adresów możesz używać w różnych usługach Brave. Ten adres zostanie zapisany na Twoim koncie Brave <ph name="USER_EMAIL"/>.</translation>
++<translation id="2013297594801702701">Zapisanych adresów możesz używać w różnych usługach Kahf. Ten adres zostanie zapisany na Twoim koncie Kahf <ph name="USER_EMAIL"/>.</translation>
+ <translation id="5019952743397118625">Zasada <ph name="EXTENSION_DEVELOPER_MODE_SETTINGS_POLICY_NAME"/> jest skonfigurowana. Zasada <ph name="DEVELOPER_TOOLS_AVAILABILITY_POLICY_NAME"/> nie będzie sterować dostępnością trybu programisty na stronie rozszerzeń.</translation>
+-<translation id="6516968977334148048">Monitorowanie cen w Brave</translation>
++<translation id="6516968977334148048">Monitorowanie cen w Kahf</translation>
+ <translation id="5023310440958281426">Sprawdź zasady administratora</translation>
+-<translation id="7993217516063481081">Zapisz kartę, aby płacić szybciej. Dane karty zostaną zaszyfrowane na koncie Brave.</translation>
++<translation id="7993217516063481081">Zapisz kartę, aby płacić szybciej. Dane karty zostaną zaszyfrowane na koncie Kahf.</translation>
+ <translation id="5030338702439866405">Wystawiony przez</translation>
+ <translation id="503069730517007720">Certyfikat główny oprogramowania „<ph name="SOFTWARE_NAME"/>” jest wymagany, ale nie został zainstalowany. Aby rozwiązać ten problem, administrator powinien przeczytać instrukcje dotyczące konfiguracji oprogramowania „<ph name="SOFTWARE_NAME"/>”. <ph name="FURTHER_EXPLANATION"/></translation>
+ <translation id="5034930251282078640">Dodać do porównania?</translation>
+@@ -2170,11 +2170,11 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="5088142053160410913">Wiadomość do operatora</translation>
+ <translation id="5090647584136241764">Dodaj karty z podobnymi produktami, żeby łatwo porównać ważne szczegóły</translation>
+ <translation id="5093232627742069661">Składanie typu Z</translation>
+-<translation id="4906192414477726331">Ten serwer nie mógł udowodnić, że należy do <ph name="DOMAIN"/>. Jego certyfikat bezpieczeństwa nie jest zaufany w Brave. Może to być spowodowane błędną konfiguracją lub przechwyceniem połączenia przez atakującego.</translation>
++<translation id="4906192414477726331">Ten serwer nie mógł udowodnić, że należy do <ph name="DOMAIN"/>. Jego certyfikat bezpieczeństwa nie jest zaufany w Kahf. Może to być spowodowane błędną konfiguracją lub przechwyceniem połączenia przez atakującego.</translation>
+ <translation id="5097099694988056070">Statystyki na temat sprzętu, np. użycie procesora czy pamięci RAM</translation>
+ <translation id="5097468150760963273">27 x 39 cali</translation>
+ <translation id="5097501891273180634">A2</translation>
+-<translation id="1643886086471238725">Brave potrzebuje dostępu do uprawnienia <ph name="PERMISSION"/> na Twoim urządzeniu</translation>
++<translation id="1643886086471238725">Kahf potrzebuje dostępu do uprawnienia <ph name="PERMISSION"/> na Twoim urządzeniu</translation>
+ <translation id="510644072453496781">Karton (koniec)</translation>
+ <translation id="5108881358339761672">Strona nie jest bezpieczna</translation>
+ <translation id="5109892411553231226">Zarządzaj formami płatności</translation>
+@@ -2346,7 +2346,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="5425082381151187189">Dekoracja domu i wystrój wnętrz</translation>
+ <translation id="5426179911063097041"><ph name="SITE"/> chce wysyłać Ci powiadomienia</translation>
+ <translation id="5430298929874300616">Usuń zakładkę</translation>
+-<translation id="8517215617486022589">Brave <ph name="BEGIN_EMPHASIS"/>nie zapisuje<ph name="END_EMPHASIS"/>:
++<translation id="8517215617486022589">Kahf <ph name="BEGIN_EMPHASIS"/>nie zapisuje<ph name="END_EMPHASIS"/>:
+           <ph name="BEGIN_LIST"/>
+             <ph name="LIST_ITEM"/>Twojej historii przeglądania,
+             <ph name="LIST_ITEM"/>plików cookie ani danych witryn,
+@@ -2422,7 +2422,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="5559311991468302423">Usuń adres</translation>
+ <translation id="5560088892362098740">Data ważności</translation>
+ <translation id="55635442646131152">Konspekt dokumentu</translation>
+-<translation id="1702142849385752335">Aby używać lokalizacji, otwórz <ph name="LINK"/> i zezwól Brave na dostęp.</translation>
++<translation id="1702142849385752335">Aby używać lokalizacji, otwórz <ph name="LINK"/> i zezwól Kahf na dostęp.</translation>
+ <translation id="5565735124758917034">Aktywny</translation>
+ <translation id="5569030697349375295">Oprogramowanie do księgowości i finansów</translation>
+ <translation id="5570825185877910964">Chroń konto</translation>
+@@ -2575,7 +2575,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="5877359070305966420">Zarządzanie zasobami ludzkimi</translation>
+ <translation id="5879272455334365707">Planowanie budżetu i zarządzanie finansami</translation>
+ <translation id="5879989559903563723">Niedozwolone w trybie gościa</translation>
+-<translation id="8967688963142514142">Otwórz kontrolę zabezpieczeń w Brave</translation>
++<translation id="8967688963142514142">Otwórz kontrolę zabezpieczeń w Kahf</translation>
+ <translation id="5884465125445718607">Koperta chińska nr 6</translation>
+ <translation id="5886961930368713749">Prześlij opinię na temat funkcji Porównaj</translation>
+ <translation id="5887400589839399685">Zapisano kartę</translation>
+@@ -2631,10 +2631,10 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="5989320800837274978">Nie określono ani stałych serwerów proxy, ani adresu URL skryptu PAC.</translation>
+ <translation id="5992691462791905444">Składanie typu Z</translation>
+ <translation id="5992805036496113940">Zobacz informacje używane do wyświetlania Ci reklam</translation>
+-<translation id="7409510288691071929">Zarządzaj swoimi danymi, prywatnością i bezpieczeństwem na koncie Brave</translation>
++<translation id="7409510288691071929">Zarządzaj swoimi danymi, prywatnością i bezpieczeństwem na koncie Kahf</translation>
+ <translation id="5996255674476750320">Pokazy samochodowe</translation>
+-<translation id="3494641719937626561">Znaleźliśmy użyte właśnie hasło wśród ujawnionych w wyniku naruszenia bezpieczeństwa danych. Menedżer haseł Brave zaleca natychmiastową zmianę tego hasła oraz sprawdzenie innych zapisanych haseł – pozwoli to zabezpieczyć Twoje konta.</translation>
+-<translation id="4496834749307444910">Brave ma wbudowane zabezpieczenia, które chronią Cię podczas korzystania z przeglądarki, takie jak Bezpieczne przeglądanie Brave. Na stronie, którą chcesz otworzyć, <ph name="BEGIN_LINK"/>niedawno wykryło ono złośliwe oprogramowanie<ph name="END_LINK"/>.</translation>
++<translation id="3494641719937626561">Znaleźliśmy użyte właśnie hasło wśród ujawnionych w wyniku naruszenia bezpieczeństwa danych. Menedżer haseł Kahf zaleca natychmiastową zmianę tego hasła oraz sprawdzenie innych zapisanych haseł – pozwoli to zabezpieczyć Twoje konta.</translation>
++<translation id="4496834749307444910">Kahf ma wbudowane zabezpieczenia, które chronią Cię podczas korzystania z przeglądarki, takie jak Bezpieczne przeglądanie Kahf. Na stronie, którą chcesz otworzyć, <ph name="BEGIN_LINK"/>niedawno wykryło ono złośliwe oprogramowanie<ph name="END_LINK"/>.</translation>
+ <translation id="6000528814684428358">Hard rock i rock progresywny</translation>
+ <translation id="6000758707621254961">Wyniki wyszukiwania dla zapytania „<ph name="SEARCH_TEXT"/>”: <ph name="RESULT_COUNT"/></translation>
+ <translation id="6001839398155993679">Do dzieła</translation>
+@@ -2692,7 +2692,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6080696365213338172">Masz dostęp do treści dzięki certyfikatowi dostarczonemu przez administratora. Administrator może odczytać dane, jakie udostępnisz w <ph name="DOMAIN"/>.</translation>
+ <translation id="6085149458302186532">Etykiety (kolorowe)</translation>
+ <translation id="6087312102907839798">Podobne wyszukiwania</translation>
+-<translation id="7851017866080575588">Karty usunięte z historii w Brave nadal będą widoczne w tabelach porównawczych</translation>
++<translation id="7851017866080575588">Karty usunięte z historii w Kahf nadal będą widoczne w tabelach porównawczych</translation>
+ <translation id="6093795393556121384">Karta została zweryfikowana</translation>
+ <translation id="6094273045989040137">Dodaj adnotacje</translation>
+ <translation id="6094290315941448991">Zasada administratora wyłącza nagrywanie ekranu, gdy widoczne są treści poufne</translation>
+@@ -2704,17 +2704,17 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6107012941649240045">Wystawiony dla</translation>
+ <translation id="6107924765192360631">Aby otrzymać sugestie dotyczące pisania, zacznij od kilku słów lub pierwszej wersji roboczej.</translation>
+ <translation id="6108580855199168381">Szczegóły certyfikatu</translation>
+-<translation id="5539282829066374332">Twoja wyszukiwarka w Brave</translation>
++<translation id="5539282829066374332">Twoja wyszukiwarka w Kahf</translation>
+ <translation id="6108849843016142864">Gady i płazy</translation>
+-<translation id="8233947174119245051">Inne rodzaje historii przeglądania mogą być nadal dostępne na Twoim koncie Brave na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
+-<translation id="1715537866439612181">Twoje wyszukiwania, najlepsze dopasowania i zawartość stron są wysyłane do Brave. Mogą je zobaczyć weryfikatorzy, którzy pracują nad ulepszaniem tej funkcji.</translation>
++<translation id="8233947174119245051">Inne rodzaje historii przeglądania mogą być nadal dostępne na Twoim koncie Kahf na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
++<translation id="1715537866439612181">Twoje wyszukiwania, najlepsze dopasowania i zawartość stron są wysyłane do Kahf. Mogą je zobaczyć weryfikatorzy, którzy pracują nad ulepszaniem tej funkcji.</translation>
+ <translation id="6116338172782435947">Mieć dostęp do tekstu i obrazów skopiowanych do schowka</translation>
+ <translation id="6117833587752089929">Zdjęcie (satyna)</translation>
+ <translation id="6118782133429281336">Lista źródeł jest pusta.</translation>
+ <translation id="612178891608320683">Kuchnia wegańska</translation>
+ <translation id="6122181661879998141">z przodu karty</translation>
+ <translation id="6124058285696691147">Pobierz załącznik</translation>
+-<translation id="5972135347314259717">Oprogramowanie sprzęgające Brave Enterprise</translation>
++<translation id="5972135347314259717">Oprogramowanie sprzęgające Kahf Enterprise</translation>
+ <translation id="6126565365696310362">Koperta chińska nr 2</translation>
+ <translation id="6127379762771434464">Element został usunięty</translation>
+ <translation id="6131824478727057281">lokalizacja</translation>
+@@ -2736,14 +2736,14 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6160391204859821737">Włączanie funkcji ochrony prywatności w reklamach</translation>
+ <translation id="6165508094623778733">Dowiedz się więcej</translation>
+ <translation id="6167577165590485365">Ostatnia próba pobrania:</translation>
+-<translation id="1057223975912338979">Brave próbuje zweryfikować Twoją tożsamość, aby móc uzupełnić dane do płatności.</translation>
++<translation id="1057223975912338979">Kahf próbuje zweryfikować Twoją tożsamość, aby móc uzupełnić dane do płatności.</translation>
+ <translation id="6173208311907792313">Dokończ zakupy za pomocą Windows Hello</translation>
+ <translation id="6176387967264100435">To wysoka cena</translation>
+ <translation id="6177128806592000436">Twoje połączenie z tą witryną nie jest bezpieczne</translation>
+ <translation id="6177531123306197852">Koperta C2</translation>
+ <translation id="6180316780098470077">Interwał ponawiania</translation>
+ <translation id="6182972682129119950">A4x5</translation>
+-<translation id="1713601041945301465">Brave automatycznie ogranicza pliki cookie innych firm</translation>
++<translation id="1713601041945301465">Kahf automatycznie ogranicza pliki cookie innych firm</translation>
+ <translation id="6194209731893739467">Tu zobaczysz wszystkie obserwowane produkty</translation>
+ <translation id="6195163219142236913">Używanie plików cookie innych firm jest ograniczone</translation>
+ <translation id="6195371403461054755">Geologia</translation>
+@@ -2757,33 +2757,33 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6215936431492593050">Metal (satyna)</translation>
+ <translation id="6217950634729714357">Meble do kuchni i jadalni</translation>
+ <translation id="6218305986815100395">Nie można włączyć karty wirtualnej</translation>
+-<translation id="8385639954311581596">Usunąć ten adres z Brave?</translation>
++<translation id="8385639954311581596">Usunąć ten adres z Kahf?</translation>
+ <translation id="622039917539443112">Składanie równoległe</translation>
+ <translation id="6221286101741304627">Aby zamknąć tryb pełnoekranowy, naciśnij |<ph name="ACCELERATOR"/>|</translation>
+-<translation id="5286511760116495417">Czy chcesz zapisać tę kartę na swoim koncie Brave?</translation>
++<translation id="5286511760116495417">Czy chcesz zapisać tę kartę na swoim koncie Kahf?</translation>
+ <translation id="6221892641068781024">Widok uproszczony</translation>
+ <translation id="6222527803348563979">Papeteria</translation>
+ <translation id="62231116988543150">Możliwość instalowania aplikacji internetowych</translation>
+ <translation id="6224281071334553713">Biżuteria i kamienie szlachetne</translation>
+-<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby spersonalizować narzędzia ułatwień dostępu w ustawieniach Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="8997875939727100757"><ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby spersonalizować narzędzia ułatwień dostępu w ustawieniach Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="6228346913624365233">Pojazdy luksusowe</translation>
+ <translation id="6229196330202833460">Filmy i telewizja na żądanie</translation>
+ <translation id="6234122620015464377">Przycięcie po każdym dokumencie</translation>
+ <translation id="6234310016144827337">Sprawdź połączenie i spróbuj ponownie</translation>
+ <translation id="6236290670123303279">Zarządzaj ustawieniami</translation>
+ <translation id="623825323736974198">Zarządzaj witrynami, które zawsze będą aktywne i stale będą zajmować pamięć</translation>
+-<translation id="6240447795304464094">Logo Brave Pay</translation>
+-<translation id="4174528239215311406">Aby używać Menedżera haseł Brave w swoim systemie operacyjnym, uruchom ponownie Brave i zezwól na dostęp do menedżera haseł na komputerze. Po ponownym uruchomieniu karty zostaną otwarte.</translation>
++<translation id="6240447795304464094">Logo Kahf Pay</translation>
++<translation id="4174528239215311406">Aby używać Menedżera haseł Kahf w swoim systemie operacyjnym, uruchom ponownie Kahf i zezwól na dostęp do menedżera haseł na komputerze. Po ponownym uruchomieniu karty zostaną otwarte.</translation>
+ <translation id="6241121617266208201">Ukryj sugestie</translation>
+ <translation id="624499991300733384">Usługa Print Compositor</translation>
+ <translation id="6246316216123107851"><ph name="NUM_DAYS"/> dni temu</translation>
+ <translation id="6246868321321344665">Twoja organizacja może wyświetlać dane przeglądania, takie jak hasła i historia, zarówno w profilu służbowym, jak i osobistym</translation>
+ <translation id="6250932670816326647">Kosmetyki do kąpieli i pielęgnacji ciała</translation>
+ <translation id="6251906504834538140">{0,plural, =1{Przenoszenie pliku zostało zablokowane}few{Przenoszenie <ph name="FILE_COUNT"/> plików zostało zablokowane}many{Przenoszenie <ph name="FILE_COUNT"/> plików zostało zablokowane}other{Przenoszenie <ph name="FILE_COUNT"/> pliku zostało zablokowane}}</translation>
+-<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby zarządzać pobranymi plikami w Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="3917320044622606497"><ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby zarządzać pobranymi plikami w Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="6254436959401408446">Za mało pamięci, by otworzyć tę stronę</translation>
+ <translation id="625463612687472648">Cofnij uprawnienia:</translation>
+-<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Podczas zakupów w Brave wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcję}few{Podczas zakupów w Brave wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcje}many{Podczas zakupów w Brave wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcje}other{Podczas zakupów w Brave wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcje}}</translation>
++<translation id="4171163883411218676">{FINANCIAL_ACCOUNT,plural, =1{Podczas zakupów w Kahf wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcję}few{Podczas zakupów w Kahf wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcje}many{Podczas zakupów w Kahf wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcje}other{Podczas zakupów w Kahf wyświetlaj <ph name="FINANCIAL_ACCOUNT_TYPES"/> jako opcje}}</translation>
+ <translation id="6259156558325130047">&amp;Ponów zmianę kolejności</translation>
+ <translation id="6263376278284652872">Zakładki <ph name="DOMAIN"/></translation>
+ <translation id="6264376385120300461">Pobierz mimo to</translation>
+@@ -2819,11 +2819,11 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6311410654831092784">Karton</translation>
+ <translation id="6312113039770857350">Strona internetowa jest niedostępna</translation>
+ <translation id="6316110367871394043">Przesyłanie pliku do usługi <ph name="CLOUD_PROVIDER"/> zostało wstrzymane</translation>
+-<translation id="1413891145337537586">Nowość: tutaj obowiązują opcje Family Link dotyczące Brave</translation>
++<translation id="1413891145337537586">Nowość: tutaj obowiązują opcje Family Link dotyczące Kahf</translation>
+ <translation id="63172326633386613">Zarządzaj ustawieniami ułatwień dostępu</translation>
+ <translation id="6321917430147971392">Sprawdź ustawienia DNS</translation>
+ <translation id="6322182122604171028">Nie udało się użyć Windows Hello</translation>
+-<translation id="7962450223988560278">Ustaw Brave jako domyślną przeglądarkę systemową w ustawieniach iOS</translation>
++<translation id="7962450223988560278">Ustaw Kahf jako domyślną przeglądarkę systemową w ustawieniach iOS</translation>
+ <translation id="6328639280570009161">Wyłącz przewidywanie działań sieciowych</translation>
+ <translation id="6328784461820205019">„Połączenie nie jest prywatne” lub „&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;” lub „&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;” lub „&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;” lub „&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;” lub „Błąd certyfikatu SSL”</translation>
+ <translation id="6335029926534404762">Obuwie sportowe</translation>
+@@ -2874,7 +2874,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="640163077447496506">Wygasa dzisiaj</translation>
+ <translation id="6402537308870515461">Musisz sprawdzić pliki przed ich przeniesieniem</translation>
+ <translation id="6403167778944553">Sypialnia i łazienka</translation>
+-<translation id="1939189437759050709">Tytuły kart i adresy URL stron dodanych do tabeli są wysyłane do Brave, zapisywane na Twoim koncie <ph name="EMAIL"/> i mogą być widoczne dla osób weryfikujących, które pracują nad ulepszaniem tej funkcji.</translation>
++<translation id="1939189437759050709">Tytuły kart i adresy URL stron dodanych do tabeli są wysyłane do Kahf, zapisywane na Twoim koncie <ph name="EMAIL"/> i mogą być widoczne dla osób weryfikujących, które pracują nad ulepszaniem tej funkcji.</translation>
+ <translation id="6404511346730675251">Edytuj zakładkę</translation>
+ <translation id="6405181733356710802">Otworzyć aplikację <ph name="APP_NAME"/>?</translation>
+ <translation id="6410264514553301377">Wpisz datę ważności i kod CVC karty <ph name="CREDIT_CARD"/></translation>
+@@ -2943,11 +2943,11 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="65203098586853226">Tłumaczenie z języka: <ph name="SOURCE"/> na <ph name="TARGET"/></translation>
+ <translation id="6521745193039995384">Nieaktywna</translation>
+ <translation id="6522682797352430154">Muzyka klasyczna</translation>
+-<translation id="7379829935006425840">Przycisk Zarządzaj ustawieniami ułatwień dostępu; aktywuj, aby spersonalizować narzędzia ułatwień dostępu w ustawieniach Brave</translation>
++<translation id="7379829935006425840">Przycisk Zarządzaj ustawieniami ułatwień dostępu; aktywuj, aby spersonalizować narzędzia ułatwień dostępu w ustawieniach Kahf</translation>
+ <translation id="6527049834925947126">Produkcja żywności</translation>
+ <translation id="6529173248185917884">Rolka 7</translation>
+ <translation id="6529602333819889595">&amp;Ponów usunięcie</translation>
+-<translation id="4126692285908824778">Ta karta jest zapisana na Twoim koncie Brave, więc możesz jej używać w różnych usługach Brave.</translation>
++<translation id="4126692285908824778">Ta karta jest zapisana na Twoim koncie Kahf, więc możesz jej używać w różnych usługach Kahf.</translation>
+ <translation id="6536221421038631327">Usunięcie subskrypcji Passpoint z urządzenia <ph name="DEVICE_TYPE"/> spowoduje też usunięcie powiązanych sieci. Aby wprowadzić zmiany w abonamencie, skontaktuj się z: „<ph name="FRIENDLY_NAME"/>”. <ph name="LEARN_MORE"/></translation>
+ <translation id="653801826293432362">Aby zobaczyć tabele porównawcze, włącz synchronizację</translation>
+ <translation id="6539092367496845964">Coś poszło nie tak. Spróbuj później.</translation>
+@@ -2977,26 +2977,26 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6597665340361269064">90 stopni</translation>
+ <translation id="6598976221101665070">Dramaty filmowe</translation>
+ <translation id="6599642189720630047">Obserwowane produkty</translation>
+-<translation id="5976895887103591798">Brave blokuje witrynom możliwość używania plików cookie innych firm do śledzenia Twoich czynności związanych z przeglądaniem internetu.
++<translation id="5976895887103591798">Kahf blokuje witrynom możliwość używania plików cookie innych firm do śledzenia Twoich czynności związanych z przeglądaniem internetu.
+             <ph name="NEW_LINE"/>Jeśli funkcje w witrynie nie działają, <ph name="START_LINK"/>tymczasowo zezwól na używanie plików cookie innych firm<ph name="END_LINK"/>.</translation>
+ <translation id="6613742613135780554">śledzenie rąk</translation>
+-<translation id="5887670611153282204">Więcej informacji o wyszukiwarce w Brave</translation>
++<translation id="5887670611153282204">Więcej informacji o wyszukiwarce w Kahf</translation>
+ <translation id="6615297766614333076">Układarka 2</translation>
+ <translation id="6619496928666593220">Nie wypełniono numeru IBAN</translation>
+ <translation id="6624427990725312378">Dane kontaktowe</translation>
+ <translation id="6628463337424475685">Wyszukiwarka <ph name="ENGINE"/></translation>
+ <translation id="6629652037942826935">Luksusowe podróże</translation>
+ <translation id="6630043285902923878">Szukam urządzeń USB...</translation>
+-<translation id="4945711024178085608">Przycisk zarządzania ustawieniami Brave; aktywuj, aby otworzyć ustawienia Brave</translation>
++<translation id="4945711024178085608">Przycisk zarządzania ustawieniami Kahf; aktywuj, aby otworzyć ustawienia Kahf</translation>
+ <translation id="6631133499533814479">Futbol australijski</translation>
+ <translation id="663260587451432563">JIS B4</translation>
+ <translation id="6633405994164965230">Edukacja komputerowa</translation>
+ <translation id="6633476656216409494">Oprogramowanie dla firm i do zarządzania wydajnością</translation>
+-<translation id="2529518595693862042">Brave ma wbudowane funkcje bezpieczeństwa, które chronią Cię podczas korzystania z przeglądarki, takie jak Bezpieczne przeglądanie Brave. Niedawno funkcja ta <ph name="BEGIN_LINK"/>znalazła szkodliwe oprogramowanie<ph name="END_LINK"/> w witrynie, którą chcesz odwiedzić.</translation>
++<translation id="2529518595693862042">Kahf ma wbudowane funkcje bezpieczeństwa, które chronią Cię podczas korzystania z przeglądarki, takie jak Bezpieczne przeglądanie Kahf. Niedawno funkcja ta <ph name="BEGIN_LINK"/>znalazła szkodliwe oprogramowanie<ph name="END_LINK"/> w witrynie, którą chcesz odwiedzić.</translation>
+ <translation id="6643016212128521049">Wyczyść</translation>
+ <translation id="6645291930348198241">Dostęp do plików cookie i danych witryn.</translation>
+ <translation id="6645478838938543427">Alerty o obniżkach cen będą wysyłane na adres <ph name="EMAIL_ADDRESS"/></translation>
+-<translation id="6678472970290886941">Administrator może zdalnie zmienić konfigurację przeglądarki. Aktywność na tym urządzeniu może być zarządzana również poza Brave.</translation>
++<translation id="6678472970290886941">Administrator może zdalnie zmienić konfigurację przeglądarki. Aktywność na tym urządzeniu może być zarządzana również poza Kahf.</translation>
+ <translation id="6648524591329069940">Czcionka szeryfowa</translation>
+ <translation id="6649510485211003056">195 x 270 mm</translation>
+ <translation id="6651270836885078973">Zarządzane przez:</translation>
+@@ -3019,9 +3019,9 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6688775486821967877">Karta wirtualna jest teraz niedostępna. Spróbuj ponownie później.</translation>
+ <translation id="6688851075017682769">Testuj adresy według kraju</translation>
+ <translation id="6689249931105087298">Względna z kompresją punktu czerni</translation>
+-<translation id="5406652219015697259">Brave proponuje zalogowanym użytkownikom zapisywanie kart na koncie Brave. Możesz to zmienić w ustawieniach. Imię i nazwisko posiadacza karty pochodzi z Twojego konta.</translation>
++<translation id="5406652219015697259">Kahf proponuje zalogowanym użytkownikom zapisywanie kart na koncie Kahf. Możesz to zmienić w ustawieniach. Imię i nazwisko posiadacza karty pochodzi z Twojego konta.</translation>
+ <translation id="6691397311652656001">Zwolnij więcej niż <ph name="REQUIRED_FREE_DISK_SPACE"/> miejsca</translation>
+-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby znaleźć swoje urządzenie na koncie Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby znaleźć swoje urządzenie na koncie Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="6695428916538794739">Filmy akcji i przygodowe</translation>
+ <translation id="6696424331653607346">Przewodniki i literatura podróżnicza</translation>
+ <translation id="6696575039575740785">Instalowanie aplikacji internetowych jest niedozwolone</translation>
+@@ -3033,7 +3033,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6704458454638854812">Właściwość „custom_size” jest ustawiona. Oczekiwana nazwa to „custom”.</translation>
+ <translation id="6706005862292023715">Zasłony i dekoracja okien</translation>
+ <translation id="6706210727756204531">Zakres</translation>
+-<translation id="1162411425302454249">Nie udało się zapisać tego numeru IBAN na Twoim koncie Brave. Zamiast tego został on zapisany w Brave na tym urządzeniu.</translation>
++<translation id="1162411425302454249">Nie udało się zapisać tego numeru IBAN na Twoim koncie Kahf. Zamiast tego został on zapisany w Kahf na tym urządzeniu.</translation>
+ <translation id="6709133671862442373">Wiadomości</translation>
+ <translation id="6710213216561001401">Poprzedni</translation>
+ <translation id="6710594484020273272">&lt;Wpisz wyszukiwane słowa&gt;</translation>
+@@ -3066,10 +3066,10 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6767985426384634228">Zmienić adres?</translation>
+ <translation id="6770747695101757579">Papier (bawełna)</translation>
+ <translation id="677257480647123231">Bezpieczeństwo dzieci w internecie</translation>
+-<translation id="3576010969994131987">Aby korzystać z YouTube, zaloguj się na konto Brave</translation>
++<translation id="3576010969994131987">Aby korzystać z YouTube, zaloguj się na konto Kahf</translation>
+ <translation id="6775759552199460396">JIS B2</translation>
+ <translation id="6777088782163649345">Korzystaj z YouTube zgodnie z opcjami ustawionymi przez rodzica</translation>
+-<translation id="4302311572898487420">Menedżer haseł Brave potrzebuje dostępu do pęku kluczy macOS</translation>
++<translation id="4302311572898487420">Menedżer haseł Kahf potrzebuje dostępu do pęku kluczy macOS</translation>
+ <translation id="6782656837469339439">Rok utraty ważności</translation>
+ <translation id="6786145470008421571">Koperta 6 x 9 cali</translation>
+ <translation id="67862343314499040">Fioletowy</translation>
+@@ -3103,7 +3103,7 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6841864657731852591">Walec wklęsłodrukowy</translation>
+ <translation id="6842196666980060516">184 x 260 mm</translation>
+ <translation id="6844998850832008753">Tym razem zezwolono na śledzenie rąk</translation>
+-<translation id="976643339176907534">Przycisk Zarządzaj ustawieniami zabezpieczeń; aktywuj, aby zarządzać m.in. Bezpiecznym przeglądaniem w ustawieniach Brave</translation>
++<translation id="976643339176907534">Przycisk Zarządzaj ustawieniami zabezpieczeń; aktywuj, aby zarządzać m.in. Bezpiecznym przeglądaniem w ustawieniach Kahf</translation>
+ <translation id="6852204201400771460">Załadować ponownie aplikację?</translation>
+ <translation id="6857776781123259569">Zarządzaj hasłami…</translation>
+ <translation id="6858034839887287663">A2x4</translation>
+@@ -3116,13 +3116,13 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="6873456682041376666">Taca górna</translation>
+ <translation id="6874604403660855544">&amp;Ponów dodanie</translation>
+ <translation id="6880941331070119097">Wysoka cena</translation>
+-<translation id="5856252669085142737">Szybko utwórz nowy dokument Brave</translation>
++<translation id="5856252669085142737">Szybko utwórz nowy dokument Kahf</translation>
+ <translation id="6882210908253838664">Jeśli strona nie działa, możesz tymczasowo zezwolić jej na używanie plików cookie innych firm. <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
+ <translation id="6882418526420053414"><ph name="SITE"/> nie obsługuje bezpiecznego połączenia</translation>
+ <translation id="6883221904761970440">Arkusz uwierzytelniania danych logowania na potrzeby bezpiecznych płatności jest zamknięty</translation>
+ <translation id="6884662655240309489">Rozmiar 1</translation>
+ <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
+-<translation id="7265969755975834932">Strona została uproszczona przez Brave, by było ją łatwiej przeczytać. Przeglądarka Brave pobrała oryginalną stronę przez niezabezpieczone połączenie.</translation>
++<translation id="7265969755975834932">Strona została uproszczona przez Kahf, by było ją łatwiej przeczytać. Przeglądarka Kahf pobrała oryginalną stronę przez niezabezpieczone połączenie.</translation>
+ <translation id="6890443033788248019">Zezwolić na dostęp do lokalizacji?</translation>
+ <translation id="6890531741535756070">W witrynach korzystających z <ph name="PROVIDER_ORIGIN"/> do potwierdzania tożsamości używasz <ph name="DEVICE_LABEL"/>. Możliwe, że ten dostawca przechowuje dane Twojej formy płatności. Możesz <ph name="BEGIN_LINK"/>poprosić o ich usunięcie<ph name="END_LINK"/>.</translation>
+ <translation id="6890956352250146925">Opcje plików cookie i danych witryn</translation>
+@@ -3173,16 +3173,16 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="696703987787944103">Percepcyjne</translation>
+ <translation id="6967851206780867018">Zablokowano 1 plik z powodu treści</translation>
+ <translation id="6970885655016700774">Tkanina (archiwalna)</translation>
+-<translation id="8485851762575764192">Szybko utwórz nową prezentację w Prezentacjach Brave</translation>
++<translation id="8485851762575764192">Szybko utwórz nową prezentację w Prezentacjach Kahf</translation>
+ <translation id="6972629891077993081">Urządzenia HID</translation>
+ <translation id="6973656660372572881">Określono zarówno stałe serwery proxy, jak i URL skryptu PAC.</translation>
+ <translation id="6973988895180423160">3,5 x 5 cali</translation>
+ <translation id="6978121630131642226">Wyszukiwarki</translation>
+ <translation id="6978236010531171013">Udostępnij mimo to</translation>
+-<translation id="8974669348014288088">Jeśli udostępnisz to urządzenie, Brave może prosić Cię o weryfikację za każdym razem, gdy będziesz płacić za pomocą autouzupełniania</translation>
+-<translation id="6979158407327259162">Dysk Brave</translation>
++<translation id="8974669348014288088">Jeśli udostępnisz to urządzenie, Kahf może prosić Cię o weryfikację za każdym razem, gdy będziesz płacić za pomocą autouzupełniania</translation>
++<translation id="6979158407327259162">Dysk Kahf</translation>
+ <translation id="6979440798594660689">Wycisz (domyślnie)</translation>
+-<translation id="6984270784814146224">Obraz bez etykiety. Wyodrębnianie tekstu z wykorzystaniem AI od Brave</translation>
++<translation id="6984270784814146224">Obraz bez etykiety. Wyodrębnianie tekstu z wykorzystaniem AI od Kahf</translation>
+ <translation id="6987806006823772670">Koperta (powlekana)</translation>
+ <translation id="6989256887001961296">Ta zawartość jest zablokowana.</translation>
+ <translation id="6989763994942163495">Pokaż ustawienia zaawansowane...</translation>
+@@ -3199,14 +3199,14 @@ Uruchamianie aplikacji może potrwać dłużej niż zwykle.</translation>
+ <translation id="7014741021609395734">Poziom powiększenia</translation>
+ <translation id="7016992613359344582">Może to być opłata jednorazowa lub cykliczna, a informacje o niej mogą nie być wyraźnie podane.</translation>
+ <translation id="701757816833614688">Edukacja w zakresie sztuk wizualnych i wzornictwa</translation>
+-<translation id="8683151724374457021">Witryna określa Twoje zainteresowania, a potem sugeruje reklamy innym witrynom. Witryna wykorzystuje też gromadzone przez Brave informacje o interesujących Cię tematach, aby wyświetlać trafniejsze reklamy.</translation>
++<translation id="8683151724374457021">Witryna określa Twoje zainteresowania, a potem sugeruje reklamy innym witrynom. Witryna wykorzystuje też gromadzone przez Kahf informacje o interesujących Cię tematach, aby wyświetlać trafniejsze reklamy.</translation>
+ <translation id="7023162328967545559">Ostrzeżenie administratora</translation>
+-<translation id="7613812024276037086">Brave ma wbudowane zabezpieczenia, które chronią Cię podczas korzystania z przeglądarki, takie jak Bezpieczne przeglądanie Brave. Niedawno <ph name="BEGIN_LINK"/>wykryło ono próbę wyłudzenia informacji<ph name="END_LINK"/> na stronie, którą chcesz otworzyć. Strony wyłudzające informacje udają inne strony, aby Cię oszukać.<ph name="NEW_LINE"/>Osoby przeprowadzające ataki czasem przejmują nawet strony, które zwykle są bezpieczne. <ph name="BEGIN_ERROR_LINK"/>Daj nam znać<ph name="END_ERROR_LINK"/>, jeśli uważasz, że zaszła pomyłka i że ta witryna nie stanowi zagrożenia.</translation>
++<translation id="7613812024276037086">Kahf ma wbudowane zabezpieczenia, które chronią Cię podczas korzystania z przeglądarki, takie jak Bezpieczne przeglądanie Kahf. Niedawno <ph name="BEGIN_LINK"/>wykryło ono próbę wyłudzenia informacji<ph name="END_LINK"/> na stronie, którą chcesz otworzyć. Strony wyłudzające informacje udają inne strony, aby Cię oszukać.<ph name="NEW_LINE"/>Osoby przeprowadzające ataki czasem przejmują nawet strony, które zwykle są bezpieczne. <ph name="BEGIN_ERROR_LINK"/>Daj nam znać<ph name="END_ERROR_LINK"/>, jeśli uważasz, że zaszła pomyłka i że ta witryna nie stanowi zagrożenia.</translation>
+ <translation id="7029809446516969842">Hasła</translation>
+ <translation id="7030164307377592766">zmienić ustawienia wypełniania form płatności</translation>
+ <translation id="7031646650991750659">Zainstalowane przez Ciebie aplikacje z Google Play</translation>
+ <translation id="7035705295266423040">Bank chce zweryfikować Twoją tożsamość.</translation>
+-<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby zarządzać ustawieniami prywatności konta Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby zarządzać ustawieniami prywatności konta Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="7042616127917168121">Zawęź wyniki</translation>
+ <translation id="7043552168914147882">Woskowany papier z naklejkami</translation>
+ <translation id="7044081119134178347">Przyznano jednorazowy dostęp do aparatu</translation>
+@@ -3365,8 +3365,8 @@ Dodatkowe informacje:
+ <translation id="7353601530677266744">Wiersz poleceń</translation>
+ <translation id="7356678400607112844">Ostatnia wizyta</translation>
+ <translation id="7359588939039777303">Reklamy zostały zablokowane.</translation>
+-<translation id="7308957539693927108">Gdy Brave znajdzie dostępne rabaty, zostaną one wyświetlone podczas realizacji zamówienia</translation>
+-<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby dodać adresy i zarządzać nimi w ustawieniach Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="7308957539693927108">Gdy Kahf znajdzie dostępne rabaty, zostaną one wyświetlone podczas realizacji zamówienia</translation>
++<translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby dodać adresy i zarządzać nimi w ustawieniach Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="7365849542400970216">Czy strony mogą sprawdzać, kiedy używasz urządzenia?</translation>
+ <translation id="736592699917579616">Jedzenie</translation>
+ <translation id="7366117520888504990">198 x 275 mm</translation>
+@@ -3375,7 +3375,7 @@ Dodatkowe informacje:
+ <translation id="7372526636730851647">Zdjęcie (błyszczące)</translation>
+ <translation id="7372973238305370288">wynik wyszukiwania</translation>
+ <translation id="7374461526650987610">Obsługa protokołów</translation>
+-<translation id="3898257577441589237">Ten problem pojawia się z powodu certyfikatu zainstalowanego na tym urządzeniu przez Ciebie lub inną osobę. Ten certyfikat jest używany do monitorowania i przechwytywania ruchu sieciowego. Brave mu nie ufa. Choć w pewnych przypadkach (np. w sieci szkolnej lub firmowej) monitorowanie jest uzasadnione i legalne, Brave będzie Cię o tym powiadamiać, nawet jeśli nie możesz nic na to poradzić. Monitorowanie może odbywać się w każdej przeglądarce lub aplikacji, która ma dostęp do sieci.</translation>
++<translation id="3898257577441589237">Ten problem pojawia się z powodu certyfikatu zainstalowanego na tym urządzeniu przez Ciebie lub inną osobę. Ten certyfikat jest używany do monitorowania i przechwytywania ruchu sieciowego. Kahf mu nie ufa. Choć w pewnych przypadkach (np. w sieci szkolnej lub firmowej) monitorowanie jest uzasadnione i legalne, Kahf będzie Cię o tym powiadamiać, nawet jeśli nie możesz nic na to poradzić. Monitorowanie może odbywać się w każdej przeglądarce lub aplikacji, która ma dostęp do sieci.</translation>
+ <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Brak witryn z dostępem}=1{1 witryna z dostępem}few{# witryny z dostępem}many{# witryn z dostępem}other{# witryny z dostępem}}</translation>
+ <translation id="7375818412732305729">Dołączono plik</translation>
+ <translation id="7376031331622621328">Plansza dolna Handel</translation>
+@@ -3404,7 +3404,7 @@ Dodatkowe informacje:
+       &lt;li&gt;W sekcji &lt;strong&gt;Typ uruchomienia&lt;/strong&gt; wybierz &lt;strong&gt;Wyłączony&lt;/strong&gt;.
+       &lt;li&gt;W sekcji &lt;strong&gt;Stan usługi&lt;/strong&gt; kliknij &lt;strong&gt;Zatrzymaj&lt;/strong&gt;.
+       &lt;li&gt;Kliknij &lt;strong&gt;Zastosuj&lt;/strong&gt;, a potem kliknij &lt;strong&gt;OK&lt;/strong&gt;.
+-      &lt;li&gt;W &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Centrum pomocy Brave&lt;/a&gt; dowiesz się, jak trwale usunąć to oprogramowanie z komputera.
++      &lt;li&gt;W &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Centrum pomocy Kahf&lt;/a&gt; dowiesz się, jak trwale usunąć to oprogramowanie z komputera.
+       &lt;/ol&gt;</translation>
+ <translation id="7408613996403626141">Zabawki</translation>
+ <translation id="7410852728357935715">Przesyłaj na urządzenie</translation>
+@@ -3569,14 +3569,14 @@ Dodatkowe informacje:
+ <translation id="767550629621587224">Wstępnie wycięte zakładki</translation>
+ <translation id="7675756033024037212">Przewijanie i powiększanie jest niedozwolone</translation>
+ <translation id="7676643023259824263">Wyszukaj tekst ze schowka, <ph name="TEXT"/></translation>
+-<translation id="4628681623692678085">Wyświetl historię przeglądania i zarządzaj nią w ustawieniach Brave</translation>
++<translation id="4628681623692678085">Wyświetl historię przeglądania i zarządzaj nią w ustawieniach Kahf</translation>
+ <translation id="7679947978757153706">Baseball</translation>
+ <translation id="7680990533995586733"><ph name="CARD_NETWORK_NAME"/>, <ph name="CARD_LAST_FOUR_DIGITS"/>, wygasa <ph name="CARD_EXPIRATION"/></translation>
+ <translation id="7682287625158474539">Adres wysyłkowy</translation>
+ <translation id="7682451652090915298">Rugby</translation>
+ <translation id="768344142657640519">Odwiedzona przed chwilą</translation>
+ <translation id="7684683146428206649">Metal</translation>
+-<translation id="5626140961157260107">Przycisk Usuń dane przeglądania; aktywuj, aby usunąć historię przeglądania, pliki cookie, pamięć podręczną i inne dane w ustawieniach Brave</translation>
++<translation id="5626140961157260107">Przycisk Usuń dane przeglądania; aktywuj, aby usunąć historię przeglądania, pliki cookie, pamięć podręczną i inne dane w ustawieniach Kahf</translation>
+ <translation id="7684928361160505327">{0,plural, =1{Plik <ph name="FILE_NAME"/> został zablokowany ze względu na zasady}few{<ph name="FILE_COUNT"/> pliki zostały zablokowane ze względu na zasady}many{<ph name="FILE_COUNT"/> plików zostało zablokowanych ze względu na zasady}other{<ph name="FILE_COUNT"/> pliku zostało zablokowane ze względu na zasady}}</translation>
+ <translation id="7687186412095877299">Wypełniaj formularze płatności, używając zapisanych form płatności</translation>
+ <translation id="7687305263118037187">Przekroczono limit czasu ponowienia próby</translation>
+@@ -3650,7 +3650,7 @@ Dodatkowe informacje:
+ <translation id="7805906048382884326">Zamknij wskazówkę</translation>
+ <translation id="7810410097247356677">Aby następnym razem zapłacić szybciej, zapisz kartę i zaszyfrowany kod zabezpieczający na urządzeniu</translation>
+ <translation id="7812922009395017822">Mir</translation>
+-<translation id="4670564340385807132">Usunąć tę podpowiedź do formularza z Brave?</translation>
++<translation id="4670564340385807132">Usunąć tę podpowiedź do formularza z Kahf?</translation>
+ <translation id="781440967107097262">Udostępnić schowek?</translation>
+ <translation id="7814857791038398352">Microsoft OneDrive</translation>
+ <translation id="7815352264092918456">Papier (zwykły)</translation>
+@@ -3683,9 +3683,9 @@ Dodatkowe informacje:
+ <translation id="7890748547282909375">Aby zapisać zrzut ekranu, zaloguj się w Microsoft OneDrive</translation>
+ <translation id="7894280532028510793">Jeśli pisownia jest poprawna, <ph name="BEGIN_LINK"/>uruchom Diagnostykę sieci<ph name="END_LINK"/>.</translation>
+ <translation id="7901831439558593470">Koperta 7 x 9 cali</translation>
+-<translation id="4362225295386962644">Gdy użyjesz hasła, które zostało opublikowane online, Brave wyświetli ostrzeżenie. Aby nikt (nawet Brave) nie mógł odczytać haseł ani nazw użytkowników, podczas sprawdzania są one zaszyfrowane.</translation>
++<translation id="4362225295386962644">Gdy użyjesz hasła, które zostało opublikowane online, Kahf wyświetli ostrzeżenie. Aby nikt (nawet Kahf) nie mógł odczytać haseł ani nazw użytkowników, podczas sprawdzania są one zaszyfrowane.</translation>
+ <translation id="7908648876066812348">Włączam kartę wirtualną</translation>
+-<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby otworzyć w ustawieniach stronę kontroli zabezpieczeń w Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="3733419689526948053"><ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby otworzyć w ustawieniach stronę kontroli zabezpieczeń w Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="791107458486222637">Wynik ponownego wykonania</translation>
+ <translation id="791551905239004656">Rysowanie i kolorowanie</translation>
+ <translation id="7916162853251942238">Podstawa fleksograficzna</translation>
+@@ -3693,7 +3693,7 @@ Dodatkowe informacje:
+ <translation id="793209273132572360">Zaktualizować adres?</translation>
+ <translation id="7932579305932748336">Powłoka</translation>
+ <translation id="79338296614623784">Wpisz prawidłowy numer telefonu</translation>
+-<translation id="8329449853370113380"><ph name="URL"/> chce odtworzyć treści chronione. Tożsamość Twojego urządzenia zostanie zweryfikowana przez Brave.</translation>
++<translation id="8329449853370113380"><ph name="URL"/> chce odtworzyć treści chronione. Tożsamość Twojego urządzenia zostanie zweryfikowana przez Kahf.</translation>
+ <translation id="7935318582918952113">DOM Distiller</translation>
+ <translation id="7937163678541954811">Kod CVC tej karty zostanie zaszyfrowany i zapisany na Twoim urządzeniu – umożliwi to szybsze płatności</translation>
+ <translation id="7937554595067888181">Ważna do <ph name="EXPIRATION_DATE_ABBR"/></translation>
+@@ -3758,7 +3758,7 @@ Dodatkowe informacje:
+ <translation id="8030729864112325446">Edukacja zawodowa i podyplomowa</translation>
+ <translation id="8032546467100845887">Diapozytyw</translation>
+ <translation id="8035152190676905274">Pióro</translation>
+-<translation id="3579289742592121339">Tytuły kart i adresy URL stron dodane do tabeli są wysyłane do Brave</translation>
++<translation id="3579289742592121339">Tytuły kart i adresy URL stron dodane do tabeli są wysyłane do Kahf</translation>
+ <translation id="8037117624646282037">Kto ostatnio używał urządzenia</translation>
+ <translation id="8037357227543935929">Pytaj (domyślnie)</translation>
+ <translation id="803771048473350947">Plik</translation>
+@@ -3991,14 +3991,14 @@ Dodatkowe informacje:
+ <translation id="8446884382197647889">Więcej informacji</translation>
+ <translation id="8449155699563577224">17 x 24 cale</translation>
+ <translation id="8449836157089738489">Otwórz wszystko w nowej grupie kart</translation>
+-<translation id="1785963607001474601">Administrator może zdalnie wprowadzać zmiany w Twoim profilu i przeglądarce, analizować informacje o przeglądarce za pomocą raportów i wykonywać inne niezbędne zadania. Aktywność na tym urządzeniu może być zarządzana również poza Brave.  <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
++<translation id="1785963607001474601">Administrator może zdalnie wprowadzać zmiany w Twoim profilu i przeglądarce, analizować informacje o przeglądarce za pomocą raportów i wykonywać inne niezbędne zadania. Aktywność na tym urządzeniu może być zarządzana również poza Kahf.  <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
+ <translation id="8457125768502047971">Bez ograniczeń</translation>
+ <translation id="8458202188076138974">Letter Extra</translation>
+-<translation id="834016381901477789">Przechodząc dalej, zgadzasz się na zbieranie danych o dokładnej lokalizacji urządzenia i udostępnianie ich właścicielowi konta w celu zapobiegania oszustwom. Aby wyłączyć Pix w Brave, otwórz <ph name="BEGIN_LINK1"/>ustawienia płatności<ph name="END_LINK1"/></translation>
++<translation id="834016381901477789">Przechodząc dalej, zgadzasz się na zbieranie danych o dokładnej lokalizacji urządzenia i udostępnianie ich właścicielowi konta w celu zapobiegania oszustwom. Aby wyłączyć Pix w Kahf, otwórz <ph name="BEGIN_LINK1"/>ustawienia płatności<ph name="END_LINK1"/></translation>
+ <translation id="8460854335417802511">Włącz</translation>
+ <translation id="8461694314515752532">Szyfruj synchronizowane dane własnym hasłem wielowyrazowym do synchronizacji</translation>
+ <translation id="8466379296835108687">{COUNT,plural, =1{1 karta kredytowa}few{# karty kredytowe}many{# kart kredytowych}other{# karty kredytowej}}</translation>
+-<translation id="1912557825937556898">Otwórz stronę kontroli zabezpieczeń w Brave w ustawieniach</translation>
++<translation id="1912557825937556898">Otwórz stronę kontroli zabezpieczeń w Kahf w ustawieniach</translation>
+ <translation id="8468358362970107653">Koperta C3</translation>
+ <translation id="8469428721212363950">Handel detaliczny</translation>
+ <translation id="8472700501934242014">Zablokowane tematy</translation>
+@@ -4176,7 +4176,7 @@ Dodatkowe informacje:
+ <translation id="8813277370772331957">Przypomnij później</translation>
+ <translation id="8814547618907885931">Zobacz wszystkie tabele porównawcze</translation>
+ <translation id="8814707942599948500">Koperta C8</translation>
+-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Naciśnij Tab, a potem Enter, by zaktualizować przeglądarkę Brave z poziomu jej ustawień.</translation>
++<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Naciśnij Tab, a potem Enter, by zaktualizować przeglądarkę Kahf z poziomu jej ustawień.</translation>
+ <translation id="882338992931677877">Szczelina ręczna</translation>
+ <translation id="8830320733681313421">Hagaki (pocztówka)</translation>
+ <translation id="8830565333350631528">Wyświetl pliki w usłudze <ph name="CLOUD_PROVIDER"/></translation>
+@@ -4215,20 +4215,20 @@ Dodatkowe informacje:
+ <translation id="8891031436559779793">Otrzymasz powiadomienie, jeśli cena w którejkolwiek witrynie spadnie.</translation>
+ <translation id="8891727572606052622">Nieprawidłowy tryb proxy</translation>
+ <translation id="8894794286471754040">Najpierw dłuższa krawędź</translation>
+-<translation id="7850375166078768069">Aby używać innej usługi autouzupełniania w Brave, włącz ją w ustawieniach Androida i tutaj</translation>
+-<translation id="7192431032621242241">Aby poprosić o możliwość wyświetlenia tych treści, zaloguj się na konto Brave</translation>
++<translation id="7850375166078768069">Aby używać innej usługi autouzupełniania w Kahf, włącz ją w ustawieniach Androida i tutaj</translation>
++<translation id="7192431032621242241">Aby poprosić o możliwość wyświetlenia tych treści, zaloguj się na konto Kahf</translation>
+ <translation id="8897428486789851669">Pływanie</translation>
+ <translation id="8899807382908246773">Uciążliwe reklamy</translation>
+ <translation id="8903921497873541725">Powiększ</translation>
+ <translation id="890493561996401738">Usuń przycisk sugestii. Naciśnij Enter, by usunąć, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
+ <translation id="8910898109640902752">8 x 10 cali</translation>
+-<translation id="4805806622840861220">Uruchom Brave ponownie</translation>
++<translation id="4805806622840861220">Uruchom Kahf ponownie</translation>
+ <translation id="8918062451146297192">Kod CVC karty wirtualnej</translation>
+ <translation id="8919740778133505789">Samochody sportowe</translation>
+ <translation id="8919895429178014996">Ukryj wszystkie elementy</translation>
+ <translation id="8922013791253848639">Zawsze zezwalaj na wyświetlanie reklam na tej stronie</translation>
+ <translation id="8922734931659847428">Ograniczona lista adresów URL odwiedzanych przez Ciebie stron, na których występują <ph name="BEGIN_LINK"/>zdarzenia oparte na starszej technologii<ph name="END_LINK"/></translation>
+-<translation id="3689838371654876064">Gdy Brave oznacza zdarzenia związane z bezpieczeństwem, odpowiednie dane o nich są wysyłane do administratora. Mogą one obejmować adresy URL stron odwiedzanych w Brave, adresy URL stron, z których skopiowano dane, nazwy plików lub metadane, awarie przeglądarki lub kart oraz nazwę użytkownika, pod którą logujesz się w aplikacjach internetowych, na danym urządzeniu i w Brave.</translation>
++<translation id="3689838371654876064">Gdy Kahf oznacza zdarzenia związane z bezpieczeństwem, odpowiednie dane o nich są wysyłane do administratora. Mogą one obejmować adresy URL stron odwiedzanych w Kahf, adresy URL stron, z których skopiowano dane, nazwy plików lub metadane, awarie przeglądarki lub kart oraz nazwę użytkownika, pod którą logujesz się w aplikacjach internetowych, na danym urządzeniu i w Kahf.</translation>
+ <translation id="892588693504540538">Otwór w prawym górnym rogu</translation>
+ <translation id="8926389886865778422">Nie pytaj ponownie</translation>
+ <translation id="8932102934695377596">Twój zegar się spóźnia</translation>
+@@ -4292,7 +4292,7 @@ Dodatkowe informacje:
+ <translation id="9049981332609050619">Podjęto próbę nawiązania połączenia z witryną <ph name="DOMAIN"/>, jednak serwer przedstawił nieprawidłowy certyfikat.</translation>
+ <translation id="9050666287014529139">Hasło</translation>
+ <translation id="9051072642122229460">Ekspresy do kawy</translation>
+-<translation id="104719866786855422">Wprowadzamy pomiar skuteczności reklam – nową funkcję ochrony prywatności w reklamach. Brave udostępnia witrynom bardzo ograniczone informacje (np. o tym, kiedy reklama się wyświetliła), aby pomagać im w ocenie skuteczności reklam.</translation>
++<translation id="104719866786855422">Wprowadzamy pomiar skuteczności reklam – nową funkcję ochrony prywatności w reklamach. Kahf udostępnia witrynom bardzo ograniczone informacje (np. o tym, kiedy reklama się wyświetliła), aby pomagać im w ocenie skuteczności reklam.</translation>
+ <translation id="9053955920216300738">Odwiedzane adresy URL</translation>
+ <translation id="9054288282721240609">Śledzenie rąk jest dozwolone</translation>
+ <translation id="9056953843249698117">Sklep</translation>
+@@ -4316,17 +4316,17 @@ Dodatkowe informacje:
+ <translation id="9090993752571911635">Dostawcy usług internetowych</translation>
+ <translation id="9093723786115107672">Bielizna nocna</translation>
+ <translation id="9094544726794842788">Opcja Nie lubię otwiera formularz, za pomocą którego możesz przesłać szczegółową opinię o tym, dlaczego te wyniki Ci się nie podobają</translation>
+-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, naciśnij Tab, a potem Enter, aby ustawić Brave jako domyślną przeglądarkę systemową w ustawieniach iOS</translation>
++<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, naciśnij Tab, a potem Enter, aby ustawić Kahf jako domyślną przeglądarkę systemową w ustawieniach iOS</translation>
+ <translation id="9101450247048146228">Używanie kamery i poruszanie nią (<ph name="CAMERAS_COUNT"/>)</translation>
+ <translation id="9101630580131696064">Taca 1</translation>
+-<translation id="6373940988468425649"><ph name="SITE"/> zazwyczaj używa szyfrowania do ochrony Twoich informacji. Gdy tym razem przeglądarka Brave próbowała połączyć się ze stroną <ph name="SITE"/>, odesłała ona nietypowe i nieprawidłowe dane logowania. Może się tak zdarzyć, gdy pod stronę <ph name="SITE"/> podszywa się osoba atakująca albo gdy ekran logowania do sieci Wi-Fi przerwie połączenie. Twoje informacje są nadal bezpieczne, bo połączenie w Brave zakończyło się przed wymianą jakichkolwiek danych.</translation>
++<translation id="6373940988468425649"><ph name="SITE"/> zazwyczaj używa szyfrowania do ochrony Twoich informacji. Gdy tym razem przeglądarka Kahf próbowała połączyć się ze stroną <ph name="SITE"/>, odesłała ona nietypowe i nieprawidłowe dane logowania. Może się tak zdarzyć, gdy pod stronę <ph name="SITE"/> podszywa się osoba atakująca albo gdy ekran logowania do sieci Wi-Fi przerwie połączenie. Twoje informacje są nadal bezpieczne, bo połączenie w Kahf zakończyło się przed wymianą jakichkolwiek danych.</translation>
+ <translation id="9107199998619088551">Twoim profilem zarządza <ph name="MANAGER"/></translation>
+ <translation id="9107467864910557787">Twoją przeglądarką zarządza <ph name="MANAGER"/></translation>
+ <translation id="91108059142052966">Zgodnie z polityką administratora udostępnianie ekranu w aplikacji <ph name="APPLICATION_TITLE"/> zostanie wyłączone, gdy wyświetlą się treści poufne</translation>
+ <translation id="9114524666733003316">Sprawdzam kartę…</translation>
+-<translation id="3582535072753734287">Ta przeglądarka nie jest zarządzana przez firmę ani inną organizację. Aktywność na tym urządzeniu może być zarządzana poza Brave. <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
+-<translation id="7839260860373627374">Więcej informacji o reklamach w Brave</translation>
+-<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby wznowić serię czynności i zobaczyć odpowiednią aktywność w historii Brave, naciśnij Tab, a potem Enter</translation>
++<translation id="3582535072753734287">Ta przeglądarka nie jest zarządzana przez firmę ani inną organizację. Aktywność na tym urządzeniu może być zarządzana poza Kahf. <ph name="BEGIN_LINK"/>Więcej informacji<ph name="END_LINK"/></translation>
++<translation id="7839260860373627374">Więcej informacji o reklamach w Kahf</translation>
++<translation id="2628864952962474930"><ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>; aby wznowić serię czynności i zobaczyć odpowiednią aktywność w historii Kahf, naciśnij Tab, a potem Enter</translation>
+ <translation id="9119042192571987207">Przesłano</translation>
+ <translation id="9119308212838450857"><ph name="PROVIDER_ORIGIN"/> chce potwierdzić Twoją tożsamość</translation>
+ <translation id="912327514020027767">Spódnice</translation>
+@@ -4384,33 +4384,33 @@ Dodatkowe informacje:
+ <translation id="9210825002219699214">Podróże lotnicze</translation>
+ <translation id="9211461151375991073">Wpisz @, aby wyszukać <ph name="FEATURED_SEARCH_LIST"/></translation>
+ <translation id="9213433120051936369">Dostosuj wygląd</translation>
+-<translation id="2206050430829841793">Aplikacja uniemożliwia Brave bezpieczne połączenie się z tą stroną</translation>
++<translation id="2206050430829841793">Aplikacja uniemożliwia Kahf bezpieczne połączenie się z tą stroną</translation>
+ <translation id="92178312226016010">Obserwujesz ten produkt.</translation>
+ <translation id="9218430445555521422">Ustaw jako opcję domyślną</translation>
+ <translation id="9219103736887031265">Grafika</translation>
+-<translation id="142389341645668510">Dostosuj Brave</translation>
++<translation id="142389341645668510">Dostosuj Kahf</translation>
+ <translation id="9222403027701923763">Nauka w szkołach podstawowych i średnich</translation>
+ <translation id="93020190163435405">Staże</translation>
+ <translation id="933712198907837967">Diners Club</translation>
+ <translation id="934634059306213385">Zezwolić aplikacji <ph name="APP_NAME"/> na konfigurowanie sieci Wi-Fi?</translation>
+-<translation id="7486559383537872796">Możesz stracić dostęp do swojego konta Brave. Brave zaleca natychmiastową zmianę hasła. Zobaczysz prośbę, by się zalogować.</translation>
+-<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Jakich danych używamy:<ph name="END_BOLD"/> tematy reklam są określane na podstawie Twojej najnowszej historii przeglądania, czyli listy witryn odwiedzonych przez Ciebie w Brave na tym urządzeniu.</translation>
++<translation id="7486559383537872796">Możesz stracić dostęp do swojego konta Kahf. Kahf zaleca natychmiastową zmianę hasła. Zobaczysz prośbę, by się zalogować.</translation>
++<translation id="1818627928653838301"><ph name="BEGIN_BOLD"/>Jakich danych używamy:<ph name="END_BOLD"/> tematy reklam są określane na podstawie Twojej najnowszej historii przeglądania, czyli listy witryn odwiedzonych przez Ciebie w Kahf na tym urządzeniu.</translation>
+ <translation id="937885410143139026">Dane zostały wysłane do konsoli administracyjnej</translation>
+ <translation id="939736085109172342">Nowy folder</translation>
+ <translation id="940524522703752213">Przesyłanie plików do usługi <ph name="CLOUD_PROVIDER"/> rozpocznie się za <ph name="MINUTES"/> min</translation>
+-<translation id="6588091288231158998">Używaj haseł i kluczy dostępu zapisanych na koncie Brave</translation>
+-<translation id="5444457503062019851">Brave blokuje witrynom możliwość używania plików cookie innych firm do śledzenia Twoich czynności związanych z przeglądaniem internetu.</translation>
++<translation id="6588091288231158998">Używaj haseł i kluczy dostępu zapisanych na koncie Kahf</translation>
++<translation id="5444457503062019851">Kahf blokuje witrynom możliwość używania plików cookie innych firm do śledzenia Twoich czynności związanych z przeglądaniem internetu.</translation>
+ <translation id="945855313015696284">Sprawdź poniższe informacje i usuń karty z błędami</translation>
+ <translation id="94613679163347541">Porównać <ph name="CATEGORY"/>?</translation>
+-<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby szybko utworzyć nową witrynę w Witrynach Brave</translation>
+-<translation id="7776043919629791284">{COUNT,plural, =0{Brave ponownie ograniczy pliki cookie dzisiaj}=1{Brave ponownie ograniczy pliki cookie jutro}few{Brave ponownie ograniczy pliki cookie za # dni}many{Brave ponownie ograniczy pliki cookie za # dni}other{Brave ponownie ograniczy pliki cookie za # dnia}}</translation>
++<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>; naciśnij Tab, a potem Enter, aby szybko utworzyć nową witrynę w Witrynach Kahf</translation>
++<translation id="7776043919629791284">{COUNT,plural, =0{Kahf ponownie ograniczy pliki cookie dzisiaj}=1{Kahf ponownie ograniczy pliki cookie jutro}few{Kahf ponownie ograniczy pliki cookie za # dni}many{Kahf ponownie ograniczy pliki cookie za # dni}other{Kahf ponownie ograniczy pliki cookie za # dnia}}</translation>
+ <translation id="949314938206378263">Prosisz o zgodę na odwiedzenie tej strony. Twój rodzic może odpowiedzieć w Family Link.</translation>
+ <translation id="950736567201356821">Trzy otwory u góry</translation>
+ <translation id="961663415146723894">Wiązanie na dole</translation>
+ <translation id="961856697154696964">Usuń dane przeglądania</translation>
+ <translation id="961930410699694996">Przyznano jednorazowy dostęp do lokalizacji</translation>
+ <translation id="962484866189421427">Te treści mogą próbować zainstalować wprowadzające w błąd aplikacje, które udają, że są przeznaczone do czegoś innego niż w rzeczywistości, lub zbierają dane, na podstawie których można Cię śledzić. <ph name="BEGIN_LINK"/>Pokaż mimo to<ph name="END_LINK"/></translation>
+-<translation id="776356972507701422">Zgodnie z przepisami prawa obowiązującymi w Twoim regionie Brave prosi Cię o wybranie domyślnej wyszukiwarki. Te wyszukiwarki są popularne w Twoim regionie. Pokazujemy je w kolejności losowej.</translation>
++<translation id="776356972507701422">Zgodnie z przepisami prawa obowiązującymi w Twoim regionie Kahf prosi Cię o wybranie domyślnej wyszukiwarki. Te wyszukiwarki są popularne w Twoim regionie. Pokazujemy je w kolejności losowej.</translation>
+ <translation id="963837307749850257">Wszyscy użytkownicy</translation>
+ <translation id="964050462028070434">Zarządzaj hasłami i kluczami dostępu…</translation>
+ <translation id="969892804517981540">Oficjalna wersja</translation>
+@@ -4445,7 +4445,7 @@ Dodatkowe informacje:
+ <translation id="997986563973421916">Z Google Pay</translation>
+ <translation id="8820817407110198400">Zakładki</translation>
+ <translation id="8362995731815961365">Administrator tego komputera zablokował tę witrynę.</translation>
+-<translation id="896703648578722320">Gdy do Brave są dodawane rozszerzenia, odpowiednie dane o nich są wysyłane do innych firm w celu przeanalizowania i mogą być widoczne dla administratora. Dane obejmują informacje o rozszerzeniach, takie jak nazwa, czas instalacji i źródło instalacji, a także o aktywności z nimi związanej (np. o zmianie kart, kontaktowaniu się z witrynami lub uzyskiwaniu dostępu do plików cookie). Te dane są zbierane zarówno w przypadku rozszerzeń zainstalowanych ze sklepu Web Store, jak i tych pobieranych z innych źródeł.</translation>
++<translation id="896703648578722320">Gdy do Kahf są dodawane rozszerzenia, odpowiednie dane o nich są wysyłane do innych firm w celu przeanalizowania i mogą być widoczne dla administratora. Dane obejmują informacje o rozszerzeniach, takie jak nazwa, czas instalacji i źródło instalacji, a także o aktywności z nimi związanej (np. o zmianie kart, kontaktowaniu się z witrynami lub uzyskiwaniu dostępu do plików cookie). Te dane są zbierane zarówno w przypadku rozszerzeń zainstalowanych ze sklepu Web Store, jak i tych pobieranych z innych źródeł.</translation>
+ <translation id="4075123085690634698">Otwórz stronę w nowym oknie prywatnym (⇧⌘N)</translation>
+ <translation id="2388886110302389394">Otwórz stronę w nowym oknie prywatnym (Ctrl+Shift+N)</translation>
+ <translation id="6957624206566198865">Otwórz stronę w trybie prywatnym</translation>

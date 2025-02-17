@@ -1,0 +1,298 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_sk.xtb b/browser/ui/android/strings/translations/android_brave_strings_sk.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Získajte viac informácií o Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Povoliť (spustiť ešte raz)</translation>
+ <translation id="2433507940547922241">Vzhľad</translation>
+-<translation id="9040069796107003510">Ikona Brave Rewards</translation>
+-<translation id="6333347122924254968">Zobraziť ikonu odmien Brave v paneli s adresou</translation>
++<translation id="9040069796107003510">Ikona Kahf Rewards</translation>
++<translation id="6333347122924254968">Zobraziť ikonu odmien Kahf v paneli s adresou</translation>
+ <translation id="8495235435594442882">Povoliť spodný panel nástrojov</translation>
+-<translation id="6587448235155023666">Zmeny vašich nastavení sa prejavia pri ďalšom spustení prehliadača Brave</translation>
++<translation id="6587448235155023666">Zmeny vašich nastavení sa prejavia pri ďalšom spustení prehliadača Kahf</translation>
+ <translation id="8701563696941209024">SPUSTIŤ ZNOVA TERAZ</translation>
+ <translation id="834487290629916192">NESKÔR</translation>
+-<translation id="7207456302801184289">Víta vás prehliadač Brave</translation>
++<translation id="7207456302801184289">Víta vás prehliadač Kahf</translation>
+ <translation id="4117451092682672487">Jednoduchý spôsob ochrany vášho súkromia.</translation>
+-<translation id="7909375417585209817">S Brave ako predvoleným prehliadačom sa každý odkaz, na ktorý ťuknete, otvorí s ochranou osobných údajov Brave.</translation>
++<translation id="7909375417585209817">S Kahf ako predvoleným prehliadačom sa každý odkaz, na ktorý ťuknete, otvorí s ochranou osobných údajov Kahf.</translation>
+ <translation id="7370959926683925817">Blokovať reklamy. Uložiť dáta. Každý jeden deň.</translation>
+-<translation id="7281027579943912834">Keď je Brave predvolený, každý odkaz, na ktorý klepnete, získa ochranu proti blokovaniu reklám Brave. Každá stránka, video a stream.</translation>
+-<translation id="5148943178722443958">Pomôžte zlepšiť prehliadač Brave.</translation>
++<translation id="7281027579943912834">Keď je Kahf predvolený, každý odkaz, na ktorý klepnete, získa ochranu proti blokovaniu reklám Kahf. Každá stránka, video a stream.</translation>
++<translation id="5148943178722443958">Pomôžte zlepšiť prehliadač Kahf.</translation>
+ <translation id="6718362830686703942">Odošlite diagnostické správy, ak dôjde k zlyhaniu alebo zamrznutiu.</translation>
+-<translation id="8616157231067364693">Zdieľajte súkromné a anonymné informácie o produktoch, ktoré používatelia Brave používajú.</translation>
++<translation id="8616157231067364693">Zdieľajte súkromné a anonymné informácie o produktoch, ktoré používatelia Kahf používajú.</translation>
+ <translation id="2877653791257935258">Zadajte názov webovej lokality alebo adresu URL</translation>
+-<translation id="5329830149661250028">Všimnite si rozdiel pri používaní prehliadača Brave: Žiadne reklamy. Žiadne sledovacie nástroje. Oveľa rýchlejšie načítanie stránok.</translation>
+-<translation id="3941792073703079607">Pozrite si rozdiel Brave: Blokovanie reklám. Uloženie dát. Rýchlejšie streamovanie.</translation>
+-<translation id="3545804467215833536">Ťuknutím zobrazíte Brave Shields</translation>
+-<translation id="1724327820822194498">Pozrite si všetky obťažujúce prvky, ktoré prehliadač Brave zablokoval na jednotlivých stránkach pomocou funkcie Shields.</translation>
++<translation id="5329830149661250028">Všimnite si rozdiel pri používaní prehliadača Kahf: Žiadne reklamy. Žiadne sledovacie nástroje. Oveľa rýchlejšie načítanie stránok.</translation>
++<translation id="3941792073703079607">Pozrite si rozdiel Kahf: Blokovanie reklám. Uloženie dát. Rýchlejšie streamovanie.</translation>
++<translation id="3545804467215833536">Ťuknutím zobrazíte Kahf Shields</translation>
++<translation id="1724327820822194498">Pozrite si všetky obťažujúce prvky, ktoré prehliadač Kahf zablokoval na jednotlivých stránkach pomocou funkcie Shields.</translation>
+ <translation id="5386259141409498372">Blokovanie <ph name="BIG_TECH"/> a <ph name="TRACKER"/> ďalších reklám a sledovacích nástrojov</translation>
+ <translation id="7256200875155794202">Počet zablokovaných reklám a sledovacích nástrojov: <ph name="BIG_TECH"/></translation>
+ <translation id="3092683655478890840">Počet zablokovaných reklám a sledovacích nástrojov: <ph name="TRACKER_COUNT"/></translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Riešenie problémov pri prvotnom nastavení</translation>
+ <translation id="5808759341041733958">Vyberte predvolený vyhľadávací nástroj</translation>
+ <translation id="1331593888918588693">Svoje predvoľby môžete kedykoľvek zmeniť v nastaveniach aplikácie.</translation>
+-<translation id="5806601733251372221">Brave štíty</translation>
++<translation id="5806601733251372221">Kahf štíty</translation>
+ <translation id="8537217141725709400">Zarábať <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Odmeny Brave</translation>
++<translation id="3333887201479867589">Odmeny Kahf</translation>
+ <translation id="5870330605209713397">prezeraním reklám rešpektujúcich súkromie a podporujete predvolene svoje obľúbené stránky a tvorcov.</translation>
+-<translation id="5302488867897327287">Klepnutím na Začať používať Odmeny Brave vyjadrujete súhlas s</translation>
++<translation id="5302488867897327287">Klepnutím na Začať používať Odmeny Kahf vyjadrujete súhlas s</translation>
+ <translation id="4281844954008187215">Podmienky služby</translation>
+ <translation id="6871397658902960384">Spustiť prehliadač</translation>
+ <translation id="454386012157232640">Nevidel/a som reklamu</translation>
+-<translation id="1448877943847791441">Prehliadač Brave zobrazí vašu prvú reklamu za</translation>
+-<translation id="4410793187232041318">Teraz budete dostávať žetóny z reklám Brave.</translation>
+-<translation id="6511854390690723657">Toto je vaša prvá Brave reklama. Kliknutím zistíte viac.</translation>
+-<translation id="2070991379950719711">Začnite používať Odmeny Brave</translation>
++<translation id="1448877943847791441">Prehliadač Kahf zobrazí vašu prvú reklamu za</translation>
++<translation id="4410793187232041318">Teraz budete dostávať žetóny z reklám Kahf.</translation>
++<translation id="6511854390690723657">Toto je vaša prvá Kahf reklama. Kliknutím zistíte viac.</translation>
++<translation id="2070991379950719711">Začnite používať Odmeny Kahf</translation>
+ <translation id="48520986898237073">Pokračujte do peňaženky</translation>
+ <translation id="3570367516044491911">Nastaviť ako predvolený prehliadač</translation>
+ <translation id="6800338374677644736">Nastaviť ako predvolený prehliadač</translation>
+-<translation id="19715420010996093">Zvoľte si Prehliadač Brave a klepnite na „Vždy“</translation>
+-<translation id="3546439402724649282">Brave je už nastavený ako váš predvolený prehliadač.</translation>
++<translation id="19715420010996093">Zvoľte si Prehliadač Kahf a klepnite na „Vždy“</translation>
++<translation id="3546439402724649282">Kahf je už nastavený ako váš predvolený prehliadač.</translation>
+ <translation id="8389661903259423907">Už ste nastavili predvolený prehliadač. Môžete ho zmeniť v nastaveniach aplikácie.</translation>
+ <translation id="1545749641540134597">Skenovať QR kód</translation>
+ <translation id="5317781812114905957">Pokyny</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Kód vypršal. Vytvorte si nový kliknutím na tlačidlo nižšie.</translation>
+ <translation id="318164877797885563">Dočasný kód je platný <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Ukončiť nastavenia</translation>
+-<translation id="8050847734948770789">Povoliť odmeny Brave</translation>
++<translation id="8050847734948770789">Povoliť odmeny Kahf</translation>
+ <translation id="9187185473011056079">Chcem sa zapojiť!</translation>
+-<translation id="8185825081026121627">Získajte základný token pozornosti za zobrazovanie reklám rešpektujúcich ochranu súkromia pre Odmeny Brave.</translation>
++<translation id="8185825081026121627">Získajte základný token pozornosti za zobrazovanie reklám rešpektujúcich ochranu súkromia pre Odmeny Kahf.</translation>
+ <translation id="5321518976657560663">Resetovať chybu</translation>
+-<translation id="4114170343590425996">Pri resetovaní Brave odmien sa vyskytla chyba. Znova spustite prehliadač Brave a skúste to znova.</translation>
+-<translation id="6417420737057016607">Reklamy Brave</translation>
+-<translation id="5611966874859284786">Zobrazovať reklamy s upozornením, keď sa Brave nepoužíva</translation>
+-<translation id="6606319453795180219">Týmto sa odstránia vaše odmeny Brave a obnovia sa všetky údaje o odmenách Brave</translation>
++<translation id="4114170343590425996">Pri resetovaní Kahf odmien sa vyskytla chyba. Znova spustite prehliadač Kahf a skúste to znova.</translation>
++<translation id="6417420737057016607">Reklamy Kahf</translation>
++<translation id="5611966874859284786">Zobrazovať reklamy s upozornením, keď sa Kahf nepoužíva</translation>
++<translation id="6606319453795180219">Týmto sa odstránia vaše odmeny Kahf a obnovia sa všetky údaje o odmenách Kahf</translation>
+ <translation id="8293206222192510085">Pridať záložku</translation>
+ <translation id="340492034650766959">Odstrániť záložku</translation>
+ <translation id="2149973817440762519">Upraviť záložku</translation>
+@@ -464,35 +464,35 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="5582686930349810484">Používanie odtlačkov prstov blokované (Štandardne)</translation>
+ <translation id="769702552748212954">Povoliť všetky odtlačky prstov</translation>
+ <translation id="876424292214881779">Blokovanie reklám a ďalších nechutných záležitostí</translation>
+-<translation id="6930134873084561197">Webové stránky často obsahujú súbory cookie a skripty, ktoré sa snažia identifikovať vás a vaše zariadenie. Chcú zistiť, kto ste, a sledovať čo robíte na každej stránke naprieč webom.\n\nBrave tieto veci blokuje, takže môžete prehliadať bez toho, aby ste boli všade prenasledovaní.</translation>
+-<translation id="8553998445606452168">O Brave štítoch</translation>
++<translation id="6930134873084561197">Webové stránky často obsahujú súbory cookie a skripty, ktoré sa snažia identifikovať vás a vaše zariadenie. Chcú zistiť, kto ste, a sledovať čo robíte na každej stránke naprieč webom.\n\nKahf tieto veci blokuje, takže môžete prehliadať bez toho, aby ste boli všade prenasledovaní.</translation>
++<translation id="8553998445606452168">O Kahf štítoch</translation>
+ <translation id="8912304686498704084">HORE</translation>
+ <translation id="4963218453264888510">DOLE</translation>
+-<translation id="7474113515179313724">Túto stránku si prezeráte bez ochrany súkromia Brave. Nefunguje to správne, keď sú štíty hore?</translation>
++<translation id="7474113515179313724">Túto stránku si prezeráte bez ochrany súkromia Kahf. Nefunguje to správne, keď sú štíty hore?</translation>
+ <translation id="4226543734057230801">Siete Ethereum</translation>
+ <translation id="3504157706952484145">Siete Filecoin</translation>
+ <translation id="1561541094377237745">Siete Solana</translation>
+ <translation id="7141438739990875547">Siete Bitcoin</translation>
+ <translation id="9055546041146396417">Ak sa táto stránka javí ako poškodená, skúste štíty nadol.</translation>
+ <translation id="1209739344687072997">Nahlásiť nefunkčnú stránku</translation>
+-<translation id="8510478288840333677">Oznámte vývojárom Brave, ak táto stránka nefunguje správne so Štítmi:</translation>
+-<translation id="5429200298326665264">Poznámka: Táto adresa stránky sa odošle s vaším číslom verzie Brave a vašou IP adresou (neuloží sa).</translation>
++<translation id="8510478288840333677">Oznámte vývojárom Kahf, ak táto stránka nefunguje správne so Štítmi:</translation>
++<translation id="5429200298326665264">Poznámka: Táto adresa stránky sa odošle s vaším číslom verzie Kahf a vašou IP adresou (neuloží sa).</translation>
+ <translation id="5299848999918506028">Ďakujeme!</translation>
+-<translation id="76550953340008122">Ďakujeme, že ste vývojárom Brave oznámili, že na tejto stránke je niečo chybné. Urobíme všetko pre to, aby sme to napravili!</translation>
++<translation id="76550953340008122">Ďakujeme, že ste vývojárom Kahf oznámili, že na tejto stránke je niečo chybné. Urobíme všetko pre to, aby sme to napravili!</translation>
+ <translation id="650318023204990401">Pokročilé ovládanie</translation>
+ <translation id="5370478469168390143">Uložiť dáta online</translation>
+-<translation id="1118508688433541158">Prehliadajte rýchlejšie a blokujte reklamy pomocou služby Brave</translation>
+-<translation id="7427391215172269363">Každý deň šetrím dáta prehliadaním webu cez Brave.</translation>
+-<translation id="4776948189086901857">Brave funguje všade</translation>
+-<translation id="1606322780901645965">Stiahnite si prehliadač Brave na brave.com na svoj notebook alebo tablet a získajte rýchlejší a súkromnejší web</translation>
++<translation id="1118508688433541158">Prehliadajte rýchlejšie a blokujte reklamy pomocou služby Kahf</translation>
++<translation id="7427391215172269363">Každý deň šetrím dáta prehliadaním webu cez Kahf.</translation>
++<translation id="4776948189086901857">Kahf funguje všade</translation>
++<translation id="1606322780901645965">Stiahnite si prehliadač Kahf na brave.com na svoj notebook alebo tablet a získajte rýchlejší a súkromnejší web</translation>
+ <translation id="8374242949413616101">Ochrana súkromia</translation>
+-<translation id="4955406228638026265">Prehliadač Brave zabraňuje reklamám a sledovačom zhromažďovať informácie o vás bez vášho súhlasu.</translation>
++<translation id="4955406228638026265">Prehliadač Kahf zabraňuje reklamám a sledovačom zhromažďovať informácie o vás bez vášho súhlasu.</translation>
+ <translation id="752842701893882688">Šetrite dáta a batériu</translation>
+ <translation id="1685837926613452362">Bez reklám a sledovačov, webové stránky používajú menej dát a menej využívajú batériu. Môžete dokonca ušetriť na poplatkoch operátorov.</translation>
+ <translation id="5440744330377972191">Webové stránky sa načítajú rýchlejšie</translation>
+-<translation id="3000738865641747653">Načítanie menšieho počtu dát znamená, že webové stránky sa v prehliadači Brave načítajú rýchlejšie - až 8x rýchlejšie než v iných prehliadačoch.</translation>
++<translation id="3000738865641747653">Načítanie menšieho počtu dát znamená, že webové stránky sa v prehliadači Kahf načítajú rýchlejšie - až 8x rýchlejšie než v iných prehliadačoch.</translation>
+ <translation id="8903462729414407077">Získajte týždenné aktualizácie</translation>
+-<translation id="7450323860390658083">Buďte informovaní o tom, ktoré najnavštevovanejšie webové stránky najviac ohrozujú vaše súkromie.\n\nTieto štatistiky o súkromí sa zobrazujú iba vám. Prehliadač Brave na vašom zariadení nikdy nevypustí žiadne osobné údaje či históriu prehliadania.</translation>
++<translation id="7450323860390658083">Buďte informovaní o tom, ktoré najnavštevovanejšie webové stránky najviac ohrozujú vaše súkromie.\n\nTieto štatistiky o súkromí sa zobrazujú iba vám. Prehliadač Kahf na vašom zariadení nikdy nevypustí žiadne osobné údaje či históriu prehliadania.</translation>
+ <translation id="6170159749517116894">Zapnúť hlásenia o súkromí</translation>
+ <translation id="1669047024429367828">Viditeľnosť</translation>
+ <translation id="5966707198760109579">Týždeň</translation>
+@@ -585,9 +585,9 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="1483493594462132177">Odeslat</translation>
+ <translation id="538450413584738399">Swap</translation>
+ <translation id="4556086616242530072">Vlastný prehliadač.\nVlastná úschova.\nA viacreťazcový.</translation>
+-<translation id="7909462264772842773">Prevezmite kontrolu nad svojimi kryptomenami a NFT. Brave Wallet podporuje Ethereum, reťazce EVM, Solana, Filecoin a ďalšie.</translation>
++<translation id="7909462264772842773">Prevezmite kontrolu nad svojimi kryptomenami a NFT. Kahf Wallet podporuje Ethereum, reťazce EVM, Solana, Filecoin a ďalšie.</translation>
+ <translation id="165255193061631296">Potrebujete novú peňaženku?</translation>
+-<translation id="3485737865439729577">Začnite používať Brave Wallet za pár minút</translation>
++<translation id="3485737865439729577">Začnite používať Kahf Wallet za pár minút</translation>
+ <translation id="2759836790106646094">Teraz zálohovať peňaženku!</translation>
+ <translation id="1078873179929044999">V ďalšom kroku uvidíte 12-slovnú frázu na obnovenie, ktorú môžete použiť na obnovenie svojich základných kryptoúčtov. Uložte si ju na bezpečné miesto. V prípade zabudnutého hesla, strateného alebo ukradnutého zariadenia alebo zmeny peňaženky je fráza na obnovenie jediný spôsob, ako opäť získať prístup k účtu.</translation>
+ <translation id="2359808026110333948">Pokračovať</translation>
+@@ -595,7 +595,7 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="1904000155026201268">Rozumiem, že ak stratím frázu na obnovenie, nebudem mať prístup k svojej kryptopeňaženke.</translation>
+ <translation id="5333225216561354793">Potrebujeme, aby ste potvrdili nasledujúce položky</translation>
+ <translation id="6937275455070754004">Vyberte si, ktoré blokchainy chcete v peňaženke používať.</translation>
+-<translation id="1645800479814134195">Beriem na vedomie, že ide o peňaženku na vlastnú zodpovednosť a že som sám zodpovedný za všetky súvisiace finančné prostriedky, aktíva alebo účty a za prijatie vhodných opatrení na zabezpečenie, ochranu a zálohovanie svojej peňaženky. Beriem na vedomie, že spoločnosť Brave nemôže v mojom mene získať prístup k mojej peňaženke ani zvrátiť transakcie a že fáza obnovy je JEDINÝM spôsobom, ako získať prístup v prípade straty hesla, krádeže zariadenia alebo podobných okolností.</translation>
++<translation id="1645800479814134195">Beriem na vedomie, že ide o peňaženku na vlastnú zodpovednosť a že som sám zodpovedný za všetky súvisiace finančné prostriedky, aktíva alebo účty a za prijatie vhodných opatrení na zabezpečenie, ochranu a zálohovanie svojej peňaženky. Beriem na vedomie, že spoločnosť Kahf nemôže v mojom mene získať prístup k mojej peňaženke ani zvrátiť transakcie a že fáza obnovy je JEDINÝM spôsobom, ako získať prístup v prípade straty hesla, krádeže zariadenia alebo podobných okolností.</translation>
+ <translation id="4565891212173086999">Prečítal som si a súhlasím s <ph name="CLICK_START"/>Podmienkami používania<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Vaša fráza na obnovenie</translation>
+ <translation id="5077747669435508720">napíšte si alebo skopírujte tieto slová presne v uvedenom poradí a uložte si ich na bezpečné miesto. V prípade zabudnutého hesla, strateného alebo ukradnutého zariadenia alebo zmeny peňaženiek je fráza na obnovenie jediný spôsob, ako opäť získať prístup k účtu.</translation>
+@@ -616,13 +616,13 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="8030647312184163932">Odomknutie odtlačkom prsta</translation>
+ <translation id="4090490645603511157">Použite biometrické údaje na rýchle odomykanie peňaženky bez zadania hesla.</translation>
+ <translation id="1544192797660353713">Peňaženka</translation>
+-<translation id="6901810042765869341">Zadajte svoju frázu na obnovenie a obnovte svoj krypto účet Brave Wallet.</translation>
++<translation id="6901810042765869341">Zadajte svoju frázu na obnovenie a obnovte svoj krypto účet Kahf Wallet.</translation>
+ <translation id="9120654436199628567">Obnoviť kryptoúčet</translation>
+ <translation id="4811736040444856406">Zobraziť frázu na obnovenie</translation>
+ <translation id="283071225285270357">Zadajte svoju frázu na obnovenie</translation>
+ <translation id="3943857333388298514">Prilepiť</translation>
+ <translation id="3331452756822160641">Nové heslo</translation>
+-<translation id="4359319875297001084">Importovať zo starších kryptopeňaženiek Brave?</translation>
++<translation id="4359319875297001084">Importovať zo starších kryptopeňaženiek Kahf?</translation>
+ <translation id="2339124864228588937">Overiť frázu na obnovenie</translation>
+ <translation id="3747079125031086337">Vyberte si slová vo svojej fráze na obnovenie v správnom poradí.</translation>
+ <translation id="6518133107902771759">Overiť</translation>
+@@ -656,8 +656,8 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="5760476995887363522">Frázy sa nezhodujú. Skúste to znova.</translation>
+ <translation id="2360588547830602174">Obnovenie účtu zlyhalo. Prosím, skúste to znova.</translation>
+ <translation id="1987317783729300807">Účty</translation>
+-<translation id="6284218950354553099">Automaticky odoslať správu o dennom využívaní službe Brave</translation>
+-<translation id="2181060149810222381">Tento súkromný ping umožňuje spoločnosti Brave odhadnúť počet aktívnych používateľov.</translation>
++<translation id="6284218950354553099">Automaticky odoslať správu o dennom využívaní službe Kahf</translation>
++<translation id="2181060149810222381">Tento súkromný ping umožňuje spoločnosti Kahf odhadnúť počet aktívnych používateľov.</translation>
+ <translation id="6725413948756358325">Název účtu</translation>
+ <translation id="6062431965141524986">Sekundárny účet možno vytvoriť importovaním vášho súkromného kľúča.</translation>
+ <translation id="3952797765659730604">Zadajte, vložte alebo naimportujte súbor s reťazcom súkromného kľúča alebo JSON.</translation>
+@@ -679,14 +679,14 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="1721710839767183848">Žiadne reklamy na stránke</translation>
+ <translation id="4647035642622555398">Žiadne prerušenia</translation>
+ <translation id="4122515759479497554">Vyhľadať videá</translation>
+-<translation id="4449475351935531438">Brave Firewall + VPN</translation>
++<translation id="4449475351935531438">Kahf Firewall + VPN</translation>
+ <translation id="719977489961414786">Prejdite na VPN a ochráňte tak svoje pripojenie a blokujte invazívne sledovacie programy odvšadiaľ.</translation>
+ <translation id="8814357473522731680">Používa technológiu</translation>
+ <translation id="5892534145504632332">Ochráňte každú aplikáciu &amp; celé vaše zariadenie</translation>
+ <translation id="7195416926059527505">Bezpečnejšie pre vašu domácu alebo verejnú Wi-Fi</translation>
+ <translation id="1354700000739359839">Blesková rýchlosť až 100 Mb/s</translation>
+ <translation id="3510283489391432976">Zvoľte svoju geografickú polohu/krajinu</translation>
+-<translation id="7695158478627528928">Brave vašu aktivitu nikdy nezaznamenáva</translation>
++<translation id="7695158478627528928">Kahf vašu aktivitu nikdy nezaznamenáva</translation>
+ <translation id="4575683170451975058">1 predplatným ochráňte 5 zariadení</translation>
+ <translation id="4882693590083943563">Všetky plány obsahujú <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">7-dňová skúšobná verzia zadarmo!</translation>
+@@ -697,14 +697,14 @@ Naozaj chcete pokračovať?</translation>
+ <translation id="1163809943099641131">Jeden rok</translation>
+ <translation id="172859718096975160">Obnovte si každoročne <ph name="DISCOUNT_TEXT_START"/>ušetrite <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / yr.</translation>
+-<translation id="5125233570742276182">Predplatné sa bude účtovať prostredníctvom vášho účtu Google. Akákoľvek nevyužitá časť bezplatnej skúšobnej verzie, ak je v ponuke, prepadne pri zakúpení predplatného.\n\nVaše predplatné sa automaticky obnoví, ak nebude zrušené aspoň 24 hodín pred koncom aktuálneho obdobia.\n\nSvoje odbery môžete spravovať v Nastaveniach.\nPoužívaním Brave súhlasíte s Podmienkami používania a Zásadami ochrany osobných údajov.</translation>
++<translation id="5125233570742276182">Predplatné sa bude účtovať prostredníctvom vášho účtu Google. Akákoľvek nevyužitá časť bezplatnej skúšobnej verzie, ak je v ponuke, prepadne pri zakúpení predplatného.\n\nVaše predplatné sa automaticky obnoví, ak nebude zrušené aspoň 24 hodín pred koncom aktuálneho obdobia.\n\nSvoje odbery môžete spravovať v Nastaveniach.\nPoužívaním Kahf súhlasíte s Podmienkami používania a Zásadami ochrany osobných údajov.</translation>
+ <translation id="5035172357624830412">Už ste nakupovali na brave.com?</translation>
+ <translation id="713136183174551885">Obnovte si svoje poverenia</translation>
+ <translation id="6053992191006521518">Vyskúšajte ZADARMO</translation>
+ <translation id="5903391101107992067">Vyskúšajte na 7 dní zadarmo</translation>
+ <translation id="721747358270435486">Inštalovať VPN</translation>
+ <translation id="836074276610740314">Nainštalovať profil VPN</translation>
+-<translation id="8021842065465097929">Brave teraz nainštaluje profil VPN.</translation>
++<translation id="8021842065465097929">Kahf teraz nainštaluje profil VPN.</translation>
+ <translation id="229286271464650057">Tento profil umožňuje sieti VPN automaticky sa pripojiť a zabezpečiť prevádzku v celom zariadení — v každej aplikácii a neustále. Toto pripojenie VPN bude šifrované a presmerované cez inteligentný firewall spoločnosti Guardian, ktorý blokuje reklamy a sledovacie programy.</translation>
+ <translation id="9073255657908892407">Kontaktovať technickú podporu</translation>
+ <translation id="1139934321138152517">VPN je zapnutá</translation>
+@@ -932,19 +932,19 @@ Ak túto žiadosť neprijmete, VPN sa znova nepripojí a vaše pripojenie na int
+ <translation id="7002577172732106572">Rozdeliť tunelovanie</translation>
+ <translation id="8181161042860463420">Priradený tokenový účet zatiaľ neexistuje. Na jeho vytvorenie a financovanie sa vynaloží malé množstvo SOL. <ph name="CLICK_START"/>Viac informácií<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Aktualizuje sa profil VPN...</translation>
+-<translation id="7457027586454688423">Zadajte heslo do peňaženky Brave</translation>
+-<translation id="4784306439879850873">Upozorňujeme, že Brave nedokáže overiť, čo sa stane, ak sa prihlásite. Podpisom sa dá schváliť takmer každá operácia na vašom účte alebo vo vašom mene, vrátane (okrem iného) poskytnutia úplnej kontroly nad vaším účtom a kryptoaktívami v prospech stránky vytvárajúcej žiadosť.  Podpíšte sa len vtedy, ak ste si istí, že chcete túto akciu vykonať a že dôverujete žiadajúcej stránke.</translation>
++<translation id="7457027586454688423">Zadajte heslo do peňaženky Kahf</translation>
++<translation id="4784306439879850873">Upozorňujeme, že Kahf nedokáže overiť, čo sa stane, ak sa prihlásite. Podpisom sa dá schváliť takmer každá operácia na vašom účte alebo vo vašom mene, vrátane (okrem iného) poskytnutia úplnej kontroly nad vaším účtom a kryptoaktívami v prospech stránky vytvárajúcej žiadosť.  Podpíšte sa len vtedy, ak ste si istí, že chcete túto akciu vykonať a že dôverujete žiadajúcej stránke.</translation>
+ <translation id="3474375934783434676">Zaregistrujte sa na vlastné riziko</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> z <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Schváliť transakciu</translation>
+ <translation id="6450792191436242818">Systémový program</translation>
+-<translation id="5318067544026930166">Odomknúť peňaženku Brave pomocou biometrického overovania</translation>
+-<translation id="2629767022373384291">Chcete používať biometrické overovanie na otvorenie peňaženky Brave?</translation>
++<translation id="5318067544026930166">Odomknúť peňaženku Kahf pomocou biometrického overovania</translation>
++<translation id="2629767022373384291">Chcete používať biometrické overovanie na otvorenie peňaženky Kahf?</translation>
+ <translation id="4782919977106118997">Použiť odtlačok prsta na odomknutie</translation>
+ <translation id="2054995875643283428">Teraz preskočiť</translation>
+ <translation id="2522605225061484799">Prejsť do môjho portfólia</translation>
+ <translation id="1148624853678088576">Všetko je pripravené!</translation>
+-<translation id="4131445988101719379">Vaša peňaženka Brave je pripravená na použitie</translation>
++<translation id="4131445988101719379">Vaša peňaženka Kahf je pripravená na použitie</translation>
+ <translation id="6252742184395380448">Konfiguračný program</translation>
+ <translation id="5358970666412490132">Program s podielmi</translation>
+ <translation id="346636227344244984">Program hlasovania</translation>
+@@ -1016,22 +1016,22 @@ Ak túto žiadosť neprijmete, VPN sa znova nepripojí a vaše pripojenie na int
+ <translation id="1313065465616456728">Vydané o</translation>
+ <translation id="7902225556763260253">Čas vypršania platnosti</translation>
+ <translation id="1908159733454294871">Zistené bezpečnostné riziko</translation>
+-<translation id="5658257029899993935">Prepojenie nákupu s účtom Brave</translation>
+-<translation id="1187061015547219282">Prepojte svoj nákup v Obchode Play s účtom Brave a používajte Brave VPN na iných zariadeniach.</translation>
++<translation id="5658257029899993935">Prepojenie nákupu s účtom Kahf</translation>
++<translation id="1187061015547219282">Prepojte svoj nákup v Obchode Play s účtom Kahf a používajte Kahf VPN na iných zariadeniach.</translation>
+ <translation id="6662142137695589205">Prepojenie predplatného siete VPN</translation>
+-<translation id="2674077112509133024">Rozšírenie ochrany Brave Firewall + VPN</translation>
+-<translation id="6365389672683343144">Predplatné Brave VPN môže chrániť až 5 zariadení so systémom Android, iOS a počítač. Stačí prepojiť predplatné Google Play s účtom Brave.</translation>
++<translation id="2674077112509133024">Rozšírenie ochrany Kahf Firewall + VPN</translation>
++<translation id="6365389672683343144">Predplatné Kahf VPN môže chrániť až 5 zariadení so systémom Android, iOS a počítač. Stačí prepojiť predplatné Google Play s účtom Kahf.</translation>
+ <translation id="6610899852831463073">Nepodarilo sa aktivovať Bezpečné prehliadanie</translation>
+ <translation id="7954263306665462056">Bezpečné prehliadanie je vo vašom zariadení deaktivované. Ak ho chcete aktivovať, uistite sa, že máte nainštalované a aktualizované služby Google Play.</translation>
+ <translation id="6605147707233193230">Zapnite, aby ste pomohli podporiť tvorov obsahu</translation>
+ <translation id="1609556006143307897">Pomáhate podporovať tvorcov obsahu</translation>
+-<translation id="6067959437127691361">Používanie Brave Odmien podporuje tvorcov obsahu a umožňuje vám zarábať BAT.</translation>
++<translation id="6067959437127691361">Používanie Kahf Odmien podporuje tvorcov obsahu a umožňuje vám zarábať BAT.</translation>
+ <translation id="3264975266761862670">Ste pripravení začať zarábať?</translation>
+ <translation id="265337947574975838">Pripojte alebo si vytvorte účet u niektorého z našich partnerov.</translation>
+ <translation id="654447476965480878">Získajte viac informácií o zarábaní BAT</translation>
+ <translation id="6278643716658443228">Nastavenia odmien</translation>
+ <translation id="6516984207843289176">Pripojiť účet</translation>
+-<translation id="4272136334824111854">Tento mesiac ste navštívili <ph name="CREATOR_COUNT"/> tvorcov s podporou Brave Rewards</translation>
++<translation id="4272136334824111854">Tento mesiac ste navštívili <ph name="CREATOR_COUNT"/> tvorcov s podporou Kahf Rewards</translation>
+ <translation id="6845311459433734326">Pripojte správcovský účet, aby ste mohli začať zarábať BAT a vyberať odmeny</translation>
+ <translation id="928980476243133540">Urobím to neskôr</translation>
+ <translation id="579702532610384533">Znova pripojiť</translation>
+@@ -1064,8 +1064,8 @@ Ak túto žiadosť neprijmete, VPN sa znova nepripojí a vaše pripojenie na int
+ <translation id="346505172740911461">Trhová cena</translation>
+ <translation id="5494920125229734069">Vybrať všetko</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Prihláste sa pomocou peňaženky Brave</translation>
+-<translation id="3696514931437952995">Prihlasujete sa do <ph name="ORIGIN"/>. Peňaženka Brave bude zdieľať adresu vašej peňaženky s <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Prihláste sa pomocou peňaženky Kahf</translation>
++<translation id="3696514931437952995">Prihlasujete sa do <ph name="ORIGIN"/>. Peňaženka Kahf bude zdieľať adresu vašej peňaženky s <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Zobraziť podrobnosti</translation>
+ <translation id="6759710362319508545">Zdroje</translation>
+ <translation id="2471230424465522689">Nie pred</translation>
+@@ -1074,7 +1074,7 @@ Ak túto žiadosť neprijmete, VPN sa znova nepripojí a vaše pripojenie na int
+ <translation id="4109670531935487117">Zobraziť návrhy automatického dokončovania na paneli s adresou</translation>
+ <translation id="1250335737108905610">Resetovať a vymazať údaje asistenta Leo</translation>
+ <translation id="6165101586663336913">Reštart asistenta Leo bude vyžadovať, aby ste sa v budúcnosti prihlásili na používanie Leo a tiež vymaže vašu históriu chatu. Vymazaním histórie chatu sa vymažú všetky vaše predchádzajúce konverzácie s asistentom Leo. Túto akciu nie je možné vrátiť späť.</translation>
+-<translation id="3692772534525889713">Prepojte nákup v Obchode Play so svojím účtom Brave a používajte Brave Leo na iných zariadeniach.</translation>
++<translation id="3692772534525889713">Prepojte nákup v Obchode Play so svojím účtom Kahf a používajte Kahf Leo na iných zariadeniach.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Mesačne</translation>
+ <translation id="451189393813405346">Opýtajte sa Lea</translation>

@@ -1,0 +1,294 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_sw.xtb b/browser/ui/android/strings/translations/android_brave_strings_sw.xtb	(rejected hunks)
+@@ -98,13 +98,13 @@
+ <translation id="863171915776379000">Ruhusu kuingia kwenye akaunti kupitia Facebook na makala zilizoshikizwa</translation>
+ <translation id="5165042248369837294">Ruhusu makala za Twitter zilizoshikizwa</translation>
+ <translation id="958971637207126733">Ruhusu makala za LinkedIn zilizoshikizwa</translation>
+-<translation id="6302422639282249274">Dhibiti Zawadi za Brave</translation>
++<translation id="6302422639282249274">Dhibiti Zawadi za Kahf</translation>
+ <translation id="2709516037105925701">Kujaza Kiotomatiki</translation>
+ <translation id="8617525558807213034">Jaza kiotomatiki katika vichupo vya faragha</translation>
+ <translation id="8685431198160039193">Maelezo yaliyohifadhiwa yanaweza kujazwa kiotomatiki katika vichupo vya faragha</translation>
+ <translation id="6583902294974160967">Usaidizi</translation>
+ <translation id="1799030480311994998">Vipengele</translation>
+-<translation id="2005732746077850308">Ngao za Brave na amp;amp; Faragha</translation>
++<translation id="2005732746077850308">Ngao za Kahf na amp;amp; Faragha</translation>
+ <translation id="4692623383562244444">Mitambo ya utafutaji</translation>
+ <translation id="1468415711258933398">Kichupo cha Kawaida</translation>
+ <translation id="3377025655491224618">Kichupo cha Faragha</translation>
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Pata habari zaidi kuhusu Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Ruhusu (Zindua Upya Sasa)</translation>
+ <translation id="2433507940547922241">Sura</translation>
+-<translation id="9040069796107003510">Aikoni ya Tuzo za Brave</translation>
+-<translation id="6333347122924254968">Onyesha ikoni ya Brave Rewards kwenye upau wa anwani</translation>
++<translation id="9040069796107003510">Aikoni ya Tuzo za Kahf</translation>
++<translation id="6333347122924254968">Onyesha ikoni ya Kahf Rewards kwenye upau wa anwani</translation>
+ <translation id="8495235435594442882">Washa upau wa zana wa chini</translation>
+-<translation id="6587448235155023666">Mabadiliko yako yatatekelezwa utakapofungua upya Brave</translation>
++<translation id="6587448235155023666">Mabadiliko yako yatatekelezwa utakapofungua upya Kahf</translation>
+ <translation id="8701563696941209024">WASHA UPYA SASA</translation>
+ <translation id="834487290629916192">BAADAYE</translation>
+-<translation id="7207456302801184289">Karibu kwenye Brave</translation>
++<translation id="7207456302801184289">Karibu kwenye Kahf</translation>
+ <translation id="4117451092682672487">Faragha. Imerahisishwa.</translation>
+-<translation id="7909375417585209817">Ukiwa na Brave kama chaguo-msingi, kila kiungo unachogusa hufunguka kikiwa na ulinzi wa faragha wa Brave.</translation>
++<translation id="7909375417585209817">Ukiwa na Kahf kama chaguo-msingi, kila kiungo unachogusa hufunguka kikiwa na ulinzi wa faragha wa Kahf.</translation>
+ <translation id="7370959926683925817">Zuia matangazo. Hifadhi data. Kila siku.</translation>
+-<translation id="7281027579943912834">Ukiwa na Brave kama chaguomsingi, kila kiungo unachogusa hupata ulinzi wa kuzuia matangazo wa Brave. Kila ukurasa, video, na utiririshaji.</translation>
+-<translation id="5148943178722443958">Saidia kuboresha Brave.</translation>
++<translation id="7281027579943912834">Ukiwa na Kahf kama chaguomsingi, kila kiungo unachogusa hupata ulinzi wa kuzuia matangazo wa Kahf. Kila ukurasa, video, na utiririshaji.</translation>
++<translation id="5148943178722443958">Saidia kuboresha Kahf.</translation>
+ <translation id="6718362830686703942">Tuma ripoti za uchunguzi wa kubainisha matatizo ikiwa utakabiliwa na programu kuacha kufanya kazi vyema au kukwama.</translation>
+-<translation id="8616157231067364693">Shiriki maarifa ya bidhaa ya faragha na yasiyokutambulisha kuhusu ni vipengele vipi vinavyotumiwa na watumiaji wa Brave.</translation>
++<translation id="8616157231067364693">Shiriki maarifa ya bidhaa ya faragha na yasiyokutambulisha kuhusu ni vipengele vipi vinavyotumiwa na watumiaji wa Kahf.</translation>
+ <translation id="2877653791257935258">Charaza jina la tovuti au URL</translation>
+-<translation id="5329830149661250028">Ona tofauti ya Brave: Hakuna matangazo. Hakuna vifuatiliaji. Upakiaji wa haraka mno wa ukurasa.</translation>
+-<translation id="3941792073703079607">Tazama tofauti ya Brave: Zuia matangazo. Hifadhi data. Tiririsha haraka zaidi.</translation>
+-<translation id="3545804467215833536">Gusa ili utazame Brave Shields</translation>
+-<translation id="1724327820822194498">Tazama mambo yote mabaya ambayo Brave imezuia katika kila ukurasa, kwa Shields.</translation>
++<translation id="5329830149661250028">Ona tofauti ya Kahf: Hakuna matangazo. Hakuna vifuatiliaji. Upakiaji wa haraka mno wa ukurasa.</translation>
++<translation id="3941792073703079607">Tazama tofauti ya Kahf: Zuia matangazo. Hifadhi data. Tiririsha haraka zaidi.</translation>
++<translation id="3545804467215833536">Gusa ili utazame Kahf Shields</translation>
++<translation id="1724327820822194498">Tazama mambo yote mabaya ambayo Kahf imezuia katika kila ukurasa, kwa Shields.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> na matangazo na vifuatiliaji vingine vya<ph name="TRACKER"/> vilivyozuiwa</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> na matangazo mengine na vifuatiliaji vimezuiwa</translation>
+ <translation id="3092683655478890840">Matangazo na vifuatiliaji vya<ph name="TRACKER_COUNT"/>vimezuiwa</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Utatuzi na usajili</translation>
+ <translation id="5808759341041733958">Chagua mtambo chaguo msingi wa kutafuta</translation>
+ <translation id="1331593888918588693">Unaweza kubadilisha mapendeleo yako baadaye wakati wowote katika mipangilio.</translation>
+-<translation id="5806601733251372221">Vilinzi vya Brave</translation>
++<translation id="5806601733251372221">Vilinzi vya Kahf</translation>
+ <translation id="8537217141725709400">Pata <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Brave Rewards</translation>
++<translation id="3333887201479867589">Kahf Rewards</translation>
+ <translation id="5870330605209713397">kwa kutazama matangazo ya yanayoheshimu faragha na usaidizi wa tovuti zako uzipendazo na waundaji kwa chaguomsingi.</translation>
+-<translation id="5302488867897327287">Kwa kugusa Anza kutumia Zawadi za Brave, unakubali</translation>
++<translation id="5302488867897327287">Kwa kugusa Anza kutumia Zawadi za Kahf, unakubali</translation>
+ <translation id="4281844954008187215">Masharti ya Huduma</translation>
+ <translation id="6871397658902960384">Anza kuvinjari</translation>
+ <translation id="454386012157232640">Sikuona tangazo</translation>
+-<translation id="1448877943847791441">Brave itaonyesha tangazo lako la kwanza</translation>
+-<translation id="4410793187232041318">Sasa utapata tokeni kutoka Brave Ads.</translation>
+-<translation id="6511854390690723657">Hili ni tangazo lako la kwanza la Brave. Gusa upate maelezo zaidi.</translation>
+-<translation id="2070991379950719711">Anza kutumia Zawadi za Brave</translation>
++<translation id="1448877943847791441">Kahf itaonyesha tangazo lako la kwanza</translation>
++<translation id="4410793187232041318">Sasa utapata tokeni kutoka Kahf Ads.</translation>
++<translation id="6511854390690723657">Hili ni tangazo lako la kwanza la Kahf. Gusa upate maelezo zaidi.</translation>
++<translation id="2070991379950719711">Anza kutumia Zawadi za Kahf</translation>
+ <translation id="48520986898237073">Nenda kwenye kipochi</translation>
+ <translation id="3570367516044491911">Weka kiwe kivinjari chaguo msingi</translation>
+ <translation id="6800338374677644736">Weka kuwa Kivinjari Chaguo Msingi</translation>
+-<translation id="19715420010996093">Chagua Brave Browser na ubofye 'Daima'</translation>
+-<translation id="3546439402724649282">Brave tayari imewekwa kuwa kivinjari chako chaguo msingi.</translation>
++<translation id="19715420010996093">Chagua Kahf Browser na ubofye 'Daima'</translation>
++<translation id="3546439402724649282">Kahf tayari imewekwa kuwa kivinjari chako chaguo msingi.</translation>
+ <translation id="8389661903259423907">Tayari umeweka kivinjari chaguo msingi. Unaweza kubadilisha kivinjari chaguo msingi katika mipangilio ya programu yako.</translation>
+ <translation id="1545749641540134597">Kagua Msimbo wa QR</translation>
+ <translation id="5317781812114905957">Maagizo</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Muda wa kutumika kwa msimbo umeisha. Zalisha mpya kwa kubofya kitufe kilicho hapo chini.</translation>
+ <translation id="318164877797885563">Msimbo huu wa muda unaweza kutumika kwa <ph name="TIME_AMOUNT"/> zijazo</translation>
+ <translation id="327726072512457161">Kufunga mipangilio</translation>
+-<translation id="8050847734948770789">Wezesha Zawadi za Brave</translation>
++<translation id="8050847734948770789">Wezesha Zawadi za Kahf</translation>
+ <translation id="9187185473011056079">Nakubali!</translation>
+-<translation id="8185825081026121627">Pata Basic Attention Token kwa kutazama matangazo ya Brave Rewards yanayodumisha faragha.</translation>
++<translation id="8185825081026121627">Pata Basic Attention Token kwa kutazama matangazo ya Kahf Rewards yanayodumisha faragha.</translation>
+ <translation id="5321518976657560663">Hitilafu ya Kuweka Upya</translation>
+-<translation id="4114170343590425996">Hitilafu imetokea wakati wa kuweka upya Zawadi za Brave. Tafadhali fungua upya Brave kisha ujaribu tena.</translation>
+-<translation id="6417420737057016607">Matangazo ya Brave</translation>
+-<translation id="5611966874859284786">Onyesha matangazo ya arifa wakati Brave haitumiki</translation>
+-<translation id="6606319453795180219">Hii itafuta Zawadi zako za Brave na kuweka upya data yako yote ya Zawadi za Brave</translation>
++<translation id="4114170343590425996">Hitilafu imetokea wakati wa kuweka upya Zawadi za Kahf. Tafadhali fungua upya Kahf kisha ujaribu tena.</translation>
++<translation id="6417420737057016607">Matangazo ya Kahf</translation>
++<translation id="5611966874859284786">Onyesha matangazo ya arifa wakati Kahf haitumiki</translation>
++<translation id="6606319453795180219">Hii itafuta Zawadi zako za Kahf na kuweka upya data yako yote ya Zawadi za Kahf</translation>
+ <translation id="8293206222192510085">Ongeza Alamisho</translation>
+ <translation id="340492034650766959">Futa Alamisho</translation>
+ <translation id="2149973817440762519">Badilisha Alamisho</translation>
+@@ -464,35 +464,35 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="5582686930349810484">Alama ya kidole imezuiwa (kawaida)</translation>
+ <translation id="769702552748212954">Ruhusu uchapishaji wote wa alama za vidole</translation>
+ <translation id="876424292214881779">Matangazo na mambo mengine ya ajabu yamezuiwa</translation>
+-<translation id="6930134873084561197">Mara nyingi tovuti zinajumuisha vidakuzi na hati ambazo hujaribu kukutambua wewe na kifaa chako. Zinataka kujua wewe ni nani na kukufuata kwenye wavuti ili kujua unachokifanya kwenye kila tovuti.\n\nBrave huzuia mambo haya ili uweze kuvinjari bila kufuatiliwa.</translation>
+-<translation id="8553998445606452168">Kuhusu Brave Shields</translation>
++<translation id="6930134873084561197">Mara nyingi tovuti zinajumuisha vidakuzi na hati ambazo hujaribu kukutambua wewe na kifaa chako. Zinataka kujua wewe ni nani na kukufuata kwenye wavuti ili kujua unachokifanya kwenye kila tovuti.\n\nKahf huzuia mambo haya ili uweze kuvinjari bila kufuatiliwa.</translation>
++<translation id="8553998445606452168">Kuhusu Kahf Shields</translation>
+ <translation id="8912304686498704084">JUU</translation>
+ <translation id="4963218453264888510">CHINI</translation>
+-<translation id="7474113515179313724">Unavinjari tovuti hii bila ulinzi wa faragha wa Brave. Haifanyi kazi vizuri na Shields?</translation>
++<translation id="7474113515179313724">Unavinjari tovuti hii bila ulinzi wa faragha wa Kahf. Haifanyi kazi vizuri na Shields?</translation>
+ <translation id="4226543734057230801">Mitandao ya Ethereum</translation>
+ <translation id="3504157706952484145">Mitandao ya Filecoin</translation>
+ <translation id="1561541094377237745">Mitandao ya Solana</translation>
+ <translation id="7141438739990875547">Mitandao ya Bitcoin</translation>
+ <translation id="9055546041146396417">Ikiwa tovuti inaonekana kuwa na kasoro, jaribu Shields hapa chini.</translation>
+ <translation id="1209739344687072997">Ripoti tovuti yenye hitilafu</translation>
+-<translation id="8510478288840333677">Wafahamishe wasanidi programu wa Brave kuwa tovuti hii haifanyi kazi vizuri kwa Shields:</translation>
+-<translation id="5429200298326665264">Dokezo: Anwani hii ya tovuti itawasilishwa pamoja na nambari yako ya toleo la Brave na anwani yako ya IP(ambayo haitahifadhiwa).</translation>
++<translation id="8510478288840333677">Wafahamishe wasanidi programu wa Kahf kuwa tovuti hii haifanyi kazi vizuri kwa Shields:</translation>
++<translation id="5429200298326665264">Dokezo: Anwani hii ya tovuti itawasilishwa pamoja na nambari yako ya toleo la Kahf na anwani yako ya IP(ambayo haitahifadhiwa).</translation>
+ <translation id="5299848999918506028">Asante!</translation>
+-<translation id="76550953340008122">Asante kwa kufahamisha wasanidi programu wa Brave kuwa kuna tatizo kwenye tovuti hii. Tutajitahidi kulitatua!</translation>
++<translation id="76550953340008122">Asante kwa kufahamisha wasanidi programu wa Kahf kuwa kuna tatizo kwenye tovuti hii. Tutajitahidi kulitatua!</translation>
+ <translation id="650318023204990401">Vidhibiti vya hali ya juu</translation>
+ <translation id="5370478469168390143">Hifadhi Data Mtandaoni</translation>
+-<translation id="1118508688433541158">Vinjari kwa haraka na uzuie matangazo ukitumia Brave</translation>
+-<translation id="7427391215172269363">Kila siku ninaokoa data kwa kuvinjari Wavuti nikitumia Brave.</translation>
+-<translation id="4776948189086901857">Brave hufanya kazi kila mahali</translation>
+-<translation id="1606322780901645965">Pakua Brave kutoka brave.com kwenye kipakatalishi au tableti yako kwa wavuti wa haraka na faragha zaidi</translation>
++<translation id="1118508688433541158">Vinjari kwa haraka na uzuie matangazo ukitumia Kahf</translation>
++<translation id="7427391215172269363">Kila siku ninaokoa data kwa kuvinjari Wavuti nikitumia Kahf.</translation>
++<translation id="4776948189086901857">Kahf hufanya kazi kila mahali</translation>
++<translation id="1606322780901645965">Pakua Kahf kutoka brave.com kwenye kipakatalishi au tableti yako kwa wavuti wa haraka na faragha zaidi</translation>
+ <translation id="8374242949413616101">Ulinzi wa faragha</translation>
+-<translation id="4955406228638026265">Brave husimamisha matangazo na vifuatiliaji kukusanya taarifa kukuhusu bila idhini yako.</translation>
++<translation id="4955406228638026265">Kahf husimamisha matangazo na vifuatiliaji kukusanya taarifa kukuhusu bila idhini yako.</translation>
+ <translation id="752842701893882688">Okoa data na betri</translation>
+ <translation id="1685837926613452362">Bila matangazo na vifuatiliaji, tovuti hutumia data na betri kidogo. Huenda hata ukaokoa pesa kwenye ada za usafirishaji.</translation>
+ <translation id="5440744330377972191">Tovuti hupakia haraka</translation>
+-<translation id="3000738865641747653">Kupakia data kidogo kunamaanisha tovuti katika Brave hupakia haraka - hadi mara 8 haraka kuliko vivinjari vingine.</translation>
++<translation id="3000738865641747653">Kupakia data kidogo kunamaanisha tovuti katika Kahf hupakia haraka - hadi mara 8 haraka kuliko vivinjari vingine.</translation>
+ <translation id="8903462729414407077">Pata taarifa za kila wiki</translation>
+-<translation id="7450323860390658083">Fahamu kuhusu tovuti unazotembelea zina faragha zaidi.\n\nNi wewe tu unayeweza kuona takwimu hizi za faragha. Hakuna data binafsi wala historia ya kuvinjari inatoka kwenye kivinjari cha Brave kwenye kifaa chako.</translation>
++<translation id="7450323860390658083">Fahamu kuhusu tovuti unazotembelea zina faragha zaidi.\n\nNi wewe tu unayeweza kuona takwimu hizi za faragha. Hakuna data binafsi wala historia ya kuvinjari inatoka kwenye kivinjari cha Kahf kwenye kifaa chako.</translation>
+ <translation id="6170159749517116894">Washa ripoti za faragha</translation>
+ <translation id="1669047024429367828">Uonekanaji</translation>
+ <translation id="5966707198760109579">Wiki</translation>
+@@ -585,9 +585,9 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="1483493594462132177">Tuma</translation>
+ <translation id="538450413584738399">Swap</translation>
+ <translation id="4556086616242530072">Asili ya kivinjari.\nJihifadhie.\nNa ya majukwaa mengi.</translation>
+-<translation id="7909462264772842773">Dhibiti crypto na NFT zako. Brave Wallet huwezesha matumizi ya Ethereum, mitungo ya EVM, Solana, Filecoin, na zaidi.</translation>
++<translation id="7909462264772842773">Dhibiti crypto na NFT zako. Kahf Wallet huwezesha matumizi ya Ethereum, mitungo ya EVM, Solana, Filecoin, na zaidi.</translation>
+ <translation id="165255193061631296">Unahitaji pochi mpya?</translation>
+-<translation id="3485737865439729577">Anza kutumia Brave Wallet ndani ya dakika chache</translation>
++<translation id="3485737865439729577">Anza kutumia Kahf Wallet ndani ya dakika chache</translation>
+ <translation id="2759836790106646094">Hifadhi nakala ya pochi yako sasa hivi!</translation>
+ <translation id="1078873179929044999">Katika hatua inayofuata utaona kauli ya urejeshaji ya maneno 12, ambayo unaweza kutumia kurejesha akaunti zako za msingi za crypto. Ihifadhi eneo salama. Kauli yako ya urejeshaji ni njia tu ya kupata uwezo wa kufikia akaunti endapo umesahau nenosiri, umepoteza au kifaa kimeibwa, au unataka kubadilisha pochi.</translation>
+ <translation id="2359808026110333948">Endelea</translation>
+@@ -595,7 +595,7 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="1904000155026201268">Ninaelewa kwamba ikiwa nitapoteza uwezo wangu wa kulipa, sitaweza kufikia pochi yangu ya crpto.</translation>
+ <translation id="5333225216561354793">Tunahitaji uthibitishe vipengee vilivyo hapa chini</translation>
+ <translation id="6937275455070754004">Chagua mitandao ya kutumia kwenye pochi yako.</translation>
+-<translation id="1645800479814134195">Ninaelewa kuwa hii ni pochi ya uangalizi binafsi, na kwamba ni mimi pekee ninawajibika kwa fedha, mali au akaunti zozote zinazohusiana, na kuchukua hatua inayofaa ili kulinda, kutunza na kuhifadhi nakala rudufu ya pochi yangu. Ninaelewa kuwa Brave haiwezi kufikia pochi yangu au kubatilisha miamala kwa niaba yangu, na kwamba kifungu changu cha maneno cha kurejesha ufikiaji ndicho njia ya PEKEE ya kupata tena ufikiaji ikiwa nenosiri litapotea, kifaa kitaibiwa au hali kama hiyo.</translation>
++<translation id="1645800479814134195">Ninaelewa kuwa hii ni pochi ya uangalizi binafsi, na kwamba ni mimi pekee ninawajibika kwa fedha, mali au akaunti zozote zinazohusiana, na kuchukua hatua inayofaa ili kulinda, kutunza na kuhifadhi nakala rudufu ya pochi yangu. Ninaelewa kuwa Kahf haiwezi kufikia pochi yangu au kubatilisha miamala kwa niaba yangu, na kwamba kifungu changu cha maneno cha kurejesha ufikiaji ndicho njia ya PEKEE ya kupata tena ufikiaji ikiwa nenosiri litapotea, kifaa kitaibiwa au hali kama hiyo.</translation>
+ <translation id="4565891212173086999">Nimesoma na ninakubali <ph name="CLICK_START"/>Masharti ya Matumizi<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Kaulisiri yako ya urejeshaji</translation>
+ <translation id="5077747669435508720">Andika au nakili maneno haya katika mpangilio kamili ulioonyeshwa hapa chini na uyahifadhi mahali salama. Kauli yako ya urejeshaji ni njia tu ya kupata uwezo wa ufikiaji endapo umesahau nenosiri, umepoteza au kifaa kimeibwa, unataka kubadilisha pochi.</translation>
+@@ -616,13 +616,13 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="8030647312184163932">Kufungua kwa alama ya kidole</translation>
+ <translation id="4090490645603511157">Tumia bayometriki ili kufungua pochi yako haraka bila kuingiza nenosiri lako.</translation>
+ <translation id="1544192797660353713">Pochi</translation>
+-<translation id="6901810042765869341">Weka kaulisiri yako ya urejeshaji ili kurejesha akaunti yako ya crypto ya Brave Wallet.</translation>
++<translation id="6901810042765869341">Weka kaulisiri yako ya urejeshaji ili kurejesha akaunti yako ya crypto ya Kahf Wallet.</translation>
+ <translation id="9120654436199628567">Rejesha akaunti ya crypto</translation>
+ <translation id="4811736040444856406">Onyesha kaulisiri ya urejeshaji</translation>
+ <translation id="283071225285270357">Weka kaulisiri yako ya urejeshaji</translation>
+ <translation id="3943857333388298514">Bandika</translation>
+ <translation id="3331452756822160641">Nenosiri Jipya</translation>
+-<translation id="4359319875297001084">Leta kutoka kwenye pochi za jadi za crypto ya Brave?</translation>
++<translation id="4359319875297001084">Leta kutoka kwenye pochi za jadi za crypto ya Kahf?</translation>
+ <translation id="2339124864228588937">Thibitisha kaulisiri ya urejeshaji</translation>
+ <translation id="3747079125031086337">Teua maneno katika kauli yako ya urejeshaji katika mpangilio wayo sahihi.</translation>
+ <translation id="6518133107902771759">Thibitisha</translation>
+@@ -656,8 +656,8 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="5760476995887363522">Kauli hazikulingana. Tafadhali jaribu tena.</translation>
+ <translation id="2360588547830602174">Urejeshaji wa akaunti haujafaulu. Tafadhali jaribu tena.</translation>
+ <translation id="1987317783729300807">Akaunti</translation>
+-<translation id="6284218950354553099">Tuma kiotomatiki mlio wa matumizi ya kila siku kwa Brave</translation>
+-<translation id="2181060149810222381">Pingi hii ya faragha huruhusu Brave kukadiria watumiaji wanaotumia huduma.</translation>
++<translation id="6284218950354553099">Tuma kiotomatiki mlio wa matumizi ya kila siku kwa Kahf</translation>
++<translation id="2181060149810222381">Pingi hii ya faragha huruhusu Kahf kukadiria watumiaji wanaotumia huduma.</translation>
+ <translation id="6725413948756358325">Jina la Akaunti</translation>
+ <translation id="6062431965141524986">Unaweza kufungua akaunti mbadala kwa kuleta ufunguo wako wa faragha.</translation>
+ <translation id="3952797765659730604">Weka, bandika, au leta faili ya mtungo wa ufunguo wako wa faragha au JSON.</translation>
+@@ -679,14 +679,14 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="1721710839767183848">Hakuna matangazo kwenye ukurasa</translation>
+ <translation id="4647035642622555398">Hakuna ukatizaji</translation>
+ <translation id="4122515759479497554">Tafuta video</translation>
+-<translation id="4449475351935531438">Brave Firewall + VPN</translation>
++<translation id="4449475351935531438">Kahf Firewall + VPN</translation>
+ <translation id="719977489961414786">Pata toleo jipya la VPN ili kulinda muunganisho wako na uzuie vifuatiliaji vya ndani kila mahali.</translation>
+ <translation id="8814357473522731680">Inaendeshwa na</translation>
+ <translation id="5892534145504632332">Linda kila programu na kifaa chako chote</translation>
+ <translation id="7195416926059527505">Salama zaidi kwa Wi-Fi ya nyumbani au ya umma</translation>
+ <translation id="1354700000739359839">Kasi ya juu zaidi, hadi Mbps 100</translation>
+ <translation id="3510283489391432976">Chagua eneo lako la jiografia/nchi</translation>
+-<translation id="7695158478627528928">Brave haiweki kamwe kumbukumbu za shughuli zako.</translation>
++<translation id="7695158478627528928">Kahf haiweki kamwe kumbukumbu za shughuli zako.</translation>
+ <translation id="4575683170451975058">Linda vifaa 5 kwa kutumia usajili 1</translation>
+ <translation id="4882693590083943563">Mipango yote inajumuisha <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">jaribio la siku 7 la bila malipo!</translation>
+@@ -697,14 +697,14 @@ Je, una uhakika unataka kufanya hili?</translation>
+ <translation id="1163809943099641131">Mwaka mmoja</translation>
+ <translation id="172859718096975160">Jisajili upya kila mwaka <ph name="DISCOUNT_TEXT_START"/>uokoe <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> kwa mwaka.</translation>
+-<translation id="5125233570742276182">Usajili utatozwa kupitia akaunti yako ya Google. Sehemu yoyote ambayo haijatumika ya jaribio la bila malipo, ikiwa lilitolewa, hutupiliwa mbali unaponunua usajili.\n\nUsajili wako utawezeshwa upya kiotomatiki isipokuwa ukighairiwa angalau saa 24 kabla ya mwisho wa kipindi cha sasa.\n\nUnaweza kudhibiti usajili wako katika Mipangilio.\nKwa kutumia Brave, unakubali Masharti ya Matumizi na Sera ya Faragha.</translation>
++<translation id="5125233570742276182">Usajili utatozwa kupitia akaunti yako ya Google. Sehemu yoyote ambayo haijatumika ya jaribio la bila malipo, ikiwa lilitolewa, hutupiliwa mbali unaponunua usajili.\n\nUsajili wako utawezeshwa upya kiotomatiki isipokuwa ukighairiwa angalau saa 24 kabla ya mwisho wa kipindi cha sasa.\n\nUnaweza kudhibiti usajili wako katika Mipangilio.\nKwa kutumia Kahf, unakubali Masharti ya Matumizi na Sera ya Faragha.</translation>
+ <translation id="5035172357624830412">Je, tayari umenunuliwa kwenye brave.com?</translation>
+ <translation id="713136183174551885">Weka upya maelezo yako ya utambulisho</translation>
+ <translation id="6053992191006521518">Jaribu BILA MALIPO</translation>
+ <translation id="5903391101107992067">Jaribu Kwa Siku 7 Bila Malipo</translation>
+ <translation id="721747358270435486">Sakinisha VPN</translation>
+ <translation id="836074276610740314">Weka Wasifu wa VPN</translation>
+-<translation id="8021842065465097929">Brave sasa itaweka wasifu wa VPN.</translation>
++<translation id="8021842065465097929">Kahf sasa itaweka wasifu wa VPN.</translation>
+ <translation id="229286271464650057">Wasifu huu huruhusu VPN kuunganisha kiotomatiki na kulinda trafiki kwenye kifaa chako — katika kila programu, wakati wote. Muunganisho huu wa VPN utasimbwa kwa njia fiche na kuelekezwa kupitia ngome ya ujasusi ya Guardian ili kuzuia matangazo na vifuatiliaji.</translation>
+ <translation id="9073255657908892407">Wasiliana na Usaidizi wa Kiufundi</translation>
+ <translation id="1139934321138152517">VPN sasa imewezeshwa</translation>
+@@ -845,7 +845,7 @@ Usipolikubali ombi hili, VPN haitaunganisha tena na muunganisho wako wa intaneti
+ <translation id="2653659639078652383">Wasilisha</translation>
+ <translation id="4945690646623486292">Teua Mtandao</translation>
+ <translation id="5233638681132016545">Kichupo kipya</translation>
+-<translation id="8006088103295786154">Fikia Brave Wallet</translation>
++<translation id="8006088103295786154">Fikia Kahf Wallet</translation>
+ <translation id="8030169304546394654">Imeondolewa</translation>
+ <translation id="3423275441470187644">Imani</translation>
+ <translation id="2391762656119864333">Kufuta</translation>
+@@ -932,19 +932,19 @@ Usipolikubali ombi hili, VPN haitaunganisha tena na muunganisho wako wa intaneti
+ <translation id="7002577172732106572">Upangaji Njia Uliogawanywa</translation>
+ <translation id="8181161042860463420">Akaunti ya tokeni inayohusishwa bado haipo. Kiasi kidogo cha SOL kitatumika kuiunda na kuifadhili. <ph name="CLICK_START"/>Jifunze zaidi<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Inasasisha Wasifu wa VPN...</translation>
+-<translation id="7457027586454688423">Weka nenosiri lako la Pochi ya Brave</translation>
+-<translation id="4784306439879850873">Fahamu kuwa Brave haiwezi kuthibitisha kitakachotendeka ukitia sahihi. Sahihi inaweza kuidhinisha takribani shughuli yoyote katika akaunti yako au kwa niaba yako, ikiwemo (lakini si tu) kutoa udhibiti wa jumla wa akaunti yako na mali zako za crypto kwa tovuti inayotuma ombi. Tia sahihi ikiwa tu una uhakika unataka kuchukua hatua hii na unaamini tovuti inayoomba.</translation>
++<translation id="7457027586454688423">Weka nenosiri lako la Pochi ya Kahf</translation>
++<translation id="4784306439879850873">Fahamu kuwa Kahf haiwezi kuthibitisha kitakachotendeka ukitia sahihi. Sahihi inaweza kuidhinisha takribani shughuli yoyote katika akaunti yako au kwa niaba yako, ikiwemo (lakini si tu) kutoa udhibiti wa jumla wa akaunti yako na mali zako za crypto kwa tovuti inayotuma ombi. Tia sahihi ikiwa tu una uhakika unataka kuchukua hatua hii na unaamini tovuti inayoomba.</translation>
+ <translation id="3474375934783434676">Tia sahihi kwa tahadhari yako pekee</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> kati ya <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Idhinisha muamala</translation>
+ <translation id="6450792191436242818">Programu ya Mfumo</translation>
+-<translation id="5318067544026930166">Fungua Pochi ya Brave kwa uthibitishaji wa kibayometriki</translation>
+-<translation id="2629767022373384291">Je, ungependa kutumia uthibitishaji wa kibayometriki kufungua Pochi yako ya Brave?</translation>
++<translation id="5318067544026930166">Fungua Pochi ya Kahf kwa uthibitishaji wa kibayometriki</translation>
++<translation id="2629767022373384291">Je, ungependa kutumia uthibitishaji wa kibayometriki kufungua Pochi yako ya Kahf?</translation>
+ <translation id="4782919977106118997">Tumia kipengele cha Kufungua kwa Alama ya Kidole</translation>
+ <translation id="2054995875643283428">Ruka hii kwa sasa</translation>
+ <translation id="2522605225061484799">Nenda kwenye potifolio yangu</translation>
+ <translation id="1148624853678088576">Akaunti yako iko tayari kutumika!</translation>
+-<translation id="4131445988101719379">Pochi yako ya Brave iko tayari kutumika</translation>
++<translation id="4131445988101719379">Pochi yako ya Kahf iko tayari kutumika</translation>
+ <translation id="6252742184395380448">Programu ya Kusanidi</translation>
+ <translation id="5358970666412490132">Programu ya Dau</translation>
+ <translation id="346636227344244984">Programu ya Kupiga Kura</translation>
+@@ -1064,8 +1064,8 @@ Usipolikubali ombi hili, VPN haitaunganisha tena na muunganisho wako wa intaneti
+ <translation id="346505172740911461">Bei ya soko</translation>
+ <translation id="5494920125229734069">Chagua zote</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Ingia kwa Pochi ya Brave</translation>
+-<translation id="3696514931437952995">Unaingia kwenye <ph name="ORIGIN"/>. Pochi ya Brave itashiriki anwani ya pochi yako na <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Ingia kwa Pochi ya Kahf</translation>
++<translation id="3696514931437952995">Unaingia kwenye <ph name="ORIGIN"/>. Pochi ya Kahf itashiriki anwani ya pochi yako na <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Tazama maelezo</translation>
+ <translation id="6759710362319508545">Nyenzo</translation>
+ <translation id="2471230424465522689">Si kabla ya</translation>
+@@ -1074,7 +1074,7 @@ Usipolikubali ombi hili, VPN haitaunganisha tena na muunganisho wako wa intaneti
+ <translation id="4109670531935487117">Onyesha mapendekezo ya ukamilishaji otomatiki kwenye upau wa anwani</translation>
+ <translation id="1250335737108905610">Weka upya na ufute data ya Leo</translation>
+ <translation id="6165101586663336913">Kuweka upya msaidizi wa Leo kutakuhitaji ujisajili kutumia Leo siku zijazo na pia kutafuta historia yako ya gumzo. Kufuta historia yako ya gumzo kutafuta mazungumzo yako yote ya awali na Leo. Kitendo hiki hakiwezi kutenduliwa.</translation>
+-<translation id="3692772534525889713">Unganisha ununuzi wako kwenye Play Store kwenye akaunti yako ya Brave ili utumie Brave Leo kwenye vifaa vingine.</translation>
++<translation id="3692772534525889713">Unganisha ununuzi wako kwenye Play Store kwenye akaunti yako ya Kahf ili utumie Kahf Leo kwenye vifaa vingine.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Kila Mwezi</translation>
+ <translation id="451189393813405346">Uliza Leo</translation>

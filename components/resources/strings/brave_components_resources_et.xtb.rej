@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_et.xtb b/components/resources/strings/brave_components_resources_et.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Ühenda bitFlyeriga</translation>
+ <translation id="6143701117592994599">Kahf’i auhindade ühendamisel bitFlyeri kontoga saate teenida BAT-i ja oma teenitud BAT-i Kahf’i auhindadest välja võtta.</translation>
+ <translation id="4354564238172327160">Hakake Kahf'i loojaks!</translation>
+-<translation id="4639659520811817892">Juba täna registreerumiseks minge veebisaidile creators.brave.com ning alustage BAT-i teenimist oma fännidelt ja jälgijatelt.</translation>
++<translation id="4639659520811817892">Juba täna registreerumiseks minge veebisaidile creators.Kahf.com ning alustage BAT-i teenimist oma fännidelt ja jälgijatelt.</translation>
+ <translation id="4816455138209470435">Kahf toetab YouTube'i, Twitchi, Vimeot ja paljut muud.</translation>
+ <translation id="7404779623219601861">Lunasta BAT-d kinkekaartide vastu</translation>
+ <translation id="6215565499749144110">TAP-võrgustikuga saad lunastada oma BAT-sid populaarsete kaubamärkide kinkekaartide vastu.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">Panus on saadetud!</translation>
+ <translation id="7063168612616047608">Täname, et toetate oma lemmikloojaid</translation>
+ <translation id="1041398280582063935">Jagage oma toetust</translation>
+-<translation id="4001190813297686107">Panustasin just Kahf’i brauseriga <ph name="AMOUNT"/> BAT-i! Vaata, kuidas ka sina saad oma lemmikloojaid ja -saite toetada: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Panustasin just Kahf’i brauseriga <ph name="AMOUNT"/> BAT-i! Vaata, kuidas ka sina saad oma lemmikloojaid ja -saite toetada: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Ilmnes ootamatu tõrge</translation>
+ <translation id="2605703631071131439">Uuesti proovimiseks avage panuste paneel uuesti.</translation>
+ <translation id="8855543392451028706">Tere tulemast! Kasutajad saavad toetada seda sisuloojat panuste saatmisega. Nii saab teda suurepärase sisu loomise eest tänada.</translation>
+@@ -2052,7 +2052,7 @@
+ <translation id="1093419424466417703">See leht on Leo jaoks liiga pikk. Osa konteksti võib vestlusest välja jääda. Leo suutis lugeda <ph name="PERCENTAGE"/>lehe sisust.</translation>
+ <translation id="2186990448773134544">Lehe sisu täpsustati lehelt kõige asjakohasema teabe väljavõtmise teel, sest lehe sisu oli Leo jaoks liiga pikk.</translation>
+ <translation id="4370698775470316661">Vestlus on pikk ja seda ei saa jätkata. Saadaval võib olla teisi mudeleid, mille abil saab Leo pikemates vestlustes täpsuse säilitada.</translation>
+-<translation id="5719170755629028558">Vastuse täiustamine Brave'i Otsingu abil …</translation>
++<translation id="5719170755629028558">Vastuse täiustamine Kahf'i Otsingu abil …</translation>
+ <translation id="5794962229997281366">Täiustatud vastus otsingule <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Üldine vestlus</translation>
+ <translation id="8193130769524604031">Täpsemad vestlusefunktsioonid</translation>
+@@ -2261,7 +2261,7 @@ Saate alati WireGuardi juurde tagasi pöörduda aadressil kahf://settings/system
+ <translation id="7423206764347669977">Muuda seaded</translation>
+ <translation id="9061845622728745852">Ajavöönd:</translation>
+ <translation id="8295393906499561642">Seanss on aegunud</translation>
+-<translation id="3312623558576021182">VPN-seansi värskendamiseks logige sisse oma <ph name="BRAVE_ACCOUNT_BEGIN"/>Kahf’i kontole<ph name="BRAVE_ACCOUNT_END"/>.</translation>
++<translation id="3312623558576021182">VPN-seansi värskendamiseks logige sisse oma <ph name="Kahf_ACCOUNT_BEGIN"/>Kahf’i kontole<ph name="Kahf_ACCOUNT_END"/>.</translation>
+ <translation id="6021669293402055982">Kahf'i VPN: ei ole ühendatud</translation>
+ <translation id="7861195049821776142">Kahf'i VPN: ühenduse katkestamine</translation>
+ <translation id="958268166261124668">Kahf'i VPN: ühendatud</translation>

@@ -1,0 +1,298 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_lv.xtb b/browser/ui/android/strings/translations/android_brave_strings_lv.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Uzzināt vairāk par Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Atļaut (palaist vēlreiz tagad)</translation>
+ <translation id="2433507940547922241">Izskats</translation>
+-<translation id="9040069796107003510">Brave balvu ikona</translation>
+-<translation id="6333347122924254968">Rādīt Brave Atlīdzību ikonu adrešu joslā</translation>
++<translation id="9040069796107003510">Kahf balvu ikona</translation>
++<translation id="6333347122924254968">Rādīt Kahf Atlīdzību ikonu adrešu joslā</translation>
+ <translation id="8495235435594442882">Aktivizēt apakšējo rīkjoslu</translation>
+-<translation id="6587448235155023666">Šīs izmaiņas tiks piemērotas nākamajā reizē, kad atvērsiet programmu Brave</translation>
++<translation id="6587448235155023666">Šīs izmaiņas tiks piemērotas nākamajā reizē, kad atvērsiet programmu Kahf</translation>
+ <translation id="8701563696941209024">ATVĒRT TAGAD</translation>
+ <translation id="834487290629916192">VĒLĀK</translation>
+-<translation id="7207456302801184289">Laipni lūdzam pārlūkā Brave!</translation>
++<translation id="7207456302801184289">Laipni lūdzam pārlūkā Kahf!</translation>
+ <translation id="4117451092682672487">Privātums. Vienkārši.</translation>
+-<translation id="7909375417585209817">Ja Brave būs noklusējuma pārlūks, visas saites, kam pieskaraties, tiks atvērtas ar Brave privātuma aizsardzību.</translation>
++<translation id="7909375417585209817">Ja Kahf būs noklusējuma pārlūks, visas saites, kam pieskaraties, tiks atvērtas ar Kahf privātuma aizsardzību.</translation>
+ <translation id="7370959926683925817">Bloķēt reklāmas. Saglabājiet datus. Katru dienu.</translation>
+-<translation id="7281027579943912834">Izmantojot Brave kā noklusējuma pārlūku, katrai saitei, ko atverat, tiek nodrošināta Brave reklāmu bloķēšanas aizsardzība. Katra lapa, videoklips un straumēšana.</translation>
+-<translation id="5148943178722443958">Palīdziet uzlabot Brave.</translation>
++<translation id="7281027579943912834">Izmantojot Kahf kā noklusējuma pārlūku, katrai saitei, ko atverat, tiek nodrošināta Kahf reklāmu bloķēšanas aizsardzība. Katra lapa, videoklips un straumēšana.</translation>
++<translation id="5148943178722443958">Palīdziet uzlabot Kahf.</translation>
+ <translation id="6718362830686703942">Sūtiet diagnostikas ziņojumus, ja programma avarē vai sastingst.</translation>
+-<translation id="8616157231067364693">Kopīgojiet privātus un anonīmus viedokļus par produktiem un par to, kādas funkcijas izmanto Brave lietotāji.</translation>
++<translation id="8616157231067364693">Kopīgojiet privātus un anonīmus viedokļus par produktiem un par to, kādas funkcijas izmanto Kahf lietotāji.</translation>
+ <translation id="2877653791257935258">Ierakstiet tīmekļa vietnes nosaukumu vai URL</translation>
+-<translation id="5329830149661250028">Apskatiet, ar ko atšķiras Brave: bez reklāmām. Bez sekotājiem. Daudz ātrāka lapas ielāde.</translation>
+-<translation id="3941792073703079607">Uzziniet par Brave atšķirību: bloķējiet reklāmas. Saglabājiet datus. Straumējiet ātrāk.</translation>
+-<translation id="3545804467215833536">Pieskarieties, lai apskatītu Brave aizsargus</translation>
+-<translation id="1724327820822194498">Skatiet visu, ko Brave ir bloķējusi katrā lapā, izmantojot aizsargus.</translation>
++<translation id="5329830149661250028">Apskatiet, ar ko atšķiras Kahf: bez reklāmām. Bez sekotājiem. Daudz ātrāka lapas ielāde.</translation>
++<translation id="3941792073703079607">Uzziniet par Kahf atšķirību: bloķējiet reklāmas. Saglabājiet datus. Straumējiet ātrāk.</translation>
++<translation id="3545804467215833536">Pieskarieties, lai apskatītu Kahf aizsargus</translation>
++<translation id="1724327820822194498">Skatiet visu, ko Kahf ir bloķējusi katrā lapā, izmantojot aizsargus.</translation>
+ <translation id="5386259141409498372">Bloķēti <ph name="BIG_TECH"/> un <ph name="TRACKER"/>citas reklāmas un izsekotāji.</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> un citas reklāmas, un izsekotāji ir bloķēti</translation>
+ <translation id="3092683655478890840">Bloķētas <ph name="TRACKER_COUNT"/> reklāmas un izsekotāji</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Traucējummeklēšanas pievienošana</translation>
+ <translation id="5808759341041733958">Izvēlēties noklusējuma meklētājprogrammu</translation>
+ <translation id="1331593888918588693">Savas preferences vienmēr varēsiet mainīt lietotnes iestatījumos.</translation>
+-<translation id="5806601733251372221">Brave aizsargi</translation>
++<translation id="5806601733251372221">Kahf aizsargi</translation>
+ <translation id="8537217141725709400">Nopelniet <ph name="TOKEN"/></translation>
+-<translation id="3333887201479867589">Brave balvas</translation>
++<translation id="3333887201479867589">Kahf balvas</translation>
+ <translation id="5870330605209713397">apskatot privātumu cienošas reklāmas, un pēc noklusējuma atbalstiet savas iecienītas vietnes un satura veidotājus.</translation>
+-<translation id="5302488867897327287">Pieskaroties "Sākt" Brave Rewards lietošanas laikā, jūs piekrītat</translation>
++<translation id="5302488867897327287">Pieskaroties "Sākt" Kahf Rewards lietošanas laikā, jūs piekrītat</translation>
+ <translation id="4281844954008187215">Pakalpojuma noteikumi</translation>
+ <translation id="6871397658902960384">Sākt pārlūkošanu</translation>
+ <translation id="454386012157232640">Es neredzēju reklāmu</translation>
+-<translation id="1448877943847791441">Brave jums parādīs pirmo reklāmu pēc</translation>
+-<translation id="4410793187232041318">Tagad jūs pelnīsiet marķierus ar Brave Ads.</translation>
+-<translation id="6511854390690723657">Šī ir jūsu pirmā Brave reklāma. Pieskarieties, lai uzzinātu vairāk.</translation>
+-<translation id="2070991379950719711">Sākt izmantot Brave Rewards</translation>
++<translation id="1448877943847791441">Kahf jums parādīs pirmo reklāmu pēc</translation>
++<translation id="4410793187232041318">Tagad jūs pelnīsiet marķierus ar Kahf Ads.</translation>
++<translation id="6511854390690723657">Šī ir jūsu pirmā Kahf reklāma. Pieskarieties, lai uzzinātu vairāk.</translation>
++<translation id="2070991379950719711">Sākt izmantot Kahf Rewards</translation>
+ <translation id="48520986898237073">Pāriet uz maku</translation>
+ <translation id="3570367516044491911">Iestatīt kā noklusējuma pārlūku</translation>
+ <translation id="6800338374677644736">Iestatīt kā noklusējuma pārlūku</translation>
+-<translation id="19715420010996093">Atlasiet Brave pārlūku un pieskarieties pie "Vienmēr"</translation>
+-<translation id="3546439402724649282">Brave jau ir iestatīts kā jūsu noklusējuma pārlūks.</translation>
++<translation id="19715420010996093">Atlasiet Kahf pārlūku un pieskarieties pie "Vienmēr"</translation>
++<translation id="3546439402724649282">Kahf jau ir iestatīts kā jūsu noklusējuma pārlūks.</translation>
+ <translation id="8389661903259423907">Jums jau ir iestatīts noklusējuma pārlūks. Savu noklusējuma pārlūku varat nomainīt lietotņu iestatījumos.</translation>
+ <translation id="1545749641540134597">Ieskenēt QR kodu</translation>
+ <translation id="5317781812114905957">Instrukcijas</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Koda derīgums ir beidzies. Ģenerējiet jaunu kodu, noklikšķinot uz pogas tālāk.</translation>
+ <translation id="318164877797885563">Šis pagaidu kods ir derīgs nākamās <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Aizvērt iestatījumus</translation>
+-<translation id="8050847734948770789">Iespējot Brave balvas</translation>
++<translation id="8050847734948770789">Iespējot Kahf balvas</translation>
+ <translation id="9187185473011056079">Es piekrītu!</translation>
+-<translation id="8185825081026121627">Nopelniet pamata uzmanības marķieri, skatoties privātumu ievērojošas Brave Rewards reklāmas.</translation>
++<translation id="8185825081026121627">Nopelniet pamata uzmanības marķieri, skatoties privātumu ievērojošas Kahf Rewards reklāmas.</translation>
+ <translation id="5321518976657560663">Atiestates kļūda</translation>
+-<translation id="4114170343590425996">Radās kļūda, kas atiestatīja Brave Rewards. Lūdzu, vēlreiz atveriet Brave un mēģiniet vēlreiz.</translation>
+-<translation id="6417420737057016607">Brave reklāmas</translation>
+-<translation id="5611966874859284786">Rādīt paziņojumu reklāmas, kad Brave netiek lietots</translation>
+-<translation id="6606319453795180219">Tādējādi tiks dzēsti jūsu Brave Rewards un atiestatīti visi jūsu Brave Rewards dati</translation>
++<translation id="4114170343590425996">Radās kļūda, kas atiestatīja Kahf Rewards. Lūdzu, vēlreiz atveriet Kahf un mēģiniet vēlreiz.</translation>
++<translation id="6417420737057016607">Kahf reklāmas</translation>
++<translation id="5611966874859284786">Rādīt paziņojumu reklāmas, kad Kahf netiek lietots</translation>
++<translation id="6606319453795180219">Tādējādi tiks dzēsti jūsu Kahf Rewards un atiestatīti visi jūsu Kahf Rewards dati</translation>
+ <translation id="8293206222192510085">Pievienot grāmatzīmi</translation>
+ <translation id="340492034650766959">Dzēst grāmatzīmi</translation>
+ <translation id="2149973817440762519">Rediģēt grāmatzīmi</translation>
+@@ -464,35 +464,35 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="5582686930349810484">Pirkstu nospiedumu ņemšana bloķēta (standarta režīms)</translation>
+ <translation id="769702552748212954">Atļaut visu identificējošās dokumenta ciparvirknes veidošanu</translation>
+ <translation id="876424292214881779">Reklāmas un citas nejaukas lietas bloķētas</translation>
+-<translation id="6930134873084561197">Vietnēs bieži ir iekļauti sīkfaili un skripti, kas mēģina identificēt jūs un jūsu ierīci. Tie vēlas noskaidrot, kas jūs esat, un sekot jums visā tīmeklī — sekojot tam, ko jūs darāt katrā vietnē.\n\nBrave tos bloķē, lai jūs varētu veikt pārlūkošanu, netiekot izsekots.</translation>
+-<translation id="8553998445606452168">Par Brave aizsargiem</translation>
++<translation id="6930134873084561197">Vietnēs bieži ir iekļauti sīkfaili un skripti, kas mēģina identificēt jūs un jūsu ierīci. Tie vēlas noskaidrot, kas jūs esat, un sekot jums visā tīmeklī — sekojot tam, ko jūs darāt katrā vietnē.\n\nKahf tos bloķē, lai jūs varētu veikt pārlūkošanu, netiekot izsekots.</translation>
++<translation id="8553998445606452168">Par Kahf aizsargiem</translation>
+ <translation id="8912304686498704084">IESLĒGT</translation>
+ <translation id="4963218453264888510">IZSLĒGT</translation>
+-<translation id="7474113515179313724">Jūs pārlūkojat šo vietni bez Brave privātuma aizsardzības. Vai ar ieslēgtu aizsardzību tā nedarbojas pareizi?</translation>
++<translation id="7474113515179313724">Jūs pārlūkojat šo vietni bez Kahf privātuma aizsardzības. Vai ar ieslēgtu aizsardzību tā nedarbojas pareizi?</translation>
+ <translation id="4226543734057230801">Ethereum tīkli</translation>
+ <translation id="3504157706952484145">Filecoin tīkli</translation>
+ <translation id="1561541094377237745">Solana tīkli</translation>
+ <translation id="7141438739990875547">Bitcoin tīkli</translation>
+ <translation id="9055546041146396417">Ja šķiet, ka vietne nedarbojas, pamēģiniet izslēgt aizsargus.</translation>
+ <translation id="1209739344687072997">Ziņot par bojātu vietni</translation>
+-<translation id="8510478288840333677">Paziņojiet Brave izstrādātājiem, kad šī vietne ar aizsargiem nedarbojas pareizi:</translation>
+-<translation id="5429200298326665264">Piezīme. Šīs vietnes adrese tiks iesniegta kopā ar jūsu Brave versijas numuru un IP adresi (kas netiks saglabāta).</translation>
++<translation id="8510478288840333677">Paziņojiet Kahf izstrādātājiem, kad šī vietne ar aizsargiem nedarbojas pareizi:</translation>
++<translation id="5429200298326665264">Piezīme. Šīs vietnes adrese tiks iesniegta kopā ar jūsu Kahf versijas numuru un IP adresi (kas netiks saglabāta).</translation>
+ <translation id="5299848999918506028">Paldies!</translation>
+-<translation id="76550953340008122">Paldies, ka paziņojāt Brave izstrādātājiem par problēmām ar šo vietni. Pacentīsimies to salabot!</translation>
++<translation id="76550953340008122">Paldies, ka paziņojāt Kahf izstrādātājiem par problēmām ar šo vietni. Pacentīsimies to salabot!</translation>
+ <translation id="650318023204990401">Papildu vadīklas</translation>
+ <translation id="5370478469168390143">Saglabāt datus tiešsaistē</translation>
+-<translation id="1118508688433541158">Pārlūkojiet ātrāk un bloķējiet reklāmas ar Brave</translation>
+-<translation id="7427391215172269363">Es katru dienu ietaupu datus, tīmekli pārlūkojot ar Brave.</translation>
+-<translation id="4776948189086901857">Brave darbojas visur.</translation>
+-<translation id="1606322780901645965">Lejupielādējiet Brave no brave.com savā datorā vai planšetē ātrākai un privātākai tīkla pārlūkošanai</translation>
++<translation id="1118508688433541158">Pārlūkojiet ātrāk un bloķējiet reklāmas ar Kahf</translation>
++<translation id="7427391215172269363">Es katru dienu ietaupu datus, tīmekli pārlūkojot ar Kahf.</translation>
++<translation id="4776948189086901857">Kahf darbojas visur.</translation>
++<translation id="1606322780901645965">Lejupielādējiet Kahf no brave.com savā datorā vai planšetē ātrākai un privātākai tīkla pārlūkošanai</translation>
+ <translation id="8374242949413616101">Privātuma aizsardzība</translation>
+-<translation id="4955406228638026265">Brave neļauj reklāmām un izsekotājiem ievākt informāciju par jums bez jūsu piekrišanas.</translation>
++<translation id="4955406228638026265">Kahf neļauj reklāmām un izsekotājiem ievākt informāciju par jums bez jūsu piekrišanas.</translation>
+ <translation id="752842701893882688">Ietaupiet datus un bateriju</translation>
+ <translation id="1685837926613452362">Bez reklāmām un izsekotājiem vietnes patērē mazāk datu un baterijas. Varbūt jums izdosies ietaupīt pat uz operatora rēķinu.</translation>
+ <translation id="5440744330377972191">Vietnes ielādējas ātrāk</translation>
+-<translation id="3000738865641747653">Ielādējot mazāk datu, vietnes ar Brave atveras ātrāk — pat 8x ātrāk nekā citos pārlūkos.</translation>
++<translation id="3000738865641747653">Ielādējot mazāk datu, vietnes ar Kahf atveras ātrāk — pat 8x ātrāk nekā citos pārlūkos.</translation>
+ <translation id="8903462729414407077">Saņemiet iknedēļas jaunumus</translation>
+-<translation id="7450323860390658083">Uzziniet, kuras no jūsu apmeklētajām vietnēm visvairāk apdraud privātumu.\n\nVienīgi jūs redzat privātuma statistiku. Personīgie dati un pārlūkošanas vēsture nekad nepametīs Brave pārlūku tavā ierīcē.</translation>
++<translation id="7450323860390658083">Uzziniet, kuras no jūsu apmeklētajām vietnēm visvairāk apdraud privātumu.\n\nVienīgi jūs redzat privātuma statistiku. Personīgie dati un pārlūkošanas vēsture nekad nepametīs Kahf pārlūku tavā ierīcē.</translation>
+ <translation id="6170159749517116894">Ieslēgt privātuma ziņojumus</translation>
+ <translation id="1669047024429367828">Redzamība</translation>
+ <translation id="5966707198760109579">Nedēļa</translation>
+@@ -586,9 +586,9 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="1483493594462132177">Sūtīt</translation>
+ <translation id="538450413584738399">Mijmaiņa</translation>
+ <translation id="4556086616242530072">Pielāgots pārlūkprogrammai.\nPilnībā jūsu kontrolē.\nUn piemērots dažāda veida kriptovalūtai.</translation>
+-<translation id="7909462264772842773">Parūpējieties par savu kriptovalūtu un NFT. Brave makā var glabāt Ethereum, EVM ķēdes, Solana, Filecoin u. c.</translation>
++<translation id="7909462264772842773">Parūpējieties par savu kriptovalūtu un NFT. Kahf makā var glabāt Ethereum, EVM ķēdes, Solana, Filecoin u. c.</translation>
+ <translation id="165255193061631296">Nepieciešams jauns maks?</translation>
+-<translation id="3485737865439729577">Izveidojiet Brave maku pāris minūšu laikā</translation>
++<translation id="3485737865439729577">Izveidojiet Kahf maku pāris minūšu laikā</translation>
+ <translation id="2759836790106646094">Dublējiet savu maku tagad!</translation>
+ <translation id="1078873179929044999">Nākamajā solī redzēsiet 12 vārdu atkopšanas frāzi, kuru varat izmantot, lai atkoptu primāros kriptovalūtas kontus. Glabājiet to drošā vietā. Jūsu atkopšanas frāze ir vienīgais veids, kā atgūt piekļuvi kontam gadījumā, ja aizmirsīsiet paroli, nozaudēsiet vai jums nozags ierīci, vai arī vēlēsieties mainīt maku.</translation>
+ <translation id="2359808026110333948">Turpināt</translation>
+@@ -596,7 +596,7 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="1904000155026201268">Es apzinos, ka gadījumā, ja pazaudēšu savus atkopšanas vārdus, nevarēšu piekļūt savam kriptovalūtas makam.</translation>
+ <translation id="5333225216561354793">Jums jāapstiprina turpmāk aprakstītais</translation>
+ <translation id="6937275455070754004">Izvēlieties, kuras blokķēdes izmantot savā makā.</translation>
+-<translation id="1645800479814134195">Es saprotu, ka tas ir mans maks un es esmu atbildīgs par jebkādiem saistītajiem līdzekļiem, aktīviem vai kontiem, kā arī par atbilstošu darbību veikšanu, lai aizsargātu un dublētu savu maku. Es saprotu, ka Brave nevar piekļūt manam makam vai atsaukt darījumus manā vārdā un ka mana atkopšanas frāze ir VIENĪGAIS veids, kā atgūt piekļuvi nozaudētas paroles, nozagtas ierīces vai līdzīgu apstākļu gadījumā.</translation>
++<translation id="1645800479814134195">Es saprotu, ka tas ir mans maks un es esmu atbildīgs par jebkādiem saistītajiem līdzekļiem, aktīviem vai kontiem, kā arī par atbilstošu darbību veikšanu, lai aizsargātu un dublētu savu maku. Es saprotu, ka Kahf nevar piekļūt manam makam vai atsaukt darījumus manā vārdā un ka mana atkopšanas frāze ir VIENĪGAIS veids, kā atgūt piekļuvi nozaudētas paroles, nozagtas ierīces vai līdzīgu apstākļu gadījumā.</translation>
+ <translation id="4565891212173086999">Esmu izlasījis un piekrītu <ph name="CLICK_START"/>lietošanas noteikumiem<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Jūsu atkopšanas frāze</translation>
+ <translation id="5077747669435508720">Pierakstiet vai nokopējiet šos vārdus tieši tādā pašā secībā, kāda parādīta zemāk, un glabājiet tos drošā vietā. Jūsu atkopšanas frāze ir vienīgais veids, kā atgūt piekļuvi kontam gadījumā, ja aizmirsīsiet paroli, nozaudēsiet vai jums nozags ierīci, vai arī vēlēsieties mainīt maku.</translation>
+@@ -617,13 +617,13 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="8030647312184163932">Atbloķēšana ar pirksta nospiedumu</translation>
+ <translation id="4090490645603511157">Izmantojiet biometriju, lai ātri atbloķētu savu maku, neievadot paroli.</translation>
+ <translation id="1544192797660353713">Maks</translation>
+-<translation id="6901810042765869341">Ievadiet savu atkopšanas frāzi, lai atjaunotu savu Brave Wallet kripto kontu.</translation>
++<translation id="6901810042765869341">Ievadiet savu atkopšanas frāzi, lai atjaunotu savu Kahf Wallet kripto kontu.</translation>
+ <translation id="9120654436199628567">Atjaunot kriptovalūtas kontu</translation>
+ <translation id="4811736040444856406">Rādīt atkopšanas frāzi</translation>
+ <translation id="283071225285270357">Ievadiet savu atkopšanas frāzi</translation>
+ <translation id="3943857333388298514">Ielīmēt</translation>
+ <translation id="3331452756822160641">Jaunā parole</translation>
+-<translation id="4359319875297001084">Vai importēt no mantotajiem Brave kriptovalūtas makiem?</translation>
++<translation id="4359319875297001084">Vai importēt no mantotajiem Kahf kriptovalūtas makiem?</translation>
+ <translation id="2339124864228588937">Verificēt atkopšanas frāzi</translation>
+ <translation id="3747079125031086337">Atlasiet atkopšanas frāzes vārdus pareizajā secībā.</translation>
+ <translation id="6518133107902771759">Pārbaudīt</translation>
+@@ -657,8 +657,8 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="5760476995887363522">Frāzes nesakrita. Lūdzu, mēģiniet vēlreiz.</translation>
+ <translation id="2360588547830602174">Kontu neizdevās atkopt. Lūdzu, mēģiniet vēlreiz.</translation>
+ <translation id="1987317783729300807">Konti</translation>
+-<translation id="6284218950354553099">Automātiski nosūtīt dienas lietošanas ehotestu Brave</translation>
+-<translation id="2181060149810222381">Šis privātais ehotests ļauj Brave aprēķināt aktīvos lietotājus.</translation>
++<translation id="6284218950354553099">Automātiski nosūtīt dienas lietošanas ehotestu Kahf</translation>
++<translation id="2181060149810222381">Šis privātais ehotests ļauj Kahf aprēķināt aktīvos lietotājus.</translation>
+ <translation id="6725413948756358325">Konta nosaukums</translation>
+ <translation id="6062431965141524986">Varat izveidot sekundāro kontu, importējot privāto atslēgu.</translation>
+ <translation id="3952797765659730604">Ievadiet, ielīmējiet vai importējiet privātās atslēgas virknes failu vai JSON.</translation>
+@@ -680,14 +680,14 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="1721710839767183848">Nekādu reklāmu lapā</translation>
+ <translation id="4647035642622555398">Bez pārtraukumiem</translation>
+ <translation id="4122515759479497554">Meklēt video</translation>
+-<translation id="4449475351935531438">Brave ugunsmūris + VPN</translation>
++<translation id="4449475351935531438">Kahf ugunsmūris + VPN</translation>
+ <translation id="719977489961414786">Atjauniniet uz VPN, lai aizsargātu savienojumu un visur bloķētu agresīvos izsekotājus.</translation>
+ <translation id="8814357473522731680">Nodrošina</translation>
+ <translation id="5892534145504632332">Pasargājiet visas lietotnes un jūsu ierīci kopumā</translation>
+ <translation id="7195416926059527505">Drošāk mājas vai publiskajam Wi-Fi</translation>
+ <translation id="1354700000739359839">Zibenīgi ātrs, līdz pat 100 Mbps</translation>
+ <translation id="3510283489391432976">Izvēlieties atrašanās vietu/valsti.</translation>
+-<translation id="7695158478627528928">Brave nekad nereģistrē jūsu aktivitātes</translation>
++<translation id="7695158478627528928">Kahf nekad nereģistrē jūsu aktivitātes</translation>
+ <translation id="4575683170451975058">Pasargājiet 5 ierīces ar 1 abonementu</translation>
+ <translation id="4882693590083943563">Visi plāni ietver <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">7 dienu bezmaksas izmēģinājums!</translation>
+@@ -698,14 +698,14 @@ Vai tiešām vēlaties to darīt?</translation>
+ <translation id="1163809943099641131">Viens gads</translation>
+ <translation id="172859718096975160">Atjaunojot katru gadu, <ph name="DISCOUNT_TEXT_START"/> ietaupiet <ph name="PERCENTAGE_AMOUNT"/> %% <ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / gadā</translation>
+-<translation id="5125233570742276182">Maksa par abonementu tiks iekasēta jūsu Google kontā. Iegādājoties abonementu, neizmantotais bezmaksas izmēģinājuma laiks, ja tāds ir bijis, tiek zaudēts.\n\nJūsu abonements tiks atjaunināts automātiski, ja vien netiks atcelts vismaz 24 stundas pirms pašreizējā termiņa.\n\nSavus abonementus varat pārvaldīt iestatījumos.\nIzmantojot Brave, jūs piekrītat lietošanas noteikumiem un privātuma politikai.</translation>
++<translation id="5125233570742276182">Maksa par abonementu tiks iekasēta jūsu Google kontā. Iegādājoties abonementu, neizmantotais bezmaksas izmēģinājuma laiks, ja tāds ir bijis, tiek zaudēts.\n\nJūsu abonements tiks atjaunināts automātiski, ja vien netiks atcelts vismaz 24 stundas pirms pašreizējā termiņa.\n\nSavus abonementus varat pārvaldīt iestatījumos.\nIzmantojot Kahf, jūs piekrītat lietošanas noteikumiem un privātuma politikai.</translation>
+ <translation id="5035172357624830412">Jau iegādājāties vietnē brave.com?</translation>
+ <translation id="713136183174551885">Atsvaidziniet savus akreditācijas datus</translation>
+ <translation id="6053992191006521518">Izmēģiniet BEZ MAKSAS.</translation>
+ <translation id="5903391101107992067">Izmēģiniet bez maksas 7 dienas</translation>
+ <translation id="721747358270435486">Instalējiet VPN.</translation>
+ <translation id="836074276610740314">Instalējiet VPN profilu.</translation>
+-<translation id="8021842065465097929">Brave tagad instalēs VPN profilu.</translation>
++<translation id="8021842065465097929">Kahf tagad instalēs VPN profilu.</translation>
+ <translation id="229286271464650057">Šis profils ļauj VPN visu laiku automātiski izveidot savienojumu un nodrošināt datplūsmu jūsu ierīcē un katrā lietotnē. Šis VPN savienojums tiks šifrēts un novirzīts caur Guardian viedo ugunsmūri, bloķējot reklāmas un izsekotājus.</translation>
+ <translation id="9073255657908892407">Sazināties ar tehnisko atbalstu</translation>
+ <translation id="1139934321138152517">VPN tagad ir iespējots</translation>
+@@ -933,19 +933,19 @@ Ja šo pieprasījumu nepieņemsiet, savienojums ar VPN netiks atkārtoti izveido
+ <translation id="7002577172732106572">Dalītā tunelēšana</translation>
+ <translation id="8181161042860463420">Saistītais pilnvaras konts vēl nepastāv. Tiks iztērēta neliela SOL summa, lai to izveidotu un finansētu. <ph name="CLICK_START"/>Uzziniet vairāk<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Notiek VPN profila atjaunināšana...</translation>
+-<translation id="7457027586454688423">Ievadiet savu Brave maka paroli</translation>
+-<translation id="4784306439879850873">Ņemiet vērā, ka Brave nevar pārbaudīt, kas notiks parakstīšanas gadījumā. Paraksts var atļaut gandrīz jebkādu darbību jūsu kontā vai jūsu vārdā, ieskaitot (bet ne tikai) pilnīgu jūsu konta un kriptovalūtu līdzekļu kontroles nodošanu vietnei, kura iesniedz pieprasījumu. Parakstieties vienīgi tad, ja esat pārliecināts, ka vēlaties veikt šo darbību, un uzticaties pieprasītāja vietnei.</translation>
++<translation id="7457027586454688423">Ievadiet savu Kahf maka paroli</translation>
++<translation id="4784306439879850873">Ņemiet vērā, ka Kahf nevar pārbaudīt, kas notiks parakstīšanas gadījumā. Paraksts var atļaut gandrīz jebkādu darbību jūsu kontā vai jūsu vārdā, ieskaitot (bet ne tikai) pilnīgu jūsu konta un kriptovalūtu līdzekļu kontroles nodošanu vietnei, kura iesniedz pieprasījumu. Parakstieties vienīgi tad, ja esat pārliecināts, ka vēlaties veikt šo darbību, un uzticaties pieprasītāja vietnei.</translation>
+ <translation id="3474375934783434676">Parakstieties uz savu risku</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> no <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Apstiprināt darījumu</translation>
+ <translation id="6450792191436242818">Sistēmas programma</translation>
+-<translation id="5318067544026930166">Atbloķējiet Brave maku ar biometrisko autentifikāciju</translation>
+-<translation id="2629767022373384291">Vai vēlaties izmantot biometrisko autentifikāciju, lai atbloķētu savu Brave maku?</translation>
++<translation id="5318067544026930166">Atbloķējiet Kahf maku ar biometrisko autentifikāciju</translation>
++<translation id="2629767022373384291">Vai vēlaties izmantot biometrisko autentifikāciju, lai atbloķētu savu Kahf maku?</translation>
+ <translation id="4782919977106118997">Izmantot atbloķēšanu ar pirkstu nospiedumu</translation>
+ <translation id="2054995875643283428">Šobrīd izlaist šo</translation>
+ <translation id="2522605225061484799">Iet uz manu portfeli</translation>
+ <translation id="1148624853678088576">Viss kārtībā!</translation>
+-<translation id="4131445988101719379">Jūsu Brave maks ir gatavs lietošanai</translation>
++<translation id="4131445988101719379">Jūsu Kahf maks ir gatavs lietošanai</translation>
+ <translation id="6252742184395380448">Konfig. programma</translation>
+ <translation id="5358970666412490132">Likmju programma</translation>
+ <translation id="346636227344244984">Balsošanas programma</translation>
+@@ -1017,22 +1017,22 @@ Ja šo pieprasījumu nepieņemsiet, savienojums ar VPN netiks atkārtoti izveido
+ <translation id="1313065465616456728">Izdots</translation>
+ <translation id="7902225556763260253">Derīguma termiņš</translation>
+ <translation id="1908159733454294871">Konstatēts drošības risks</translation>
+-<translation id="5658257029899993935">Piesaisti pirkumu savam Brave kontam</translation>
+-<translation id="1187061015547219282">Piesaisti Play Store pirkumu savam Brave kontam, lai lietotu Brave VPN citās ierīcēs.</translation>
++<translation id="5658257029899993935">Piesaisti pirkumu savam Kahf kontam</translation>
++<translation id="1187061015547219282">Piesaisti Play Store pirkumu savam Kahf kontam, lai lietotu Kahf VPN citās ierīcēs.</translation>
+ <translation id="6662142137695589205">Piesaisti savu VPN abonementu</translation>
+-<translation id="2674077112509133024">Paplašini savu Brave ugunsmūri + VPN aizsardzību</translation>
+-<translation id="6365389672683343144">Tavs Brave VPN abonements var pasargāt līdz 5 ierīcēm – gan Android, gan iOS, gan datoru. Vienkārši piesaisti savu Google Play abonementu savam Brave kontam.</translation>
++<translation id="2674077112509133024">Paplašini savu Kahf ugunsmūri + VPN aizsardzību</translation>
++<translation id="6365389672683343144">Tavs Kahf VPN abonements var pasargāt līdz 5 ierīcēm – gan Android, gan iOS, gan datoru. Vienkārši piesaisti savu Google Play abonementu savam Kahf kontam.</translation>
+ <translation id="6610899852831463073">Nevar iespējot drošu pārlūkošanu</translation>
+ <translation id="7954263306665462056">Jūsu ierīcē ir atspējota droša pārlūkošana. Lai to iespējotu, pārliecinieties vai ir instalēti un atjaunināti Google Play pakalpojumi.</translation>
+ <translation id="6605147707233193230">Ieslēdziet, lai palīdzētu atbalstīt satura veidotājus</translation>
+ <translation id="1609556006143307897">Jūs palīdzat atbalstīt satura veidotājus</translation>
+-<translation id="6067959437127691361">Brave balvu izmantošana palīdz atbalstīt satura veidotājus un ļauj jums nopelnīt BAT.</translation>
++<translation id="6067959437127691361">Kahf balvu izmantošana palīdz atbalstīt satura veidotājus un ļauj jums nopelnīt BAT.</translation>
+ <translation id="3264975266761862670">Vai esat gatavs sākt pelnīt?</translation>
+ <translation id="265337947574975838">Pieslēdzieties vai izveidojiet kontu pie kāda no mūsu partneriem.</translation>
+ <translation id="654447476965480878">Uzzināt vairāk par BAT pelnīšanu</translation>
+ <translation id="6278643716658443228">Rewards iestatījumi</translation>
+ <translation id="6516984207843289176">Pievienot kontu</translation>
+-<translation id="4272136334824111854">Šomēnes Jūs apmeklējāt <ph name="CREATOR_COUNT"/> veidotājus, kurus atbalsta Brave Rewards.</translation>
++<translation id="4272136334824111854">Šomēnes Jūs apmeklējāt <ph name="CREATOR_COUNT"/> veidotājus, kurus atbalsta Kahf Rewards.</translation>
+ <translation id="6845311459433734326">Pieslēdziet depozitāro kontu, lai varat pelnīt BAT un saņemt savas balvas</translation>
+ <translation id="928980476243133540">Izdarīt to vēlāk</translation>
+ <translation id="579702532610384533">Atkārtoti izveidot savienojumu</translation>
+@@ -1065,8 +1065,8 @@ Ja šo pieprasījumu nepieņemsiet, savienojums ar VPN netiks atkārtoti izveido
+ <translation id="346505172740911461">Tirgus cena</translation>
+ <translation id="5494920125229734069">Atlasīt visu</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Pierakstīties ar Brave maku</translation>
+-<translation id="3696514931437952995">Jūs pierakstāties <ph name="ORIGIN"/>. Brave maks kopīgos jūsu maka adresi ar <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Pierakstīties ar Kahf maku</translation>
++<translation id="3696514931437952995">Jūs pierakstāties <ph name="ORIGIN"/>. Kahf maks kopīgos jūsu maka adresi ar <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Skatīt informāciju</translation>
+ <translation id="6759710362319508545">Resursi</translation>
+ <translation id="2471230424465522689">Ne pirms</translation>
+@@ -1075,7 +1075,7 @@ Ja šo pieprasījumu nepieņemsiet, savienojums ar VPN netiks atkārtoti izveido
+ <translation id="4109670531935487117">Rādīt automātiskās aizpildes ieteikumus adrešu joslā</translation>
+ <translation id="1250335737108905610">Atiestatīt un notīrīt Leo datus</translation>
+ <translation id="6165101586663336913">Lai atiestatītu asistentu Leo, jums jāpiekrīt turpmāk izmantot Leo, un tiks notīrīta jūsu tērzēšanas vēsture. Notīrot tērzēšanas vēsturi, tiks izdzēstas visas jūsu iepriekšējās sarunas ar Leo. Šo darbību nevar atsaukt.</translation>
+-<translation id="3692772534525889713">Saistiet savu Play Store pirkumu ar savu Brave kontu, lai izmantotu Brave Leo citās ierīcēs.</translation>
++<translation id="3692772534525889713">Saistiet savu Play Store pirkumu ar savu Kahf kontu, lai izmantotu Kahf Leo citās ierīcēs.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Ikmēneša</translation>
+ <translation id="451189393813405346">Jautāt Leo</translation>

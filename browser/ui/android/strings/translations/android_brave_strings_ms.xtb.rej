@@ -1,0 +1,298 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_ms.xtb b/browser/ui/android/strings/translations/android_brave_strings_ms.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Ketahui lebih lanjut tentang Widevine<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Benarkan (Lancarkan Semula Sekarang)</translation>
+ <translation id="2433507940547922241">Tampilan</translation>
+-<translation id="9040069796107003510">Ikon Ganjaran Brave</translation>
+-<translation id="6333347122924254968">Tunjukkan ikon Ganjaran Brave dalam bar alamat</translation>
++<translation id="9040069796107003510">Ikon Ganjaran Kahf</translation>
++<translation id="6333347122924254968">Tunjukkan ikon Ganjaran Kahf dalam bar alamat</translation>
+ <translation id="8495235435594442882">Dayakan bar alat bawah</translation>
+-<translation id="6587448235155023666">Perubahan anda akan kelihatan apabila anda melancarkan semula Brave</translation>
++<translation id="6587448235155023666">Perubahan anda akan kelihatan apabila anda melancarkan semula Kahf</translation>
+ <translation id="8701563696941209024">LANCARKAN SEMULA SEKARANG</translation>
+ <translation id="834487290629916192">NANTI</translation>
+-<translation id="7207456302801184289">Selamat Datang ke Brave</translation>
++<translation id="7207456302801184289">Selamat Datang ke Kahf</translation>
+ <translation id="4117451092682672487">Privasi. Dipermudahkan.</translation>
+-<translation id="7909375417585209817">Apabila Brave ditetapkan sebagai lalai, setiap pautan yang anda ketik akan dibuka dengan perlindungan privasi Brave.</translation>
++<translation id="7909375417585209817">Apabila Kahf ditetapkan sebagai lalai, setiap pautan yang anda ketik akan dibuka dengan perlindungan privasi Kahf.</translation>
+ <translation id="7370959926683925817">Sekat iklan. Simpan data. Setiap hari.</translation>
+-<translation id="7281027579943912834">Dengan Brave sebagai pelayar lalai, setiap pautan yang anda ketik mendapat perlindungan sekatan iklan Brave. Setiap halaman, video dan strim.</translation>
+-<translation id="5148943178722443958">Bantu usaha menambah baik Brave.</translation>
++<translation id="7281027579943912834">Dengan Kahf sebagai pelayar lalai, setiap pautan yang anda ketik mendapat perlindungan sekatan iklan Kahf. Setiap halaman, video dan strim.</translation>
++<translation id="5148943178722443958">Bantu usaha menambah baik Kahf.</translation>
+ <translation id="6718362830686703942">Hantar laporan diagnostik jika anda mengalami ranap atau beku.</translation>
+-<translation id="8616157231067364693">Kongsikan cerapan produk yang bersifat peribadi dan tanpa nama tentang jenis ciri yang digunakan oleh pengguna Brave.</translation>
++<translation id="8616157231067364693">Kongsikan cerapan produk yang bersifat peribadi dan tanpa nama tentang jenis ciri yang digunakan oleh pengguna Kahf.</translation>
+ <translation id="2877653791257935258">Taipkan nama tapak web atau URL</translation>
+-<translation id="5329830149661250028">Lihat perbezaan Brave: Tanpa iklan. Tanpa penjejak. Pemuatan halaman lebih pantas.</translation>
+-<translation id="3941792073703079607">Lihat perbezaan Brave: Sekat iklan. Simpan data. Strim lebih pantas.</translation>
+-<translation id="3545804467215833536">Ketik untuk melihat Brave Shields</translation>
+-<translation id="1724327820822194498">Lihat semua perkara buruk yang disekat oleh Brave, pada setiap halaman, dengan bantuan Shields.</translation>
++<translation id="5329830149661250028">Lihat perbezaan Kahf: Tanpa iklan. Tanpa penjejak. Pemuatan halaman lebih pantas.</translation>
++<translation id="3941792073703079607">Lihat perbezaan Kahf: Sekat iklan. Simpan data. Strim lebih pantas.</translation>
++<translation id="3545804467215833536">Ketik untuk melihat Kahf Shields</translation>
++<translation id="1724327820822194498">Lihat semua perkara buruk yang disekat oleh Kahf, pada setiap halaman, dengan bantuan Shields.</translation>
+ <translation id="5386259141409498372"><ph name="BIG_TECH"/> dan <ph name="TRACKER"/> penjejak &amp; iklan yang lain disekat</translation>
+ <translation id="7256200875155794202"><ph name="BIG_TECH"/> dan iklan &amp; penjejak lain disekat</translation>
+ <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> iklan &amp; penjejak disekat</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Penyertaan pencarisilapan</translation>
+ <translation id="5808759341041733958">Pilih enjin carian lalai.</translation>
+ <translation id="1331593888918588693">Anda sentiasa boleh menukar pilihan anda kemudian dalam tetapan aplikasi.</translation>
+-<translation id="5806601733251372221">Pelindung Brave</translation>
++<translation id="5806601733251372221">Pelindung Kahf</translation>
+ <translation id="8537217141725709400">Memperoleh <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Brave Rewards</translation>
++<translation id="3333887201479867589">Kahf Rewards</translation>
+ <translation id="5870330605209713397">dengan melihat iklan yang menghormati privasi dan menyokong laman kegemaran anda secara lalai.</translation>
+-<translation id="5302488867897327287">Dengan mengetik Mula menggunakan Ganjaran Brave, anda bersetuju dengan</translation>
++<translation id="5302488867897327287">Dengan mengetik Mula menggunakan Ganjaran Kahf, anda bersetuju dengan</translation>
+ <translation id="4281844954008187215">Syarat Perkhidmatan</translation>
+ <translation id="6871397658902960384">Mulakan melayari Internet</translation>
+ <translation id="454386012157232640">Saya tidak nampak iklan</translation>
+-<translation id="1448877943847791441">Brave akan menunjukkan iklan pertama anda dalam</translation>
+-<translation id="4410793187232041318">Kini anda akan memperoleh token daripada Iklan Brave.</translation>
+-<translation id="6511854390690723657">Ini iklan Brave pertama anda. Ketik untuk mengetahui lebih lanjut.</translation>
+-<translation id="2070991379950719711">Mula menggunakan Ganjaran Brave</translation>
++<translation id="1448877943847791441">Kahf akan menunjukkan iklan pertama anda dalam</translation>
++<translation id="4410793187232041318">Kini anda akan memperoleh token daripada Iklan Kahf.</translation>
++<translation id="6511854390690723657">Ini iklan Kahf pertama anda. Ketik untuk mengetahui lebih lanjut.</translation>
++<translation id="2070991379950719711">Mula menggunakan Ganjaran Kahf</translation>
+ <translation id="48520986898237073">Teruskan ke dompet</translation>
+ <translation id="3570367516044491911">Tetapkan sebagai pelayar lalai</translation>
+ <translation id="6800338374677644736">Tetapkan sebagai Penyemak Imbas Lalai</translation>
+-<translation id="19715420010996093">Pilih Pelayar Brave dan ketik 'Sentiasa'</translation>
+-<translation id="3546439402724649282">Brave sudah pun ditetapkan sebagai pelayar lalai anda.</translation>
++<translation id="19715420010996093">Pilih Pelayar Kahf dan ketik 'Sentiasa'</translation>
++<translation id="3546439402724649282">Kahf sudah pun ditetapkan sebagai pelayar lalai anda.</translation>
+ <translation id="8389661903259423907">Anda telah pun menetapkan pelayar lalai. Anda boleh mengubah pelayar lalai melalui tetapan aplikasi anda.</translation>
+ <translation id="1545749641540134597">Imbas Kod QR</translation>
+ <translation id="5317781812114905957">Arahan</translation>
+@@ -353,14 +353,14 @@
+ <translation id="4358805443781965194">Kod telah tamat tempoh. Jana kod baharu dengan mengklik butang di bawah.</translation>
+ <translation id="318164877797885563">Kod sementara ini sah selama <ph name="TIME_AMOUNT"/> seterusnya</translation>
+ <translation id="327726072512457161">Keluar Tetapan</translation>
+-<translation id="8050847734948770789">Aktifkan Brave Rewards</translation>
++<translation id="8050847734948770789">Aktifkan Kahf Rewards</translation>
+ <translation id="9187185473011056079">Saya ingin turut serta!</translation>
+-<translation id="8185825081026121627">Dapatkan Token Perhatian Asas dengan melihat iklan Brave Rewards yang menjaga privasi.</translation>
++<translation id="8185825081026121627">Dapatkan Token Perhatian Asas dengan melihat iklan Kahf Rewards yang menjaga privasi.</translation>
+ <translation id="5321518976657560663">Set Semula Ralat</translation>
+-<translation id="4114170343590425996">Terdapat ralat semasa mengeset semula Ganjaran Brave. Sila lancarkan semula Brave dan cuba semula.</translation>
+-<translation id="6417420737057016607">Iklan Brave</translation>
+-<translation id="5611966874859284786">Tunjukkan iklan pemberitahuan apabila Brave tidak digunakan</translation>
+-<translation id="6606319453795180219">Langkah ini akan memadamkan Ganjaran Brave anda dan menetapkan semula semua data Ganjaran Brave anda</translation>
++<translation id="4114170343590425996">Terdapat ralat semasa mengeset semula Ganjaran Kahf. Sila lancarkan semula Kahf dan cuba semula.</translation>
++<translation id="6417420737057016607">Iklan Kahf</translation>
++<translation id="5611966874859284786">Tunjukkan iklan pemberitahuan apabila Kahf tidak digunakan</translation>
++<translation id="6606319453795180219">Langkah ini akan memadamkan Ganjaran Kahf anda dan menetapkan semula semua data Ganjaran Kahf anda</translation>
+ <translation id="8293206222192510085">Tambah Penanda Halaman</translation>
+ <translation id="340492034650766959">Padamkan Penanda Halaman</translation>
+ <translation id="2149973817440762519">Edit Penanda Buku</translation>
+@@ -464,35 +464,35 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="5582686930349810484">Pengecapan jari disekat (standard)</translation>
+ <translation id="769702552748212954">Benarkan semua pengecapan jari</translation>
+ <translation id="876424292214881779">Iklan dan perkara buruk lain disekat</translation>
+-<translation id="6930134873084561197">Laman kerap memasukkan kuki dan skrip yang cuba mengenal pasti anda dan peranti anda. Mereka ingin mengetahui siapakah anda dan mengikuti anda ke seluruh internet - menjejaki apa yang anda lakukan di setiap laman.\n\nBrave akan menyekat perkara-perkara ini supaya anda boleh berlayar tanpa diikuti.</translation>
+-<translation id="8553998445606452168">Mengenai Brave Shields</translation>
++<translation id="6930134873084561197">Laman kerap memasukkan kuki dan skrip yang cuba mengenal pasti anda dan peranti anda. Mereka ingin mengetahui siapakah anda dan mengikuti anda ke seluruh internet - menjejaki apa yang anda lakukan di setiap laman.\n\nKahf akan menyekat perkara-perkara ini supaya anda boleh berlayar tanpa diikuti.</translation>
++<translation id="8553998445606452168">Mengenai Kahf Shields</translation>
+ <translation id="8912304686498704084">ATAS</translation>
+ <translation id="4963218453264888510">BAWAH</translation>
+-<translation id="7474113515179313724">Anda sedang melayari laman ini tanpa perlindungan privasi Brave. Adakah ia berfungsi dengan Shields diaktifkan?</translation>
++<translation id="7474113515179313724">Anda sedang melayari laman ini tanpa perlindungan privasi Kahf. Adakah ia berfungsi dengan Shields diaktifkan?</translation>
+ <translation id="4226543734057230801">Rangkaian Ethereum</translation>
+ <translation id="3504157706952484145">Rangkaian Filecoin</translation>
+ <translation id="1561541094377237745">Rangkaian Solana</translation>
+ <translation id="7141438739990875547">Rangkaian Bitcoin</translation>
+ <translation id="9055546041146396417">Sekiranya laman ini nampaknya rosak, cuba Shields.</translation>
+ <translation id="1209739344687072997">Laporkan laman yang  terputus-putus</translation>
+-<translation id="8510478288840333677">Beritahu pembangun Brave yang laman ini tidak berfungsi dengan baik dengan Shields:</translation>
+-<translation id="5429200298326665264">Pemberitahuan: Alamat laman ini akan diserahkan dengan nombor versi Brave anda berserta dengan alamat IP anda (yang tidak akan disimpan).</translation>
++<translation id="8510478288840333677">Beritahu pembangun Kahf yang laman ini tidak berfungsi dengan baik dengan Shields:</translation>
++<translation id="5429200298326665264">Pemberitahuan: Alamat laman ini akan diserahkan dengan nombor versi Kahf anda berserta dengan alamat IP anda (yang tidak akan disimpan).</translation>
+ <translation id="5299848999918506028">Terima kasih!</translation>
+-<translation id="76550953340008122">Terima kasih kerana memberitahu pembangun Brave bahawa terdapat sesuatu yang tidak kena dengan laman ini. Kami akan melakukan yang terbaik untuk memperbaikinya!</translation>
++<translation id="76550953340008122">Terima kasih kerana memberitahu pembangun Kahf bahawa terdapat sesuatu yang tidak kena dengan laman ini. Kami akan melakukan yang terbaik untuk memperbaikinya!</translation>
+ <translation id="650318023204990401">Kawalan lanjutan</translation>
+ <translation id="5370478469168390143">Simpan Data Dalam Talian</translation>
+-<translation id="1118508688433541158">Layar dengan lebih pantas dan sekat iklan dengan Brave</translation>
+-<translation id="7427391215172269363">Setiap hari saya menjimatkan data dengan melayari Web dengan Brave.</translation>
+-<translation id="4776948189086901857">Brave berfungsi di mana jua</translation>
+-<translation id="1606322780901645965">Muat turun Brave di brave.com di komputer riba atau tablet anda untuk web yang lebih pantas dan lebih peribadi</translation>
++<translation id="1118508688433541158">Layar dengan lebih pantas dan sekat iklan dengan Kahf</translation>
++<translation id="7427391215172269363">Setiap hari saya menjimatkan data dengan melayari Web dengan Kahf.</translation>
++<translation id="4776948189086901857">Kahf berfungsi di mana jua</translation>
++<translation id="1606322780901645965">Muat turun Kahf di brave.com di komputer riba atau tablet anda untuk web yang lebih pantas dan lebih peribadi</translation>
+ <translation id="8374242949413616101">Perlindungan privasi</translation>
+-<translation id="4955406228638026265">Brave menyekat penjejak &amp; iklan daripada mengumpul maklumat mengenai anda tanpa kebenaran anda.</translation>
++<translation id="4955406228638026265">Kahf menyekat penjejak &amp; iklan daripada mengumpul maklumat mengenai anda tanpa kebenaran anda.</translation>
+ <translation id="752842701893882688">Jimat data dan bateri</translation>
+ <translation id="1685837926613452362">Tanpa iklan &amp; penjejak, laman web menggunakan kurang data dan bateri. Malah, anda juga mungkin jimat caj pembawa mudah alih.</translation>
+ <translation id="5440744330377972191">Laman-laman web dimuatkan dengan lebih pantas</translation>
+-<translation id="3000738865641747653">Memuatkan data yang kurang bermakna laman web di Brave dimuatkan dengan lebih pantas - sehingga 8x lebih pantas daripada pelayar-pelayar lain.</translation>
++<translation id="3000738865641747653">Memuatkan data yang kurang bermakna laman web di Kahf dimuatkan dengan lebih pantas - sehingga 8x lebih pantas daripada pelayar-pelayar lain.</translation>
+ <translation id="8903462729414407077">Dapatkan perkembangan mingguan terkini</translation>
+-<translation id="7450323860390658083">Ambil maklum mengenai laman web mana yang anda lawati yang paling invasif privasi.\n\nHanya anda yang dapat melihat statistik privasi ini. Tiada data peribadi atau sejarah penyemakan imbas yang meninggalkan penyemak imbas Brave pada peranti anda.</translation>
++<translation id="7450323860390658083">Ambil maklum mengenai laman web mana yang anda lawati yang paling invasif privasi.\n\nHanya anda yang dapat melihat statistik privasi ini. Tiada data peribadi atau sejarah penyemakan imbas yang meninggalkan penyemak imbas Kahf pada peranti anda.</translation>
+ <translation id="6170159749517116894">Hidupkan laporan privasi</translation>
+ <translation id="1669047024429367828">Keterlihatan</translation>
+ <translation id="5966707198760109579">Minggu</translation>
+@@ -585,9 +585,9 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="1483493594462132177">Hantar</translation>
+ <translation id="538450413584738399">Pertukaran</translation>
+ <translation id="4556086616242530072">Natif penyemak imbas.\nJagaan sendiri.\nDan berbilang rantaian.</translation>
+-<translation id="7909462264772842773">Kawal kripto dan NFT anda. Brave Wallet menyokong Ethereum, rantaian EVM, Solana dan banyak lagi.</translation>
++<translation id="7909462264772842773">Kawal kripto dan NFT anda. Kahf Wallet menyokong Ethereum, rantaian EVM, Solana dan banyak lagi.</translation>
+ <translation id="165255193061631296">Perlukan dompet baharu?</translation>
+-<translation id="3485737865439729577">Bermula dengan Brave Wallet dalam masa beberapa minit</translation>
++<translation id="3485737865439729577">Bermula dengan Kahf Wallet dalam masa beberapa minit</translation>
+ <translation id="2759836790106646094">Sandarkan dompet anda sekarang!</translation>
+ <translation id="1078873179929044999">Pada langkah seterusnya, anda’ akan melihat frasa pemulihan 12 perkataan yang boleh digunakan untuk mendapatkan akaun kripto utama anda semula. Simpan di tempat yang selamat. Frasa pemulihan anda adalah satu-satunya cara untuk mendapatkan semula akses sekiranya anda terlupa kata laluan, peranti anda hilang atau dicuri, atau anda ingin beralih dompet.</translation>
+ <translation id="2359808026110333948">Teruskan</translation>
+@@ -595,7 +595,7 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="1904000155026201268">Saya faham bahawa jika saya kehilangan frasa pemulihan saya, saya tidak akan dapat mengakses dompet kripto saya.</translation>
+ <translation id="5333225216561354793">Kami memerlukan anda mengakui item berikut</translation>
+ <translation id="6937275455070754004">Pilih rantaian blok yang hendak digunakan dalam dompet anda.</translation>
+-<translation id="1645800479814134195">Saya faham ini ialah dompet penjagaan sendiri, dan saya seorang sahaja yang bertanggungjawab ke atas sebarang dana, aset atau akaun yang berkaitan, dan untuk mengambil tindakan yang sewajarnya untuk menjamin, melindungi dan membuat sandaran dompet saya. Saya faham bahawa Brave tidak boleh mengakses dompet saya atau membalikkan transaksi bagi pihak saya, dan frasa pemulihan saya ialah SATU-SATUNYA cara untuk mendapatkan semula akses sekiranya kata laluan hilang, peranti dicuri atau keadaan yang serupa.</translation>
++<translation id="1645800479814134195">Saya faham ini ialah dompet penjagaan sendiri, dan saya seorang sahaja yang bertanggungjawab ke atas sebarang dana, aset atau akaun yang berkaitan, dan untuk mengambil tindakan yang sewajarnya untuk menjamin, melindungi dan membuat sandaran dompet saya. Saya faham bahawa Kahf tidak boleh mengakses dompet saya atau membalikkan transaksi bagi pihak saya, dan frasa pemulihan saya ialah SATU-SATUNYA cara untuk mendapatkan semula akses sekiranya kata laluan hilang, peranti dicuri atau keadaan yang serupa.</translation>
+ <translation id="4565891212173086999">Saya telah membaca dan bersetuju dengan  <ph name="CLICK_START"/>Terma Penggunaan<ph name="CLICK_END"/>.</translation>
+ <translation id="3933122286596948824">Frasa pemulihan anda</translation>
+ <translation id="5077747669435508720">Tulis atau salin perkataan ini mengikut urutan yang sebenar yang ditunjukkan di bawah, dan simpan di tempat yang selamat. Frasa pemulihan anda adalah satu-satunya cara untuk mendapatkan semula akses akaun sekiranya anda terlupa kata laluan, kehilangan peranti atau dicuri, atau anda mahu menukar dompet.</translation>
+@@ -616,13 +616,13 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="8030647312184163932">Buka kunci cap jari</translation>
+ <translation id="4090490645603511157">Gunakan biometrik untuk membuka kunci dompet anda dengan cepat tanpa memasukkan kata laluan anda.</translation>
+ <translation id="1544192797660353713">Dompet</translation>
+-<translation id="6901810042765869341">Masukkan frasa pemulihan anda untuk memulihkan akaun kripto Brave Wallet anda.</translation>
++<translation id="6901810042765869341">Masukkan frasa pemulihan anda untuk memulihkan akaun kripto Kahf Wallet anda.</translation>
+ <translation id="9120654436199628567">Pulihkan akaun kripto</translation>
+ <translation id="4811736040444856406">Tunjukkan frasa pemulihan</translation>
+ <translation id="283071225285270357">Masukkan frasa pemulihan anda</translation>
+ <translation id="3943857333388298514">Tampal</translation>
+ <translation id="3331452756822160641">Kata Laluan Baharu</translation>
+-<translation id="4359319875297001084">Import daripada legasi dompet kripto Brave?</translation>
++<translation id="4359319875297001084">Import daripada legasi dompet kripto Kahf?</translation>
+ <translation id="2339124864228588937">Sahkan frasa pemulihan</translation>
+ <translation id="3747079125031086337">Pilih perkataan dalam frasa pemulihan anda mengikut urutan yang betul.</translation>
+ <translation id="6518133107902771759">Sahkan</translation>
+@@ -656,8 +656,8 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="5760476995887363522">Frasa tidak sepadan. Sila cuba lagi.</translation>
+ <translation id="2360588547830602174">Pemulihan akaun gagal. Sila cuba lagi.</translation>
+ <translation id="1987317783729300807">Akaun</translation>
+-<translation id="6284218950354553099">Hantar ping penggunaan harian secara automatik ke Brave</translation>
+-<translation id="2181060149810222381">Ping peribadi ini membolehkan Brave menganggarkan pengguna aktif.</translation>
++<translation id="6284218950354553099">Hantar ping penggunaan harian secara automatik ke Kahf</translation>
++<translation id="2181060149810222381">Ping peribadi ini membolehkan Kahf menganggarkan pengguna aktif.</translation>
+ <translation id="6725413948756358325">Nama Akaun</translation>
+ <translation id="6062431965141524986">Anda boleh mencipta akaun kedua dengan mengimport kunci peribadi anda.</translation>
+ <translation id="3952797765659730604">Masukkan, tampal atau import fail rentetan kunci peribadi atau JSON.</translation>
+@@ -679,14 +679,14 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="1721710839767183848">Tiada iklan pada halaman</translation>
+ <translation id="4647035642622555398">Tiada gangguan</translation>
+ <translation id="4122515759479497554">Cari video</translation>
+-<translation id="4449475351935531438">Tembok Api Brave + VPN</translation>
++<translation id="4449475351935531438">Tembok Api Kahf + VPN</translation>
+ <translation id="719977489961414786">Naik taraf ke VPN untuk melindungi sambungan anda dan sekat penjejak invasif di mana-mana sahaja.</translation>
+ <translation id="8814357473522731680">Dikuasakan oleh</translation>
+ <translation id="5892534145504632332">Lindungi setiap apl &amp; seluruh peranti anda</translation>
+ <translation id="7195416926059527505">Lebih selamat untuk WI-Fi rumah atau awam</translation>
+ <translation id="1354700000739359839">Sepantas kilat, sehingga 100 Mbps</translation>
+ <translation id="3510283489391432976">Pilih lokasi geo/negara anda</translation>
+-<translation id="7695158478627528928">Brave tidak pernah mengelogkan aktiviti anda</translation>
++<translation id="7695158478627528928">Kahf tidak pernah mengelogkan aktiviti anda</translation>
+ <translation id="4575683170451975058">Lindungi 5 peranti pada 1 langganan</translation>
+ <translation id="4882693590083943563">Semua pelan termasuk <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">percubaan percuma 7 hari!</translation>
+@@ -697,14 +697,14 @@ Anda pasti anda ingin melakukan tindakan ini?</translation>
+ <translation id="1163809943099641131">Satu Tahun</translation>
+ <translation id="172859718096975160">Baharui setiap tahun <ph name="DISCOUNT_TEXT_START"/>jimat <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> / thn.</translation>
+-<translation id="5125233570742276182">Langganan akan dicaj melalui akaun Google anda. Mana-mana bahagian percubaan percuma yang tidak digunakan, jika ditawarkan, akan hilang apabila anda membeli langganan.\n\nLangganan anda akan dibaharui secara automatik melainkan ia dibatalkan sekurang-kurangnya 24 jam sebelum tamat tempoh semasa.\n\nAnda boleh mengurus langganan anda dalam Tetapan.\nDengan menggunakan Brave, maksudnya anda bersetuju menerima Syarat Penggunaan dan Dasar Privasi.</translation>
++<translation id="5125233570742276182">Langganan akan dicaj melalui akaun Google anda. Mana-mana bahagian percubaan percuma yang tidak digunakan, jika ditawarkan, akan hilang apabila anda membeli langganan.\n\nLangganan anda akan dibaharui secara automatik melainkan ia dibatalkan sekurang-kurangnya 24 jam sebelum tamat tempoh semasa.\n\nAnda boleh mengurus langganan anda dalam Tetapan.\nDengan menggunakan Kahf, maksudnya anda bersetuju menerima Syarat Penggunaan dan Dasar Privasi.</translation>
+ <translation id="5035172357624830412">Sudah membeli melalui brave.com?</translation>
+ <translation id="713136183174551885">Muatkan semula bukti kelayakan anda</translation>
+ <translation id="6053992191006521518">Cuba secara PERCUMA</translation>
+ <translation id="5903391101107992067">Cuba gunakan selama 7 Hari secara Percuma</translation>
+ <translation id="721747358270435486">Pasang VPN</translation>
+ <translation id="836074276610740314">Pasang Profil VPN</translation>
+-<translation id="8021842065465097929">Brave kini akan memasang profil VPN.</translation>
++<translation id="8021842065465097929">Kahf kini akan memasang profil VPN.</translation>
+ <translation id="229286271464650057">Profil ini membenarkan VPN bersambung dan melindungi trafik merentasi peranti anda; pada setiap aplikasi, setiap masa. Sambungan VPN ini akan disulitkan dan dihalakan melalui tembok api pintar Guardian untuk menyekat iklan dan penjejak.</translation>
+ <translation id="9073255657908892407">Hubungi Sokongan Teknikal</translation>
+ <translation id="1139934321138152517">VPN kini didayakan</translation>
+@@ -932,19 +932,19 @@ Jika anda tidak menerima permintaan ini, VPN tidak akan bersambung semula dan sa
+ <translation id="7002577172732106572">Penerowongan Terpisah</translation>
+ <translation id="8181161042860463420">Akaun token yang berkaitan belum wujud lagi. Sejumlah kecil SOL akan dibelanjakan untuk mencipta dan membiayainya. <ph name="CLICK_START"/>Ketahui lebih lanjut<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">Mengemas kini Profil VPN ...</translation>
+-<translation id="7457027586454688423">Masukkan kata laluan Dompet Brave anda</translation>
+-<translation id="4784306439879850873">Sila ambil perhatian bahawa Brave tidak dapat mengesahkan kesan daripada penurunan tandatangan anda.  Tandatangan boleh membenarkan hampir semua kendalian dalam akaun anda atau bagi pihak anda, termasuk (tetapi tidak terhad kepada) memberikan kawalan sepenuhnya terhadap akaun dan aset kripto anda kepada laman web yang membuat permintaan tersebut. Hanya tandatangan jika anda pasti dengan tindakan ini, dan mempercayai laman web tersebut.</translation>
++<translation id="7457027586454688423">Masukkan kata laluan Dompet Kahf anda</translation>
++<translation id="4784306439879850873">Sila ambil perhatian bahawa Kahf tidak dapat mengesahkan kesan daripada penurunan tandatangan anda.  Tandatangan boleh membenarkan hampir semua kendalian dalam akaun anda atau bagi pihak anda, termasuk (tetapi tidak terhad kepada) memberikan kawalan sepenuhnya terhadap akaun dan aset kripto anda kepada laman web yang membuat permintaan tersebut. Hanya tandatangan jika anda pasti dengan tindakan ini, dan mempercayai laman web tersebut.</translation>
+ <translation id="3474375934783434676">Tandatangan atas risiko anda sendiri.</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> daripada <ph name="SIZE"/></translation>
+ <translation id="756701799684433105">Luluskan transaksi</translation>
+ <translation id="6450792191436242818">Atur Cara Sistem</translation>
+-<translation id="5318067544026930166">Buka kunci Dompet Brave dengan pengesahan biometrik</translation>
+-<translation id="2629767022373384291">Adakah anda ingin menggunakan pengesahan biometrik untuk membuka kunci Dompet Brave anda?</translation>
++<translation id="5318067544026930166">Buka kunci Dompet Kahf dengan pengesahan biometrik</translation>
++<translation id="2629767022373384291">Adakah anda ingin menggunakan pengesahan biometrik untuk membuka kunci Dompet Kahf anda?</translation>
+ <translation id="4782919977106118997">Gunakan Buka Kunci Cap Jari</translation>
+ <translation id="2054995875643283428">Langkau buat sekarang</translation>
+ <translation id="2522605225061484799">Sila ke portfolio saya</translation>
+ <translation id="1148624853678088576">Anda sudah bersedia!</translation>
+-<translation id="4131445988101719379">Dompet Brave anda sedia digunakan.</translation>
++<translation id="4131445988101719379">Dompet Kahf anda sedia digunakan.</translation>
+ <translation id="6252742184395380448">Konfigurasikan Atur Cara</translation>
+ <translation id="5358970666412490132">Atur Cara Kepentingan</translation>
+ <translation id="346636227344244984">Atur Cara Undi</translation>
+@@ -1016,22 +1016,22 @@ Jika anda tidak menerima permintaan ini, VPN tidak akan bersambung semula dan sa
+ <translation id="1313065465616456728">Dikeluarkan pada</translation>
+ <translation id="7902225556763260253">Masa tamat tempoh</translation>
+ <translation id="1908159733454294871">Risiko keselamatan dikesan</translation>
+-<translation id="5658257029899993935">Pautkan pembelian ke akaun Brave anda</translation>
+-<translation id="1187061015547219282">Pautkan pembelian Play Store pada akaun Brave anda untuk menggunakan VPN Brave pada peranti lain.</translation>
++<translation id="5658257029899993935">Pautkan pembelian ke akaun Kahf anda</translation>
++<translation id="1187061015547219282">Pautkan pembelian Play Store pada akaun Kahf anda untuk menggunakan VPN Kahf pada peranti lain.</translation>
+ <translation id="6662142137695589205">Pautkan langganan VPN anda</translation>
+-<translation id="2674077112509133024">Lanjutkan perlindungan Tembok Api Brave + VPN anda</translation>
+-<translation id="6365389672683343144">Langganan VPN Brave anda boleh melindungi hingga 5 peranti, merentasi Android, iOS dan desktop. Hanya pautkan langganan Google Play anda kepada akaun Brave anda.`</translation>
++<translation id="2674077112509133024">Lanjutkan perlindungan Tembok Api Kahf + VPN anda</translation>
++<translation id="6365389672683343144">Langganan VPN Kahf anda boleh melindungi hingga 5 peranti, merentasi Android, iOS dan desktop. Hanya pautkan langganan Google Play anda kepada akaun Kahf anda.`</translation>
+ <translation id="6610899852831463073">Tidak boleh mendayakan Semak Imbas Selamat</translation>
+ <translation id="7954263306665462056">Semak Imbas Selamat telah dinyahdayakan pada peranti anda. Untuk mendayakannya, pastikan bahawa Perkhidmatan Google Play telah dipasang dan berstatus terkini.</translation>
+ <translation id="6605147707233193230">Hidupkan untuk membantu menyokong pencipta kandungan</translation>
+ <translation id="1609556006143307897">Anda membantu menyokong pencipta kandungan</translation>
+-<translation id="6067959437127691361">Tindakan menggunakan Ganjaran Brave dapat menyokong pencipta kandungan dan membolehkan anda memperoleh BAT</translation>
++<translation id="6067959437127691361">Tindakan menggunakan Ganjaran Kahf dapat menyokong pencipta kandungan dan membolehkan anda memperoleh BAT</translation>
+ <translation id="3264975266761862670">Sudah bersedia untuk mula memperoleh pendapatan?</translation>
+ <translation id="265337947574975838">Sambung atau cipta akaun dengan salah satu rakan kongsi kami.</translation>
+ <translation id="654447476965480878">Ketahui lebih lanjut tentang perolehan BAT</translation>
+ <translation id="6278643716658443228">Tetapan ganjaran</translation>
+ <translation id="6516984207843289176">Hubungkan akaun</translation>
+-<translation id="4272136334824111854">Pada bulan ini, anda telah melawat<ph name="CREATOR_COUNT"/> pencipta yang disokong oleh Ganjaran Brave</translation>
++<translation id="4272136334824111854">Pada bulan ini, anda telah melawat<ph name="CREATOR_COUNT"/> pencipta yang disokong oleh Ganjaran Kahf</translation>
+ <translation id="6845311459433734326">Sambungkan akaun penjagaan supaya anda boleh memperoleh BAT dan mengeluarkan ganjaran anda</translation>
+ <translation id="928980476243133540">Saya akan lakukan kemudian</translation>
+ <translation id="579702532610384533">Sambung semula</translation>
+@@ -1064,8 +1064,8 @@ Jika anda tidak menerima permintaan ini, VPN tidak akan bersambung semula dan sa
+ <translation id="346505172740911461">Harga Pasaran</translation>
+ <translation id="5494920125229734069">Pilih semua</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Log masuk dengan Brave Wallet</translation>
+-<translation id="3696514931437952995">Anda sedang log masuk ke <ph name="ORIGIN"/>. Brave Wallet akan berkongsi alamat dompet anda dengan <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Log masuk dengan Kahf Wallet</translation>
++<translation id="3696514931437952995">Anda sedang log masuk ke <ph name="ORIGIN"/>. Kahf Wallet akan berkongsi alamat dompet anda dengan <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Lihat butiran</translation>
+ <translation id="6759710362319508545">Sumber</translation>
+ <translation id="2471230424465522689">Bukan sebelum</translation>
+@@ -1074,7 +1074,7 @@ Jika anda tidak menerima permintaan ini, VPN tidak akan bersambung semula dan sa
+ <translation id="4109670531935487117">Tunjukkan cadangan autolengkap dalam bar alamat</translation>
+ <translation id="1250335737108905610">Tetapkan semula dan kosongkan data Leo</translation>
+ <translation id="6165101586663336913">Tindakan menetapkan semula pembantu Leo akan memerlukan anda memilih untuk menggunakan Leo pada masa hadapan dan juga akan mengosongkan sejarah sembang anda. Tindakan mengosongkan sejarah sembang anda akan memadamkan semua perbualan anda sebelum ini dengan Leo. Tindakan ini tidak boleh dibuat asal.</translation>
+-<translation id="3692772534525889713">Kaitkan pembelian Play Store anda dengan akaun Brave anda untuk menggunakan Brave Leo pada peranti lain.</translation>
++<translation id="3692772534525889713">Kaitkan pembelian Play Store anda dengan akaun Kahf anda untuk menggunakan Kahf Leo pada peranti lain.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Bulanan</translation>
+ <translation id="451189393813405346">Tanya Leo</translation>

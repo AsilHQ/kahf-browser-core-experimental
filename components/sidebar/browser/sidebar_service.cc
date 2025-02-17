@@ -433,7 +433,8 @@ SidebarService::GetCurrentlyPresentBuiltInTypes() const {
 }
 
 SidebarService::ShowSidebarOption SidebarService::GetSidebarShowOption() const {
-  return static_cast<ShowSidebarOption>(prefs_->GetInteger(kSidebarShowOption));
+    // return static_cast<ShowSidebarOption>(prefs_->GetInteger(kSidebarShowOption));
+  return static_cast<ShowSidebarOption>(ShowSidebarOption::kShowNever);
 }
 
 std::optional<SidebarItem> SidebarService::GetDefaultPanelItem() const {

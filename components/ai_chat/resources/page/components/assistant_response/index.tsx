@@ -20,7 +20,7 @@ function SearchSummary (props: { searchQueries: string[] }) {
   const handleOpenSearchQuery = React.useCallback((e: React.MouseEvent, query: string) => {
     e.preventDefault()
     const queryUrl = new Url()
-    queryUrl.url = `https://search.brave.com/search?q=${encodeURIComponent(query)}`
+    queryUrl.url = `https://www.google.com/search?q=${encodeURIComponent(query)}`
     context.uiHandler?.openURL(queryUrl)
   }, [])
 

@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_ja.xtb b/components/resources/strings/brave_components_resources_ja.xtb	(rejected hunks)
+@@ -400,7 +400,7 @@
+ <translation id="7642372245223412840">bitFlyerに接続</translation>
+ <translation id="6143701117592994599">KahfリワードをbitFlyerのアカウントに接続すると、BATを獲得したり、Kahfリワードで獲得したBATを引き出したりすることができるようになります。</translation>
+ <translation id="4354564238172327160">Kahfのクリエイターになろう！</translation>
+-<translation id="4639659520811817892">creators.brave.comにアクセスして今すぐ登録し、あなたのファンやフォロワーからさっそくBATを獲得しましょう。</translation>
++<translation id="4639659520811817892">creators.Kahf.comにアクセスして今すぐ登録し、あなたのファンやフォロワーからさっそくBATを獲得しましょう。</translation>
+ <translation id="4816455138209470435">KahfはYouTube、Twitch、Vimeoおよびその他多数のツールをサポートしています！</translation>
+ <translation id="7404779623219601861">BATをギフトカードと交換する</translation>
+ <translation id="6215565499749144110">TAPネットワークを使用すると、BATを人気の有名ブランドのギフトカードと交換できます。</translation>
+@@ -608,7 +608,7 @@
+ <translation id="5379685283876547860">支援を送信しました！</translation>
+ <translation id="7063168612616047608">お気に入りのクリエイターをサポートしていただきありがとうございます</translation>
+ <translation id="1041398280582063935">サポートの内容を共有する</translation>
+-<translation id="4001190813297686107">Kahfブラウザで<ph name="AMOUNT"/>BATを支援しました！お気に入りのクリエイターやサイトをサポートする方法はこちら: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Kahfブラウザで<ph name="AMOUNT"/>BATを支援しました！お気に入りのクリエイターやサイトをサポートする方法はこちら: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">予期せぬエラーが発生しました</translation>
+ <translation id="2605703631071131439">支援パネルを開いて、再度お試しください。</translation>
+ <translation id="8855543392451028706">ようこそ！支援を送信することで、このコンテンツクリエイターをサポートすることができます。素晴らしいコンテンツの作成に対する謝意を示すひとつの方法です。</translation>
+@@ -2055,7 +2055,7 @@
+ <translation id="1093419424466417703">このページはLeoには長すぎるため、会話から一部のコンテキストが欠ける可能性があります。Leoはページコンテンツの<ph name="PERCENTAGE"/>を解析可能です。</translation>
+ <translation id="2186990448773134544">ページコンテンツがLeoには長すぎるため、ページから抽出した関連情報をもとに内容を修正しました。</translation>
+ <translation id="4370698775470316661">この会話は長すぎるため、続行できません。Leoがより長い会話の精度を維持できるよう、他のモデルをご利用いただくことをおすすめします。</translation>
+-<translation id="5719170755629028558">Brave検索で回答を推敲しています...</translation>
++<translation id="5719170755629028558">Kahf検索で回答を推敲しています...</translation>
+ <translation id="5794962229997281366">クエリ: <ph name="SEARCH_TERMS"/> への回答を推敲しました。</translation>
+ <translation id="6291843235651817590">一般チャット</translation>
+ <translation id="8193130769524604031">高度なチャットタスク</translation>
+@@ -2265,7 +2265,7 @@ brave://settings/systemにアクセスして、いつでもWireGuard に戻す
+ <translation id="7423206764347669977">設定を変更</translation>
+ <translation id="9061845622728745852">タイムゾーン:</translation>
+ <translation id="8295393906499561642">セッションの期限が切れました</translation>
+-<translation id="3312623558576021182"><ph name="BRAVE_ACCOUNT_BEGIN"/>Kahfアカウント<ph name="BRAVE_ACCOUNT_END"/>にログインし、VPNセッションを更新してください。</translation>
++<translation id="3312623558576021182"><ph name="Kahf_ACCOUNT_BEGIN"/>Kahfアカウント<ph name="Kahf_ACCOUNT_END"/>にログインし、VPNセッションを更新してください。</translation>
+ <translation id="6021669293402055982">Kahf VPN: 切断</translation>
+ <translation id="7861195049821776142">Kahf VPN: 切断中</translation>
+ <translation id="958268166261124668">Kahf VPN: 接続済み</translation>

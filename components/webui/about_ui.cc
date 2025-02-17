@@ -18,9 +18,9 @@ namespace brave {
 std::string ReplaceAboutUIChromeURLs(std::string chrome_urls) {
   // Replace Chrome -> Brave.
   constexpr std::string_view kChromeHeader = "Chrome URLs";
-  constexpr std::string_view kBraveHeader = "Brave URLs";
+  constexpr std::string_view kBraveHeader = "Kahf URLs";
   constexpr std::string_view kChromePagesHeader = "List of Chrome URLs";
-  constexpr std::string_view kBravePagesHeader = "List of Brave URLs";
+  constexpr std::string_view kBravePagesHeader = "List of Kahf URLs";
   constexpr std::string_view kChromeInternalPagesHeader =
       "List of chrome://internals pages";
   constexpr std::string_view kBraveInternalPagesHeader =

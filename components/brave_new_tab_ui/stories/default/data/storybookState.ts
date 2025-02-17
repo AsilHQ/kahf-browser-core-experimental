@@ -80,7 +80,7 @@ export const useNewTabData = (state: NewTab.State = defaultState) => {
     ),
     readabilityThreshold: number('Readability threshold', ColorUtil.getThresholdForReadability(), { range: true, min: 0, max: 10, step: 0.1 }),
     customLinksEnabled: boolean('CustomLinks Enabled?', false),
-    featureFlagBraveNTPSponsoredImagesWallpaper: true,
+    featureFlagBraveNTPSponsoredImagesWallpaper: false,
     featureCustomBackgroundEnabled: true,
     featureFlagBraveNewsPromptEnabled: true,
     featureFlagBraveNewsFeedV2Enabled: false,

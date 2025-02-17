@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_sv.xtb b/components/resources/strings/brave_components_resources_sv.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">Anslut till bitFlyer</translation>
+ <translation id="6143701117592994599">Genom att ansluta Kahf Rewards till ett bitFlyer-konto kan du tjäna BAT och ta ut dina BAT-intäkter från Kahf Rewards.</translation>
+ <translation id="4354564238172327160">Bli Kahf-kreatör!</translation>
+-<translation id="4639659520811817892">Besök creators.brave.com för att registrera dig idag och börja tjäna BAT från dina fans och följare.</translation>
++<translation id="4639659520811817892">Besök creators.Kahf.com för att registrera dig idag och börja tjäna BAT från dina fans och följare.</translation>
+ <translation id="4816455138209470435">Kahf stöder YouTube, Twitch, Vimeo med flera!</translation>
+ <translation id="7404779623219601861">Lös in BAT mot presentkort</translation>
+ <translation id="6215565499749144110">Med TAP Network kan du lösa in din BAT och få presentkort på populära märken.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">Bidraget har skickats!</translation>
+ <translation id="7063168612616047608">Tack för att du stöder dina favoritkreatörer</translation>
+ <translation id="1041398280582063935">Dela ditt stöd</translation>
+-<translation id="4001190813297686107">Jag har precis gett ett bidrag på <ph name="AMOUNT"/> BAT med Kahf Browser! Se hur du kan stödja dina favoritkreatörer och webbplatser: https://brave.com/rewards</translation>
++<translation id="4001190813297686107">Jag har precis gett ett bidrag på <ph name="AMOUNT"/> BAT med Kahf Browser! Se hur du kan stödja dina favoritkreatörer och webbplatser: https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">Ett oväntat fel har inträffat</translation>
+ <translation id="2605703631071131439">Öppna bidragspanelen igen och försök på nytt.</translation>
+ <translation id="8855543392451028706">Välkommen! Användare kan stödja den här innehållskreatören genom att skicka bidrag till hen. Det är ett sätt att tacka för bra innehåll.</translation>
+@@ -2052,7 +2052,7 @@
+ <translation id="1093419424466417703">Sidan är för lång för Leo. Viss kontext kan saknas i konversationen. Leo kunde läsa <ph name="PERCENTAGE"/> av sidans innehåll.</translation>
+ <translation id="2186990448773134544">Sidans innehåll har förfinats genom att extrahera den mest relevanta informationen från sidan eftersom den var för lång för Leo.</translation>
+ <translation id="4370698775470316661">Den här konversationen är för lång och kan inte fortsätta. Det kan finnas andra modeller som Leo kan använda för att klara längre konversationer.</translation>
+-<translation id="5719170755629028558">Förbättra ditt svar med Brave Sök ...</translation>
++<translation id="5719170755629028558">Förbättra ditt svar med Kahf Sök ...</translation>
+ <translation id="5794962229997281366">Förbättrat svar söker efter <ph name="SEARCH_TERMS"/>.</translation>
+ <translation id="6291843235651817590">Allmän chatt</translation>
+ <translation id="8193130769524604031">Avancerade chattuppgifter</translation>
+@@ -2262,7 +2262,7 @@ Dags att ansluta dig!</translation>
+ <translation id="7423206764347669977">Ändra inställningarna</translation>
+ <translation id="9061845622728745852">Tidszon:</translation>
+ <translation id="8295393906499561642">Sessionen har upphört</translation>
+-<translation id="3312623558576021182">Logga in till ditt <ph name="BRAVE_ACCOUNT_BEGIN"/>Kahf-konto<ph name="BRAVE_ACCOUNT_END"/> för att uppdatera VPN-sessionen.</translation>
++<translation id="3312623558576021182">Logga in till ditt <ph name="Kahf_ACCOUNT_BEGIN"/>Kahf-konto<ph name="Kahf_ACCOUNT_END"/> för att uppdatera VPN-sessionen.</translation>
+ <translation id="6021669293402055982">Kahf VPN: Frånkopplad</translation>
+ <translation id="7861195049821776142">Kahf VPN: Kopplar från</translation>
+ <translation id="958268166261124668">Kahf VPN: Ansluten</translation>

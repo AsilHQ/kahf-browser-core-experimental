@@ -1,0 +1,37 @@
+diff a/components/resources/strings/brave_components_resources_ko.xtb b/components/resources/strings/brave_components_resources_ko.xtb	(rejected hunks)
+@@ -397,7 +397,7 @@
+ <translation id="7642372245223412840">bitFlyer 연결</translation>
+ <translation id="6143701117592994599">Kahf Rewards를 bitFlyer 계정에 연결하면 BAT를 적립하고, 적립된 BAT를 Kahf Rewards에서 인출할 수 있습니다.</translation>
+ <translation id="4354564238172327160">Kahf 콘텐츠 제작자가 되세요!</translation>
+-<translation id="4639659520811817892">지금 creators.brave.com을 방문하여 등록하고 팬과 팔로워로부터 BAT를 받아 수익을 창출하세요.</translation>
++<translation id="4639659520811817892">지금 creators.Kahf.com을 방문하여 등록하고 팬과 팔로워로부터 BAT를 받아 수익을 창출하세요.</translation>
+ <translation id="4816455138209470435">Kahf는 YouTube, Twitch, Vimeo 등 많은 서비스를 지원합니다!</translation>
+ <translation id="7404779623219601861">BAT와 기프트 카드 교환</translation>
+ <translation id="6215565499749144110">TAP 네트워크를 사용하면 인기 있는 유명 브랜드 기프트 카드와 BAT를 교환할 수 있습니다.</translation>
+@@ -605,7 +605,7 @@
+ <translation id="5379685283876547860">후원금을 보냈습니다!</translation>
+ <translation id="7063168612616047608">마음에 두는 제작자를 지원해주셔서 감사합니다.</translation>
+ <translation id="1041398280582063935">지지하는 마음 공유하기</translation>
+-<translation id="4001190813297686107">제가 방금 Kahf 브라우저로 <ph name="AMOUNT"/> BAT를 후원했어요!  마음에 드는 제작자와 사이트를 후원하는 방법을 확인해보세요. https://brave.com/rewards</translation>
++<translation id="4001190813297686107">제가 방금 Kahf 브라우저로 <ph name="AMOUNT"/> BAT를 후원했어요!  마음에 드는 제작자와 사이트를 후원하는 방법을 확인해보세요. https://Kahf.com/rewards</translation>
+ <translation id="1950340257946519340">예기치 않은 오류 발생</translation>
+ <translation id="2605703631071131439">후원금 패널을 다시 열고 다시 시도하세요.</translation>
+ <translation id="8855543392451028706">환영합니다! 후원금을 보내서 이 콘텐츠 제작자를 지원할 수 있습니다. 훌륭한 콘텐츠를 만드는 분들에게 감사를 전하세요.</translation>
+@@ -2052,7 +2052,7 @@
+ <translation id="1093419424466417703">페이지가 레오에게 너무 깁니다. 일부 맥락이 대화에서 누락될 수 있습니다. 레오가 페이지 콘텐츠의 <ph name="PERCENTAGE"/>를 읽을 수 있었습니다.</translation>
+ <translation id="2186990448773134544">페이지가 레오에겐 너무 길어 가장 관련성 있는 정보만 추출하여 페이지 콘텐츠를 정제했습니다.</translation>
+ <translation id="4370698775470316661">대화가 너무 길어 계속할 수 없습니다. 레오가 긴 대화에서도 정확성을 유지할 수 있게 해주는 다른 모델을 사용하실 수 있습니다.</translation>
+-<translation id="5719170755629028558">Brave 검색으로 답변 수준 높이기...</translation>
++<translation id="5719170755629028558">Kahf 검색으로 답변 수준 높이기...</translation>
+ <translation id="5794962229997281366"><ph name="SEARCH_TERMS"/>에 대한 더 나은 답변 검색.</translation>
+ <translation id="6291843235651817590">일반 목적의 채팅</translation>
+ <translation id="8193130769524604031">진보된 채팅 작업</translation>
+@@ -2262,7 +2262,7 @@ Brave에는 VPN 연결에서 DNS 쿼리가 생성되는 방식을 필터링하
+ <translation id="7423206764347669977">설정 변경</translation>
+ <translation id="9061845622728745852">시간대:</translation>
+ <translation id="8295393906499561642">세션 만료됨</translation>
+-<translation id="3312623558576021182"><ph name="BRAVE_ACCOUNT_BEGIN"/>Kahf 계정<ph name="BRAVE_ACCOUNT_END"/>에 로그인하고 VPN 연결을 새로 고치세요.</translation>
++<translation id="3312623558576021182"><ph name="Kahf_ACCOUNT_BEGIN"/>Kahf 계정<ph name="Kahf_ACCOUNT_END"/>에 로그인하고 VPN 연결을 새로 고치세요.</translation>
+ <translation id="6021669293402055982">Kahf VPN: 연결 해제됨</translation>
+ <translation id="7861195049821776142">Kahf VPN: 연결 해제 중</translation>
+ <translation id="958268166261124668">Kahf VPN: 연결됨</translation>

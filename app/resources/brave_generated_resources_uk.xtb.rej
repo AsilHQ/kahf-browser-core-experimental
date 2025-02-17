@@ -1,0 +1,148 @@
+diff a/app/resources/brave_generated_resources_uk.xtb b/app/resources/brave_generated_resources_uk.xtb	(rejected hunks)
+@@ -44,10 +44,10 @@
+ <translation id="1970435562892104727">Це приватне вікно з Tor</translation>
+ <translation id="1037341607922068025">Відкрити приватне вікно з Tor</translation>
+ <translation id="607982085107926247">Відкрити в Tor: <ph name="ADDRESS"/></translation>
+-<translation id="496896260395129787">Цей обліковий запис Brave Sync видалено на іншому пристрої. Якщо ви не хотіли вимикати синхронізацію, <ph name="LINK_TEXT"/></translation>
++<translation id="496896260395129787">Цей обліковий запис Kahf Sync видалено на іншому пристрої. Якщо ви не хотіли вимикати синхронізацію, <ph name="LINK_TEXT"/></translation>
+ <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>повторно створіть обліковий запис</translation>
+ <translation id="6965382102122355670">OK</translation>
+-<translation id="3975865347033939965">Не вдалося запустити службу синхронізації. Синхронізація Brave не працює</translation>
++<translation id="3975865347033939965">Не вдалося запустити службу синхронізації. Синхронізація Kahf не працює</translation>
+ <translation id="4450893287417543264">Не показувати знову</translation>
+ <translation id="4595286989346610620">Переглянути подробиці</translation>
+ <translation id="7398397225367092613">.onion</translation>
+@@ -55,66 +55,66 @@
+ <translation id="4759098689276706664">Вставити примусово</translation>
+ <translation id="1434416574322382019">Нове приватне вікно з Tor</translation>
+ <translation id="4703780849509456860">Відкрити посилання у приватному вікні з Tor</translation>
+-<translation id="3488584642074079080">Відкрити посилання у приватному вікні Brave з Tor</translation>
++<translation id="3488584642074079080">Відкрити посилання у приватному вікні Kahf з Tor</translation>
+ <translation id="6313675821927505581">Нове приватне вікно з Tor</translation>
+ <translation id="2638041073279639246">Відкрити посилання у приватному вікні з Tor</translation>
+-<translation id="3425600262621021599">Відкрити посилання у приватному вікні Brave з Tor</translation>
+-<translation id="2545072023356206691">Починаючи з 1 грудня 2023 року, канал Brave Dev більше не отримуватиме оновлення браузера. Ми рекомендуємо користувачам перейти на Nightly, Beta або Release версію Brave.</translation>
++<translation id="3425600262621021599">Відкрити посилання у приватному вікні Kahf з Tor</translation>
++<translation id="2545072023356206691">Починаючи з 1 грудня 2023 року, канал Kahf Dev більше не отримуватиме оновлення браузера. Ми рекомендуємо користувачам перейти на Nightly, Beta або Release версію Kahf.</translation>
+ <translation id="474217410105706308">Вимкнути звук вкладки</translation>
+-<translation id="2804710924397009224">Приховати піктограму Винагороди Brave</translation>
+-<translation id="5029193871181468990">Приховати піктограму Винагороди Brave</translation>
+-<translation id="2808103541110899519">Приховати піктограму Гаманець Brave</translation>
+-<translation id="7595540212376041331">Приховати піктограму Гаманець Brave</translation>
++<translation id="2804710924397009224">Приховати піктограму Винагороди Kahf</translation>
++<translation id="5029193871181468990">Приховати піктограму Винагороди Kahf</translation>
++<translation id="2808103541110899519">Приховати піктограму Гаманець Kahf</translation>
++<translation id="7595540212376041331">Приховати піктограму Гаманець Kahf</translation>
+ <translation id="4928988318462976765">Вебмагазин розширень</translation>
+ <translation id="9181207987584064303">Переглянути у вебмагазині розширень</translation>
+-<translation id="3161744659507801211">Попередження: Brave не може завадити розширенням записувати вашу історію перегляду.</translation>
++<translation id="3161744659507801211">Попередження: Kahf не може завадити розширенням записувати вашу історію перегляду.</translation>
+ <translation id="2162109630536601963">Якщо це розширення виконуватиме мережеві запити, вони не проходитимуть через Tor чи приватний режим.</translation>
+ <translation id="2725327089319971976">Щоб вимкнути це розширення у приватному і Tor режимах, вимкніть цей параметр.</translation>
+-<translation id="3371343170427636147">Застосунки браузера Brave Nightly</translation>
+-<translation id="4097979995947147464">Застосунки браузера Brave Beta</translation>
+-<translation id="8303432794159193481">Застосунки браузера Brave Dev</translation>
+-<translation id="8292967014767479012">Застосунки браузера Brave</translation>
+-<translation id="4743468424889072281">Застосунки для розробників браузера Brave</translation>
++<translation id="3371343170427636147">Застосунки браузера Kahf Nightly</translation>
++<translation id="4097979995947147464">Застосунки браузера Kahf Beta</translation>
++<translation id="8303432794159193481">Застосунки браузера Kahf Dev</translation>
++<translation id="8292967014767479012">Застосунки браузера Kahf</translation>
++<translation id="4743468424889072281">Застосунки для розробників браузера Kahf</translation>
+ <translation id="5039804452771397117">Дозволити</translation>
+ <translation id="7053983685419859001">Блокувати</translation>
+-<translation id="1679356339067548863">Допоможіть Brave покращити стабільність, автоматично надсилаючи звіти про діагностику, коли браузер Brave несподівано завершить роботу або зависне.</translation>
++<translation id="1679356339067548863">Допоможіть Kahf покращити стабільність, автоматично надсилаючи звіти про діагностику, коли браузер Kahf несподівано завершить роботу або зависне.</translation>
+ <translation id="660171790038410175"><ph name="BROWSER_NAME"/> несподівано завершив роботу.</translation>
+-<translation id="1324417023773393937">Браузер Brave</translation>
++<translation id="1324417023773393937">Браузер Kahf</translation>
+ <translation id="7276554663454265692">Ви можете змінити <ph name="SETTING_TEXT"/> будь-коли в налаштуваннях браузера.</translation>
+ <translation id="6873781976650514089">цей параметр</translation>
+ <translation id="4684633335323013758">Цей сайт запитав <ph name="PART_ONE"/>загальні дані про ваше розташування<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Докладніше<ph name="PART_TWO_END"/></translation>
+ <translation id="8117247596084706514">Цей сайт запитав <ph name="PART_ONE"/>точні дані про ваше розташування<ph name="PART_ONE_END"/>. <ph name="PART_TWO"/>Докладніше<ph name="PART_TWO_END"/></translation>
+-<translation id="5486652646100591203">Цей сайт запитав <ph name="PART_ONE"/>точні дані про ваше розташування<ph name="PART_ONE_END"/>. Brave зможе надати лише <ph name="PART_TWO"/>загальні дані про розташування<ph name="PART_TWO_END"/>, оскільки <ph name="PART_THREE"/>служби визначення розташування<ph name="PART_THREE_END"/> вимкнено. <ph name="PART_FOUR"/>Докладніше<ph name="PART_FOUR_END"/></translation>
++<translation id="5486652646100591203">Цей сайт запитав <ph name="PART_ONE"/>точні дані про ваше розташування<ph name="PART_ONE_END"/>. Kahf зможе надати лише <ph name="PART_TWO"/>загальні дані про розташування<ph name="PART_TWO_END"/>, оскільки <ph name="PART_THREE"/>служби визначення розташування<ph name="PART_THREE_END"/> вимкнено. <ph name="PART_FOUR"/>Докладніше<ph name="PART_FOUR_END"/></translation>
+ <translation id="8915916167043355778">Закрити всі</translation>
+ <translation id="7658239707568436148">Скасувати</translation>
+ <translation id="4870911314065352661">Закрити всі вкладки?</translation>
+ <translation id="7551864359422178684">Відкриті вкладки в цьому вікні браузера: <ph name="NUMBER_OF_TABS"/>.</translation>
+ <translation id="2571596981920752023">Вкладки: <ph name="NUMBER_OF_TABS"/></translation>
+ <translation id="1307431692088049276">Не запитувати знову</translation>
+-<translation id="6919364924256365253">Відмовтеся від Google та Bing. Користуйтеся лише Brave.</translation>
+-<translation id="2640297688005939449">Пошук Brave не створює ваш профіль. Він на 100% незалежний.</translation>
++<translation id="6919364924256365253">Відмовтеся від Google та Bing. Користуйтеся лише Kahf.</translation>
++<translation id="2640297688005939449">Пошук Kahf не створює ваш профіль. Він на 100% незалежний.</translation>
+ <translation id="7295094278358921487">Шукайте і знаходьте конфіденційно.</translation>
+-<translation id="3462465068145800637">Пошук Brave не створює ваш профіль. Він на 100% незалежний від великих технологічних компаній.</translation>
++<translation id="3462465068145800637">Пошук Kahf не створює ваш профіль. Він на 100% незалежний від великих технологічних компаній.</translation>
+ <translation id="42032117189492785">Пошук на базі ШІ з унікальним індексом.</translation>
+ <translation id="8606416238399082160">Цілком приватний і незалежний, і має потужні функції ШІ.</translation>
+-<translation id="7706528608480893054">DDG – це просто замаскований Bing. Настав час для справжньої приватності, ліпших результатів і незалежного індексу. Це час Пошуку Brave.</translation>
++<translation id="7706528608480893054">DDG – це просто замаскований Bing. Настав час для справжньої приватності, ліпших результатів і незалежного індексу. Це час Пошуку Kahf.</translation>
+ <translation id="3818133234428578803">Відмовтеся від Duck</translation>
+-<translation id="14817360483752259">Пошук Brave не відстежує вас, ваші запити або ваші натискання. І (на відміну від DDG) це не просто замаскований Bing.</translation>
++<translation id="14817360483752259">Пошук Kahf не відстежує вас, ваші запити або ваші натискання. І (на відміну від DDG) це не просто замаскований Bing.</translation>
+ <translation id="4381193110021038941">Отримуйте ліпші результати</translation>
+-<translation id="3846545273704969734">Незалежні перевірки вказують на те, що Пошук Brave надає ліпші результати, ніж Bing (чи клони Bing, як-от DuckDuckGo).</translation>
++<translation id="3846545273704969734">Незалежні перевірки вказують на те, що Пошук Kahf надає ліпші результати, ніж Bing (чи клони Bing, як-от DuckDuckGo).</translation>
+ <translation id="2841164160723712537">Вдоскональте результати пошуку</translation>
+-<translation id="4639001639513524869">Пошук Brave надає ліпші результати, ніж DuckDuckGo, у більшості запитів. І він дійсно приватний.</translation>
+-<translation id="5240031343741051161">Спробувати пошук Brave</translation>
++<translation id="4639001639513524869">Пошук Kahf надає ліпші результати, ніж DuckDuckGo, у більшості запитів. І він дійсно приватний.</translation>
++<translation id="5240031343741051161">Спробувати пошук Kahf</translation>
+ <translation id="5234764350956374838">Відхилити</translation>
+-<translation id="8722651357687610395">Зробити Brave типовим браузером</translation>
++<translation id="8722651357687610395">Зробити Kahf типовим браузером</translation>
+ <translation id="2370739752330685659">Можливо, пізніше</translation>
+-<translation id="5100490448228945668">Відхиліть пошукову конверсію Brave, натисніть Enter, щоб вилучити цю пропозицію</translation>
++<translation id="5100490448228945668">Відхиліть пошукову конверсію Kahf, натисніть Enter, щоб вилучити цю пропозицію</translation>
+ <translation id="9194637241566114638">Допоможіть покращити <ph name="SEARCH_NAME"/>, надсилаючи анонімні дані про використання. <ph name="MORE_INFO"/></translation>
+-<translation id="7404610376221341525">Пошук Brave</translation>
++<translation id="7404610376221341525">Пошук Kahf</translation>
+ <translation id="8184318863960255706">Докладніше</translation>
+ <translation id="780301667611848630">Ні, дякую</translation>
+-<translation id="1162706247109707219">Натиснувши OK, ви погоджуєтеся з тим, що ваша версія Brave НЕ отримуватиме критично важливих оновлень безпеки, доки ви не оновите свою операційну систему до Windows 10 або новіше. Це попередження більше НЕ показуватиметься.</translation>
+-<translation id="9164786361657554526">Натиснувши OK, ви погоджуєтеся з тим, що ваша версія Brave НЕ отримуватиме критично важливих оновлень безпеки, доки ви не оновите свою операційну систему до macOS 10.15 або новіше. Це попередження більше НЕ показуватиметься.</translation>
++<translation id="1162706247109707219">Натиснувши OK, ви погоджуєтеся з тим, що ваша версія Kahf НЕ отримуватиме критично важливих оновлень безпеки, доки ви не оновите свою операційну систему до Windows 10 або новіше. Це попередження більше НЕ показуватиметься.</translation>
++<translation id="9164786361657554526">Натиснувши OK, ви погоджуєтеся з тим, що ваша версія Kahf НЕ отримуватиме критично важливих оновлень безпеки, доки ви не оновите свою операційну систему до macOS 10.15 або новіше. Це попередження більше НЕ показуватиметься.</translation>
+ <translation id="2770465223704140727">Вилучити зі списку</translation>
+ <translation id="6020553119523541665">Ця вкладка активна в іншому вікні</translation>
+ <translation id="4987392683074136770">У разі натискання на цю вкладку її вміст опиниться в цьому вікні</translation>
+@@ -299,8 +299,8 @@
+ <translation id="6453210454707928697">Не вдалося відтворити елемент</translation>
+ <translation id="8741852840789907931">Можливо, файл [<ph name="ITEM_NAME"/>] застарів. Бажаєте його відновити?</translation>
+ <translation id="6155018868740116868">Відновити</translation>
+-<translation id="1727684853006449697">Програвач Brave</translation>
+-<translation id="9156965752763025780">Ваші зміни почнуть діяти після наступного перезапуску Brave.</translation>
++<translation id="1727684853006449697">Програвач Kahf</translation>
++<translation id="9156965752763025780">Ваші зміни почнуть діяти після наступного перезапуску Kahf.</translation>
+ <translation id="7179921470347911571">Перезапустити зараз</translation>
+ <translation id="1426410128494586442">Так</translation>
+ <translation id="4250680216510889253">Ні</translation>
+@@ -339,7 +339,7 @@
+ <translation id="8820817407110198400">Закладки</translation>
+ <translation id="4144468798716165316">Швидкі команди</translation>
+ <translation id="7310387888625228830">Leo – помічник на основі ШІ</translation>
+-<translation id="5222974844674487962">Показати кнопку Новини Brave</translation>
++<translation id="5222974844674487962">Показати кнопку Новини Kahf</translation>
+ <translation id="383007806262310953">Показати панель закладок</translation>
+ <translation id="4054323497808446566">Панель закладок відображається на всіх сторінках</translation>
+ <translation id="8693858092251192712">Панель закладок прихована на всіх сторінках, крім сторінки нової вкладки</translation>
+@@ -440,7 +440,7 @@
+ <translation id="4891600875049212418">Не залишайте слідів, переглядаючи конфіденційні сайти</translation>
+ <translation id="1968895725257436430">Збір даних</translation>
+ <translation id="4846154056248462491">Під час виходу</translation>
+-<translation id="2808630562319398131">Скинути дані Винагород Brave...</translation>
++<translation id="2808630562319398131">Скинути дані Винагород Kahf...</translation>
+ <translation id="6438096877646138757">Сайти, для яких стираються файли cookie під час їх закриття</translation>
+ <translation id="2988792685798128092">Очищати під час закриття сайту</translation>
+ <translation id="7702907602086592255">Домен</translation>
+@@ -691,7 +691,7 @@
+ <translation id="7131172845656551327">Назва моделі, яка має з’являтися в запиті до фреймворку обслуговування, наприклад phi-3 (зауважте, що, якщо ця назва не відповідає очікуванням фреймворку обслуговування, інтеграція не працюватиме)</translation>
+ <translation id="3286410514484292784">URL-адреса, за якою ваш фреймворк обслуговування прослуховує запити. Якщо ви не впевнені, перегляньте документацію щодо фреймворку обслуговування. Наприклад, для Ollama це завжди http://localhost:11434/v1/chat/completions</translation>
+ <translation id="1058790648388035953">Для деяких фреймворків обслуговування можуть знадобитися облікові дані для автентифікації, наприклад ключ API або токен доступу. Їх буде додано до заголовка запиту.</translation>
+-<translation id="217141195370578385">Brave не передає ці запити через проксі. Ознайомтеся з умовами приватності обраного провайдера.</translation>
++<translation id="217141195370578385">Kahf не передає ці запити через проксі. Ознайомтеся з умовами приватності обраного провайдера.</translation>
+ <translation id="2645532768679870478">Нелокальні кінцеві точки мають використовувати протокол HTTPS для безпечної передачі даних.</translation>
+ <translation id="8177205483022887785">Ви ввели недійсну URL-адресу. Введіть дійсну URL-адресу.</translation>
+ <translation id="5249539665306267943">Додати нову модель</translation>

@@ -489,7 +489,8 @@ void BraveNewTabPageHandler::OnBackgroundUpdated() {
   }
 
   auto value = brave_new_tab_page::mojom::BraveBackground::New();
-  value->image_url = GURL(image_url);
+  const GURL custom_image_url("https://images.unsplash.com/photo-1730653223607-d06982f92a74?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  value->image_url = custom_image_url;
   value->author = iter->author;
   value->link = GURL(iter->link);
   page_->OnBackgroundUpdated(

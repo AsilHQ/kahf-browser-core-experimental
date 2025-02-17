@@ -1,0 +1,300 @@
+diff a/browser/ui/android/strings/translations/android_brave_strings_et.xtb b/browser/ui/android/strings/translations/android_brave_strings_et.xtb	(rejected hunks)
+@@ -221,25 +221,25 @@
+ <translation id="4736073408974888559"><ph name="BEGIN_LINK"/>Lisateave Widevine’i kohta<ph name="END_LINK"/></translation>
+ <translation id="6961369821791548622">Luba (taaskäivita kohe)</translation>
+ <translation id="2433507940547922241">Välimus</translation>
+-<translation id="9040069796107003510">Brave'i Preemiate ikoon</translation>
+-<translation id="6333347122924254968">Kuvage aadressiribal Brave'i preemiate ikoon</translation>
++<translation id="9040069796107003510">Kahf'i Preemiate ikoon</translation>
++<translation id="6333347122924254968">Kuvage aadressiribal Kahf'i preemiate ikoon</translation>
+ <translation id="8495235435594442882">Luba alumine tööriistariba</translation>
+-<translation id="6587448235155023666">Muudatused jõustuvad järgmine kord, kui Brave’i taaskäivitate</translation>
++<translation id="6587448235155023666">Muudatused jõustuvad järgmine kord, kui Kahf’i taaskäivitate</translation>
+ <translation id="8701563696941209024">TAASKÄIVITA KOHE</translation>
+ <translation id="834487290629916192">HILJEM</translation>
+-<translation id="7207456302801184289">Tere tulemast Brave'i</translation>
++<translation id="7207456302801184289">Tere tulemast Kahf'i</translation>
+ <translation id="4117451092682672487">Privaatsus on nüüd lihtne.</translation>
+-<translation id="7909375417585209817">Kui kasutate vaikimisi Brave'i, kasutatakse iga puudutatud lingi avamisel Brave'i privaatsuskaitseid.</translation>
++<translation id="7909375417585209817">Kui kasutate vaikimisi Kahf'i, kasutatakse iga puudutatud lingi avamisel Kahf'i privaatsuskaitseid.</translation>
+ <translation id="7370959926683925817">Reklaamid blokeeritakse. Andmed salvestatakse. Päevast päeva.</translation>
+-<translation id="7281027579943912834">Kui kasutate vaikimisi Brave'i, saab iga puudutatud link Brave'i reklaamikaitse. Igal lehel, igas videos ja voogesituses.</translation>
+-<translation id="5148943178722443958">Aidake Brave'i paremaks muuta.</translation>
++<translation id="7281027579943912834">Kui kasutate vaikimisi Kahf'i, saab iga puudutatud link Kahf'i reklaamikaitse. Igal lehel, igas videos ja voogesituses.</translation>
++<translation id="5148943178722443958">Aidake Kahf'i paremaks muuta.</translation>
+ <translation id="6718362830686703942">Saatke diagnostikaaruanne, kui kogete krahhi minekut või hangumist.</translation>
+-<translation id="8616157231067364693">Jagage täiesti privaatselt ja anonüümselt tooteteavet funktsioonide kohta, mida Brave'i kasutajad tarvitavad.</translation>
++<translation id="8616157231067364693">Jagage täiesti privaatselt ja anonüümselt tooteteavet funktsioonide kohta, mida Kahf'i kasutajad tarvitavad.</translation>
+ <translation id="2877653791257935258">Sisestage veebisaidi nimi või URL</translation>
+-<translation id="5329830149661250028">Vaadake, mille poolest Brave erineb: ei mingeid reklaame, ei mingeid jälgijaid. Lehe laadimine on palju kiirem.</translation>
+-<translation id="3941792073703079607">Vaadake, kui erinev on Brave: reklaamid blokeeritakse. Andmed salvestatakse. Päevast päeva.</translation>
+-<translation id="3545804467215833536">Puudutage Brave'i kaitsete kuvamiseks</translation>
+-<translation id="1724327820822194498">Vaadake, millist jama Brave on igal lehel oma kaitsete abil blokeerinud.</translation>
++<translation id="5329830149661250028">Vaadake, mille poolest Kahf erineb: ei mingeid reklaame, ei mingeid jälgijaid. Lehe laadimine on palju kiirem.</translation>
++<translation id="3941792073703079607">Vaadake, kui erinev on Kahf: reklaamid blokeeritakse. Andmed salvestatakse. Päevast päeva.</translation>
++<translation id="3545804467215833536">Puudutage Kahf'i kaitsete kuvamiseks</translation>
++<translation id="1724327820822194498">Vaadake, millist jama Kahf on igal lehel oma kaitsete abil blokeerinud.</translation>
+ <translation id="5386259141409498372">Blokeeritud on ettevõtete <ph name="BIG_TECH"/> ja <ph name="TRACKER"/> muud reklaamid ning jälgijad</translation>
+ <translation id="7256200875155794202">Blokeeritud on ettevõtte <ph name="BIG_TECH"/> ja muud reklaamid ning jälgijad</translation>
+ <translation id="3092683655478890840">Blokeeritud on <ph name="TRACKER_COUNT"/> muud reklaami ja jälgijat</translation>
+@@ -249,23 +249,23 @@
+ <translation id="986879628471635371">Abi võimalustega tutvumine</translation>
+ <translation id="5808759341041733958">Vali vaikeotsingumootor</translation>
+ <translation id="1331593888918588693">Oma eelistusi on võimalik hiljem muuta rakenduse sätetes.</translation>
+-<translation id="5806601733251372221">Brave'i kaitse</translation>
++<translation id="5806601733251372221">Kahf'i kaitse</translation>
+ <translation id="8537217141725709400">Teeni <ph name="TOKEN"/>s</translation>
+-<translation id="3333887201479867589">Brave Rewards</translation>
++<translation id="3333887201479867589">Kahf Rewards</translation>
+ <translation id="5870330605209713397">vaadates privaatsust austavaid reklaame ja toetate vaikimisi oma lemmiksaite ja -loojaid.</translation>
+-<translation id="5302488867897327287">Puudutades nuppu "Alusta Brave Rewardsi kasutamist", nõustute</translation>
++<translation id="5302488867897327287">Puudutades nuppu "Alusta Kahf Rewardsi kasutamist", nõustute</translation>
+ <translation id="4281844954008187215">teenusetingimustega</translation>
+ <translation id="6871397658902960384">Alusta sirvimist</translation>
+ <translation id="454386012157232640">Ma ei näinud reklaami</translation>
+-<translation id="1448877943847791441">Brave kuvab esimese reklaami</translation>
+-<translation id="4410793187232041318">Nüüd teenite Brave Adsilt tokeneid.</translation>
+-<translation id="6511854390690723657">See on Teie esimene Brave’i reklaam. Lisateabe saamiseks puudutage.</translation>
+-<translation id="2070991379950719711">Alusta Brave Rewardsi kasutamist</translation>
++<translation id="1448877943847791441">Kahf kuvab esimese reklaami</translation>
++<translation id="4410793187232041318">Nüüd teenite Kahf Adsilt tokeneid.</translation>
++<translation id="6511854390690723657">See on Teie esimene Kahf’i reklaam. Lisateabe saamiseks puudutage.</translation>
++<translation id="2070991379950719711">Alusta Kahf Rewardsi kasutamist</translation>
+ <translation id="48520986898237073">Ava rahakott</translation>
+ <translation id="3570367516044491911">Määra tavabrauseriks</translation>
+ <translation id="6800338374677644736">Määra vaikebrauseriks</translation>
+-<translation id="19715420010996093">Valige Brave'i brauser ja puudutage valikut „Alati“</translation>
+-<translation id="3546439402724649282">Brave on juba vaikebrauser.</translation>
++<translation id="19715420010996093">Valige Kahf'i brauser ja puudutage valikut „Alati“</translation>
++<translation id="3546439402724649282">Kahf on juba vaikebrauser.</translation>
+ <translation id="8389661903259423907">Oled juba määranud vaikebrauseri. Seda saad muuda rakenduse seadetest.</translation>
+ <translation id="1545749641540134597">Skannige QR-koos</translation>
+ <translation id="5317781812114905957">Juhised</translation>
+@@ -354,14 +354,14 @@
+ <translation id="4358805443781965194">Kood on aegunud. Uue loomiseks klõpsake alloleval nupul.</translation>
+ <translation id="318164877797885563">See ajutine kood kehtib järgmised <ph name="TIME_AMOUNT"/></translation>
+ <translation id="327726072512457161">Seadetest väljumine</translation>
+-<translation id="8050847734948770789">Luba Brave Rewards</translation>
++<translation id="8050847734948770789">Luba Kahf Rewards</translation>
+ <translation id="9187185473011056079">Olen käsi!</translation>
+-<translation id="8185825081026121627">Teeni Basic Attention Token-eid, vaadates privaatsust säilitavaid Brave Rewards reklaame.</translation>
++<translation id="8185825081026121627">Teeni Basic Attention Token-eid, vaadates privaatsust säilitavaid Kahf Rewards reklaame.</translation>
+ <translation id="5321518976657560663">Taastamise viga</translation>
+-<translation id="4114170343590425996">Brave Rewardsi taastamisel ilmnes viga. Käivita Brave uuesti ja ürita taas.</translation>
+-<translation id="6417420737057016607">Brave'i reklaamid</translation>
+-<translation id="5611966874859284786">Näita teavitusreklaame, kui Brave'i ei kasutata</translation>
+-<translation id="6606319453795180219">See kustutab Brave'i Preemiad ja lähtestab kõik teie Brave'i Preemiate andmed</translation>
++<translation id="4114170343590425996">Kahf Rewardsi taastamisel ilmnes viga. Käivita Kahf uuesti ja ürita taas.</translation>
++<translation id="6417420737057016607">Kahf'i reklaamid</translation>
++<translation id="5611966874859284786">Näita teavitusreklaame, kui Kahf'i ei kasutata</translation>
++<translation id="6606319453795180219">See kustutab Kahf'i Preemiad ja lähtestab kõik teie Kahf'i Preemiate andmed</translation>
+ <translation id="8293206222192510085">Lisa järjehoidja</translation>
+ <translation id="340492034650766959">Kustuta järjehoidja</translation>
+ <translation id="2149973817440762519">Muuda järjehoidjat</translation>
+@@ -465,35 +465,35 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="5582686930349810484">Seadmetuvastus blokeeritud (standardne)</translation>
+ <translation id="769702552748212954">Luba seadmetuvastus igal pool</translation>
+ <translation id="876424292214881779">Blokeeritud reklaamid ja muud koledused</translation>
+-<translation id="6930134873084561197">Lehed sisaldavad tihti küpsiseid ja skripte, mis üritavad tuvastada teid ja teie seadet. Need soovivad teada, kes olete ja teid veebis jälitada ehk jälgida, mida igal lehel teete. \n\nBrave blokeerib need, et saaksite sirvida, ilma et keegi teid jälitaks.</translation>
+-<translation id="8553998445606452168">Brave’i kaitsete kohta</translation>
++<translation id="6930134873084561197">Lehed sisaldavad tihti küpsiseid ja skripte, mis üritavad tuvastada teid ja teie seadet. Need soovivad teada, kes olete ja teid veebis jälitada ehk jälgida, mida igal lehel teete. \n\nKahf blokeerib need, et saaksite sirvida, ilma et keegi teid jälitaks.</translation>
++<translation id="8553998445606452168">Kahf’i kaitsete kohta</translation>
+ <translation id="8912304686498704084">ÜLES</translation>
+ <translation id="4963218453264888510">ALLA</translation>
+-<translation id="7474113515179313724">Sirvite seda veebisaiti ilma Brave’i privaatsuse kaitseta. Kas see ei tööta õigesti, kui kaitse on kasutusel?</translation>
++<translation id="7474113515179313724">Sirvite seda veebisaiti ilma Kahf’i privaatsuse kaitseta. Kas see ei tööta õigesti, kui kaitse on kasutusel?</translation>
+ <translation id="4226543734057230801">Ethereumi võrgud</translation>
+ <translation id="3504157706952484145">Filecoini võrgud</translation>
+ <translation id="1561541094377237745">Solana võrgud</translation>
+ <translation id="7141438739990875547">Bitcoini võrgud</translation>
+ <translation id="9055546041146396417">Paistab, et leht ei toimi. Proovige kaitse keelata.</translation>
+ <translation id="1209739344687072997">Teata mittetoimivast veebisaidist</translation>
+-<translation id="8510478288840333677">Andke Brave’i arendajatele teada, et see veebisait ei toimi kaitsega õigesti:</translation>
+-<translation id="5429200298326665264">Märkus. Selle veebisaidi aadress esitatakse koos Brave’i versiooninumbri ja IP-aadressiga (mida ei salvestata).</translation>
++<translation id="8510478288840333677">Andke Kahf’i arendajatele teada, et see veebisait ei toimi kaitsega õigesti:</translation>
++<translation id="5429200298326665264">Märkus. Selle veebisaidi aadress esitatakse koos Kahf’i versiooninumbri ja IP-aadressiga (mida ei salvestata).</translation>
+ <translation id="5299848999918506028">Täname!</translation>
+-<translation id="76550953340008122">Täname, et andsite Brave’i arendajatele teada, et selle veebisaidiga on midagi valesti. Anname endast parima, et see korda teha!</translation>
++<translation id="76550953340008122">Täname, et andsite Kahf’i arendajatele teada, et selle veebisaidiga on midagi valesti. Anname endast parima, et see korda teha!</translation>
+ <translation id="650318023204990401">Täiustatud kontroll</translation>
+ <translation id="5370478469168390143">Salvesta andmed veebis</translation>
+-<translation id="1118508688433541158">Surfa internetis kiiremini ja blokeeri reklaamid Brave'iga.</translation>
+-<translation id="7427391215172269363">Brave'iga veebi lehitsedes salvestan iga päev andmeid.</translation>
+-<translation id="4776948189086901857">Brave töötab kõikjal</translation>
+-<translation id="1606322780901645965">Laadi aadressilt brave.com oma sülearvutisse või tahvlisse alla Brave, et saada kiirem ja privaatsem veeb</translation>
++<translation id="1118508688433541158">Surfa internetis kiiremini ja blokeeri reklaamid Kahf'iga.</translation>
++<translation id="7427391215172269363">Kahf'iga veebi lehitsedes salvestan iga päev andmeid.</translation>
++<translation id="4776948189086901857">Kahf töötab kõikjal</translation>
++<translation id="1606322780901645965">Laadi aadressilt brave.com oma sülearvutisse või tahvlisse alla Kahf, et saada kiirem ja privaatsem veeb</translation>
+ <translation id="8374242949413616101">Privaatsuse kaitse</translation>
+-<translation id="4955406228638026265">Brave peatab reklaamid ja jälitajad, mis koguvad sinu teavet ilma sinu nõusolekuta.</translation>
++<translation id="4955406228638026265">Kahf peatab reklaamid ja jälitajad, mis koguvad sinu teavet ilma sinu nõusolekuta.</translation>
+ <translation id="752842701893882688">Säästa andmemahtu ja akut</translation>
+ <translation id="1685837926613452362">Ilma reklaamide ja jälitajateta kasutavad veebilehed vähem andmemahtu ja akut. Sa võid isegi säästa operaatoritasudelt.</translation>
+ <translation id="5440744330377972191">Veebilehed laadivad kiiremini</translation>
+-<translation id="3000738865641747653">Vähemate andmete laadimine tähendab, et veebilehed laadivad Brave'is kiiremini – kuni 8×, võrreldes teiste brauseritega</translation>
++<translation id="3000738865641747653">Vähemate andmete laadimine tähendab, et veebilehed laadivad Kahf'is kiiremini – kuni 8×, võrreldes teiste brauseritega</translation>
+ <translation id="8903462729414407077">Saa iganädalasi uuendusi</translation>
+-<translation id="7450323860390658083">Olge kursis sellega, milliseid veebisaite külastate ja millised neist on kõige rohkem privaatsust rikkuvad.\n\nAinult teie saate näha seda privaatsust käsitlevat statistikat. Teie seadme Brave'i brauserist ei lähe kunagi välja isikuandmeid ega sirvimisajalugu.</translation>
++<translation id="7450323860390658083">Olge kursis sellega, milliseid veebisaite külastate ja millised neist on kõige rohkem privaatsust rikkuvad.\n\nAinult teie saate näha seda privaatsust käsitlevat statistikat. Teie seadme Kahf'i brauserist ei lähe kunagi välja isikuandmeid ega sirvimisajalugu.</translation>
+ <translation id="6170159749517116894">Lülita sisse privaatsusaruanded</translation>
+ <translation id="1669047024429367828">Nähtavus</translation>
+ <translation id="5966707198760109579">Nädal</translation>
+@@ -586,9 +586,9 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="1483493594462132177">Saada</translation>
+ <translation id="538450413584738399">Swap</translation>
+ <translation id="4556086616242530072">Oma brauser.\nTäielik valdus.\nJa mitmeahelaline.</translation>
+-<translation id="7909462264772842773">Võtke oma krüpto- ja NFT-d kontrolli alla. Brave Wallet toetab Ethereumi, EVM-i ahelaid, Solanat, Filecoini ja muud.</translation>
++<translation id="7909462264772842773">Võtke oma krüpto- ja NFT-d kontrolli alla. Kahf Wallet toetab Ethereumi, EVM-i ahelaid, Solanat, Filecoini ja muud.</translation>
+ <translation id="165255193061631296">Vajate uut rahakotti?</translation>
+-<translation id="3485737865439729577">Brave Walletiga alustamine võtab vaid mõne minuti</translation>
++<translation id="3485737865439729577">Kahf Walletiga alustamine võtab vaid mõne minuti</translation>
+ <translation id="2759836790106646094">Varundage oma rahakott kohe!</translation>
+ <translation id="1078873179929044999">Järgmises etapis näete 12-sõnalist taastefraasi, mille abil saate taastada oma põhikrüptokontod. Hoidke seda turvalises kohas. Taastefraas on ainus viis konto juurdepääsu tagasisaamiseks, kui parool on ununenud, seade on kas kadunud või varastatud või soovite rahakotti vahetada.</translation>
+ <translation id="2359808026110333948">Jätka</translation>
+@@ -596,7 +596,7 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="1904000155026201268">Saan aru, et kui kaotan taastefraasi, pole mul võimalik oma krüptorahakotile juurde pääseda.</translation>
+ <translation id="5333225216561354793">Peate nõustuma alljärgnevaga.</translation>
+ <translation id="6937275455070754004">Valige, milliseid plokiahelaid rahakotis kasutada.</translation>
+-<translation id="1645800479814134195">Saan aru, et tegu on minu valduses oleva rahakotiga ja mina üksi vastutan mis tahes seotud rahaliste vahendite, varade või kontode eest ning asjakohaste meetmete võtmise eest oma rahakoti turvamiseks, kaitsmiseks ja varundamiseks. Mõistan, et Brave EI saa minu nimel rahakotti avada ega tehinguid tagasi pöörata, ja et parooli kaotamise, seadme varguse või muu sarnase olukorra puhul on minu taastefraas AINUS juurdepääsu taastamise moodus.</translation>
++<translation id="1645800479814134195">Saan aru, et tegu on minu valduses oleva rahakotiga ja mina üksi vastutan mis tahes seotud rahaliste vahendite, varade või kontode eest ning asjakohaste meetmete võtmise eest oma rahakoti turvamiseks, kaitsmiseks ja varundamiseks. Mõistan, et Kahf EI saa minu nimel rahakotti avada ega tehinguid tagasi pöörata, ja et parooli kaotamise, seadme varguse või muu sarnase olukorra puhul on minu taastefraas AINUS juurdepääsu taastamise moodus.</translation>
+ <translation id="4565891212173086999">Olen <ph name="CLICK_START"/>kasutustingimused<ph name="CLICK_END"/> läbi lugenud ja nõustun nendega.</translation>
+ <translation id="3933122286596948824">Teie taastamise lause</translation>
+ <translation id="5077747669435508720">Kirjutage need sõnad üles või kopeerige täpselt alltoodud järjekorras ning hoidke neid turvalises kohas. Taastefraas on ainus viis konto juurdepääsu tagasisaamiseks, kui parool on ununenud, seade on kas kadunud või varastatud või soovite rahakotti vahetada.</translation>
+@@ -617,13 +617,13 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="8030647312184163932">Sõrmejäljega avamine</translation>
+ <translation id="4090490645603511157">Kasutage biomeetriat, et avada rahakott kiiresti parooli sisestamata.</translation>
+ <translation id="1544192797660353713">Rahakott</translation>
+-<translation id="6901810042765869341">Sisestage oma taastamise lause, et taastada oma Brave'i rahakoti krüptokonto.</translation>
++<translation id="6901810042765869341">Sisestage oma taastamise lause, et taastada oma Kahf'i rahakoti krüptokonto.</translation>
+ <translation id="9120654436199628567">Krüptokonto taastamine</translation>
+ <translation id="4811736040444856406">Näita taastamise lauset</translation>
+ <translation id="283071225285270357">Sisestage oma taastamise lause</translation>
+ <translation id="3943857333388298514">Kleebi</translation>
+ <translation id="3331452756822160641">Uus parool</translation>
+-<translation id="4359319875297001084">Kas importida Brave'i pärand-krüptokontodelt?</translation>
++<translation id="4359319875297001084">Kas importida Kahf'i pärand-krüptokontodelt?</translation>
+ <translation id="2339124864228588937">Taastamise lause kinnitamine</translation>
+ <translation id="3747079125031086337">Valige oma taastefraasi sõnad õiges järjekorras.</translation>
+ <translation id="6518133107902771759">Kinnita</translation>
+@@ -657,8 +657,8 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="5760476995887363522">Fraasid ei olnud ühesugused. Proovige uuesti.</translation>
+ <translation id="2360588547830602174">Konto taastamine ebaõnnestus. Palun proovige uuesti.</translation>
+ <translation id="1987317783729300807">Kontod</translation>
+-<translation id="6284218950354553099">Igapäevase kasutuse pingi automaatne saatmine Brave'ile</translation>
+-<translation id="2181060149810222381">See privaatne ping võimaldab Brave'il hinnata aktiivsete kasutajate arvu.</translation>
++<translation id="6284218950354553099">Igapäevase kasutuse pingi automaatne saatmine Kahf'ile</translation>
++<translation id="2181060149810222381">See privaatne ping võimaldab Kahf'il hinnata aktiivsete kasutajate arvu.</translation>
+ <translation id="6725413948756358325">Konto nimi</translation>
+ <translation id="6062431965141524986">Teisese konto saate luua oma privaatvõtit importides.</translation>
+ <translation id="3952797765659730604">Sisestage, kleepige või importige oma privaatvõtme stringi fail või JSON.</translation>
+@@ -680,14 +680,14 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="1721710839767183848">Lehel ei ole reklaame</translation>
+ <translation id="4647035642622555398">Ei mingeid katkestusi</translation>
+ <translation id="4122515759479497554">Videote otsimine</translation>
+-<translation id="4449475351935531438">Brave'i tulemüür + VPN</translation>
++<translation id="4449475351935531438">Kahf'i tulemüür + VPN</translation>
+ <translation id="719977489961414786">Täiendage VPN-iks, et kaitsta oma ühendust ja tõkestada kõikjal ründavad jälgijad.</translation>
+ <translation id="8814357473522731680">Platvorm:</translation>
+ <translation id="5892534145504632332">Saate kaitsta iga rakendust ja tervet seadet</translation>
+ <translation id="7195416926059527505">Turvalisem koduses või avalikus WiFi-võrgus</translation>
+ <translation id="1354700000739359839">Välkkiire, kuni 100 Mbit/s</translation>
+ <translation id="3510283489391432976">Valige oma geograafiline asukoht / asukohariik</translation>
+-<translation id="7695158478627528928">Brave ei logi mitte kunagi teie tegevust</translation>
++<translation id="7695158478627528928">Kahf ei logi mitte kunagi teie tegevust</translation>
+ <translation id="4575683170451975058">1 tellimusega saate kaitsta 5 seadet</translation>
+ <translation id="4882693590083943563">Kõik plaanid sisaldavad <ph name="TRIAL_DAYS"/></translation>
+ <translation id="487741927046441232">tasuta 7-päevast prooviperioodi.</translation>
+@@ -698,14 +698,14 @@ Kas soovite seda kindlasti teha?</translation>
+ <translation id="1163809943099641131">Üks aasta</translation>
+ <translation id="172859718096975160">Uuendage kord aastas, <ph name="DISCOUNT_TEXT_START"/>kokkuhoid <ph name="PERCENTAGE_AMOUNT"/>%%<ph name="DISCOUNT_TEXT_END"/></translation>
+ <translation id="5452539666808679230"><ph name="YEARLY_AMOUNT"/> aastas</translation>
+-<translation id="5125233570742276182">Tellimuste eest võetakse tasu teie Google'i konto kaudu. Tellimuse ostmisel läheb kaduma võimalik kasutamata osa tasuta prooviperioodist, kui seda on pakutud.\n\nTellimust pikendatakse automaatselt, kui seda ei tühistata vähemalt 24 tundi enne jooksva perioodi lõppu.\n\nOma tellimusi saate hallata lehel Seaded.\nBrave'i kasutamisega nõustute meie kasutustingimuste ja privaatsuspõhimõtetega.</translation>
++<translation id="5125233570742276182">Tellimuste eest võetakse tasu teie Google'i konto kaudu. Tellimuse ostmisel läheb kaduma võimalik kasutamata osa tasuta prooviperioodist, kui seda on pakutud.\n\nTellimust pikendatakse automaatselt, kui seda ei tühistata vähemalt 24 tundi enne jooksva perioodi lõppu.\n\nOma tellimusi saate hallata lehel Seaded.\nKahf'i kasutamisega nõustute meie kasutustingimuste ja privaatsuspõhimõtetega.</translation>
+ <translation id="5035172357624830412">Kas ostsite juba veebisaidil brave.com?</translation>
+ <translation id="713136183174551885">Värskendage oma identimisteave</translation>
+ <translation id="6053992191006521518">Proovige TASUTA</translation>
+ <translation id="5903391101107992067">Proovige 7 päeva tasuta</translation>
+ <translation id="721747358270435486">Installige VPN</translation>
+ <translation id="836074276610740314">Installige VPN-i profiil</translation>
+-<translation id="8021842065465097929">Brave installib nüüd VPN-i profiili.</translation>
++<translation id="8021842065465097929">Kahf installib nüüd VPN-i profiili.</translation>
+ <translation id="229286271464650057">See profiil võimaldab VPN-il luua automaatse ühenduse ja turvata liiklust kogu teie seadmes — igas rakenduses, kogu aeg. See VPN-i ühendus krüptitakse ja suunatakse reklaamide ja jälgijate tõkestamiseks läbi Guardiani aruka tulemüüri.</translation>
+ <translation id="9073255657908892407">Võtke ühendust tehnilise toega</translation>
+ <translation id="1139934321138152517">VPN on nüüd lubatud</translation>
+@@ -933,19 +933,19 @@ Kui te selle taotlusega ei nõustu, siis VPN-i ühendust ei taastata ja teie int
+ <translation id="7002577172732106572">Jaostunneldus</translation>
+ <translation id="8181161042860463420">Seotud tokenikontot ei ole veel olemas. Selle loomiseks ja rahastamiseks kulub veidi SOL-e. <ph name="CLICK_START"/>Lisateave<ph name="CLICK_END"/></translation>
+ <translation id="168154537623654021">VPN-i profiili värskendamine ...</translation>
+-<translation id="7457027586454688423">Sisestage oma Brave'i rahakoti parool</translation>
+-<translation id="4784306439879850873">Arvestage, et Brave ei saa kontrollida, mis pärast allkirjastamist toimub. Allkiri võib anda volitused peaaegu iga toimingu tegemiseks teie kontol või nimel, muuhulgas anda taotlevale veebisaidile täieliku kontrolli teie konto ja krüptovarade üle. Allkirjastage ainult juhul, kui olete kindel, et soovite seda teha ja usaldate taotlevat veebisaiti.</translation>
++<translation id="7457027586454688423">Sisestage oma Kahf'i rahakoti parool</translation>
++<translation id="4784306439879850873">Arvestage, et Kahf ei saa kontrollida, mis pärast allkirjastamist toimub. Allkiri võib anda volitused peaaegu iga toimingu tegemiseks teie kontol või nimel, muuhulgas anda taotlevale veebisaidile täieliku kontrolli teie konto ja krüptovarade üle. Allkirjastage ainult juhul, kui olete kindel, et soovite seda teha ja usaldate taotlevat veebisaiti.</translation>
+ <translation id="3474375934783434676">Allkirjastage omal vastutusel</translation>
+ <translation id="7134370164002095282"><ph name="CURRENT"/> kokku <ph name="SIZE"/>-st</translation>
+ <translation id="756701799684433105">Kinnita tehing</translation>
+ <translation id="6450792191436242818">Süsteemiprogramm</translation>
+-<translation id="5318067544026930166">Avage Brave Wallet biomeetrilise autentimisega</translation>
+-<translation id="2629767022373384291">Kas soovite oma Brave Walleti avamiseks kasutada biomeetrilist autentimist?</translation>
++<translation id="5318067544026930166">Avage Kahf Wallet biomeetrilise autentimisega</translation>
++<translation id="2629767022373384291">Kas soovite oma Kahf Walleti avamiseks kasutada biomeetrilist autentimist?</translation>
+ <translation id="4782919977106118997">Kasutage sõrmejäljega avamist</translation>
+ <translation id="2054995875643283428">Jätke see esialgu vahele</translation>
+ <translation id="2522605225061484799">Mine minu portfooliosse</translation>
+ <translation id="1148624853678088576">Kõik on valmis!</translation>
+-<translation id="4131445988101719379">Teie Brave Wallet on kasutamiseks valmis</translation>
++<translation id="4131445988101719379">Teie Kahf Wallet on kasutamiseks valmis</translation>
+ <translation id="6252742184395380448">Konfiguratsiooniprogramm</translation>
+ <translation id="5358970666412490132">Panuseprogramm</translation>
+ <translation id="346636227344244984">Hääletusprogramm</translation>
+@@ -1017,22 +1017,22 @@ Kui te selle taotlusega ei nõustu, siis VPN-i ühendust ei taastata ja teie int
+ <translation id="1313065465616456728">Väljastatud</translation>
+ <translation id="7902225556763260253">Aegumisaeg</translation>
+ <translation id="1908159733454294871">Tuvastati turvarisk</translation>
+-<translation id="5658257029899993935">Ühendage ost oma Brave'i kontoga</translation>
+-<translation id="1187061015547219282">Ühendage oma Play Store'i ost oma Brave'i kontoga, et kasutada Brave'i VPN-i teistes seadmetes.</translation>
++<translation id="5658257029899993935">Ühendage ost oma Kahf'i kontoga</translation>
++<translation id="1187061015547219282">Ühendage oma Play Store'i ost oma Kahf'i kontoga, et kasutada Kahf'i VPN-i teistes seadmetes.</translation>
+ <translation id="6662142137695589205">Ühendage oma VPN-i tellimus</translation>
+-<translation id="2674077112509133024">Laiendage oma Brave'i tulemüüri + VPN-i kaitset</translation>
+-<translation id="6365389672683343144">Teie Brave'i VPN-i tellimus suudab kaitsta kuni viit seadet – nii Androidi ja iOS-i seadmeid kui ka lauaarvuteid. Ühendage lihtsalt oma Google Play tellimus oma Brave'i kontoga.</translation>
++<translation id="2674077112509133024">Laiendage oma Kahf'i tulemüüri + VPN-i kaitset</translation>
++<translation id="6365389672683343144">Teie Kahf'i VPN-i tellimus suudab kaitsta kuni viit seadet – nii Androidi ja iOS-i seadmeid kui ka lauaarvuteid. Ühendage lihtsalt oma Google Play tellimus oma Kahf'i kontoga.</translation>
+ <translation id="6610899852831463073">Ohutut sirvimist ei saa lubada</translation>
+ <translation id="7954263306665462056">Ohutu sirvimine on teie seadmes keelatud. Selle lubamiseks veenduge, et Google Play teenused oleks installitud ja et see oleks ajakohane.</translation>
+ <translation id="6605147707233193230">Lülitage sisse, et aidata toetada sisuloojaid</translation>
+ <translation id="1609556006143307897">Aitate toetada sisuloojaid</translation>
+-<translation id="6067959437127691361">Brave'i preemiate kasutamine aitab toetada sisuloojaid ja võimaldab teil teenida BAT-i.</translation>
++<translation id="6067959437127691361">Kahf'i preemiate kasutamine aitab toetada sisuloojaid ja võimaldab teil teenida BAT-i.</translation>
+ <translation id="3264975266761862670">Kas olete valmis teenimist alustama?</translation>
+ <translation id="265337947574975838">Looge ühendus või valige üks meie partneritest ja looge konto.</translation>
+ <translation id="654447476965480878">Lisateave BAT-i teenimise kohta</translation>
+ <translation id="6278643716658443228">Preemiate seaded</translation>
+ <translation id="6516984207843289176">Ühenda konto</translation>
+-<translation id="4272136334824111854">Sel kuul külastasite <ph name="CREATOR_COUNT"/> loojat, keda toetab Brave’i auhinnad</translation>
++<translation id="4272136334824111854">Sel kuul külastasite <ph name="CREATOR_COUNT"/> loojat, keda toetab Kahf’i auhinnad</translation>
+ <translation id="6845311459433734326">Ühendage hallatav konto, et saaksite teenida BAT-i ja oma preemiaid välja võtta</translation>
+ <translation id="928980476243133540">Teen seda hiljem</translation>
+ <translation id="579702532610384533">Ühenda uuesti</translation>
+@@ -1065,8 +1065,8 @@ Kui te selle taotlusega ei nõustu, siis VPN-i ühendust ei taastata ja teie int
+ <translation id="346505172740911461">Turuhind</translation>
+ <translation id="5494920125229734069">Vali kõik</translation>
+ <translation id="6129027151000961048">Leo</translation>
+-<translation id="8613144770663526433">Logi sisse Brave’i rahakotiga</translation>
+-<translation id="3696514931437952995">Logite sisse kohta <ph name="ORIGIN"/>. Brave’i rahakott jagab teie rahakotiaadressi ressursiga <ph name="ORIGIN"/>.</translation>
++<translation id="8613144770663526433">Logi sisse Kahf’i rahakotiga</translation>
++<translation id="3696514931437952995">Logite sisse kohta <ph name="ORIGIN"/>. Kahf’i rahakott jagab teie rahakotiaadressi ressursiga <ph name="ORIGIN"/>.</translation>
+ <translation id="1028781062521375153">Kuva üksikasjad</translation>
+ <translation id="6759710362319508545">Ressursid</translation>
+ <translation id="2471230424465522689">Mitte enne</translation>
+@@ -1074,8 +1074,8 @@ Kui te selle taotlusega ei nõustu, siis VPN-i ühendust ei taastata ja teie int
+ <translation id="1179407411385015942">Leo on tehisintellektist abiline, mis on brauserisse sisse ehitatud</translation>
+ <translation id="4109670531935487117">Näita aadressiribal automaatse täitmise soovitusi</translation>
+ <translation id="1250335737108905610">Lähtestage ja eemaldage Leo andmed</translation>
+-<translation id="6165101586663336913">Kui soovite Leo lähtestada, peate nõustuma Brave’i Leo kasutamisega tulevikus ja selle käigus tühjendatakse ka teie vestluseajalugu. See tähendab, et kõik Leoga peetud eelmised vestlused kustutatakse. Seda tegevust ei saa tagasi võtta.</translation>
+-<translation id="3692772534525889713">Ühendage oma Play Store'i ost oma Brave'i kontoga, et kasutada Brave'i Leod teistes seadmetes.</translation>
++<translation id="6165101586663336913">Kui soovite Leo lähtestada, peate nõustuma Kahf’i Leo kasutamisega tulevikus ja selle käigus tühjendatakse ka teie vestluseajalugu. See tähendab, et kõik Leoga peetud eelmised vestlused kustutatakse. Seda tegevust ei saa tagasi võtta.</translation>
++<translation id="3692772534525889713">Ühendage oma Play Store'i ost oma Kahf'i kontoga, et kasutada Kahf'i Leod teistes seadmetes.</translation>
+ <translation id="73236265316873967">Leo Premium</translation>
+ <translation id="1166682575529520472">Iga kuu</translation>
+ <translation id="451189393813405346">Küsi Leolt</translation>
